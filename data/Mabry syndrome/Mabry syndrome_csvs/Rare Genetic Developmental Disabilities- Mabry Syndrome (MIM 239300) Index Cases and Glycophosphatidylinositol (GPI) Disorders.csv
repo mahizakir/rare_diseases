@@ -1,0 +1,352 @@
+Perspective Rare Genetic Developmental Disabilities: Mabry Syndrome (MIM 239300)
+"Index Cases and Glycophosphatidylinositol (GPI) Disorders Miles D. Thompson 1,* and Alexej Knaus 2 1 Krembil Brain Institute, Toronto Western Hospital, 399 Bathurst Street, Toronto, ON M5T 2S8, Canada Institute for Genomic Statistics and Bioinformatics, University Hospital Bonn, University of Bonn, 53127 Bonn, Germany; knausa@unibonn.de *"
+Correspondence:
+miles.thompson@utoronto.ca
+"Abstract: The case report by Mabry et al. (1970) of a family with four children with elevated tissue nonspecific alkaline phosphatase, seizures and profound developmental disability, became the basis for phenotyping children with the features that became known as Mabry syndrome."
+"Aside from improvements in the services available to patients and families, however, the diagnosis and treatment of this, and many other developmental disabilities, did not change significantly until the advent of massively parallel sequencing."
+"As more patients with features of the Mabry syndrome were identified, exome and genome sequencing were used to identify the glycophosphatidylinositol (GPI) biosynthesis disorders (GPIBDs) as a group of congenital disorders of glycosylation (CDG)."
+"Biallelic variants of the phosphatidylinositol glycan (PIG) biosynthesis, type V (PIGV) gene identified in Mabry syndrome became evidence of the first in a phenotypic series that is numbered HPMRS16 in the order of discovery."
+HPMRS1
+[MIM: 239300] is the phenotype resulting from inheritance of biallelic PIGV variants.
+"Similarly, HPMRS2 (MIM 614749), HPMRS5 (MIM 616025) and HPMRS6 (MIM 616809) result from disruption of the PIGO, PIGW and PIGY genes expressed in the endoplasmic reticulum."
+"By contrast, HPMRS3 (MIM 614207) and HPMRS4 (MIM 615716) result from disruption of post attachment to proteins PGAP2 (HPMRS3) and PGAP3 (HPMRS4)."
+The GPI biosynthesis disorders (GPIBDs) are currently numbered GPIBD121.
+"Working with Dr. Mabry, in 2020, we were able to use improved laboratory diagnostics to complete the molecular diagnosis of patients he had originally described in 1970."
+We identified biallelic variants of the PGAP2 gene in the first reported HPMRS patients.
+We discuss the longevity of the Mabry syndrome index patients in the context of the utility of pyridoxine treatment of seizures and evidence for putative glycolipid storage in patients with HPMRS3.
+"From the perspective of the laboratory innovations made that enabled the identification of the HPMRS phenotype in Dr. Mabry’s patients, the need for treatment innovations that will benefit patients and families affected by developmental disabilities is clear."
+Keywords: case study; hyperphosphatasia with neurologic deficit (HPMRS); Mabry syndrome; glycophosphatidylinositol (GPI) biosynthesis disorder (GPIBD); whole exon sequencing; identity by descent filtering; whole genome sequencing; human phenotype ontology (HPO) analysis
+"Citation: Thompson, M.D.; Knaus, A. Rare Genetic Developmental Disabilities: Mabry Syndrome (MIM 239300)"
+Index Cases and Glycophosphatidylinositol (GPI) Disorders.
+"Genes 2024, 15, 619."
+https://doi.org/10.3390/ genes15050619 Academic Editor:
+Mariarosa Anna Beatrice Melone Received:
+4 March 2024 Revised: 8 April 2024
+Accepted: 9 April 2024
+Published: 14
+May 2024 1.
+Introduction Copyright: © 2024 by the authors.
+"Licensee MDPI, Basel, Switzerland."
+This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https:// creativecommons.org/licenses/by/ 4.0/).
+"The use of targeted panel whole exome sequencing (WES), whole genome sequencing (WGS), and increasingly, RNA sequencing (RNASeq) combined with WGS, have become the standard for identifying rare genetic developmental disabilities."
+"Even with these advances, as many as half of unexplained cases of developmental disability have no known genetic cause."
+"However, this represents a significant improvement from 2010, when the first gene for Mabry syndrome (HPMRS1 or GPIBD2; MIM 239300) was identified by Krawitz et al.."
+The subsequent advances in genomic diagnostics have had a profound impact on clinical genetics and genomic counselling.
+"By these means, novel disease Genes 2024, 15, 619."
+"https://doi.org/10.3390/genes15050619 https://www.mdpi.com/journal/genes genesG C A TT A C GG C A TGenes 2024, 15, 619 2 of 14 pathways have been identified, including the Glycophosphatidylinositol (GPI) biosynthesis pathway that is disrupted in at least 21 developmental disabilities."
+"Paroxysmal nocturnal hemoglobinuria (PNH), an acquired clonal blood disorder linked to somatic variants of the phosphatidylinositol glycan (PIG) type A (PIGA) gene, was the first disorder known to result from disruption of a GPI gene."
+"However, glycophosphatidylinositol deficiency, resulting from biallelic variants of the PIGM gene, encoding the first mannose transferase, was the first inherited phenotype for which germline biallelic variants encoding PIG enzymes were reported."
+"Subsequently, biallelic variants of the gene encoding the second mannose transferase, phosphatidylinositol glycan (PIG) biosynthesis, type V (PIGV), were identified in HPMRS1."
+Identity by descent (IBD) filtering of data from massively parallel sequencing enabled this discovery.
+"Since that time, laboratory diagnosis has become the definitive means of distinguishing rare developmental disabilities in many cases."
+"This has been facilitated by the number of exomes and genomes available for comparison (https://gnomad.broadinstitute.org/, accessed on 7 April 2024) as well as improved in silico prediction tools available for the analysis of likely pathogenic variants."
+HPMRS is a genetically heterogeneous syndrome.
+"Conventional genetic testing, including genebased or panelbased methods, may miss pathogenic variants."
+"Increasingly, WGS combined with RNAseq may be preferable to panel sequencing or WES to identify intronic and 3′UTR variants, since the latter may miss noncoding variants."
+"The advances made possible by improved variant detection and interpretation create pharmacogenomic opportunities for precision medicine to target an individual’s unique, rare variant."
+"Phenotyping The progress in neurogenetics, developmental disability genetics and genetic counselling of rare diseases can be illustrated by the fact that the 50th anniversary of the publication by Mabry et al. of the case report, ‘Familial hyperphosphatasia with mental retardation, seizures, and neurologic deficits (J. Pediatrics. 77 (1), 74–85) was marked by the identification of likely pathogenic variants in those index patients."
+This report of a family with four children who experienced a profound developmental disability provided the prototypic features of a rare disorder that enabled the discovery of a novel class of glycophosphatidylinositol (GPI) disorders.
+Dr. C. Charlton Mabry (Figure 1) phenotyped the patients at the University of Kentucky School of Medicine.
+His work became a significant resource for those who subsequently diagnosed and reported the syndrome.
+"This led to case series and the proposal that the syndrome be named Mabry syndrome (MIM 239300): https://www.youtube.com/watch?v=PlE0U0tRh3E, accessed on 7 April 2024."
+Figure 1.
+C. Carleton Mabry (1930–2021).
+Reproduced with permission from David Mabry.
+"Genes 2024, 15, x FOR PEER REVIEW 3 of 15 Figure 1. C. Carleton Mabry (1930–2021)."
+Reproduced with permission from David Mabry.
+"2. Genetic Heterogeneity of Mabry Syndrome As more patients with the Mabry syndrome triad of hypophosphatasia, seizures and developmental disability were identified and more exomes analyzed, the clinical and genetic heterogeneity of HPMRS became evident ; along with the fact that the majority of GPIBDs do not demonstrate hyperphosphatasia."
+"For example, the majority of patients with multiple congenital anomalies hypotonia and seizures, type 1 (MCAHS1; MIM 614080) and Fryn syndrome (MIM 229850), resulting from biallelic PIGN variants, do not demonstrate hyperphosphatasia."
+"The HPMRS phenotypes outlined below are numbered HPMRS16 in the order that each genotypephenotype correlation was made; however, due to space limitations, the references cited in the text are generally limited to the first reports implicating a specific gene in HPMRS."
+The nomenclature itemizing all 21 GPIBDs reflects the order in which the gene responsible for each was reported in the context of other GPIBDs.
+"As a group of related disorders, the GPIBDs may represent 0.15% of those with developmental disability, according to the Deciphering Developmental Disorders (DDD) study."
+"In addition to the PIGV variants identified in HPMRS1, pathogenic variants of at least three additional PIG genes expressed in the endoplasmic reticulum (ER) are also reported resulting in Mabry syndrome."
+HPMRS2
+"[MIM: 614749], or GPIBD6, was reported to result from biallelic variants of the gene encoding PIGO, the phosphoethanolamine transferase that transfers phosphoethanolamine to the third mannose."
+"HPMRS5 [MIM: 616025], or GPIBD11, was reported to result from biallelic variants of PIGW, the gene encoding an inositol acyltransferase that acylates the inositol ring of phosphatidylinositol."
+HPMRS6
+"[MIM: 616809], or GPIBD12, was reported to result from biallelic variants of PIGY, a gene that encodes a component of the GPIN-acetylglucosaminyltransferase (GIPGnT) complex which initiates biosynthesis."
+"Hyperphosphatasia has also been reported in at least some patients with other GPIBDs, including multiple congenital anomalies hypotonia and seizures, type 2 (MCAHS2; MIM 300868) and coloboma, congenital heart disease, ichthyosiform dermatosis, impaired intellectual development, and ear anomalies (CHIME; MIM 280000) syndrome."
+"MCAHS2, results from biallelic variants in PIGA, which encodes an enzyme involved in synthesis of Nacetylglucosaminyl phosphatidylinositol (GlcNAcPI), the first intermediate of the GPI anchor."
+"CHIME Genes 2024, 15, 619 3 of 14 2."
+"Genetic Heterogeneity of Mabry Syndrome As more patients with the Mabry syndrome triad of hypophosphatasia, seizures and developmental disability were identified and more exomes analyzed, the clinical and genetic heterogeneity of HPMRS became evident ; along with the fact that the majority of GPIBDs do not demonstrate hyperphosphatasia."
+"For example, the majority of patients with multiple congenital anomalies hypotonia and seizures, type 1 (MCAHS1; MIM 614080) and Fryn syndrome (MIM 229850), resulting from biallelic PIGN variants, do not demonstrate hyperphosphatasia."
+"The HPMRS phenotypes outlined below are numbered HPMRS16 in the order that each genotypephenotype correlation was made; however, due to space limitations, the references cited in the text are generally limited to the first reports implicating a specific gene in HPMRS."
+The nomenclature itemizing all 21 GPIBDs reflects the order in which the gene responsible for each was reported in the context of other GPIBDs.
+"As a group of related disorders, the GPIBDs may represent 0.15% of those with developmental disability, according to the Deciphering Developmental Disorders (DDD) study."
+"In addition to the PIGV variants identified in HPMRS1, pathogenic variants of at least three additional PIG genes expressed in the endoplasmic reticulum (ER) are also reported resulting in Mabry syndrome."
+HPMRS2
+"[MIM: 614749], or GPIBD6, was reported to result from biallelic variants of the gene encoding PIGO, the phosphoethanolamine transferase that transfers phosphoethanolamine to the third mannose."
+"HPMRS5 [MIM: 616025], or GPIBD11, was reported to result from biallelic variants of PIGW, the gene encoding an inositol acyltransferase that acylates the inositol ring of phosphatidylinositol."
+HPMRS6
+"[MIM: 616809], or GPIBD12, was reported to result from biallelic variants of PIGY, a gene that encodes a component of the GPIN-acetylglucosaminyltransferase (GIPGnT) complex which initiates biosynthesis."
+"Hyperphosphatasia has also been reported in at least some patients with other GPIBDs, including multiple congenital anomalies hypotonia and seizures, type 2 (MCAHS2; MIM 300868) and coloboma, congenital heart disease, ichthyosiform dermatosis, impaired intellectual development, and ear anomalies (CHIME; MIM 280000) syndrome."
+"MCAHS2, results from biallelic variants in PIGA, which encodes an enzyme involved in synthesis of Nacetylglucosaminyl phosphatidylinositol (GlcNAcPI), the first intermediate of the GPI anchor."
+"CHIME syndrome results from biallelic variants in PIGL, a gene encoding the enzyme catalyzing the second glycosylphosphatidylinositol (GPI) biosynthesis step, deN-acetylation of Nacetylglucosaminylphosphatidylinositol (GlcNAcPI)."
+"It should be noted, however, that a GPIBD only meets the criteria for HPMRS if there is a persistent, stable elevation of alkaline phosphatase."
+"In addition to the HPMRS phenotypes attributed to hypomorphic variants of PIG biosynthesis enzymes expressed in the ER, two phenotypes have been reported to result from variants of genes encoding enzymes expressed in the Golgi."
+Biallelic variants have been reported in two genes encoding postGPI attachment to proteins (PGAP) enzymes that act in the Golgi to stabilize membrane attachment of GPIanchored proteins (GPIAP).
+"HPMRS3 [MIM: 614207], or GPIBD8, has been associated with biallelic variants of PGAP2, a gene encoding a membrane protein required, during fattyacid remodeling, for reacylation of the GPIlyso intermediate with a saturated fatty acid, such as stearic acid."
+"HPMRS4 [MIM: 615716], or GPIBD10, has been associated with biallelic variants of PGAP3, the gene encoding a seven transmembrane protein that removes an unsaturated fatty acid from the sn2 position of GPI prior to reacetylation by PGAP2."
+"While disruption to the transfer of the nascent peptide to the GPI anchor by the transamidase complex is not commonly associated with hyperphosphatasia, the central pathogenic mechanism of HPMRS may be associated with a defect in ERGolgi transport."
+"Like Wolfram syndrome I (WFS1), ERGolgi transit defects may underlie HPMRS; although, the fact that they share few phenotypic features, suggests the distinct pathways that are involved. "
+"Genes 2024, 15, 619 4 of 14 Mabry Syndrome Index Cases"
+"As the spectrum of HPMRS phenotypes became evident, however, a molecular diagnosis of Dr. Mabry’s original patients seemed elusive, since they had been lost to follow up many decades previously."
+"Beginning in 2008, we proposed using emerging technologies to identify the pathogenic variant in the Mabry syndrome index cases."
+"However, it can be challenging to update records that predate the electronic era."
+The original case report was based on information collected as part of a mobile genetics unit from University of Kentucky that visited neighboring Tennessee.
+"This, in itself, reflects the challenges that families with developmentally disabled children faced in early days of Medicaid."
+"Although the records of the visits were easily identified, since the patients (Figure 2) were admitted to University of Kentucky on 5 November 1968, followup was initially not possible."
+Figure 2.
+"The original Mabry syndrome index cases, front row, from left: VI7 (born."
+"02/17/57; died 05/31/71), VI16 (born 06/27/58), and VI6 (born 10/30/55; died 10/19/85); back row: VI4 (born 03/29/52) and normal mother (V2) of VI4, -6 and -7."
+"Patient VI4 and patient VI16, photographed in Lexingon, Kentucky, were both homozygous for thec.881C > T, p. T294"
+M PGAP2 variants.
+"Adapted from Thompson et al., 2020."
+"Despite extensive searches, it was not until 2016, that Dr. Mabry located the surviving patients."
+"With support from the University of Kentucky, we obtained informed consent to visit the two surviving patients in their respective group homes in rural Appalachia."
+This resulted in a field trip in which we visited the original Mabry syndrome patients at their respective group homes.
+Figure 2 shows the appearance of these first cousins when originally examined in 1968 in the context of the pedigree.
+We conducted neurological evaluation and obtained samples for biochemical and genomic analysis.
+Figure 3 shows Dr. Mabry working with a patient.
+"Genes 2024, 15, x FOR PEER REVIEW 5 of 15 Figure 2."
+"The original Mabry syndrome index cases, front row, from left: VI7 (born."
+"02/17/57; died 05/31/71), VI16 (born 06/27/58), and VI6 (born 10/30/55; died 10/19/85); back row: VI4 (born 03/29/52) and normal mother (V2) of VI4, -6 and -7."
+"Patient VI4 and patient VI16, photographed in Lexingon, Kentucky, were both homozygous for thec.881C > T, p. T294"
+M PGAP2 variants.
+"Adapted from Thompson et al., 2020."
+"Despite extensive searches, it was not until 2016, that Dr. Mabry located the surviving patients."
+"With support from the University of Kentucky, we obtained informed consent to visit the two surviving patients in their respective group homes in rural Appalachia."
+This resulted in a field trip in which we visited the original Mabry syndrome patients at their respective group homes.
+Figure 2 shows the appearance of these first cousins when originally examined in 1968 in the context of the pedigree.
+We conducted neurological evaluation and obtained samples for biochemical and genomic analysis.
+Figure 3 shows Dr. Mabry working with a patient.
+Examination of patient 1VI-4 (born 03/29/52) and 1VI-16 (born 06/27/58) allowed the evaluation of the natural history of the disorder after nearly 50 years.
+Alkaline phosphatase levels remained elevated over the course of their lives.
+"During adulthood, however, 1VI-4 and 1VI-16 no longer experienced spontaneous seizures and were no longer administered anticonvulsants."
+"Unfortunately, the age at which this occurred appears not to have been documented."
+"We used exome GPI panel sequencing to identify biallelic c.881C > T PGAP2 variants, expressed as the hypomorphic PGAP2 c.698C > T, p."
+"Thr233Met isoform 8, that are likely pathogenic in patients with the syndrome Dr. Mabry originally reported."
+We were able to show that the variant PGAP2 was unable to rescue PGAP2 deficient cell lines.
+This evidence indicates that the Mabry syndrome index patients manifested HPMRS3 (GPIBD 8
+[MIM: 614207]). 
+"Genes 2024, 15, 619 5 of 14 Figure 3."
+Dr. Mabry working with a patient.
+Reproduced with permission from David Mabry.
+Examination of patient 1VI-4 (born 03/29/52) and 1VI-16 (born 06/27/58) allowed the evaluation of the natural history of the disorder after nearly 50 years.
+Alkaline phosphatase levels remained elevated over the course of their lives.
+"During adulthood, however, 1VI-4 and 1VI-16 no longer experienced spontaneous seizures and were no longer administered anticonvulsants."
+"Unfortunately, the age at which this occurred appears not to have been documented."
+We used exome GPI panel sequencing to identify biallelic c.881C >
+"T PGAP2 variants, expressed as the hypomorphic PGAP2 c.698C > T, p."
+"Thr233Met isoform 8, that are likely pathogenic in patients with the syndrome Dr. Mabry originally reported."
+We were able to show that the variant PGAP2 was unable to rescue PGAP2 deficient cell lines.
+This evidence indicates that the Mabry syndrome index patients manifested HPMRS3 (GPIBD 8
+[MIM: 614207]).
+These individuals retain motor control but are hypotonic.
+"It was clear at the time of examination that the phenotype of the two surviving patients has been relatively stable over time, with spontaneous remission of seizures taking place during adulthood."
+"This should be interpreted with caution, however, since two other persons affected in the index family died as a probable result of sudden unexpected death in epilepsy (SUDEP) in 10/19/85 and 05/31/71, despite anticonvulsant medication."
+3.
+Perspective
+"The knowledge that Mabry syndrome, results from biallelic inheritance of pathogenic variants that disrupt GPI pathway genes in the biosynthesis stage or the remodeling stage necessary for stable lipid raft association of GPIAPs now makes it possible to use WGS and/or RNASeq as a first line diagnostic method."
+3.1.
+Biosynthesis and Remodeling Phenotypes Human phenotype ontology (HPO) analysis has enabled us to better contrast HPMRS resulting from variants in biosynthesis and remodeling stages : potentially allowing better treatment plans to be developed.
+"HPO analysis, relying upon a standardized vocabulary of phenotypic abnormalities, has placed the hyperphosphatasia that distinguishes HPMRS from other GPIBDs in perspective."
+"In 2020, HPO analysis was used to analyze 58 published cases comprising 152 individual patients with GPIBDs impacting 22 genes."
+We tested the frequency of HPO terms associated with 1.
+"The stepwise GPIanchor biosynthesis, and 2. the transamidase and remodeling stage, as outlined in Figure 4."
+"Genes 2024, 15, x FOR PEER REVIEW 6 of 15 Figure 3."
+Dr. Mabry working with a patient.
+Reproduced with permission from David Mabry.
+These individuals retain motor control but are hypotonic.
+"It was clear at the time of examination that the phenotype of the two surviving patients has been relatively stable over time, with spontaneous remission of seizures taking place during adulthood."
+"This should be interpreted with caution, however, since two other persons affected in the index family died as a probable result of sudden unexpected death in epilepsy (SUDEP) in 10/19/85 and 05/31/71, despite anticonvulsant medication."
+3.
+Perspective
+"The knowledge that Mabry syndrome, results from biallelic inheritance of pathogenic variants that disrupt GPI pathway genes in the biosynthesis stage or the remodeling stage necessary for stable lipid raft association of GPIAPs now makes it possible to use WGS and/or RNASeq as a first line diagnostic method."
+3.1.
+Biosynthesis and Remodeling Phenotypes Human phenotype ontology (HPO) analysis has enabled us to better contrast HPMRS resulting from variants in biosynthesis and remodeling stages : potentially allowing better treatment plans to be developed.
+"HPO analysis, relying upon a standardized vocabulary of phenotypic abnormalities, has placed the hyperphosphatasia that distinguishes HPMRS from other GPIBDs in perspective."
+"In 2020, HPO analysis was used to analyze 58 published cases comprising 152 individual patients with GPIBDs impacting 22 genes."
+We tested the frequency of HPO terms associated with 1.
+"The stepwise GPIanchor biosynthesis, and 2. the transamidase and remodeling stage, as outlined in Figure 4. "
+"Genes 2024, 15, 619 6 of 14 Figure 4."
+"Glycosylphosphatidylinositol biosynthesis, transamidase and remodeling pathways."
+(A) Biosynthesis of mammalian GPI.
+The complete GPI precursor competent for attachment to proteins is synthesized in the ER from PI by stepwise reactions (1)–(11).
+Man4 side chain is attached in the ER to some GPI (step (12)).
+The preassembled GPI is en bloc transferred to proteins (step (13)).
+Genes involved in these reaction steps are shown.
+(B) Maturation of mammalian GPIAPs during ER–plasma membrane (PM) transport.
+"Nascent GPIAPs generated by the transfer of GPIs to proteins (step 12) undergo two reactions, inositoldeacylation (step 14) and removal of the EtNP side chain from Man2 (step 15) in the ER."
+The ER–Golgi transport of GPIAPs is mediated by COPIIcoated vehicles (step 16).
+"In the Golgi apparatus, GPIAPs undergo fatty acid remodeling (steps 17 and 18)."
+Some GPI anchors have a modified GalNAc side chain (steps 19–21).
+The mature GPI APs are transported to the PM where they are associated with raft microdomains.
+Genes involved in these reaction steps are shown below step numbers.
+Adapted from.
+"Reproduced with permission from Kinoshita, T., Open Biology; published by Elsevier, 2020."
+"Genes 2024, 15, x FOR PEER REVIEW 7 of 15 Figure 4."
+"Glycosylphosphatidylinositol biosynthesis, transamidase and remodeling pathways."
+(A) Biosynthesis of mammalian GPI.
+The complete GPI precursor competent for attachment to proteins is synthesized in the ER from PI by stepwise reactions (1)–(11).
+Man4 side chain is attached in the ER to some GPI (step (12)).
+The preassembled GPI is en bloc transferred to proteins (step (13)).
+Genes involved in these reaction steps are shown.
+(B) Maturation of mammalian GPIAPs during ER–plasma membrane (PM) transport.
+"Nascent GPIAPs generated by the transfer of GPIs to proteins (step 12) undergo two reactions, inositoldeacylation (step 14) and removal of the EtNP side chain from Man2 (step 15) in the ER."
+The ER–Golgi transport of GPIAPs is mediated by COPIIcoated vehicles (step 16).
+"In the Golgi apparatus, GPIAPs undergo fatty acid remodeling (steps 17 and 18)."
+Some GPI anchors have a modified GalNAc side chain (steps 19–21).
+The mature GPI APs are transported to the PM where they are associated with raft microdomains.
+Genes involved in these reaction steps are shown below step numbers.
+Adapted from.
+"Reproduced with permission from Kinoshita, T., Open Biology; published by Elsevier, 2020."
+"While we found statistically significant differences in the phenotypic spectrum of patients whose disease resulted from disruption of biosynthesis compared with those with disruption in the transamidase and remodeling pathways, skeletal abnormalities were Genes 2024, 15, 619 7 of 14 While we found statistically significant differences in the phenotypic spectrum of patients whose disease resulted from disruption of biosynthesis compared with those with disruption in the transamidase and remodeling pathways, skeletal abnormalities were significantly more likely to occur in patients with pathogenic variants in the synthesis stage of the biosynthetic pathway."
+These patients had a greater occurrence HPO terms (33%) that describe abnormal digit morphology.
+"Moreover, patients in the synthesis group were more likely to have abnormal muscle morphology, tendon morphology, and/or joint morphology compared with the transamidase and remodeling group."
+"By contrast, patients with pathogenic variants disrupting genes active in transamidase and remodeling had fewer incidences (6.7%) of abnormal digit morphology."
+"In particular, remodeling defects manifested diverse phenotypic abnormalities impacting bone and facial development and neurodevelopmental disabilities."
+3.2.
+"Characteristic Facial Gestalt Facial dysmorphism in patients with GPI anchor deficiency presents a complex array of distinctive features, often serving as a diagnostic hallmark of the condition."
+"Prominent features frequently observed in affected individuals include a broad nasal bridge, hypertelorism, lowset ears, micrognathia (small jaw), and a thin upper lip with a tented appearance and a smooth philtrum."
+"These facial characteristics, among others, are crucial indicators for clinicians in suspecting and diagnosing GPI anchor deficiency."
+Automated facial analysis has emerged as an indispensable tool in the accurate diagnosis of genetic conditions and has been applied multiple times in characterization of GPIBD patients.
+"While GPIBDs are considered pathway disorders, there exist facial characteristics that are specific to individual genes."
+"Hence, despite the common assumption of uniformity in appearance, automated facial analysis, for example by GestaltMatcher, enables more accurate gene assignment in GPI patients compared to experienced clinicians."
+"Furthermore, in GPIBD patients, ACMG criterion PP4 (characteristic facial gestalt as a “phenotypic match”) aids in better evaluating variants of unknown clinical significance (VUCs), enabling rapid and accurate diagnosis equivalent to functional characterization through flow cytometry."
+"This approach enhances variant interpretation, ensuring timely and precise diagnostic outcomes."
+3.3.
+"The Hyperphosphatasia Phenotype Along with facial dysmorphology and seizures, elevated tissue nonspecific alkaline phosphatase is one of the three cardinal signs of Mabry syndrome that typically has onset in the first year or two of life."
+"Using HPO analysis, we reported that hyperphosphatasia, was not strongly associated with either the synthesis or the remodeling phenotypes."
+Hyperphosphatasia did not excerpt a differential effect on the biochemical disruptions of the GPI pathway that result in different clinical manifestations but was an incidental consequence of disrupting two very different processes that take place in the ER and the Golgi.
+"This may have relevance to the successful treatment of some HPMRS patients, with pyridoxine hydrochloride (discussed in Section 4.1)."
+3.3.1.
+"Hyperphosphatasia Resulting from GPI Biosynthesis Disruption Hypomorphic variants of genes expressed in the ER (PIGV, PIGO, PIGW and PIGY)"
+"Disrupt the stepwise synthesis of the GPI anchor, resulting in an incomplete anchor."
+The mechanisms resulting in hyperphosphatasia differ according to the gene and portion of the pathway disrupted.
+"PIGV and PIGO variants are associated with reduced GPIAP surface levels and increased extracellular secretion into the extracellular space, resulting in hyperphosphatasia."
+This has been modelled as follows.
+The carboxyl terminal of the GPIattachment signal peptide of the nascent peptide anchors it in the ER membrane.
+"The proximity of the nascent peptide to an incomplete GPI anchor with at least one mannose may result in the recruitment of a portion of the transamidase, PIGU, that directs the catalytic subunit, PIGK, to to cleave the GPI recog- Genes 2024, 15, 619 8 of 14 nition sequence and liberate the nonGPI-anchored, soluble AP."
+"Although it has been hypothesized that early biosynthesis defects result in more degradation than secretion of AP, compared with later biosynthesis defects, the identification of pathogenic variants of PIGW and PIGY in HPMRS5 and HPMRS6, respectively, may suggest other mechanisms of hyperphosphatasia."
+3.3.2.
+"Hyperphosphatasia Resulting from Disruption of Fatty Acid Remodeling In the remodeling pathway, defects in fatty acid remodeling are known to result from two related disruptions."
+Pathogenic PGAP3 variants result in a hypomorphic GPIspecific phospholipase A2 that is unable to deacetylate the 2acyl unsaturated fatty acid.
+"This results in an unstable anchor, incompatible with lipid raft association, which is either released from a cell or degraded."
+"The unsaturated fatty acid is cleaved by phospholipase C, resulting in hyperphosphatasia."
+"By contrast, pathogenic PGAP2 variants are unable to reacetylate, with saturated stearic acid, the lysoGPI intermediate generated by the action of PGAP3."
+"Phospholipase D (PLD), in turn, cleaves the lysoGPI intermediate, resulting in transport of the unstable anchor, and it’s attached protein, alkaline phosphatase, to the extracellular compartment."
+4.
+"Following Up The syndrome, as Mabry et al. reported it, remains unmistakable in presentation, however, our molecular genetic work identifies areas for future study."
+"As a result of identifying the biallelic PGAP2 variants in the Mabry syndrome index patients, we gained insight into the phenotype that became the basis of all GPIBD studies."
+"The original case report and the identification of PGAP2 variants in these patients demonstrate the value of following patients over their lifespan, since considerable longevity is possible for patients with PGAP2 disease compared with patients known to have other likely pathogenic variants."
+Other fruitful areas of investigation include the following.
+4.1.
+Pyridoxine Responsiveness
+Although Mabry et al. did not report a pyridoxine challenge when the index patients were hospitalized.
+"Our followup identified biallelic PGAP2 NM_001256240.2:c.698C > T, p. Thr233Met results in the prototypical Mabry phenotype, however, we were not able to conduct a pyridoxine challenge."
+Recent data derived from other patients suggests that the biochemical disorder associated with biallelic pathogenic variants in PGAP2 may respond to 100 mg pyridoxine administered twice daily.
+"This work builds on foundational work that predates disease gene identification, showing that some Mabry syndrome patients respond to intravenous administration (IV) of pyridoxal hydrochloride."
+"The number of HPMRS phenotypes which may respond to pyridoxine, therefore, has been expanded to include PGAP2 ; although methods and results suggesting that PIGO, PIGW and PGAP3 deficiencies may be pyridoxine responsive are not consistent."
+The methodology reported by Messina et al. may be useful in clarifying these results.
+The authors report low cerebrospinal fluid (CSF) levels of pyridoxal phosphate and 5methyltetrahydrofolate and raised homovanillic acid may be reversed by pyridoxine and that the patient’s speech and fine motor skills improve.
+A clinical trial may be needed to evaluate pyridoxine responsiveness in HPMRS.
+"Interestingly, the fact that other GPIBD patients, including those with pathogenic PIGL and PIGS variants, may be pyridoxine responsive indicates the possible benefit of pyridoxine trials to other GPIBDs."
+"Future studies should consider standardizing the dosing, since epileptic seizures responding to pyridoxine are often reported with respect to doses of 100 mg pyridoxal hydrochloride I.V., 30 mg/kg/day pyridoxal hydrochloride orally or 50–85 mg/kg/day pyridoxal 5′phosphate (PLP) administered orally."
+"In this context, it would be useful to compare the dose, route of administration and vitamer species that produces seizure suppression in 50% of patients with various GPIBDs, as well as its Genes 2024, 15, 619 9 of 14 impact on CSF levels of pyridoxal hydrochloride, 5methyltetrahydrofolate and raised homovanillic acid."
+The putative mechanism of pyridoxine’s anticonvulsant effect In Mabry syndrome may be as follows.
+Hyperphosphatasia may result in decreased availability of pyridoxal 5′phosphate pyridoxine for transport across the bloodbrain barrier due to increased alkaline phosphatase.
+This putative insufficiency may result in decreased synthesis of the inhibitory γ amino butyric acid (GABA): resulting in seizures.
+Pyridoxine administration may overcome the effects of increased alkaline phosphatase and suppress seizures as GABA levels are restored (Figure 5).
+Figure 5.
+Vitamin B6 metabolism and alkaline phosphatase.
+Different forms of pyridoxine (P) are absorbed from the gastrointestinal tract (GI).
+"Pyridoxine 5′phosphate (P5′P) is converted to pyridoxal (PL) in the blood, which can be transported across the blood brain barrier, where neuronal alkaline phosphatase acts to reform the metabolically active P5′P form in the CNS."
+Adapted from Thompson et al..
+4.2.
+"Putative Glycolipid Storage By contrast, it remains to be resolved if the putative glycolipid storage material reported by Mabry et al. remains stable throughout the disorder’s natural history or, for that matter, was an artifact of the tissue preparation used at the time."
+"We suggest that if the data in the original report is verified (Figure 6), the putatively stored material might be identified using mass spectrographic analysis."
+It seems plausible that it may represent a portion of glycolipid comprising all or part of the glycolipid GPI anchor that is stored as a result of a possible ERGolgi transit defect.
+Figure 6.
+Electron micrograph of macrophages showing evidence of stored material.
+"(A) Mabry syndrome index case (HPMRS3), m, mitochondria; er, endoplasmic reticulum; n, nucleus, c. stored material."
+"Reproduced with permission from Mabry et al., J. Pediatrics; published by Elsevier, 1970."
+"(B) HPMRS4 case, n, nucleus, * stored material."
+Adapted from Thompson et al..
+4.3.
+"Model Organisms If confirmed, putative glycolipid storage may provide a useful therapeutic endpoint in developing future treatments."
+"Although transgenic GPIBD mice, such as PIGV CrisprCas9 and adenoassociated virus (AVV) generated PIGO mice, are available, no Genes 2024, 15, x FOR PEER REVIEW 10 of 15 The putative mechanism of pyridoxine’s anticonvulsant effect In Mabry syndrome may be as follows."
+Hyperphosphatasia may result in decreased availability of pyridoxal 5′phosphate pyridoxine for transport across the bloodbrain barrier due to increased alkaline phosphatase.
+This putative insufficiency may result in decreased synthesis of the inhibitory γ amino butyric acid (GABA): resulting in seizures.
+Pyridoxine administration may overcome the effects of increased alkaline phosphatase and suppress seizures as GABA levels are restored (Figure 5).  
+Figure 5.
+Vitamin B6 metabolism and alkaline phosphatase.
+Different forms of pyridoxine (P) are absorbed from the gastrointestinal tract (GI).
+"Pyridoxine 5′phosphate (P5′P) is converted to pyridoxal (PL) in the blood, which can be transported across the blood brain barrier, where neuronal alkaline phosphatase acts to reform the metabolically active P5′P form in the CNS."
+Adapted from Thompson et al..
+4.2.
+"Putative Glycolipid Storage By contrast, it remains to be resolved if the putative glycolipid storage material reported by Mabry et al. remains stable throughout the disorder’s natural history or, for that matter, was an artifact of the tissue preparation used at the time."
+"We suggest that if the data in the original report is verified (Figure 6), the putatively stored material might be identified using mass spectrographic analysis."
+It seems plausible that it may represent a portion of glycolipid comprising all or part of the glycolipid GPI anchor that is stored as a result of a possible ERGolgi transit defect.  
+Figure 6.
+Electron micrograph of macrophages showing evidence of stored material.
+"(A) Mabry syndrome index case (HPMRS3), m, mitochondria; er, endoplasmic reticulum; n, nucleus, c. stored material."
+"Reproduced with permission from Mabry et al., J. Pediatrics; published by Elsevier, 1970."
+"(B) HPMRS4 case, n, nucleus, * stored material."
+Adapted from Thompson et al..
+4.3.
+"Model Organisms If confirmed, putative glycolipid storage may provide a useful therapeutic endpoint in developing future treatments."
+"Although transgenic GPIBD mice, such as PIGV CrisprCas9 and adenoassociated virus (AVV) generated PIGO mice, are available, no storage material has been reported that might be used in preclinical work."
+"It is likely that, even if present in some models or patients, that storage material may be associated with Genes 2024, 15, x FOR PEER REVIEW 10 of 15 The putative mechanism of pyridoxine’s anticonvulsant effect In Mabry syndrome may be as follows."
+Hyperphosphatasia may result in decreased availability of pyridoxal 5′phosphate pyridoxine for transport across the bloodbrain barrier due to increased alkaline phosphatase.
+This putative insufficiency may result in decreased synthesis of the inhibitory γ amino butyric acid (GABA): resulting in seizures.
+Pyridoxine administration may overcome the effects of increased alkaline phosphatase and suppress seizures as GABA levels are restored (Figure 5).  
+Figure 5.
+Vitamin B6 metabolism and alkaline phosphatase.
+Different forms of pyridoxine (P) are absorbed from the gastrointestinal tract (GI).
+"Pyridoxine 5′phosphate (P5′P) is converted to pyridoxal (PL) in the blood, which can be transported across the blood brain barrier, where neuronal alkaline phosphatase acts to reform the metabolically active P5′P form in the CNS."
+Adapted from Thompson et al..
+4.2.
+"Putative Glycolipid Storage By contrast, it remains to be resolved if the putative glycolipid storage material reported by Mabry et al. remains stable throughout the disorder’s natural history or, for that matter, was an artifact of the tissue preparation used at the time."
+"We suggest that if the data in the original report is verified (Figure 6), the putatively stored material might be identified using mass spectrographic analysis."
+It seems plausible that it may represent a portion of glycolipid comprising all or part of the glycolipid GPI anchor that is stored as a result of a possible ERGolgi transit defect.  
+Figure 6.
+Electron micrograph of macrophages showing evidence of stored material.
+"(A) Mabry syndrome index case (HPMRS3), m, mitochondria; er, endoplasmic reticulum; n, nucleus, c. stored material."
+"Reproduced with permission from Mabry et al., J. Pediatrics; published by Elsevier, 1970."
+"(B) HPMRS4 case, n, nucleus, * stored material."
+Adapted from Thompson et al..
+4.3.
+"Model Organisms If confirmed, putative glycolipid storage may provide a useful therapeutic endpoint in developing future treatments."
+"Although transgenic GPIBD mice, such as PIGV CrisprCas9 and adenoassociated virus (AVV) generated PIGO mice, are available, no storage material has been reported that might be used in preclinical work."
+"It is likely that, even if present in some models or patients, that storage material may be associated with Genes 2024, 15, 619 10 of 14 storage material has been reported that might be used in preclinical work."
+"It is likely that, even if present in some models or patients, that storage material may be associated with specific pathogenic variants or genetic backgrounds."
+"However, with further phenotyping of HPMRS mouse models, evidence of increased ER stress causing aggregation of GPIanchor and/or other proteins may be identified, as reported in WFS mice."
+"In the case of WFS mice, the potential of WFS1 to delay or block neurodegeneration may suggest future work in HPMRS mice; although the relative stability of HPMRS phenotypes, such as hypotonia and seizures, suggest divergent pathologies."
+4.4.
+GPIAP Targets A complementary approach to identifying potential targets for interdicting GPIBD variant pathology derives from the study of GPIAP functions.
+HPO analysis has suggested that 12 of the 142 APs selected for study were associated with 25 of the 34 HPO terms describing GPIBDs.
+"Moreover, this study showed that GPIGlypicans (GPC3 and 6) were associated with 25 of 34 HPO terms describing GPIAPs."
+GPC3 alone was associated with phenotypes of 6 transamidase and remodeling phenotypes.
+"Of interest, more than one syndrome is associated with Glypican disruption, directly or indirectly."
+"For example, SimpsonGolabi-Behmel overgrowth syndrome and SaulWilson syndrome have Glypican involvement."
+"In particular, in SaulWilson syndrome, a rare skeletal dysplasia, Glypicans accumulate on fibroblasts."
+The role of fibroblast growth factor 2 (FGFR2) in acting as a coreceptor in with Glypican for fibroblast growth factor (FGF) further supports the role of these GPIAP interactions in development and developmental disability.
+"FGFR2, itself, is associated with 15 of 16 HPO terms describing transamidase + remodeling."
+"In this context, it is notable that FGFR2 itself is associated with Pfeiffer and Crouzon syndromes."
+Further study of these pathways in HPMRS mouse models and human cell lines may be informative.
+"5. Conclusions Due to advances in laboratory diagnostics as well as efforts in deep phenotyping, we are now able to offer much better genetic counselling and treatment recommendations for Mabry syndrome patients and families."
+Models of HPMRS16 will provide the means of testing future treatments for these and other GPIBDs.
+"Together with improved diagnostics, improved treatment outcomes will increase longevity and quality of life for many patients."
+"From the current perspective, then, the innovations made possible through the efforts of Mabry et al. to diagnose one family are relevant not only to thousands of GPIBD patients worldwide but those with developmental disabilities generally as well as other rare mendelian disorders."
+"Author Contributions: Conceptualization, formal analysis, original draft, M.D.T. Data curation, formal analysis, review and editing, A.K."
+All authors have read and agreed to the published version of the manuscript.
+Funding:
+This research received no external funding.
+Institutional Review Board Statement: Not applicable.
+Informed Consent Statement: Not applicable.
+Data Availability Statement: Not applicable.
+Acknowledgments:
+We thank the patients and families with HPMRS who participated in the work described in this ‘perspective’.
+Conflicts of Interest: The author declares no conflicts of interest. 
+"Genes 2024, 15, 619"

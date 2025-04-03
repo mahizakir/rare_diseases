@@ -1,0 +1,258 @@
+"Review Ca2+-Sensitive Potassium Channels Razan Orfali 1,* and Nora Albanyan 2 Biomedical Research Administration, Research Centre, King Fahad Medical City, Riyadh 12231, Saudi Arabia 2 Clinical Pharmacy Administration, King Fahad Medical City, Riyadh 12231, Saudi Arabia * Correspondence: rorfali@kfmc.med.sa"
+Abstract: The Ca2+ ion is used ubiquitously as an intracellular signaling molecule due to its high external and low internal concentration.
+Many Ca2+-sensing ion channel proteins have evolved to receive and propagate Ca2+ signals.
+"Among them are the Ca2+-activated potassium channels, a large family of potassium channels activated by rises in cytosolic calcium in response to Ca2+ inﬂux via Ca2+-permeable channels that open during the action potential or Ca2+ release from the endoplasmic reticulum."
+The Ca2+ sensitivity of these channels allows internal Ca2+ to regulate the electrical activity of the cell membrane.
+"Activating these potassium channels controls many physiological processes, from the ﬁring properties of neurons to the control of transmitter release."
+"This review will discuss what is understood about the Ca2+ sensitivity of the two beststudied groups of Ca2+-sensitive potassium channels: largeconductance Ca2+-activated K+ channels, KCa1.1, and small/intermediateconductance Ca2+-activated K+ channels, KCa2.x/KCa3.1."
+Keywords: Ca2+-activated potassium channels; KCa 1.1; KCa2.x and KCa3.1 channels; Ca2+ sensitivity; channelopathies 1.
+Introduction Ca2+ is essential for the survival and functioning of all living cells.
+"It is an important signaling molecule that crosses membranes, acting as a homeostatic regulator for both intracellular and extracellular ﬂuid."
+"Ca2+ regulates a wide range of functions in all types of cells, involving several ion channels."
+"Ca2+ ions offer ultimate properties in size, charge, availability, and ionization potential, allowing them to ﬂow rapidly, yet simultaneously, bind deeply."
+"Thus, calcium might be considered the prominent intracellular signaling molecule, as it is involved in numerous physiological processes such as neurotransmission, muscle contraction, the regulation of gene expression, fertilization, and mitosis."
+Unique among these Ca2+ regulatory processes are the Ca2+ sensitive ion channels or Ca2+- activated ion channels.
+The gating of these channels is modulated by Ca2+-sensing proteins such as calmodulin CaM.
+CaM is characterized by its ability to bind and release Ca2+ over the physiological Ca2+ concentrations.
+It undergoes a signiﬁcant conformational change in Ca2+ binding and consequently regulates these speciﬁc ion channels to modify their function.
+"Therefore, the physiological roles and functions of these channels can be affected by changes in intracellular Ca2+ concentration."
+"Some Ca2+-sensitive ion channels include Ca2+-activated anion (Cl−) channels, Ca2+-regulated nonselective cation channels, and Ca2+-activated K+ channels."
+Here we will elaborate on the Ca2+-sensing mechanisms of the Ca2+-activated K+ channels.
+Potassium channels are the most diverse and abundantly expressed ion channels in living organisms.
+These channels are expressed in the most excitable and nonexcitable cells.
+They perform various vital functions and can be classiﬁed into several different groups.
+"Among these groups are the Ca2+-activated potassium channels (KCa channels), a large family of potassium channels activated by rises in cytosolic Ca2+."
+"Over the last two decades, advances have been made in KCa channel research, including the channels’ functions, expression, pharmacology, and genetic mutations associated with Citation: Orfali, R.; Albanyan, N. Ca2+-Sensitive Potassium Channels."
+"Molecules 2023, 28, 885."
+https:// doi.org/10.3390/molecules28020885 Academic Editor: ManKyo Chung Received: 23 December 2022 Revised: 7 January 2023
+Accepted: 10 January 2023
+Published: 16 January 2023
+Copyright: © 2023 by the authors.
+"Licensee MDPI, Basel, Switzerland."
+This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https:// creativecommons.org/licenses/by/ 4.0/).
+"Molecules 2023, 28, 885."
+"https://doi.org/10.3390/molecules28020885 https://www.mdpi.com/journal/molecules molecules 2023, 28, 885 2 of 10 channelopathies."
+The family of KCa channels shares a typical functional role by coupling the increase in intracellular Ca2+ concentration to the hyperpolarization of the membrane potential.
+"Thus, KCa channels are critical for maintaining K+ homeostasis and cell volume."
+"Additionally, KCa channels modulate several physiological processes, from neuron ﬁring properties to transmitter release control."
+"KCa channels can be divided into three main subfamilies based on their singlechannel conductance, SK or KCa2 (small conductance; ∼4–14 pS), IK or KCa3.1 (intermediate conductance; ∼32–39 pS), and BK or KCa1.1 (large conductance; ∼200–300 pS) channels."
+K Ca1.1 channels are activated by intracellular Ca2+ and membrane voltage synergistically.
+"However, K Ca2x and K Ca3.1 are gated solely by internal Ca2+ ions and are more sensitive to Ca2+ than K Ca1.1 channels."
+"KCa2 includes three smallconductance KCa2channel subtypes, KCa2.1 (SK1), KCa2.2 (SK2), and KCa2.3 (SK3)."
+The Ca2+-binding sites and Ca2+-binding afﬁnities are signiﬁcantly different among these channel groups.
+KCa1.1 directly binds Ca2+ and has a very low Ca2+-binding afﬁnity associated with the regulator of conductance of K+ (RCK) Ca2+-binding domains (1–11 µM).
+"In contrast, KCa2.x and KCa3.1 channels share the calmodulinmediated gating mechanism with a high Ca2+- binding afﬁnity due to the constitutive binding of calmodulin (300–600 nM)."
+KCa1.1 and KCa2/3 channels show minimal sequence homology.
+"The latter’s S4 segment comprises fewer charged residues than the S4 segment of KCa1.1, which results in a lack of voltage dependence in KCa2/3 channels, enabling them to remain open at negative membrane potentials and thus hyperpolarize the membrane toward values near the K+ equilibrium potential."
+"Each type of KCa channel shows distinct pharmacology, and the activity of each hyperpolarizes the membrane potential."
+"Here we will discuss these unique potassium ion channels and their sensitivity to Ca2+, aiming to understand the mechanisms behind Ca2+-dependent regulation."
+2. Ca2+-Activated KCa1.1 Channels Largeconductance Ca2+-activated K+ (BKCa) channels are activated under dual control by both calcium and the membrane voltage (membrane depolarization).
+"The calcium dependence of these channels changes steeply according to membrane potentials, with the calcium Kd in the micromolar range at resting membrane potentials (~–60 mV) but in the nanomolar range at depolarized potentials (+20 to +40 mV)."
+"Remarkably, these channels can open in the absence of calcium, and it seems that the effects of calcium and membrane potential are independent processes that both increase the open probability."
+"While the voltage dependence of these channels is quite weak compared to the other purely voltagegated potassium channels, the voltage dependence of KCa1.1 enables them to act as coincidence detectors, which is central to their physiological function."
+These channels are expressed on the plasma membrane as tetramers of α subunits.
+The gene encoding the α subunit (slo; KCNMA1) of KCa1.1 channels (KCa1.1; slo1) was cloned in the early 1990s from Drosophila.
+KCa1.1 channels are widely distributed in various cells and regulate Ca2+ inﬂux and many Ca2+-dependent physiological processes.
+2.1.
+"Expression and Physiology of KCa1.1 Channels In neurons, the activation of KCa1.1 channels repolarizes the membrane and reduces Ca2+ inﬂux into the cells."
+KCa1.1 channels participate in numerous physiological processes via the modulation of membrane excitability and Ca2+ homeostasis.
+"Examples include modulating neurotransmitter release, regulating vascular and respiratory tone, neurovascular coupling, endocrine secretion, and urinary bladder tone."
+KCa1.1 channels control hormonal secretion by altering the duration and frequency of action potentials.
+The main functions of KCa1.1 channels in neurons are to generate fast afterhyperpolarization after an action potential.
+"In neurovascular coupling, KCa1.1 channels umpire most of the dilation and the entire vasoconstriction in astrocytic end feet."
+"In retinal circulation, KCa1.1channels are contributed to the regulation of retinal blood ﬂow via the action of several vasodilators in the endothelium and vascular Molecules 2023, 28, 885 3 of 10 smooth muscle."
+A recent study has shown that administering a KCa1.1 channel activator (BMS191011) to male Wistar rats improved retinal circulation.
+"In the urinary system, KCa1.1 channels have been reported in various renal cell types, such as urinary bladder smooth muscle cells, glomerular mesangial cells, afferent arterioles, and podocytes in the Bowman’s capsule."
+"It has been demonstrated that KCa1.1 channels provide negative feedback, preventing contractions induced by agonists."
+"Moreover, several segments of the distal convoluted tubules of the nephron have been shown to express KCa1.1 channels that are suggested to contribute to the volume regulation in the distal convoluted tubules of the nephron."
+The list continues with numerous studies identifying enormous regulatory physiologi- cal mechanisms.
+KCa1.1 channels may serve as a potential target (Figure 1).
+Figure 1.
+"Expression and Physiology of the KCa2x, KCa3.1, and KCa1.1 channels."
+2.2. KCa1.1
+Channels Structure KCa1.1 channels are composed of four poreforming subunits (α) encoded by the Slo1 gene or KCNMA1 in mammals.
+The Slo1 gene undergoes alternative splicing leading to a high degree of functional diversity in the KCa1.1 channels.
+"Each α (Slo1) subunit contains three main domains: a voltage sensor domain (S0–S4), a poregate domain (S5–S6), and a long intracellular Cterminal cytosolic region, which functions as a Ca2+ sensor domain."
+"KCa1.1 channels are also coassembling and prominently impacted by diverse auxiliary subunits, including β (β14), γ (γ14), and LINGO1 subunits that give rise to the existence of distinct KCa1.1 channel phenotypes with diverse functionality."
+"The Ca2+ sensor domain comprises two nonidentical domains (i.e., RCK1 and RCK2), which contain highafﬁnity binding Ca2+ sites (Ca2+ bowl) that have been implicated in the direct gating of the channel."
+The KCa1.1β-subunits have been shown to affect the Ca2+ sensitivity of the KCa1.1 channel gating.
+"Thus, due to these structural features, the KCa1.1 channel is characterized by unique biophysical properties, including ion permeation, gating, and modulation by diverse ligands and intracellular molecules."
+Cryogenic electron microscopy (cryoEM) has begun to provide crucial structural and biophysical insights into the KCa1.1 channel gating.
+Structure–function studies of KCa1.1 channels are needed to provide a better understanding of these channels in search of novel compounds to treat diverse KCa1.1associated pathologies (Figure 2A).
+"Molecules 2023, 28, x FOR PEER REVIEW 3 of 10 fast afterhyperpolarization after an action potential."
+"In neurovascular coupling, KCa1.1 channels umpire most of the dilation and the entire vasoconstriction in astrocytic end feet."
+"In retinal circulation, KCa1.1channels are contributed to the regulation of retinal blood flow via the action of several vasodilators in the endothelium and vascular smooth muscle."
+A recent study has shown that administering a KCa1.1 channel activator (BMS191011) to male Wistar rats improved retinal circulation.
+"In the urinary system, KCa1.1 channels have been reported in various renal cell types, such as urinary bladder smooth muscle cells, glomerular mesangial cells, afferent arterioles, and podocytes in the Bowman’s capsule."
+"It has been demonstrated that KCa1.1 channels provide negative feedback, preventing contractions induced by agonists."
+"Moreover, several segments of the distal convoluted tubules of the nephron have been shown to express KCa1.1 channels that are suggested to contribute to the volume regulation in the distal convoluted tubules of the nephron."
+The list continues with numerous studies identifying enormous regulatory physiological mechanisms.
+KCa1.1 channels may serve as a potential target (Figure 1).  
+Figure 1.
+"Expression and Physiology of the KCa2x, KCa3.1, and KCa1.1 channels."
+2.2. KCa1.1
+Channels Structure KCa1.1 channels are composed of four poreforming subunits (α) encoded by the Slo1 gene or KCNMA1 in mammals.
+The Slo1 gene undergoes alternative splicing leading to a high degree of functional diversity in the KCa1.1 channels.
+"Each α (Slo1) subunit contains three main domains: a voltage sensor domain (S0S4), a poregate domain (S5S6), and a long intracellular Cterminal cytosolic region, which functions as a Ca2+ sensor domain."
+"KCa1.1 channels are also coassembling and prominently impacted by diverse auxiliary subunits, including β (β14), γ (γ14), and LINGO1 subunits that give rise to the existence of distinct KCa1.1 channel phenotypes with diverse functionality."
+"The Ca2+ sensor domain comprises two nonidentical domains (i.e., RCK1 and RCK2), which contain highaffinity binding Ca2+ sites (Ca2+ bowl) that have been implicated in the direct gating of the channel."
+The KCa1.1β-subunits have been shown to affect the Ca2+ sensitivity of the KCa1.1 channel gating.
+"Thus, due to these structural features, the KCa1.1 channel is characterized by unique biophysical properties, including ion permeation, gating, and modulation by diverse ligands and intracellular molecules. "
+"Molecules 2023, 28, 885 4 of 10 Figure 2."
+Diagram of the general KCa1.1 and KCa2.x channel structure.
+"(A) Schematic channel topology of one KCa 1.1 αsubunit, including the poregate domain between (S5–S6) and a Cterminal cytosolic region that functions as a Ca2+ sensor constituted by two nonidentical domains (RCK1 and RCK2), which contain highafﬁnity binding Ca2+ sites (Ca2+ bowl) and several domains for multiple ligands or cations such as Mg2+."
+"(B) Schematic channel topology of one KCa2.x αsubunit, including the CaM that serves as the KCa2.x and KCa3.1 channel’s Ca2+ sensor."
+A and B were generated using Biorender.com. 2.3.
+Channelopathies of KCa1.1 Channels Channelopathies are conditions caused by pathogenic alterations in ion channel activity that disrupt homeostasis and physiological functions.
+"With advances in wholeexome sequencing (WES), various monogenetic channelopathies are now diagnosable."
+"However, the molecular basis of these mutations and how they produce clinical phenotypes remains unclear."
+"Because of the small number of patients and the lack of genetic pedigree analysis, we have a limited understanding of channelopathies."
+Alterations in the activity of KCa1.1 channels were demonstrated in several channelopathies.
+"Human KCNMA1 mutations are primarily linked with neurological conditions, such as seizures, developmental delay, movement disorders, and intellectual disability."
+"KCNMA1 mutations are also associated with several other pathologies, including diabetes, atherosclerosis, hypertension, and cardiac hypertrophy."
+"These mutations involve gainof-function (GOF) and lossof-function (LOF) alterations in KCa1.1 channel activity, together with several variants of unknown signiﬁcance (VUS)."
+"Evidence suggests that the mutation alterations of the KCa1.1 channel may associate with semidistinct patient symptoms, such as paroxysmal nonkinesigenic dyskinesia (PNKD) with GOF and ataxia with LOF."
+KCa1.1 channel dysfunction can also lead to urinary incontinence and an overactive bladder.
+Data has already suggested that the deletion of the KCa1.1 gene has been associated with progressive hearing loss.
+Other results indicated that losing the KCa1.1 channel leads to erectile dysfunction.
+"Though most KCNMA1 mutations are de novo in origins, additional evidence is needed to establish causality in most cases."
+"Additionally, GOF and LOF in KCa1.1 channels are linked with overlapping symptoms."
+"However, it is unclear whether selective agonists or antagonists that correct the level of KCa1.1 channel activity will produce the desired outcome on neuronal activity."
+3. Ca2+-Activated KCa 2.x Channels KCa2.x channels are members of the voltageinsensitive calciumactivated potassium channel family that are stimulated by the elevation of the cytosolic calcium concentration.
+"Upon activation, KCa2.x channels allow K+ ions to leave the cell as a function of the difference between the depolarized cell and the K+ equilibrium potentials."
+"KCa2.x subunits are encoded by the KCNN1 (KCa2.1; SK1), KCNN2 (KCa2.2; SK2), and KCNN3 (KCa2.3; SK3) genes, while IKα (KCa3.1; SK4) are encoded by the KCNN4 gene."
+"Molecules 2023, 28, x FOR PEER REVIEW 4 of 10 Cryogenic electron microscopy (cryoEM) has begun to provide crucial structural and biophysical insights into the KCa1.1 channel gating."
+Structure–function studies of KCa1.1 channels are needed to provide a better understanding of these channels in search of novel compounds to treat diverse KCa1.1associated pathologies (Figure 2A).  
+Figure 2.
+Diagram of the general KCa1.1 and KCa2.x channel structure.
+"(A) Schematic channel topology of one KCa 1.1 αsubunit, including the poregate domain between (S5–S6) and a Cterminal cytosolic region that functions as a Ca2+ sensor constituted by two nonidentical domains (RCK1 and RCK2), which contain highaffinity binding Ca2+ sites (Ca2+ bowl) and several domains for multiple ligands or cations such as Mg2+."
+"(B) Schematic channel topology of one KCa2.x αsubunit, including the CaM that serves as the KCa2.x and KCa3.1 channel’s Ca2+ sensor."
+A and B were generated using Biorender.com. 2.3.
+Channelopathies of KCa1.1 Channels Channelopathies are conditions caused by pathogenic alterations in ion channel activity that disrupt homeostasis and physiological functions.
+"With advances in wholeexome sequencing (WES), various monogenetic channelopathies are now diagnosable."
+"However, the molecular basis of these mutations and how they produce clinical phenotypes remains unclear."
+"Because of the small number of patients and the lack of genetic pedigree analysis, we have a limited understanding of channelopathies."
+Alterations in the activity of KCa1.1 channels were demonstrated in several channelopathies.
+"Human KCNMA1 mutations are primarily linked with neurological conditions, such as seizures, developmental delay, movement disorders, and intellectual disability."
+"KCNMA1 mutations are also associated with several other pathologies, including diabetes, atherosclerosis, hypertension, and cardiac hypertrophy."
+"These mutations involve gainof-function (GOF) and lossof-function (LOF) alterations in KCa1.1 channel activity, together with several variants of unknown significance (VUS)."
+"Evidence suggests that the mutation alterations of the KCa1.1 channel may associate with semidistinct patient symptoms, such as paroxysmal nonkinesigenic dyskinesia (PNKD) with GOF and ataxia with LOF."
+KCa1.1 channel dysfunction can also lead to urinary incontinence and an overactive bladder.
+Data has already suggested that the deletion of the KCa1.1 gene has been associated with progressive hearing loss.
+Other results indicated that losing the KCa1.1 channel leads to erectile dysfunction.
+"Though most KCNMA1 mutations are de novo in origins, additional evidence is needed to establish causality in most cases."
+"Additionally, GOF and LOF in KCa1.1 channels are linked with overlapping symptoms."
+"However, it is unclear whether selective agonists or antagonists that correct the level of KCa1.1 channel activity will produce the desired outcome on neuronal activity.  "
+"ABS1S2S3S4S5S6HAHBCa+2PLoopS4-S5 LinkerS1S2S3S4S5S6PLoopS0NH2COO-COONH2RCK1RCK2Ca+2Mg+2OutInCaMBK Channel (KCa1.1)SK & IK Channel (KCa2.x & KCa3.1 )Molecules 2023, 28, 885 5 of 10 3.1."
+Expression and Physiology of KCa 2.x Channels The three subtypes of KCa2.x channels (KCa2.1–3) are expressed in many areas of the central nervous system and are involved in afterhyperpolarization upon activation.
+"In the cerebellum, KCa2.2 is the primary channel subtype expressed in Purkinje cells and has a crucial role in the Purkinje cell peacemaking."
+"Furthermore, KCa2.x channels are expressed on the neuronal plasma membrane and are suggested to exert neuroprotective effects by modulating the ﬁring pattern of dopaminergic neurons."
+"In dopaminergic neurons, KCa2.x channels were determined on the membrane of mitochondria and, upon activation, were suggested to prevent mitochondrial dysfunction."
+"In the cardiovascular system, KCa2.x subtypes are expressed in the atrial and ventricular walls and play essential roles in regulating the activity of atrial myocytes."
+"KCa2.3 and KCa3.1 are predominant subtypes expressed in endothelial cells and play a crucial role in vasodilation, which is mediated by an endotheliumderived hyperpolarizing factor (EDHF)."
+The diversity of KCa2.x physiological roles are widened due to numerous splicing variants in different tissues (Figure 1).
+3.2.
+KCa 2.x Channels Structure All three KCa2.x subtypes and KCa3.1 form tetrameric channels and are between 553 and 580 amino acids long.
+"The α subunits of these channels comprise six transmembrane helices (S1–S6), the pore region between helices S5 and S6), and cytosolic N- and Cterminal domains."
+Their biophysical characteristics are their independence from membrane voltage because they have lost most of the positively charged residues commonly associated with voltagedependent gating.
+Low intracellular Ca2+ concentrations activate KCa2.x channels through a unique calmodulin (CaM) gating mechanism.
+(Figure 2B).
+3.3.
+"Channelopathies of KCa 2.x Channels The discovery of mutations in genes encoding K+ channel subunits has provided unique insights into the pathophysiology of human disorders affecting the central nervous system, heart, kidney, and other organs."
+"Decreased or increased activity of KCa channels caused by lossof-function (LOF) and gainof-function (GOF) variants in the corresponding genes, respectively, underlies a broad spectrum of human channelopathies."
+There are no known genetic disorders associated with KCa2.1 channels in humans.
+While neurodevelopmental disorders such as cerebellar ataxia and tremor are associated with lossof-function KCa2.2 mutations.
+"The GOF mutations of KCa2.3 are linked with the Zimmermann–Laband syndrome (ZLS) and have also been associated with an idiopathic noncirrhotic portal hypertension (INCPH),"
+"In one study, CAG repeat polymorphism in KCNN3 was linked to schizophrenia."
+"On the other hand, another study found that a mutation of the KCa2.3 channel gene (L283fs287X) results in the deletion of the protein Nterminal region identiﬁed in schizophrenic patients."
+These resulting mutant KCa2.3 channels were found to dominantly suppress KCa2.3 channel currents (LOF mutation).
+"It has been reported that GOF mutations of KCa3.1 are linked with a subset of hereditary xerocytosis (HX) (OMIM 194380), which is an autosomal dominant congenital hemolytic anemia characterized by erythrocyte dehydration."
+4. Ca2+- Sensitivity of KCa Channels The intracellular Ca2+ concentration and membrane potential are important metabolic parameters for all organisms.
+"Ca2+ is involved in numerous physiological processes, including muscle contraction, the regulation of gene expression, neurotransmission, mitosis, and fertilization."
+Ca2+-sensitive ion channels allow for crosstalk between chemical and electrical systems and the feedback control of Ca2+ entry into the cells.
+The unique Ca2+-activated potassium channels are best known for enabling changes in intracellular Ca2+ concentration to inﬂuence neuronal ﬁring patterns and the strength of muscle contraction.
+KCa2.x/KCa3.1 are voltageindependent and are activated by low intracellular Ca2+ concentrations.
+"Re- Molecules 2023, 28, 885 6 of 10 markably, KCa 2.x and KCa3.1 display similar Ca2+ sensing properties (Ca2+ doseresponse relationships) and respond rapidly to changes in Ca2+ with time constants of 5–15 ms."
+Ca2+-binding protein calmodulin (CaM) serves as the KCa2.x and KCa3.1 channel’s Ca2+ sensor (Figure 2B).
+"KCa1.1 channels are both Ca2+ and voltageactivated, and their sensitivity to voltage and intracellular Ca2+ are prominently inﬂuenced by their association with auxiliary and nonpore-forming modulatory β (β14), γ (γ14), and LINGO1 subunits."
+Sitedirected-mutagenesis experiments have led to understanding the KCa1.1 channel’s Ca2+ binding sites.
+The KCa1.1 structure (Figure 2A) displayed shows that each α subunit contains a pair of RCK domains in the Cterminus portion where the Ca2+ bowl resides.
+"The KCa1.1 Ca2+ gating interface is made by the intersubunit assembly interface, and mutational analyses studies of the putative interacting residues in human BK channels discovered that E955 is a determinant of Ca2+ sensitivity through intersubunit electrostatic interactions."
+These ﬁndings proved that the intersubunit assembly interface contains molecular determinants of Ca2+ sensitivity in KCa1.1 channels.
+"Recently, the Cryoelectron-microscopy structures of the entire KCa1.1 channel have signiﬁcantly advanced our understanding of Ca2+ sensing mechanisms."
+"Therefore, a tremendous effort has been devoted to developing small molecules targeting KCa channels."
+These small molecules could modulate KCa channels positively or negatively by inﬂuencing the apparent Ca2+ sensitivity of these channels.
+We have recently investigated how the KCa2.x channel’s apparent Ca2+ sensitivity is regulated and found that the hydrophobic interactions between the HA helix and S4S5 linker regulate the KCa2.x channel’s apparent Ca2+ sensitivity.
+"The methods utilized were sitedirected mutagenesis, patchclamp recordings, and molecular dynamic (MD) simulations."
+The observations determined that mutations that decrease hydrophobicity at the HAS4–S5 interface led to Ca2+ hyposensitivity of KCa2.x channels.
+The mutation that increases hydrophobicity results in hypersensitivity to Ca2+ (Figure 3).
+"These studies are based on the apparent Ca2+ sensitivity of the amino acid sequences of KCa2.x, which disclosed several differences between their channel subtypes."
+More studies are needed for the potential drug development for channelopathy disorders.
+Figure 3.
+The regulation of KCa2. X Channels’ Ca2+ sensitivity.
+"Genetic mutations encoding KCa channels change their apparent Ca2+ sensitivity and lead to subsequent LOF, a decrease in Ca2+ sensitivity, or GOF, and Ca2+ hypersensitivity of these channels have been directly linked to many human diseases."
+"Lossof-function KCa2.2 mutations are associated with neurodevelopmental disorders, such as ataxias and tremors."
+Gainof-function of KCa2.3 mutations is associated with the Zimmermann– Laband syndrome (ZLS) and idiopathic noncirrhotic portal hypertension (INCPH).
+"In contrast, GOF KCa3.1 mutations are linked with hereditary xerocytosis (HX)."
+"Molecules 2023, 28, x FOR PEER REVIEW 7 of 10 channel type uses a unique molecular mechanism to regulate its Ca2+ gating."
+"Sitedirected mutagenesis, in silico modeling, and electrophysiology have proven to make powerful tools in studying Ca2+-dependent gating that leads to the development of more selective biophysical and pharmacological approaches for the KCa channelopathy.  "
+Figure 3.
+The regulation of KCa2. X Channels’ Ca2+ sensitivity.
+The hydrophobic interactions between the HA helix and S4–S5 linker regulate the KCa2.x channel’s apparent Ca2+ sensitivity.
+5.
+Summary Sensitive KCa channels reviewed as Table 1.  
+Table 1.
+Sensitive KCa channels reviewed.  
+KCa1.1 KCa2.x KCa3.1
+"Expression Neurons vascular, respiratory, endocrine, retinal circulation, glomerular mesangial cells, and podocytes."
+"Neurons, heart, and vascular endothelium."
+"Microglia, lung epithelia, GI epithelia, T cells, and red blood cells."
+Mechanism Activated by both Ca2+ and Voltage.
+Activated by low intracellular Ca2+ concentrations (Voltageindependent).
+Ca2+ binding sites Two intracellular Ca2+-sensing RCK domains (RCK1 and RCK2).
+Ca2+- binding (CaM).
+Ca2+ sensitivity Regulation
+The intersubunit assembly interface contains molecular determinants of Ca2+- sensitivity in KCa1.1 channels.
+Hydrophobic interactions between the HA helix and S4S5 linker regulate the KCa2.x/KCa3.1 channel’s apparent Ca2+ sensitivity.
+"Channelopathies Neurological disorders, diabetes, atherosclerosis, hypertension, cardiac hypertrophy, paroxysmal nonkinesigenic dyskinesia (PNKD), ataxia, hearing loss, urinary incontinence and overactive bladder.  "
+Cerebellar ataxia and tremor are associated with LOF KCa2.2 mutations.
+"The GOF mutations of KCa2.3 are linked with (ZLS) and (INCPH), and schizophrenia.  "
+The GOF mutations of KCa3.1 are linked with a subset of (HX).
+Funding:
+This research received no external funding.
+Institutional Review Board Statement: Not applicable.
+Informed Consent Statement: Not applicable.
+Data Availability Statement: Not applicable. 
+"Molecules 2023, 28, 885 7 of 10 Human KCNMA1linked channelopathy mutations are primarily associated with neurological conditions, including movement disorders, seizures, and intellectual disability."
+These mutations comprise GOF and LOF alterations in KCa1.1 channel activity and some variants of unknown signiﬁcance (VUS).
+"Over the past decade, a great effort has been devoted to the Ca2+ sensing mechanisms of Ca2+-activated K+ channels."
+Each channel type uses a unique molecular mechanism to regulate its Ca2+ gating.
+"Sitedirected mutagenesis, in silico modeling, and electrophysiology have proven to make powerful tools in studying Ca2+-dependent gating that leads to the development of more selective biophysical and pharmacological approaches for the KCa channelopathy."
+The hydrophobic interactions between the HA helix and S4–S5 linker regulate the KCa2.x channel’s apparent Ca2+ sensitivity.
+5.
+Summary Sensitive KCa channels reviewed as Table 1.
+Table 1.
+Sensitive KCa channels reviewed.
+"KCa1.1 KCa2.x KCa3.1 Neurons vascular, respiratory, endocrine, retinal circulation, glomerular mesangial cells, and podocytes."
+Activated by both Ca2+ and Voltage.
+Two intracellular Ca2+-sensing RCK domains (RCK1 and RCK2).
+The intersubunit assembly interface contains molecular determinants of Ca2+- sensitivity in KCa1.1 channels.
+"Neurological disorders, diabetes, atherosclerosis, hypertension, cardiac hypertrophy, paroxysmal nonkinesigenic dyskinesia (PNKD), ataxia, hearing loss, urinary incontinence and overactive bladder."
+"Neurons, heart, and vascular endothelium."
+"Microglia, lung epithelia, GI epithelia, T cells, and red blood cells."
+Activated by low intracellular Ca2+ concentrations (Voltageindependent).
+Ca2+- binding (CaM).
+Hydrophobic interactions between the HA helix and S4S5 linker regulate the KCa2.x/KCa3.1 channel’s apparent Ca2+ sensitivity.
+Cerebellar ataxia and tremor are associated with LOF KCa2.2 mutations.
+"The GOF mutations of KCa2.3 are linked with (ZLS) and (INCPH), and schizophrenia."
+The GOF mutations of KCa3.1 are linked with a subset of (HX).
+Funding:
+This research received no external funding.
+Institutional Review Board Statement: Not applicable.
+Informed Consent Statement: Not applicable.
+Data Availability Statement: Not applicable.
+Acknowledgments: We would like to thank the research center at king Fahad medical city.
+Special thanks go to Ali Alfaiz for his support and contribution.
+We are grateful to Rawan Orfali and Toleen Alrijraji for their technical assistance.
+Conﬂicts of Interest: The authors declare no conﬂict of interest.
+"Expression Mechanism Ca2+ binding sites Ca2+ sensitivity Regulation Channelopathies Molecules 2023, 28, 885"

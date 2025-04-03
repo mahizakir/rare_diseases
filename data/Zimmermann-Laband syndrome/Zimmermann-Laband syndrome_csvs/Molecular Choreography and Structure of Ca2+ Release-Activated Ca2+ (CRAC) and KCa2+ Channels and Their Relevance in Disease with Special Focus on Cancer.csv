@@ -1,0 +1,496 @@
+"Review Molecular Choreography and Structure of Ca2+ ReleaseActivated Ca2+ (CRAC) and KCa2+ Channels and Their Relevance in Disease with Special Focus on Cancer Adéla Tiﬀner and Isabella Derler * Institute of Biophysics, JKU Life Science Center, Johannes Kepler University Linz, A4020 Linz, Austria; adela.tiﬀner@jku.at * Correspondence: isabella.derler@jku.at Received: 4 November 2020; Accepted: 7 December 2020;"
+Published: 15 December 2020 signal transduction processes are governed by Ca2+
+Abstract: Ca2+ ions play a variety of roles in the human body as well as within a single cell.
+Cellular Ca2+ transporting proteins.
+"In this review, we discuss the Ca2+ -sensing ion channels with particular focus on the structurefunction relationship of the Ca2+ (CRAC) ion channel, the Ca2+ (KCa2+) ion channels, and their modulation via other cellular components."
+"Moreover, we highlight their roles in healthy signaling processes as well as in disease with a special focus on cancer."
+"As KCa2+ channels are activated via elevations of intracellular Ca2+ levels, we summarize the current knowledge on the action mechanisms of the interplay of CRAC and KCa2+ ion channels and their role in cancer cell development."
+"Releaseactivated Ca2+ sensing and Ca2+ and the Ca2+ -activated K Keywords: STIM1; Orai1; CRAC channels; storeoperated channel activation (SOCE), Ca2+ channels (KCa2+), SK3; SK3Orai1 interplay -activated 1."
+Introduction Ion channels form hydrophilic pores in the cell membrane and allow selective permeation of ions of appropriate size and charge across the membrane down their electrochemical gradient.
+This process is accomplished via diverse intrinsic ion channel gating mechanisms in response to a speciﬁc stimulus like a change in the membrane potential or binding of a neurotransmitter.
+"Hence, electrical or chemical stimulation of ion channels leads to their transient opening."
+The plethora of cell functions is fulﬁlled by the action of single ion channels and their interplay with a variety of other cellular components.
+"They are often clustered in signal complexes in the membrane, known as signalplexes, to enable eﬃcient signal transduction."
+"Moreover, the interplay of diﬀerent kinds of ion channels is crucial for proper cell function, a diversity of essential intracellular signaling cascades and downstream processes such as proliferation, diﬀerentiation, motility, and apoptosis."
+"Dysfunctions of ion channels can lead to a diversity of diseases, for instance of the nervous system or the muscle, and thus, have been called channelopathies."
+"In addition to defects in ion channel function, altered expression levels or interplay of ion channels strongly correlates with pathological characteristics and can provoke various extents of diverse channelopathies."
+"This is the case for certain Ca2+ -regulated ion channels, which are the focus of this review."
+"In the following, we initially highlight the role of Ca2+ ions in the cell."
+"Membranes 2020, 10, 425; doi:10.3390/membranes10120425 www.mdpi.com/journal/membranes membranes(cid:1)(cid:2)(cid:3)(cid:1)(cid:4)(cid:5)(cid:6)(cid:7)(cid:8)(cid:1)(cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:7)Membranes 2020, 10, 425 2 of 61 2. Ca2+ Signaling Calcium (Ca2+ signals."
+"There are two major sources for Ca2+) ions are universal and remarkably versatile secondary messengers that control a plethora of cellular functions and processes including gene transcription, proliferation, and cell migration."
+"They govern major steps throughout the cell’s life cycle deﬁning whether the cell should live, divide, move, or die."
+They trigger fundamental biological processes such as the release of neurotransmitters of neurons or inﬂammatory mediators of immune cells.
+"At resting conditions, the cytosolic Ca2+ −7 M."
+"This ensures a vast dynamic range of elevated Ca2+ concentrations necessary and triggers a diversity of cellular Ca2+]i) is kept at very low basal levels around 10 concentration ([Ca2+ transporters, Ca2+ as the endoplasmic reticulum (ER) or the mitochondria, that can deplete stored Ca2+ and on the other hand, the extracellular side of the cell from where Ca2+ response to a specific signal."
+"Alterations in the cellular Ca2+ signaling proteins including Ca2+ Ca2+ -storage proteins, and Ca2+ govern the respective cellular processes in a celltype-specific manner."
+"Ca2+ form of global calcium oscillations, waves or shortlived local Ca2+ in the cell: on the one hand intracellular compartments, such into the cytosol ions can enter into the cell in levels are tightly controlled by a set of Ca2+ -binding proteins, -dependent effectors."
+"They act with highly spatiotemporal dynamics to signals often occur in the sparks, spikes or flickers."
+"Defects in the cellular Ca2+ homeostasis due to dysfunction or changes in the occurrence of one of these molecular key players in Ca2+ signal transduction can be responsible for severe immune deﬁciencies, neuronal diseases or heart problems."
+"Moreover, altered Ca2+ signaling can lead to various cancers by regulating one or more of the known cancer hallmarks such as sustained proliferation signals, apoptosis resistance, evading growth suppressors, induction of angiogenesis, replicative immortality, tissue invasion, and metastasis cancer hallmarks."
+"Regulated ion channels, Ca2+ A detailed picture of the working mechanisms of Ca2+ new therapeutic and preventive methods against diseases related to the respective Ca2+ proteins."
+"Signaling molecules is essential to develop regulated In the following sections, we highlight the functionally relevant key structures and activation mechanisms of Ca2+ -sensitive ion channels, speciﬁcally, the calcium releaseactivated calcium (CRAC) channel and the Ca2+ ion channels (KCa2+), individually as well as when they interplay or -activated K act in synergy."
+Detailed knowledge of the precise working mechanisms of individual ion channels provides novel directions to enhance our understanding of their coregulation and to characterize so far elusive molecular determinants for their interplay.
+"Thus, a basis for the development of more speciﬁc therapeutic strategies against diverse diseases such as cancer can be established."
+Calcium Ion Channels conduct Ca2+ permeates from areas with higher Ca2+ Ca2+ ions down the electrochemical gradient without the use of energy.
+"Generally, Ca2+ concentrations, such as the extracellular space or the intracellular stores (ER), to those with lower Ca2+ concentration like the cytoplasm."
+"Ca2+ ion channels are either located in the plasma membrane or the membrane of intracellular organelles, such as the ER, mitochondria, or lysosomes."
+"Most prominent Ca2+ ion channels represent voltagegated channels (VGCC), ligandgated channels (LGC), storeoperated channels (SOC), transient receptor potential channels (TRP), and mechanically gated channels."
+There is accumulating evidence that some members of those ion channel families are located in intracellular organelles.
+"Moreover, wellknown Ca2+ ion channels in the intracellular stores include for instance the inositol trisphosphate receptor (IP3R) or the mitochondrial Ca2+ uniporter (MCU)."
+"This large variety of Ca2+ signals a multitude of essential events in a cell’s life including gene expression, secretion, proliferation, diﬀerentiation, or migration."
+"Furthermore, they control a plethora of healthy processes such as muscle contraction, neuronal function, and immune cell function."
+"Thus, it is not surprising, ion channels governs via highly speciﬁc Ca2+ Membranes 2020, 10, 425 3 of 61 that defects in those signals can cause neuronal diseases, immune deﬁciencies, and cancer invasion."
+"Among this variety of Ca2+ channels, the focus in this review is laid on the SOC family, speciﬁcally the calcium releaseactivated calcium (CRAC) channel."
+3. CRAC Channels releaseactivated Ca2+
+"In nonexcitable cells, storeoperated (SOC) channels manifest a primary route for Ca2+ entry (SOCE) into the cell."
+"Among SOC channels, Ca2+ (CRAC) channels are most prominent."
+"They are constituted by the ERlocated Ca2+ -sensing stromal interaction molecule STIM1 and the Orai Ca2+ ion channel in the plasma membrane, an oligomeric complex of Orai subunits."
+"The family of STIM proteins includes STIM1 and STIM2, while the Orai family contains Orai1, Orai2, and Orai3."
+"Brieﬂy, CRAC channel activation is initiated upon Ca2+ depletion from the internal stores, which can occur via IP3R (Figure 1)."
+"The reduction in the Ca2+ concentration is detected via STIM1, which, subsequently undergoes a conformational change, oligomerizes, forms junctions toward the plasma membrane and activates the highly Ca2+ -selective ion channel, Orai1."
+Figure 1.
+The CRAC channel activation pathway and downstream signaling processes.
+The scheme represents the activation pathways in the mast cell after the binding of a ligand to a receptor at the extracellular side.
+"Activation of phospholipase C and generation of IP3 leads to storedepletion, activation of STIM1 and subsequent STIM1/Orai1 coupling."
+"Ca2+ inﬂux that occurs upon Orai1 opening mediates downstream signaling cascades that can lead to gene transcription or release of inﬂammatory mediators such as histamines, eicosanoids, and cytokines."
+"Orai1 and STIM1 trigger together primarily immune cell function, however, they are furthermore involved in the regulation of a diversity of other healthy processes in the human body (Figure 1)."
+"Moreover, STIM1 and Orai1 are upregulated in cancer cells and to trigger their development and growth."
+3.1. STIM Proteins
+"In addition to the two homologs STIM1 and STIM2, additional splice variants STIM1L and STIM2.1, STIM2.3 are currently known."
+"Structurally, STIM proteins represent singlepass transmembrane proteins with the Nterminus embedded in the ER lumen."
+"There, they detect ﬂuctuations of Ca2+ levels and respond to those changes via conformational rearrangements to trigger Orai1 activation, mediating SOCE."
+"The STIM1 protein is sensitive to more drastic changes in luminal Ca2+ levels with = 200 µM, compared to STIM2, which detects smaller changes of Ca2+ the dissociation constant, Kd concentrations (Kd = 500 µM)."
+"Membranes 2020, 10, x; doi: 3 of 59 signals can cause neuronal diseases, immune deficiencies, and cancer invasion."
+"Among this variety of Ca2+ channels, the focus in this review is laid on the SOC family, specifically the calcium releaseactivated calcium (CRAC) channel."
+3.
+"CRAC Channels In nonexcitable cells, storeoperated (SOC) channels manifest a primary route for Ca2+ entry (SOCE) into the cell."
+"Among SOC channels, Ca2+ releaseactivated Ca2+ (CRAC) channels are most prominent."
+"They are constituted by the ERlocated Ca2+-sensing stromal interaction molecule STIM1 and the Orai Ca2+ ion channel in the plasma membrane, an oligomeric complex of Orai subunits."
+"The family of STIM proteins includes STIM1 and STIM2, while the Orai family contains Orai1, Orai2, and Orai3."
+"Briefly, CRAC channel activation is initiated upon Ca2+ depletion from the internal stores, which can occur via IP3R (Figure 1)."
+"The reduction in the Ca2+ concentration is detected via STIM1, which, subsequently undergoes a conformational change, oligomerizes, forms junctions toward the plasma membrane and activates the highly Ca2+-selective ion channel, Orai1."
+"Orai1 and STIM1 trigger together primarily immune cell function, however, they are furthermore involved in the regulation of a diversity of other healthy processes in the human body (Figure 1)."
+"Moreover, STIM1 and Orai1 are upregulated in cancer cells and to trigger their development and growth.  "
+Figure 1.
+The CRAC channel activation pathway and downstream signaling processes.
+The scheme represents the activation pathways in the mast cell after the binding of a ligand to a receptor at the extracellular side.
+"Activation of phospholipase C and generation of IP3 leads to storedepletion, activation of STIM1 and subsequent STIM1/Orai1 coupling."
+"Ca2+ influx that occurs upon Orai1 opening mediates downstream signaling cascades that can lead to gene transcription or release of inflammatory mediators such as histamines, eicosanoids, and cytokines."
+3.1. STIM Proteins
+"In addition to the two homologs STIM1 and STIM2, additional splice variants STIM1L and STIM2.1, STIM2.3 are currently known."
+"Structurally, STIM proteins represent singlepass transmembrane proteins with the Nterminus embedded in the ER lumen."
+"There, they detect fluctuations of Ca2+ levels and respond to those changes via conformational rearrangements to trigger Orai1 activation, mediating SOCE."
+"The STIM1 protein is sensitive to more drastic changes in luminal Ca2+ levels with the dissociation constant, Kd = 200 μM, compared to STIM2, which detects smaller changes of Ca2+ concentrations (Kd = 500 μM).  "
+"STIM1 as well as STIM2 plays an indispensable role in the immune system and are expressed in diverse primary lymphocytes such as Th, TC, and Bcells."
+"Nevertheless, they have been Membranes 2020, 10, 425 4 of 61 STIM1 as well as STIM2 plays an indispensable role in the immune system and are expressed in diverse primary lymphocytes such as Th, TC, and Bcells."
+"Nevertheless, they have been detected to be widely spread in a variety of other tissues."
+"High STIM1 levels have been reported for the heart, skeletal muscle, and the central nervous system."
+"Meanwhile, there is clear evidence that STIM1 proteins occur in a variety of cancer types, such a breast, cervical, glioblastoma, and colorectal cancers."
+"STIM1 Structure The STIM1 protein is composed of 685 aa containing crucial regions specialized for Ca2+ sensing, the establishment of its quiescent or active state and Orai1 coupling (Figure 2a)."
+The STIM1 luminal part consists of a signal peptide (aa: 1–22) at the beginning of the Nterminus which ensures its translocation to the ER.
+"The EF hand region (aa: 63–128) senses Ca2+ ﬂuctuations in the submillimolar range and includes two EF hand motifs, a canonical (c, aa: 63–96) and a noncanonical (n, aa: 97–128) one."
+"The cEF hand coordinates the Ca2+ binding, whereas the nEF hand stabilizes the structure of the cEF hand."
+Negatively charged aspartates and glutamates within the cEF hand have been suggested to be involved in Ca2+ binding (Figure 2b).
+"The EF hand is connected to a sterile αmotif (SAM, aa: 132–200) via a short helical structure."
+The SAM domain forms a ﬁve αhelix bundle structure essential for store depletioninduced puncta formation.
+"Under resting conditions, hydrophobic interactions between the EF hand region and the SAM domain establish the EFSAM complex (Figure 2b)."
+The Nterminus is followed by the single TM domain (aa: 212–234) of STIM1.
+It contains three glycine residues that provide structural ﬂexibility to allow conformational changes upon STIM1 activation (Figure 2a).
+The STIM1 Cterminus (aa: 238–685) is indispensable for the coupling to the Orai1 channel.
+"The Cterminus consists of three coiledcoil domains (CC1 aa: 238–337, CC2 aa: 345–391, and CC3 aa 393–437), the inhibitory (aa: 470–491) or CRAC modulatory domain (aa: 474–485), the Ser/Prorich region (aa: 600–629) and the lysinerich region (aa: 672–685)."
+"Diverse minimal fragments such as the Orai1activating small fragment (OASF, aa: 233–474), the CRACactivating domain (CAD, aa: 342–448), the coiledcoil domain containing region b9 (Ccb9, aa: 339–444), and the STIM Oraiactivating region (SOAR, aa: 344–442) have revealed that CC2 and an extended portion of CC3 are suﬃcient for Orai activation (Figure 2a)."
+"Among the structural resolutions of STIM1, the structure of CC1, the coiledregion after the TM, is available."
+It has been reported to contain an inhibitory helix potentially involved in the maintenance of the STIM1 quiescent state (Figure 2c).
+"Moreover, the SOARlike fragments (aa: 354–444 and, aa: 312–387) have been structurally resolved."
+"Both Cterminal fragments appear in a dimeric assembly, however, their overall conformation is distinct."
+"In detail, two monomers of the SOARlike fragment aa: 354–444 resembling the capital letter “R” form the Vshaped dimer."
+"The monomers of the aa: 312–387 structure show one kink between CC1 and CC2 and cross each other in an antiparallel manner (Figure 2d,e)."
+"The monomers of the aa: 354–444 fragment consist of four αhelices, α1 (α1, (aa: 345–391), α2, (aa: 393–398), α3, (aa: 400–403), and α4, (aa: 408–437))."
+"The ﬁrst helix, α1 functions as the STIMOrai association pocket (SOAP)."
+α2 and α3 are involved in the coupling to and gating of Orai1.
+"Under resting conditions, α4 is proposed to keep STIM1 in the quiescent state via an interaction with STIM1 CC1."
+"The latter is released upon storedepletion, and then α4 contributes to STIM1 oligomerization and clustering."
+"The STIM1 Cterminal fragment aa 312–387 resolved via NMR unveils a hydrophobic binding pocket for coupling to Orai1 Cterminus, with both, the rear portion of CC1 and the CC2 contributing to it (Figure 2d,e). "
+"Membranes 2020, 10, 425 5 of 61 Figure 2."
+The structural features of Stromal interaction molecule 1 (STIM1).
+(a) Scheme displays the fulllength human STIM1 with highlighted regions critical for the regulation of the STIM1/Orai1 signaling cascade.
+"Important fragments, such as OASF, Ccb9, CAD, and SOAR are further shown as insets."
+(b) The highresolution EFSAM domain structure of human STIM1 loaded with a Ca2+ ion (red sphere) is displayed.
+The residues with proposed Ca2+ -binding ability are highlighted.
+(c) The crystal structure of STIM1 CC1inhibitory helix domain with the critical residues maintaining the STIM1 quiescent state are presented.
+(d) The NMR structure of a STIM1 CC1α3CC2 dimer with the two monomers coupled in an antiparallel manner.
+Each monomer is bent with a sharp kink between the two coiledcoil domains.
+"(e) The crystallographic structure of the STIM1 SOAR dimer, forming a Vshape."
+"A single monomer comprises CC2 and CC3 domains and resembles the capital letter, “R.” Residues that represent potential interaction sites within the dimer and those mediating coupling to Orai1 are highlighted."
+Left inset: Magniﬁed view of amino acids involved in dimer interactions between the Nterminal portion of the ﬁrst SOAR monomer and the Cterminal portion of the second SOAR monomer.
+3.2.
+Orai Proteins All three Orai homologues represent highly Ca2+ -selective ion channels expressed in the plasma membrane.
+"Currently, available crystal and cryoEM structures from Drosophila melanogaster Orai (dOrai) have revealed a hexameric stoichiometry."
+The high homology of the transmembrane domains (TMs) of dOrai and human Orai1 (hOrai1) suggests that hOrai1 forms a similar hexameric assembly.
+Each Orai subunit is composed of four transmembrane (TM) domains connected via two extracellular loops and one intracellular loop (Figure 3a).
+"Both, N- and Ctermini are located in the cytosol."
+"Among all the three isoforms, the TM domains are highly conserved, whereas the cytosolic Membranes 2020, 10, x; doi: 4 of 59 detected to be widely spread in a variety of other tissues."
+"High STIM1 levels have been reported for the heart, skeletal muscle, and the central nervous system."
+"Meanwhile, there is clear evidence that STIM1 proteins occur in a variety of cancer types, such a breast, cervical, glioblastoma, and colorectal cancers."
+"STIM1 Structure The STIM1 protein is composed of 685 aa containing crucial regions specialized for Ca2+ sensing, the establishment of its quiescent or active state and Orai1 coupling (Figure 2a)."
+The STIM1 luminal part consists of a signal peptide (aa: 1–22) at the beginning of the Nterminus which ensures its translocation to the ER.
+"The EF hand region (aa: 63–128) senses Ca2+ fluctuations in the submillimolar range and includes two EF hand motifs, a canonical (c, aa: 63–96) and a noncanonical (n, aa: 97–128) one."
+"The cEF hand coordinates the Ca2+ binding, whereas the nEF hand stabilizes the structure of the cEF hand."
+Negatively charged aspartates and glutamates within the cEF hand have been suggested to be involved in Ca2+ binding (Figure 2b).
+"The EF hand is connected to a sterile αmotif (SAM, aa: 132–200) via a short helical structure."
+The SAM domain forms a five αhelix bundle structure essential for store depletioninduced puncta formation.
+"Under resting conditions, hydrophobic interactions between the EF hand region and the SAM domain establish the EFSAM complex (Figure 2b).  "
+Figure 2.
+The structural features of Stromal interaction molecule 1 (STIM1).
+(a) Scheme displays the fulllength human STIM1 with highlighted regions critical for the regulation of the STIM1/Orai1 signaling cascade.
+"Important fragments, such as OASF, Ccb9, CAD, and SOAR are further shown as insets."
+(b) The highresolution EFSAM domain structure of human STIM1 loaded with a Ca2+ ion (red sphere) is displayed.
+The residues with proposed Ca2+-binding ability are highlighted.
+(c) The crystal structure of STIM1 CC1inhibitory helix domain with the critical residues maintaining the STIM1 quiescent state are presented.
+(d) The NMR structure of a STIM1 CC1α3CC2 dimer with the two monomers coupled in an antiparallel manner.
+Each monomer is bent with a sharp kink between the two coiledcoil domains.
+"(e) The crystallographic structure of the STIM1 SOAR dimer, forming a Vshape."
+"A single monomer comprises CC2 and CC3 domains and resembles the capital letter, “R.” Membranes 2020, 10, 425 6 of 61 strands and connecting loops exhibit major structural diﬀerences."
+"Moreover, we propose an isoformspeciﬁc structural diﬀerence of the TM2loop2-TM3 region."
+"While the cytosolic extension of TM2 is longer in Orai3 than in Orai1, the ﬂexible loop2 portion connecting TM2 and TM3 in Orai3 is shorter than in Orai1."
+Figure 3.
+The structural features of the Orai1 channel.
+(a) The scheme shows the fulllength human Orai1 channel with highlighted regions and residues that are essential for the Orai1 function.
+(b) The cartoon of one Orai1 subunit with four TM segments along with N- and C- terminal helices are depicted in distinct colors (same as applied within (a)).
+The separated circles of the respective Orai1 subunit regions display the most prominent mutations that are known to lead to either loss of function (red stop sign) or gain of function (blue circle) of the Orai1 channel.
+(c) The scheme of Orai1 subunit with marked residues represent positions linked to diverse diseases or cancer.
+"Similar to STIM protein, Orai channels exhibit extensive expression in a diversity of tissues."
+Orai1 proteins are in particular highly expressed in immune cells.
+"Moreover, Orai1 and Orai3 proteins display a wide tissue expression including the heart, brain, kidney, lung, skeletal muscle, and other organs."
+"Orai2 occurs mainly in the brain and at lower levels in the spleen, lung, and small intestine."
+"Besides the expression of Orai isoforms in healthy tissue, they have been found additionally in a variety of diﬀerent cancer cell types."
+Orai Structure
+The hexameric Orai channel complex can be divided into three rings.
+The Orai pore is composed of six TM1 domains assembled as a ring in the center of the channel complex.
+It is surrounded by a second concentric ring formed by the TM2 and TM3 and a third ring constituted by the TM4 regions (Figure 4a–c).
+Diverse recent reports have demonstrated that several residues within the Orai TM regions keep the entire channel complex in the quiescent state as their point mutation can result in constitutively active channels.
+They are known as gainof-function (GoF) mutations.
+"Besides the structural resolution of the dOrai closed state, GoF mutants are extremely useful for further cryoEM and crystallographic studies, as they enable to resolve open conformations of the channel."
+"Speciﬁcally, the GoF mutants Orai1 H134A (equivalent to dOrai H206A) and Orai1 P245L (equivalent to dOrai P288L) have been employed for crystallographic studies (Figure 4a–c)."
+"Membranes 2020, 10, x; doi: 6 of 59 Figure 3."
+The structural features of the Orai1 channel.
+(a) The scheme shows the fulllength human Orai1 channel with highlighted regions and residues that are essential for the Orai1 function.
+(b) The cartoon of one Orai1 subunit with four TM segments along with N- and C- terminal helices are depicted in distinct colors (same as applied within (a)).
+The separated circles of the respective Orai1 subunit regions display the most prominent mutations that are known to lead to either loss of function (red stop sign) or gain of function (blue circle) of the Orai1 channel.
+(c) The scheme of Orai1 subunit with marked residues represent positions linked to diverse diseases or cancer.
+"Similar to STIM protein, Orai channels exhibit extensive expression in a diversity of tissues."
+Orai1 proteins are in particular highly expressed in immune cells.
+"Moreover, Orai1 and Orai3 proteins display a wide tissue expression including the heart, brain, kidney, lung, skeletal muscle, and other organs."
+"Orai2 occurs mainly in the brain and at lower levels in the spleen, lung, and small intestine."
+"Besides the expression of Orai isoforms in healthy tissue, they have been found additionally in a variety of different cancer cell types."
+Orai Structure
+The hexameric Orai channel complex can be divided into three rings.
+The Orai pore is composed of six TM1 domains assembled as a ring in the center of the channel complex.
+It is surrounded by a second concentric ring formed by the TM2 and TM3 and a third ring constituted by the TM4 regions (Figure 4a–c).
+Diverse recent reports have demonstrated that several residues within the Orai TM regions keep the entire channel complex in the quiescent state as their point mutation can result in constitutively active channels.
+They are known as gainof-function (GoF) mutations.
+"Besides the structural resolution of the dOrai closed state, GoF mutants are extremely useful for further cryoEM and crystallographic studies, as they enable to resolve open conformations of the channel."
+"Specifically, the GoF mutants Orai1 H134A (equivalent to dOrai H206A) and Orai1 P245L (equivalent to dOrai P288L) have been employed for crystallographic studies (Figure 4a–c)."
+The diverse currently available dOrai structures consistently reveal that the TM1 domains extend by an approximately 20 Å long helical region into the cytosol (Figure 3b).
+"In human Orai1, it has been named as the extended TM Orai1 NH2terminal (ETON, aa: 73–90 in hOrai1) region."
+"Furthermore, TM2 and TM3 have been resolved to expand by several helical turns into the cytosol."
+"The quiescent dOrai structure has revealed that the TM4 domain contains a kink formed by P245 in hOrai1 (equivalent to dOrai P288), thus separating the TM4 into two regions, TM4a and TM4b."
+This proline is fully conserved among the three isoforms.
+The hinge or the socalled nexus region (aa: 261–265) connects the TM4b domain by a bend to the cytosolic Cterminus (TM4ext).
+"Moreover, the Membranes 2020, 10, 425 7 of 61 Figure 4. Closed versus open dOrai structure and pore architecture."
+(a–c)
+"The top and corresponding side view of the dOrai channel crystal structure of the closed state (a), open state (P288L) (PDB ID: 6AKI) (b) and cryo EM structure of the open state (P288L) (c) are depicted."
+(d) The pore region of the closed state (lightcolored TM1 helices) and the corresponding pore proﬁles are depicted in pink.
+The structure is overlaid by an open pore structure of dOrai P288L (dark blue and purple TM1 helices) while its pore architecture is depicted in dark purple color.
+The diverse currently available dOrai structures consistently reveal that the TM1 domains extend by an approximately 20 Å long helical region into the cytosol (Figure 3b).
+"In human Orai1, it has been named as the extended TM Orai1 NH2terminal (ETON, aa: 73–90 in hOrai1) region."
+"Furthermore, TM2 and TM3 have been resolved to expand by several helical turns into the cytosol."
+"The quiescent dOrai structure has revealed that the TM4 domain contains a kink formed by P245 in hOrai1 (equivalent to dOrai P288), thus separating the TM4 into two regions, TM4a and TM4b."
+This proline is fully conserved among the three isoforms.
+The hinge or the socalled nexus region (aa: 261–265) connects the TM4b domain by a bend to the cytosolic Cterminus (TM4ext).
+"Moreover, the Ctermini of two neighboring subunits form an antiparallel oriented coiledcoil packing and thus, exhibit an overall beltlike structure at the intracellular side of the channel."
+"Hence, at the structural level, the Orai complex possesses, besides the sixfold, a threefold symmetry (Figure 3b and Figure 4a–c)."
+The major conformational diﬀerences between the closed and the open dOrai structures have been detected in the basic region of the pore as well as the TM4 domains.
+All dOrai open structures reveal consistently that the pore region features a 10 Å extension at dOrai K159 residue (equivalent to hOrai1 K87) in contrast to a 6 Å wide pore of the closed dOrai (Figure 4d).
+"Concerning structural resolutions of the TM4C-terminus segment, the open dOrai crystal and cryoEM structures exhibit distinct results."
+"The dOrai crystal structures in the active conformation show a fully straightened, the socalled unlatched, conformation of the TM4C-terminus region extending by ~ 45 Å into the cytosol."
+"Contrarily, the cryoEM structures of constitutively active dOrai mutants do not show such huge structural changes at the channel periphery and indicate a more latched open Orai conformation (Figure 4a–c)."
+"With respect to the loop regions, the structure of the first extracellular loop has been recently resolved to form an electronegative turret at the pore entrance."
+"The structural resolution of the intracellular and the second extracellular loop, as well as the initial part of the Nterminus, is still unknown."
+"Currently, available dOrai structures represent either a potential inactive or an active state."
+"Nevertheless, these structural studies have only been performed in the absence of STIM1."
+"At the physiological level, Orai channels are activated upon STIM1 binding which induces the conformational changes leading to pore opening."
+"Thus, the ultimate goal is still to resolve the structure of a STIM1Orai1 complex, which might enable to resolve diﬀerences to the currently available open structures of the GoF point mutants."
+"Membranes 2020, 10, x; doi: 7 of 59 Ctermini of two neighboring subunits form an antiparallel oriented coiledcoil packing and thus, exhibit an overall beltlike structure at the intracellular side of the channel."
+"Hence, at the structural level, the Orai complex possesses, besides the sixfold, a threefold symmetry (Figure 3b and 4a–c)."
+The major conformational differences between the closed and the open dOrai structures have been detected in the basic region of the pore as well as the TM4 domains.
+All dOrai open structures reveal consistently that the pore region features a 10 Å extension at dOrai K159 residue (equivalent to hOrai1 K87) in contrast to a 6 Å wide pore of the closed dOrai (Figure 4d).
+"Concerning structural resolutions of the TM4C-terminus segment, the open dOrai crystal and cryoEM structures exhibit distinct results."
+"The dOrai crystal structures in the active conformation show a fully straightened, the socalled unlatched, conformation of the TM4C-terminus region extending by ~ 45 Å into the cytosol."
+"Contrarily, the cryoEM structures of constitutively active dOrai mutants do not show such huge structural changes at the channel periphery and indicate a more latched open Orai conformation (Figure 4a–c)."
+"With respect to the loop regions, the structure of the first extracellular loop has been recently resolved to form an electronegative turret at the pore entrance."
+"The structural resolution of the intracellular and the second extracellular loop, as well as the initial part of the Nterminus, is still unknown."
+"Currently, available dOrai structures represent either a potential inactive or an active state."
+"Nevertheless, these structural studies have only been performed in the absence of STIM1."
+"At the physiological level, Orai channels are activated upon STIM1 binding which induces the conformational changes leading to pore opening."
+"Thus, the ultimate goal is still to resolve the structure of a STIM1Orai1 complex, which might enable to resolve differences to the currently available open structures of the GoF point mutants.  "
+Figure 4.
+Closed versus open dOrai structure and pore architecture.
+(a–c)
+"The top and corresponding side view of the dOrai channel crystal structure of the closed state (a), open state (P288L) (PDB ID: 6AKI) (b) and cryo EM structure of the open state (P288L) (c) are depicted."
+(d) The pore region of the closed state (lightcolored TM1 helices) and the corresponding pore profiles are depicted in pink.
+The structure is overlaid by an open pore structure of dOrai P288L (dark blue and purple TM1 helices) while its pore architecture is depicted in dark purple color.
+3.3.
+"Activation Mechanisms of the STIM1/Orai Signalling Machinery Prior to presenting detailed activation machinery, we provide in this paragraph a short overview of the activation steps of CRAC channels (Figure 5) in lymphocytes and mast cells."
+"Their activation represents a unique, spatially and temporally controlled process that precisely regulates the Ca2+ homeostasis via storeoperated Ca2+ influx."
+"Under resting cell conditions, dimers of the Ca2+ sensor protein STIM1 are rather homogenously distributed throughout the ER membrane and exhibit high mobility with a diffusion constant in the range of 0.2 µm2/s."
+The initial trigger for STIM1/Orai1 activation represents the binding of a ligand to an antigen receptor of immune cells. 
+"Membranes 2020, 10, 425 8 of 61 3.3."
+"Activation Mechanisms of the STIM1/Orai Signalling Machinery Prior to presenting detailed activation machinery, we provide in this paragraph a short overview of the activation steps of CRAC channels (Figure 5) in lymphocytes and mast cells."
+"Their activation represents a unique, spatially and temporally controlled process that precisely regulates the Ca2+ homeostasis via storeoperated Ca2+ sensor protein STIM1 are rather homogenously distributed throughout the ER membrane and exhibit high mobility with a diﬀusion constant in the range of 0.2 µm2/s."
+The initial trigger for STIM1/Orai1 activation represents the binding of a ligand to an antigen receptor of immune cells.
+Inﬂux.
+"Under resting cell conditions, dimers of the Ca2+ Figure 5."
+Activation mechanism of the STIM1/Orai signaling machinery.
+The scheme visualizes STIM1 and Orai1 in the resting state (left) and activated state (right).
+"Upon STIM1 binding, Orai1 Cterminus is proposed to extend ~45 Å into the cytosol (right)."
+The main and indispensable coupling sites for STIM1 represent the Orai1 Cterminus.
+"The hinge plate, loop2, and Nterminus of Orai1 are additionally supposed to interplay with STIM1, either directly or indirectly (as indicated by the doublesided arrows and question marks)."
+This event orchestrates a series of signaling events involving Gproteins or a tyrosine kinase cascade to activate phospholipase C.
+"The latter cleaves phosphatidylinositol 4,5bisphosphate (PIP2) in the plasma membrane, which mediates the production of diacylglycerol (DAG) and inositol 1,4,5trisphosphate (IP3)."
+IP3 acts as a secondary messenger and binds to the IP3 receptors (IP3R) located in the ER membrane (Figure 1).
+"Subsequently, Ca2+ is released from the ER stores and STIM1 detects the drop in [Ca2+] via its EF hand."
+"To reach its active conformation, it undergoes a conformational change, oligomerizes, and moves into the ERPM junctions."
+These welldeﬁned and dynamic microdomains where the ER is in proximity to the plasma membrane provide a platform for stable assembly of the STIM1/Orai1 complex and STIM1mediated activation of Orai1 (Figure 5).
+The association of STIM1 and Orai1 is further facilitated by the binding of STIM1 Cterminus to PIP2 localized within the PM.
+With the coupling of STIM1 and Orai1 the diﬀusion of the complex drastically slows with a diﬀusion constant in the range of 0.03 µm2/s.
+The Ca2+ inﬂux through activated Orai1 increases the local [Ca2+]i within the micromolar range.
+"The Ca2+ ions accumulate in the socalled Ca2+ microdomains, that expand upon the clustering of Orai channels."
+"Membranes 2020, 10, x; doi: 8 of 59 This event orchestrates a series of signaling events involving Gproteins or a tyrosine kinase cascade to activate phospholipase C."
+"The latter cleaves phosphatidylinositol 4,5bisphosphate (PIP2) in the plasma membrane, which mediates the production of diacylglycerol (DAG) and inositol 1,4,5trisphosphate (IP3)."
+IP3 acts as a secondary messenger and binds to the IP3 receptors (IP3R) located in the ER membrane (Figure 1).
+"Subsequently, Ca2+ is released from the ER stores and STIM1 detects the drop in [Ca2+] via its EF hand."
+"To reach its active conformation, it undergoes a conformational change, oligomerizes, and moves into the ERPM junctions."
+These welldefined and dynamic microdomains where the ER is in proximity to the plasma membrane provide a platform for stable assembly of the STIM1/Orai1 complex and STIM1mediated activation of Orai1 (Figure 5).
+The association of STIM1 and Orai1 is further facilitated by the binding of STIM1 Cterminus to PIP2 localized within the PM.
+With the coupling of STIM1 and Orai1 the diffusion of the complex drastically slows with a diffusion constant in the range of 0.03 µm2/s.
+The Ca2+ influx through activated Orai1 increases the local [Ca2+]i within the micromolar range.
+"The Ca2+ ions accumulate in the socalled Ca2+ microdomains, that expand upon the clustering of Orai channels."
+"Upon maximum stimulation, the global [Ca2+]i only exceeds by less than 1 μM."
+"This Ca2+ influx is critical for the downstream signaling events affecting the transcription factors, vesicular fusion proteins, other ion channels, and particular enzymes."
+"In immune cells, SOCE triggers cytokine production via the nuclear factor of activated T cells (NFAT) and release of inflammatory mediators (histamine and eicosanoids) "
+(Figure 1).  
+Figure 5.
+Activation mechanism of the STIM1/Orai signaling machinery.
+The scheme visualizes STIM1 and Orai1 in the resting state (left) and activated state (right).
+"Upon STIM1 binding, Orai1 Cterminus is proposed to extend ~45 Å into the cytosol (right)."
+The main and indispensable coupling sites for STIM1 represent the Orai1 Cterminus.
+"The hinge plate, loop2, and Nterminus of Orai1 are additionally supposed to interplay with STIM1, either directly or indirectly (as indicated by the doublesided arrows and question marks)."
+3.4.
+STIM1 Activation STIM1 is maintained in the closed state via three structural prerequisites: (1) A Ca2+ ion bound to the EFSAM domain at the Nterminus ; (2) a particular conformation of STIM1 TM domains ; and (3) an inhibitory clamp established within the Cterminus (Figures 5 and 6a).
+Store depletion initiates the dissociation of Ca2+ from the cEF hand and triggers a conformational change of the EFSAM region.
+"Exposure of the hydrophobic regions of the EFSAM Membranes 2020, 10, 425 9 of 61 Upon maximum stimulation, the global [Ca2+]"
+I only exceed by less than 1 µM.
+"This Ca2+ inﬂux is critical for the downstream signaling events aﬀecting the transcription factors, vesicular fusion proteins, other ion channels, and particular enzymes."
+"In immune cells, SOCE triggers cytokine production via the nuclear factor of activated T cells (NFAT) and release of inﬂammatory mediators (histamine and eicosanoids) "
+(Figure 1).
+3.4. STIM1 Activation (1) A Ca2+ STIM1 is maintained in the closed state via three structural prerequisites: ion bound to the EFSAM domain at the Nterminus ; (2) a particular conformation of STIM1 TM domains ; and (3) an inhibitory clamp established within the Cterminus (Figures 5 and 6a).
+Store depletion initiates the dissociation of Ca2+ from the cEF hand and triggers a conformational change of the EFSAM region.
+Exposure of the hydrophobic regions of the EFSAM domains mediates the oligomerization of closeby EFSAM regions.
+These structural changes initiate signal transduction via the TM domain to the STIM1 Cterminus.
+The TM domain undergoes conformational rearrangements.
+"In this regard, a recent study has reported that STIM1 TM domains cross each other at a certain angle in the resting state, which decreases upon STIM1 activation and is likely facilitated by three glycines located in the TM region."
+"Moreover, I220 and C227 in the TM domain contribute to the maintenance of the closed state."
+Another study reported that STIM1 TM helices pair only upon STIM1 activation.
+"Thereby, they overcome the STIM1 Cterminal intramolecular clamp established by CC1 (L248, L251, L258) and CC3 (L416, L423), which is released upon storedepletion."
+"This event is accompanied by the exposure of the SOAR region, which establishes an interaction with Orai1."
+"Moreover, a STIM1 homomerization domain partly overlapping with CC3 promotes STIM1 oligomerization (Figures 5 and 6a)."
+"After STIM1Orai1 coupling, Orai1 is activated."
+Figure 6.
+STIM1 activation and diverse positions related to diseases.
+(a) Cartoon representation of STIM1 dimer in the inactive state (left) and activated state (right).
+"In the inactive state, the EFSAM domains are both loaded with Ca2+ ions and do not display any interaction."
+The transmembrane (TM) helices that connect the Nterminus of STIM1 to the Cterminus in the cytoplasm are spatially separated.
+The CC1 region displays an “inhibitory helix pocket” with important residues maintaining the STIM1 quiescent state highlighted.
+"SOAR, comprised of residues 344–442, forms intramolecular interactions with CC1."
+"In the activated state (right), the SOAR region decouples from CC1 and is exposed, the EFSAM domains interact and the transmembrane helices moving closer to another (modiﬁed according to Hirve et al.)."
+(b) Diverse positions within the STIM1 protein leading to either loss of function (left) or gain of function (right).
+"The highlighted residues represent diseaserelated positions that can lead to immunodeﬁciencies, tubular aggregate myopathy, Stormorken syndrome, York platelets syndrome, or even cancer upon mutation."
+"Membranes 2020, 10, x; doi: 9 of 59 domains mediates the oligomerization of closeby EFSAM regions."
+These structural changes initiate signal transduction via the TM domain to the STIM1 Cterminus.
+The TM domain undergoes conformational rearrangements.
+"In this regard, a recent study has reported that STIM1 TM domains cross each other at a certain angle in the resting state, which decreases upon STIM1 activation and is likely facilitated by three glycines located in the TM region."
+"Moreover, I220 and C227 in the TM domain contribute to the maintenance of the closed state."
+Another study reported that STIM1 TM helices pair only upon STIM1 activation.
+"Thereby, they overcome the STIM1 Cterminal intramolecular clamp established by CC1 (L248, L251, L258) and CC3 (L416, L423), which is released upon storedepletion."
+"This event is accompanied by the exposure of the SOAR region, which establishes an interaction with Orai1."
+"Moreover, a STIM1 homomerization domain partly overlapping with CC3 promotes STIM1 oligomerization (Figures 5 and 6a)."
+"After STIM1Orai1 coupling, Orai1 is activated."
+"Moreover, STIM1 clustering in the ERPM junctions is facilitated by a lysinerich region at the very end of the STIM1 Cterminus."
+It interacts with the plasma membrane PIP2 and stabilizes the STIM1 puncta (Figure 5).
+"Thus, Orai1 originally diffusely distributed in the plasma membrane is recruited into the areas of the STIM1 aggregates.  "
+Figure 6.
+STIM1 activation and diverse positions related to diseases.
+(a) Cartoon representation of STIM1 dimer in the inactive state (left) and activated state (right).
+"In the inactive state, the EFSAM domains are both loaded with Ca2+ ions and do not display any interaction."
+The transmembrane (TM) helices that connect the Nterminus of STIM1 to the Cterminus in the cytoplasm are spatially separated.
+The CC1 region displays an “inhibitory helix pocket” with important residues maintaining the STIM1 quiescent state highlighted.
+"SOAR, comprised of residues 344–442, forms intramolecular interactions with CC1."
+"In the activated state (right), the SOAR region decouples from CC1 and is exposed, the EFSAM domains interact and the transmembrane helices moving closer to another (modified according to Hirve et al.)."
+(b) Diverse positions within the STIM1 protein leading to either loss of function (left) or gain of function (right).
+"The highlighted residues represent diseaserelated positions that can lead to immunodeficiencies, tubular aggregate myopathy, Stormorken syndrome, York platelets syndrome, or even cancer upon mutation."
+3.5.
+STIM1Orai1
+Coupling The STIM1Orai1 coupling is established via essential domains that are described in the following (Figure 5).
+3.5.1.
+"STIM1 Domains Coupling to Orai1 As previously described, the CAD or SOAR domains in STIM1 Cterminus represent the direct interaction sites for Orai1 Cterminus, that induce Orai1 activation."
+"As shown via the minimal STIM1 Cterminal fragments (OASF, SOAR, CAD, or Ccb9), mainly incorporating CC2 and extended CC3 domains are sufficient to trigger Orai1 activation (Figure 2a)."
+It is currently clear that Orai1 Cterminus is the main and strongest coupling site for STIM1 Cterminus.
+"The Membranes 2020, 10, 425 10 of 61 Moreover, STIM1 clustering in the ERPM junctions is facilitated by a lysinerich region at the very end of the STIM1 Cterminus."
+It interacts with the plasma membrane PIP2 and stabilizes the STIM1 puncta (Figure 5).
+"Thus, Orai1 originally diﬀusely distributed in the plasma membrane is recruited into the areas of the STIM1 aggregates."
+3.5.
+STIM1Orai1
+Coupling The STIM1Orai1 coupling is established via essential domains that are described in the following (Figure 5).
+3.5.1.
+"STIM1 Domains Coupling to Orai1 As previously described, the CAD or SOAR domains in STIM1 Cterminus represent the direct interaction sites for Orai1 Cterminus, that induce Orai1 activation."
+"As shown via the minimal STIM1 Cterminal fragments (OASF, SOAR, CAD, or Ccb9), mainly incorporating CC2 and extended CC3 domains are suﬃcient to trigger Orai1 activation (Figure 2a)."
+It is currently clear that Orai1 Cterminus is the main and strongest coupling site for STIM1 Cterminus.
+"The structural resolution of SOAP, a complex of the key interaction sites Orai1 and STIM1 Ctermini (STIM1 aa: 312–387; hOrai1 aa: 272–292), is perfectly in line with the functional characterization of these critical sites."
+"The positions within a STIM1 dimer most critical for coupling to two Orai1 Ctermini are L347, L351 in CC2 and Y362, L373, and A376 in the second CC2 domain."
+"The positively charged residues K382, K384, K385, and K386 further stabilize the STIM1Orai1 coupling (Figure 2d,e and Figure 5)."
+Whether additional STIM1 Cterminal sites couple to either Orai1 Nterminus or the loop2 is still under debate.
+There is evidence that SOAR α2 plays a role in the Orai1 coupling as well as in SOCE activation.
+Potential direct interaction of the nonconserved STIM1 residue F394 in α2 has been proposed either between the Orai1 Nterminus or the socalled hinge plate.
+This Orai1 hinge plate is located between the two leucines within the cytosolic helical regions of TM3 (L174) and TM4 (L261).
+"Additionally, we recently discovered that a proximity of STIM1 α3 and Orai1 TM3 contributes to Orai1 gating (Figure 5)."
+"In summary, residues within STIM1 crucial for interaction with Orai1 Cterminus are resolved."
+Whether additional sites within STIM1 Cterminus are involved in the interaction with other cytosolic structures of Orai1 still requires further investigation.
+3.5.2.
+Orai1
+"Domains Coupling to STIM1 Within the Orai1 Cterminus, the main coupling site for STIM1 Cterminus, the residues L273 and L276 are crucial for interaction with STIM1, as their mutation to hydrophilic amino acids such as serine or aspartate (e.g., L273S/D) fully abolish the communication with STIM1."
+"The NMR SOAP structure has revealed that R281, L286, and R289 in Orai1 Cterminus additionally contribute to STIM1 coupling (Figure 5)."
+"Moreover, the communication of STIM1 with the Orai1 hinge plate, composed of L174 in TM3 and L261 in TM4, is crucial for CRAC channel activation."
+"Their single point mutation can lead to reduced or impaired Orai1 channel function, likely because of a disturbed communication of the two hydrophobic leucines."
+"Furthermore, the hinge region LVSHK, connecting TM4 to the Cterminus and located next to the hinge plate, determines STIM1 coupling, as multiple point mutations (Orai1 ANSGA), which induce constitutive activity, further reduce STIM1 binding."
+"Furthermore, it has been shown that the region around E173 in Orai1, which is closeby to the hinge plate, is indispensable for STIM1mediated Orai1 gating (Figure 5)."
+Another important region for STIM1Orai1 coupling and subsequent Orai1 gating closeby to the hinge region represents the loop2TM3 segment aa: 160–170.
+"Cysteine crosslinking of STIM1 L402C with Orai1 E166C allowed Orai1 activation, while the break of disulﬁde bonds abolished their currents (Figure 5). "
+"Membranes 2020, 10, 425 11 of 61 Besides Orai1 Cterminus and loop2, Orai1 Nterminus plays an essential role in communication with STIM1, either directly or allosterically."
+Deletion of or single point mutation within Orai1 Nterminus can abolish STIM1mediated activation.
+We discovered that a deletion of the ﬁrst 76 amino acids of Orai1 leads to loss of function.
+"Moreover, the Nterminal residues L74, W76, R83, K85, K87 possess a critical role in STIM1mediated activation, as their mutation can abolish Orai1 activation."
+"Additionally, an intact Nterminus is essential for STIM1induced maintenance of authentic CRAC channel hallmarks."
+"Biochemical assays revealed an interaction of STIM1 Cand Orai1 Nterminal fragments, which was reduced upon deletion or single point mutation within the Nterminus."
+"Nevertheless, whether STIM1 Cterminus directly binds to the Nterminus in fulllength Orai1 remains elusive."
+We recently discovered that a permissive communication of the Orai1 Nterminus with the loop2 region is critical for the maintenance of the activation of Orai1.
+There is indisputable evidence that an intact Nterminus and loop2 are indispensable for normal CRAC channel function.
+"Nevertheless, whether either Orai1 Nterminus, the loop2, or a complex of both, represent the STIM1 coupling site still requires further investigation (Figure 5)."
+"In summary, the main coupling sites for STIM1Orai1 interaction represent STIM1 and Orai1 Ctermini."
+"Additionally, Orai1 Nterminus, loop2, and the hinge plate are essential for direct or indirect communication with STIM1."
+The hinge plate seems to control the signal transmission from the STIM1Orai1 coupling site at the channel periphery to the Orai1 pore region.
+3.6.
+Activation of the Orai1 Ion Channel Activation of the Orai1 channel is initiated via STIM1 coupling to the Orai1 Cterminus.
+This signal is subsequently transmitted from the channel periphery across all four TM domains ﬁnally to the pore.
+A comparison of the crystal structures of the closed dOrai and the open GoFdOrai mutants suggests two major structural alterations within the channel complex upon Orai activation: (1) Orai1 pore widening within the basic region by approximately 4 Å and (2) conformational changes at the Orai complex periphery (Figure 4a–c).
+"However, it is still controversial to which extent structural alterations occur along the TM4C-terminus region."
+A straightening of the TM4C-terminus region is assumed to be energetically unfavorable under physiological conditions.
+Recent MD simulations have revealed that pore opening involves a twistto-open gating motion.
+"At the extracellular side, all subunits have been supposed to rotate counterclockwise."
+"At the intracellular side, every second subunit moves outward, while the other three subunits rotate clockwise."
+"Independent to which extent conformational changes take place at the outmost side of the channel complex, the sitedirected mutagenesis revealed that the kink at P245L within TM4 and the nexus region establishing the bent connection between TM4 and the Cterminus determine the closed and open state of the Orai1 channel."
+"In support, mutation of these regions can lead to constitutively active Orai1 channels (Figure 4a–c)."
+An arsenal of gain- and lossof-function mutations located within all four TM domains suggested that Orai1 pore opening involves a global conformational change of the entire channel complex.
+"We recently demonstrated via a library of double mutants systematically combining one GoF- with one LoFmutation in the distinct TM domains, that Orai1 pore opening indispensably requires structural changes within the entire channel complex."
+"For this purpose, a series of control points in the middle and cytosolic part of all TM domains must have an openingpermitting conformation and enable clearance for the pore opening."
+"STIM1induced conformational changes across the entire channel complex are supposed to cause a rotation of the hydrophobic region within TM1, speciﬁcally of the positions G98 and F99."
+"Moreover, Frischauf et al. have reported structural alterations within the basic region, in particular of R91. "
+"Membranes 2020, 10, 425 12 of 61 Overall, STIM1mediated Orai1 activation induces a wave of interdependent TM domain motions across the entire channel complex, which requires clearance of a series of gating checkpoints within the Orai1 channel."
+3.7.
+The Orai1 Pore -accumulating region (CAR).
+It initiates Ca2+
+The pore region of the Orai1 channel can be divided into four regions.
+"At the extracellular side, the pore consists of three aspartates (D110, D112, and D114) of each subunit which constitute the Ca2+ permeation due to the attraction of Ca2+ ions."
+"After the CAR region the pore contains the selectivity ﬁlter, the narrowest part with a diameter of ~3.8 Å therein."
+It is built by a ring of six glutamates (E106) (Figure 4d).
+"In support, the Orai1 E106D mutant exhibits loss of Ca2+ selectivity, whereas Orai1 E106Q represents a lossof-function pore mutant."
+"The selectivity ﬁlter is followed by a hydrophobic area containing V102, F99, and L95, which function together with the selectivity ﬁlter as the Orai1 gate."
+"Moreover, this hydrophobic cavity controls Ca2+ selectivity together with STIM1 via rotation of the region."
+STIM1 coupling has been demonstrated to move F99 out and G98 into the pore to allow Ca2+ permeation.
+"At the cytosolic side, the pore region is formed by a basic segment speciﬁcally composed of positively charged residues R91, K85, and R83 within the ETON region (Figure 4d)."
+"Structural studies have suggested that these positively charged side chains are neutralized by anionic aggregates, which impair ion conduction in the closed channel either via steric occlusion or electrostatic repulsion."
+"Moreover, anions have been found to bind in the open dOrai P288L structure to the basic region, which is probably necessary for Ca2+ permeation."
+"Indeed, their mutation to residues with neutral or oppositely charged side chains has reduced or abolished the activity of Orai1."
+MD simulations have further revealed that the basic residues rather impact pore hydration.
+3.8.
+"Unique Biophysical Properties of CRAC Channels ion selectivity, tiny unitary conductance, fast Ca2+"
+"The unique biophysical properties of CRAC channels described in detail in Krizova et al. -dependent -containing to include extremely high Ca2+ inactivation (FCDI), and an increase in currents upon the exchange from a Ca2+ a Na -containing divalent free solution."
+The typical CRAC channel inward rectifying currents exhibit a reversal potential of ~+50 mV.
+The high Ca2+ selectivity has been suggested to be established via ionpore and ion–ion interactions.
+"Interestingly, the permeability of CRAC channels for Ca2+ ions is 1000 times higher than that of monovalent ions."
+The presence of Ca2+ in a divalent free solution inhibits monovalent ion permeation.
+In the absence of Ca2+ permeate across Orai1activated channel via STIM1.
+The narrow pore diameter of the Orai1 channel or larger ions.
+The trivalent ions such as strictly limits the permeation of Cs La3+ block the Orai1 pore completely.
+"Many direct mutagenesis studies demonstrate that the permeability of Orai1 channels is highly modulated by STIM1, as diverse constitutively active Orai1 mutants are less selective in the absence of STIM1 and restore Ca2+ selectivity in the presence of STIM1."
+The tiny unitary conductance has been estimated via noise analysis to be in the range of 10 fS and likely underlies the very narrow pore diameter.
+"Up until now, because of this distinctive feature, no single CRAC channel patchclamp experiment has been feasible.  monovalent cations such as Na or Gd3+, and K Enhancement of cytosolic Ca2+ levels via CRAC channels is strictly limited via the Ca2+ -dependent inactivation functioning as a Ca2+ -dependent feedback mechanism."
+"There are two kinds of CDI known, the fast (FCDI) and the slow (SCDI)."
+"Whereas the FCDI is accomplished within tens of milliseconds and is recorded during a hyperpolarizing voltage step, the SCDI requires minutes for full completion."
+The SCDI is detected upon the applied repetitive voltage ramps.
+" Li Membranes 2020, 10, 425 13 of 61 Another outstanding biophysical feature of CRAC channels is the increase of currents when the -containing divalent free one."
+"This unique property is -containing solution is exchanged by a Na -containing -containing divalent free solution, in accordance with -containing solutions."
+Ca2+ assumed to correlate with the degree of FCDI.
+"Indeed, CRAC channels exhibit FCDI in a Ca2+ solution, while no FCDI is detectable in a Na the steadystate current size in Ca2+ - and Na 3.9."
+Pharmacology of CRAC Channels The identiﬁcation of STIM and Orai molecules and their association with a variety of diseases boosted the search for small molecule modulators of CRAC channels.
+"Currently, available inhibitors have helped improve our understanding of the CRAC channel machinery."
+Their targets of action include one of the diﬀerent steps in the STIM1/Orai1activation cascade.
+"Nevertheless, most of those have not reached clinical trials yet, because of the low selectivity and high toxicity."
+"Wellknown general Ca2+ ion channel pore blockers represent the lanthanides such as La3+ (lanthanum) and Gd3+ (gadolinium), which act at submicromolar concentrations."
+"It is worth noting, that especially CRAC channels can be blocked by lanthanides at very low concentrations, in contrast to a diversity of other Ca2+ ion channels, which require higher amounts for inhibition."
+"SKF96365, a compound that belongs to the imidazoles, is one of the ﬁrst elucidated CRAC channel blockers, however, it possesses low selectivity and its mechanism of action is unknown."
+"2Aminoethyldiphenyl borate (2APB), a drug that pertains to the diphenylboronate compounds, is nonselective, but the bestcharacterized blocker of CRAC channels."
+It exhibits complex pharmacology and interferes with CRAC channel currents in a biphasic manner.
+"While low concentrations (1–10 µM) of 2APB enhance CRAC channel activity, higher concentrations (20–100 µM) lead to a transient activation followed by inhibition."
+"Among the Orai isoforms, 2APB acts in an isoformspeciﬁc manner."
+"In contrast to Orai1 currents, which respond with the above described biphasic behavior, Orai3 currents are strongly enhanced by 2APB and become nonselective."
+"2APB acts not only on the Orai1 channel but has been further identiﬁed to interfere with several steps of the CRAC channel activation cascade including STIM1 oligomerization, STIM1 conformational change, STIM1Orai1 coupling, and on the Orai channel itself."
+"Moreover, 2APB inﬂuences the activation of other ion channels, such as some TRPVs and the IP3 receptor."
+"Within recent years, two 2APB analogues (DPB162AE, DPB163AE) have been identiﬁed, which exhibit higher speciﬁcity and potency than 2APB in terms of CRAC channel inhibition."
+2APB has been further reported enhancing STIM2mediated Orai1 currents in a storeindependent manner.
+"Furthermore, the pyrazole compounds, BTP2, Pyr6, and Pyr10, are useful tools to inhibit CRAC channels."
+BTP2 displays a 30fold higher selectivity for storeoperated Ca2+ channels than voltagegated Ca2+ ion channels.
+"Aside from its action on CRAC channels, BTP2 has been reported to activate TRPM4 and to block TRPC3 and TRPC5 currents."
+"Interestingly, Pyr6 displays a higher potency to inhibit CRAC channels, while Pyr10 is selective on TRPC3mediated Ca2+ currents."
+"The GSK blockers, GSK5498A, GSK7975A, and GSK5503A represent very selective blockers as they act on almost no other ion channels except TRPV6 channels."
+GSK7975A has been supposed to alter the pore geometry of Orai channels.
+Synta66 is a selective CRAC channel blocker.
+"We recently demonstrated that Synta66 binding requires residues at the extracellular side of Orai1 close to TM1, TM3 and the extracellular loop regions."
+"Indeed, Orai1 mutants reducing the Ca2+ selectivity interfere with the action of Synta66."
+"Concerning the action of GSK5503A and Synta66, it has been recently shown that the diﬀerent Orai isoforms show distinct responses to the application of these inhibitors."
+"An inhibitor of the myosin light chain kinase, ML9, reversibly inhibits CRAC currents."
+"It has been identiﬁed to interfere with STIM1 multimerization, however, the site of action remains unknown. "
+"Membranes 2020, 10, 425 14 of 61 Diethylstilbestrol (DES) is another inhibitor useful to study CRAC channel function."
+It is assumed to act on the CRAC channel pore geometry.
+"However, as it additionally activates estrogen receptors, it is not suitable for clinical use."
+"Linoleic acid, a polyunsaturated fatty acid, interferes with STIM1 oligomerization and thus blocks Highly selective blockers that have reached the stage of clinical STIM1mediated Orai1 currents."
+"The mechanism of action, however, is still elusive."
+"Trials represent carboxyamidotriazole (CAI), RO2959, CM2489, and CM4620."
+Other Orai1 speciﬁc blockers represent a series of 1phenyl-3-(1phenylethyl)urea derivatives.
+"Calcimedica suggests that the binding pocket of CM2489 and CM4620 is composed of certain residues in TM2, TM3, and TM4, which have also been identiﬁed to be involved in keeping Orai1 in the closed state."
+It is worth noting that the CRAC channel blocker CM4620 represents a promising candidate to treat patients suﬀering from severe respiratory dysfunctions including COVID-19 pneumonia.
+"In summary, a series of CRAC channel blockers is available (Table 1)."
+"Despite many of them show low selectivity and their mechanisms of action are unknown, they represent useful tools to study the ion channel structure/function relationships and STIM1/Orai1mediated signaling steps. "
+"Membranes 2020, 10, 425 15 of 61 Table 1."
+CRAC channel modulators.
+"This table summarizes the most common CRAC channel modulators together with their empirical formula, the function of interest and some additional information."
+Name Empirical Formula Function of Interest 2APB (C6H5)2BOCH2CH2NH2 Modulates: SOCE function in a concentration dependent manner BTP2 C15H9F6N5OS Blocks:
+CRAC Channel Additional Information Activates: CRAC/STIM1 + Orai1 < 10 µM and Orai3
+Blocks: CRAC/STIM1 + Orai1 > 50 µM Modulates: TRPV and TRPM channels Blocks: TPRC3 channel inhibitor and reduces NFAT nuclear translocation and cytokine production C22H26N2O3 · HCl Blocks: receptormediated Ca2+ entry Blocks: voltagegated Ca2+ entry; TRPC channel SKF96365 GSK5498A GSK5503A
+GSK7975A
+Synta66
+C18H11F6N3O
+C23H17F2N3O2 C18H12F5N3O2 C20H17FN2O3 Blocks: CRAC channel Blocks: CRAC channel Blocks: Orai1
+Blocks: CRAC channel Pyr6 C17H9F7N4O
+"Blocks: SOCE No eﬀect on Ltype Ca2+ channel either TRPC1/5 Eﬀect on carbacholinduced, TRPC3mediated calcium entry inhibits the typical Orai downstream signaling cascades in RBL mast cells (NFAT activation and degranulation)"
+"Pyr10 C18H13F6N3O2S Blocks: CRAC channel TRP cation 3 (TRPC3) inhibitor RO2959 C21H19F2N5OS.xHCl Blocks: SOCE Potent inhibitor of human IL2 production, potently blocks Tcell receptortriggered gene expression and Tcell functional pathways"

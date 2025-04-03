@@ -1,0 +1,307 @@
+"Epithelial and Mesenchymal Cell Biology The American Journal of Pathology, Vol. 176, No. 2, February 2010 Copyright © American Society for Investigative Pathology DOI: 10.2353/ajpath.2010.090454 Involvement of Wnt Signaling in Dermal Fibroblasts Kenji Kabashima, *†‡ Junichi Sakabe, *"
+"Ryutaro Yoshiki, * Yasuhiko"
+"Tabata, § Kimitoshi Kohno, ¶ and Yoshiki Tokura* From the Departments of Dermatology * and Molecular Biology, ¶ School of Medicine, University of Occupational and Environmental Health, Kitakyushu; the Department of Dermatology, † and Center for Innovation in Immunoregulative Technology and Therapeutics, ‡ Kyoto University Graduate School of Medicine, Kyoto; and the Institute for Frontier Medical Sciences, § Kyoto University, Kyoto, Japan Pachydermoperiostosis (PDP) is a rare disease characterized by unique phenotypes of the skin and bone, such as thick skin, implying that it may be caused by dysregulation of mesenchymal cells."
+The aim of this study is to examine the roles of dermal fibroblasts in the pathogenesis of pachydermia in association with Wnt signaling.
+"The numbers of cultured fibroblasts were compared between healthy donors and PDP patients, and mRNA expression profiles in cultured dermal fibroblasts were examined by DNA microarray analysis and realtime reverse transcriptionPCR."
+DKK1 and (cid:1)-catenin protein expressions were also evaluated by immunohistochemistry in the skin.
+"To evaluate the in vivo roles of DKK1 in mice, DKK1 small interfering RNA was injected to the ears."
+"We found that PDP fibroblasts proliferated more than control fibroblasts and that mRNA expression of a Wnt signaling antagonist, DKK1, was much lower in PDP fibroblasts than in normal ones."
+"Consistently, decreased expression of DKK1 in fibroblasts and enhanced expression of (cid:1)-catenin were noted in PDP patients."
+"Moreover, recombinant human DKK1 protein decreased the proliferation of dermal fibroblasts."
+"In accord with the above human studies, intradermal injections of DKK1 small interfering RNA into mouse ears increased ear thickness as seen in PDP."
+Our findings suggest that enhanced Wnt signaling contributes to the development of pachydermia by enhancing dermal fibroblast functions.
+"(Am J Pathol 2010, 176:721–732; DOI: 10.2353/ajpath.2010.090454) nosed by the presence of a triad of pachydermia (skin thickening), digital clubbing, and periostosis of long bones."
+"Typically, insidious development of thickening of the fingers and toes, clubbing of the terminal phalanges, enlargement of the hands and feet, hyperhidrosis, increased sebaceous secretion, and velvet coloration of the skin occur mostly in men during adolescence.4 Radiographic signs of bilateral and symmetrical periostosis are frequently observed as a tibias marked irregular periosteal ossification of and fibulas.3 Touraine et al5 recognized PDP with three clinical presentations or forms: a “complete form” presenting the fullblown phenotype; an “incomplete form” characterized by the phenotype without pachydermia; and a “fruste form” with pachydermia and minimal or absent skeletal changes."
+"Recently, the incomplete form of PDP, primary osteoarthropathy without pachydermia, was mapped to chromosome 4q33q34, and gene mutations in HPGD, encoding 15hydroxyprostaglandin dehydrogenase, the main enzyme of prostaglandin (PG) degradation, were identified.6 Therefore, it has been suggested that the digital clubbing and bone changes are due to elevated PGE2."
+"However, the pathomechanism underlying pachydermia of PDP remains unknown."
+"Since the major manifestations of complete PDP occur in both skin and bone, the etiology could be related to the dysregulation of bone morphogenetic proteins (BMP), transforming growth factor (TGF)-(cid:1), and/or wingless (Wnt) pathways.7–9 The Wnt signaling consists of canonical and noncanonical pathways."
+"The canonical pathway involves cytosolic (cid:1)-catenin stabilization, nuclear translocation and gene regulation, and the noncanonical pathways activate rho, rac, JNK, and protein kinase C.10,11"
+"These signaling pathways are mediated by Wnt protein, which binds to a frizzled Wnt receptor."
+"Wnt signaling is modulated by several different families of Supported in part by grants from the Ministry of Education, Culture, Sports, Science and Technology and the Ministry of Health, Labour and Welfare of Japan."
+K.K. and J.S. contributed equally to this work.
+"Accepted for publication October 20, 2009."
+"Pachydermoperiostosis (PDP), a form of primary hyperis a rare disease1–3 diagtrophic osteoarthropathy, Address reprint requests to Dr. Kenji Kabashima, Department of Dermatology, Kyoto University Graduate School of Medicine, 54 Shogoin Kawaracho, Sakyoku, Kyoto 6068507, Japan."
+Email: kaba@kuhp.kyotou.ac.jp.
+"721 722 AJP February 2010, Vol. 176, No. 2 Kabashima et al Figure 1."
+Clinical findings and histology of a PDP patient.
+"A, B: Clinical appearances of the face (A) and hands (B) in PDP (case 1) are shown."
+C:
+"Histology of the face in PDP shows thickened dermis, and hyperplasia of the sebaceous and sweat glands by H&E staining compared with a healthy donor (control)."
+Scale bars (cid:1) 300 (cid:2)m.
+D: The sample of PDP stained with Elastica van Gieson shows thick collagen and elastic fibers in the dermis compared with a healthy donor.
+E: The intensity of mucinous ground substance observed by Alcian blue staining is comparable between a healthy donor and a PDP patient.
+F: Melanocytes in the patient with PDP and a healthy control are identified with Fontana Masson staining.
+Scale bars (cid:1) 100 (cid:2)m (D(cid:2)F).
+Secreted downregulators.
+"Among them, Dickkopf (DKK) is a family of cysteinerich proteins comprising at least four different forms (DKK1, DKK2, DKK3, and DKK4), which are coordinately expressed in mesodermal lineages."
+"The best studied of these is DKK1, which blocks the canonical Wnt signaling by inducing endocytosis of lipoprotein receptorrelated protein 5/6 (LRP5/6) complex12 without affecting the frizzled Wnt receptor.13 DKK1 induces the formation of ectopic heads in Xenopus laevis in the presence of BMP inhibitors14 and modulates apoptosis during vertebrate limb development.15 High mRNA levels of DKK1 in human dermal fibroblasts of the palms and soles inhibit the function and proliferation of melanocytes via the suppression of (cid:1)-catenin and microphthalmia-associated transcription factor.16,17 In parallel, DKK1 transgenic mice under the control of keratin 14 have no pigmentation on the trunk because of the absence of melanocytes in the innerfollicular epidermis, as well as the lack of hair follicle development.18"
+These findings suggest that DKK1 is deeply involved in the formation and differentiation of the skin.
+Here we investigated two complete cases of PDP using dermal fibroblasts to address the pathogenetic mechanisms.
+DNA microarray analysis revealed that the proliferation of primary fibroblasts of PDP was increased with decreased expression of DKK1 mRNA in cultured fibroblasts.
+"Consistent with this finding, immunohistochemistry indicated decreased expression of DKK1 in fibroblasts and enhanced expression of (cid:1)-catenin in the skin of patients with PDP, suggesting that Wnt signaling is enhanced in PDP."
+The intradermal injection of DKK1 synthetic small interfering RNA (siRNA) increased the ear thickness of mice as seen in PDP.
+These results suggest that enhanced Wnt signaling contributes to the development of pachydermia.
+Materials and Methods Patients Case 1 A 50year-old male was referred to our clinic.
+The skin on his head and face was thick and oily with a dark velvet color.
+Nasolabial folds and transverse furrowing of the forehead were prominent (Figure 1A).
+"The hands were enlarged with marked clubbing of the second and fifth digits, as compared with those of an age- and sexmatched healthy donor (Figure 1B)."
+These symptoms developed when he was 18 years old.
+Xray examination of the long bones showed major periostosis with cortical thickening and widening of the shafts (data not shown).
+"Histology of the skin showed thickened dermis, and sebaceous and sweat gland enlargement, as compared with that of a healthy control (Figure 1C)."
+Elastica van Gieson staining showed thick and interwoven collagen bundles in some areas of the dermis and also thick and partially fragmented elastic fibers in PDP (Figure 1D).
+The intensity of mucinous ground substance observed by Alcian blue staining was comparable between a healthy control and a PDP patient (Figure 1E).
+"On the other hand, Fontana Masson staining revealed that the number of melanocytes and the intensity of the staining in the patient with PDP was higher than that in a healthy control (Figure 1F)."
+Neither hepatosplenomegaly nor internal malignancy was found on physical examination tests or computed tomography scans.
+"Biochemical levels of thyroidstimulating hormone showed normal and growth hormone, which likely rules out thyroid acropathy and acromegaly."
+Family history was noncontributory.
+"Based on these clinical manifestations and histological findings, the patient was diagnosed as the complete form of PDP. "
+Case 2
+"The patient was a 38year-old male with clinical findings similar to case 1, including pachydermia, digital clubbing, and periostosis."
+"He had no signs or symptoms of hepatosplenomegaly, pulmonary diseases, tumoral syndrome, thyroid acropathy, or acromegaly (data not shown) as reported previously.19 Cell Preparation, Culture, and Reagents Skin biopsies of the right temple (case 1) and scalp (case 2) were performed for histology and primary culture of fibroblasts."
+"Control donors were matched for age, sex, and biopsy site, and the samples were processed in parallel."
+Institutional approval and informed consent were obtained from all subjects.
+"The biopsy samples were immersed in Dulbecco’s Modified Eagle Medium (Sigma, St. Louis, MO) containing 10% heatinactivated fetal calf serum (Invitrogen, Carlsbad, CA), 5 (cid:3) 10(cid:2)5 mol/L 2mer- captoethanol, 2 mmol/L Lglutamine, 25 mmol/L HEPES (Cellgro, Herndon, VA), 1 mmol/L nonessential amino acids, 1 mmol/L sodium pyruvate, 100 units/ml penicillin, and 100 (cid:2)g/ml streptomycin, with 5% CO2 at 37°C."
+"The fibroblasts were allowed to adhere to the surface of 100mm plastic tissue culture dishes (Nunc, Roskilde, Denmark)."
+"To evaluate the number of fibroblasts, 2 (cid:3) 105 thirdpassage fibroblasts were seeded in 1 ml of medium in 24well dishes and resuspended with trypsin/EDTA 1 week later."
+"The numbers of fibroblasts were evaluated 7 and 14 days after seeding by flow cytometry using FACSCanto (BD Biosciences, San Diego, CA) with standard beads Flow Count (Beckman Coulter, Fullerton, CA) as per the manufacturer’s instructions."
+The actin bundle formation of cultured fibroblasts from a healthy individual and an individual with PDP were examined by staining with alexa 488labeled phalloidin antibody (Invitrogen) 5 days after the fourth passage.
+"For treatment with DKK1, fibroblasts were harvested 5 days after a comparable number of passages and cultured again at 1 (cid:3) 106 cells in one ml of medium with or without recombinant human DKK1 (R&D Systems Inc., Minneapolis, MN) for another 2 days."
+"For treatment with PGE2, fibroblasts were harvested 5 days after a comparable number of passages and cultured again at 1 (cid:3) 105 cells in two ml of medium with or without PGE2 (Sigma) in indomethacin (10 (cid:2)mol/L; Cayman the presence of Chemical Co., Ann Arbor, MI) for another 4 days."
+"Flow Cytometry and Histology Flow cytometric analysis was performed with doublet discrimination on the FACSCanto20 and FlowJo software (TreeStar, San Carlos, CA).21 Human fibroblasts were treated with cytofix/cytoperm buffer according to the manufacturer’s protocol (BD Biosciences)."
+"For cell cycle analysis, fibroblasts were incubated with 7amino actinomycin D (7AAD) (BD Biosciences) for 20 minutes at 4°C."
+"After staining with 7AAD, the DNA contents were analyzed by flow cytometry."
+"For (cid:1)-catenin staining, fibro-"
+"Wnt Signaling and Pachydermia 723 AJP February 2010, Vol. 176, No. 2 blasts were stained with phycoerythrinlabeled (cid:1)-catenin antibody (H102, Santa Cruz Biotechnology Inc., Santa Cruz, CA), and mean fluorescence intensity was evaluated by flow cytometry."
+"For histology, the biopsy samples and the ears of mice were fixed in 10% formaldehyde."
+"Sections of 5-(cid:2)m thickness were prepared and stained with H&E, Elastica van Gieson, or Alcian blue."
+"Immunohistochemical staining on paraffinembedded sections was performed using a Vectastain ABC kit (Vector Laboratories, Burlingame, CA).20 Antibodies used were rabbit antihuman polyclonal DKK1 (ab61034, Abcam, Cambridge, UK), mouse monoclonal antihuman (cid:1)-catenin IgG1 (610153, BD Biosciences, San Diego, CA), and rabbit antihuman polyclonal proliferating cellular nuclear antigen antibodies (SC7907, Santa Cruz Biotechnology Inc., Santa Cruz, CA)."
+"The control antibodies used were rabbit nonimmune serum or mouse IgG1 (X0931, Dako, Glostrup, Denmark)."
+"The immunoreactivity was visualized by Fast Red or diaminobenzidine (Sigma), and the sections were then counterstained with hematoxylin."
+"Images were acquired on a 600CLCU cooled chargecoupled device video camera (Pixera, Los Gatos, CA) and processed with InStudio 1.0.0 (Pixera)."
+"Western Blot Analysis For Western blotting studies, fibroblasts were isolated from a healthy donor."
+Cytoplasm-
+"And nuclear- proteins were extracted by NucBuster Protein Extraction Kit (Novagen, Darmstadt, Germany)."
+"Twenty (cid:2)g protein samples were electrophoresed by 8% SDSpolyacrylamide gel electrophoresis and electroblotted onto polyvinylidene difluoride membranes for 2 hours at 180 mA. After blocking with 5% skim milk solution, the membranes were incubated with rabbit antihuman (cid:1)-catenin (SC7199; 1:1000, Santa Cruz Biotechnology Inc.) polyclonal antibodies or rabbit antihuman glyceraldehyde3-phosphate dehydrogenase (SC25778; 1:1000, Santa Cruz Biotechnology Inc.) antibody and detected with horseradish peroxidaseconjugated goat antirabbit IgG (BioRad, Hercules, CA)."
+"Immunoblots were visualized using the ECL Plus Western Blotting Detection Reagents (GE Health care, Buckinghamshire, UK) according to the manufacturer’s protocol."
+Bands were quantified by densitometry with the help of a CS Analyzer ver. 2.0
+"(ATTO, Tokyo, Japan)."
+"Quantitative Reverse TranscriptionPCR and Microarray Procedures Total RNA was extracted from threepassage fibroblasts (case 1 and the control) cultured for 2 days with the RNeasy Mini Kit (QIAGEN, Valencia, CA)."
+"cDNA was reverse transcribed from total RNA samples using the TaqMan Reverse Transcription (RT) reagents (Applied Biosystems, Foster City, CA)."
+Human DKK1 (Assay ID: Hs00183740) mRNA expression was quantified using TaqMan Gene Expression Assay (Applied Biosystems) with the ABI PRISM 7700 sequence detection system (Applied Biosystems).
+"As an endogenous reference for these RTPCR quantification studies, human GAPDH con- 724 AJP February 2010, Vol. 176, No. 2 Kabashima et al Table 1."
+"PCR and Sequencing Primers Sequence Tm Binding site PCR Primer hDKK1Exon1, 2 Forward Reverse hDKK1Exon3, 4 Forward Reverse hTCF4-Exon1 Forward Reverse hTCF4-6 Forward Reverse hTCF4-9 Forward Reverse hHPGD Exon1"
+Forward Reverse hHPGD Exon2 Forward Reverse hHPGD Exon3 Forward Reverse hHPGD Exon4 Forward Reverse hHPGD Exon5 Forward Reverse hHPGD Exon6
+Forward Reverse hHPGD Exon7 Forward Reverse 5(cid:4)-CGTCTGCTATAACGCTCGCTGGTAG3(cid:4) 5(cid:4)-AATTCATAGACGCTCAAAGGCTGGA3(cid:4) 5(cid:4)-ACTTGCCCCTACCACAGTTG3(cid:4) 5(cid:4)-GTTCCTGCCAATCACCAAGT3(cid:4) 5(cid:4)-TGGCTTTTCTTCCTCCTTCA3(cid:4) 5(cid:4)-AGAAAAAGAATCGGCGAGGT3(cid:4) 5(cid:4)-GCGATTTCTGGCAGGTAGTC3(cid:4) 5(cid:4)-TAGCGATCCAGGAAGATGCT3(cid:4) 5(cid:4)-TTAGTAGGGGTTGGGGGAAG3(cid:4) 5(cid:4)-TTGGTAGAATCATGAGGTTCTTCTC3(cid:4) 5(cid:4)-GCTGGCTTGACAGTTTCCTC3(cid:4) 5(cid:4)-CAGCCTCAGCTTCAGCAAAT3(cid:4) 5(cid:4)-TTGCTGAAGCTGAGGCTGT3(cid:4) 5(cid:4)-TCTTGCCTTTCTTTCGGTTT3(cid:4) 5(cid:4)-TCCACAAACCACACATTGAGA3(cid:4) 5(cid:4)-CCAGCTTTCTGTAACTTCCCTTT3(cid:4) 5(cid:4)-TAGGCAAACCCAAAGAATCC3(cid:4) 5(cid:4)-CACATGGGAGCAGAGACATC3(cid:4) 5(cid:4)-CCTGGGGAGGCAGAAAAA3(cid:4) 5(cid:4)-TTTATTTGGTTCTTTATGTGATCTGA3(cid:4) 5(cid:4)-TGCAGAGTTCAGTAGATAAGAGAAGC3(cid:4) 5(cid:4)-TGCTTGGAATTTAGGCAGAGA3(cid:4) 5(cid:4)-TTGGAAGTAGCAATAGTTTAATGA3(cid:4) 5(cid:4)-TCACCAAGTGCATGAAGGAA3(cid:4)
+"77 73 70 68 66 66 70 68 70 71 70 68 68 64 67 70 66 70 67 67 73 67 68 66 Sequencing Primer Sequence hDKK1Exon1, 2 Forward Reverse hDKK1Exon1-S2 Forward hDKK1Exon2-S1 Forward hDKK1Exon3, 4 Forward Reverse hDKK1Exon3-S1 Forward hDKK1Exon4-S1 Forward hDKK1Exon4-S2 Forward hTCF4-Exon1 Forward Reverse hTCF4-Exon9 Forward Reverse hTCF4-Exon10 Forward Reverse hTCF4-Exon14 Forward Reverse 5(cid:4)-CGTCTGCTATAACGCTCGCTGGTAG3(cid:4) 5(cid:4)-AATTCATAGACGCTCAAAGGCTGGA3(cid:4) 5(cid:4)-CCACCTTGAACTCGGTTCTC3(cid:4) 5(cid:4)-AGAACGTGCTGAATGTGTGC3(cid:4) 5(cid:4)-ACTTGCCCCTACCACAGTTG3(cid:4) 5(cid:4)-GTTCCTGCCAATCACCAAGT3(cid:4) 5(cid:4)-CCTTGGATGGGTATTCCAGA3(cid:4) 5(cid:4)-TCATCAGACTGTGCCTCAGG3(cid:4) 5(cid:4)-AAGGTGCTGCACTGCCTATT3(cid:4) 5(cid:4)-TGGCTTTTCTTCCTCCTTCA3(cid:4) 5(cid:4)-AGAAAAAGAATCGGCGAGGT3(cid:4) 5(cid:4)-GCTTGGGGGTTATGAGACAA3(cid:4) 5(cid:4)-AGACATTCTGCCACCTGACC3(cid:4) 5(cid:4)-CCTTGGCGTAATGTGTGATG3(cid:4) 5(cid:4)-TAGCGATCCAGGAAGATGCT3(cid:4) 5(cid:4)-ACATCCCTTAGGTGACCTCA3(cid:4) 5(cid:4)-GGGGGCAAATTAAGAAAAGTG3(cid:4)"
+Promoter Intron2 3(cid:4)UTR 5(cid:4)UTR Intron1 Intron7 Intron10
+Intron13 3(cid:4)UTR 5(cid:4)UTR Intron1 Intron2 Intron3 Intron4 Intron5 Intron6 3(cid:4)UTR Binding site Promoter Intron2 Exon1 Intron1 Intron2 3(cid:4)UTR Exon3 Exon4 3(cid:4)UTR 5(cid:4)UTR Intron1 Intron8 Intron9 Intron10
+Intron13 3(cid:4)UTR (table continues) 
+Table 1.
+Continued Sequencing Primer hHPGD Exon1
+Forward Reverse hHPGD Exon2 Forward Reverse hHPGD Exon3 Forward Reverse hHPGD Exon4 Forward Reverse hHPGD Exon5 Forward Reverse hHPGD Exon6
+"Forward Reverse hHPGD Exon7 Forward Reverse Wnt Signaling and Pachydermia 725 AJP February 2010, Vol. 176, No. 2 Sequence Binding site 5(cid:4)-GCTGGCTTGACAGTTTCCTC3(cid:4) 5(cid:4)-CAGCCTCAGCTTCAGCAAAT3(cid:4) 5(cid:4)-TTGCTGAAGCTGAGGCTGT3(cid:4) 5(cid:4)-TCTTGCCTTTCTTTCGGTTT3(cid:4) 5(cid:4)-TCCACAAACCACACATTGAGA3(cid:4) 5(cid:4)-CCAGCTTTCTGTAACTTCCCTTT3(cid:4) 5(cid:4)-TAGGCAAACCCAAAGAATCC3(cid:4) 5(cid:4)-CACATGGGAGCAGAGACATC3(cid:4) 5(cid:4)-CCTGGGGAGGCAGAAAAA3(cid:4) 5(cid:4)-TTTATTTGGTTCTTTATGTGATCTGA3(cid:4) 5(cid:4)-TGCAGAGTTCAGTAGATAAGAGAAGC3(cid:4) 5(cid:4)-TGCTTGGAATTTAGGCAGAGA3(cid:4) 5(cid:4)-TTGGAAGTAGCAATAGTTTAATGA3(cid:4) 5(cid:4)-TCACCAAGTGCATGAAGGAA3(cid:4)"
+5(cid:4)UTR Intron1 Intron2 Intron3 intron4 Intron5 Intron6 3(cid:4)UTR
+"The exons of DKK1, TCF7L2 (TCF4), and HPGD genes were amplified via PCR in a thermal cycler using the forward and reverse primer pairs indicated in the upper list."
+Direct sequencing was performed with the BigDye Terminator v3.1 Cycle Sequencing Kit and sequencing primers indicated in the lower list.
+Binding sites of primers are also indicated.
+Trol reagents (Assay ID: Hs99999905) (Applied Biosystems) were used.
+"The relative expression was calculated using the (cid:5)(cid:5) Ct method.22 For DNA microarray analysis, total RNAs were extracted from fibroblasts with the RNeasy Mini Kit (QIAGEN)."
+"For transcriptomic profiling, we used an oligonucleotidebased DNA microarray, AceGene (HumanOligoChip30K, DNA Chip Research, Yokohama, Japan)."
+"Images were analyzed with DNASIS Array (Hitachi Software Engineering, Tokyo, Japan), according to the manufacturer’s instructions."
+"Mean and SD of background levels were calculated, and genes with intensities less than mean plus 2SD of background levels were excluded from further analysis."
+The Cy5/Cy3 ratios of all spots on the DNA microarray were normalized by the method of global normalization.
+"Genetic Analysis for DKK1, TCF, and HPGD Three healthy controls and two PDP patients (cases 1 and 2) were enrolled and followed up according to local Figure 2."
+Characteristics of dermal fibroblasts and histology of the skin in PDP.
+A:
+Fibroblasts from a healthy individual (control) and an individual with PDP (case 1) (PDP) were incubated and the numbers of fibroblasts examined.
+B: The percentages of fibroblasts in SG2 phase are shown.
+"C: The levels of DKK1 mRNA in fibroblasts from two controls and two PDPs were normalized against GAPDH, and the level of one of the control DKK1 mRNAs is regarded as one."
+Filled symbols indicate two independent individuals and columns represent the average.
+D and E: Skin sections were stained with antihuman DKK1 (D) and (cid:1)-catenin (E) antibodies.
+Arrows show the perinuclear area of fibroblasts (D).
+"Scale bars: upper panels (150 (cid:2)m), and lower panels, 10 (cid:2)m (D), and 100 (cid:2)m (E)."
+We include that the controls incorporating nonimmune serum (D) or mouse IgG1 (E) as insets show no specific reactivity.
+"The student’s ttest was performed (*P (cid:6) 0.05) (A, B). "
+"726 AJP February 2010, Vol. 176, No. 2 Kabashima et al Table 2."
+DNA Microarray Analysis Expression levels Gene names Accession ID Control BMP2 BMP3 BMP4 BMP5 BMP6 BMP7 BMP8B BMP10 BMP15 TGFB1 TGFB2 TGFBR1 TGFBR2 TGFBR3 WNT1 WNT2 WNT2B WNT4 WNT5A WNT6 WNT7A WNT8B WNT9A WNT9B WNT10A WNT10B WNT11 WNT16 FZD1 FZD2 FZD3 FZD4 FZD5 FZD6 FZD7 FZD8 DKK1 DKK2 DKK3 KREMEN1 KREMEN2 COL1A1 COL1A2 COL2A1 COL3A1 COL4A1 COL4A2 COL4A3 COL4A4
+COL4A5 COL4A6 COL5A1 COL5A3 COL6A2 COL6A3 COL8A1 COL8A2 COL9A1 COL9A2 COL9A3 COL10A1 COL11A1 COL11A2 COL12A1 NM_001200_1 M22491_1 NM_001202_1 NM_021073_1 NM_001718_1
+NM_001719_1 NM_001720_1 NM_014482_1 NM_005448_1
+NM_000660_1 NM_003238_1 NM_004612_1 NM_003242_1 NM_003243_1 NM_005430_1 ENSG00000105989 NM_024494_1
+AY009398_1 NM_003392_1 BC004329_1 NM_004625_1 NM_003393_1 AB060283_1 AF028703_1 NM_025216_1 NM_003394_1 NM_004626_1 NM_016087_1 NM_003505_1 AB017364_1 AJ272427_1 NM_017412_1 NM_012193_1 NM_003468_1 NM_003506_1 NM_003507_1 AB043703_1 NM_012242_1
+NM_014421_1 NM_015881_1 AB059618_1 NM_024507_1
+K03179_1 NM_000089_1 NM_033150_1 NM_000090_1 NM_001845_1 X05562_1 U02519_1 NM_000092_1 NM_000495_1 D63562_1 BC008760_1 NM_015719_1 AY029208_1 NM_004369_1
+NM_001850_1 M60832_1 NM_001851_1
+NM_001852_1 NM_001853_1 NM_000493_1 NM_001854_1 J04974_1 NM_004370_1 5.72 ND 7.20 4.61 4.34 ND 5.47 ND 8.87 4.34 ND 4.34 6.66 ND 6.36 4.33 5.36 5.13 ND 7.27 7.36 5.69 4.40 5.73 6.46 7.63 7.19 7.05 7.51 ND 6.09 5.02 5.95 9.32 ND 11.61 6.53 9.24 ND 5.20 7.57 13.54 9.46 10.26 8.66 7.17 4.54 4.73 4.23 8.41 10.35 5.57 10.90 6.64 10.47 5.43 6.97 4.15 4.73 4.10 6.45 ND 4.98 PDP 5.87 ND 7.46 4.30 4.96 ND 5.65 ND 7.91 5.05 ND 4.51 5.45 ND 6.95 4.35 5.85 4.99 ND 6.88 6.92 4.47 5.40 4.48 5.85 6.80 6.91 7.01 6.85 ND 6.49 5.44 6.37 9.40 ND 8.46 6.93 9.15 ND 4.33 7.90 13.98 10.09 11.43 7.83 6.83 5.04 4.30 5.72 8.68 10.25 6.20 10.62 5.37 11.09 5.55 6.84 6.13 5.17 6.90 9.28 ND 6.26 Difference Fold difference 0.16 NA 0.26 (cid:2)0.30 0.61 NA 0.18 NA
+(cid:2)0.97 0.72 NA 0.17 (cid:2)1.21 NA 0.60 0.03 0.50 (cid:2)0.14 NA (cid:2)0.39 (cid:2)0.44 (cid:2)1.22 1.00 (cid:2)1.25 (cid:2)0.61 (cid:2)0.83 (cid:2)0.28 (cid:2)0.03 (cid:2)0.67 NA 0.41 0.42 0.42 0.08 NA (cid:2)3.15 0.40 (cid:2)0.08 NA 0.34 0.44 0.63 1.17 (cid:2)0.83 (cid:2)0.34 0.49 (cid:2)0.43 1.50 0.28 (cid:2)0.09 0.62 (cid:2)0.29 (cid:2)1.27 0.61 0.11 (cid:2)0.13 1.98 0.44 2.80 2.84 NA 1.27 (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) 0.4 (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) 0.4 (cid:2) 0.4 (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) 0.1 (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) 2.3 (cid:2) (cid:2) (cid:2) (cid:2) 2.8 (cid:2) (cid:2) (cid:2) (cid:2) 0.4 (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) 2.5 (table continues) 
+Table 2.
+Continued Expression levels Gene names
+"Accession ID Control COL14A1 COL15A1 COL17A1 COL18A1 COL19A1 FN1 FN5 ELN Y11711_1 NM_001855_1 NM_000494_1 NM_030582_1 NM_001858_1 X07717_1 NM_020179_1 NM_000501_1 4.21 ND 4.32 5.73 ND 7.10 6.41 7.60 PDP 5.81 ND 6.33 6.03 ND 6.69 6.71 7.33 Wnt Signaling and Pachydermia 727 AJP February 2010, Vol. 176, No. 2 Difference Fold difference 1.60 NA 2.01 0.30 NA (cid:2)0.41 0.30 (cid:2)0.26 (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2)"
+"The upper list of genes related to BMP, TGF-(cid:1), and Wnt signaling."
+"The lower list of genes is related to collagens, fibronectins, and elastin."
+"The mRNA expression levels of a healthy donor (control) and the individual with PDP (PDP) are normalized by LOWESS normalization, and indicated by log2."
+The values in Difference indicate mRNA expression levels of the individual with PDP—those of the healthy individual.
+"The values under &lquote;Fold Difference’ indicate mRNA expression levels of the individual with PDP/those of the healthy individual, ie, Log2(Difference)."
+The symbol “(cid:2)” in the Fold Difference indicates nonsignificant difference between the healthy donor and the individual with PDP.
+"ND, not determined."
+"NA, not applicable."
+Ethical guidelines.
+Genomic DNA was isolated from primary fibroblasts or peripheral blood leukocytes using proteinase K and the PCI (phenol/chloroform/isoamyl alcohol) extraction procedure.
+"The DKK1 (GenBank: NM012242), TCF7L2 (TCF4) (GenBank: NM030756), and HPGD (NM000860) genes were amplified via PCR in a thermal cycler (Eppendorf, Hamburg, Germany) using forward and reverse primer pairs (Table 1)."
+"Amplified products were purified with the QIAquick Gel Extraction Kit (QIAGEN, Valencia, CA) or Wizard SV Gel and PCR CleanUp System (Promega, Madison, WI) after 1.5% agarose electrophoresis."
+"Direct sequencing was performed with the BigDye Terminator v3.1 Cycle Sequencing Kit (Applied Biosystems, Foster City, CA) and sequencing primers (Table 1) using capillary electrophoresis (ABI Prism 3130xl Genetic Analyzer; Applied Biosystems), and analyzed with ABI Prism DNA Sequencing Analysis software ver."
+"5.1 (Applied Biosystems) as previously described.23 Application of Mouse DKK1 siRNA Mouse DKK1 siRNA (5(cid:4)-GAA CCA CAC UGA CUU CAA ATT3(cid:4)) was purchased from Nippon EGT (Toyama, Japan)."
+"siRNA duplexes were generated by mixing sense and antisense singlestranded RNA oligomers equally in an annealing buffer (NIPPON EGT).24 Negative control siRNA (AM4611) was purchased from Ambion (Austin, TX)."
+"To impregnate mouse DKK1 siRNA into cationized gelatin microspheres,25 10 (cid:2)l of PBS solution (pH 7.4) containing 10 (cid:2)g of mouse DKK1 siRNA was dropped onto 1 mg of the freezedried cationized gelatin microspheres, kept overnight at 4°C, and added to 190 (cid:2)l of PBS."
+"Ten (cid:2)l of this siRNA solution was injected intradermally into the center of the ears of 8week-old C57BL/6j female mice (obtained from SLC, Shizuoka, Japan) using a 30gauge needle four times every 7 days."
+The same amount of cationized gelatinconjugated nonsense siRNA was applied as a negative control.
+"The ear thickness was measured before each injection and one week after the last injection using dialthickness gauge (PG01, TECLOCK, Okaya, Japan)."
+The injected area was sampled for histology and RTPCR analysis using 6mm punch biopsy.
+Mice were maintained on a 12 hour light/ dark cycle under specific pathogenfree conditions.
+Protocols were approved by the Institutional Animal Care and Use Committee of the University of Occupational and Environmental Health.
+Statistical Analysis Data were analyzed using an unpaired twotailed ttest.
+A P value of less than 0.05 was considered to be significant.
+"Results Increased SG2 Phase in Fibroblasts of PDP Case 1 had a typical complete form of PDP (Figure 1, A and B) characterized by the triad of pachydermia, digital clubbing, and periostosis.1–3 The histology of the skin showed thickened dermis with dense and packed collagen and elastic fibers (Figure 1, C(cid:2)E), suggesting that the function of fibroblasts was enhanced in PDP."
+"To test the proliferative activity of fibroblasts, we cultured primary fibroblasts from case 1 and a matched control, and monitored their number."
+"As reported previously,26 the number of PDP fibroblasts was significantly higher than that of control fibroblasts (Figure 2A)."
+"Similar results were obtained in another typical patient with PDP, case 2 (data not shown)."
+"To clarify whether it was due to enhanced cell survival or proliferation, we stained the nuclear contents of fibroblasts with 7AAD for cell cycle analysis."
+"The ratio of PDP fibroblasts in the cell cycle (SG2 phase) was higher than that of control fibroblasts (Figure 2B), suggesting that the proliferation of fibroblasts was enhanced in PDP."
+Decreased DKK1 Expression in PDP Fibroblasts and Skin
+"The above results together with the clinical phenotypes involving the skin and bone suggested the possibility that the pathogenesis of PDP is related to dysregulation of BMP, Wnt, and/or TGF-(cid:1) pathways in mesenchymal cells."
+"To efficiently compare the expression profiles of these genes between PDP fibroblasts (case 1) and matched controls, 728 AJP February 2010, Vol. 176, No. 2 Kabashima et al DNA microarray analysis was performed, and the complete array data were deposited in a MIAMEcompliant microarray database (GSE17947)."
+"Among all genes analyzed, 2573 genes were elevated, and 2346 genes were decreased more than twofold in PDP patients compared with a healthy control."
+The analysis revealed that the mRNA levels of BMP and TGF-(cid:1) families were comparable between these two groups (Table 2).
+"On the other hand, WNT1, WNT10B, and DKK1 mRNAs were decreased in the patient’s fibroblasts (Table 2)."
+"In particular, DKK1 mRNA was markedly decreased."
+"Other molecules, such as levels of LRP5/6, Kremen1, and Kremen2 mRNA were similar between these two groups (Table 2)."
+"Moreover, the mRNA levels for collagen families, such as COL4A5, COL9A2, COL10A1, COL11A1, COL12A1, COL14A1, and COL17A1, were elevated, but those for fibronectin and elastin (ELN) families were not (Table 2)."
+"These data suggest that the PDP fibroblasts showed enhanced production of several types of collagens in addition to cell proliferation, which might explain the pathogenesis of pachydermia in PDP."
+We initially confirmed the decreased DKK1 expression using quantitative RTPCR.
+Fibroblasts were primarily cultured from two PDP patients (cases 1 and 2) and two matched healthy controls.
+DKK1 mRNA levels in PDP fibroblasts were consistently lower than those in the control fibroblasts (Figure 2C).
+We then performed immunohistochemical analysis to evaluate the expression of DKK1 protein in the PDP skin (case 1) and the control.
+"In the normal skin, DKK1 was detected diffusely in the dermis (Figure 2D, upper panels) and notably in the cytoplasm of fibroblasts (Figure 2D, lower panels)."
+"The intensity of this expression pattern was substantially decreased in the PDP patient (case 1) (Figure 2D, lower panels)."
+This finding was confirmed with the other PDP patient (case 2) and another matched control (data not shown).
+"We displayed that the controls incorporating nonimmune serum (inset, Figure 2D) or mouse IgG1 (inset, Figure 2E) show no specific reactivity."
+The decreased expression of DKK1 in PDP suggested that Wnt signaling is enhanced in PDP.
+"Immunohistochemical analysis revealed enhanced (cid:1)-catenin expression in the PDP skin (case 1), especially around the sebaceous glands, the hair follicles, and the epidermis, and mildly in the dermis, as compared with the control (Figure 2E), supporting the augmented expression of Wnt signaling."
+Suppression of Fibroblast Proliferation by DKK1 The above results indicated that Wnt signaling is enhanced in PDP through decreased DKK1 expression.
+"However, it was still unknown whether DKK1 directly modulates the function of dermal fibroblasts."
+"To solve this issue, we cultured dermal fibroblasts from a healthy control and the patient with PDP (case 1) in the presence or absence of human recombinant DKK1, and quantitated the DNA contents of fibroblasts by cell cycle analysis with 7AAD."
+"The ratio of fibroblasts in the cell cycle (SG2 phase) was higher in the PDP patient than in the control (Figure 3, A and B)."
+"In addition, the ratio of fibroblasts with the cell cycle (SG2 phase) was decreased by treat- Figure 3."
+The effect of DKK1 on fibroblast proliferation and actin bundle formation of fibroblasts.
+"A, B: The fibroblasts from a healthy individual (control) and an individual with PDP (PDP) were incubated with or without recombinant human DKK1 protein and the DNA contents of fibroblasts were evaluated with 7AAD using flow cytometry."
+Representatives of FACS plots of fibroblasts from a healthy individual (control) and an individual with PDP (PDP) are shown (A).
+The percentages of fibroblasts in SG2 phase in triplicated wells are expressed as the mean (cid:7) SD (n (cid:1) 3).
+The student’s ttest was performed between the indicated groups and *P (cid:6) 0.05.
+C: The actin bundle formation of cultured fibroblasts from a healthy individual (control) and an individual with PDP (PDP) were examined by staining with alexa 488labeled phalloidin antibody 5 days after the fourth passage.
+"Upper panels, low magnification ((cid:3)10); lower panels, high magnification ((cid:3)40)."
+"Ment with recombinant DKK1 protein in a dosedepen- dent manner (Figure 3B), implicating the direct involvement of DKK1 in fibroblast proliferation."
+"Enhanced Actin Bundle Formation of Fibroblasts in PDP Wnt signaling is also known to induce cell motility and cytoskeletal rearrangement of NIH3T3, a fibroblast cell line.27 Therefore, we examined the actin bundle formation Wnt Signaling and Pachydermia 729 AJP February 2010, Vol. 176, No. 2 (cid:2) Number of fibroblasts with PGE2)/Number of fibroblasts without PGE2 Figure 4."
+Effect of PGE2 on fibroblasts.
+A: The % inhibition of the number of fibroblasts from a healthy donor and a PDP patient by the addition of PGE2 was evaluated (cid:3) 100.
+The growth inhibitory effect of PGE2 is as (Number of fibroblasts without PGE2 dosedependent and comparable between these two groups.
+The values are expressed as the mean (cid:7) SD (n (cid:1) 3) and are representative of two independent experiments.
+"B, C: The effects of PGE2 on (cid:1)-catenin expression and DKK1 mRNA levels in fibroblasts were evaluated."
+The mean fluorescent intensity (MFI) of (cid:1)-catenin (B) and DKK1 mRNA (C) in fibroblasts after exposure to PGE2 is shown.
+The amount of DKK1 mRNA relative to GAPDH mRNA without the addition of PGE2 is regarded as one.
+The values are expressed as the mean (cid:7) SD (n (cid:1) 3) and *P (cid:6) 0.05.
+D: Cytoplasm-
+"(right panel) and nuclear- (left panel) protein samples from fibroblasts treated with or without 0, 100, and 1000 nmol/L PGE2 for 4 days were used to determine the effect of PGE2 on (cid:1)-catenin expression."
+The values are expressed as the mean (cid:7) SD (n (cid:1) 3 to 4) and *P (cid:6) 0.05. Of cultured fibroblasts with phalloidin staining 5 days after the fourth passage.
+"Fluorescent microscopy showed that the actin bundle formation of PDP fibroblasts is promoted in PDP, as the bundles were thicker and denser than those of control fibroblasts (Figure 3C)."
+Effect of PGE2 on Fibroblasts It was recently reported that the incomplete form of PDP is induced by elevated PGE2 due to a mutation in the HPGD gene.6
+"If this PGE2 alteration also affects pachydermia, PGE2 would be expected to enhance fibroblast function and proliferation."
+"The addition of PGE2 into the cultured medium of fibroblasts decreased the number of dermal fibroblasts from healthy donors in a dosedependent manner as reported previously28,29 (Figure 4A)."
+A similar effect was observed when PGE2 was added to the culture medium of fibroblasts from the PDP patient (case 2).
+"To examine whether PGE2 affects Wnt signaling in fibroblasts, we measured the amount of (cid:1)-catenin in fibroblasts after exposure to PGE2 by flow cytometry, and found that (cid:1)-catenin was significantly increased in fibroblasts by the addition of PGE2 at a dose of 1000 nmol/L (Figure 4B)."
+"In addition, the mRNA expression level of DKK1 was significantly decreased by the addition of PGE2 at a dose of 100 and 1000 nmol/L (Figure 4C)."
+"Moreover, to determine the effect of PGE2 on (cid:1)-catenin expression, cytoplasm- and nuclearprotein samples were prepared from fibroblasts treated with or without 0, 100, and 1000 nmol/L PGE2 in the presence of 10 (cid:2)mol/L indomethacin for 4 days."
+"In the cytoplasm, (cid:1)-catenin expression was unchanged irrespective of the addition of PGE2."
+"However, (cid:1)-catenin expression in the nuclei was significantly increased by the treatment with 100 and 1000 nmol/L PGE2 (Figure 4D)."
+These results suggest that PGE2 signaling increases nuclear (cid:1)-catenin in fibroblasts.
+"Genetic Analysis for DKK1, TCF4, and HPGD Genes To address the cause of PDP, we initially analyzed the sequences of HPGD, and found no mutation including single nucleotide polymorphism that was different among three healthy donors and two PDP patients (data not the shown)."
+"Rather, our current results suggest pathogenesis of the complete form of PDP may be attributable to enhanced Wnt signaling secondary to decreased DKK1 expression."
+"Moreover, it remains uncertain how DKK1 expression is reduced in PDP."
+"One possible mediator is TCF7L2 (TCF4), which binds to the thus enhancing activity of DKK1.30 DKK1 promoter,"
+"That 730 AJP February 2010, Vol. 176, No. 2 Kabashima et al Figure 5."
+The effect of mouse DKK1 siRNA on pachydermia.
+A: Mouse DKK1 siRNA and controlscrambled siRNA (control siRNA) solutions were injected intradermally into the ears of mice four times every 7 days.
+The expression of DKK1 mRNA in the skin 1 week after the last siRNA injection was evaluated by quantitative RTPCR analysis.
+The mean value of DKK1 mRNA relative to GAPDH mRNA treated with scrambled siRNA is regarded as one (n (cid:1) 5).
+B: The ear thickness was measured every week before each injection and one week after the last injection.
+"Columns show the mean (cid:7) SD (n (cid:1) 8, each group) from two independent experiments."
+The student’s ttest was performed between the indicated groups and *P (cid:6) 0.05.
+C(cid:2)D: The skin from the ears one week after the last siRNA injection was fixed and stained with H&E (C).
+"In addition, skin sections were stained with anti-(cid:1)-catenin antibody by immunohistochemistry."
+Enhanced (cid:1)-catenin expression is visible diffusely in the dermis of the skin treated with DKK1 siRNA (D).
+Scale bars (cid:1) 100 (cid:2)m.
+E: The samples stained with Elastica van Gieson shows the thick collagen and elastic fibers in the dermis of mice treated with DKK1 siRNA.
+F: The samples are stained with proliferating cellular nuclear antigen (PCNA).
+Red arrowheads depict PCNA positive cells.
+"Hence, we further analyzed the sequence of DKK1 and TCF4."
+"However, sequence analyses of the coding seincluding exonintron quences of DKK1 and TCF4, boundaries revealed no mutation (data not shown)."
+"In addition, the primers used in this study sequenced all exonintron boundaries of DKK1, TCF4, and HPGD, but no mutation was found."
+"DKK1 siRNA Enhances Ear Thickness in Mice Finally, we used mice to pursue direct evidence for DKK1 involvement in pachydermia."
+We injected a solution of mouse DKK1 siRNA or control siRNA intradermally into the ears of mice four times every 7 days.
+Quantitative RTPCR analysis revealed that this procedure successfully suppressed the expression of DKK1 mRNA in the skin by about 60% (Figure 5A).
+The ear thickness was measured every week before each injection and 1 week after the last injection.
+The ear thickness was significantly augmented by the application of DKK1 siRNA (Figure 5B).
+"The histological findings showed that the dermis was thickened with increased fibroblasts (Figure 5, C(cid:2)F)."
+"Consistent with these findings, enhanced (cid:1)-catenin expression was observed diffusely in the dermis treated with DKK1 siRNA."
+(Figure 5D).
+Discussion We showed that Wnt/DKK1 plays a key role in the development of pachydermia in several aspects.
+"Firstly, proliferation of fibroblasts from the PDP patients was pro- moted with a higher ratio in the cell cycle than compared with normal fibroblasts, and human recombinant DKK1 protein decreased their proliferation."
+"Secondly, the expression levels of DKK1 mRNA in PDP fibroblasts and DKK1 protein in PDP skin were lower than those in healthy controls."
+"Thirdly, (cid:1)-catenin intensity in the skin from PDP was pronounced by immunohistochemistry."
+"Finally, application of mouse DKK1 siRNA increased the thickness of the skin in accordance with the elevated (cid:1)-catenin levels."
+These results suggest that enhanced Wnt signaling is related to the development of pachydermia.
+"Pachydermia is one of the clinical manifestations of the complete form of PDP, which involves both skin and bone."
+"For example, BMP, TGF-(cid:1), and Wnt families are the possible molecules responsible for the changes in both organs."
+"There are several congenital diseases related to both organs, such as basal cell nevus syndrome, synovitis acne pustulosis hyperostosis ostitis syndrome, KlippelTrenau- nayWeber syndrome.31–33 BushchkeOllendorff syndrome, in which osteopoikilosis is associated with connective tissue nevi, is particularly of note, since mutations in LEMD3, a gene implicated in BMP signaling, are candidates for its pathogenesis.34 However, we could not detect a significant difference in mRNA expression for BMP or TGF-(cid:1) families between PDP and control fibroblasts by DNA microarray analysis."
+"Syndrome, and BuschkeOllendorff Recently, the incomplete form of PDP was attributed to elevated PGE2 due to the mutation of HPGD."
+"The skeletal phenotype of PDP, particularly clubbing and periostosis, can clearly be explained by elevated PGE2, since it is well known that PGE2 stimulates the activity of both os- teoclasts and osteoblasts,35 leading to bone deposition (periostosis) and resorption (acroosteolysis), respectively."
+"However, we could not detect a mutation in HPGD."
+"In addition, the level of serum PGE2 from one of our PDP cases (case 1) was within the normal range (data not shown)."
+"In fact, longterm therapeutic administration of exogenous PGE2 for skin ulcers secondary to systemic sclerosis, arteriosclerosis obliterans, and Buerger diseases does not induce pachydermia, sebaceous hyperplasia, or velvet coloration of the skin as adverse effects."
+"Moreover, the addition of PGE2 into the fibroblast culture did not induce proliferation."
+"Therefore, it remains unknown how the skin manifestations of PDP are induced."
+Here we focused on Wnt signaling in the development of pachydermia.
+"Fibroblasts from PDP skin and bone marrowderived fibroblasts of PDP patients are known to grow faster than those of healthy donors.26,36"
+"The transfection of DKK1 into cultured mouse fibroblasts, NIH3T3, blocked WNT2induced cell growth and the WNT2in- duced increase in uncomplexed (cid:1)-catenin.37 WNT3a induced motility and cytoskeletal rearrangement of NIH3T3 cells.27"
+These previous reports suggest that enhanced Wnt/(cid:1)-catenin signaling promotes fibroblast proliferation and cytoskeletal rearrangement.
+"In fact, we found that the frequency of PDP fibroblasts in cycle was increased, and that actin bundle formation was more pronounced in PDP fibroblasts."
+"Moreover, the addition of human recombinant DKK1 consistently suppressed the fibroblast proliferation."
+The source of DKK1 and how it works in the skin are issues that remain to be clarified.
+"According to our immunohistochemical analysis, the major source of DKK1 in the skin seems to be fibroblasts, because the DKK1 expression in fibroblasts was low in PDP."
+"Since DKK1 is a secreted antagonist and may affect bystander cells in the vicinity of fibroblasts, the dysregulated production of DKK1 possibly modulates the functions of not only fibroblasts but also other cells, such as keratinocytes and melanocytes."
+"It was reported that high DKK1 expression by dermal fibroblasts in the palms and soles inhibits the function of melanocytes via suppression of (cid:1)-catenin and microphthalmiaassociated transcription factor, and enhances keratinocyte proliferation.16,17,38 Mice with an overexpression of DKK1 in skin consistently lacked formation of appendages, such as hair follicles, and the mice had no skin pigmentation on the trunk.18"
+The role of DKK1 has been more extensively studied in bone than in the skin.
+"DKK1 is known to inhibit osteoblast differentiation, and the overproduction of DKK1 was noted in osteolytic bone lesions of patients with multiple myeloma.39 The elevated DKK1 levels in bone marrow plasma and peripheral blood from the patients were correlated with the presence of focal bone lesions."
+"Recombinant human DKK1 inhibited the differentiation of osteoblast precursor cells in vitro.40,41"
+These previous observations could explain the periostosis in PDP possibly secondary to decreased DKK1 expression.
+"Since fibroblasts and osteoblasts are derived from mesenchymal origin, they seem to share in common the mechanism of differentiation and proliferation."
+"Although we did not Wnt Signaling and Pachydermia 731 AJP February 2010, Vol. 176, No. 2 address the relationship between DKK1 and the skeletal phenotype in PDP, it would be of interest to analyze the function of osteoblasts in PDP."
+The next question is how Wnt signaling is enhanced.
+One possibility provided by our present study is the suppression of DKK1 expression in fibroblasts.
+The mechanism by which DKK1 is downregulated in PDP remains to be elucidated.
+"It can be hypothesized that there is a mutation in DKK1 or molecules controlling DKK1 expression, such as TCF4."
+"However, no mutation was detected in either exons of DKK1 or TCF4 genes."
+"Therefore, in the present study, we could not determine the genetic mechanism responsible for the complete form of PDP and/or pachydermia."
+"Given the defect in PDP appears to altered expression of DKK1, it will be of interest in future studies to analyze the regulatory regions of DKK1, especially around the TCF binding sites, an issue which remains to be clarified."
+"On the other hand, the Wnt/(cid:1)-catenin pathway is known to increase DKK1 mRNA and protein, thus initiating a negative feedback loop.42 It can be hypothesized that this negative feedback regulation might be dysregulated in PDP."
+"Moreover, due to this negative feedback system, DKK1 can work as a tumor suppressor gene in some types of neoplasia.42,43 Hypertrophic osteoarthritis is occasionally induced by a variety of thoracoabdominal, sometimes malignant, conditions."
+The relationship between decreased DKK1 expression and secondary hypertrophic osteoarthritis in association with malignancy may be an interesting issue to pursue.
+It still remains unclear whether PDP in our cases could be attributed to the mutation in HPGD or not.
+"Of note is that our cases were diagnosed as the complete form of PDP including pachydermia and adolescent onset, but that the cases with HPGD mutation had the incomplete form of PDP without pachydermia and with early onset (within the first year of their lives)."
+The onset of the PDP is bimodal.
+"The first peak is during the first year of the life and the second at the age of 15 years.3,44 Therefore, the pathogenesis of PDP might be subdivided into at least two groups."
+"However, further clinical studies in combination with HPGD mutation analysis will be required to clarify this."
+"In PDP, clinical cutaneous manifestations include pachydermia, seborrhea, and velvet colored skin."
+"At present, we could not show direct evidence that all the phenotypes of PDP were induced by enhanced Wnt signaling secondary to the suppressed expression of DKK1."
+"In addition, the number of cases in our study was limited."
+"However, our findings, together with those of previous studies suggest that the Wnt signaling pathway was promoted in accordance with decreased DKK1 expression, leading to increased fibroblast proliferation, enhanced pigmentation of the skin, and adnexal hyperplasia."
+"Acknowledgments We thank Ms. Rie Murase and Dr. Yosuke Okada for technical assistance, and Dr. Tatsuya Ishibe for discussion. "
+"732 AJP February 2010, Vol. 176, No. 2 Kabashima et al"

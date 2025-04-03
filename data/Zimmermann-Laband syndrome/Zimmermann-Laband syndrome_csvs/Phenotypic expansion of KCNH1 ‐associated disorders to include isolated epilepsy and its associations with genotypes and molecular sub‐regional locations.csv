@@ -1,0 +1,452 @@
+Received: 3 August 2022 | Revised: 20 September 2022 | Accepted: 29 September 2022 DOI: 10.1111/cns.14001 O R
+I G I N A L A R T
+I C L E Phenotypic expansion of KCNH1- associated disorders to include isolated epilepsy and its associations with genotypes and molecular sub-regional locations Mao-
+"Qiang Tian1,2 | Ren-"
+"Ke Li1,2 | Fan Yang3 | Xiao- Mei Shu1,2 | "
+"Juan Li1,2 | Jing Chen1,2 | Long- Ying Peng1,2 | Xiao- Hua Yu1,2 | Chang-"
+"Jian Yang1,2 1Department of Pediatrics, Affiliated Hospital of Zunyi Medical University, Zunyi, China 2Department of Pediatrics, Guizhou Children's Hospital, Zunyi, China 3Cipher Gene LLC, Beijing, China Correspondence Mao-"
+"Qiang Tian, Department of Pediatrics, Affiliated Hospital of Zunyi Medical University, Zunyi 563003, China.  "
+"Department of Pediatrics, Guizhou Children's Hospital, Zunyi 563003, China."
+Email: drmaoqiang@126.com
+"Funding information Basic Research Program of Guizhou Province: Guizhou Science and Technology Foundation, Grant/Award Number: ZK General 418"
+Abstract Purpose: Genotype- phenotypic correlation of KCNH1 variant remains elusive.  
+This study aimed to expand the phenotypic spectrum of KCNH1 and explore the correla- tions between epilepsy and molecular sub-regional locations.
+Methods: We performed whole- exome sequencing in a cohort of 98 patients with familiar febrile seizure (FS) or epilepsy with unexplained etiologies.
+The damaging ef- fects of variants were predicted by protein modeling and multiple in silico tools.
+All reported patients with KCNH1 pathogenic variants with detailed neurological pheno- types were analyzed to evaluate the genotype- phenotype correlation.
+"Results: Two novel KCNH1 variants were identified in three cases, including two pa- tients with FS with inherited variant (p. Ile113Thr) and one boy with epilepsy with de novo variant (p. Arg357Trp)."
+"Variant Ile113Thr was located within the eag domain, and variant p. Arg357Trp was located in transmembrane domain 4 of KCNH1, respectively.  "
+"Two patients experienced refractory status epilepticus (SE), of which one patient died of acute encephalopathy induced by SE."
+"Further analysis of 30 variants in 51 patients demonstrated that de novo variants were associated with epileptic encephalopathy, while mosaic/somatic or germline variants cause isolated epilepsy/FS."
+"All hotspot var- iants associated with epileptic encephalopathy clustered in transmembrane domain (S4 and S6), while those with isolated epilepsy/seizures or TBS/ZLS without epilepsy were scattered in the KCNH1."
+Conclusions: We found two novel missense variants of KCNH1 in three individuals with isolated FS/epilepsy.
+Variants in the KCNH1 cause a spectrum of epileptic disor- ders ranging from a benign form of genetic isolated epilepsy/FS to intractable form of epileptic encephalopathy.
+The genotypes and variant locations help to explain the phenotypic variation of patients with KCNH1 variant.
+Mao-
+Qiang Tian and Ren- Ke Li contributed equally to this work.  
+"This is an open access article under the terms of the Creative Commons Attribution License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited."
+© 2022 The Authors.
+CNS Neuroscience & Therapeutics published by John Wiley & Sons Ltd. 270 | wileyonlinelibrary.com/journal/cns CNS Neurosci Ther.
+2023;29:270–281. 
+"K E Y W O R D S epilepsy, KCNH1 gene, status epilepticus, Temple-"
+"Baraitser syndrome, Zimmermann-"
+Laband syndrome | 271 1 | I
+NTRO D U C TI
+"O N KCNH1 gene (OMIM* 603305), mapping to 1q32.2, encodes po-"
+Tassium voltage- gated channel subfamily H member 1 (KCNH1).  
+"Anti- seizure medicines (ASMs), results of brain magnetic resonance imaging (MRI), and video- electroencephalography (EEG).  "
+"Epileptic seizures or epilepsies were diagnosed according to the criteria of the Commission on Classification and Terminology of the ILAE.10– 12 FS KCNH1 is a protein with 989 amino acids, containing an eag domain is defined as seizures triggered by fever during aged 6 months to in N- terminal, which is composed of a Per- Arnt- Sim (PAS) domain and a PAS- cap domain, whereas the C- terminal region contains a cyclic nucleotide- binding homology domain (CNBHD), which is connected to the pore through a C- linker domain."
+"Besides, KCNH1 exhibits a typical Kv membrane topology with six transmembrane domains (S1– S6).1,2 KCNH1 is highly expressed in human brain, being 5 years without a history of an unprovoked seizure or concurrent central nervous system infection.13,14 SE is defined as convulsions persisting for >5 min. Refractory SE is defined as clinical or electroencephalographic seizures lasting >60 min despite treated with at least one first- line ASMs (e.g., benzodiazepine) and one second- line ASMs (e.g., phenytoin, phenobarbital, or valproate)."
+"Super- refractory essential for brain development (www.prote inatl as.org/ENSG0 00001 43473 - KCNH1).3,4 "
+"Clinically, variants in KCNH1 have been SE is defined as SE that has persisted or recurred for 24 h after the onset of general anesthesia treatment.15– 17 Epilepsies with acquired associated with Temple- Baraitser syndrome (TBS, OMIM# 611816) causes were excluded."
+And Zimmermann-
+"Laband syndrome (ZLS, OMIM# 135500), two forms of neurodevelopmental disorder charactered by intellectual disability (ID), developmental disorder (DD), coarse face, gingival overgrowth, hypertrichosis, digital/toe anomalies, and seizures.5– 9 2.2 | Trios- based WES Although epileptic seizures were usually observed in these syn- Blood samples were obtained from the probands and their parents dromes, the genotype- phenotypic associations of KCNH1 are not to determine the origin of the identified genetic variants."
+"Genomic fully understood, as pathogenic KCNH1 variants have been identi- DNA was extracted from peripheral blood using a QuickGene DNA fied in uncharacterized patients exhibited a part of the above pheno- whole blood kit (Fujifilm)."
+"Exome captures were performed using the types, including isolated epilepsy could be ascribed neither to a TBS IDT xGen Exome Research Panel with paired- end read sequences nor to a ZLS."
+"Here, we reported three cases harboring novel variants generated on NovaSeq 6000 sequencing.  "
+"Sequences were aligned in the KCNH1 gene suffering from epilepsy/febrile seizure (FS) and refractory status epilepticus (SE), but otherwise presenting distinct to Human reference genome GRCh38/hg38.  "
+"The variants were then annotated through AnnoVar18 and evaluated according to al- clinical features of TBS or ZLS, broadening the phenotypic spectrum lele frequencies, pathogenicity prediction, and protein function.  Of KCNH1.  "
+"We also analyzed all previously reported patients with Pathogenic variants related to clinical phenotypes will further be KCNH1 variant, focusing on the correlations between epilepsy and verified by Sanger sequencing."
+Molecular sub-regional locations.
+2 | M ATE R I A L S
+"An N D M E TH O DS 2.1 | Subjects 2.3 | Mutation analysis Aiming to evaluate the genotype- phenotype correlation, we exhaus- tively searched KCNH1 pathogenic variants on the PubMed up until Mar 2022 to identify studies published in English using the follow- Patients with unexplained epilepsy or familial FS were recruited ing terms: KCNH1, epilepsy, seizure, TBS, ZLS, Temple-"
+"Baraitser, from Department of Pediatrics, Affiliated Hospital of Zunyi Medical Zimmermann-"
+Laband.  
+All pathogenic variants in patients with de- University between July 2017 and March 2021.
+The studies adhered tailed neurological phenotypes were analyzed.
+To the guidelines of the International Committee of Medical Journal Molecular modeling analysis was performed to show the vari- Editors with regard to patient's consent for research or participation.  
+This study was approved by the ethics committee of the Affiliated ations in protein structure.  
+The human_KCNH1 model was downloaded in the AlphaFold dataset.19 UCSF Chimera software was used Hospital of Zunyi Medical University.
+We obtained written consents for three-dimensional protein structure visualization and analysis.  
+For genetic testing and publication of data for all patients.
+"Detailed clinical information of the patients was collected, DUTE server (http://biosig.unime lb.edu.au/duet/) and Grantham scores20 were used for prediction of protein stability changes."
+"The including age, gender, epileptic types and frequencies, general changes of the protein stability were assessed using the free energy and neurological examination results, family history, response to stability change (DDG, kcal/mol) value."
+TIAN et al.272 | 3 | R E S U LT S 3.1 | Identification of KCNH1 variants
+"A total of 98 patients were recruited; among them, two missense KCNH1 variants were identified in three cases (Table 1; Figure 1A,D), including one inherited variant (c.338T>C; p. Ile113Thr) and one de novo variant (c.1069C>T; p. Arg357Trp).  "
+The three cases had no other pathogenic or likely pathogenic variants.  
+"Two variants of KCNH1 were annotated based on the transcript NM_172362 and confirmed by Sanger sequencing (Figure 1B,E)."
+"The amino acid residues of the two missense variants are highly conserved in various species (Figure 1C,F)."
+The two missense vari- ants were suggested to be damaging/disease- causing/conserved by at least three silico tools (Table 2).
+The two variants are not present in gnomAD database (Table 2).
+Variant p. Arg357Trp was predicted to have more severe effects than variant 
+p. Ile113Thr (101 vs. 89) 
+According to Grantham scores.
+3.2 | Clinical information The three patients showed infancy or childhood- onset seizures (8 months– 1.5 years).  
+The main clinical features of the cases are summarized in Table 1.  
+Three patients were all born to non- consanguineous parents after an uneventful pregnancy.
+Case 1 and case 2 harbored variant p. Ile113Thr.  
+Case 1 was a 4- year- old boy.
+He developed simple FS at frequency of 1– 2 times yearly since age of 1 year.
+Psychomotor development was normal.  
+EEG and brain MRI were unremarkable.  
+"He experienced febrile- induced SE at age of 4, his seizures, which lasted for 1 h, ceased after the administration of intravenous continuous infusion of valproate (1.5 mg/kg/h)."
+"He was comatose, despite the disappearance of the seizures."
+His Glasgow Coma Scale score was 6/15 (E2 + V2 + M2).
+"He developed refractory SE 2 days after admission, as his seizures were unresponsive to standard use of diazepam, intravenous valproate, and phenobarbital.  "
+Super- refractory SE was diagnosed because seizures remained uncontrolled 24 h after initiating continuous intravenous use of midazolam and propofol.  
+No dysmorphic fea- tures were observed.  
+"Except for obvious intracranial hypertension (310 mmH2O), no abnormality was found in cerebrospinal fluid tests.  "
+Routine blood testing results were unremarkable.
+"EEG revealed dif- fuse slow waves, and subclinical seizures lasted for 10 min originated from bilateral temporal were present (Figure 2A)."
+Brain MRI (5th day of seizure onset) showed bilateral hemisphere cerebral edema char- acterized by diffuse subcortical white matter lesions.
+Bright tree ap- pearance (subcortical white matter hyper- intense signal) in diffuse weighted images and low- intense signal in apparent diffusion coeffi- cient were observed on MRI (Figure 2B).
+"Subsequently, diagnosis of acute encephalopathy after SE was made based on his clinical and neuroimaging features.  "
+"Despite aggressive therapeutic strategies were given, the patient eventually died 20 days after this seizure onset due to uncontrollable seizures and severe brain damage."
+TIAN et al. 
+| 273
+F
+I G U R E 1 Genetic data on the patients with KCNH1 variants.
+"(A, D) Pedigree of the two families."
+The filled symbol with arrows identifies the probands.
+"(B, E) The variants c.338T>C and c.1069C>T were identified through whole- exome sequencing and confirmed by Sanger sequencing."
+"The SNVs were shown in gray shadows, c.338T>C was inherited from his mother, and c.1069C>T was de novo."
+"(C, F)"
+The variant amino acids in our patient were conserved from multiple species.
+"Case 2, the mother of case 1, is currently 32 years old."
+"She had 3.3 | Structural alteration of KCNH1 protein 4– 5 times of FS since the age of 1.5, and she did not have seizure after the age of 5."
+Neither neuroimaging nor EEG were performed.  
+"As shown schematically in Figure 3A, KCNH1 contains eag domain Her neuropsychology is normal at present."
+And CNBHD located in cytoplasmic and six transmembrane domains Variant p. Arg357Trp was identified in case 3.
+This boy experienced (S1– S6).  
+Structural model of KCNH1 indicated variant p. Ile113Thr FS (generalized or focal) since age of 8 months.
+"Subsequently, he expe- was located within the eag domain, and variant p. Arg357Trp was rienced frequently seizures triggered by low- grade fever or hot- water located in S4."
+"Bath, which led to a diagnosis of Dravet syndrome."
+Brain MRI and EEG DUET server was used to analyze the effects of missense were normal at age of 1 year.
+"At age of 1 year and 2 months, he had variants on protein stability.  "
+"Results showed destabilizing for short- duration but frequent (>10 times/h) seizures triggered by fever, which were resistant to multiple ASMs, including diazepam, valproate, the residues' changes.  "
+Variant p. Ile113Thr and p. Arg357Trp were predicted to be least stable with DDG value of −3.159 phenobarbital.  
+"Subsequently, his seizures stopped until continuous and −0.448 kcal/mol, respectively.  "
+Both variants changed the intravenous infusion of midazolam (0.24 mg/kg/h).  
+"EEG showed dif- hydrogen bonds (Figure 4A,B).  "
+Residue Ile113 originally formed fuse slow waves and drug- related fast waves (Figure 2C).
+He became one hydrogen bond with residue Asn93.  
+The missense variant seizure- free with treatment of valproate (22 mg/kg/day) 
+Till the last p. Ile113Thr results in an additional hydrogen bond with residue follow- up at age of 2 years even when the body temperature was as Asn93.  
+Residue Arg357 originally formed hydrogen bonds with high as 40°C.
+Mild developmental delay was observed.
+"He can walk residue Lys354 and residue Arg 360, respectively.  "
+"When argi- without support at age of 1 year and 7 months and can speak 3– 4 nine was replaced by tryptophan at residue Arg357, a new hy- words at age of 2 years."
+Gesell Developmental Observation- Revised drogen bond with residue Leu304 was formed.
+"We also analyzed screening was performed, and the results showed a mild delay in the previous reported five reported hotspot variants (p. Arg357, gross motor development, language, and social- emotional responses.  "
+"p. Leu489, p. Ala492, p. Leu494, and p. Gly496) and found that No any dysmorphic feature or malformations was observed, including all variants changed numbers or distances of hydrogen bonds hypoplasia of the nails, coarse face (Figure S1)."
+(Figure 4B– F).
+TIAN et al.274 | 3.4 | Genotype- phenotype correlation of KCNH1 variants We analyzed genotype- phenotypic associations in all reported KCNH1 pathogenic variants with detailed neurological pheno- types.  
+"Previously, 28 KCNH1 variants in 48 patients have been reported,4,5,9,21– 37 including the present data, a total of 30 variants in 51 patients."
+Forty-two out of 51 patients had epilepsy.
+"Thirty-eight patients harbored de novo variants, 13 patients harbored non-"
+"De novo variant (inherited, mosaic or unknown origin; Figure 3B)."
+Forty-nine out of 51 patients harbored missense variants.
+"Among the only two nonsense variants,34,37 variant p. R535* was also found in clini- cally unaffected father and sister; the patient carrying variant p. R745* also harbored another epileptic encephalopathy- related, pathogenic variant, CACNA1A (c.2134G>A; p. Ala712Thr), this variant has been reported as a pathogenic variant in epileptic encephalopathy patients.38 Clinical and molecular details of patients with epilepsy are listed in Table 3, and patients without epilepsy were listed in Table S1."
+We further analyzed the sub-regional locations of all variants demonstrating that 83% (35/42) variants in patients with epilepsy/ seizures were located in the transmembrane domains.  
+"De novo variants associated with epilepsy have obvious spatial clustering properties, five hotspot/recurrent variants including p. Arg357 (eight patients), p. Leu489 (four patients), p. Ala492 (three patients), "
+"p. Leu494 (five patients), and p. Gly496 (seven patients) were ob- served and all located in the transmembrane domains.  "
+"Except for p. Arg357 located in S4, all other hotspot variants are located in S6 (Figure 3A)."
+"Among the 42 patients with epilepsy, more than half of patients (58%, 20/34) were pharmaco- responsive, of which 10 patients be- came seizure- free."
+21% (9/42) of patients had SE.
+"We also found that patients with inherited or mosaic/somatic variants have a more mild phenotype than patients with de novo variants, specifically: later age of seizure onset (2.1 vs. 2.7 years of age), fewer incidences of ID/DD (40%, 4/10 vs. 100%, 41/41), and higher rate of seizure- free (63%, 5/8 vs. 19%, 5/26)."
+4 | D I S C U S
+I O N Present study provided a clinical description of three individuals with two novel missense variants of KCNH1 with FS/epilepsy and refractory SE without features of TBS/ZLS.
+One patient had mild ID with drug- responsive Dravet syndrome and finally got seizure- free.  
+"In the familial cases of FS, one patient died of super refractory SE.  "
+Both variants had no allele frequency in the gnomAD.
+The two vari- ants affected residues conserved through evolution and invariantly observed among vertebrates.
+The two variants were predicted to be damaging by multiple in silico tools and altered the protein confor- mation.
+"Taking together the evidence that KCNH1 gene is predomi- nantly expressed in brain and associated with neurodevelopment and neural excitability,3,4 the two variants of KCNH1 were suggested to be the pathogenic gene of the current cases."
+TIAN et al. | 275 F I G U R E 2 EEG and neuroimaging results in the cases with KCNH1 variants.
+"(A) EEG of case 1 detected diffuse slow waves, and subclinical seizures originated from bilateral temporal (red box indexed the seizure onset)."
+"(B) Brain MRI showed bright tree appearance in DWI, and low- intense signal in ADC."
+(C) EEG of case 3 indicated diffuse slow waves and drug- related fast waves.
+"(DWI, diffuse weighted images; ADC, apparent diffusion coefficient) F"
+I G U R E 3 Schematic diagram of variant sites and phenotypes/genotypes characteristics of the patients reported to date.
+(A) Schematic diagram of the transmembrane structure.
+"The CNBHD, C- linker, and EAG domains were shown in the picture."
+The S1– S4 segments act as voltage- sensor domains.
+The KCNH1 channel shows the location of the residues affected in individuals with (orange square) or without (blue square) epilepsy.
+"Most of them were de novo variants (blue text), and few were inherited or not known (red text)."
+Variants in our patients were highlighted with red boxes.
+"(B) Showed the clinical phenotypes, and genetic characteristics of the patients reported to date We analyzed the largest cohort of 51 patients with KCNH1 vari-"
+"However, the seizure types, severity, and response to ASMs var- ants to date and found that epilepsy/seizures were present in 82% ied widely."
+Patients with inherited or mosaic/somatic variants have individuals suggesting a direct role of KCNH1 in epileptogenesis.  
+"Milder phenotypes than patients with de novo variants, including TIAN et al.276 | F"
+I G U R E 4 Changes in KCNH1 protein structure.
+"(A– F) The protein changes including our variants and five hotspots (p. Arg357, p. Leu489, p. Ala492, p. Leu494, and p. Gly496)."
+"The wild- type protein structures were shown in the top row, and the mutant structures were in the row below."
+Hydrogen bonds are represented by red dashed lines and the distances are highlighted with blue text.
+Structures in our patients were highlighted with red boxes.
+"Later age of seizure onset, fewer incidences of ID/DD, and higher severe phenotype of Dravet syndrome had a variant (p. Arg357Trp) rate of seizure- free."
+Of the 10 patients with hereditary or mosaic/ in S4.  
+"Another patient had variant (p. Ile113Thr) in the eag domain somatic variant, most of them presented with isolated epilepsy near N- terminal; this patient showed a mild phenotype- FS."
+These re- without TBS/ZLS.  
+These findings provided possible evidence that sults demonstrate the important role of voltage- sensing transmem- a low level of mosaic/somatic variant or a weaker effect on KCNH1 brane helix S4 and S6 of the KCNH1 channel in maintaining neuronal function of inherited variant may contribute to isolated epilepsy excitability and development.
+Phenotype.
+"However, factors influencing clinical phenotypic heterogeneity In addition to inheritance and variant patterns that determine of patients with KCNH1 variants remain not fully elucidated, because phenotypic differences, recent studies have showed that molec-"
+"We found that even patients harbored variants located in S6, their ular sub-regional location of variants was also a critical factor to clinical presentations varied widely."
+Fourteen patients with variants determine the pathogenicity of variants and associated with phenotypic variations.39– 41
+"In this study, all patients with hotspot variants at p. Leu489, p. Ala492, and p. Gly496; all showed early onset of epi- lepsy within 2 years of age, while five patients with p. Ile494Val vari- (p. Arg357, p. Leu489, p. Ala492, p. Ile494, and p. Gly496) associated ant had late- onset of epilepsy, with an average age of 5."
+"We found with epilepsy with moderate to severe ID/DD clustered in S4 and variant Ile494Val appears to have the least effect on hydrogen S6, while those with isolated epilepsy/seizures or TBS/ZLS without bonds or distances of inter- amino acid, which may help explain the epilepsy were scattered, suggesting a molecular sub-regional effect mild phenotype of patients with p. Ile494Val variant."
+"However, the of KCNH1 variants.  "
+One of our newly reported patients presented specific mechanism is currently unknown; further accumulation of TIAN et al.s | 277 TIAN et al. 
+278 | TIAN et al. 
+| 279 cases is needed for detailed research on effect of KCNH1 variant on spatial structure of KCNH1.
+"When comparing de novo variants in patients with neurode- velopmental disorders, individuals with missense variants have been reported to be generally more likely to develop epilepsy than individuals with truncating variants, and enrichment was observed in genes associated with ion channel- encoding genes (KCNQ2, SCN1A, and KCNH1),42– 44 suggesting a dominant- negative or gain- of- function effect of KCNH1 variant in the pathophysiology of epilepsy.  "
+"In KCNH1, studies in both Xenopus laevis oocytes and human HEK293T cells have revealed that missense variants lead to deleterious gain- of- function effect.2,25,33 Present study further supports this view, as 96% of patients harbored missense vari- ants."
+There are evidences of non- pathogenicity for only two trun- cated variants: variant p.
+"Arg535* had very low penetrance, as two healthy individuals in the family also carried this variant; patient with variant p."
+Arg745* also carried another pathogenic epileptic encephalopathy- related gene.
+"These findings indicated that gain- of- function effect is the pathogenic mechanism of KCNH1 variant, because variants lead to haploinsufficiency in this gene appear to be better tolerated."
+"In this study, more than half of patients with epilepsy (20/34) responded well to the ASMs."
+"However, these patients are prone to develop SE, because two of our newly reported patients developed super refractory SE, and 21% of the reported patients experienced SE.  "
+"SE may induce acute encephalopathy which is characterized by non-inflammatory encephalopathy, followed by prolonged con- sciousness disturbance, and often followed by severe neurological sequelae.45,46 As occurred in our case 1, patients with KCNH1 vari- ant may also develop acute encephalopathy after SE like patients with other ion channel- encoding genes variant, such as KCNQ2 and SCN1A.46"
+This study has several limitations.
+The direct functional effects of the variants were not examined.
+More cases are needed to elu- cidate genotype- phenotype correlation of KCNH1 gene in future studies.
+5 | CO N C LU S I O N S
+"In conclusion, we found two novel missense variants of KCNH1 in three individuals with FS/epilepsy.  "
+Variants in the KCNH1 cause a spectrum of epileptic disorders ranging from benign isolated epi- lepsy/FS to severe epileptic encephalopathy.
+"Low doses of mosaic/ somatic variants and less deleterious germline variants may cause isolated epilepsy/FS, while de novo gain- of- function variants always cause developmental syndromic disorders with or without epilepsy.  "
+The genotypes and variant locations help explain the phenotypic heterogeneity of patients with KCNH1 variant.
+AU T H O R C O N T R I B
+U T
+"I O N S Mao- Qiang Tian, Ren-"
+"Ke Li, and Xiao- Mei Shu collected the data from patients, reviewed the literatures, and wrote the paper; Juan Li TIAN et al. 280 | analyzed genetic pathogenicity; Jing Chen and Fan Yang performed whole exome sequencing data analysis; Long- Ying Peng, Xiao- Hua Yu, and Chang-"
+Jian Yang analyzed EEG recordings and neuroimag- ing data.
+AC K N OW L E D G M E N T S 12.  
+"Younus I, Reddy DS."
+Epigenetic interventions for epileptogenesis: a new frontier for curing epilepsy.
+Pharmacol Ther.
+2017;177:108–122.  13.  
+"Sawires R, Buttery J, Fahey M. A review of febrile seizures: recent advances in understanding of febrile seizure pathophysiology and commonly implicated viral triggers."
+Front Pediatr.
+2021;9:801321.  
+14.  
+"Subcommittee on Febrile Seizures, American Academy of Pediatrics.  "
+Neurodiagnostic evaluation of the child with a simple febrile seizure.
+Pediatrics.
+2011;127(2):389–394.
+The authors are deeply grateful to the patients and clinicians who 15.  
+"Abend NS, Loddenkemper T. Pediatric status epilepticus manage- participated in this work."
+F U N D I N G I N FO R M
+AT I O N
+This work was supported by grants from Basic Research Program of Guizhou Province: Guizhou Science and Technology Foundation (Grant No.
+ZK General 418).
+C O N FL I C T O F I N T E R E S T All authors claim that there are no conflicts of interest.
+DATA 
+AVA I L A B
+I L
+I T Y S TAT E M E N T
+The data that support the findings of this study will be available from the corresponding author upon reasonable request.
+I N FO R M E D C O N S E N T
+The patients gave their informed consents for this report.
+O R C I D Mao-
+Qiang Tian https://orcid.org/00000003-30903801 R E F E R E N C E S 1.  
+"Haitin Y, Carlson AE, Zagotta WN.  "
+The structural mechanism of KCNH- channel regulation by the eag domain.  
+Nature.  
+2013;501(7467):444–448.  
+"2.  Hamilton MJ, Suri M. ""Electrifying dysmorphology"": potassium channelopathies causing dysmorphic syndromes.  "
+Adv Genet.  
+2020;105:137–174.  
+3.  Cazares-
+"Ordonez V, Pardo LA. Kv10.1 potassium channel: from the brain to the tumors."
+Biochem Cell Biol.
+2017;95(5):531–536.  
+4.  
+"Niday Z, Tzingounis AV. Potassium channel gain of function in epilepsy: an unresolved paradox."
+Neuroscientist.
+2018;24(4):368–380.  
+5.  
+"Bramswig NC, Ockeloen CW, Czeschik JC, et al.  'Splitting versus lumping': temple-"
+Baraitser and Zimmermann-
+Laband syndromes.  
+Hum Genet.
+2015;134(10):1089-
+1097.  
+6.  Chacon-
+"Camacho OF, Vazquez J, Zenteno JC."
+Expanding the phenotype of gingival fibromatosis-
+Mental retardation- hypertrichosis (Zimmermann- Laband) syndrome.
+Am J Med Genet A. 2011;155A(7) :
+1716–1720.  
+7.  
+"Gabbett MT, Clark RC, McGaughran JM."
+A second case of severe mental retardation and absent nails of hallux and pollex (Temple- Baraitser syndrome).
+Am J Med Genet A. 2008;146A(4):450–452.  8.  
+"Temple IK, Baraitser M. Severe mental retardation and absent nails of hallux and pollex."
+Am J Med Genet.
+1991;41(2):173–175.  
+9.  
+"Megarbane A, Al- Ali R, Choucair N, et al.  Temple-"
+Baraitser syndrome and Zimmermann-
+Laband syndrome: one clinical entity?  
+BMC Med Genet.
+2016;17(1):42.  
+10.  
+Proposal for revised classification of epilepsies and epileptic syndromes.  
+Commission on Classification and Terminology of the International League Against Epilepsy.
+Epilepsia.
+1989;30(4):389-
+399.  
+11.  
+"Scheffer IE, Berkovic S, Capovilla G, et al. ILAE classification of the epilepsies: position paper of the ILAE Commission for Classification and Terminology."
+Epilepsia.
+2017;58(4):512–521. Ment.
+Curr Opin Pediatr.
+2014;26(6):668-
+674.  
+16.  
+"Johnson EL, Kaplan PW.  "
+"Status epilepticus: definition, classification, pathophysiology, and epidemiology.  "
+Semin Neurol.  
+2020;40(6):647–651.  
+17.  
+"Trinka E, Cock H, Hesdorffer D, et al."
+A definition and classification of status epilepticus - Report of the ILAE Task Force on Classification of Status Epilepticus.
+Epilepsia.
+2015;56(10):1515–1523.  
+18.  
+"McKenna A, Hanna M, Banks E, et al."
+The Genome Analysis Toolkit: a MapReduce framework for analyzing next- generation DNA sequencing data.
+Genome Res.
+2010;20(9):1297–1303.  
+19.  
+"Jumper J, Evans R, Pritzel A, et al."
+Highly accurate protein structure prediction with AlphaFold.
+Nature.
+2021;596(7873):583–589.  
+20.  
+Grantham R. Amino acid difference formula to help explain protein evolution.
+Science.
+1974;185(4154):862–864.  
+21.  
+"Cappi C, Oliphant ME, Peter Z, et al."
+De Novo damaging DNA coding mutations are associated with obsessive- compulsive disorder and overlap with Tourette's disorder and autism.  
+Biol Psychiatry.  
+2020;87(12):1035–1044.  
+22.  
+"Froukh T, Nafie O, Al Hait SAS, et al.  Genetic basis of neurodevelopmental disorders in 103 Jordanian families.  "
+Clin Genet.  
+2020;97(4):621–627.  
+23.  
+"Fukai R, Saitsu H, Tsurusaki Y, et al."
+"De novo KCNH1 mutations in four patients with syndromic developmental delay, hypotonia and seizures."
+J Hum Genet.
+2016;61(5):381–387.  
+24.  
+"Gripp KW, Smithson SF, Scurr IJ, et "
+Al.  
+"Syndromic disorders caused by gain- of- function variants in KCNH1, KCNK4, and KCNN3- a subgroup of K(+) channelopathies.  "
+Eur J Hum Genet.  
+2021;29(9):1384–1395.  
+25.  
+"Kortum F, Caputo V, Bauer CK, et al.  Mutations in KCNH1 and ATP6V1B2 cause Zimmermann-"
+Laband syndrome.  
+Nat Genet.  
+2015;47(6):661–667.  
+26.  
+"Kortum F, Niceta M, Magliozzi M, et al.  "
+Cantu syndrome versus Zimmermann-
+Laband syndrome: report of nine individuals with ABCC9 variants.
+Eur J Med Genet.
+2020;63(9):103996.  
+27.  
+"Lelieveld SH, Wiel L, Venselaar H, et al.  "
+Spatial clustering of de novo missense mutations identifies candidate neurodevelopmental disorder- associated genes.
+Am J Hum Genet.
+2017;101(3):478–484.  
+28.  
+"Mastrangelo M, Scheffer IE, Bramswig NC, et al.  "
+Epilepsy in KCNH1- related syndromes.
+Epileptic Disord.
+2016;18(2):123–136.  29.  
+"Rochtus A, Olson HE, Smith L, et al.  Genetic diagnoses in epilepsy: the impact of dynamic exome analysis in a pediatric cohort.  "
+Epilepsia.
+2020;61(2):249-
+258.  
+30.  
+"Rossi M, El-"
+"Khechen D, Black MH, Farwell Hagman KD, Tang S, Powis Z. Outcomes of diagnostic exome sequencing in patients with diagnosed or suspected autism spectrum disorders.  "
+Pediatr Neurol.
+2017;70:34–43 e2.  31.  
+"Sangkhathat S, Laochareonsuk W, Maneechay W, Kayasut K, Chiengkriwate P. Variants associated with infantile cholestatic syndromes detected in extrahepatic biliary atresia by whole exome studies: a 20- case series from Thailand.  "
+J Pediatr Genet.  
+2018;7(2):67–73.  
+32.  
+"Satterstrom FK, Kosmicki JA, Wang J, et "
+Al.  Large- scale exome sequencing study implicates both developmental and functional changes in the neurobiology of autism.
+Cell.
+2020;180(3):568–84 e23.  
+33.  
+"Simons C, Rash LD, Crawford J, et al.  Mutations in the voltage- gated potassium channel gene KCNH1 cause Temple-"
+Baraitser syndrome and epilepsy.
+Nat Genet.
+2015;47(1):73–77.
+TIAN et al.34.  
+"Takata A, Nakashima M, Saitsu H, et al."
+Comprehensive analysis of coding variants highlights genetic complexity in developmental and epileptic encephalopathy.
+Nat Commun.
+2019;10(1):2506.  
+44.  
+"Weckhuysen S, Mandelstam S, Suls A, et al. KCNQ2 encephalopathy: emerging phenotype of a neonatal epileptic encephalopathy.  "
+Ann Neurol.
+2012;71(1):15–25.  35.  
+"Turner TN, Wilfert AB, Bakken TE, et al. Sex-"
+Based analysis of de novo variants in neurodevelopmental disorders.  
+Am J Hum Genet.  
+2019;105(6):1274–1285.  
+45.  
+"Tian X, Ye J, Zeng Q, et al."
+The clinical outcome and neuroimaging of acute encephalopathy after status epilepticus in Dravet syndrome.  
+Dev Med Child Neurol.
+2018;60(6):566–573.  
+| 281 36.  
+"Wang H, Zhang X, Ding H. Temple-"
+Baraitser syndrome with KCNH1 Asn510Thr: a new case report.
+Clin Dysmorphol.
+2021;30(1):27–31.  
+37.  
+"Von Wrede R, Jeub M, Arioz I, et "
+Al.  
+Novel KCNH1 mutations associated with epilepsy: broadening the phenotypic spectrum of KCNH1- associated diseases.
+Genes.
+2021;12(2):132.  
+38.  
+Epi KC.  
+De novo mutations in SLC1A2 and CACNA1A are important causes of epileptic encephalopathies.  
+Am J Hum Genet.  
+2016;99(2):287–298.  
+39.  
+"Tang B, Li B, Gao LD, et al."
+Optimization of in silico tools for predicting genetic variants: individualizing for genes with molecular sub-regional stratification.
+Brief Bioinform.
+2020;21(5):1776–1786.  
+40.  
+"Ye XG, Liu ZG, Wang J, et al."
+YWHAG mutations cause childhood myoclonic epilepsy and febrile seizures: molecular sub-regional effect and mechanism.
+Front Genet.
+2021;12:632466.  41.  
+"Zou D, Qin B, Wang J, et al."
+AFF2 is associated with X- linked partial (focal) epilepsy with antecedent febrile seizures.
+Front Mol Neurosci.  
+2022;15:795840.  
+42.  
+"Heyne HO, Singh T, Stamberger H, et al.  "
+De novo variants in neurodevelopmental disorders with epilepsy.  
+Nat Genet.  
+2018;50(7):1048–1053.  
+43.  
+"Wagnon JL, Barker BS, Hounshell JA, et al."
+Pathogenic mechanism of recurrent mutations of SCN8A in epileptic encephalopathy.
+Ann Clin Transl Neurol.
+2016;3(2):114–123.  
+46.  
+"Shibata A, Kasai M, Terashima H, et al.  Case- control association study of rare nonsynonymous variants of SCN1A and KCNQ2 in acute encephalopathy with biphasic seizures and late reduced diffusion."
+J Neurol Sci. 2020;414:116808.
+S U P P O R T
+I N G
+I N FO R M
+AT I O N Additional supporting information can be found online in the Supporting Information section at the end of this article.
+"How to cite this article: Tian M- Q, Li R- K, Yang F, et al. "
+Phenotypic expansion of KCNH1- associated disorders to include isolated epilepsy and its associations with genotypes and molecular sub-regional locations.
+CNS Neurosci Ther.  
+2023;29:270–281.
+Doi: 10.1111/cns.14001 TIAN et al.

@@ -1,0 +1,248 @@
+"www.nature.com/aps REVIEW ARTICLE Channelopathy of small- and intermediateconductance Ca2+-activated K+ channels YoungWoo Nam1, Myles Downey1, Mohammad Asikur Rahman1, Meng Cui2 and Miao Zhang1 Small- and intermediateconductance Ca2+-activated K+ (KCa2.x/KCa3.1 also called SK/IK) channels are gated exclusively by intracellular Ca2+."
+The Ca2+ binding protein calmodulin confers submicromolar Ca2+ sensitivity to the channelcalmodulin complex.
+The calmodulin Clobe is constitutively associated with the proximal Cterminus of the channel.
+"Interactions between calmodulin Nlobe and the channel S4S5 linker are Ca2+-dependent, which subsequently trigger conformational changes in the channel pore and open the gate."
+"KCNN genes encode four subtypes, including KCNN1 for KCa2.1 (SK1), KCNN2 for KCa2.2 (SK2), KCNN3 for KCa2.3 (SK3), and KCNN4 for KCa3.1 (IK)."
+The three KCa2.x channel subtypes are expressed in the central nervous system and the heart.
+"The KCa3.1 subtype is expressed in the erythrocytes and the lymphocytes, among other peripheral tissues."
+The impact of dysfunctional KCa2.x/KCa3.1 channels on human health has not been well documented.
+Human lossof-function KCa2.2 mutations have been linked with neurodevelopmental disorders.
+"Human gainof-function mutations that increase the apparent Ca2+ sensitivity of KCa2.3 and KCa3.1 channels have been associated with ZimmermannLaband syndrome and hereditary xerocytosis, respectively."
+"This review article discusses the physiological signiﬁcance of KCa2.x/KCa3.1 channels, the pathophysiology of the diseases linked with KCa2.x/KCa3.1 mutations, the structure–function relationship of the mutant KCa2.x/KCa3.1 channels, and potential pharmacological therapeutics for the KCa2.x/KCa3.1 channelopathy."
+Keywords: channelopathy; KCa2.2 channels; KCa2.3 channels; KCa3.1 channels; ZimmermannLaband syndrome; hereditary xerocytosis Acta Pharmacologica Sinica (2023) 44:259–267; https://doi.org/10.1038/s41401022-009351 INTRODUCTION
+"The poreforming αsubunits of KCa2.x/KCa3.1 channels are encoded by the KCNN genes, including KCNN1 for KCa2.1 (SK1), KCNN2 for KCa2.2 (SK2), KCNN3 for KCa2.3 (SK3), and KCNN4 for KCa3.1 (IK or SK4) channels."
+"The singlechannel conductance values of KCa2.x and KCa3.1 channels are ∼10 pS and ∼40 pS in symmetrical K+ solutions, which are much smaller than that of KCa1.1 (BK) channels (~200 pS) channels."
+These channels were hence named smallconductance (KCa2.x also called SK) and intermediateconductance (KCa3.1 also called IK)
+Ca2+-activated K+ channels.
+KCa2.x/KCa3.1 channels are voltage independent and are activated exclusively by intracellular Ca2+.
+The submicromolar sensitivity to Ca2+ of KCa2.x/KCa3.1 channels is attributed to the Ca2+-binding protein calmodulin (CaM) constitutively associated with the channels.
+"KCa2.x channels are activated by Ca2+ with EC50 values ranging from 300 to 750 nM, while KCa3.1 channels exhibit apparent Ca2+ sensitivity of 100–400 nM."
+Elevated intracellular Ca2+ levels cause conformational changes in the channelCaM complex and result in K+ outﬂow from excitable and nonexcitable cells.
+Poreforming αsubunit consists of six transmembrane domains denoted S1–S6.
+The selective permeability of K+ ions is attributed to the selectivity ﬁlter that sits between the S5 and S6 transmembrane domains in the channel pore.
+"The KCa2.x/KCa3.1 channel subtypes are highly homologous in their six transmembrane domains, but the amino acid sequence and length at their cytoplasmic N- and C- termini vary among the subtypes."
+"Within the four KCa2.x/KCa3.1 channel subtypes, atomistic structures are only available for the KCa3.1 channel."
+"The fulllength cryogenic electron microscopy (cryoEM) structures of KCa3.1 channels have been determined in the absence and presence of Ca2+, shedding light on a Ca2+/CaM gating mechanism for these channels."
+"In the absence of Ca2+, the Clobe of CaM binds to the HA/HB helices in the proximal channel Cterminus, the Nlobe of CaM is highly ﬂexible, and the channel pore is closed."
+"When bound with Ca2+, the Nlobe of CaM becomes wellstructured and interacts with the linker between the S4 and S5 transmembrane domains (S4–S5 linker) of a neighboring αsubunit."
+The interaction between the Ca2+- bound CaM Nlobe and the S4S5 linker triggers movement of the S6 transmembrane domain and the opening of the channel pore.
+"CHANNEL STRUCTURE KCa2.x/KCa3.1 channels assemble as a homotetramer of four αsubunits of each subtype, although functional heterotetrameric channels among subtypes have also been reported."
+"Each CHANNEL PHYSIOLOGY KCa2.x channel subtypes expressed in neurons contribute to the medium afterhyperpolarization and regulate neuronal ﬁring 1Department of Biomedical and Pharmaceutical Sciences, Chapman University School of Pharmacy, Northeastern University School of Pharmacy, Boston, MA 02115, USA Correspondence: Miao Zhang (zhang@chapman.edu) Irvine, CA 92618, USA and 2Department of Pharmaceutical Sciences, Received: 1 May 2022 Accepted: 31"
+"May 2022 Published online: 17 June 2022 © The Author(s), under exclusive licence to Shanghai Institute of Materia Medica, Chinese Academy of Sciences and Chinese Pharmacological Society 2022 260 KCa2.x/KCa3.1 channelopathy YW Nam et al. frequency."
+"Intracellular Ca2+ levels may increase as a result of Ca2+ release from the endoplasmic reticulum through ryanodine receptors or IP3 receptors, as well as Ca2+ inﬂux through the voltage- or ligandgated Ca2+-permeable channels in neurons."
+"KCa2.x channels activated by the elevated Ca2+ levels dampen the neuronal ﬁring frequency, as a mechanism for regulating neuronal excitability by Ca2+ signaling."
+One wellstudied role of KCa2.x channels in the central nervous system is their involvement in the longterm potentiation (LTP).
+"In hippocampal neurons, activating muscarinic acetylcholine receptors increases phosphorylation of the KCa2.2CaM complex, reduces the channel activity, thus lifting their negative inﬂuence on LTP."
+"In animal studies, inhibition of KCa2.x channels improves, while positive modulation of KCa2.x channels impairs learning and memory, echoing the essential role of KCa2.x channels in LTP."
+Detailed information on the physiological role of KCa2.x channels in learning and memory can be found in an excellent review by ref. .
+KCa2.x channels also play a vital role in controlling the regular tonic ﬁring in cerebellar Purkinje neurons.
+The KCa2.2 channel is the predominant subtype expressed in cerebellar Purkinje neurons.
+The KCa2.2 channel is one of the principal ion channels involved in cerebellar Purkinje neuron pacemaking.
+Dysfunctional KCa2.2 channel activity has been linked with movement phenotypes including tremors and ataxias in rodents and humans.
+Positive modulation of KCa2.2 channels has been proposed as a potential therapeutic strategy for ataxias.
+KCa2.x channels are also expressed in the heart.
+"A higher level of KCa2.x channel protein is expressed in the atria, pacemaking cells, and Purkinje ﬁbers than in the ventricles of a normal heart."
+"KCa2.2 knockout mice exhibit signiﬁcantly prolonged action potential duration (APD), while overexpression of KCa2.2 channels in atrioventricular nodal cells shortens APD."
+KCa2.2 and KCa2.3 gene polymorphisms have also been linked with atrial ﬁbrillation through genomewide association studies (GWAS).
+There is a very recent review on cardiac KCa2.x channels by ref. .
+"In the vascular endothelium, twochannel subtypes, KCa2.3 and Intracellular Ca2+ levels increase in KCa3.1 are expressed."
+"Response to mechano- or chemostimuli, activating KCa2.3 and KCa3.1 channels."
+The opening of KCa2.3 and KCa3.1 channels allows K+ efﬂux and hyperpolarizes vascular endothelial cells.
+"The hyperpolarization then spreads to the underlying vascular smooth muscle, leading to blood vessel dilation, a phenomenon called endotheliumdependent hyperpolarization (EDH) mediated vasodilation."
+Mice with a genetic deﬁcit of KCa2.3 and KCa3.1 channels exhibit hypertension.
+There is a detailed review article by Wulff et al. on the endothelial KCa2.3 and KCa3.1 channels in blood pressure regulation.
+Table 1.
+Effects of pathogenic KCa2.2 mutations on channel activity.
+"KCa3.1 channel subtype is different from KCa2.x channels in many ways, including their peripheral expression including the In Tlymphocyte, the erythrocytes and lymphocytes."
+"KCa3.1 channel contributes to electrochemical gradients for Ca2+ inﬂux, which is critical for the proliferation of T cells."
+"Together with the mechanosensitive PIEZO1 channel, the KCa3.1 channel (also called the Gardos channel) regulates red blood cell volume CHANNEL MUTATIONS AND GENETIC DISORDERS To the best of our knowledge, there is no reported human mutation of KCa2.1 channels linked with genetic disorders."
+Lossof- function (LOF) KCa2.2 mutations are associated with neurodevelopmental disorders including cerebellar ataxias and tremors.
+"Gainof-function (GOF) KCa2.3 mutations are linked with ZimmermannLaband syndrome (ZLS) and idiopathic non-, while GOF KCa3.1 cirrhotic portal hypertension (INCPH) mutations are associated with a subset of hereditary xerocytosis (HX)."
+LOF KCa2.2 mutations and neurodevelopmental disorders A LOF rKCa2.2_I289N mutation that diminishes KCa2.2 channel activity has been linked with tremors in rats.
+"Meanwhile, its corresponding hKCa2.2_I288S mutation is causative for neurodevelopmental disorders in humans."
+"In addition, hKCa2.2_L321del, hKCa2.2_I359M, hKCa2.2_Y361C, hKCa2.2_G362S, hKCa2.2_L388V, and hKCa2.2_L432P mutations of the human KCNN2 gene cause neurodevelopmental disorders including cerebellar ataxia, motor and language developmental delay, and intellectual disability."
+A hKCa2.2_G371E mutation has been linked with tremulous myoclonusdystonia in humans.
+"Among these mutations, rKCa2.2_I289N, hKCa2.2_L321del, hKCa2.2_I359M, hKCa2.2_G362S, hKCa2.2_L388V, and hKCa2.2_L432P lead to either reduced or complete loss of channel activity."
+This became clear when examined via heterologous expression of these mutant channels in cell lines (Table 1).
+"The remaining mutations, hKCa2.2_I288S, hKCa2.2_Y361C, and hKCa2.2_G371E have not been studied for their effects on channel activity."
+"Mutations that introduce early stop codons, hKCa2.2_Y160*, and hKCa2.2_Y267* are assumed to cause premature truncation of the channel protein and are thus classiﬁed as LOF."
+Most human KCa2.2 mutations are de novo variants (except hKCa2.2_G371E and hKCa2.2_L432P).
+Patients have heterozygous KCNN2 alleles.
+KCa2.2 channels are tetramers that consist of the KCNN2 gene.
+Subunits encoded by rKCa2.2_I289N mutation has been found to suppress the activity four Species Mutation KCa2.2 current Electrophysiological recordings human mouse human rat human human human human human Y160* L168P (corresponding to L173 in human) Y267* I288S I289N L321del I359M Y361C G362S G371E L388V L432P N/A N/A N/A N/A Reduced current No current N/A No current N/A No current N/A N/A N/A N/A Wholecell Wholecell Wholecell
+N/A Wholecell N/A Wholecell Cells N/A N/A N/A N/A HEK293 CHOK1 N/A CHOK1 N/A CHOK1 Acta Pharmacologica Sinica (2023) 44:259 – 267 The dominantnegative of coexpressed wildtype (WT) rKCa2.2 channels and thus deemed dominantnegative effect of rKCa2.2_I289N and its equivalent human hKCa2.2_I288S mutation may contribute in part to the autosomal dominance of these mutant alleles.
+Other human KCa2.2 mutations in Table 1 are also autosomal dominant.
+"It is unknown whether the subunits carrying other mutations in Table 1 can coassemble with WT subunits in patients with one WT and one mutant allele, let alone the impact of the mutant channel subunits may have when coexpressed with KCa2.2_WT channels."
+"There are two pathogenic KCa2.2 mutations reported in mice, one missense mKCa2.2_L168P (jitter mice, Mutagenetix database) and one deletion encompassing exon 1 and exon 2 (frissonnant mice)."
+"Unlike in rats and humans, these two pathogenic KCa2.2 variants are recessive in mice, which could be explained by distinct baseline KCa2.2 expression levels, gene regulation, or compensatory mechanisms in response to KCa2.2 haploinsufﬁciency in different species."
+It is not clear whether the subunits carrying these mouse mutations can coassemble with WT subunits.
+"Movement disorders, symptoms, are present including cerebellar ataxia, tremor, or extrapyramidal in patients carrying hKCa2.2_Y267*, hKCa2.2_I288S, hKCa2.2_I359M, hKCa2.2_Y361C, hKCa2.2_L388V, and hKCa2.2_L432P mutations."
+The mechanism by which LOF KCa2.2 mutations cause cerebellar ataxia symptoms lies in the cerebellar Purkinje neurons.
+The KCa2.2 channel is one of the principal ion channels involved in the pacemaking of cerebellar Purkinje neurons.
+"Dysfunction of KCa2.2 channels may lead to the loss of ﬁring precision in cerebellar Purkinje neurons, similar to what has been reported in the Purkinje neurons of episodic ataxia (EA2), spinocerebellar ataxias (SCA1, SCA2, SCA3, and SCA6), and Huntington’s disease mouse models."
+"Irregular neuronal ﬁring in cerebellar Purkinje neurons may subsequently lead to Ca2+ overload and neurodegeneration, which may underlie the pathogenesis of ataxias."
+"Intellectual disability symptoms are present in patients carrying the mutations in Table 1, except hKCa2.2_G371E."
+"In animal studies, overexpression of KCa2.2 channels affects hippocampal synaptic plasticity and impairs learning and memory."
+"Therefore, it is surprising for the KCa2.2 LOF mutations to cause intellectual disability as well."
+One possible explanation might be to the LOF KCa2.2
+"Mutations are that a compensatory event responsible for these patients, which will require future studies."
+"The intellectual disability symptoms of Patients carrying the mutations (except hKCa2.2_L321del, hKCa2.2_L432P, and hKCa2.2_G371E including autistic features,) show psychiatric symptoms, attention deﬁcit hyperactivity disorder, and even psychotic episodes."
+GWAS has associated the KCNN2 gene encoding the KCa2.2 channel with autistic spectrum disorder (ASD).
+In Table KCa2.x/KCa3.1 channelopathy YW Nam et al.
+Expression metaanalysis has shown increased KCNN2 gene expression in ASD individuals compared with controls.
+The KCa2.2 channel also underlies cortical Overexpression of dysfunction in a model of PTENassociated autism.
+It is thus puzzling that both increased expression and LOF mutations of the KCa2.2 channel are associated with ASD.
+"261 GOF KCa2.3 mutations, ZimmermannLaband syndrome, and idiopathic noncirrhotic portal hypertension ZLS [OMIM: 135500] is a rare genetic disorder characterized by gingival enlargement, developmental delay, intellectual disability, together with abnormal ﬁngers, ﬁngernails, nose, and ears."
+"ZLS has been associated with genetic mutations in KCNH1 (encoding an Eag1 K+ channel), KCNK4 (encoding a K2P K+ channel), and most recently KCNN3 (encoding the KCa2.3 channel) genes."
+"hKCa2.3_G350D, hKCa2.3_S436C, hKCa2.3_A536T, hKCa2.3_V539del and hKCa2.3_V555F mutations of the human KCNN3 gene cause ZLS."
+The hKCa2.3_V450L mutation is associated with INCPH but not ZLS. hKCa2.3_A287S
+"hKCa2.3_K269E The Among these mutations, hKCa2.3_K269E, hKCa2.3_G350D, hKCa2.3_S436C, and hKCa2.3_V450L mutant channels exhibited faster kinetics of current activation by Ca2+ upon breakin with wholecell patchclamp recordings than the hKCa2.3_WT."
+Our group quantitatively determined the apparent Ca2+ sensitivity of these four mutant channels and the hKCa2.3_V555F mutant.
+"They all exhibited increased apparent Ca2+ sensitivity compared with the hKCa2.3_WT in insideout patchclamp recordings, when examined via heterologous expression of these mutant channels in HEK293 cells."
+"The remaining mutations hKCa2.3_A287S, hKCa2.3_A536T, and hKCa2.3_V539del have not been studied for their effects on channel activity (Table 2)."
+"The hKCa2.3_V450L genetic mutation in humans is familial, unlike the hKCa2.3_A287S mutation which is unknown."
+Every other human KCa2.3 mutations in Table 2 are de novo variants.
+Notably KCNN3 alleles in the patients are heterozygous.
+"Theoretically, the KCa2.3 subunits carrying the mutations in Table 2 can coassemble with KCa2.3_WT subunits, and form channel tetramers."
+It is currently unknown what impact the coassembling of mutant and WT subunits has on channel function.
+The expression of KCa2.3 channels in portal veins has not been reported and the mechanism for hKCa2.3_V450L to cause INCPH is unclear.
+It is well established that KCa2.3 channels are expressed in arterial endothelial cells.
+The role of KCa2.3 channels in the regulation of veins is less known.
+"It was also speculated that the KCa2.3 channel might play a role in the homeostasis of liver cells, like what had been reported for the KCa3.1 channel."
+Increased K+ channel activity in liver cells may cause stress and portal hypertension.
+"Based on the contribution of KCa2.3 channels to the EDHmediated vasodilation, it has been speculated that mutant KCa2.3 Table 2."
+Effects of pathogenic KCa2.3 mutations on channel activity.
+Species Mutation Related disease Apparent Ca2+ sensitivity (μM) Electrophysiological recordings Cells human human human human human K269E A287S
+G350D S436C V450L A536T V539del ZLS ZLS ZLS ZLS INCPH ZLS ZLS ~0.086 N/A ~0.12 ~0.087 ~0.15 N/A N/A human ~0.067 The apparent Ca2+ sensitivity of the KCa2.3_WT is ~0.30 μM.
+ZLS V555F
+"Acta Pharmacologica Sinica (2023) 44:259 – 267 Wholecell, insideout CHO, HEK293 N/A N/A Wholecell, insideout Wholecell, insideout CHO, HEK293 CHO,"
+"HEK293 Wholecell, insideout CHO, HEK293 N/A N/A N/A N/A Insideout HEK293 262 KCa2.x/KCa3.1 channelopathy YW Nam et al."
+Table 3.
+Effects of pathogenic KCa3.1 mutations on channel activity.
+"Species Mutation Related disease Apparent Ca2+ sensitivity (μM) Electrophysiological recordings human V282M/E HX N/A N/A Cells N/A human S314P human A322V HX HX ~0.064 ~0.059 human R352H HX ~0.085 Wholecell, insideout Wholecell, insideout erythrocytes, HEK293 erythrocytes,"
+"HEK293 Wholecell, insideout, two electrode voltageclamp erythrocytes, HEK293, xenopus oocytes The apparent Ca2+ sensitivity of KCa3.1_WT is ~0.27 μM."
+Channels expressed in vascular endothelium may be related to vascular damage during limb development of ZLS patients.
+Fluid shear stress may trigger exaggerated vasodilation during the excessive human embryonic development because of hyperpolarization due to hypersensitivity to Ca2+ of the ZLSrelated mutant KCa2.3 channels.
+"In critical phases of embryonic development, the consequent edema and vascular ruptures may lead to distal digital hypoplasia with aplastic or hypoplastic nails and terminal phalanges."
+"Intellectual disability and developmental delay symptoms are also reported in patients carrying the KCa2.3 mutations in Table 2, even though the development delay symptom was reported to be mild in patients carrying the hKCa2.3_ A536T mutation."
+"Overexpression of KCa2.3 channels in mice causes hippocampal shrinkage associated with cognitive impairment, suggesting the role of KCa2.3 channels in the central nervous system."
+It is not a surprise to see intellectual disability and developmental delay in patients carrying GOF hKCa2.3 mutations.
+"Gingival hyperplasia was reported in patients carrying mutations in Table 2, except hKCa2.3_ A287S, hKCa2.3_ G350D, and hKCa2.3_ A536T."
+"GOF mutations in genes encoding K+ channels including KCNQ1, KCNH1, KCNJ8, and KCNK4 have been associated with hereditary gingival overgrowth."
+"A recent mechanistic study revealed that activation of K+ channels promotes ﬁbrogenic response in hereditary gingival overgrowth via clustering and activation of the small GTPbinding protein Ras GOF KCa3.1 mutations and hereditary xerocytosis HX (OMIM 194380) also known as dehydrated hereditary stomatocytosis, is an autosomal dominant congenital hemolytic anemia characterized by erythrocyte dehydration."
+The majority of HX cases have been linked to GOF mutations of the mechanosensitive cationic PIEZO1 channel in erythrocytes.
+"A small subset (~10%) of HX (also called the Gardos channelopathy) has been linked with hKCa3.1_V282M, hKCa3.1_V282E, hKCa3.1_S314P, hKCa3.1_A322V, and hKCa3.1_R352H mutations in the KCa3.1 channel encoded by the KCNN4 gene."
+"Among these mutations, hKCa3.1_S314P, hKCa3.1_A322V, and hKCa3.1_R352H cause hypersensitivity to Ca2+ of the mutant channels remaining mutations 61]."
+"hKCa3.1_V282M, and hKCa3.1_V282E have not been studied for their effects on the channel’s sensitivity to Ca2+."
+"(Table The [43, 3) All the human KCa3.1 mutations in Table 3 are inherited familial variants."
+All patients carry one WT and one mutant KCNN4 allele.
+The KCa3.1 subunits carrying mutations in Table 3 may coassemble with KCa3.1_WT subunits in the tetrameric channel assembly.
+The activity of such channels containing both WT and mutant subunits is unknown and requires future studies.
+"The excessive opening of these mutant KCa3.1 channels could lead to increased K+ efﬂux, followed by water loss and erythrocyte dehydration."
+"Erythrocytes from patients carrying these KCa3.1 mutations often exhibit decreased K+ content and increased Na+ content, accompanied by increased mean corpuscular hemoglobin concentration resulting from cell dehydration."
+"For channel gating, including the S4S5 linker, In the S4S5 linker, hKCa2.2_I288S STRUCTURE–FUNCTION RELATIONSHIP OF THE MUTANT CHANNELS Many of the KCa2.x/3.1 mutation hot spots are located at regions essentially the selectivity ﬁlter, the porelining transmembrane S6 domain, and the HA/HB helices."
+"In humans and its corresponding rKCa2.2_I289N in rats are LOF mutations, while hKCa2.3_S436C and hKCa2.3_V450L are GOF mutations that increase the apparent Ca2+ sensitivity."
+"In the cryoEM structure of KCa3.1 channels, the Nlobe of CaM forms contacts with the S4S5 linker when bound with Ca2+, which pulls the poreforming transmembrane domains to open the gate."
+Similar interactions between the CaM Nlobe and the S4S5 linker are also predicted in the homology models of KCa2.2 and KCa2.3 channels.
+The binding interfaces between CaM and its substrates are often hydrophobic.
+"As such, hKCa2.2_I288S and rKCa2.2_I289N mutations may decrease hydrophobicity at the interface and impair the interactions between the CaM Nlobe and the S4S5 linker, leading to LOF mutant KCa2.2 channels (Fig. 1)."
+"In contrast, hKCa2.3_V450L increases hydrophobicity at the interface and strengthens the interactions between the CaM Nlobe and the S4S5 linker (Fig. 2), leading to more efﬁcient channel opening and GOF mutant KCa2.3 channels."
+It is still not clear how hKCa2.3_S436C mutation causes GOF.
+But mutating its corresponding serine residue in hKCa3.1 (hKCa3.1_S181) to tryptophan or tyrosine amino acid residue increases the hydrophobicity at the interface and causes hypersensitivity to Ca2+.
+"Selectivity ﬁlter, hKCa2.2_I359M, hKCa2.2_Y361C, hKCa2.2_G362S are LOF mutations (Fig. 1B)."
+"The selectivity is well conserved between different K+ channels and ﬁlter mutations in the selectivity ﬁlter can often lead to LOF, by disrupting the K+ passage."
+"In the transmembrane S6 domain, hKCa2.2_L388V is a LOF mutation, while hKCa2.3_A536T, hKCa2.3_V539del, and hKCa3.1_V282M/E are GOF mutations."
+The V539 residue in hKCa2.3 (hKCa2.3_V539) corresponds to the V282 residue in hKCa3.1 (hKCa3.1_V282).
+"In the cryoEM structure of KCa3.1, V282 deﬁnes the narrowest constriction site of the cytoplasmic gate (Fig. 3)."
+The replacement of V282 by a glycine residue generates a “leaky” channel that conducts K+ current in the absence of Ca2+.
+"Theoretically, the GOF hKCa3.1_V282E mutation introduces negatively charged residues at the cytoplasmic gate."
+"This may cause electrostatic repulsion and enlargement of the gate, leading to constitutively active channels that leak K+."
+How hKCa3.1_V282M mutation causes GOF channel activity still requires investigation.
+"In the HA/HB helices, hKCa2.2_L432P is a LOF mutation, while and hKCa3.1_S314P, hKCa3.1_R352H increase the apparent Ca2+ sensitivity."
+"The most studied HA/HB helices mutation is the rKCa2.2_V407F mutation corresponding to hKCa2.3_V555F. The rKCa2.2_V407F hKCa3.1_A322V, hKCa2.3_V555F, Acta Pharmacologica Sinica (2023) 44:259 – 267 KCa2.x/KCa3.1 channelopathy YW Nam et al. 263 Fig."
+1 KCa2.2 channel structure and LOF mutations.
+A Human KCa2.2 channel homology model generated using human KCa3.1 channel (PDB: 6cnn) as a template.
+Poreforming channel αsubunits are shown in salmon and its accessory CaM is shown in gray.
+"Mutations are shown as spheres with carbon atoms in green, oxygen atoms in red, and nitrogen atoms in dark blue."
+Mutations in only one of the four αsubunits are shown for clarity.
+"In the inset, the relative position of CaM Nlobe, the S4S5 linker (S45A and S45B helices), and HA helix is shown."
+B Mutations in selectivity ﬁlter and transmembrane S6 domain of channel pore.
+Mutations in only one of two opposite αsubunits are shown for clarity.
+C Schematic representation of one KCa2.2 channel subunit.
+Pathogenic LOF mutations are shown as green circles.
+"A, b were generated using Pymol (Schrödinger LLC)."
+"C was generated using Biorender.com mutation increases the apparent Ca2+ sensitivity by enhancing the hydrophobic interactions between the proximal end of HA helix, the S4S5 linker, and the CaM Nlobe, which may pull the transmembrane S6 domain more efﬁciently during the pore opening."
+The hKCa2.3_V555F mutation may increase the hydrophobicity at the proximal end of the HA helix of KCa2.3 channels and enhance its interactions with the S4S5 linker and the CaM Nlobe similarly (Fig. 2A).
+"The hKCa2.2_L432P, hKCa3.1_S314P, and hKCa3.1_A322V mutations in the distal HA helix, as well as the hKCa3.1_R352H mutation in the HB helix, are at the interface between the HA/HB helices and the CaM Clobe (Figs. 1 and 3)."
+Their roles in the channel activation by Ca2+ are less understood.
+It seems that changes at the interface between the HA/HB helices and the CaM Clobe may also affect channel activity.
+"Two GOF mutations, hKCa2.3_K269E and hKCa2.3_G350D, are speculated to interact with casein kinase 2 (CK2)."
+The KCa2.3_K269E mutation is equivalent to K121 in rKCa2.2 channels that are essential for the CK2 phosphorylation of the rKCa2.2CaM complex.
+The positively charged K121 residue in rKCa2.2 channels is not the phosphorylation site.
+"Without the positively charged residue, CK2 cannot phosphorylate the rKCa2.2CaM complex effectively."
+The rKCa2.2_K121A mutation diminished the phosphorylation of the rKCa2.2CaM complex.
+These two GOF hKCa2.3 mutations may reduce the phosphorylation and negative modulation by CK2 and thus cause Ca2+-hypersensitivity.
+One GOF mutation hKCa2.3_A287S is in the transmembrane S1 domain (Fig. 2).
+The mKCa2.2_L168P mutation identiﬁed in jitter mice equivalent to the hKCa2.2_L173P in humans is in the S2 domain (Fig. 1).
+Transmembrane S1–S4 domains in the voltage- gated K+ (Kv) channels are referred to as the voltagesensing domain.
+"Unlike the Kv channels, KCa2.x/ KCa3.1 channels are voltage independent."
+"Even though a voltagesensing role of the S1–S4 domains is not expected in KCa2.x/ KCa3.1 channels, their regulatory role in these voltageindependent channels may still need to be elucidated."
+HETEROMULTIMER FORMED BY DIFFERENT CHANNEL SUBTYPES
+"Different KCa2.1, KCa2.2, and KCa2.3 channel subtypes can form heteromultimers in human and mouse atrial myocytes."
+"Heteromultimerization of KCa2.1/KCa3.1 subtypes, KCa2.1/ KCa2.2 subtypes, or KCa2.1/KCa2.2/KCa2.3 subtypes has also been reported in heterologous expression systems."
+"Truncated channel fragments of KCa2.2 or KCa2.3 can suppress the activity of other coexpressed KCa2.x/KCa3.1 subtypes in a dominantnegative fashion, implying the potential heteromultimerization between subtypes."
+"KCa2.1, KCa2.2, and KCa2.3 subtypes are expressed in the central nervous system."
+Expression of KCa2.1 and KCa2.2 channels exhibits a partially overlapping distribution pattern in the neocortex and hippocampus.
+"KCa2.3 subtype is predominantly expressed in the basal ganglia, thalamus, and various brain stem nuclei."
+The distinct and yet partially overlapping expression proﬁles of the subtypes imply possible heteromultimerization between KCa2.x subtypes in the central nervous system.
+The LOF KCa2.2 mutations may impact more than the KCa2.2 subtype itself in human brains.
+Other KCa2.x subtypes expressed in the same type of cells or tissues may be dominantnegatively affected as Acta Pharmacologica Sinica (2023) 44:259 – 267 264 KCa2.x/KCa3.1 channelopathy YW Nam et al. Fig.
+2 KCa2.3 channel structure and GOF mutations.
+A Human KCa2.3 channel homology model generated using human KCa3.1 channel (PDB: 6cnn) as a template.
+Poreforming channel αsubunits are shown in pale blue and its accessory CaM is shown in gray.
+"Mutations are shown as spheres with carbon atoms in magenta, oxygen atoms in red and nitrogen atoms in dark blue."
+Mutations in only one of the four αsubunits are shown for clarity.
+"In the inset, the relative position of CaM Nlobe, the S4S5 linker (S45A and S45B helices), and HA helix are shown."
+B Mutations in the transmembrane S6 domain of channel pore.
+Mutations in only one of two opposite αsubunits are shown for clarity.
+C Schematic representation of one KCa2.3 channel subunit.
+Pathogenic GOF mutations are shown as red circles.
+"A, b were generated using Pymol (Schrödinger LLC)."
+C was generated using Biorender.com Fig.
+3 KCa3.1 channel structure and GOF mutations.
+A Human KCa3.1 channel cryoEM structure (PDB: 6cnn).
+"Poreforming channel αsubunits are shown in pale green, and its accessory CaM is shown in gray."
+"Mutations are shown as spheres with carbon atoms in magenta, oxygen atoms in red and nitrogen atoms in dark blue."
+Mutations in only one of the four αsubunits are shown for clarity.
+"In the inset, the relative position of CaM Clobe and HA/HB helices is shown."
+b
+The V282 residue deﬁnes the narrowest site of the cytoplasmic gate.
+C Schematic representation of one KCa3.1 channel subunit.
+Pathogenic GOF mutations are shown as red circles.
+A and b were generated using Pymol (Schrödinger LLC).
+C was generated using Biorender.com Acta Pharmacologica Sinica (2023) 44:259 – 267 KCa2.x/KCa3.1 channelopathy YW Nam et al. 265 Table 4.
+Small molecule modulators of KCa2.x and KCa3.1 channels.
+KCa3.1 negative modulators KCa3.1 positive modulators KCa2.x negative modulators KCa2.2/KCa2.3 positive modulators KCa2.x/KCa3.1 negative modulators KCa2.x/KCa3.1 positive modulators Compound Senicapoc TRAM34 SKA111 AP14145 NS8593 CyPPA NS13001 Compound 2q RA2 NS309 SKA31 Potency ~11 nM ~20 nM ~0.11 μM ~1.1 μM ~0.6 μM ~14 μM on KCa2.2 ~5.6 μM on KCa2.3 ~1.8 μM on KCa2.2 ~0.14 μM on KCa2.3 ~0.64 μM on KCa2.2 ~0.60 μM on KCa2.3 ~17 nM ~0.62 μM on KCa2.x ~0.01 μM on KCa3.1 ~1.92.9 μM on KCa2.x ~0.26 μM on KCa3.1 Subtypeselectivity ~1000fold over KCa2.x ~1000fold over KCa2.x ~120fold over KCa2.x ≫10fold over KCa3.1 ≫10fold over KCa3.1 inactive on KCa2.1 and KCa3.1 inactive on KCa2.1 and KCa3.1 inactive on KCa2.1 and KCa3.1 Nonselective Nonselective Nonselective well.
+The psychiatric and neurological symptoms observed in patients carrying KCa2.2 LOF mutations may arise from the impaired activity of both KCa2.2 and other coassembled KCa2.x subtypes.
+"Similarly, the central nervous system symptoms of patients carrying GOF KCa2.3 mutations may be attributed to the elevated activity of both KCa2.3 and other coassembled KCa2.x subtypes, which will require future studies."
+POTENTIAL PHARMACOLOGICAL THERAPEUTIC STRATEGY Genomic editing done by CRISPR/Cas9 may offer the ultimate cure for these genetic disorders when the technology matures.
+"Until then, pharmacological therapy may ﬁll in the gap."
+The pharmacology for KCa2.x/KCa3.1 channel subtype has been well-developed.
+Small molecule positive and negative modulators with differential subtypeselectivity are available (Table 4).
+"Senicapoc inhibits KCa3.1 channels with IC50 values of ~11 nM, and selectivity of ~1000fold for KCa3.1 channels over KCa2.x channel subtypes."
+Senicapoc has exhibited excellent pharmacokinetic properties in humans and is being studied in a clinical trial (ClinicalTrials.gov Identiﬁer: NCT04372498) for HX patients carrying GOF KCa3.1 channel mutations.
+"For neurodevelopmental disorders For treating ZLS and INCPH related to GOF KCa2.3 mutations, negative modulators will be needed."
+"AP14145 is equipotent in inhibiting KCa2.2 and KCa2.3, but is not effective on KCa3.1 channels."
+We tested AP14145 on the ZLS- and INCPHrelated mutant KCa2.3 channels.
+The inhibitory effect of AP14145 on the mutant channels is somewhat weaker than on the KCa2.3_WT channels.
+"Related to LOF KCa2.2 mutations, positive modulators might be beneﬁcial."
+"There is a prototype positive modulator, CyPPA, that potentiates the activity of KCa2.2 and KCa2.3 channels selectively."
+CyPPA binds to a putative binding pocket at the interface between the HA/HB helices and the constitutively associated CaM.
+We performed chemical modiﬁcation of CyPPA and developed several more potent and more selective positive modulators.
+It is unknown how useful these positive modulators are.
+More research is needed to determine their effectiveness.
+"ACKNOWLEDGEMENTS We are grateful to Lucia Basilio, Young Hur, Misa Nguyen, Nadeed Naguib, Elyn Lam, and Nikita Dave for their helpful suggestions."
+"M.Z. was supported by a Scientist Development Grant 13SDG16150007 from American Heart Association, a YISCA grant from National Ataxia Foundation, and a grant 4R33NS10118203 from NIH."
+Acta Pharmacologica Sinica (2023) 44:259 – 267 AUTHOR CONTRIBUTIONS M.C. and M.Z. conceptualized the project.
+All authors contributed to the manuscript and the ﬁgures.
+ADDITIONAL INFORMATION Competing interests: The authors declare no competing interests.

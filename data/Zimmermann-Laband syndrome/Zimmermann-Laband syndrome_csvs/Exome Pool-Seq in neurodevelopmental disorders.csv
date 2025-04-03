@@ -1,0 +1,222 @@
+European Journal of Human Genetics (2017) 25:1364–1376 https://doi.org/10.1038/s41431017-00221 A R T
+I C L E Exome PoolSeq in neurodevelopmental disorders Bernt Popp 1 ● Arif B. Ekici
+André Reis 1 ● Christiane Zweier1 1 ● Christian T. Thiel1 ● Juliane Hoyer1 ● Antje Wiesener1 ● Cornelia Kraus1 ● Received: 7 June 2017 / Revised: 20 September 2017 / Accepted: 22 September 2017 / Published online: 20 November 2017
+© The Author(s) 2017.
+"This article is published with open access Abstract High throughput sequencing has greatly advanced disease gene identiﬁcation, especially in heterogeneous entities."
+"Despite falling costs this is still an expensive and laborious technique, particularly when studying large cohorts."
+To address this problem we applied Exome PoolSeq as an economic and fast screening technology in neurodevelopmental disorders (NDDs).
+Sequencing of 96 individuals can be performed in eight pools of 12 samples on less than one Illumina sequencer lane.
+"In a pilot study with 96 cases we identiﬁed 27 variants, likely or possibly affecting function."
+"Twenty ﬁve of these were identiﬁed in 923 established NDD genes (based on SysID database, status November 2016)"
+"(ACTB, AHDC1, ANKRD11, ATP6V1B2, ATRX, CASK, CHD8, GNAS, IFIH1, KCNQ2, KMT2A, KRAS, MAOA, MED12, MED13L, RIT1, SETD5, SIN3A, TCF4, TRAPPC11, TUBA1A, WAC, ZBTB18, ZMYND11), two in 543 (SysID) candidate genes (ZNF292, BPTF), and additionally a de novo lossof-function variant in LRRC7, not previously implicated in NDDs."
+"Most of them were conﬁrmed to be de novo, but we also identiﬁed Xlinked or autosomaldominantly or autosomalrecessively inherited variants."
+"With a detection rate of 28%, Exome PoolSeq achieves comparable results to individual exome analyses but reduces costs by >85%."
+"Compared with other large scale approaches using Molecular Inversion Probes (MIP) or gene panels, it allows ﬂexible reanalysis of data."
+"Exome PoolSeq is thus well suited for largescale, costefﬁcient and ﬂexible screening in characterized but heterogeneous entities like NDDs."
+Introduction High throughput sequencing by NextGeneration sequencing (NGS) technologies has enabled the identiﬁcation and conﬁrmation of novel disease genes and empowered diagnostic testing for many heterogeneous disorders.
+"This is particularly true for neurodevelopmental disorders (NDD) like intellectual disability (ID) or autismspectrum-disorders (ASD), where >1000 genes have been implicated by now (SysID database status December 2016)."
+"Electronic supplementary material The online version of this article (https://doi.org/10.1038/s41431017-00221) contains supplementary material, which is available to authorized users."
+*
+"Bernt Popp bernt.popp@ukerlangen.de * Christian Meier christiane.zweier@ukerlangen.de Institute of Human Genetics, FriedrichAlexander-Universität ErlangenNürnberg (FAU), 91054 Erlangen, Germany Using trioexome-sequencing, several recent studies have conﬁrmed de novo mutations (DNM) as a major cause for NDDs in countries with little consanguinity."
+"In accordance with these initial ﬁndings, The Deciphering Developmental Disorders study, a large scale approach to sequence the exome of currently 4293 patients with severe developmental disorders and their parents, identiﬁed pathogenic DNMs in the coding sequence in 42% Despite these advances and despite falling costs, the current gold standard of triobased exome or genome sequencing remains prohibitively expensive and timeconsuming for large cohorts."
+"Furthermore, many affected individuals have to be sequenced to conﬁrm candidate genes and to reﬁne the phenotypic spectrum associated with variants in a speciﬁc gene."
+"Thus, there is a need for genomewide, simple, cheap, and fast screening technologies in sporadic NDDs."
+"To meet some of these limitations and challenges, several alternative strategies have been utilized in both diagnostic and research settings."
+"Targeted capturebased sequencing of known disease genes in cohorts of 100–1000 individuals with unknown genetic etiology of ID resulted in diagnostic Exome PoolSeq in neurodevelopmental disorders 1365 yields between 11% and 32%, correlating with the availability of parental samples to conﬁrm de novo occurrence."
+"A modiﬁed MIP method, initially established for ultralow-cost resequencing of 44 candidate genes in >2400 cases, was recently extended to screen 208 candidate genes in over 11,730 individuals with NDDs."
+"However, both methods are limited to a predeﬁned set of genes and currently require either a substantial initial investment or a laborious set-up (Fig. 1a)."
+"Here we applied exome PoolSeq as a method for costand timeefﬁcient screening in highly heterogeneous, but well characterized entities like NDDs."
+Sequencing the exome of 96 individuals with NDDs in eight mixed DNA pools of 12 samples each and subsequent conﬁrmation and segregation testing by Sanger sequencing resulted in a high mutational detection rate of 28% and the identiﬁcation of at least one DNM in novel candidate genes.
+Exome PoolSeq therefore provides an easily accessible option for exomewide largescale screening with the added beneﬁt of ﬂexible reanalysis.
+"Material and methods Patient cohort Over the course of several years, individuals with NDDs referred to the outpatient clinic of the Institute of Human Genetics in Erlangen were recruited for a multicenter study to identify genetic causes of ID and developmental delay (German Mental Retardation Network) and for followup studies with the same aim."
+"DNA samples of patients and (healthy) parents, as well as detailed clinical data were collected."
+These studies were approved by the ethical committee of the medical faculty of the FriedrichAlex- anderUniversity-ErlangenNürnberg.
+From this cohort we selected 96 individuals and combined them in eight pools of 12 samples each.
+Inclusion criteria were an apparently unknown cause of NDD/ID after previous diagnostic and research testing and nonconsanguinity of parents.
+The selected group contained 48 males and 48 females.
+"IQs, either according to standardized tests or estimated based on Fig."
+1
+Workﬂow of exome PoolSeq and comparison of screening strategies in NDDs.
+"A Advantages and disadvantages of different screening methods in NDDs are compared, using affected only exome sequencing as a baseline."
+"A dot depicts comparable characteristics, while an increasing amount of plus or minus signs shows an advantage or disadvantage, respectively."
+"B, c Diagram of the basic workﬂow established in this study for the wet lab b and computational c part of exome PoolSeq in NDDs 1366 B. Popp et al. reported milestones and abilities ranged from 70 to below 20."
+"Inhouse diagnostic chromosomal microarray testing, either with an Affymetrix 6.0 Mapping Array or an Affymetrix CytoScan HDArray (Affymetrix, Santa Clara, CA, USA), had been performed without obviously pathogenic aberrations in 92 individuals and normal testing for FragileX syndrome in 35 of the males and 32 of the females."
+Variants in MECP2 had been excluded in nine females and six males.
+"A substantial proportion (Supplementary Table S1) of individuals had been negatively screened for variants in SYNGAP1, CTCF, GRIN2A, GRIN2B, and ARID1B within previous studies."
+Sequencing Elaborate quality control was performed ﬁrst.
+"Concentrations of all selected genomic DNA samples, previously extracted using different commercial kits, were measured using the NanoQuant instrument (Tecan, Zürich, Switzerland), and DNA integrity was assessed by gel electrophoresis."
+DNA samples were then binned by quality and gender and mixed in eight equimolar pools of 12 samples each to contain sufﬁcient DNA as input for library preparation.
+"Enrichment for exome sequencing was performed on the eight pooled DNA samples using the SureSelect Human All Exon V5 kit (50 Mb, ~ 21,000 genes) (Agilent Technologies, Santa Clara, USA)."
+"Resulting libraries were sequenced on an Illumina Hiseq 2500 system (Illumina, Inc., San Diego, USA) to produce 125 bp pairedend reads (Fig. 1b)."
+"After demultiplexing, quality and adapter trimming was performed (https://github.com/vsbuffalo/ scythe/) and cutadapt (http://cutadapt.readthedocs.io/ en/stable/) from within the wrapper tool Trim Galore! (http://www.bioinformatics.babraham.ac.uk/projects/trim_ galore/)."
+Read alignment to the hg19 reference genome from the GATK (Genome Analysis Toolkit) bundle was performed with BWAMEM (https://github.com/ lh3/bwa/) using standard settings.
+"Duplicate reads were marked with Picard tools (http://broadinstitute.github.io/ picard/), and local realignment at positions containing insertions or deletions (Indels) was performed according to the GATK best practices (Fig. 1c)."
+Using Scythe Relative cost reduction for one 12 sample pool in comparison to affectedonly exome sequencing of 12 individual samples was calculated based on the relative cost distribution between nextgeneration base sequencing (0.585 of total costs) and exome library preparation (0.415 of total costs).
+It was assumed that sample handling costs for both methods are comparable as sample mixing introduces complexity but saves costs associated with shearing.
+Calculation was based on the here presented experiment design with about two time more reads sequenced per 12 sample pool exome compared to a good standard exome (deﬁned as ×150 mean coverage on target with 95% of the target being covered at least ×20 or about 120 million reads).
+"The formula used is (RP = relative price, F = factor): (RP(library preparation) + F (more sequencing))/(12×(RP sequencing)×RP(standard (library preparation) +"
+RP (standard sequencing)))
+= (0.415 + 2×0.585)/ (12×(0.415 + 0.585))
+≈ 0.132.
+Variant calling and annotation Variant calling was concurrently performed on all resulting BAM alignment ﬁles using a high sensitivity setting and a ploidy of 24 (for detailed command line arguments see Supplementary note) within freebayes (https://github. Com/ekg/freebayes/) to produce a multisample VCF ﬁle with variant calls for all 8 pools.
+The freebayes software was chosen based on previous experience from somatic variant calling after initial feasibility studies using simulations and a test run of 12 samples sequenced previously (Supplementary Figs.
+"S1 and S2, Supplementary Tables S2 and S3) and review of current variant callers (Supplementary Table S4) capable of calling polyploid samples."
+"For annotation of the resulting variant ﬁles, SnpEff and SnpSift (http://snpeff.sourceforge.net/) were used with the dbNSFP database (https://sites.google.com/site/jpopgen/ dbNSFP/)."
+"The latest variant frequencies from the database ExAC (Exome Aggregation Consortium) (http://exac.broadinstitute.org/), as well as CADD (combined annotation dependent depletion) (http://cadd.gs.wa shington.edu/), REVEL (rare exome variant ensemble learner) (https://sites.google.com/site/revelgenomics/), SPIDEX (https://www.deepgenomics.com/spidex/) and dbscSNV (https://www.solvebio.com/data/ dbscSNV/) were additionally annotated using SnpSift and the ﬁles provided from the respective website."
+Software and database versions are detailed in Supplementary Table S5.
+Scores Variant ﬁltering and validation The annotated variants were ﬁltered using manually curated lists of 923 currently known ID genes and 543 published ID candidate genes retrieved from the SysID database (http:// sysid.cmbi.umcn.nl/) (status December 2016).
+Only variants with a variant quality score (QUAL; as reported by freebayes) ≥ 1 were considered.
+The gene lists were split by inheritance pattern for further analysis.
+"Note, that the sum of recessive autosomaldominant/Xlinked plus autosomal genes is larger than the absolute gene count in the respective list, as several genes are associated with both autosomal recessive and autosomal dominant disorders."
+The list of 398 autosomaldominant/Xlinked ID genes was ﬁltered to allow variants a maximum allele count (AC) of 4 and not to be contained in the ExAC database.
+Variants (a) Presumable LOF were evaluated in several steps: Exome PoolSeq in neurodevelopmental disorders 1367 (https://www.ncbi.nlm.nih.gov/clinvar/) variants and splicesite variants predicted to be damaging by all three annotated splicesite scores were conﬁrmed by Sanger sequencing and subsequently tested in the parents of the respective individual.
+(b) All missense variants with a CADD score ≥ 25 (above the recommended threshold of 20 in order to reduce the total variant number for validation) were conﬁrmed by Sanger sequencing and subsequently tested in the parents of the respective individual.
+"(c) Known pathogenic missense variants were retrieved from ClinVar (≥ class 4), Decipher (https://decipher.sanger.ac.uk/) and recently published databases for DNMs in NDDs and checked for overlaps in the exome PoolSeq data using bedtools."
+(d) Missense variants with a CADD score of 20–25 or 15–20 were only tested by Sanger sequencing if previously reported in literature as pathogenic.
+All possible variant annotations were searched in Google and Pubmed using the gene name and either the transcript level annotation or the protein annotation in 3letter/1letter code with and without the variant amino acid as input.
+"In the second step, the list of 569 autosomal recessive ID genes was ﬁltered to allow variants a maximum allele count (AC) of 6 and an allele count of 2400 (1 of 50) in the ExAC database."
+We calculated an allele fraction threshold of 7% as suitable to detect potentially homozygous variants (Supplementary Fig. S3).
+"Variants meeting homozygosity criteria were selected for Sanger validation and segregation analysis if they resulted presumably in LOF, were located in a splicesite and predicted to be damaging by all three splicesite scores or if previously described as (likely) pathogenic in ClinVar (≥ class 4)."
+Variants not meeting the homozygosity criteria but falling into the same classes were evaluated by searching for a second variant within the same pool meeting the same criteria or for a missense variant with a CADD score ≥ 15 and predicted to be damaging by both REVEL and MCAP (http://bejerano.stanford.edu/mcap/) scores.
+As the CADD score is calibrated for dominant diseases and might have a limited speciﬁcity for recessive variants we chose a lower cutoff for this analysis.
+"Compoundheterozygosity possible for (probability of In a third step, LOF variants in 543 published candidate ID genes from the SysID database were determined for autosomaldominant/Xlinked and autosomal recessive inheritance, respectively."
+"In a fourth step, a list of 1694 constrained genes with a pLI lossof- function intolerance) score >0.9 and a RVIS (Residual Variation Intolerance Score) <20% was generated and used to ﬁlter for LOF variants in any of these genes."
+"Variants emerging from these two approaches were manually evaluated by two experts, who independently reviewed and in case of disagreement, decided together which variants to pursue by Sanger sequencing and segregation testing."
+"To determine the individual carrying the mutation and its segregation, testing with Sanger sequencing according to standard protocols was performed in all 12 samples from the respective pool and subsequently in the parents of the respective individual."
+"Sample identities were conﬁrmed by the PowerPlex 21 system (Promega, Fitchburg, WI, USA) according to the ACMG guidelines when pathogenicity of a DNM was not obvious."
+Variants rated as (likely) pathogenic or good candidates have been submitted to ClinVar and LOVD (http://www.lovd.nl/3.0/home/).
+Results Sequencing and variant characteristics Exome sequencing of 96 samples in pools of 12 generated on average 21 GB of aligned sequence data per pool.
+"The mean coverage in the target region for all pools ranged between ×324 and ×491, while the target region was covered at least ×30 in 96.9–98.0%."
+Between 22.8% and 34.3% of paired reads were marked as PCR duplicates (Supplementary Table S1).
+The duplication rate might be decreasable by reducing PCR cycles and increasing DNA input for library preparation.
+Variant calling produced a total of 5.1 million variants in combination of all pools.
+"Of these, 742,173 met the quality criteria (QUAL ≥ 1; Supplementary Fig. S4), and 192,572 located in the target region."
+"This resulted in an average of 548,795 variants per pool, of which 107,145 were in the target region with 52,080 annotated as coding."
+"Of these coding variants, in average 48,793 were SNVs and 2375 indels, while 1605 were annotated as HIGH (likely LOF), 23,490 as MODERATE (missense) and 27,482 as LOW (silent or splice region) by SnpEff (Supplementary Table S1)."
+"Compared with calling with freebayes of unpooled exomes sequenced at the same time, this represents an average of 89.7% unique merged variants per 12 samples, close to the detection rate in individual exomes."
+To address the possibility of a sample not represented in the pool we analyzed the relation between detected rare variants and their average allele fraction (Supplementary Figs. S4–S6).
+This supported all 12 samples being contained in the respective pool.
+"Despite the relative high PCR duplication rate, sequencing results of pooled exomes were of exceptional quality and had about twice as much reads compared with a good standard exome."
+"Compared with affectedonly exome sequencing, exome PoolSeq would thus currently lead to a cost reduction by ~87%."
+To explore the lower boundary of this approach we conducted downsampling experiments on the aligned BAM ﬁles.
+"We obtained similar results when considering only validated variants down to 67% of reads and when simultaneously scaling QUAL to 0.01, although 1368 B. Popp et al."
+This would likely increase the number of false positives.
+A further reduction of sequencing coverage to about 70% of the coverage in our experiment (300×0.7 = 210) is theoretically possible without increasing the rate of false negatives (Supplementary Table S6).
+"Detection of lossof-function variants in established ID genes Analysis for truncating and splice site variants in 398 autosomal dominant or Xchromosomal ID genes revealed a total of 15 variants, of which 13 could be conﬁrmed by Sanger sequencing (Supplementary Tables S1 and S7)."
+"Of these, four were nonsense, six were frameshifting, and three were spliced site variants (Table 1)."
+"For 12 of these, parental samples from both parents were available, and 11 variants were conﬁrmed to be de novo."
+"A frameshifting variant in ZMYND11 was paternally inherited, but considered to be causative as the father also had learning difﬁculties and as autosomal dominant inheritance for this gene was reported before."
+"Splice site variant revealed a homozygous A similar analysis of 569 known autosomal recessive ID genes in TRAPPC11 in S_081 (Table 1), which was previously reported in two Hutterite families with a similar phenotype of mild to moderate ID, ataxia, movement disorders, elevated CK and no or mild muscular symptoms."
+Segregation testing in the parents conﬁrmed heterozygous carrier status in both (Table 2; Supplementary Tables S1 and S8).
+"Detection of missense variants in established ID genes We searched for missense variants based on a CADD score ﬁlter above 25 in 398 autosomal dominant and Xlinked ID genes, resulting in 33 variants."
+All but two could be conﬁrmed by Sanger sequencing (Supplementary Tables S1 and S7).
+Of 24 missense variants in autosomal genes three were conﬁrmed to be de novo.
+"Two of them were considered to be likely pathogenic (KCNQ2, ATP6V1B2; Table 2) based on a compatible phenotype."
+"A de novo missense variant in ARID1B (c.3289C > T, p.(Pro1097Ser)) was not considered to be pathogenic, as mutations in this gene usually are truncating and as the same individual S_039 carried a de novo truncating variant in MED13L. The remaining missense variants were inherited from a healthy parent and thus are currently considered to be nonpathogenic (Supplementary Table S1)."
+"One exception was the maternally p. (Arg779His) in IFIH1, which was previously reported in syndrome 7."
+"Several patients with AicardiGoutieres Incomplete penetrance occurred in one family, in agreement with our observation in the family of patient S_007 (Supplementary Fig."
+S7).
+"c.2336G > A, inherited variant Seven missense variants were located in Xchromosomal genes."
+"Four variants found in girls were excluded as they were (possibly) inherited from a healthy father (BRWD3, CNKSR2, AFF2; Supplementary Tables S1 and S7) or unlikely to explain the ID phenotype (DMD)."
+"Two maternally inherited Xchromosomal variants were identiﬁed in boys, the variant in MAOA considered to be likely pathogenic, while the variant in ATRX remained of unknown signiﬁcance (Table 2)."
+Individual S_114 with the MAOA variant showed similar symptoms as affected males from four families with cognitive impairment and behavioral anomalies carrying mutations in this gene.
+The missense variant identiﬁed is located in the FAD domain in proximity to the two missense variants previously reported and predicted to similarly impair enzymatic function (Fig. 2).
+"The missense variant c.6863G > A, p. (Arg2288His) in ATRX is located downstream of the two functional domains harboring approximately 80% of mutations but affects a highly conserved amino acid."
+Functional relevance might be conﬁrmed by determining Hb inclusion bodies in erythrocytes.
+In MED12 we identiﬁed a de novo missense variant in a girl with severe but unspeciﬁc ID.
+"Mutations in MED12 have been reported with different, syndromic Xlinked recessive ID disorders (Table 2)."
+"In the light of the recent identiﬁcation of de novo mutations in initially Xlinked recessive genes in severely affected females (e.g., PHF6, NAA10) this variant might be pathogenic in a girl, but remains unclear at the moment."
+"When considering variants with lower CADD scores down to 15, we detected 42 missense variants (Supplementary Tables S1 and S7), ﬁve of which were selected for followup testing by Sanger sequencing after manual evaluation and after comparison with variants from ClinVar, Google and PubMed."
+"The de novo missense variant c.351G>T, p.(Glu117Asp) in ACTB was identiﬁed in a girl with severe ID, congenital heart defect, cleft lip and palate and epilepsy."
+"At the same position, another missense variant c.349G>A, p.(Glu117Lys) was previously reported in a patient with atypical BaraitserWinter syndrome."
+"The missense variant c.440A>G, p.(Lys147Arg) in KRAS was identiﬁed in a girl with moderate ID, facial dysmorphism and normal growth."
+"This variant could be excluded in her mother, while a paternal sample was not available."
+"However, another missense variant c.439 A>G, p.(Lys147Glu) at the same residue has been reported in a girl with Noonan syndrome and normal height, and the amino acid Lys147 has been shown to be one of the major ubiquitination sites of the KRAS protein."
+"The missense variant c.221C>G, p.(Ala74Gly) in RIT1 was identiﬁed in a boy with clinically suspected Noonan syndrome and osteogenesis imperfecta due to the de novo variant c.3515dup, p. (Asp1173*) in COL1A1 (NM_000088.3) (Supplementary Exome PoolSeq in neurodevelopmental disorders 1369 1370 B. Popp et al. "
+Exome PoolSeq in neurodevelopmental disorders 1371 Fig.
+2 Exemplary computational workups of a missense variant in MAOA.
+"A MAOA crystal structure (PDB code: 2Z5X), showing the clustering of the two missense variants previously described as pathogenic in individuals with Brunner syndrome (colored in purple) and the herein described variant (colored in red)."
+All three variants lead to an exchange of a highly conserved amino acid (displayed as spheres) in the ﬂavin adenine dinucleotide (FAD)-binding site (colored in green) of the protein.
+FAD is displayed in stick representation and colored in gray.
+The membranebinding domain is colored in blue and the cytoplasmic substrate/inhibitor domain is colored in yellow.
+PyMol (http://www.pymol.org/) was used for structure analysis and visualization.
+"B Schematic representation of the MAO protein, encoding exons (numbered after NM_000240.3), domains (colored as in a) (based on NCBI reference NP_000231.1, UniProt P21397 and PDB 2Z5X) and localization of all described pathogenic variants."
+"Missense variants are presented in purple, truncating variants in black."
+"The herein identiﬁed variant c.730G > A, p. (Val244Ile) is presented in red and bold."
+TM: transmembrane domain.
+In blue a density blot of all missense variants reported as hemizygous in ExAC Table S9).
+The variant in RIT1 was shown to be de novo and had been reported in several other patients with Noonan syndrome.
+"The missense variant c.641G>A, p. (Arg214His) in TUBA1A was identiﬁed in a girl with severe ID, epilepsy and brain malformations and has been reported before in a fetus and a 3year-old girl, both with agenesis of corpus callosum and other brain malformations."
+Analysis of candidate genes Filtering 543 published ID candidate genes for LOF variants revealed 17 in autosomal dominant/Xlinked and 28 in autosomal recessive genes (Supplementary Table S9).
+"After manual evaluation, ﬁve variants in autosomal dominant genes were further followed up of which two were conﬁrmed to be de novo, one frameshifting variant each in BPTF and ZNF292 (Table 3)."
+"BPTF encodes a bromodomain transcription factor and is expressed in various tissues, including brain."
+Four de novo variants in BPTF were recently reported in patients with developmental disorders and further anomalies.
+ZNF292
+Encodes a growth hormone dependent transcription factor for which de novo variants in six individuals with autism spectrum disorders or developmental disorders were recently reported.
+Both variants are therefore very likely to be associated with the phenotype.
+"As haploinsufﬁciency is a frequent disease mechanism in NDD, we ﬁltered for LOF variants in 1694 genes deemed haploinsufﬁciency intolerant which revealed 28 additional truncating (Supplementary site Table S9)."
+One was an already known variant in COL1A1 in individual S_011 with Noonan syndrome and Osteogenesis variants splice and 1372 B. Popp et al. 
+Exome PoolSeq in neurodevelopmental disorders 1373 imperfecta.
+"After manual evaluation, seven variants were followed up further, which yielded a de novo nonsense variant in LRRC7 in a patient with mild ID, absence seizures in early infancy and obesity."
+LRRC7 encodes a brainspeciﬁc scaffold protein in postsynaptic densities and contains a PDZ domain.
+Three further variants could not be followed up in both parents but remained good candidates due to the respective gene/protein function (Table 3).
+"Discussion Next generation sequencing of pooled DNA samples, PoolSeq, has been used in recent years to costeffectively determine allele frequencies of common variants in large population genomic studies in humans and both model and nonmodel organisms."
+"We therefore wondered if a combination of PoolSeq with standard capture based exome sequencing could be utilized to detect diseasecausing variants in monogenic, but heterogeneous disorders such as NDDs/ID."
+Our approach of sequencing exomes in pooled DNA samples identiﬁed variants likely affecting function in 28% of 96 individuals with ID.
+These numbers are in line with several large exome sequencing studies in individuals with sporadic NDDs/ID and detection rates between 16% and 42%.
+"This high detection rate proves the feasibility and power of our approach, even more so when considering that two of the most commonly mutated genes in NDDs/ID, SYNGAP1 and ARID1B, were prescreened in our cohort."
+The high validation rate by Sanger sequencing conﬁrms that variants can be reliably detected in pools of 12 individuals (ploidy of 24).
+Exome PoolSeq is well suited for large scale screening approaches but is not a substitute for NGS sequencing in a diagnostic setting.
+"Compared with affectedonly exome sequencing, PoolSeq can reduce costs by 485% with only marginal increase in Sangersequencing costs."
+"Further reduction might be achieved by optimization of sample processing (DNA concentration measurement, automation of DNA mixing, reduction of PCRduplicates) and variant calling."
+Exome PoolSeq also signiﬁcantly reduces associated laboratory work with an acceptable increase in computational complexity.
+"In larger studies with a focus on variant frequency rather than individual probands, determination of carriers by Sanger sequencing may even not be required."
+"Based on our experience, stricter ﬁltering and prediction criteria than used in this study might also reduce the number of benign variants and thus followup time and costs."
+"For example, the combination of REVEL and MCAP currently seems to have the highest prediction rate for missense variants."
+"In contrast to trio exome sequencing where segregation criteria such as de novo occurrence enormously reduce the number of candidate variants, PoolSeq is based on a caseonly approach and therefore requires a comprehensive and curated list such as SysID, which currently contains 1466 ID associated genes."
+Also targeted sequencing methods like MIP or hybridizationbased panels require a predeﬁned set of disease genes or candidate genes.
+"PoolSeq, however, has the great advantage of allowing ﬂexible reanalysis of new genes from the same data without the need for repeated sequencing."
+As exome PoolSeq is not limited to a preselected set of genes it also allows identiﬁcation of new candidate genes.
+"By ﬁltering for LOF variants in not yet ﬁrmly established but published ID candidate genes or in genes deemed to be intolerant for haploinsufﬁciency we could identify de novo variants in three genes, conﬁrming BPTF and ZNF292 as ID genes and identifying LRRC7 as a novel candidate gene."
+One limitation of PoolSeq compared to exome or panel sequencing of a single individual (affected only) or targeted sequencing by MIP is the lower coverage per individual and thus lower sensitivity for mosaicism.
+Up to 6.5% of presumed germline de novo variants have been shown to be mosaic with postzygotic occurrence.
+"Detection of mosaicism, though, generally requires exquisite sequencing depth, which is rarely met by current standard analysis approaches used in clinical settings."
+Another possible limitation might be a sample missed within a pool.
+"To ensure the presence of all samples within a pool, SNP proﬁling with rare variants might be feasible (Supplementary Fig. S6)."
+"Recurrently mutated, Not surprisingly, the majority of identiﬁed variants likely affecting function in our study are autosomaldominant and occur de novo as this is the most common cause of sporadic ID and ASD in nonconsanguineous families."
+"In our cohort, only MED13L was thus reﬂecting the known extreme genetic heterogeneity of NDDs."
+"Of 20 genes with autosomaldominant variants identiﬁed in our study, six (ANKRD11, KMT2A, MED13L, SETD5, TCF4, KCNQ2) also belong to the 20 most commonly mutated genes in a large study on developmental disorders and ﬁve more (AHDC1, CASK, CHD8, WAC, ZBTB18) belong to the group of genes exceeding genomewide signiﬁcance in that study."
+"Recessive inheritance is well documented in NDD, particularly in consanguineous families, but occurs also independent of parental consanguinity, as observed for the homozygous variant in TRAPPC11 in our study."
+Dominantly inherited NDDassociated variants as identiﬁed in ZMYND11 and IFIH1 are currently still difﬁcult to interpret and are probably often overlooked in trio exome sequencing approaches when strictly ﬁltering for de novo variants.
+The clinical phenotype of most individuals with variants likely affecting function was in agreement with the previously described presentation for the associated disorders. 
+1374 B. Popp et al.
+"However, unspeciﬁc phenotypes or relatively mild expression precluded a speciﬁc clinical diagnosis or suspicion."
+"Patient S_065, for example, with a variant in ATP6V1B2 and severe ID, hypotonia and epilepsy lacks other typical features of Zimmermann–Laband syndrome such as hypertrichosis, gingival hyperplasia, and dystrophic nails."
+"In contrast, individual S_011 was already suspected to have Noonan syndrome at ﬁrst presentation, but the gene found to be mutated, RIT1, was not yet associated with the disorder at that time."
+"Additionally, his ID was more severe than usually expected for NoonanSyndrom, similarly as in the girl with the variant in KRAS."
+Further contributing factors cannot be excluded.
+"Next to de novo occurrence, another major criterion for assessing possible pathogenicity of a variant is LOF."
+"Both criteria often coincide, 11 of 13 LOF or splice site variants in autosomal dominant ID genes were de novo in our cohort."
+"While most genes, whose haploinsufﬁciency or LOF causes developmental disorders, have been identiﬁed by now, many ID genes in which variants alter protein function still remain to be discovered."
+"Interpretation of missense variants can be very challenging and is often limited to methods with restricted power, e.g., segregation analysis and computational prediction or requires laborious and time-consuming functional studies."
+"Currently, the most valuable criterion to conﬁrm a missense variant being associated with disease is the identiﬁcation of the same variant or a sufﬁcient number of similar variants in individuals with a matching phenotype."
+"In our study, previous reports on disease association conﬁrmed pathogenicity of missense variants in KCNQ2, ACTB, KRAS, TUBA1A, and RIT1."
+Especially the maternally inherited variant in IFIH1 would have been impossible to correctly judge without previously reported similar ﬁndings due to incomplete penetrance of variants in this gene.
+This situation is set to improve due to novel computational prediction methods based on neuronal networks like MCAP and REVEL.
+"In retrospect, a combination of these two programs and their recommended threshold would have correctly predicted all but one of the validated pathogenic missense variants in our study while signiﬁcantly reducing the number of supposedly benign variants with a high CADD score (Supplementary Table S1)."
+Further computational improvements may be achieved by automated mapping of variants to homology or crystal structures of proteins.
+"Most importantly, comprehensive and curated databases with known variants in disease genes are indispensable to facilitate assessment of missense variants."
+"ClinVar, LOVD, HGMD, and Decipher are examples for such databases but rely on the community of researchers and clinicians to score and contribute the abundance of variants generated by current clinical and research sequencing efforts."
+"In conclusion, we established exome based PoolSeq as a costefﬁcient and ﬂexible screening method in highly heterogeneous but well characterized entities like NDDs."
+This method excels with an ease of setup and signiﬁcant cost reduction and empowers sizable screening for many known disease genes.
+Acknowledgements We are grateful to the families involved in this study for their participation.
+"We thank Angelika Diem, Heike Friebel, Christine Suchy, and Laila Distel for excellent technical assistance."
+"We thank Steffen Uebe for assistance in NGS, and Ina Göhring and Miriam Reuter for contributing to the collection of samples and clinical data."
+"This work was supported by funding from the German Research Foundation (DFG) to CZ (Zw183/31, RTG 2162), by the German Ministry of Education and Research to AR (01GS08160), and by the Interdisciplinary Center for Clinical Research (IZKF) Erlangen to AR and CZ (E16 and E26)."
+Compliance with ethical standards Competing interests The authors declare no conﬂicts of interest.
+"Sharing, any noncommercial use, Open Access"
+"This article is licensed under a Creative Commons AttributionNonCommercial-ShareAlike 4.0 International License, which permits adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made."
+"If you remix, transform, or build upon this article or a part thereof, you must distribute your contributions under the same license as the original."
+"The images or other third party material in this article are included in the article’s Creative Commons license, unless indicated otherwise in a credit line to the material."
+"If material is not included in the article’s Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder."
+"To view a copy of this license, visit http://creativecommons. Org/licenses/bync-sa/4.0/."

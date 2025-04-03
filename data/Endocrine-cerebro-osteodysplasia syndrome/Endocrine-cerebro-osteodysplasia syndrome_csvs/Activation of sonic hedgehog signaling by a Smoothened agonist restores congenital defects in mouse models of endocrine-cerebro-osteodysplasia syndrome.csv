@@ -1,0 +1,382 @@
+"EBioMedicine 49 (2019) 305–317 Contents lists available at ScienceDirect EBioMedicine journal homepage: www.elsevier.com/locate/ebiom Research paper Activation of sonic hedgehog signaling by a Smoothened agonist restores congenital defects in mouse models of endocrinecerebro-osteodysplasia syndrome JeongOh Shin a †, Jieun Song f, †, Han Seul Choi a, c, Jisu Lee e, Kyeong Lee e, Hyuk Wan Ko f, ∗, Jinwoong Bok a, b, c, d, ∗ Department of Anatomy, Yonsei University College of Medicine, Seoul 03722, Korea Department of Otorhinolaryngology, Yonsei University College of Medicine, Seoul 03722, Korea BK21 PLUS project for Medical Science, Yonsei University College of Medicine, Seoul 03722, Korea Severance Biomedical Science Institute, Yonsei University College of Medicine, Seoul 03722, Korea College of Pharmacy, Dongguk University, Goyangsi, Gyeonggido, 10326, Korea Department of Biochemistry, College of Life Science and Biotechnology, Yonsei University, Seoul 03722, Korea an r t"
+I c l e 
+I n f o a b s t r a c t Article history: Received 17 June 2019 Revised 30 September 2019 
+"Accepted 9 October 2019 Available online 26 October 2019 Keywords: Cleft palate Ciliopathy, Sonic hedgehog Endocrinecerebro-osteodysplasia (ECO) syndrome Smoothened agonist (SAG) "
+"Background: Endocrinecerebro-osteodysplasia (ECO) syndrome is a genetic disorder associated with con- genital defects of the endocrine, cerebral, and skeletal systems in humans."
+"ECO syndrome is caused by mutations of the intestinal cell kinase (ICK) gene, which encodes a mitogenactivated protein (MAP) kinaserelated kinase that plays a critical role in controlling the length of primary cilia."
+"Lack of ICK func- tion disrupts transduction of sonic hedgehog (SHH) signaling, which is important for development and homeostasis in humans and mice."
+"Craniofacial structure abnormalities, such as cleft palate, are one of the most common defects observed in ECO syndrome patients, but the role of ICK in palatal development has not been studied.  "
+"Methods: Using Ick -mutant mice, we investigated the mechanisms by which ICK function loss causes cleft palate and examined pharmacological rescue of the congenital defects.  "
+Findings: SHH signaling was compromised with abnormally elongated primary cilia in the developing palate of Ick -mutant mice.
+"Cell proliferation was signiﬁcantly decreased, resulting in failure of palatal outgrowth, although palatal adhesion and fusion occurred normally."
+We thus attempted to rescue the congenital palatal defects of Ick mutants by pharmacological activation of SHH signaling.
+"Treatment of Ick -mutant mice with an agonist for Smoothened (SAG) rescued several congenital defects, including cleft palate.  "
+Interpretations: The recovery of congenital defects by pharmacological intervention in the mouse models for ECO syndrome highlights prenatal SHH signaling modulation as a potential therapeutic measure to overcome congenital defects of ciliopathies.  
+© 2019
+The Author(s).
+Published by Elsevier B.V. This is an open access article under the CC BYNC-ND license.  
+(http://creativecommons.org/licenses/bync-nd/4.0/) Research in Context Evidence before this study Endocrinecerebro-osteodysplasia (ECO) syndrome is caused by mutations in the intestinal cell kinase (ICK) gene in humans.
+Pre- vious studies suggested that ICK protein plays a crucial role in ∗ Correspondence author.  
+"Email addresses: kohw@yonsei.ac.kr (H.W. Ko), bokj@yuhs.ac (J. Bok).  "
+These authors contributed equally to this work.  
+"Controlling the length of primary cilia, which act as control tow- ers for various signaling pathways essential for animal develop- ment and homeostasis."
+"Among many signaling pathways that are dependent on primary cilia, key SHH signaling components are shown to be mislocalized within the elongated or shortened pri- mary cilia and proposed to be a major reason for the congenital defects exhibited in ECO syndrome."
+"Mouse models carrying mu- tations in the Ick gene recapitulate the spectrum of human ECO syndrome developmental anomalies, including cleft palate, hydro- cephalus, polydactyly, and skeletal defects; however, it is not en- tirely clear whether disrupted SHH signaling is the sole reason for https://doi.org/10.1016/j.ebiom.2019.10.016 23523964/"
+© 2019 The Author(s).
+Published by Elsevier B.V. This is an open access article under the CC BYNC-ND license.  
+"(http://creativecommons.org/licenses/bync-nd/4.0/) 306 J.-O. Shin, J. Song and H.S. Choi et al. /"
+EBioMedicine 49 (2019) 305–317 developmental defects caused by ICK deﬁciency in ECO syndrome patients and mouse models.  
+"Added value of this study To test whether compromised SHH signaling is the major cause of congenital anomalies in Ick mutants, we used cleft palate as a model system because it is one of the most common defects ob- served in ECO syndrome patients and Ick -mutant mice.  "
+We ﬁrst found that SHH signaling is indeed compromised in to develop- ing palatal tissues in Ick -mutant mice.
+"The reduced SHH signaling appeared to cause a decrease in cell proliferation, leading to fail- ure of palatalshelf outgrowth."
+"The two palatal shelves remained separated at either side, resulting in cleft palate."
+"If disrupted SHH signaling due to abnormal cilia is indeed the key cause of the cleft palate, reactivation of the compromised SHH signaling in Ick mu- tants could rescue the cleft palate defect."
+We tested this hypothesis by activating SHH signaling in developing mouse embryos using a small molecule SHH agonist (SAG).
+"We observed that SAG injection into pregnant mice rescued multiple congenital defects, including cleft palate, in Ick -mutant embryos, indicating that SHH signaling is indeed the main effector that is compromised by abnormal cilia and leads to congenital anomalies in Ick -mutant mice.  "
+Implications of all the available evidence 
+These results provide in vivo evidence that disrupted SHH sig- naling is the primary cause of abnormal craniofacial development in ECO syndrome.
+"Furthermore, our demonstration of the rescue of cleft palate by pharmacological intervention suggests that prena- tal modulation of developmental signaling using a small chemical compound may provide a therapeutic option for rescuing congeni- tal defects in genetic diseases, such as ciliopathies.  "
+"1. Introduction (ECO) Endocrinecerebro-osteodysplasia syndrome [MIM:612651] is a recessive genetic disorder associated with multiple congenital defects in the endocrine, cerebral, and skeletal systems in humans .  "
+ECO syndrome is caused by mutations in the intestinal cell kinase (ICK) gene .  
+"Mouse models carrying mutations in the Ick gene recapitulate the spectrum of developmental anomalies, including cleft palate, hydrocephalus, polydactyly, delayed skeletal development, and abnormal lung development, observed in human ECO patients .  "
+"ICK, has been shown to play a critical role in the regulation of primary cilia length.  "
+"Thus, abnormal ICK function results in abnormally elongated primary cilia and leads to disrupted sonic hedgehog (SHH) signal transduction [3, 4]."
+"SHH target genes, such as Gli1 and Ptch1, are downregulated in the mesenchyme of developing limb buds, growth plates, and perichondrium in Ick -mutant embryos [3, 4]."
+These results suggest that abnormal SHH signaling is a major pathological mechanism underlying the developmental defects caused by ICK deﬁciency in humans and mice.  
+"Congenital craniofacial abnormalities, such as cleft palate/lip, are one of the most common defects observed in ECO syndrome .  "
+"Palatal development depends on reciprocal interactions be- tween palatal ectoderm and underlying mesenchyme, and SHH is an important epithelial signal that promotes palatal outgrowth ; however, it has not been directly examined whether abnormal cil- iary elongation and the resultant reduced SHH signaling are indeed major causes of cleft palate in ECO syndrome.  "
+"Currently, it is not feasible to correct developmental defects, such as ECO syndrome or other ciliopathies that are caused by ge- netic mutations."
+Several attempts have been made to rescue con- genital defects using pharmacological interventions that either ac- tivate or inhibit causative signaling pathways affected by the ge- netic mutations.
+"Aortic aneurysm in Marfan syndrome, a genetic disorder caused by mutations in the ﬁbrillin 1 (FBN1) gene, can be rescued by treatment with losartan, an angiotensin II type 1 receptor blocker ."
+"In addition, treatment with rapamycin signif- icantly alleviates the polycystic kidney phenotype in zebraﬁsh cil- iopathy models, mouse models for polycystic kidney disease (PKD), and human autosomaldominant PKD (ADPKD) patients [8, 9]."
+"Fur- thermore, treatment with dantrolene, an inhibitor of the endoplas- mic reticulum (ER)-localized ryanodine receptors and a regulator of ER calcium homeostasis, prevents cell death in neural progeni- tor cells derived from induced pluripotent stem cells (iPSCs) of a Wolfram syndrome patient .  "
+"In this study, we analyzed the developing palate of Ick- mutant embryos and found that abnormal SHH signaling is a major patho- logical mechanism that leads to the cleft palate in the presence of ICK dysfunction."
+"In addition, we sought to rescue the cleft palate of Ick -mutant mice via pharmacological activation of SHH signal- ing using a small molecule SHH pathway agonist (SAG)."
+"Intrigu- ingly, we observed that treatment of pregnant mice with SAG res- cued multiple congenital defects, including cleft palate, in the Ick - mutant embryos."
+"These results provide in vivo evidence that SHH signaling is the primary cause of abnormal craniofacial develop- mental processes in ECO syndrome and further deepen our under- standing of the pathogenesis of human genetic ciliopathies, sup- porting the development of therapeutic measures to alleviate con- genital abnormalities caused by gene mutations.  "
+2.
+Materials and Methods 2.1.
+Mice and SAG treatment Mice carrying a knockout ﬁrst allele of the Ick gene (Ick tm1a/tm1a) were previously described .  
+"Ick, tm1a/ + mice were housed in a speciﬁcpathogen-free animal facility with constant temperature and humidity and ad libitum access to food and water."
+The em- bryos were obtained from timemated pregnant mice.  
+The day that a vaginal plug was conﬁrmed was designated as embryonic day (E) 0.5.
+"SAG was injected intraperitoneally into pregnant mice (20 mg/kg), and the embryos were harvested between E12.5 and E18.5 for analysis."
+All animal protocols were approved by the Insti- tutional Animal Care and Use Committee at Yonsei University Col- lege of Medicine.  
+2.2.
+"Histology and in situ hybridization For histological analysis and in situ hybridization, embryos were ﬁxed in 4% paraformaldehyde overnight, mounted in OCT com- pound (TissueTek; Tokyo, Japan), and sectioned at a thickness of 12 μm onto Superfrost Plus slides (TissueTek; Tokyo, Japan) using a cryostat (Thermo Scientiﬁc; Massachusetts, USA).  "
+"Hema- toxylin and eosin (H&E) staining as well as section and whole- mount in situ hybridization were performed as described pre- viously [4, 11].  "
+"Antisense RNA probes for Shh, Ptch1 , Gli1 , Smo (+20 6 6-+2980, NM_176996.4), and Foxf1 (+ 588- + 1434, NM_010426.2) were labeled with digoxigenin."
+All histology and in situ hybridization ﬁgures are representative of at least three differ- ent samples in two or more independent experiments.  
+2.3.
+"Scanning electron microscopy For scanning electron microscopy, palates of E12.5 Ick tm1a/ + and Ick tm1a/tm1a embryos were isolated and ﬁxed with 2.5% glutaralde- hyde and 2% paraformaldehyde in 0.1 M sodium cacodylate buffer (pH 7.4) at 4 °C overnight."
+The specimens were washed three times for 30 min in 0.1 M sodium cacodylate buffer (pH 7.4).
+"Then the J.-O. Shin, J. Song and H.S. Choi et al. /"
+EBioMedicine 49 (2019)
+305–317 307 specimens were postﬁxed with 1% osmium tetroxide at 4 °C for 1 h and immersed in saturated thiocarbohydrazide at room tem- perature for 20 min.
+"Next, the specimens were dehydrated using a graded ethanol series, dried using a critical point dryer (Leica EM CPD300; Solms, Germany), aﬃxed on a stub, and coated with plat- inum to a thickness of 20–30 nm using a sputter coater (E1030; "
+"Hitachi, Tokyo Japan)."
+"Lastly, the platinumcoated specimens were mounted on a stub holder and imaged using a Schottky emission scanning electron microscope (JSM 7001F, JEOL, Tokyo, Japan)."
+Five different specimens were examined for SEM images.  
+2.4.
+Cell proliferation and cell death assays Cell proliferation and cell death assays were performed as pre- viously described .
+"For the cell proliferation assay, 5ethynyl- 2 (cid:3) -deoxyuridine (EdU; Invitrogen, Massachusetts, USA) was in- jected intraperitoneally into a pregnant female mouse at E12.5 at a concentration of 10 mg/g body weight.  "
+Embryos were har- vested and ﬁxed in 4% paraformaldehyde in 1 × PBS overnight at 4 °C.  
+"Embryos were then mounted and frozen in OCT com- pound (TissueTek; Tokyo, Japan) and sectioned at a thickness of 12 μm onto Superfrost Plus slides (TissueTek; Tokyo, Japan) using a cryostat (Thermo Scientiﬁc; Massachusetts, USA).  "
+"EdU- labeled cells were identiﬁed using the ClickIT EdU imaging Alexa Fluor 488 Kit (Invitrogen; Massachusetts, USA)."
+"4 (cid:3), 6diamidino-2- phenylindole (DAPI) was used for nuclear staining.  "
+"For the cell death assay, apoptotic cells were detected using the ApopTag Plus Peroxidase In Situ Apoptosis Detection Kit (S7101, Millipore; Mas- sachusetts, USA), which detects apoptotic cells by labeling DNA strand breaks via the indirect TUNEL method."
+Three different spec- imens were examined for cell proliferation and TUNEL assays.  
+2.5.
+"Quantitative realtime polymerase chain reaction (qPCR) Palate tissues from E12.5 Ick tm1a/ + and Ick tm1a/tm1a embryos were dissected in cold DEPCtreated PBS, followed by RNA iso- lation with the Trizol reagent (Thermo Fisher Scientiﬁc, USA) "
+According to the manufacturer’s instructions.  
+"cDNA synthesis was performed using PrimeScript TM 1st strand cDNA Syn- thesis Kit (TaKaRa, Japan).  "
+"qPCR was performed using the TB Green TM Premix Ex Taq TM (TaKaRa, Japan) and an A28132 real- time PCR instrument system (Thermo Fisher Scientiﬁc, USA).  "
+"The primer sequences of the genes are as follows: Ptch1, 5 (cid:3) - TGTCTGGAGTCCGGATGG3 (cid:3) and 5 (cid:3) -TGATTGTGGAAGCCACAGAAAA- 3 (cid:3) ; 5 (cid:3) - 5 (cid:3) -GGTGCTGCCTATAGCCAGTGTCCT3 (cid:3) 5 (cid:3) - GTGCCAATCCGGTGGAGTCAGACCC3 (cid:3) ; CTCGGGCAAGACATCCTATTT3 (cid:3) and 5 (cid:3) -ACTCACGGAGTCTCCATCTAC- 3 (cid:3) ; 5 (cid:3) - AACAGCAACTCCCACTCTTC3 (cid:3).  "
+Student’s t -tests were used to determine statistical signiﬁcance.  
+P < 0.05 was considered as signiﬁcant.  
+5 (cid:3) -CCTGTTGCTGTAGCCGTATT3 (cid:3) 
+"Smoothened, GAPDH, Gli1, and and 2.6."
+Palate explant culture and immunohistochemistry for Ki67 Palate explant culture was performed as previously described .  
+"Brieﬂy, tissues containing palatal shelves were dissected from E13.5 embryos and placed on ﬁlter Trowelltype organ cul- tures.  "
+"Palatal shelves were brought into contact and cultured in DMEM/F12 (Gibco; Massachusetts, USA) supplemented with 20 μg/ml ascorbic acid (Sigma; Missouri, USA) and 1% peni- cillin/streptomycin without fetal bovine serum at 37 °C in a CO chamber.  "
+The palatal explants were incubated for 48 h to con- duct in vitro palatal fusion assay (Fig. 4) or for 24 h to examine changes in gene expression or cell proliferation (Fig. 7).
+The cul- ture medium containing 200 nM SAG or DMSO was replaced every 24 h.
+"The cultured palate tissues were ﬁxed in 4% paraformalde- hyde, embedded in OCT compound, and sectioned at a thickness of 12 μm onto Superfrost Plus slides (TissueTek; Tokyo, Japan).  "
+"Sections were incubated with Ki67 antibody (Thermo Scientiﬁc; Massachusetts, USA) at 4 °C overnight."
+"After washing with PBST, the specimens were sequentially incubated with secondary antibody and streptavidin peroxidase."
+"The Ki67positive cells were vi- sualized using a diaminobenzidine reagent kit (Invitrogen; Mas- sachusetts, USA) and the sections were counterstained with hema- toxylin."
+"Palate explant culture experiments were performed using four specimens in each analysis, which were repeated three times.  "
+2.7.
+"Quantitation, measurement, and statistical analysis EdUpositive cells were counted in the epithelium and mes- enchyme of palatal shelves of control and mutant embryos.  "
+The genotypes were blinded to the investigators conducting the cell counting.
+Cell proliferation rate was calculated as a percentage of EdUpositive cells per DAPIpositive cells.
+"Lengths of primary cilia were measured from SEM images of E12.5 embryos, and distances between right and left palatal shelves were measured from im- ages of E18.5 embryos using the ImageJ software."
+All cell counting and length measurement were conducted in at least three different embryos for each genotype.
+"Twotailed, unpaired Student’s t -tests were used to determine statistical signiﬁcance."
+P < 0.05 was con- sidered as signiﬁcant.
+Data are shown as means ± s.d.  
+3. Results 3.1.
+"ICK, deﬁciency caused cleft palate and abnormally elongated primary cilia in the developing palate of mice To investigate the role of ICK in palate development, we an- alyzed the palates of Ick tm1a/tm1a embryos at E18.5 (Fig. 1)."
+Gross morphological analysis revealed a completely divided palate along the anteroposterior axis including the entire primary and sec- ondary palates in Ick tm1a/tm1a mice compared to the correctly formed palate in Ick tm1a/ + control mice (Fig.
+1 A and E).
+"Histolog- ically, the palatal shelves from the left and right sides were fused at the midline along the anteroposterior axis in Ick tm1a/ + heterozy- gous control mice (Fig."
+1 B–D).
+"In contrast, the palatal shelves of Ick tm1a/tm1a mice remained separated, resulting in a complete cleft palate (Fig."
+1 F–H).
+The palatal shelves were elevated to a horizon- tal position in the anterior region (Fig. 1 F) but not in the mid- dle and posterior regions in Ick tm1a/tm1a mice (Fig.
+1 G–H).
+The cleft palate phenotype was completely penetrant in Ick tm1a/tm1a mutant embryos (n = 10/10).  
+We further analyzed the developing palates at E12.5 before palatal fusion by scanning electron microscopy (Fig.
+1
+I–P).
+The dis- tance between the anterior palatal shelves in the Ick tm1a/tm1a mu- tants was wider than that in Ick tm1a/ + control embryos (Fig.
+1
+"I, M, red arrows)."
+"Moreover, the formation of palatal rugae was evident in the palatal shelves of Ick tm1a/ + control embryos; however, this structure was not present in Ick tm1a/tm1a mutants (Fig."
+1
+"I, J, M, N).  "
+The distance of the medial maxillary prominence that later devel- ops into the lip was longer in Ick tm1a/tm1a embryos than in Ick tm1a/ + embryos (Fig.
+"1 K, O; black arrows)."
+"In addition, the surface of the primary palatal shelves that were derived from the medial nasal prominence were rugged in Ick tm1a/tm1a mutants (Fig."
+1
+"I, K, L, M, O, P).  "
+"It has previously been reported that ICK plays a critical role in the regulation of primary cilia length during limb and lung devel- opment [4, 5]."
+"Consistent with previous reports, the lengths of pri- mary cilia in the palatal shelves were signiﬁcantly elongated and the morphology of the ciliary tip region bulged in Ick tm1a/tm1a mu- tant embryos compared with Ick tm1a/ + control embryos (Fig."
+"1 J (cid:3), L (cid:3), 308 J.-O. Shin, J. Song and H.S. Choi et al. /"
+EBioMedicine 49 (2019) 305–317 Fig.
+1.  Defects of palates and primary cilia in Ick -deﬁcient mice.
+(A) An Ick tm1a/ + embryo showing an intact palate at E18.5.
+(B–D) Hematoxylin and Eosin staining showing normal palate from the anterior to the posterior regions in Ick tm1a/ + embryo showing a cleft palate at E18.5.
+(FH) Hematoxylin and Eosin stain- 
+Ing showing separation of palatal shelves on either side in Ick tm1a/tm1a and Ick tm1a/tm1a embryos at E12.5.
+"(I, M)"
+Overall view of the developing palates at E12.5.
+"(J, N) High magniﬁcation of palatal rugae in the anterior region of the developing palate mice."
+"(L, P) Primary cilia of the palatal epithelium in Ick tm1a/ + and Ick tm1a/tm1a in Ick tm1a/ + and Ick tm1a/tm1a embryos.  "
+Data are shown as mean ± s.d. ∗ ∗p < 0.01.
+"PP, primary palate; PS, palatal shelf; NC, nasal cavity; and R, rugae."
+"Green dotted line, primary palate; red twoway arrows, distance between left and right palatal shelves; red dotted line, secondary palate; blue dotted box, primary cilia; red arrow, bulged tip of primary cilia; yellow dotted line, palatal rugae; and black dotted line, section plane."
+"Scale bars, A, E: 1 mm; BD, FH, I, K, M, O: 100 μm; J, L, N, P: 20 μm; J (cid:3) embryo at E18.5."
+(IP)
+Scanning electron microscopy analysis of developing palates in Ick tm1a/ + mice.
+(Q) Lengths of primary cilia in the developing palates of Ick tm1a/tm1a embryos were signiﬁcantly elongated compared with those of Ick tm1a/ + mice.
+"(K, O) Morphology of primary palate and upper lip in Ick tm1a/ + embryo."
+"(E) An Ick tm1a/tm1a and Ick tm1a/tm1a : 20 nm. , N (cid:3) , P (cid:3) , L (cid:3) N (cid:3), P (cid:3), Q)."
+These results suggest that ICK plays an essential role in the regulation of the length of primary cilia for normal palatal de- velopment.  
+3.2.
+"ICK, deﬁciency resulted in disrupted SHH signaling in the developing palate of mice The observed, abnormally elongated primary cilia prompted us to examine SHH signaling activity in the developing palate because primary cilia act as essential signaling centers for SHH signal trans- duction, which is crucial for animal development and homeosta- sis ."
+"In the developing palate, Shh is expressed in the ridges of developing palatal rugae and positively regulates expression of Patched 1 (Ptch1), GLIKruppel family member GLI1 (Gli1), and Forkhead box F1 (Foxf1)"
+"[6, 15]."
+We examined these genes using wholemount and section in situ hybridization in E12.5 develop- ing palates of mouse embryos (Fig. 2).  
+"Consistent with previous reports, two ridges of developing rugae expressed Shh and its tar- J.-O. Shin, J. Song and H.S. Choi et al. /"
+EBioMedicine 49 (2019) 305–317 309 Fig.
+2.  Gene expression analyses in the developing palate in Ick -deﬁcient mice.
+"(A–F) Whole mount in situ hybridization results showing expression of Shh (A, D), Ptch1 (B, E), and Gli1 (C, F) in Ick tm1a/ + embryos at E12.5."
+"(G–L) Section in situ hybridization results showing expression of Foxf1 (G, J), Ptch1 (H, K), and Gli1 (I, L) in the palatal mesenchyme and epithelium in Ick tm1a/ + embryos."
+"Ic, incisor; R, palatal rugae; PP, primary palate; PS, palatal shelf; SP, soft palate; OC, oral cavity.  "
+"Black dotted line, section plane."
+"Scale bars, A–F: 50 0 μm; G–L: 20 0 μm.  And Ick tm1a/tm1a and Ick tm1a/tm1a get genes Ptch1 and Gli1 in each palatal shelf of Ick tm1a/ + control embryos (Fig. 2"
+A–C and Fig.
+S1).
+"In Ick tm1a/tm1a mutant embryos, expression levels of Shh were generally unaffected but its expres- sion domains were slightly expanded in less clearly deﬁned rugae compared with those of Ick tm1a/ + embryos (Fig. 2 D)."
+"Interestingly, expression of Ptch1 and Gli1 was greatly reduced and appeared dif- fuse without a distinct palatal rugae pattern in Ick tm1a/tm1a embryos (Fig."
+2 E and F and Fig.
+S1).
+"In situ hybridization of tissue sections conﬁrmed these ﬁndings, showing that expression of Ptch1 and Gli1 was downregulated in the palatal mesenchyme and epithe- lium in Ick tm1a/tm1a embryos at E12.5 compared to control embryos (Fig."
+"2 H, I, K, L)."
+Foxf1 was also downregulated in the mesenchyme of the developing palatal shelf (Fig.
+2 G and J).
+These results sug- gest that ICK is essential for the regulation of ciliary length and subsequent normal transduction of SHH signaling in to develop- ing palate.  
+"310 J.-O. Shin, J. Song and H.S. Choi et al. /"
+EBioMedicine 49 (2019) 305–317 3.3.
+Cleft palate in Ick -deﬁcient mice was caused by impaired palatal growth that resulted from decreased cell proliferation It has been shown that SHH signaling contributes to palatal outgrowth by promoting cell proliferation .
+"Therefore, we determined whether the cleft palate in Ick tm1a/tm1a mutants results from insuﬃcient extension of palatal shelves toward the midline due to decreased cell proliferation."
+Cell proliferation was analyzed by counting the number of cells in the developing palate that had in- corporated EdU at E12.5.
+The Ick tm1a/tm1a embryos exhibited a sig- niﬁcant reduction of cell proliferation in the palatal mesenchyme compared with Ick tm1a/ + control embryos (Fig.
+"3 A, Aa, B, Ba, E).  "
+"Interestingly, the number of EdUpositive cells was signiﬁcantly decreased in the palatal epithelium on the oral side (Fig. "
+"3 Ab, Bb, E) but not in the nasal side epithelium (Fig. "
+"3 Ac, Bc, E).  "
+"Since the oral side but not nasal side epithelium expresses Ptch1 in Ick tm1a/ + embryos and this Ptch1 expression was dramatically reduced in Ick tm1a/tm1a embryos (Fig. 2 H, K), the decrease of EdU- positive cells in the palatal epithelium appears to be closely related with reduced SHH activity.  "
+"In contrast, TUNELpositive apoptotic cells were not detected in the palatal mesenchyme or epithelium in either Ick tm1a/ + or Ick tm1a/tm1a embryos (Fig. 3 C and D)."
+These re- sults suggest that Ick deﬁciency causes decreased cell proliferation in Ptch1 -positive regions in the developing palate.  
+The defective fusion between bilateral palatal shelves is one of the main causes of cleft palate .
+"Primary cilia have also been implicated in mediating signaling pathways important for palatal fusion including Wnt and transforming growth factor beta (TGF β) signaling [14, 17]."
+"To test whether the cleft palate in Ick tm1a/tm1a embryos is also attributed to disruption of other signaling path- ways important for palatal fusion, we performed ex vivo palatal fu- sion analysis."
+"Palatal fusion involves the formation of the midline epithelial seam (MES) and its subsequent degeneration, leading to palatal mesenchymal conﬂuence ."
+A pair of palatal shelves dis- sected from E13.5 embryos were placed facing one another in an explant culture system (Fig.
+4 A–C).
+"After 48 h in culture, we ob- served complete fusion between the palatal shelves, assessed by the complete degeneration of MES, in both Ick tm1a/ + and Ick tm1a/tm1a embryos (Fig."
+4 D–E; dotted rectangles).
+"Together, these results sug- gest that the cleft palate in Ick tm1a/tm1a animals is caused by defec- tive palatal outgrowth resulting from decreased cell proliferation and not by defective fusion of the MES.  "
+3.4.
+"Timely activation of SHH signaling by SAG rescued the developmental defects in Ick tm1a/tm1a mutant embryos Our analyses indicated that the lack of ICK function in the de- veloping palate causes defective cilia and a reduction of SHH sig- naling, leading to a decrease of cell proliferation, a subsequent failure of palatal outgrowth, and ultimately a cleft palate.  "
+"Thus, we hypothesized that activation of SHH signaling during the crit- ical developmental period for palate outgrowth could rescue the cleft palate in Ick tm1a/tm1a embryos."
+"We tested this idea by treating Ick tm1a/tm1a embryos with a synthetic agonist of the SHH pathway, SAG ."
+"SAG is able to cross the gut, placenta, and bloodbrain barrier and constitutively activate SHH signaling by di- rectly binding to the SHH signaling transducer Smoothened (Smo) [19, 22].  "
+Palatal primordia emerge from the maxillary prominence and rapidly grow bilaterally around E11.0 and E11.5 .  
+"Thus, we injected DMSO or SAG intraperitoneally into pregnant mice at E10.5, E11.25, or E13.5 and analyzed the treated embryos at E18.5 (Fig. 5 A).  "
+"Interestingly, we observed rescue of cleft palate in Ick tm1a/tm1a embryos that were treated with SAG at E10.5 and E11.25 but not at E13.5, and treatment at E11.25 resulted in the best rescue eﬃciency (Fig."
+5 F).
+"Embryos treated with SAG at E10.5 suffered from other developmental defects, such as polydactyly, reduced head size, cleft lip, edema, and spina biﬁda (Fig. "
+"5 B– D), consistent with previous reports that administration of SAG in early gestation causes preaxial polydactyly in mice .  "
+Em- bryos treated with SAG at E11.25 showed generally better overall morphology with a complete fusion of the palate when rescued (Fig.
+"5 E, O)."
+These results suggest that the outcome of SAG treat- ment during the prenatal stage is dependent on the developmen- tal stage of treatment administration.
+Histological analysis showed that the secondary palate was well fused from anterior to posterior and that the nasal cavity and oral cavity were well separated in Ick tm1a/tm1a embryos treated with SAG but not with DMSO at E11.25 (Fig.
+5 G–R).
+"Together, these results suggest that timely administra- tion of SAG can rescue the cleft palate in lck -mutant mice, and this timing is correlated with the developmental timing of innate Shh signaling.  "
+Our results showed that the extent of phenotypic recovery by SAG treatment in E11.25 Ick tm1a/tm1a embryos was variable (Fig. 5 F).  
+"The rescue phenotypes could be divided into three categories: completely rescued (6/16, 37.5%), partially rescued (3/16, 18.75%), and not rescued (7/16, 43.75%; Fig. S2)."
+"The palates of partially res- cued embryos were fused, but the palatal rugae patterning was ir- regular compared with those of completely rescued embryos (Fig. "
+S2B–C).
+"In contrast, the palates of the embryos that were not res- cued were not fused, displaying a complete cleft palate (Fig. S2D).  "
+"Comparing the SAGtreated mutants that were not rescued with DMSOtreated mutants, we noticed that the distance of the ante- rior palatal shelves of SAGtreated mutants was slightly, yet sig- niﬁcantly, closer compared with those of DMSOtreated mutant embryos (Fig. "
+S3G).  
+"In addition, the palates of the SAGtreated mutants exhibited more regular rugae patterning compared with those of DMSOtreated mutant embryos (Fig."
+"S3A–F; 4/7, 57.1%).  "
+"An inactivation mutation in the human ICK gene shows multi- ple visceral abnormalities, including a hypoplastic ileum ."
+Our Ick- mutant mouse model also displayed defects in gastrointestinal development with short underdeveloped small and large intestines (Fig.
+S4E–F) and imperforate rectum (Fig. S4G).
+"Since SAG was sys- temically applied in our experimental design, we examined the ef- fect of SAG on the intestinal defects in the Ick tm1a/tm1a embryos.  "
+"Interestingly, the intestines of SAGtreated mutant embryos were elongated compared with those of DMSOtreated embryos (Fig. S4; 2/11, 18.18%)."
+"Rescue of the imperforate rectum was also observed in SAGtreated Ick tm1a/tm1a embryos (Fig. S4; 2/11, 18.18%).  "
+3.5. SAG treatment resulted in increased SHH signaling and cell proliferation in the developing palate of Ick tm1a/tm1a embryos The restoration of the cleft palate by SAG treatment in Ick tm1a/tm1a embryos prompted us to examine whether SAG indeed activates SHH signaling in the developing palate of Ick tm1a/tm1a mu- tants.
+We treated Ick tm1a/ + and Ick tm1a/tm1a pregnant female mice with DMSO or SAG at E11.5 and examined expression patterns of SHH target genes such as Ptch1 and Gli1 by in situ hybridization and quantitative realtime PCR (qPCR).
+In situ hybridization results showed that Ptch1 and Gli1 expression was greatly increased in SAGtreated embryos compared to DMSOtreated embryos in both Ick tm1a/ + and Ick tm1a/tm1a mice (Fig.
+6 A–H).
+"In contrast, Smo expres- sion was similar between SAG- and DMSOtreated embryos in both genotypes (Fig. "
+6 I–L).  
+"qPCR results also showed that mRNA lev- els of Ptch1 and Gli1, but not Smo, were signiﬁcantly increased in SAGtreated embryos compared to DMSOtreated embryos in both Ick tm1a/ + and Ick tm1a/tm1a mice (Fig. 6 M–O)."
+"Interestingly, ex- pression levels of Ptch1 and Gli1 of SAGtreated Ick tm1a/tm1a em- bryos were not signiﬁcantly different from those of DMSOtreated Ick tm1a/ + embryos (Fig."
+6 M and N)
+" suggesting that SAG treatment J.-O. Shin, J. Song and H.S. Choi et al. /"
+EBioMedicine 49 (2019) 305–317 311 Fig. 3.  
+Analyses of cell proliferation and cell death in the developing palates of Ick -deﬁcient embryos at E12.5.
+"(A, B) EdUpositive cells in the developing palates of Ick tm1a/ + and Ick tm1a/ + embryos."
+"Higher magniﬁcation images of EdU assay for palatal shelves (Aa and Ba), oral side palatal epithelium (Ab and Bb), and nasal side palatal epithelium (Ac and Bc)."
+"(C, D)"
+TUNELpositive cells in the developing palates of the Ick tm1a/ + and Ick tm1a/tm1a embryos.
+(E) Percentages of EdUpositive cells in the deﬁned regions of the palatal shelves of Ick tm1a/ + embryos.
+"PS, palatal shelf; white dotted line, counted total cells and EdUpositive cells in the palatal mesenchyme; red dotted line, the palatal epithelium on the oral side; and yellow dotted line, the palatal epithelium on the nasal side."
+Error bars indicate standard deviation.
+"Data are shown as mean ± s.d. ∗p < 0.05, ∗ ∗p < 0.01."
+"n.s., not signiﬁcant."
+"Scale bars, AD: 200 μm; Aa to Bc: 20 μm.  And Ick tm1a/ + 312 J.-O. Shin, J. Song and H.S. Choi et al. /"
+EBioMedicine 49 (2019) 305–317 Fig.
+4.  
+In vitro palatal fusion assay in Ick -deﬁcient embryos.
+(A) Diagrams showing the in vitro organ culture system for analysis of the paired secondary palatal shelves.
+"(B, and Ick tm1a/tm1a C) Oralside view of contacted palatal shelves from the Ick tm1a/ + embryos after 48h in organ culture."
+"Scale bars, D, E: 50 μm.  Embryos."
+"(D, E) H&E staining of contacted palatal shelves from the Ick tm1a/ + and Ick tm1a/tm1a activates SHH signaling in Ick -deﬁcient embryos to comparable lev- els to control embryos.  "
+We further examined SAG effects on SHH signaling and cell pro- liferation using palatal organ culture (Fig. 7).
+"We administered SAG to the culture medium of the palate organ culture for 24 h. Histo- logical analysis showed that unlike 48 h cultured palate explants (Fig. 4), the palatal fusion was still undergoing and the MES re- mained in both Ick tm1a/ + and Ick tm1a/tm1a embryos (Fig."
+"6 A, E, black dotted circles)."
+"In situ hybridization analysis showed that the ex- pression levels of Ptch1 and Gli1 were upregulated in response to SAG treatment in the palates of Ick tm1a/tm1a mutant embryos compared to those of DMSOtreated Ick tm1a/ + embryos (Fig. 7 B, C, F, G)."
+"In addition, SAG treatment increased the number of Ki67- positive cells in the developing palate of Ick tm1a/tm1a mutant em- bryos (Fig. 7 D and H)."
+These results suggest that the Smo agonist activates SHH signaling in ciliary mutants and promotes cell pro- liferation in palate organ culture.  
+4.
+"Discussion In this study, we studied the mechanism by which ICK de- ﬁciency causes developmental defects in an Ick -mutant mouse model with focus on the cleft palate phenotype, which is one of the main clinical features of ECO syndrome.  "
+We found that de- creased SHH signaling caused by abnormal regulation of ciliary length is a major cause of cleft palate in Ick -mutant mice (Fig. 8).  
+"In addition, we demonstrated that proper temporal modulation of SHH signaling with a Smo agonist rescues the cleft palate in Ick mutants by activating SHH signaling, which restores palatal cell proliferation and palatalshelf outgrowth (Fig. 8)."
+"These results sug- gest that timely modulation of key developmental signaling path- ways using small chemical compounds offers therapeutic poten- tial to prevent congenital defects in genetic diseases, such as cil- iopathies.  "
+"Mammalian palatogenesis is a multistep process in which nasal and maxillary prominences expand to develop into the primary and secondary palatal shelves, respectively, which then fuse to- gether to form a roof structure that separates the oral and nasal cavities ."
+Outgrowth of the lateral palatal shelves toward the medial direction is a critical step for an intact palate.
+"Palatalshelf outgrowth has been associated with several signaling pathways, including SHH, ﬁbroblast growth factors (FGFs), and bone mor- phogenic proteins (BMPs)."
+"Crosstalk between SHH signaling in the early palatal epithelium and FGF and BMP signaling in the under- J.-O. Shin, J. Song and H.S. Choi et al. /"
+EBioMedicine 49 (2019) 305–317 313 Fig.
+5.  
+Restoration of cleft palate in the Ick- deﬁcient embryos after SAG treatment.
+(A) Experimental design for the controlled delivery of SAG during palatogenesis.
+Blue arrows indicate injection day and vertical black arrow indicate tissue harvest day.
+"(BD) Ick tm1a/tm1a mice treated with SAG at E10.5 exhibit hypoplastic forebrain, polydactyly, and overgrown skin (B), cleft lip (C), and unclosed neural tube (D) at E18.5."
+(E) Morphology of E18.5 Ick tm1a/tm1a mice treated with SAG at E11.25.
+(F) Rescue rate of cleft palate in the Ick tm1a/tm1a mice at E18.5 according to time of SAG treatment.
+"(G, K, O)"
+Oralside view of the palate in the Ick tm1a/ + embryos at E18.5.
+"(HJ, LN, PR)"
+Histological analysis of the palatal shelves from the anterior to posterior region of E18.5 Ick tm1a/ + mice treated with DMSO or SAG at E11.25.
+"PP, primary palate; PS, palatal shelf; SP, soft palate; NC, nasal cavity; NS, nasal septum, green dotted line, primary palate; red dotted line, secondary palate."
+"Scale bars, G, K: 1 mm; H–J, L–N: 100 μm.  And DMSO- or SAGtreated Ick tm1a/tm1a and Ick tm1a/tm1a lying mesenchyme drives palatal cell proliferation and palatalshelf outgrowth [6, 25]."
+"Perturbation of these signaling pathways can disrupt palatal growth and fusion, resulting in cleft palate.  "
+"Although cleft palate is one of the main features observed in ECO syndrome patients, its molecular etiology has not been di- rectly examined [1, 2]."
+"Our results demonstrate that the initial de- velopment of bilateral palatal shelves is normal in mouse models for ECO syndrome, yet the palatal shelves fail to grow and remain separated on both sides (Fig. 1).  "
+"This phenotype closely resem- bles that of Shh -deﬁcient mice, which exhibit initial development of palatal shelves and then defective palatal outgrowth and fusion [6, 15]."
+"Consistent with these results, downstream SHH signaling targets, such as Ptch1, Gli1, and Foxf1, were greatly downregulated in the palatal epithelium and mesenchyme of Ick -deﬁcient mice (Fig. 2).  "
+These results suggest that abnormal SHH signaling is a major pathological mechanism that underlies development of the cleft palate in ECO syndrome.  
+"During palatogenesis, palatal shelves extensively proliferate to outgrow ventrally and then horizontally, and ultimately generate the fusion ."
+"At the elongation stage, SHH promotes palatal cell proliferation through activation and maintenance of cell cycle reg- ulators, such as cyclin D1 and cyclin D2 ."
+"Consistent with these results, Ick tm1a/tm1a embryos, which have disrupted SHH signaling, showed signiﬁcantly decreased cell proliferation in the palatal cells (Fig. 3)."
+"Interestingly, cell proliferation was impaired in the Ptch1 - positive palatal mesenchyme and the palatal epithelium on the oral side but not in the Ptch1 -negative palatal epithelium on the nasal side, indicating that impaired cell proliferation in Ick -deﬁcient em- bryos is closely associated with SHH signaling.  "
+"Primary cilia in the presumptive palatal shelves of Ick -deﬁcient mice were abnormally elongated, as shown in the developing limbs and lungs of the mutant mice (Fig. "
+"1) [3, 4].  "
+Previous studies demonstrated that ICK negatively regulates ciliary elongation by controlling axonemal microtubule stability or intraﬂagellar trans- port (IFT) velocity .
+"Thus, cleft palate in ECO syndrome is attributable to diminished SHH response in Ptch1 -positive palatal cells due to the abnormally elongated primary cilia, which stems from increased cilia IFT kinetics or axonemal microtubule stability due to the lack of ICK function."
+"Consistent with these results, in- traﬂagellar transport 88 (IFT88), which is essential for the assem- bly and function of primary cilia, has been proposed to be a can- didate gene for cleft palate in humans ."
+"Since ciliogenesis and SHH signaling is disrupted in Ift88 mutant embryos , abnormal SHH signaling appears to be a common mechanism leading to cleft palate in ciliopathies.  "
+"Besides SHH signaling, epithelial WNT signaling has been shown to regulate palatal fusion by regulating transforming growth factor beta (TGF β) signaling ."
+"Although primary cilia are pro- posed to mediate multiple signaling including WNT , our palatal fusion assay showed that the mechanisms controlling palatal fusion are intact in Ick tm1a/tm1a -mutant embryos (Fig. 4).  "
+These results conﬁrm the notions that SHH signaling is the main effector of ciliary function in palate development and that im- paired SHH signaling is the major mechanism underlying cleft palate caused by the lack of ICK function.
+"Although SHH signal- ing is known to be required for craniofacial development during early stages around E8 in mice , the development of max- illary prominence was relatively normal in the Ick -deﬁcient mu- tants (Fig. 1), suggesting that mediation of SHH signaling by ICK- regulated ciliogenesis is required for normal palatogenesis after the formation of the maxillary prominence.  "
+"Consistent with these ideas, palatal defects in the Ick tm1a/tm1a embryos can be rescued through timecontrolled delivery of the Smoothened agonist SAG (Fig. 5).  "
+"Previously, in a mouse model 314 J.-O. Shin, J. Song and H.S. Choi et al. /"
+EBioMedicine 49 (2019) 305–317 Fig.
+6.  
+Expression patterns of SHH target genes in SAGtreated Ick -deﬁcient embryos.
+"(AL) Section in situ hybridization results showing expression patterns of Ptch1 (AD), Gli1 (EH), and Smo (IL) in the palatal shelves of E12.5 Ick tm1a/ + and Ick tm1a/tm1a treated with DMSO or SAG."
+"(MO) Quantitative realtime PCR results showing expression levels of Ptch1 (M), Gli1 (N), and Smo (O) in the palatal shelves of E12.5 Ick tm1a/ + and Ick tm1a/tm1a treated with DMSO or SAG."
+"PS, palatal shelf; OC, oral cavity."
+"Scale bars, AL: 200 μm."
+Data are shown as mean ± s.d.
+"∗P < 0.05, ∗ ∗ P < 0.01, ∗ ∗ ∗ P < 0.001, n.s., not signiﬁcant of Down syndrome (DS), SAG treatment was found to restore the morphology and function of the cerebellum as well as the function of the hippocampus .  "
+"Speciﬁcally, a single SAG treatment at birth in DS mice reversed the defects in cerebellar and hippocam- pus development and also improved behavior, learning, and mem- ory."
+"Similar with these ﬁndings, we observed that acute SAG treat- ment at a speciﬁc prenatal stage can overcome congenital palatal defects in ECO syndrome, raising the possibility of therapeutic po- tential for pharmacological intervention in congenital defects of ge- netic diseases.  "
+"Rescue of the cleft palate phenotype by SAG treatment conﬁrms that abnormal SHH signaling is a primary mechanism underlying the palatal cleft in Ick -deﬁcient mice; however, we observed con- siderable variability of the rescued phenotypes, depending on the timing of treatment."
+"Furthermore, even SAG treatment at E11.25, which yielded the best rescue eﬃciency, restored the palatal fu- sion in only 56% (9/16) of the treated mutant embryos (Fig. 5)."
+"This variance may be due to ICK roles other than ciliary length regu- lation, and thus, SHH signaling may not be the sole pathway af- fected by ICK deﬁciency."
+"Indeed, ICK has been shown to regulate J.-O. Shin, J. Song and H.S. Choi et al. /"
+EBioMedicine 49 (2019) 305–317 315 Fig.
+7.  
+Restoration of SHH signaling and cell proliferation in the SAGtreated Ick -deﬁcient palate.
+"(A, E) H&E staining showing the morphology of control Ick tm1a/ + and SAGtreated Ick tm1a/tm1a palates after 24 h in organ culture."
+"(B, C, F, G) Expression patterns of Ptch1 and Gli1 in the developing palates after 24 h in organ culture."
+"(D, H) Ki67positive cells in the developing palates after 24 h in organ culture."
+"Black dotted circles, remaining midline epithelial seam; black dotted line, the margin of the palatal epithelium."
+"Scale bars, A–H: 50 μm.  316 J.-O. Shin, J. Song and H.S. Choi et al. /"
+EBioMedicine 49 (2019) 305–317 Fig. 8.  
+Schematic diagram showing the effects of SAG treatment on cleft palate in the Ick tm1a/tm1a embryos.
+"(B, C) Schematic views showing the restoration of cleft palate in SAGtreated Ick tm1a/tm1a cavity; and NS, nasal septum mice."
+(A) Effects of SAG treatment in the developing palates of Ick tm1a/tm1a embryos.
+"PP, primary palate; PS, palatal shelf; OC, oral cavity; NC, nasal cell proliferation by modulating the activity of the mammalian tar- get of rapamycin (mTOR) complex 1 via phosphorylation of Rap- tor ."
+"Thus, cell proliferation in the developing palate may be regulated by ICK function in cell cycle regulation in addition to ciliamediated SHH signaling."
+"However, our cell proliferation assay showed that activation of SHH signaling by SAG treatment is suf- ﬁcient to promote cell proliferation in Ick tm1a/tm1a embryos (Fig. 7).  "
+"Nevertheless, we cannot entirely exclude the possibility that other signaling pathways may also be affected by ICK deﬁciency and may contribute to the cleft palate phenotype as well."
+It will be interest- 
+Ing to examine if manipulating other signaling pathways in combi- nation with SAG would increase the rescuing eﬃciency.  
+"It was shown that Ick is expressed in the small and large in- testines , and SHH directly regulates patterning and differ- entiation of the gastrointestinal tract [35, 36].  "
+"Consistent with these reports, Ick -deﬁcient mutants also exhibited reduced stom- ach size, shortened intestines, and imperforate rectum (Fig. S4).  "
+"We observed that SAG treatment at E11.25 restores the lengths of the small and large intestines and the imperforate rectum, but the reduced size of the stomach is not restored (Fig. S4).  "
+This discrepancy may be because developmental timing that re- quires SHH signaling is different in different tissues.  
+"Thus, it is crucial to determine the correct timing of pharmacological intervention to regulate the developmental signaling pathways according to the understanding of the precise developmental processes.  "
+"Taken together, this study suggests that pharmacologic inter- vention with a small chemical reagent offers a way to modulate developmental signaling pathways, enabling us to easily dissect the causative signaling pathway and reveal the mechanisms underlying the pathogenesis of genetic disorders."
+"Moreover, further studies on other ciliopathies using signaling pathwaymodulating agents will help us to better understand the fundamental mechanisms of the ciliainvolved organogenesis and to increase the possibility of ther- apy for ciliopathies.  "
+Funding Sources This research was supported by the National Research Foun- dation of Korea Grant (NRF2014M3A9D5A01073969 and NRF- 2018R1A2B2008166 to H.W.K.; NRF2016R1A5A2008630 and NRF- 2017R1A2B3009133 to J. B; NRF2016R1A6A3A11932191 to J. S; NRF- 2018R1A5A2023127 to K. L) and by the Yonsei University Future Leading Research Initiative (201522-0058 to J. B).
+"The funders of the study had no role in the study design, data collection, data analysis, data interpretation, or writing of the report.  "
+Author Contributions J. Bok and H.W. Ko led the study design and prepared the manuscript.
+J.O. Shin and J. Song carried out the experiments.
+"H.S. Choi counted the EdUpositive cells and performed the statisti- J.-O. Shin, J. Song and H.S. Choi et al. /"
+EBioMedicine 49 (2019) 305–317 317 cal analysis.
+K. Lee and J. Lee synthesized the Smoothened agonist (SAG).
+All authors read and approved the ﬁnal manuscript.  
+Declaration of Competing Interest The authors have nothing to disclose.  
+"CRediT authorship contribution statement JeongOh Shin: Funding acquisition, Investigation, Methodol- ogy, Visualization, Writing - original draft, Writing - review & edit- ing."
+"Jieun Song: Investigation, Methodology, Visualization, Writing - original draft, Writing - review & editing."
+"Han Seul Choi: Inves- tigation, Writing - review & editing."
+"Jisu Lee: Resources, Writing - review & editing.  "
+"Kyeong Lee: Funding acquisition, Resources, Writing - review & editing."
+"Hyuk Wan Ko: Conceptualization, Su- pervision, Funding acquisition, Methodology, Visualization, Writing - original draft, Writing - review & editing."
+"Jinwoong Bok: Concep- tualization, Supervision, Funding acquisition, Methodology, Visual- ization, Writing - original draft, Writing - review & editing.  "
+Acknowledgments 
+We thank Ms. HyeonJoo Kim for the schematic diagram.  
+"Supplementary materials Supplementary material associated with this article can be found, in the online version, at doi:10.1016/j.ebiom.2019.10.016."

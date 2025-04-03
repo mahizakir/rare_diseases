@@ -1,0 +1,545 @@
+"Thematic review series Thematic Review Series: Glycosylphosphatidylinositol (GPI) Anchors: Biochemistry and Cell Biology Biosynthesis of GPIanchored proteins: special emphasis on GPI lipid remodeling Taroh Kinoshita 1, * and Morihisa Fujita † WPI Immunology Frontier Research Center and Research Institute for Microbial Diseases, * Osaka University, Suita, Osaka 5650871, Japan ; and Key Laboratory of Carbohydrate Chemistry and Biotechnology, † Ministry of Education, School of Biotechnology, Jiangnan University, Wuxi, Jiangsu 214122, China Glycosylphosphatidylinositols (GPIs) act as mem- "
+Abstract brane anchors of many eukaryotic cell surface proteins.
+"GPIs in various organisms have a common backbone consisting of ethanolamine phosphate (EtNP), three mannoses (Men), one non- N -acetylated glucosamine, and inositol phospholipid, whose structure is EtNP6Man (cid:2) -2Man (cid:2) -6Man (cid:2) -4GlN (cid:2) - 6 myo inositolP-lipid."
+"The lipid part is either phosphatidylinositol of diacyl or 1alkyl-2acyl form, or inositol phosphoceramide.  "
+GPIs are attached to proteins via an amide bond between the Cterminal carboxyl group and an amino group of EtNP.
+Fatty chains of inositol phospholipids are inserted into the outer leaﬂ et of the plasma membrane.
+"More than 150 different human proteins are GPI anchored, whose functions include enzymes, adhesion molecules, receptors, protease inhibitors, transcytotic transporters, and complement regulators."
+"GPI modiﬁ cation imparts proteins with unique characteristics, such as association with membrane microdomains or rafts, transient homodimerization, release from the membrane by cleavage in the GPI moiety, and apical sorting in polarized cells.  "
+"GPI anchoring is essential for mammalian embryogenesis, development, neurogenesis, fertilization, and immune system.  "
+Mutations in genes involved in remodeling of the GPI lipid moiety cause human diseases characterized by neurological abnormalities.  
+Yeast Saccharomyces cerevisiae has >60 GPIanchored proteins (GPIAPs).
+"GPI is essential for growth of In this review, we discuss biosynthesis of GPIAPs in yeast.  "
+Mammalian cells and yeast with emphasis on the lipid moiety.  
+"—Kinoshita, T., and M. Fujita.  "
+Biosynthesis of GPIan- chored proteins: special emphasis on GPI lipid remodeling.  
+J. Lipid Res.  2016.  57: 6–24.  
+Supplementary key words glycosylphosphatidylinositol • fatty acid remodeling • peroxisome • genetic disorder This work was partly supported by grantsin-aid from the National Natural Science Foundation for Young Scientists of China (31400693) and the Natural Science Foundation of Jiangsu Province (BK20140141) (to M.F.).  
+Manuscript received 30 August 2015 and in revised form 11 November 2015.  
+"Published, JLR Papers in Press, November 12, 2015, DOI 10.1194/jlr."
+R063313 Glycosylphosphatidylinositols (GPIs) are glycolipids that are ubiquitously found in eukaryotic organisms (1).  
+GPIs act as membrane anchors of many cell surface proteins after they are covalently attached to the C termini of the proteins as a posttranslational modiﬁ cation.
+"GPIs are also found as free glycolipids (2, 3)."
+"GPIs in various organisms have a common backbone consisting of ethanolamine phosphate (EtNP), three mannoses (Men), one non- N - acetylated glucosamine (GlcN), and inositol phospholipid, whose structure is EtNP6Man (cid:2) -2Man (cid:2) -6Man (cid:2) -4GlN (cid:2) - 6 myo inositolP-lipid ( Fig."
+1A )
+(4–6).  
+"The lipid part is either phosphatidylinositol (PI) of diacyl or 1alkyl-2acyl form, or inositol phosphoceramide (6–8)."
+"GPIs are attached to the proteins via an amide bond between the Cterminal carboxyl group and an amino group of EtN. Fatty chains of inositol phospholipids are inserted into the outer leaflet of the plasma membrane, while proteins are not directly inserted into the membrane (Fig. 1A)."
+GPI anchor is the only form of posttranslational modiﬁ cation by glycolipid.  
+More than 150 different human proteins are GPI anchored (UniProt) (9).  
+"Functions of these GPIanchored Abbreviations: Ace, angiotensin converting enzyme; AGPS, alkylglycerone phosphate synthase; ALP, alkaline phosphatase; BIQ, 1-[4butylbenzyl]isoquinoline; bkr, beaker; BST, bypass of Sec13; CHO, Chinese hamster ovary; DHAPAT, dihydroxyacetone phosphate acyltransferase; DolP-Man, dolicholphosphate-mannose; ER, endoplasmic reticulum; ERES, ER exit site; EtNP, ethanolamine phosphate; Gal, galactose; GalNAc, N -acetylgalactosamine; "
+"GlcN, non-"
+"N -acetylated glucosamine; GlcNAc, N -acetylglucosamine; GPI, glycosylphosphatidylinositol; GPIAP, glycosylphosphatidylinositolanchored protein; HHAT, hedgehog acyltransferase; HPMRS, hyperphosphatasia with mental retardation syndrome; IPC, inositolphospho-ceramide; Man, mannose; MBOAT, membrane bound O -acyl transferase; PI, phosphatidylinositol; PIPLC, phosphatidylinositolspeciﬁ c phospholipase C; PLD, phospholipase D; RCDP, rhizomelic chondrodysplasia punctate; Ser, serine; Sia, sialic acid; SRP, signal recognition particle; TMD, transmembrane domain .  "
+1 To whom correspondence should be addressed.  
+"Email: tkinoshi@biken.osakau.ac.jp Journal of Lipid Research Volume 57, 2016"
+This article is available online at http://www.jlr.org
+"Copyright © 2016 by the American Society for Biochemistry and Molecular Biology, Inc. Fig. "
+1.  
+A: Common backbone of GPI anchors.
+"The common backbone of GPI anchors, consisting of EtNP, three Mans, GlcN, and inositol phospholipid, is conserved in wide varieties of eukaryotes."
+The entire protein is anchored to the outer leaﬂ et of the plasma membrane by fatty chains of inositol phospholipid.
+B: Dynamic changes of the PI moiety along biosynthesis of GPIAPs.
+Most of the mammalian cellular PI and the ﬁ rst two GPI intermediates are diacyl forms bearing sn 2linked unsaturated fatty acid.
+"In contrast, the major forms of mature GPIAPs on the cell surface have 1alkyl-2acyl PI bearing sn 2linked saturated fatty acid (usually stearic acid)."
+"This structural difference occurs during GPIAP biosynthesis through two types of remodeling reactions, diacyl to diradyl remodeling in the ER and fatty acid remodeling in the Golgi."
+C: Mammalian GPIAPs.
+The ﬁ rst Man in the common core is ubiquitously modiﬁ ed by EtNP at the 2position.
+"In some proteins, the fourth Man is attached to the third Man."
+"Yet in other proteins, the ﬁ rst Man is modiﬁ ed by the (cid:4) 4GalNAc side branch, which may be elongated by (cid:4) 3Gal and Sia."
+Modiﬁ ed from Figure 1 in (197) with permission.  
+"Proteins (GPIAPs) are various, including >40 enzymes [alkaline phosphatases (ALPs), 5 ′ -nucleotidase, dipeptidase, and others], several adhesion molecules (contactins, glypicans, CD48, and others), receptors (folate receptors, GDNF receptor alphas, Fc (cid:3) RIIIb, and others), protease inhibitors (RECK), transcytotic transporters (GPIHBP1), and complement regulatory proteins (CD55 and CD59).  "
+"Because of GPI modiﬁ cation, mammalian GPIAPs have unique characteristics, such as association with membrane microdomains or membrane rafts enriched in sphingolipids and cholesterol (10), transient homodimerization (11), release from the membrane by cleavage in the GPI moiety (12–15), and apical sorting in polarized cells (16).  "
+"GPI anchoring of proteins is essential for mammalian embryogenesis, development, neurogenesis, fertilization, and immune system (12, 14, 17–21)."
+Yeast Saccharomyces cerevisiae has >60 GPIAPs.
+GPI anchors are essential for growth of yeast (22).
+"In this review, we discuss biosynthesis of GPIAP in mammalian cells and yeast with emphasis on the lipid moiety.  "
+STRUCTURAL CHARACTERISTICS OF MAMMALIAN GPI AND GPIAP 
+"The lipid moiety of mammalian GPIAPs has two unique characteristics compared with cellular free PI, from which GPI is generated.  "
+"First, a major form of GPIAPs is the 1alkyl-2acyl form and diacyl PI is a minor form, whereas free PI is mostly the diacyl form and contains only a trace amount, if any, of the 1alkyl-2acyl form (Fig. 1B)"
+"(8, 23, 24)."
+"Second, the sn 2linked fatty acid in GPIAPs is mostly stearic acid, a saturated 18 carbon chains (C18:0), whereas free PI has mainly arachidonic acid, a polyunsaturated chain (C20:4) (Fig. 1B)"
+"(23, 24)."
+"The latter characteristic fatty chain composition of GPI, i.e., both sn 1- and sn 2linked fatty chains are saturated in a vast majority of GPIAPs, is critically related to two unique properties of GPIAPs, i.e., association with membrane microdomains and transient homodimerization (25, 26)."
+"These two characteristic lipid structures in GPI are results of two lipid remodeling reactions (25, 27) (see below).  "
+Biosynthesis of GPIanchored proteins The non- N -acetylated
+GlcN is a unique characteristic of the glycan part of GPIs.  
+"GlcNs in other glycoconjugates are mostly N -acetylated, or some GlcNs in glycosaminoglycans are N -sulfated."
+"In contrast, N -acetylglucosamine (GlcNAc), attached to PI in the ﬁ rst step in biosynthesis, is de-"
+N -acetylated in the next step.  
+"Because of this non- N - acetylated GlcN, inositol phospholipid of GPI can be released from GPI and GPIAP by deamination by nitrous acid (1, 28).  "
+The common backbone is variously modiﬁ ed in different organisms and in different cell types in one species.
+"In mammalian cells, the 2position of the ﬁ rst Man (Man1) linked to GlcN in the backbone is ubiquitously modiﬁ ed by an EtNP side branch (Fig. 1C)"
+"(1, 8)."
+"In some mammalian proteins, such as rat Thy1, the fourth Man (Man4) is attached to the third Man (Man3) via (cid:2) 1,2 linkage (Fig. 1C)"
+(4).
+"Yet in other proteins, such as human and porcine dipeptidases, (cid:4) - N -acetylgalactosamine (GalNAc) is attached to 4position in Man1 (8)."
+"This side branch GalNAc can be elongated by (cid:4) 1,3galactose (Gal) and sialic acid (Sia) in some proteins, such as prion protein (Fig. 1C) (29).  "
+BIOSYNTHESIS OF MAMMALIAN GPI AND ATTACHMENT TO PROTEINS GPI is synthesized in the endoplasmic reticulum (ER) and is en bloc transferred to proteins by GPI transamidase.  
+"Biosynthesis of GPI is initiated on the cytoplasmic face of the ER by transfer of GlcNAc from UDPGlcNAc to PI, generating the ﬁ rst intermediate GlcNAcPI (step 1 in Fig. 2 ).  "
+"This reaction is mediated by GPIGlcNAc transferase, the most complex monoglycosyltransferase, consisting of seven proteins, PIGA, PIGC, PIGH, PIGP, PIGQ, PIGY, and DPM2 (30–32)."
+GlcNAcPI is de-
+"N -acetylated to GlcNPI by a deacetylase, PIGL (step 2 in Fig."
+"2 ) (33, 34)."
+GlcNPI is next translocated to the luminal face by an unknown mechanism (step 3 in Fig. 2).
+"It is thought to be mediated by a “ﬂ ippase,” which has not been identiﬁ ed (35)."
+"Many of genes involved in GPI biosynthesis were cloned by expression cloning, taking advantage of mutant Chinese hamster ovary (CHO) cells and other cells defective in each one of the biosynthetic steps (36)."
+"However, cells defective in the “ﬂ ipping” step have never been established, although the mutant screen seems to be already saturated (37–40)."
+It seems that either a putative ﬂ ippase additionally has a role essential for cell survival or the ﬂ ip is mediated by redundant enzymes.  
+"GlcNPI that is ﬂ ipped to the luminal face is then acylated by acyltransferase PIGW at the 2position of the inositol ring, generating GlcN-(acyl)PI (step 4 in Fig. 2) (41, 42).  "
+"GlcN-(acyl)PI is subjected to lipid remodeling that converts the diacyl PI moiety to a mixture of 1alkyl-2acyl PI, the major form, and diacyl PI (step 5 in Fig. 2) (43).  "
+The exact remodeling reaction and the enzyme that catalyzes the reaction are yet to be clariﬁ ed (see below).  
+"The Man1 is transferred to the remodeled GlcN-(acyl) PI from dolicholphosphate-Man (DolP-Man), generating ManGlcN-(acyl)PI (step 6 in Fig. 2) (44).  "
+"A complex of PIGM, a catalytic component, and PIGX, a stabilizing component, is GPI mannosyltransferase 1 that catalyzes this reaction (45, 46).  "
+"The second Man (Man2) is transferred from DolP-Man by PIGV, GPI mannosyltransferase 2, generating ManMan-GlcN-(acyl)PI (step 7 in Fig. 2) (47)."
+A sidebranch EtNP is attached to the 2position of Fig. 
+2.  Biosynthesis and proteinattachment of GPI in the ER of mammalian cells.
+"The complete precursor of GPI, termed H8, is synthesized from PI by 11 stepwise reactions and en bloc transferred to proteins."
+"More than 20 PIG genes, shown above the biosynthetic pathway, are involved."
+Modiﬁ ed from Figure 2 in (197) with permission.  
+"Journal of Lipid Research Volume 57, 2016 Man1 to generate Man-(EtNP)ManGlcN-(acyl)PI (step 8 in Fig. 2)."
+The donor of EtNP is PE and PIGN is GPIEtNP transferase 1 that catalyzes this step (48).  
+"The Man3 is transferred from DolP-Man by PIGB, GPI mannosyltransferase 3, generating ManMan-(EtNP)ManGlcN-(acyl)PI (step 9 in Fig. 2) (49)."
+"The socalled “bridging EtNP” that links GPI to proteins is attached to the 6position of Man3 from PE by GPIEtNP transferase 2 consisting of PIGO, a catalytic component, and PIGF, a stabilizing component (step 10 in Fig. 2) (50–52)."
+"The product, EtNPMan-Man- (EtNP)ManGlcN-(acyl)PI, is termed H7 and is competent for attachment to proteins (53)."
+"H7 is usually further modiﬁ ed by a sidebranch EtNP attached to the 6position of Man2 to generate EtNPMan-(EtNP)Man-(EtNP)ManGlcN-(acyl)PI, termed H8 (53)."
+"This reaction is mediated by GPIEtNP transferase 3 consisting of PIGG, a catalytic component, and PIGF, a stabilizing component (step 11 in Fig. 2) (54)."
+H8 is the “mature” precursor usually used to modify proteins.  
+"In some GPIAPs, Man4 is attached.  "
+"Although the exact step at which Man4 is transferred has not been determined in the mammalian system, Man4 in yeast is transferred before attachment of the bridging EtNP (55)."
+"Man4 transfer is mediated by PIGZ, GPI mannosyltransferase 4 (56).  "
+"H8 and H7 are posttranslationally attached to a protein’s C terminus by transamidation (step 12 in Fig. 2) (57, 58).  "
+Preproproteins of GPIAPs have Nterminal signal sequence for ER translocation and Cterminal signal sequence for GPI attachment ( Fig. 3 )
+(57).  
+The Cterminal GPI attachment signal sequence consists of four consecutive elements from the Nterminal side of the (cid:5) site (to which GPI is attached) to the C terminus: 1) an unstructured linker of about 10 amino acids from site (cid:5) -11 to (cid:5) -1; 2) (cid:5) and (cid:5) +2 sites with short side chains; 3) ﬁ ve to ten hydrophilic amino acids; and 4)
+15–20 amino acid hydrophobic stretch (59).  
+"Serine (Ser), Asn, Asp, Gly, Ala, and Cys are known to act as (cid:5) site amino acids, and substitution of (cid:5) with another amino acid, such as proline, impairs GPI attachment (60).  "
+Software that predicts GPI attachment and (cid:5) sites is available online (61).  
+Preproproteins are translocated into the ER lumen via translocon.  
+"A recent study with yeast demonstrated that the majority of its GPIAPs are translocated posttranslationally, while the rest are cotranslationally translocated in a signal recognition particle (SRP)-dependent manner (62)."
+"A more recent study reported evidence that the majority of human GPIAPs use SRPdependent translocation; whereas, prion protein uses a SRPindependent posttranslational translocation path involving Sec62/63 (38).  "
+The preproproteins translocated into the ER lumen undergo Nterminal signal peptide removal and attachment to GPI.
+It is thought that they are transiently inserted into the ER membrane with the Cterminal hydrophobic stretch until attachment to GPI (Fig. 3).  
+"GPI transamidase that catalyzes GPI attachment consists of ﬁ ve proteins, PIGK, GPAA1, PIGS, PIGT, and PIGU (63–67)."
+"PIGK, a caspaselike cysteine protease family protein, attacks the peptide bond between the (cid:5) and (cid:5) +1 amino acids, cleaves off the Cterminal GPI attachment signal peptide, and generates substrateenzyme intermediate, in which (cid:5) site amino acid is linked to the catalytic cysteine via a thioester bond (Fig. 3) (68)."
+"GPAA1 presents an amino group in bridging EtNP of the mature GPI precursor to nucleophilic attack of the thioester, resulting in attachment of GPI’s EtN to the (cid:5) amino acid via an amide bond (69)."
+PIGT is linked to PIGK via a disulﬁ de bond and probably stabilizes the enzyme complex (70).  
+"PIGS and PIGU are also essential for GPI transamidase, although their exact roles are unclear.  "
+MATURATION OF MAMMALIAN GPIAP DURING TRANSPORT TO THE CELL SURFACE Nascent GPIAPs formed by GPI transamidase are still immature and undergo at least three remodeling reactions to become mature GPIAPs.
+These remodeling reactions occur en route to the cell surface.
+"The ﬁ rst reaction occurring in the ER is inositol deacylation by PGAP1, an inositoldeacylase (step 13 in Fig. 4 )"
+(see below for details) (71).  
+"Then the EtNP side branch linked to Man2 is removed by PGAP5, an EtNP phosphodiesterase (step 14 in Fig. "
+4 ) (72).  
+"PGAP1 is widely distributed in the ER; whereas, PGAP5 is restricted to the ER exit sites (ERESs) (71, 72).  "
+"After these two remodeling reactions, GPIAPs are associated with a cargo receptor for packaging into COPIIcoated transport vesicles in the ERESs.  "
+Because Fig. 
+3.  
+Attachment of GPI to proteins by GPI transamidase.
+Preproprotein has a Nterminal signal for ER translocation and a Cterminal signal for GPI attachment (step 1).  
+"After translocation into the ER lumen, the Nterminal signal is removed and the Cterminal signal is recognized by PIGK (step 2)."
+"PIGK cleaves a peptide bond between (cid:5) and (cid:5) +1 amino acids, generating a substrateenzyme complex linked via a thioester bond (step 3)."
+The thioester-linked intermediate is attacked by GPI presented by GPAA1 (step 4) completing transamidation (step 5).
+"For simplicity, PIGS, PIGT, and PIGU are not depicted."
+Reproduced with permission from (198).  
+Biosynthesis of GPIanchored proteins Fig. 
+4.  
+Maturation of mammalian GPIAP during ERto-plasma membrane (PM) transport.
+"Nascent GPIAPs formed by GPI transamidase (GPITA) undergo two reactions, inositoldeacylation (step 13) and removal of the EtNP side branch from Man2 (step 14) in the ER.  "
+A cargo receptor consisting of four p24 proteins is involved in ERto-Golgi transport.
+"In the Golgi, GPIAPs undergo fatty acid remodeling (steps 15 and 16), generating mature GPIAPs."
+Modiﬁ ed from Figure 4 in (197) with permission.  
+"GPIAPs are inserted only to the luminal leaﬂ et of the ER membrane that lacks direct access to the cytoplasmic COPII coat proteins, transmembrane cargo receptors are required for coupling GPIAPs to COPII coat proteins."
+Both inositoldeacylation and removal of EtNP from Man2 are required for binding to the cargo receptor (73).  
+"Therefore, only the properly remodeled GPIAPs are recognized by the cargo receptor."
+It is conceivable that these remodeling reactions are coordinated with the protein folding process so that properly folded and remodeled GPIAPs are incorporated into transport vesicles.
+How such coordination is regulated is to be clariﬁ ed. 
+"The cargo receptor for GPIAPs is a complex of four p24 proteins, TMED9 (also known as p24 (cid:2) 2), TMED2 (p24 (cid:4) 1), TMED5 (p24 (cid:3) 2), and TMED10 (p24 (cid:6) 1) (73–75)."
+"All p24 proteins are type 1 transmembrane proteins consisting of a Nterminal Golgi dynamic domain, a (cid:2) -helical coiledcoil domain, a transmembrane domain (TMD), and a short Cterminal cytoplasmic domain (76).  "
+"Members of the p24 family of proteins are divided into four subfamilies, (cid:2), (cid:4), (cid:3), and (cid:6) (77)."
+"Evidence suggests that complexes are formed by proteins, one each from the four subfamilies, although it is unclear how complexes are assembled (78)."
+"Subfamilies (cid:4) and (cid:6) have only one member, TMED2 (p24 (cid:4) 1) and TMED10 (p24 (cid:6) 1), respectively (77), and they are essential for complex formation."
+"Thus, when either of them is lost by gene knockdown or knockout, proteins in the three other subfamilies become unstable (79)."
+"The human (cid:2) subfamily has two members, TMED9 (p24 (cid:2) 2) and TMED4 (p24 (cid:2) 3) (human p24 (cid:2) 1 is a pseudogene), and TMED9 (p24 (cid:2) 2), but not TMED4 (p24 (cid:2) 3), seems to be involved in GPIAP transport."
+The (cid:3) subfamily has ﬁ ve members and likely has a determining cargo recognition repertoire .  
+"TMED5 (p24 (cid:3) 2), but not the four other p24 (cid:3) proteins, is involved in GPIAP transport (79).  "
+"Domain swapping between TMED5 (p24 (cid:3) 2) and TMED1 (p24 (cid:3) 1) and sitedirected mutagenesis revealed that the 10 Journal of Lipid Research Volume 57, 2016 (cid:2) -helical coiledcoil domain, especially its juxtamembrane region of TMED5 (p24 (cid:3) 2), is critical for association with GPIAP; whereas, the Golgi dynamic domain, TMD, and the cytoplasmic domain are interchangeable (79).  "
+The juxtamembrane region of TMED5 (p24 (cid:3) 2) might interact with the glycan part of GPI.
+Whether the lipid part of GPI is recognized by p24 cargo receptor is currently unclear.  
+The short cytoplasmic tails of p24 proteins contain motifs recognized by Sec24 proteins of the COPII coat.
+"It was shown by RNAi knockdown experiments that of four Sec24 isoforms, Sec24C and Sec24D are necessary for efﬁ cient transport of GPIAPs, suggesting that Sec24C and -D associate with p24 cargo receptor complexes (75).  "
+In vitro data suggest that GPIAPs may dissociate from the p24 cargo receptor complex in the ERGIC/Golgi lumen due to acidic pH (73).
+"In the Golgi, GPIAPs are subjected to fatty acid remodeling in that unsaturated fatty acid at the sn 2 position is replaced by saturated fatty acid, usually stearic acid."
+"The removal of unsaturated fatty acid is mediated by a Golgi resident membrane protein, PGAP3, that is a GPIspeciﬁ c phospholipase A2 (step 15 in Fig. "
+4) (25).  
+"Another Golgiresident membrane protein, PGAP2, is required for reacylation of the lysoGPIAPs (step 16 in Fig. 4) (see below for details) (80).  "
+The addition of a GalNAccontaining side chain to some of the GPIAPs also occurs most likely in the Golgi.
+"Three glycosyltransferases, (cid:4) 4GalNAc transferase, (cid:4) 3Gal transferase, and a sialyltransferase, are to be identiﬁ ed, and molecular mechanisms of proteinselective and celltype-speciﬁ c sidechain modiﬁ cation are to be clariﬁ ed (8).  "
+"The properly fatty acidremodeled GPIAPs become associated with membrane microdomains or rafts, transient liquidordered nanoclusters of membrane constituents, and are transported to the cell surface (25).  "
+Molecular mechanisms of GPIAP transport from the transGolgi network to the plasma membrane have not been clariﬁ ed. 
+"Upon clustering by multivalent ligands of GPIAPs or antibody against GPIAPs, some GPIAPs transduce signals for proliferation or motility."
+Two long saturated fatty chains of GPIAPs facilitate transbilayer interactions with long acylchain-containing phosphatidylserine.  
+Such lipidto-lipid interaction is necessary for transbilayer coupling of GPIAPs in the outer leaﬂ et to the cytoplasmic signal transduction machinery and actin ﬁ laments (81).  
+"In polarized cells, such as epithelial cells, GPIAPs are usually transported to the apical surface with some exceptional GPIAPs, such as prion protein, which is transported to the basolateral surface (16)."
+Mechanisms of apical sorting of GPIAPs have been intensively studied (10).
+Oligomerization of GPIAPs in the transGolgi network seems to be critical for selective transport to the apical surface
+"[see detailed discussion in a recent review (82, 83)].  "
+DYNAMIC CHANGES OF THE PI MOIETY ALONG BIOSYNTHESIS FROM PI TO GPIAP 
+It is remarkable that the structure of the PI moiety dynamically changes during biosynthesis of GPIAPs (Fig. 1B).
+"Five steps (steps 4, 5, 13, 14, and 15) in the biosynthetic pathway, as described below, are related to structural changes in the PI moiety ( Table 1 ).  "
+"PI in mature mammalian GPIAPs is divided into three parts according to their origins: 1) only inositol or the inositol phosphate part is derived from original cellular PI; 2) 1alkyl glycerol or 1alkyl glycerol phosphate is from a donor lipid for lipid remodeling that occurs in the ER; and 3) the sn 2linked fatty acid, usually stearic acid, is derived from the acylCoA used in fatty acid remodeling that occurs in the Golgi.  "
+"Inositol acylation The 2position of inositol in GlcNPI is acylated in biosynthetic step 3, generating GlcN-(acyl)PI (41)."
+"The acyl chain is mostly palmitate, while myristate is found in a small fraction (84)."
+The inositollinked acyl chain is maintained until GPI is attached to proteins and is removed soon after protein attachment before exit from the ER (85).
+"Therefore, it is a transient modiﬁ cation of PI usually lacking in GPIAPs.  "
+"In mutant cells defective in inositolacylation of GlcNPI, transfers of three Men and the EtNP sidebranch to Man2 occur, although less efﬁ ciently than in normal cells; however, transfer of the bridging EtNP does not occur (42)."
+"Therefore, inositollinked acyl chain is required for the action of GPI EtNP transferase 2.  "
+"The inositolacylation is mediated by PIGW in mammalian cells and by Gwt1p in yeast (42, 86)."
+Isolated PIGW generates GlcN-(acyl)PI from GlcNPI and palmitoylCoA in vitro.
+"Therefore, PIGW is an acyltransferase itself (42).  "
+PIGW is an ER membrane protein with 12 TMDs and has no apparent sequence homology to known acyltransferases.  
+It was shown by determining the orientation of conserved residues in Gwt1p and PIGW that the inositolacylation occurs in the luminal side of the ER (87).
+PIGW thus represents a new family of acyltransferases that acylates glycolipid on the luminal side of the ER.  
+Orientation of conserved amino acids in Gwt1p/PIGW indicates that palmitoylCoA is used for acylation on the luminal side of the ER.  
+"Other examples of acylCoA- dependent acylation in the lumen of the ER/Golgi include palmitoylation of Ser in Wnt proteins, palmitoylation of hedgehog proteins, and octanoylation of ghrelin (88–90).  "
+These reactions are mediated by membrane bound O -acyl transferase (MBOAT) family acyltransferases bearing seven to ten TMDs (91–93).  
+It is thought that acylCoA molecules generated on the cytoplasmic side of the ER/ Golgi membrane are translocated into the luminal side by these MBOAT proteins and are used in acylation reactions (94).
+A possible model could be similar to a mechanism envisaged for N -acetylation of GlcN residue during degradation of heparan sulfate in the lysosome (95).  
+"For the N -acetylation, the acetyl group is ﬁ rst transferred from the cytoplasmic acetylCoA to the catalytic histidine of an enzyme acetylCoA: (cid:2) -glucosaminide N -acetyltransferase, and then is used in the lysosome lumen to acetylate an amine of GlcN (95).  "
+AcetylCoA: (cid:2) -glucosaminide N -acetyltransferase has 11 TMDs.
+"PIGW, although it does not belong to the MBOAT family, has 12 TMDs.  "
+It is conceivable that PIGW also has an ability to translocate palmitoylCoA into the ER lumen for inositolacylation.  
+"Diacyl to alkylacyl lipid remodeling The majority of the PI moiety in GPIAPs isolated from mammalian cells is the 1alkyl-2acyl form, and the diacyl form is less common."
+"Almost all free PI in mammalian cells is the diacyl form, suggesting that the fatty chain composition of GPI changes during biosynthesis.  "
+"By LCESI- MS/MS, Houjou et al. (84) analyzed fatty chain com positions of free PI, and the ﬁ rst three GPI intermediates, GlcNAcPI, GlcNPI, and GlcN-(acyl)PI accumulated in the PIGL -, PIGW -, and DPM2 -defective CHO cells, respectively, to TABLE 1.  "
+Defects in GPI biosynthesis/remodeling involving lipid moiety Step Reaction Gene Organelle Biochemical Defect Biochemical Phenotype Disorder Manifestation 13 15 16 Inositol acylation PI remodeling PIGW Not identiﬁ ed Inositol deacylation PGAP1 Fatty acid remodeling PGAP3 
+"ER ER ER GPI synthesis defect Defective alkylacyl GPI Decreased GPIAP levels HPMRS5 DD/ID, Sz, HP Only diacyl GPIAP Unknown synthesis generated Inositolacylation GPIAP bearing 3 fatty IGD DD/ID, encephalopathy, remained Golgi Unsaturated acyl chain remained chains hypotonia, CVI Defective raft association HPMRS4 DD/ID, Sz, HP, hypotonia Fatty acid remodeling PGAP2 Golgi Defect in reacylation Generation of lysoGPIAP HPMRS3 DD/ID, Sz, HP, hypotonia, of lysoGPIAP organ anomalies Steps correspond to those in Figs. "
+2 and 4.  
+"DD/ID, developmental delay/intellectual disability; CVI, cerebral visual impairment; HP, hyperphosphatasia; IGD, inherited GPI deﬁ ciency; Sz, seizures."
+Biosynthesis of GPIanchored proteins 11 determine when the fatty chain composition changes.
+"The vast majority of free PI in CHO cells was diacyl PI having 18:0 and 20:4 chains, as expected from previous reports on mammalian PI (23, 24).  "
+"GlcNAcPI and GlcNPI maintained similar chain compositions, the 18:020:4 diacyl form being predominant."
+"In contrast, GlcN-(acyl)PI had a clearly different chain composition, i.e., nearly 60% was the 1alkyl-2acyl form and less than 40% was the diacyl form."
+The appearance of the 1alkyl-2acyl form in GlcN- (acyl)PI was similarly seen in a DPM1 -defective mouse
+Tlymphoma cell line.
+"Therefore, there is a lipid remodeling in GlcN-(acyl)PI in which more than half of the predominant diacyl glycerol moiety is replaced by 1alkyl-2acyl glycerol (84).  "
+Generation of 1alkyl-2acyl GlcN-(acyl)PI is dependent upon the peroxisomal alkyl phospholipid biosynthetic pathway (43).
+"Mutant CHO cells defective in either dihydroxyacetone phosphate acyltransferase (DHAPAT), the ﬁ rst enzyme in the pathway (96), or alkylglycerone phosphate synthase (AGPS), the second enzyme (97), generated only diacyl GlcN-(acyl)PI and the diacyl form of GPI protein anchors (43).  "
+"The 1alkylglycerone-3phosphate generated in the peroxisome is subsequently converted to 1alkyl phospholipids, such as 1alkyl-2acyl PE and phosphatidylcholine, and ethanolamine- and cholineplasmal- ogens, in the ER (98)."
+Some of these 1alkyl phospholipids might be used as a donor substrate in diacyl to 1alkyl- 2acyl remodeling of GlcN-(acyl)PI.  
+"The composition of fatty acids in diacyl GlcN-(acyl)PI in DHAPAT-defective CHO cells was different from that in free PI and GlcNPI in that the sn 2 chains contained not only arachidonic acid, but also various unsaturated fatty acids, such as oleic and docosapentaenoic acids."
+"Similarly, diacyl species of GlcN-(acyl)PI in DPM2 -defective alkyl phospholipid synthesis intact CHO cells contained various fatty acids other than arachidonic acid."
+These results indicate that there is diacyl to diacyl remodeling in GlcN-(acyl) PI.
+"Taken together, fatty chain composition changes from the 1stearoyl-2arachidonoyl dominant diacyl form to a mixture of the 1alkyl-2acyl and diacyl forms in GlcN-(acyl) PI is a distinct step in the GPI biosynthetic pathway (43).  "
+A possible reaction of this lipid remodeling is exchange of diacyl glycerol or the phosphatidyl moiety with a corresponding diradyl structure between GlcN-(acyl)PI and a donor lipid.  
+"In these cases, a putative lipid remodelase might have properties of phospholipase C or D."
+"The donor substrate might be PE because most, if not all, species of 1alkyl-2acyl and diacyl glycerol of GlcN-(acyl)PI are found in PE, but not in phosphatidylcholine (43)."
+These issues need to be clariﬁ ed in future studies.  
+"Deacylation of inositol from nascent GPIAPs, immediately after attachment of GPI to proteins, have the inositollinked acyl chain and undergo inositoldeacylation before their exit from the ER for transport to the Golgi apparatus (85)."
+"The deacylation is mediated by an ERresident deacylase, PGAP1, which has nine TMDs and a typical lipase motif containing a catalytic Ser (71).  "
+"12 Journal of Lipid Research Volume 57, 2016 "
+The inositollinked acyl chain confers resistance to bacterial PIspeciﬁ c phospholipase C (PIPLC) and the deacylation restores PIPLC sensitivity.
+"PIPLC uses a hydroxyl group at the 2position of the inositol ring during hydrolysis of a phosphoester bond, and the product bears an inositol 1,2cyclic phosphate at the terminus.  "
+"When the 2position is acylated, PIPLC does not cleave GPI."
+"An epitope including inositol 1,2cyclic phosphate and GlcN is recognized by antiCRD (crossreacting determinant) antibody, which is common among various GPIAPs (99, 100).  "
+"An erythrocyte is an exceptional cell type in which the inositollinked acyl chain is not removed in the ER, and GPIAPs on the erythrocyte surface have three fatty chains and are resistant to PIPLC (101)."
+It is thought that PGAP1 expression is downregulated with erythrocytic differentiation.
+The extra fatty chain may contribute to a stable expression on the surface of this longliving cell by preventing spontaneous release (the halflife of human erythrocytes in the blood is 60 days).
+"It is also known that some GPIAPs, such as CD52 on human spleen cells and sperm (102) and ALP on certain cell lines (103), are resistant to PIPLC and maintain an inositollinked acyl chain."
+"Therefore, inositol-deacylation is not always complete on nucleated cells.  "
+"In PGAP1 -defective nucleated cells, GPIAPs are resistant to PIPLC like those on erythrocytes and, in addition, ERto-Golgi transport of GPIAPs is slow, taking three times more time (71)."
+"GPIAPs bearing the inositollinked acyl chain are not associated with the p24 cargo receptors, accounting for slow ERto-Golgi transport in PGAP1 -defective cells (73).  "
+"Fatty acid remodeling of mammalian GPIAPs in the Golgi Mature GPIAPs on various mammalian cells usually have stearic acid at the sn 2 position and, therefore, two saturated fatty chains, because sn 1 chains in phospholipids are usually saturated.  "
+A minor fraction of them have an unsaturated chain with one unsaturated bond.
+"This is in contrast to chain compositions of GlcN-(acyl)PI in the ER, which have various unsaturated fatty acids at the sn 2 position.  "
+GPI fatty acid remodeling achieves the fatty chain proﬁ le of mature GPIAPs.
+"Two Golgiresident membrane proteins are involved in fatty acid remodeling (25, 80).  "
+PGAP3 is required for removal of sn 2linked unsaturated chain and generation of lyso form intermediate.  
+"PGAP3 has seven TMDs and belongs to a membranebound hydrolase superfamily termed CREST (for alkaline c eramidase, PAQ R receptor, P e r1, S ID1, and T MEM8) (104).  "
+"Although direct demonstration of the enzyme activity has not succeeded, it is almost certain that PGAP3 is a GPIspeciﬁ c phospholipase A2 ."
+"PGAP2, bearing ﬁ ve TMDs, is involved in reacylation of the lyso form intermediate."
+Stearic acid is preferentially used to reacylate the sn 2 position.  
+"It is not clear whether PGAP2 is acyltransferase itself, because it does not have amino acid sequence homology to known acyltransferases."
+"In yeast, an MBOAT acyltransferase, Gup1p, is involved in a similar fatty acid remodeling of GPIAPs that occurs in the ER (see below)."
+"The closest sequence homologs of mammalian MBOAT are hedgehog acyltransferase (HHAT) and HHATL (94); however, HHAT and HHATL did not seem to be involved in GPI remodeling (T.  Kinoshita, unpublished observation).  "
+"There is evidence for substrate channeling during fatty acid remodeling because when PGAP3 HAtagged at the C terminus was expressed in cells, lyso form GPIAPs were generated and secreted from the cell surface (105)."
+"Perhaps, a remodelase complex consisting of PGAP3 and PGAP2 carries out deacylation and reacylation steps progressively without releasing lyso form intermediate .  "
+"In PGAP3 -defective cells, GPIAPs do not undergo fatty acid remodeling in the Golgi and are transported to and expressed on the cell surface (25)."
+The cell surface levels of GPIAPs are only mildly affected.
+"Those GPIAPs have sn 2linked unsaturated fatty acid (oleic, arachidonic, docosapentaenoic, and docosahexaenoic acids).  "
+The major sn 1 chain in GPIAPs is the C18:0 alkyl chain.
+"These fatty chain compositions are very similar to those in GlcN-(acyl) PI, indicating that the lipid structure does not change between GlcN-(acyl)PI and immature GPIAPs (84).  "
+The fatty acid unremodeled GPIAPs are not recovered in detergentresistant membrane after cells are lysed in cold 1% Triton X100 (25).
+The reason for this is that an unsaturated fatty acid in GPI interferes with association of GPIAPs with liquidordered membrane.
+"Therefore, it is interpreted that fatty acid unremodeled GPIAPs have reduced interaction with glycosphingolipids and cholesterol, and are not associated with membrane microdomains.  "
+"The situation in PGAP2 -defective cells is quite different from that in PGAP3 -defective cells, i.e., the cell surface levels of GPIAPs are severely affected, and they are only less than 10% of the wildtype levels (80).  "
+"In the absence of PGAP2 activity, reacylation does not occur and the intermediate lysoGPIAPs, bearing only one fatty chain, are transported to the cell surface and quickly secreted."
+The secreted GPIAPs in the culture medium lose their lipid moiety by the action of phospholipase D (PLD) (80).
+"GPIspeciﬁ c PLD present in serum and also expressed in various cells (106, 107) is thought to be responsible for this cleavage."
+"GPIspeciﬁ c PLD may cleave GPI in membranebound lysoGPIAPs to enhance release, or may cleave spontaneously released lysoGPIAPs in the medium.  DEFICIENCIES OF LIPID/FATTY ACID REMODELING AND INOSITOL ACYLATION AND DEACYLATION Peroxisomal disorders and GPI anchor abnormality Diacyl to 1alkyl-2acyl lipid remodeling in the ER requires a lipid donor containing 1alkyl glycerol, which is yet to be identiﬁ ed."
+"Generation of this putative donor lipid is dependent upon a peroxisomal pathway for 1alkyl glycerone phosphate, as described above (43)."
+"Defects in genes for the ﬁ rst two reactions, DHAPAT and AGPS, cause the peroxisomal disorders rhizomelic chondrodysplasia punctate (RCDP) types 2 and 3, respectively (108).  "
+AGPS has type 2 peroxisome targeting signal and is transported into the peroxisome by a PEX7dependent mechanism.
+Defects in PEX7 cause RCDP type 1 (108).
+"Lossof-function mutations in PEX genes, such as PEX5, PEX16, and PEX19, involved in transport of a major group of peroxisome matrix proteins and membrane proteins, cause a more severe form of peroxisome disorder, Zellweger syndrome (109)."
+"RCDP and Zellweger syndrome are characterized by multiple clinical phenotypes, such as psychomotor defects, intellectual disability, seizures, and skeletal abnormalities (110)."
+Fibroblasts from patients with RCDP types 1–3 and Zellweger syndrome are defective in generation of plasmalogens due to defective synthesis of 1alkyl glycerone phosphate in the peroxisome.
+"In addition, those ﬁ broblasts are defective in generation of the 1alkyl-2acyl form of GPI and express only the diacyl form of GPIAPs (Table 1) (27)."
+It is possible that a lack of 1alkyl-2acyl GPI is causally related to some of these symptoms.  
+"Lossof-function mutations in PIGW, PGAP2, and PGAP3 cause HPMRS/Mabry syndrome by three different mechanisms HPMRS/Mabry syndrome by PIGW mutations.  "
+Biallelic mutations in the PIGW gene were found in a Japanese boy with earlyonset epilepsy initially diagnosed as West syndrome (111).
+"He was born to nonconsanguineous healthy parents and showed profound developmental delay and constantly elevated serum ALP levels, as well as seizures.  "
+"The cell surface levels of two GPIAPs, CD16 and CD24, on blood granulocytes were decreased by 90 and 60%, respectively.  "
+"He was therefore diagnosed as having hyperphosphatasia with mental retardation syndrome (HPMRS), also termed Mabry syndrome (Table 1)."
+"HPMRS caused by PIGW mutations is termed HPMRS5 to differentiate it from those caused by mutations in PIGV (HPMRS1) (112, 113), PIGO (HPMRS2) (114), PGAP2 (HPMRS3) (115, 116), and PGAP3 (HPMRS4) (117) (http://www.ncbi. nlm.nih.gov/omim/?term=HPMRS).  "
+"Two identiﬁ ed mutations in PIGW, p. Thr71Pro"
+"And p. Met167Val, substituted amino acids that are conserved in mammalian PIGW and yeast Gwt1p."
+Functional activity of mutant PIGWs can be measured by determining their ability to restore cell surface expression of GPIAPs after transfection into PIGW -defective CHO cells (42).  
+Both mutant PIGWs had greatly decreased activity in this assay (111).  
+It was apparent that these lossof-function PIGW mutations caused decreases in the cell surface levels of GPIAPs and affected proper functions of neuronal cells and other cells.  
+"Hyperphosphatasia in HPMRS1, -2, and -5 is dependent upon GPI transamidase."
+"In cells defective in PIGV, PIGO, or PIGW, GPI biosynthesis stops in the middle of the pathway and incomplete GPIs bearing one or more Men accumulate."
+"Under such conditions, GPI transamidase acts on preproproteins of ALP and other GPIAPs, and generates substrate proteinenzyme intermediates linked by a thioester bond."
+"In the absence of H8 or H7, these intermediates are eventually hydrolyzed, and soluble proteins lacking the GPI attachment signal peptide are then secreted.  "
+Cleavage between (cid:5) and (cid:5) +1 amino acids was Biosynthesis of GPIanchored proteins 13 demonstrated in a model experiment using PIGO -defective CHO cells (118).
+"Therefore, in these cells the GPI anchor is never attached and ALP becomes soluble after attack by GPI transamidase.  "
+"In cells defective in early steps in the GPI biosynthetic pathway, GPI transamidase action to preproproteins is less efﬁ cient and preproproteins are degraded by ERassociated degradation."
+"Indeed, hyperphosphatasia does not occur, or occurs only mildly, in PIGA -, PIGQ -, and PIGL -deﬁ ciencies (119–121).  "
+"Balance between degradation and secretion due to cleavage by GPI transamidase seems to be affected by other unknown factors, such as genetic backgrounds, because highly elevated hyperphosphatasia associated with PIGL -deﬁ ciency was recently reported (122).  "
+"Consistent with the GPItransamidase-dependent mechanism of hyperphosphatasia, hypophosphatasia, rather than hyperphosphatasia, occurs in individuals with deﬁ ciency in PIGT, a component of GPI transamidase (123).  "
+HPMRS/Mabry syndrome by PGAP2 mutations.  
+"There are two reports of nine individuals with PGAP2 mutations from three consanguineous (Pakistani, Syrian, and Turkish) families and one nonconsanguineous (Finnish) family (115, 116).  "
+"The affected individuals had intellectual disability, seizures, and hyperphosphatasia."
+"Severely affected individuals also had hypotonia, brachytelephalangy, anorectal abnormality, aganglionic megacolon/Hirschsprung disease, heart defect, hearing impairment, and/or cleft palate.  "
+"Information about cell surface levels of GPIAPs on blood cells, such as granulocyte CD16, was not available."
+"In one of those families, CD55 and CD59 levels on lymphoblastoid cells were not affected.  "
+"PGAP2 deﬁ ciency, therefore, causes HPMRS/Mabry syndrome and has been termed HPMRS3 (Table 1).  "
+"Collectively, ﬁ ve missense mutations, p. Arg16Trp, p. Tyr99Cys, p. Leu127Ser, p. Thr160Ile, and p. Arg177Pro, were identiﬁ ed in four families."
+Functional activity of mutant PGAP2 cDNAs bearing these mutations were assessed using PGAP2 -defective CHO cells on which GPIAP expression levels were less than 10% of parental cells (80).
+"Transfection of wildtype PGAP2 cDNA fully restored the parental levels of GPIAP expression; whereas, restorations by the mutant PGAP2 cDNAs were partial, indicating that they were hypomorphic mutations.  "
+"Hyperphosphatasia in HPMRS3 and -4 occurs due to defective fatty acid remodeling after GPI anchor attachment, but by different mechanisms."
+"In HPMRS3, the PGAP2 defect causes termination of fatty acid exchange reactions after elimination of sn 2linked fatty acid (step 15 in Fig. 4), generating lysoGPIAPs, which are transported to the cell surface, secreted, and found in the medium as soluble proteins lacking lipid moiety (80).  "
+HPMRS/Mabry syndrome by PGAP3 mutations.  Lossof- function mutations in PGAP3 were found in ﬁ ve individuals from three families (117).
+Three of ﬁ ve were from a Pakistani consanguineous family.  
+"All ﬁ ve affected individuals had developmental delay, intellectual disability, and hyperphosphatasia."
+"In one of them, mild reduction in the surface 14 Journal of Lipid Research Volume 57, 2016 levels of CD16 and CD59 on blood granulocytes was shown.  "
+"Therefore, PGAP3 deﬁ ciency causes HPMRS/Mabry syndrome and has been termed HPMRS4 (Table 1).  "
+Three missense mutations and one frameshift mutation were identiﬁ ed. 
+Functional activity of mutant PGAP3 cDNA can be determined by using CHO cells defective in both PGAP2 and PGAP3 genes.
+The doubledefective CHO cells express GPIAPs at almost normal levels (25).
+"When PGAP3 cDNA is transfected, the doubledefective cells become like PGAP2 -defective cells and the cell surface levels of GPIAPs decrease to lower than 10% of normal levels because of secretion."
+"If mutations cause lossof-function, a reduction in the surface GPIAP levels is small.  "
+"Among three missense mutations, p. Gly92Asp caused almost complete lossof-function, whereas p. Pro105Arg and p. Asp305Gly caused only partial reduction in GPIAP levels, indicating hypomorphic nature.  "
+"As described above, defects in PGAP3 cause surface expression of GPIAPs bearing unsaturated fatty acid at the sn 2position."
+These GPIAPs are not associated with membrane microdomains (25).  
+"Release of ALP, however, has not been demonstrated in vitro and the surface expression levels of GPIAPs on cultured cell lines are not decreased.  "
+It is likely that ALP release occurs in vivo under certain conditions.  
+"In fact, surface levels of various GPIAPs on lymphocytes, granulocytes, and peritoneal macrophages from Pgap3 -knockout mice were signiﬁ cantly decreased, and "
+"CD16 and CD59 were decreased on granulocytes from one individual with PGAP3 deﬁ ciency (117, 124).  "
+"Perhaps, ALP and other GPIAPs, which are not associated with membrane microdomains, are more easily released from the cell surface by a cleavage of GPI or some other mechanisms.  "
+Deﬁ ciency in PGAP1 PGAP1 mutations have been found in ﬁ ve families.  
+"A homozygous mutation in PGAP1, p. Leu197del, was found in two siblings from a consanguineous Syrian family."
+Both of the affected individuals had intellectual disability and encephalopathy (125).
+"Biallelic PGAP1 mutations, p. Pro92del and Lys308Asnfs*25, were found in a boy with cerebral visual impairment and intellectual disability (126).  "
+"Another set of biallelic PGAP1 mutations, p. Gln466* and p. Tyr524"
+"*, were found in a boy with cerebral visual impairment, hypotonia, delayed motor development, and encephalopathy (127)."
+"Siblings with encephalopathy, hypotonia, microcephaly, and retinal dystrophy, from a consanguineous Turkish family were shown to have an intronic homozygous splice variant, c.10902A>G (128).  "
+"Yet another homozygous splice variant, c.1952+1G>T, was identiﬁ ed in siblings having spastic paraplegia, developmental delay, and encephalopathy (Table 1)"
+(129).  
+Defects in inositoldeacylase cause cell surface expression of GPIAPs having acyl chain linked to inositol .
+"ERto- Golgi transport of GPIAPs is signiﬁ cantly affected in PGAP1 -defective cells, as described above, although the steady state levels of cell surface GPIAPs are not affected (71)."
+The abnormal GPIAPs on the cell surface are resistant to PIPLC (71).
+"Indeed, GPIAPs on lymphoblastoid cells derived from the affected individuals with homozygous p. Leu197del and "
+Compound heterozygous p. Pro92del and Lys308Asnfs*25 were completely resistant to PIPLC- mediated cleavage.  
+Inositoldeacylase activity of mutant PGAP1 can be measured by determining PIPLC sensitivity of GPIAPs after transfection into PGAP1 -defective CHO cells.  
+"PGAP1 cDNAs having each of these three mutations did not restore PIPLC sensitivity, indicating that they are null mutations.  "
+Heterozygous family members of the affected homozygous individuals are healthy carriers.
+It was demonstrated that GPIAPs on lymphoblastoid cells from the heterozygous family members are partially resistant to PIPLC (125).  
+"Therefore, inositoldeacylation activity in normal cells is not in excess and heterozygous null PGAP1 mutation causes haploinsufﬁ ciency.  "
+"There may be some biological meaning in this limited level of PGAP1 activity in cells, which should be clariﬁ ed by further investigation.  "
+"These studies with individuals with PGAP1 deﬁ ciency demonstrated that PGAP1 nullizygosity is compatible with life, but mainly affects functions of neuronal cells, causing clinical phenotypes such as intellectual disability, developmental delay, encephalopathy, cerebral visual impairment, and hypotonia, but rarely seizures.  "
+It is likely that slowed transport of GPIAPs from the ER might be related to neuronal abnormalities seen in individuals with PGAP1 mutations.  
+Other possible harmful effects of unremoved inositollinked acyl chain might be that interactions with putative GPIbinding proteins are affected and that inositol-acylated GPIAPs are resistant to shedding by some GPIcleaving enzyme .  
+These possibilities need to be investigated.  
+Comparison with Pgap1knockout and Pgap1mutant mice Pgap1 -knockout mice were generated by homologous recombination in the C57BL/6 strain (130).
+Most homozygous mice had abnormal head development and died in the perinatal period.  
+"The abnormal phenotypes ﬁ t with otocephaly, which is characterized by agnathia (absence of the lower jaw)."
+"A study with a naturally occurring mutant mouse strain with forebrain abnormality, termed oto for otocephaly, revealed the mutated gene was Pgap1 (131).  "
+"Yet another mutant mouse strain generated by chemical mutagenesis showing holoprosencephaly, a forebrain abnormality, was termed beaker (bkr) and was shown to have a mutation in Pgap1 (18).  "
+These phenotypes of Pgap1 - defective mice are apparently much stronger than those of human individuals with PGAP1 -null mutations who do not have gross abnormality in the forebrain.  
+"It was reported that holoprosencephaly was seen in C56BL/6 Pgap1 bkr , whereas 129S1 Pgap1 bkr mice had normal morphology, indicating that forebrain phenotype is dependent upon genetic backgrounds (18)."
+This is perhaps relevant to a lack of morphological forebrain abnormality in human individuals with PGAP1 mutations.  
+Male Pgap1 -knockout mice were infertile (130).
+"Sperm from Pgap1 -knockout mice did not migrate efﬁ ciently from uterus to oviduct after mating, and they did not adhere to zona pellucida of oocytes in vitro."
+These phenotypes are shared with several other mutant mice with male infertility.
+"In particular, sperm from angiotensin converting enzyme (Ace)-knockout and germ cellspeciﬁ c GPIAP (Tex101)-knockout mice have similar phenotypes (12, 15).  "
+"ACE is a dualspeciﬁ city enzyme having a carboxydipepti- dase activity necessary for converting angiotensinogen to angiotensin, and a GPIcleaving activity independent of the carboxydipeptidase activity (12).  "
+"Ace is involved in disappearance of Tex101 from sperm during maturation, most likely through its GPIcleaving activity, and the Tex101 disappearance is necessary for sperm to gain fertility (15)."
+"It is tempting to speculate that Tex101 on Pgap1 - knockout sperm, presumably bearing inositollinked acyl chain, is resistant to Acemediated cleavage/disappearance."
+Whether GPIcleaving activity of Ace against Tex101 is causally related to infertility of Pgap1 -knockout sperm needs to be investigated.  
+"UNIQUE STRUCTURES IN YEAST GPI ANCHORS The basic structure of GPI in S. cerevisiae is similar to that found in mammals and other species, while its sidechain structure and lipid moiety are unique to yeast."
+"In addition to the core structure, yeast GPI contains two additional Men ( Fig. 5 ).  "
+"One Man (Man4) is transferred from DolP- Man to Man3 via a (cid:2) 1,2 linkage during GPI biosynthesis in the ER by the GPI mannosyltransferase 4, Smp3p (132).  "
+"Different from the mammalian GPI biosynthetic pathway, addition of Man4 is essential for the later steps of GPI biosynthesis ( Table 2 ), and is particularly required for transfer of the terminal EtNP by GPIEtNP transferase 2, a complex of Gpi13p and Gpi11p.  "
+"Another Man (Man5) is added to Man4 via a (cid:2) -1,2 or (cid:2) 1,3 linkage by an unidentiﬁ ed enzyme (6, 133).  "
+"The reaction is carried out in the Golgi apparatus after GPI attachment to proteins, likely via GDPMan."
+The functional signiﬁ cance of Man5 is still unclear.
+The lipid moiety of mature yeast GPIAPs consists of either diacylglycerol containing a very long chain fatty acid 
+[hexacosanoic (C26:0) acid] at the sn 2 position or ceramide containing phytosphingosine with a very long chain (C26:0) fatty acid (134).  
+"The fatty acyl chains in both diacylglycerol and ceramide GPIAPs are sometimes hydroxylated (135, 136)."
+"Ceramide structures in GPI anchors are also observed in other species, such as Aspergillus fumigatus, Trypanosoma cruzi, Dictyostelium discoideum, and pear plants (1)."
+"Similar to mammalian GPI, the glycan and lipid moieties are remodeled after GPI attachment to proteins in yeast.  "
+LIPID REMODELING OF GPIAPs IN YEAST The major PI species in yeast are 1palmitoyl (C16:0)-2oleoyl (C18:1)-PI and 1palmitoyl (C16:0)-2palmitoleoyl (C16:1)-PI (137).  
+GPI is synthesized from such conventional PI species.  
+"In an early step of GPI biosynthesis, GlcNPI is converted to GlcN-(acyl)PI.  "
+The acylation is Biosynthesis of GPIanchored proteins 15 Fig. 
+5.  Remodeling of GPI anchors in yeast S. cerevisiae.  
+GPI is synthesized in the ER and transferred to proteins by the GPItransamidase (GPITA) complex.
+"After GPIattachment to proteins, an acylchain linked to inositol is eliminated by Bst1p."
+"Then, an unsaturated fatty acyl chain in the sn 2 position is removed by Per1p, and a very long saturated (C26:0) fatty acid is reacylated to the position by Gup1p."
+C26fatty acylCoA is used as the substrate.
+Many fractions of lipid moieties in GPI anchors are further exchanged from diacylglycerol types to ceramide types.
+The reaction is mediated by Cwh43p.
+The substrate for the ceramide remodeling is not clear.
+A sidechain EtNP attached to Man1 is removed from some fractions of GPI anchors by Cdc1p.
+"It remains unclear which GPIAPs are recognized as the substrates for Cdc1p; whereas, the experimental data suggest that GPI anchors having diacylglycerol types might be the preferential substrates (155)."
+A sidechain EtNP attached to Man2 is removed by Ted1p.
+The reaction is important for association of GPIAPs with a transport adaptor protein p24 complex.
+The order of the reactions mediated by Cdc1p and Ted1p is not known.
+"After GPIAPs are transported to the Golgi, additional Man is transferred to the Man4 with (cid:2) 1,2 or (cid:2) 1,3 linkage by unidentiﬁ ed enzymes."
+"On the cell surface, many of GPIAPs are cleaved and crosslinked to (cid:4) 1,6 glucans on the cell wall."
+Dfg5p and Dcw1p are involved in the cell wall anchorage of GPIAPs.
+"PM/CW, plasma membrane/cell wall."
+"pG1, PI containing a C26fatty acid at the sn 2 position.  Mediated by Gwt1p, a yeast homolog of PIGW, as described above (86)."
+"After GPI is attached to proteins, the inositol acylchain is eliminated by bypass of Sec13 (Bst)1p, a yeast homolog of PGAP1 (71)."
+"Subsequently, GPI fatty acid remodeling is carried out in the ER (134, 138, 139)."
+"This is different from mammalian cells, where fatty acid remodeling mainly occurs in the Golgi (140) (Figs. 4, 5 ; Table 2).  "
+"First, a yeast PGAP3 homolog, Per1p, eliminates an unsaturated fatty acid in the sn 2 position of GPI anchors (141).  "
+"Then, C26:0, a very long chain fatty acid, is reacylated to lysoGPI by Gup1p, an MBOAT family member (142)."
+"Instead, PGAP2 is involved in GPI acylation in mammalian cells, as described above (80).  "
+"The Nterminal region of yeast Cwh43p shares homology with PGAP2 (143, 144).  "
+"However, Cwh43p has an additional Cterminal domain consisting of about 700 amino acids, which shares characteristics with endonuclease, exonuclease, and phosphatase proteins."
+"The C domain is also observed in inositol phosphosphingolipid-speciﬁ c phospholipase C, Isc1p, and the phosphatidylinositide 5phosphatases, Inp51/52/53/54p.  "
+"In cwh43 (cid:7) cells, GPI with diacylglycerol consisting of a very long chain fatty acid at the sn 2 position was accumulated and ceramide type GPI anchors were completely lost, suggesting that Cwh43p is required for ceramide remodeling of GPI anchors (Fig. 5 ; Table 2) (143, 144)."
+The substrate for ceramide remodeling is not clear.
+"Interestingly, yeast lacking all known ceramide synthases still make almost normal ceramidetype GPI anchors, whereas yeast lacking Ser palmitoyltransferase do not produce ceramidetype GPI anchors (145)."
+"Therefore, it is possible that there is an unidentiﬁ ed pathway used to produce ceramide that is preferentially incorporated into GPI anchors."
+"Two models have been proposed to describe the lipid remodeling pathway of GPI anchors in yeast, the sequential pathway and the divergent pathway (143, 144).  "
+"In the former model, PI moieties in GPI anchors are sequentially modiﬁ ed from conventional PI to lysoPI, then a C26:0 fatty acid chain is added at the sn 2 position (pG1) to ﬁ nally generate inositolphospho-ceramides (IPCs).  "
+"The divergent pathway model involves lysoPI generated by the reaction of Per1p as a substrate for two separated reactions by Gup1p and Cwh43p, generating pG1type and IPCtype GPI TABLE 2.  "
+Differences in GPI biosynthesis/remodeling in mammals and yeast Reaction Mammals Yeast PI remodeling Man4 addition by PIGZ/
+SMP3
+Not essential Fatty acid remodeling Man1linked EtNPside chain Diacyl PI to alkylacyl/diacyl PI Reaction in Golgi by PGAP3 and PGAP2 Reaction in ER by Per1p and Gup1p Present in GPIAP Removed in ER by Cdc1p
+"Diacyl PI to ceramide by Cwh43p Essential 16 Journal of Lipid Research Volume 57, 2016 anchors, respectively."
+"According to a recent study, the sequential pathway is the main pathway for lipid remodeling, but direct conversion pathways from conventional PI and lysoPI in GPI anchors to IPCs likely exist (146).  "
+"REMODELING OF SIDECHAIN EtNPs ON GPIGLYCAN IN YEAST During GPI biosynthesis in yeast, three EtNPs are added to the GPI structure, similar to what occurs in mammalian cells.  "
+"PE seems to be used as the donor substrate (147, 148).  "
+"Mcd4p, a complex of Gpi13p and Gpi11p, and a complex of Gpi7p and Gpi11p transfer EtNP to the 2position of Man1, the 6position of Man3, and the 6position of Man2, respectively."
+The EtNP on Man3 added by Gpi13p/Gpi11p is used for linking to proteins.
+"In yeast, two other sidechain EtNPs seem to be important for the regulation of GPI lipid remodeling, GPIAP transport and cell wall localization.  "
+MCD4 is an essential gene because the presence of EtNP on Man1 in the GPI intermediate is critical for the subsequent mannosylation (addition of Man3) by Gpi10p (149).
+"However, the essentiality of MCD4 is cancelled by overexpression of Trypanosoma brucei GPI10, which does not require the sidechain EtNP for substrate recognition (150)."
+Incorporation of ceramide into GPI was impaired in mcd4 (cid:7) /
+T.  Brucei GPI10 mutant cells.
+"In gpi7 mutant cells, ceramide remodeling was also partially impaired (151).  "
+"GPI7 is a nonessential gene, but the mutant showed cell wall defects and growth and cell separation deﬁ ciencies at high temperature (151, 152).  "
+"This might be due to a GPI anchoring inefﬁ ciency, defects in ceramide remodeling and/or slow transport of GPIAPs."
+"These results suggest that ceramide remodelase, Cwh43p, recognizes sidechain EtNPs on Man1 and Man2 in GPI anchors.  "
+"Recently, genes involved in the removal of sidechain EtNPs from GPIAPs were identiﬁ ed in yeast."
+"Both TED1 and CDC1 are homologs of mammalian PGAP5, which is required for the removal of a sidechain EtNP from the Man2 in the GPI anchors (Table 2) (72)."
+"The ted1 (cid:7) mutant cells showed delayed ERto-Golgi transport of a GPIAP, Gas1p (153), but the effect was rescued by mutation in GPI7, suggesting that Ted1p functions as an enzyme required for removal of an EtNP from Man2 similar to PGAP5 (Fig. 5) (154)."
+"The elimination of the sidechain EtNP from Man2 by Ted1p is critical for recognition by the p24 complex (Emp24p, Erv25p, Erp1p, and Erp2p), transport adaptors for GPIAPs, as described below."
+"The other PGAP5 homolog, Cdc1p, is thought to remove a sidechain EtNP from Man1 (Fig. 5) (155)."
+This elimination occurs in a fraction of GPIAPs.
+"In contrast to ted1 (cid:7) mutant cells, transport of GPIAPs was almost normal in cdc1 mutant cells."
+"Instead, the reaction mediated by Cdc1p might be related to cell wall anchorage of GPIAPs, as described below.  "
+"YEAST GPIAP TRANSPORT FROM THE ER AND BST GENES After GPIAPs are synthesized in the ER, they are transported to the Golgi."
+"In yeast, GPIAPs are sorted into the speciﬁ c ERESs, segregated and transported to the Golgi with COPII vesicles distinct from those used for transport of other secretory proteins, such as Gap1p, Hxt1p, and ALP (156–158)."
+"Sorting of GPIAPs does not require COPII proteins, but structural remodeling of GPI is critical for ERto-Golgi transport (154, 158)."
+"Deletion of GPI remodeling genes, including BST1, PER1, GUP1, or TED1, causes delay in transport of GPIAPs from the ER to the Golgi (141, 142, 153, 159, 160)."
+"It is thought that the remodeled GPIAPs and ceramides, both of which possess a very long chain fatty acid, form speciﬁ c domains at the ER and are cooperatively sorted to the speciﬁ c ERESs (157, 158)."
+The GPIAPs preassembled at the ERESs are transported from the ER by COPII vesicles.  
+"Because GPIAPs are luminally localized and cannot interact with the COPII component directly, adaptors that link GPIAPs and COPII are required to ensure efﬁ cient transport.  "
+"Similar to mammalian cells, the yeast p24 protein complex acts as an adaptor for incorporation of GPIAPs into the COPII vesicles (161)."
+"It has been shown that the p24 proteins preferentially interact with lipidremodeled GPIAPs (157, 162, 163)."
+"Recently, it was shown that the p24 proteins possess a lectin activity which allows them to bind GPIglycan lacking sidechain EtNPs, the structure modiﬁ ed by Ted1p (154)."
+The cytosolic tails of p24 proteins are used for binding with COPII components.
+"Of the COPII components, members of the Sec24 protein family directly recognize the ER export signal in cargoes and cargo adaptors (164).  "
+"In yeast, there are three members of the Sec24 family: Sec24p, Lst1p, and Iss1p.  "
+"Lst1p recognizes the cytosolic region of p24 proteins (157, 165).  "
+"Consistent with this, Lst1p is required for efﬁ cient transport of GPIAPs (166).  "
+In vitro analysis suggests that Lst1p is used to produce COPII vesicles for packaging relatively large and/or clustered cargoes (167).
+"Because GPIAPs are clustered depending upon the types of lipids at the ERESs, usage of Lst1p is in line with the COPII formation for GPIAPs.  "
+"Although the function of the yeast p24 complex is similar to that of mammals, there is a difference in their GPIAP sorting."
+"The yeast p24 complex is not involved in cargo concentration, but is recruited to preconcentrated GPIAPs that are already sorted into speciﬁ c ERESs in a lipiddependent manner (154, 156).  "
+"In contrast, mammalian p24 proteins are required for sorting of GPIAPs into the ERESs (73)."
+"Therefore, the yeast p24 complex functions as an “adaptor” that links GPIAPs and COPII; whereas, mammalian p24 proteins act as “cargo receptors” for GPIAPs to sort into the ERESs.  "
+The difference is caused by the lipid structures of GPIAPs in the ER between yeast and mammals.  
+"In mammalian cells, because proteinbound GPI at the ER contains PI bearing a sn 2linked unsaturated fatty acid and the GPI fatty acid remodeling occurs later in the Golgi, GPIAPs are not sorted by spontaneous interaction of lipids (140).  "
+"Protein parts anchored by GPI are localized in the lumen of the ER and are highly packed into the speciﬁ c ERESs, resulting in steric pressure on the lumen of the ER.  "
+This asymmetrical distribution confers opposing curvature on the membrane.  
+"Therefore, COPII vesicle formation Biosynthesis of GPIanchored proteins 17 from GPIAP-concentrated ERESs requires a strong force for the membrane to bend against the opposing curvature."
+"Sec13p, one of the COPII components, forms a complex with Sec31p to generate the outer layer of the COPII coat and increases the rigidity to drive membrane bending (168, 169)."
+"A gene encoding GPI inositol deacylase, BST1, was originally isolated as the responsible gene for the mutant that cancels the lethality of sec13 mutant yeast, called the BST gene (170).  "
+"From the same genetic screening, EMP24 (BST2) and ERV25 encoding p24 proteins were isolated as BST genes."
+"Through contentious and comprehensive analyses, it was revealed that PER1, GUP1, TED1, ERP1, ERP2, YGL024w, and ERV29 all function as BST genes in addition to BST1, "
+"EMP24, and ERV25 (169, 171)."
+All genes except YGL024w and ERV29 encode proteins that are required for GPIAP remodeling and transport (Fig. 5).  
+"Without Sec13p, COPII could not obtain sufﬁ cient rigidity to drive membrane bending against GPIAP-enriched domains (163).  "
+"From the analysis of mutations of genes involved in GPIAP remodeling, it was concluded that GPIAPs are not concentrated or sorted at the ERESs.  "
+"Thus, COPII vesicles are formed without Sec13p, which would bypass the lethality caused by the SEC13 gene mutation (169)."
+"These results also support the ideas that structural remodeling of GPIAPs and their lipiddependent sorting are critical for the efﬁ cient transport from the ER.  RELATIONSHIP BETWEEN GPI REMODELING AND CELL WALL ANCHORAGE The yeast cell wall consists of chitin, glucan, and mannan layers.  "
+GPIAPs are the major components of the mannan layer (172).  
+"After GPIAPs reach the plasma membrane, much yeast GPIAPs are further transported to the cell wall (Fig. 5)."
+"It is thought that the GPI moiety is cleaved between Man1 and GlcN, and is crosslinked to the (cid:4) 1,6 glucans in the cell wall (172, 173)."
+"Dfg5p and Dcw1p are putative mannosidases involved in the cell wall anchorage of GPIAPs (139, 174, 175)."
+It is still unclear whether the cleavage of GPI and its transfer to the cell wall occur in an onestep transglycosylation or in multiple separate reactions.  
+"To date, it is not clear which GPIAP molecules are transferred to the cell wall.  "
+The amino acid sequences near the GPI anchors inﬂ uence the localization of GPIAPs.
+"If two basic amino acids are located in the (cid:5) ((cid:8)) region (where the (cid:5) -site is the amino acid that is modiﬁ ed by GPI), then most proteins are retained in the plasma membrane (176–178)."
+"However, this consensus sequence might not be generalized.  "
+"Much yeast GPIAPs contain a Ser/ threoninerich region near the GPI anchors, which becomes O -mannosylated in most cases."
+The presence of the Ser/threoninerich region abolishes the effect of the basic amino acids to retain GPIAPs at the plasma membrane (179).  
+"Furthermore, some GPIAPs seem to be localized both at the plasma membrane and the cell wall.  "
+"Analysis of cdc1 mutant cells led to the hypothesis that GPIAPs bearing a diacylglyceroltype GPI containing an 18 Journal of Lipid Research Volume 57, 2016 very long chain fatty acid and lacking the sidechain EtNPs are efﬁ ciently anchored to the cell wall (Fig. 5)"
+(155).
+The cdc1 mutant cells showed defects in their cell wall.  
+"Additionally, GPIAPs localized in the cell wall fraction were not always crosslinked with (cid:4) 1,6 glucans and were easily extracted, but were probably trapped in the meshwork of the cell wall in cdc1 mutant cells (155)."
+"When GPIAPs are crosslinked with (cid:4) 1,6 glucans on the cell wall, the hydroxyl group at the 1position of Man1 would form the glycosidic bond."
+"It is possible that persistence of the sidechain EtNP, which is linked to the 2position on Man1, interferes with the efﬁ cient transfer of GPIAPs onto the (cid:4) 1,6 glucans.  "
+"Alternatively, the removal of EtNP from Man1 by Cdc1p might be required for the correct cleavage of GPIAPs at the plasma membrane."
+"In cdc1 mutant cells, the amount of ceramidetype GPI was normal, but a 3- to 4fold accumulation of a type of diacylglycerol GPI containing a very long chain fatty acid was observed compared with wildtype cells (155).  "
+The reason why GPIAPs were trapped on the cell wall meshwork in cdc1 mutants might be because GPI cleavage occurred at an abnormal position to compensate for the cell wall defects in cdc1 mutants.  
+"Although these hypotheses and ideas, where Cdc1p acts on diacylglyceroltype GPI anchors and the elimination of the EtNP somehow becomes the marker for GPIAPs to transfer to the cell wall, are very interesting, further work is required before conclusions can be made.  "
+INHIBITORS OF GPI BIOSYNTHETIC PATHWAYS GPIAPs are major components of the mannan layer in the yeast cell wall and are critical for cell wall integrity and cell adhesion in fungi.  
+"GPI biosynthesis is essential for yeast growth and virulence of infectious fungi (134, 180, 181)."
+"Therefore, the biosynthesis of GPI has the potential to be targeted for the development of antifungal agents.  "
+"To date, several inhibitors targeting GPI have been reported."
+Treatment of mannosamine appears to block the addition of Man3 to the GPI precursor in both mammalian cells and African trypanosomes (182–184).  
+"The Ser protease inhibitor, PMSF, and diisopropyl ﬂ uorophosphate block the GPI inositol acylation in African trypanosomes; whereas, PMSF does not affect mammalian GPI biosynthesis (185, 186)."
+It is not known whether PMSF can inhibit yeast GPI biosynthesis.  
+"However, these inhibitors are not speciﬁ c for GPI biosynthesis."
+"In contrast, a terpenoid lactone, YW3548, which is a metabolite from Codinea simplex, was reported to be an inhibitor of the GPI biosynthetic pathway (187)."
+The compound seems to speciﬁ cally inhibit GPI biosynthesis.
+YW3548 inhibits the step where EtNP is added to Man1 in the GPI precursor by yeast Mcd4p and mammalian PIGN (78).
+"Although YW3548 is a very good tool to analyze GPI biosynthesis, it cannot be applied as an antifungal reagent.  "
+"Another inhibitor for GPI biosynthesis, 1-[4butylbenzyl]isoquinoline (BIQ), has also been reported."
+"BIQ blocks the GPI inositol acylation mediated by yeast Gwt1p (86, 188)."
+"Furthermore, using BIQ as a starting point, a new compound, E1210, was found to have improved antifungal activity (189)."
+"E1210 is a broad spectrum antifungal agent against different pathogenic fungi, including Candida, Aspergillus, Fusarium, and Scedosporium species (190–193).  "
+"Importantly, the compound seems to be fungal speciﬁ c and does not inhibit mammalian GPI inositol acylase PIGW activity (194).  "
+"In vivo efﬁ cacy of this agent has been demonstrated after oral administration in a murine model against candidiasis, aspergillosis, and fusariosis (189, 195).  "
+"Another group reported that a different compound, gepinacin, also inhibited Gwt1p activity (196)."
+"There are several differences in GPI biosynthesis and remodeling between mammalian cells, fungi, and protozoan parasites.  "
+"Therefore, development of inhibitors focusing on this pathway may prove useful as antifungal and antiprotozoan agents.  "
+FUTURE PERSPECTIVE There are a number of outstanding issues to be clariﬁ ed in the biosynthetic pathway of mammalian GPIAPs (1).  
+Genes involved in generation of the SiaGal (cid:4) 3GalNAc (cid:4) 4 side branch linked to Man1 are not identiﬁ ed and biological functions of this side branch and the Man4 side branch found in some GPIAPs are totally unknown (2).
+Mechanisms of ﬂ ip of GlcNPI from cytoplasmic face to luminal face in the ER needs to be clariﬁ ed (3).
+"Biological functions and enzymatic mechanisms of GlcN-(acyl)PI lipid remodeling, in which the diacyl form is remodeled to a mixture of 1alkyl-2acyl and diacyl forms in the ER, await clariﬁ cation (4)."
+Quality control of GPIAP biosynthesis includes coordination of protein folding and remodeling of the GPI moiety before exit from the ER.
+There might be additional mechanisms in GPIAP quality control that are not involved in that of other secretory proteins.
+Elucidation of these and other outstanding issues should contribute to mechanistic understanding of disorders caused by defective GPIAP biosynthesis.  
+"Studies with yeast have led to clariﬁ cation of genetic, biochemical, and cell biological mechanisms of GPIAP biosynthesis."
+There are several issues yet to be clariﬁ ed in yeast
+GPIAP biosynthesis.
+"The exact mechanisms of GPI lipid remodeling that generate diacyl and ceramide forms of GPIAPs need to be clariﬁ ed, as does the biological signiﬁ cance of the two forms of lipid moiety ."
+Understanding these issues should contribute to developing effective measures to control fungal diseases and novel protein biotechnology.

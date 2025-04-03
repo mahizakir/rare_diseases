@@ -1,0 +1,429 @@
+"ARTICLE Lessons Learned from LargeScale, FirstTier Clinical Exome Sequencing in a Highly Consanguineous Population Dorota Monies,1,2,3"
+"Mohammed Abouelhoda,1,2,3,52 Mirna Assoum,3,52 Nabil"
+"Moghrabi,1,2,3,52 Raﬁullah,3,52 Naif Almontashiri,4,52 Mohammed Alowain,5,52 Hamad Alzaidan,5,52 Moeen Alsayed,5,52 Shazia Subhani,1,2,3,52 Edward Cupler,6 Maha Faden,7 Amal Alhashem,8"
+"Alya Qari,5"
+"Aziza Chedrawi,9"
+"Hisham Aldhalaan,9 Wesam Kurdi,10 Sameena Khan,9 Zuhair Rahbeeni,5 Maha"
+"Alotaibi,7 Ewa Goljan,1,2,3"
+"Hadeel Elbardisy,3 Mohamed ElKalioby,2,3 Zeeshan Shah,1,2,3 Hibah Alruwaili,1,2,3 Amal Jaafar,1,2,3"
+"Ranad Albar,2 Asma Akilan,3 Hamsa Tayeb,1,2,3"
+"Asma Tahir,1,2,3"
+"Mohammed Fawzy,1,2,3 Mohammed Nasr,1,2,3"
+"Shaza Makki,3 Abdullah Alfaiﬁ,11 Hanna Akleh,12 Suad Yamani,9 Dalal"
+"Bubshait,13"
+"Mohammed Mahnashi,14 Talal Basha,15 Afaf Alsagheir,16 Musad Abu Khaled,9"
+"Khalid Alsaleem,16"
+"Maisoon Almugbel,10 Manal Badawi,9 Fahad Bashiri,17 Saeed Bohlega,9 Raashida Sulaiman,5 Ehab Tous,9"
+"Syed Ahmed,21 Talal Algouﬁ,21 Hamoud AlMousa,22 Emadia Alaki,22 Susan Alhumaidi,23"
+"Malak Althagaﬁ,2,3 Hadeel Alghamdi,15 (Author list continued on next page)"
+"We report the results of clinical exome sequencing (CES) on >2,200 previously unpublished Saudi families as a ﬁrsttier test."
+The predominance of autosomalrecessive causes allowed us to make several key observations.
+"We highlight 155 genes that we propose to be recessive, diseaserelated candidates."
+"We report additional mutational events in 64 previously reported candidates (40 recessive), and these events support their candidacy."
+We report recessive forms of genes that were previously associated only with dominant disorders and that have phenotypes ranging from consistent with to conspicuously distinct from the known dominant phenotypes.
+We also report homozygous lossof-function events that can inform the genetics of complex diseases.
+"We were also able to deduce the likely causal variant in most couples who presented after the loss of one or more children, but we lack samples from those children."
+"Although a similar pattern of mostly recessive causes was observed in the prenatal setting, the higher proportion of lossof-function events in these cases was notable."
+The allelic series presented by the wealth of recessive variants greatly expanded the phenotypic expression of the respective genes.
+"We also make important observations about dominant disorders; these observations include the pattern of de novo variants, the identiﬁcation of 74 candidate dominant, diseaserelated genes, and the potential conﬁrmation of 21 previously reported candidates."
+"Finally, we describe the inﬂuence of a predominantly autosomalrecessive landscape on the clinical utility of rapid sequencing (Flash Exome)."
+Our cohort’s genotypic and phenotypic data represent a unique resource that can contribute to improved variant interpretation through data sharing.
+"Introduction ically benign or even advantageous.4,5 Furthermore, the telltale sign of autozygosity, i.e., extended regions of homozygosity delimited by crossingover events that ‘‘shrink’’ the founder haplotype, is an additional advantage that makes the homozygous alleles of interest readily mappable.6"
+"It is not surprising, therefore, that Saudi Arabia, which has a consanguinity rate of >50% and a high fertility rate, represents a unique resource for the study of this phenomenon and for exploring its relevance both to basic human genetics and applied clinical genetics.2,7 Consanguinity is an ancient human practice that persists to this day in many parts of the world because of a multitude of incentives.1,2 A consanguineous loop renders the genomes of the offspring ‘‘autozygous’’ to an extent that correlates with the degree of haplotype sharing between the parents, and this is, in turn, a function of their degree of relatedness.3 Autozygosity is a rich source of homozygous alleles, the phenotypic expression of which spans the entire spectrum from embryonic lethal to clin1Department of Genetics, King Faisal Specialist Hospital and Research Centre, Riyadh 11211, Saudi Arabia; 2Saudi Human Genome Program, King Abdulaziz City for Science and Technology, Riyadh 12354, Saudi Arabia; 3Saudi Diagnostic Laboratories, King Faisal Specialist Hospital and Research Centre, Riyadh 11211, Saudi Arabia; 4Clinical Molecular and Biochemical Genetics, Taibah University, Madinah 42353, Saudi Arabia; 5Department of Medical Genetics, King Faisal Specialist Hospital and Research Centre, Riyadh 11211, Saudi Arabia; 6Neurosciences Department, King Faisal Specialist Hospital and Research Centre, Jeddah 23433, Saudi Arabia; 7 Genetics and Metabolism, King Saud Medical Complex, Riyadh 12746, Saudi Arabia; 8 Pediatrics Department, Prince Sultan Military Medical Complex, Riyadh 12233, Saudi Arabia; 9Neurosciences Department, King Faisal Specialist Hospital and Research Centre, Riyadh, 11211, Saudi Arabia; 10 Obstetrics and Gynecology Department, King Faisal Specialist Hospital and Research Centre, Riyadh 11211, Saudi Arabia; 11 Pediatrics Department, Security Forces Hospital, Riyadh 11481, Saudi Arabia; 12Academic and Training Affairs, King Faisal Specialist Hospital and Research Centre, Riyadh 11211, Saudi Arabia; 13 Pediatrics Department, King Fahad Hospital of the University, AlKhobar 31952, Saudi Arabia; 14 Genetics and Medicine, King Fahd Central Hospital, Gizan 82666, Saudi Arabia; 15 Pediatrics Department, King Faisal Specialist Hospital and Research Centre, Jeddah 23433, Saudi Arabia; 16 Pediatrics Department, King Faisal Specialist Hospital and Research Centre, Riyadh 11211, Saudi Arabia; 17Department of Pediatrics, College (cid:1)"
+2019 American Society of Human Genetics.
+1182
+"The American Journal of Human Genetics 104, 1182–1201, June 6, 2019 (Afﬁliations continued on next page) "
+"Malak Alghamdi,23 Ahmed Sahly,16 Shapar Nahrir,23 Ali AlAhmari,21,49 Hisham Alkuraya,24 Ali"
+"Almehaidib,25"
+"Mohammed Abanemai,25 Fahad Alsohaibaini,25 Bandar Alsaud,22 Rand Arnaout,22 Ghada M.H. AbdelSalam,26 Hasan"
+"Aldhekri,16"
+"Suzan AlKhater,13,50 Khalid Alqadi,9 Essam Alsabban,16 Turki Alshareef,27 Khalid Awartani,10"
+"Hanaa Banjar,28"
+"Nada Alsahan,10 Ibraheem Abosoudah,29"
+"Abdullah Alashwal,30 Wajeeh Aldekhail,25"
+"Sami Alhajjar,31 Sulaiman AlMayouf,16 Abdulaziz Alsemari,9 Walaa Alshuaibi,32 Saeed Altala,33 Abdulhadi Altalhi,34 Salah Baz,9 Muddathir Hamad,32 Tariq Abalkhail,9"
+"Badi Alenazi,35 Alya Alkaff,10 Fahad Almohareb,36 Fuad Al Mutairi,37,51 Mona"
+"Alsaleh,21 Abdullah Alsonbul,38 Somaya Alzelaye,39"
+"Shakir Bahzad,40 Abdulaziz Bin Manee,16 Ola Jarrad,16 Neama Meriki,18"
+"Bassem Albeirouti,41"
+"Amal Alqasmi,23 Mohammed AlBalwi,42 Nawal Makhseed,43 Saeed Hassan,32 Isam Salih,44 Mustafa A. Salih,17"
+"Marwan Shaheen,19 Saadeh Sermin,27 Shamsad Shahrukh,6 Shahrukh Hashmi,19"
+"Ayman Shawli,45"
+"Ameen Tajuddin,46 Abdullah Tamim,47 Ahmed Alnahari,20"
+"Ibrahim Ghemlas,21"
+"Maged Hussein,48 Sami Wali,8 Hatem Murad,9 Brian F. Meyer,1,2,3 and Fowzan S. Alkuraya1,2,49,* Efforts to exploit these unique characteristics have indeed revealed many important observations, not least of which was the discovery of many diseaserelated genes that were almost always recessive.8–11 However, those efforts had two key limitations."
+"First, the discovery of diseaserelated genes has largely been limited to speciﬁc phenotypes."
+"Such a selective approach, although helpful in uncovering phenotypespeciﬁc variants, is clearly inefﬁcient in achieving the goal of having all diseaserelated genes identiﬁed by 2020.12 Second, the ‘‘phenotypeﬁrst’’ approach risks missing affected individuals that have not been evaluated by experts in the delineation of that speciﬁc phenotype, individuals that have been adequately phenotyped but not enrolled in those phenotypespeciﬁc cohorts, and individuals that lack the typical phenotype."
+"Largescale sequencing of all individuals with genetic diseases by any clinician who has the clinical suspicion, even if he or she lacks the necessary phenotyping expertise, offers an attractive approach that circumvents the historical limitations outlined above."
+"Such a large scale ‘‘genomicsﬁrst’’ approach built on a central database was indeed the goal of the Saudi Human Genome Program, in order to exploit the unique characteristics of the Saudi population to the fullest extent possible.13"
+"However, it became quickly apparent that most clinicians were much more interested in clinical testing than researchbased testing of their patients."
+"Therefore, we launched a program of clinical exome sequencing (CES).14 The recent decision by the Ministry of Health to cover the cost of CES as a standard clinical test allowed clinicians from around the country to order this as a ﬁrsttier test on any individual with a suspected genetic diagnosis."
+"Combined with the fact that all CES tests were run by a central lab, this presented an unprecedented opportunity to create the most comprehensive view to date of clinically relevant variants across the entire spectrum of genetic diseases in a highly consanguineous population."
+Material and Methods Study Population Informed consent was obtained from all affected individuals (or their legal guardians) as a strict requirement prior to CES.
+"The of Medicine and King Khalid University Hospital, King Saud University, Riyadh 11461, Saudi Arabia; 18Maternal and Fetal Medicine, King Khalid University Hospital, Riyadh 12372, Saudi Arabia; 19Hematology and Bone Marrow Transplant, King Faisal Specialist Hospital and Research Centre, Riyadh 11211, Saudi Arabia; 20Pediatric Department, King Fahad Central Hospital, Gizan, 82666, Saudi Arabia; 21Pediatric Hematology and Oncology, King Faisal Specialist Hospital and Research Centre, Riyadh 11211, Saudi Arabia; 22Allergy - Immunology, King Faisal Specialist Hospital and Research Centre, Riyadh 11211, Saudi Arabia; 23 Pediatrics Department, King Saud Medical City, Riyadh 12746, Saudi Arabia; 24Vitreoretinal Surgery, Specialized Medical Centre, Riyadh 11564, Saudi Arabia; 25Gastroenterology, King Faisal Specialist Hospital and Research Centre, Riyadh 11211, Saudi Arabia; 26Department of Clinical Genetics, National Research Centre, Cairo 12622, Egypt; 27Pediatric Nephrology, King Faisal Specialist Hospital and Research Centre, Riyadh 11211, Saudi Arabia; 28Pediatric Pulmonology, King Faisal Specialist Hospital and Research Centre, Riyadh 11211, Saudi Arabia; 29Pediatric Hematology and Oncology, King Faisal Specialist Hospital and Research Centre, Jeddah 23433, Saudi Arabia; 30Pediatric Endocrine and Metabolism, King Faisal Specialist Hospital and Research Centre, Riyadh 11211, Saudi Arabia; 31Pediatric Infectious Diseases, King Faisal Specialist Hospital and Research Centre, Riyadh 11211, Saudi Arabia; 32 Pediatrics Department, King Khalid University Hospital, Riyadh 12372, Saudi Arabia; 33 Pediatrics Department, Armed Forces Hospital, Khamis Mushait 62451, Saudi Arabia; 34Pediatric Nephrology, King Saud Medical City, Riyadh 12746, Saudi Arabia; 35 Pediatrics Department, Alyamama Hospital, Riyadh 14222, Saudi Arabia; 36Oncology Center, King Faisal Specialist Hospital and Research Centre, Riyadh 11211, Saudi Arabia; 37King Abdullah International Medical Research Centre, King Saud Bin Abdulaziz University for Health Sciences, Riyadh 11564, Saudi Arabia; 38Pediatric Rheumatology, King Faisal Specialist Hospital and Research Centre, Riyadh 11211, Saudi Arabia; 39Pediatric Endocrine and Diabetes, Al Qunfudah General Hospital, Al Qunfudhah 28821, Saudi Arabia; 40Kuwait Medical Genetics Center, Kuwait City 65000, Kuwait; 41Hematology and Oncology, King Faisal Specialist Hospital and Research Centre, Jeddah 23433, Saudi Arabia; 42Department of Pathology and Laboratory Medicine, King Saud bin Abdulaziz University for Health Sciences, King Abdullah International Medical Research Center, King Abdulaziz Medical City, Riyadh 11426, Saudi Arabia; 43 Pediatrics Department, Alsoor Clinic, Kuwait City 65000, Kuwait; 44HepaticPancreatic Surgery, King Faisal Specialist Hospital and Research Centre, Riyadh 11211, Saudi Arabia; 45Department of Pediatrics, King Abdulaziz Medical City, Jeddah 9515, Saudi Arabia; 46Neurology, King Fahad Hospital, Medina 59046, Saudi Arabia; 47 Pediatrics Neurology, King Faisal Specialist Hospital and Research Centre, Jeddah 23433, Saudi Arabia; 48Nephrology Department, King Faisal Specialist Hospital and Research Centre, Riyadh 11211, Saudi Arabia; 49College of Medicine, Alfaisal University, Riyadh 11533, Saudi Arabia; 50Department of Pediatrics, College of Medicine, Imam Abdulrahman Bin Faisal University, Dammam 34221, Saudi Arabia; 51Medical Genetic Division, Department of Pediatrics, King Abdulaziz Medical City, Riyadh 14611, Saudi Arabia 52These authors contributed equally *Correspondence: falkuraya@kfshrc.edu.sa https://doi.org/10.1016/j.ajhg.2019.04.011."
+"The American Journal of Human Genetics 104, 1182–1201, June 6, 2019 1183 consent also covered the option to receive or not to receive ‘‘secondary ﬁndings’’ deﬁned as (1) ACMG (American College of Medical Genetics and Genomics) secondary ﬁndings15 and (2) carrier status for a predeﬁned list of ‘‘known Saudi mutations (KSMs).’’16 Venous blood samples collected in EDTA tubes were collected in the majority of instances for DNA extraction."
+"For prenatal testing, DNA was extracted from chorionic villous or amniotic ﬂuid samples."
+"Where family history was negative, clinicians were encouraged to consider trio CES, although the choice was also given to only request CES on the index individual and then to run a Sanger test of segregation."
+"Similarly, clinicians were given the choice between ordering CES on multiple affected members or to request a Sanger segregation test."
+"For molecular autopsy by proxy (see below), samples were obtained from both parents of the deceased child(ren)."
+"Phenotypic data were provided as part of a standard paper form, although clinicians were encouraged to use free text to describe additional useful information."
+This study was approved by the local institutional review board (IRB) (KFSHRC RAC # 2181266).
+"Exome Sequencing and Variant Interpretation and Conﬁrmation For standard CES, we used the same protocol described before.14 Positional mapping was always incorporated in the pipeline regardless of the family history, as described before.14 All indel variants and only single basepair substitutions that fell below our predetermined quality threshold were conﬁrmed by Sanger sequencing, as described before.14 We also offered rapid exome sequencing with a turnaround time of <48 h (Flash Exome) as per the protocol shown in Figure S1."
+We used the ACMG guidelines for variant interpretation17 to classify the outcome of CES into three categories: allele frequency (MAF) > 0 in the Saudi population or that are present in two affected individuals who are not directly related but share the same haplotype and phenotype.
+"Results The Diagnostic Yield of CES As A FirstTier Test Across Genetic Disorders in a Highly Consanguineous Population A total of 3,310 CES tests were performed on 2,219 families (1,653 solo, 127 duos, 370 trios, 58 quads, and 11 others [ﬁve or more]) (Table S1)."
+"The majority (1,653 families) had index-only CES, although 566 families had duo, trio, quad, or other combinations (Figure 1)."
+The empowerment of clinicians from all specialties to request CES as a ﬁrsttier test for individuals with any suspected genetic disease was key to the resulting diversity of clinical indications and ordering specialties (Table S1).
+This is further highlighted by the observation that nearly half of the requested tests were ordered by nongeneticists (Figure 1).
+"As shown in Table S1 and Figure 1, the phenotypes included dysmorphic, neurodevelopmental, neuromuscular, neurodegenerative, cardiac, ophthalmologic, renal, gastrointestinal, dermatologic, audiologic, hematological, surgical, prenatal, and even pharmacogenetic phenotypes."
+"Although we did not include any CES of cancer tissues, several individuals were referred in order to rule out hereditary cancer syndromes (Table S1)."
+"The overall diagnostic yield of CES based on ‘‘solved’’ cases only was 43.3% (961 out of 2,219)"
+(Figure 1).
+(1) Solved: instances of individuals in which we identiﬁed pathogenic or likely pathogenic variants that explain the clinical indication in the expected zygosity.
+"In the case of molecular autopsy by proxy for a suspected recessive phenotype in the deceased child(ren), both parents had to have, in the same gene, a pathogenic or likely pathogenic variant that explains the phenotype."
+"(2) Ambiguous: these include instances of individuals with (1) a monoallelic pathogenic or likely pathogenic gene variant that explains a recessive phenotype, (2) a variant of unknown signiﬁcance (VUS) that is in an established disease-related gene and that explains the phenotype, whether it is present in the expected zygosity for the disease, or (3) a VUS in a candidate gene."
+The variants in the latter category were carefully chosen to qualify as much as possible as pathogenic or likely pathogenic if the gene were established in the Online Mendelian Inheritance in Man (OMIM) database.
+"In addition, only genes with compelling biological candidacy (special emphasis was made on animal models, but other lines of evidence were also pursued) were highlighted."
+(3) Negative: all other instances.
+"Segregation analysis was strongly encouraged, and we only report variants for which segregation analysis was either consistent with the presumed link to the disease or unavailable; all other variants that failed the segregation test were removed."
+"Founder variants were deﬁned as variants that are observed with a minor for account The Landscape of DiseaseRelated Variants in a Highly Consanguineous Population By only considering the ‘‘solved’’ category, we show that autosomalrecessive variants the overwhelming majority (742 out of 961, 77.2%) of variants, and they were usually (730 out of 742, 98.4%) homozygous (Figure 1)."
+"Founder variants accounted for 405 (41.3%), and the remaining 575 variants (58.7%) can be considered private."
+"Dominant variants were observed in 20% of the solved instances (192 out of 961), 25% (48 out of 192) of which were proven to be de novo, whereas parental samples were not available for the rest."
+"On the other hand, only 3.9% (37 out of 961) of the instances were Xlinked (Figure 1)."
+Please note that the number of pathogenic or likely pathogenic variants (980) is larger than the number of solved instances (961) due to the presence of a few multilocus phenotypes (see below).
+"In total, we add to the literature 378 pathogenic or likely pathogenic variants not previously reported (Table S1)."
+"We also estimate the likelihood of carrier status for a predeﬁned list of known Saudi mutations (KSMs, identiﬁed through our prior work on the local population), excluding variants related to the clinical indication, as follows: among the 1,653 simplex cases from this study, 498 individuals (30.1%) carried one KSM, 162 (9.8%) carried two KSMs, 1184 The American Journal of Human Genetics 104, 1182–1201, June 6, 2019, Figure 1."
+Summary of the Study Cohort Characteristics (A) Age distribution.
+(B) Family history.
+(C) Testing strategy.
+(D) Ordering specialty.
+(E) Primary indication (prenatal in this ﬁgure includes individuals who presented for testing for carrier status).
+(F) ACMG classiﬁcation of variants.
+(G) Mendelian patterns of pathogenic and likely pathogenic variants.
+(H) Multilocus phenotypes.
+"39 (2.4%) carried three KSMs, 11 (0.7%) carried four KSMs, and one (0.06%) carried ﬁve KSMs (Figure S2)."
+"We also tested 1,006 parents and found (excluding the variants that are directly related to the condition in their tested children) that the percentage of parents who carry at least one KSM is 29.4% (19.8% carried one, 7.6% carried two, 1.7% carried three, and 0.3% carried four, which was the highest carrier status observed among parents)."
+"Furthermore, we asked whether the low percentage of multilocus phenotypes in our study (see below) can be explained by the low probability of shared parental carrier status for more than one KSM."
+"Indeed, by speciﬁcally interrogating couples, we found that of the 503 parental duos available to us, 49 (9.7%) shared one, and only 13 (2.6%) shared two KSMs, again after excluding the variants that are directly related to the condition in their tested child (Figure S2)."
+No couples shared more than two KSMs.
+"This is consistent with our observation that multilocus phenotypes (3.1% of solved instances, or 30 out of 961) comprised dual recessive diagnoses in less than half of the cases (13 out of 30) (Figure 1 and Table S3)."
+High Throughput Discovery of Candidate Genes Table S1 lists 236 genes that have no established OMIM phenotype and that we propose as candidate genes.
+"Not surprisingly, the majority (n ¼ 155) are recessive; many of them (n ¼ 51) predict loss of function, then dominant (n ¼ 74), and then Xlinked (n ¼ 7)."
+"The highest level of conﬁdence is given to 13 genes, which we observed had mutated independently in two families with a similar phenotype (Table 1)."
+"For example, we have identiﬁed two families affected by nonsyndromic intellectual disability, and each segregates a different homozygous truncating variant in ALKBH8 (MIM: 613306).18 A syndrome of skeletal dysplasia with cerebellar atrophy was similarly identiﬁed in two families, each segregating a different homozygous truncating variant in SMPD4 (MIM: 610457) (unpublished data)."
+Abnormal cortical development with associated intellectual disability and epilepsy segregated with a different homozygous truncating variant in TP73 (MIM: 601990) in each of the two affected families.
+Three families with suspected neuronal ceroid lipofuscinosislike illness (neurodegeneration with retinal involvement) were found to harbor two different candidate variants in USO1 (MIM: 603344).
+"Other genes found to harbor two different recessive, likely deleterious variants include EIF2A (MIM: 609234), ICE1 (MIM: 617958), IQSEC3 (MIM: 612118), SMG8 (MIM: 613175), and UNC5A (MIM: 607869)."
+"Multiple congenital anomalies syndromes were also observed in individuals who harbor independent heterozygous, likely deleterious variants in MOV10 (MIM: 610742) and RASIP1 (MIM: 609623)."
+The next level of conﬁdence is for genes where the animal model recapitulates the observed human phenotype.
+"For example, the severe, unexplained diarrhea in the child with a truncating variant in MYO1A (MIM: 601478) seems to be recapitulated by Myo1a knockout mice that have severe defects in the brush border of their intestine.19 The child who has brain malformation and a severe neurological phenotype and harbors a homozygous truncating variant in SCYL2 (MIM: 616365) is another example wherein the candidacy of the gene is strongly supported The American Journal of Human Genetics 104, 1182–1201, June 6, 2019 1185 Table 1."
+List of Candidate Genes with More Than One Mutational Event Identiﬁed in this Cohort ID Gene Variant(s)
+Zygosity Phenotype Justiﬁcation 171192 ALKBH8 GenBank: NM_001301010.1: c.1660C>T:p.
+Arg554Ter Hom Nonspeciﬁc intellectual disability with positive family history 176071 ALKBH8 GenBank: NM_001301010.1: Hom c.1794delC: p.
+Trp599GlyfsTer19 Nonspeciﬁc intellectual disability with positive family history 171025 EIF2A GenBank: NM_032025.4: c.649_650insT: p.
+"Ser217MetfsTer4 Hom Intellectual disability, ASD, and epilepsy 176950 EIF2A GenBank: NM_032025.4: c.1229A>C:p."
+Gln410Pro Hom Intellectual disability and intractable epilepsy 182383 ICE1 GenBank: NM_015325.2: c.3724G>T:p.
+"Asp1242Tyr Hom GDD, spasticity, optic atrophy, and brain atrophy REQ180816 ICE1 GenBank: NM_015325.2: c.603A>C:p."
+Lys201Asn Hom GDD and nonspeciﬁc brain atrophy 175039 IQSEC3 GenBank: NM_015232.1:
+c.1144G>A:p.
+Gly382Ser
+"Hom Speech delay, intellectual disability, ASD, and seizures (generalized tonic-clonic) 175139 IQSEC3 GenBank: NM_001170738.1: c.3340C>A:p."
+Leu1114Met Hom Cognitive and speech delay 1186
+"The American Journal of Human Genetics 104, 1182–1201, June 6, 2019 (1) The nature of the variant (predicted deleterious, within autozygome) and (2) the nature of the gene (this gene is involved in tRNA modiﬁcation, a process that is increasingly recognized as the core feature of a number of intellectual disability syndromes, most notoriously ADAT3related, which is one of the most common forms of intellectual disability in Arabia)."
+"(1) The nature of the variant (predicted deleterious, within autozygome) and (2) the nature of the gene (this gene is involved in tRNA modiﬁcation, a process that is increasingly recognized as the core feature of a number of intellectual disability syndromes, most notoriously ADAT3related, which is one of the most common forms of intellectual disability in Arabia)."
+"(1) The nature of the variant (predicted deleterious, within autozygome) and (2) the nature of the gene."
+This gene encodes a eukaryotic translation initiation factor that functions in the early steps of protein synthesis of a few speciﬁc mRNAs and is used for initiation at nonAUG codons (see PMID: 28982758).
+"(1) The nature of the variant (predicted deleterious, within autozygome) and (2) the nature of the gene."
+This gene encodes a eukaryotic translation initiation factor that functions in the early steps of protein synthesis of a few speciﬁc mRNAs and is used for initiation at nonAUG codons (see PMID: 28982758).
+"(1) The nature of the variant (predicted deleterious, within autozygome) and (2) the nature of the gene (ICE1 promotes a link between splicing and nonsensemediated mRNA decay [NMD]."
+Mutations in other NMDrelated genes result in neurodevelopmental disorders.
+See PMID: 29528287).
+"(1) The nature of the variant (predicted deleterious, within autozygome) and (2) the nature of the gene (ICE1 promotes a link between splicing and nonsensemediated mRNA decay [NMD]."
+Mutations in other NMDrelated genes result in neurodevelopmental disorders.
+See PMID: 29528287).
+"(1) The nature of the variant (predicted deleterious, within autozygome) and (2) the nature of the gene (IQSEC3 acts together with gephyrin to regulate inhibitory synapse development)."
+"(1) The nature of the variant (predicted deleterious, within autozygome) and (2) the nature of the gene (IQSEC3 acts together with gephyrin to regulate inhibitory synapse development)."
+(Continued on next page) Table 1.
+Continued ID Gene Variant(s)
+Zygosity Phenotype Justiﬁcation 170049-C MOV10 GenBank: NM_001130079.2: c.2101_2102insA: p. Ser701TyrfsTer18
+"Het Gross motor delay, IUGR, oligohydramnios, hepatosplenomegaly, and cholestasis 181423 MOV10 GenBank: NM_001130079.2:"
+Het c.2268_2269insTCGTGGA: p.
+"Val757SerfsTer32 Large patent ductus arteriosus, scoliosis, hemivertebrae, phocomelia, and omphalocele versus gastroschisis 172799 PLXNA3 GenBank: NM_017514.5: c.1997G>A:p."
+"Arg666His Hemi Epilepsy (generalized absence seizures), mild memory deﬁcits, and history of IUGR during pregnancy 181411 PLXNA3 GenBank: NM_017514.5: c.2623C>T:p."
+Arg875Trp
+"Hemi Intellectual disability, autistic features, and has a twin (181631) with same condition 176562 PTPN12"
+GenBank: NM_001131009.1: c.722C>A:p.
+"Pro241His Het GDD, failure to thrive, microcephaly, and epilepsy (1) The nature of the variant (predicted deleterious) and (2) the nature of the gene (PLI: 0.99)."
+Mov10 is a novel telomeraseassociated protein (see PMID: 19665004).
+"It was demonstrated that Mov10 is essential for gastrulation and for normal head, eye, and brain development (see PMID: 28662698)."
+"Consistent with the mouse model, knockdown of maternal Mov10 in Xenopus led to defects in gastrulation and the development of notochord and paraxial mesoderm and a failure to neurulate (see PMID: 29266590)."
+(1) The nature of the variant (predicted deleterious) and (2) the nature of the gene (PLI: 0.99).
+Mov10 is a novel telomeraseassociated protein (see PMID: 19665004).
+"It was demonstrated that Mov10 is essential for gastrulation and for normal head, eye, and brain development (see PMID: 28662698)."
+"Consistent with the mouse model, knockdown of maternal Mov10 in Xenopus led to defects in gastrulation and the development of notochord and paraxial mesoderm and a failure to neurulate (see PMID: 29266590)."
+(1) The nature of the variant (predicted deleterious) and (2) the nature of the gene (PLI: 0.98.
+"It was demonstrated that Plexin A3 is involved in semaphorin 3Fmediated oligodendrocyte precursor cell migration (see PMID: 23063687), contributes to Sema3F and Sema3A signaling, regulates the development of hippocampal axonal projections in vivo (see PMID: 11683995), mediates neuronal apoptosis during dorsal root ganglia development (see PMID: 19020035), and regulates motor axonal branch morphogenesis (see PMID: 23349787)."
+(1) The nature of the variant (predicted deleterious) and (2) the nature of the gene (PLI: 0.98).
+"It was demonstrated that Plexin A3 is involved in semaphorin 3Fmediated oligodendrocyte precursor cell migration (see PMID: 23063687), contributes to Sema3F and Sema3A signaling, regulates the development of hippocampal axonal projections in vivo (see PMID: 11683995), mediates neuronal apoptosis during dorsal root ganglia development (see PMID: 19020035), and regulates motor axonal branch morphogenesis (see PMID: 23349787)."
+(1) The nature of the variant (predicted deleterious in silico) and (2) the nature of the gene (pLI 0.99).
+"Mutations in other family members, e.g., PTPN23 and PTPN11, are identiﬁed in individuals with intellectual disability and other neurodevelopmental disorders (see PMID: 25558065, PMID: 29090338, and PMID: 28957739)."
+(Continued on next page)
+"The American Journal of Human Genetics 104, 1182–1201, June 6, 2019 1187 Table 1. Continued ID Gene Variant(s)"
+"Zygosity Phenotype Justiﬁcation (1) The nature of the variant (predicted deleterious, within autozygome) and (2) the nature of the gene (pLI 0.99)."
+"Mutations in other family members, e.g., PTPN23 and PTPN11, are identiﬁed in individuals with intellectual disability and other neurodevelopmental disorders (see PMID: 25558065, PMID: 29090338, and PMID: 28957739)."
+(1) The nature of the variant (predicted deleterious) and (2) the nature of the gene (PLI: 0.97).
+"RASIP1 is a dynamic EPAC1RAP1 signaling effector that controls actin bundling and restricts junction remodeling in vitro and in vivo, and it is required for stabilizing nascent patent blood vessels in both mice and zebraﬁsh (see PMID: 23886837)."
+"It was reported that the distribution of the intersegmental arteries plays a decisive role in the formation of the deﬁnitive vertebral body anlage during the stage of resegmentation and early chondriﬁcation, and any abnormal distribution of the arteries might induce malformations (see PMID: 6797230)."
+(1) The nature of the variant (predicted deleterious) and (2) the nature of the gene (PLI: 0.97).
+"RASIP1 is a dynamic EPAC1RAP1 signaling effector of that controls actin bundling and restricts junction remodeling in vitro and in vivo, and it is required for stabilizing nascent patent blood vessels in both mice and zebraﬁsh (see PMID: 23886837)."
+It was reported that the distribution of the intersegmental arteries plays a decisive role in the formation of the deﬁnitive vertebral body anlage during the stage of resegmentation and early chondriﬁcation and any abnormal distribution of the arteries might induce malformations (see PMID: 6797230).
+"(1) The nature of the variant (predicted deleterious, within autozygome) and (2) the nature of the gene (this is a nonsensemediated mRNA decay factor)."
+Mutations in the NMD complex have been shown to result in multisystem involvement (PMID: 27018474).
+Recessive inheritance was conﬁrmed by parental (175564 and 175565) wholeexome sequencing.
+An affected sibling (175566) is also homozygous for this variant.
+"(1) The nature of the variant (predicted deleterious, within autozygome) and (2) the nature of the gene (this is a nonsensemediated mRNA decay factor)."
+Mutations in the NMD complex have been shown to result in multisystem involvement (PMID: 27018474).
+(Continued on next page) 178496 PTPN12
+GenBank: NM_002835.3: c.228234A>T Hom GDD and nonspeciﬁc MRI ﬁndings 180081 RASIP1 GenBank: NM_017805.2: c.2325G>C:p.
+"Leu775Phe Het Microcephaly and ﬁbular hemimelia REQ181889 RASIP1 GenBank: NM_017805.2: Het c.1193_1196delATGT: p. Tyr398Ter Butterﬂy vertebrae, bilateral fused ribs, and diaphragmatic anomaly 175563 SMG8 GenBank: NM_018149.6: c.623A>G:p."
+"His208Arg Hom Microcephaly, intellectual disability, cataract, and neck hyperpigmentation REQ180840 SMG8 GenBank: NM_018149.6: c.437_438insA: p."
+"Ser146ArgfsTer13 Hom Growth retardation and/or short stature, microcephaly, ﬁne motor delay, ventricular septal defect, failure to thrive, and facial dysmorphism 1188"
+"The American Journal of Human Genetics 104, 1182–1201, June 6, 2019, Table 1. Continued ID Gene Variant(s)"
+Zygosity Phenotype Justiﬁcation 173980 SMPD4 GenBank: NM_001171083.2: c.147128_1477del
+"Hom Bilateral clenched hands and talipes, IUGR, partial absence of corpus callosum, and family history of three neonatal deaths with similar features 176035 SMPD4 GenBank: NM_017751.4: c.390_406del: p."
+"Pro131LeufsTer2 Hom Failure to thrive, ﬁne and gross motor delay, brain atrophy, syndactyly, hypoplasia of phalanges, and short metacarpal bones 174956 TP73 GenBank: NM_001126242.2: c.1163delT: p. Leu388HisfsTer151 Hom Lissencephaly and hypotonia 176638 TP73 GenBank: NM_001126240.2: c.847C>T: p. Gln283Ter"
+"Hom Fine and gross motor delay, speech delay, cleft lip and/or palate, cortical dysplasia, pachygyria, and strabismus 176690 UNC5A GenBank: NM_133369.2: c.1309C>T:p."
+"Arg437Ter Hom Failure to thrive, microcephaly, GDD, hearing loss, periventricular leukomalacia, and seizures (1) The nature of the variant (predicted deleterious, within autozygome) and (2) SMPD4, a bona ﬁde sphingomyelinase in the ceramide pathway, catalyzes the hydrolysis of membrane sphingomyelin to form phosphorylcholine and ceramide (PMID: 16517606)."
+"Interestingly, inactivation or knockout of another sphingomyelinase of the ceramide pathway, SMPD3, led to growth inhibition, apoptosis, retarded development, and ultimately to a lethal, autosomalrecessive form of osteogenesis imperfecta, skeletal malformations, dwarﬁsm, and severe chondrodysplasia as a result of the deﬁcient sphingomyelinase activity (PMID: 16025116 and PMID: 27882938)."
+"(1) The nature of the variant (predicted deleterious, within autozygome) and (2) SMPD4, a bona ﬁde sphingomyelinase in the ceramide pathway, catalyzes the hydrolysis of membrane sphingomyelin to form phosphorylcholine and ceramide (PMID: 16517606)."
+"Interestingly, inactivation or knockout of another sphingomyelinase of the ceramide pathway, SMPD3, led to growth inhibition, apoptosis, retarded development, and ultimately to a lethal, autosomalrecessive form of osteogenesis imperfecta, skeletal malformations, dwarﬁsm, and severe chondrodysplasia as a result of the deﬁcient sphingomyelinase activity (PMID: 16025116 and PMID: 27882938)."
+"(1) The nature of the variant (predicted deleterious, within autozygome) and (2) the loss of p73 leads to the disappearance of the CajalRetzius (CR) neurons in the cortical marginal zone and hippocampal molecular layer, and this could underlie the hippocampal dysgenesis, the hydrocephalus, and the abnormalities in the pheromone sensory pathways in p73 mice (PMID: 10716451)."
+"(1) The nature of the variant (predicted deleterious, within autozygome) and (2) the loss of p73 leads to the disappearance of the CajalRetzius (CR) neurons in the cortical marginal zone and hippocampal molecular layer, and this could underlie the hippocampal dysgenesis, the hydrocephalus, and the abnormalities in the pheromone sensory pathways in p73 mice (PMID: 10716451)."
+"(1) The nature of the variant (predicted deleterious, within autozygome) and (2) the nature of the gene (UNC5, a transmembrane protein with immunoglobulin and thrombospondin type 1 domains) guides cell and pioneer axon migrations in C. elegans (see PMID: 1384987)."
+(Continued on next page)
+"The American Journal of Human Genetics 104, 1182–1201, June 6, 2019 1189 Table 1. Continued ID Gene Variant(s)"
+Zygosity Phenotype Justiﬁcation 177961 UNC5A GenBank: NM_133369.2: c.1550T>A:p.
+"Ile517Asn Hom Congenital heart disease, failure to thrive, microcephaly, GDD, nystagmus, café au fait spots, and seizures."
+172828-B USO1 GenBank: NM_003715.3: c.46G46G>C: p.
+Val16LeuVal161Leu
+"Hom Developmental regression, retinal degeneration, and suspected NCL 176599 USO1 GenBank: NM_003715.3: c.46G46G>C: p. Val16LeuVal161Leu Hom Developmental regression, retinal degeneration, and suspected NCL 178522 USO1 GenBank: NM_003715.3: c.2514T>G:p."
+"Ile739Arg Hom GDD, microcephaly, epilepsy, optic atrophy, and suspected NCL (1) The nature of the variant (predicted deleterious, within autozygome) and (2) the nature of the gene: UNC5A belongs to a family of netrin1 receptors thought to mediate the chemo repulsive effect of netrin1 on speciﬁc axons (see PMID: 1384987)."
+"A lossof-function variant of UNC5A is identiﬁed in an individual with failure to thrive, microcephaly, GDD, hearing loss, periventricular leukomalacia, and seizures (see 176690)."
+"(1) The nature of the variant (present within autozygome, predicted deleterious in silico) and (2) the nature of the gene: USO1, a vesicle transport factor, is a peripheral membrane protein that recycles between the cytosol and the Golgi apparatus."
+Mice lacking USO1 exhibit disruption of Golgi structure and early embryonic lethality (see PMID: 23185636 and MGI: 1929095).
+"(1) The nature of the variant (present within autozygome, predicted deleterious in silico) and (2) the nature of the gene: USO1, a vesicle transport factor, is a peripheral membrane protein that recycles between the cytosol and the Golgi apparatus."
+Mice lacking USO1 exhibit disruption of Golgi structure and early embryonic lethality (see PMID: 23185636 and MGI: 1929095).
+"(1) The nature of the variant (present within autozygome, predicted deleterious in silico) and (2) the nature of the gene: USO1, a vesicle transport factor, is a peripheral membrane protein that recycles between the cytosol and the Golgi apparatus."
+Mice lacking USO1 exhibit disruption of Golgi structure and early embryonic lethality (see PMID: 23185636 and MGI: 1929095).
+"Abbreviations are as follows: Hom ¼ homozygous, Het ¼ heterozygous, Hemi ¼ hemizygous, IUGR ¼ intrauterine growth restriction, MRI ¼ magnetic resonance imaging, NCL ¼ neuronal ceroid lipofuscinosis, and GDD ¼ global developmental delay by the corresponding knockout mouse.20 Katnal1 mutant mice display behavioral, cognitive, and structural brain anomalies, which are strikingly similar to those in the individual we report who has a truncating variant in KATNAL1 (MIM: 614764).21"
+"Similarly, the neurological phenotype in the child with a homozygous variant in NRDC (MIM: 602651) is sufﬁciently recapitulated by the Nrdc(cid:2)/(cid:2) mouse to support the candidacy of this gene.22 The third level of evidence was available biological data on the gene of interest."
+"For example, all oralfacial-digital (OFD) syndrome (MIM: 311200)- and MeckelGruber syndrome (MIM: 249000)-related genes are known to play a role in ciliary biology.23"
+"Thus, the homozygous in CCDC96 and CEP29 (MIM: 617728)"
+"Truncations were attractive candidates, respectively, given their role in ciliogenesis.24–26 In addition, our data provide high throughput ‘‘conﬁrmation’’ of 64 genes (40 recessive, 21 dominant, and three Xlinked) that have previously been proposed as candidates but are either not yet listed with OMIM phenotypes or have a listing that is based on a single study."
+These are listed along with the observed and previously reported phenotypes in Table S2.
+"Interestingly, several of these genes were proposed as candidates from the same population, i.e., Saudis."
+"These include TBC1D32 (MIM: 615867)-related OFD IX (MIM: 258865),27 PGAP3 (MIM: 611801)-related Toriello Carey syndrome (MIM: 615716),28 LACC1 (MIM:613409)-related arthropathy and Crohn disease (MIM: 266600),29 PITX3 (MIM: anterior segment dysgenesis and microphthalmia,30 PPP1R21 (MIM:"
+"618159)-related intellectual disability,31 SMG9 (MIM: 613176)-related heart and brain malformation syndrome,32 ARMC9 (MIM: 617622)-related Joubert syndrome (MIM: 617622),33 DNAJC17 (MIM: 616844)-related syndrome of retinitis pigmentosa and immunodeﬁciency,34 and CLHC1related myopathy.8"
+"Although we have previously reported a homozygous truncating variant in PRKD1 (MIM: 605435) in a family with nonsyndromic autosomalrecessive 602669)-related 1190 The American Journal of Human Genetics 104, 1182–1201, June 6, 2019, Table 2."
+Recessive Forms of Genes in this Cohort List of Genes Previously Reported Only in the Context of Dominant Disorders but Were Found to Harbor Likely Deleterious ID Gene Variant(s)
+Zygosity Dominant phenotype Observed recessive phenotype 176650 ATP6V1B2 GenBank: NM_001693.3: c.1001T>C:p.
+Ile334Thr 162726 ATP6V1B2 GenBank: NM_001693.3: c.1001T>C:p.
+Ile334Thr Hom ZimmermannLaband syndrome 2 ZimmermannLaband syndrome 2 Distinct cutis laxa syndrome identical to that described for ATP6V1E1 (PMID: 27023906)
+Distinct cutis laxa syndrome identical to that described for ATP6V1E1 (PMID: 27023906)
+Phenotype comparison Distinct REQ181700 BAAT GenBank: NM_001127610.1: c.2T>A:p.?
+Hom Cholestatic liver disease Cholestatic liver disease Similar 175309 MYH11 GenBank: NM_002474.2: c.3424C>T:p.
+"Arg1142Ter Hom Aortic aneurysm and familial thoracic 4 Megacystis, bilateral hydronephrosis, absent stomach, borderline polyhydramnios, microcolon, and intestinal hypoperistalsis 170807 MYH11 181351 NOTCH3 GenBank: NM_022844.2: c.1033þ1G>A GenBank: NM_000435.3: c.1790G>C:p."
+"Cys597Ser Hom Aortic aneurysm and familial thoracic 4 Megacystis CADASIL (cerebral autosomal dominant arteriopathy with subcortical infarcts and leukoencephalopathy) Neuropsychiatric disturbances, migraine headache, periventricular leukomalacia and temporal lobe pole hyperintensity."
+Suspected CADASIL Distinct Similar 175492 PITX3 GenBank: NM_005029.3: c.640_656del: p.
+"Ala214ArgfsTer42 Hom Anterior segment dysgenesis GDD, microphthalmia, blindness, cataracts, and spastic quadriplegia More severe 173180 POU4F3"
+GenBank: NM_002700.2: c.488delA:p.
+His163ProfsTer41 Hom 163003 PPM1D GenBank: NM_003620.3: c.939_940delTG: p.
+Ser313ArgfsTer28 Hom 174393 SLC4A10 GenBank: NM_022058.3: c.27732A>C Hom Hearing loss (onset between the second and sixth decades)
+Intellectual developmental disorder with gastrointestinal difﬁculties and high pain threshold Complex partial epilepsy and mental retardation Abbreviations are as follows: Hom ¼ homozygous and GDD ¼ global developmental delay.
+"Bilateral, prelingual, profound sensorineural hearing loss More severe GDD and epilepsy Similar Intellectual disability and epilepsy Similar truncus arteriosus,35 OMIM currently only lists this gene in the context of a syndrome of ectodermal dysplasia with congenital heart disease on the basis of de novo, heterozygous missense changes."
+"Here, we show that individual REQ181959, who has a different homozygous truncating variant and an associated, nonsyndromic, complex congenital heart disease, not only provides conﬁrmation that PRKD1 is indeed associated with recessive, nonsyn- dromic truncus arteriosus but also expands the congenital-heartdisease phenotype associated with this gene."
+"Although the majority of the ‘‘conﬁrmatory’’ cases have phenotypes that are similar to those originally reported, some deviate signiﬁcantly and are worth highlighting."
+"These include TBC1D32 (MIM: 615867)-related holoprosencephaly, NDUFB10 (MIM: 603843)-related nonim- mune hydrops fetalis, and a lack of liver involvement in two brothers with LARS (MIM: 151350)-related epileptic encephalopathy, microcephaly, and global developmental delay (Table S2)."
+Identiﬁcation of Unusual Mutational Mechanisms The discovery of recessive forms of genes previously associated only with dominant disorders has the potential to unravel interesting mutational mechanisms for the associated phenotypes.36 Table 2 lists several recessive forms of genes that had only been described in the context of dominant phenotypes.
+"The recessive phenotypes ranged from identical, e.g., for SLC4A10 (MIM: 605556)-related intellectual disability and epilepsy; to earlier onset, e.g., for POU4F3 (MIM: 602460)-related prelingual hearing loss; to more severe, e.g., for PITX3 (MIM: 602669)-related eye to malformation and global developmental delay; for MYH11 (MIM: 160745)- completely distinct, e.g., related megacystis, microcolon, and intestinal hypoperistalsis."
+"One remarkably distinct recessive phenotype that is worth highlighting is ATP6V1B2 (MIM: 606939)-related cutis laxa syndrome that is identical to the one we described previously in siblings with a homozygous ATP6V1E1 (MIM: 108746) variant, even though dominant The American Journal of Human Genetics 104, 1182–1201, June 6, 2019 1191 Table 3."
+aList of Prenatal Cases with Available DNA from the Fetus ID Result Gene Variant(s)
+Zygosity LOF Observed Fetal Phenotype 170422 Solved ALG9 GenBank: NM_001077690.1: c.430T>C:p.
+Cys144Arg Hom 176079 Solved ATP11C GenBank: NM_173694.4: c.1675þ2T>C Hemi 173514 Solved BBS1 GenBank: NM_024649.4: c.830þ2T>C Hom 171195 Ambiguous (candidate gene)
+BRAP GenBank: NM_006768.4: c.199C>T:p.
+Arg67Ter 163155 Solved CANT1 GenBank: NM_138793.3: c.902_906dup: (p. Ser303AlafsTer21)
+Hom REQ181150 Solved CC2D2A 182311 Solved CEP55 GenBank: NM_001080522.2: c.4531T>C:p.
+Trp1511Arg
+Hom GenBank: NM_001127182.1: c.807T>G:p.
+Tyr269Ter Hom 172713 Ambiguous (VUS) CHRNA1 GenBank: NM_000079.3:
+c.254T>C:p.
+Leu85Pro 170633 Ambiguous (VUS) CHRNG GenBank: NM_005199.5: c.1180C>G:p.
+Pro394Ala Hom 175074 Solved CNTNAP1 GenBank: NM_003632.2: c.1903C>T:p.
+Arg635Ter Hom 173078 Solved COL1A1 GenBank: NM_000088.3: c.2399G>A:p.
+Gly800Glu De novo REQ184214 Solved ECHS1 GenBank: NM_004092.3: c.88þ5G>A: Het (carrier) y 173698 Solved ERCC5 GenBank: NM_001204425.1: c.3789delT: p. Asp1263GlufsTer24 Hom 175348 Solved ETFA GenBank: NM_000126.3: c.8831_885delGACA Hom 181181 Solved FLVCR2 GenBank: NM_001195283.1: c.596T>A:p.
+Val199Glu Hom 173511 Ambiguous (candidate gene) FRMD6 GenBank: NM_001267046.1: c.262G>A:p.
+Ala88Thr
+De novo 170224
+Solved FTO 182474 Solved GUSB GenBank: NM_001080432.3: c.871C>T:p.
+Gln291Ter
+Hom GenBank: NM_000181.4: c.307C>T:p.
+"Arg103Trp Hom 1192 The American Journal of Human Genetics 104, 1182–1201, June 6, 2019, Phenotype Category Typical Distinct prenatal presentation Typical Cardiomegaly, pericardial effusion, a thick nuchal fold, oligohydramnios, hydronephrosis, and a small bladder Fetus with hydrops fetalis."
+"Severe oligohydramnios and enlarged echogenic kidney with cyst bilaterally, most likely ARPKD Nonimmune hydrops fetalis NA (ﬁrst case) Skeletal dysplasia Typical Enlarged kidneys and occipital encephalocele Renal dysplasia, anhydraminos, and hydranencephaly Typical Nonimmune hydrops fetalis Typical Club foot, oligohydramnios, cystic hygroma and/or increased nuchal thickness, skin edema, and ﬁxed ﬂexion in an upper limb Polyhydramnios, absent stomach, and a mother with history of IUFDs Typical Skeletal dysplasia Typical NA Normal (tested with the parents, who had a history of neonatal deaths with severe lactic acidosis but no available DNA."
+See ‘‘Molecular Autopsy by Proxy’’ for details.)
+"Fetus with a dilated third ventricle, dilated cisternae magna, hypertelorism, micrognathia, generalized skin edema, moderately enlarged heart, hydrothorax, bilateral talipes, bilateral clenched hands, and ﬁxed position (hip ﬂexed and upper limbs ﬂexed)"
+"Pericardial effusion, echogenic kidney, hydrocephalus, and a small chest Hydrocephalus, dilated cisterna magna, hypoplastic cerebellum, and brain atrophy Distinct prenatal presentation Distinct prenatal presentation Typical IUGR and microcephaly."
+"N/A (ﬁrst case) DandyWalker malformation, IUGR, and polyhydramnios Typical Fetus with nonimmune hydrops Typical (Continued on next page) Table 3."
+Continued ID Result Gene Variant(s)
+Zygosity LOF Observed Fetal Phenotype 182404 Solved HSPG2 GenBank: NM_001291860.1: c.12462delT: p. Leu4155CysfsTer30 Hom 170425 Ambiguous (candidate gene)
+IL6ST
+GenBank: NM_001190981.1: c.841C>T:p.
+"Arg281Ter Hom Skeletal dysplasia Brain malformation, short long bones, kidney malformation, and unilateral MCDK Phenotype Category Typical NA (ﬁrst case)"
+"Het (CMP) abnormal ‘‘strawberry’’ head shape, absent corpus callosum, and brain ventriculomegaly NA (ﬁrst case; see PMID: 28749478) 170409"
+Solved KIF19 170807 Solved MYH11 GenBank: NM_153209.3: c.788G>A:p.
+Arg263His; NM_153209.3:c.1906T>G: p. Tyr636Asp
+GenBank: NM_022844.2: c.1033þ1G>
+A 175309 Solved MYH11 GenBank: NM_002474.2: c.3424C>T:p.
+Arg1142Ter Hom 172355 Solved MYO9A GenBank: NM_006901.4: c.1537C>T:p.
+Arg513Ter Hom 174600 Solved MYSM1 GenBank: NM_001085487.2: c.1168G>T:p.
+Glu390Ter Hom 172505 Solved NDUFB10 GenBank: NM_004548.2:
+Hom 174671 Solved PEX5 176282 Solved PHGDH 175922 Solved PIEZO1 172819 Solved PIEZO1 174408 Ambiguous (VUS) POLG c.373_375delCAG: p. Gln125del
+GenBank: NM_000319.4: c.1554T>G:p.
+Asn518Lys
+GenBank: NM_006623.3: c.1030C>T:p.
+Arg344Ter GenBank: NM_001142864.4: c.5013_5016delGGCG: p. Ala1672CysfsTer59 Hom Hom Hom GenBank: NM_001142864.4: c.6372G>C:p.
+Trp2124Cys
+Hom GenBank: NM_001126131.1: c.2606G>A:p.
+Arg869Gln Hom 181761 Solved POMT1 175897-B Solved PTPN11 171571 Ambiguous (VUS) RTEL1 REQ183059 Ambiguous (VUS) SMAD6 GenBank: NM_001077366.1: c.118þ1G>T Hom GenBank: NM_002834.4: c.781C>T:p.
+Leu261Phe
+De novo GenBank: NM_001283009.1: c.3730T>C:p.
+Cys1244Arg Hom
+GenBank: NM_005585.4: c.818A>G:p.
+Glu273Gly Hom 173980 Ambiguous (candidate gene) SMPD4 GenBank: NM_001171083.2: c.147128_1477del
+"Hom Megacystis, bilateral hydronephrosis, absent stomach, borderline polyhydramnios, microcolon, and intestinal hypoperistalsis Hydrocephalus Nonimmune hydrops fetalis Nonimmune hydrops fetalis and died after birth Distinct prenatal presentation Distinct prenatal presentation Distinct prenatal presentation Distinct prenatal presentation Distinct prenatal presentation Multicystic kidney, dilated cisterna magna, ventriculomegaly, and a positive family history Distinct prenatal presentation Nonimmune hydrops fetalis Phenotypic expansion Nonimmune hydrops Typical Hydrops fetalis Typical Polyhydramnios, contractures, scoliosis, and kyphosis Distinct prenatal presentation Fetus with severe ventriculomegaly Typical Nonimmune hydrops fetalis Fetus with severe IUGR and oligohydramnios Phenotypic expansion Severe nonimmune hydrops fetalis with a family history of a previously affected pregnancy Distinct prenatal presentation Bilateral clenched hands and talipes, IUGR, partial absence of the corpus callosum, and a family history of three neonatal deaths with similar features NA (ﬁrst case) Distinct prenatal presentation 174710 Solved STRA6 GenBank: NM_001142617.1: c.1594C>T:p."
+Arg532Ter Hom Hypoplastic left heart syndrome (Continued on next page)
+"The American Journal of Human Genetics 104, 1182–1201, June 6, 2019 1193 Table 3. Continued ID Result Gene Variant(s)"
+Zygosity LOF Observed Fetal Phenotype 173069-A Ambiguous (candidate gene) STXBP3 GenBank: NM_007269.4: c.622G>A:p.
+Ala208Thr 170889
+Solved TBC1D32 GenBank: NM_152730.6: c.1372þ1G>T Hom 170286
+Solved TMEM130 GenBank: NM_001134450.1: c.23G>A:p.
+Arg8His Hom 174015 Ambiguous (VUS)
+WDR34 GenBank: NM_052844.3: c.1061C>T:p.
+"Thr354Met Hom Arthrogryposis multiplex congenita Previous termination of 15/32 with holoprosencephaly, cyclops, cleft lip, ventricular septal defect, agenesis of the corpus callosum, club foot, and a sandal gap (no sample)"
+"Pericardial effusion, enlarged kidney, occipital encephalocele, and suspected to have MeckelGruber syndrome Fetus with IUGR and skeletal dysplasia Typical Phenotype Category NA (ﬁrst case) Phenotypic expansion Typical Abbreviations are as follows: LOF ¼ loss of function, y ¼ yes, Hom ¼ homozygous, Het ¼ heterozygous, Hemi ¼ hemizygous, IUGR ¼ intrauterine growth restriction, ARKPD ¼ autosomalrecessive polycystic kidney disease, VUS ¼ variant of unknown signiﬁcance, IUFD ¼ intrauterine fetal death, NA ¼ not applicable, MCDK ¼ multicystic dysplastic kidney, and CMP ¼ compound."
+aNegative instances can be found in Table S7.
+ATP6V1B2 (MIM: 606939) variants are known to cause a distinct phenotype known as ZimmermannLaband syndrome 1 (MIM: 135500).37
+"Although parental gonadal mosaicism is known to occur in consanguineous families,38–40 the family of ﬁrstcousin parents and three children who have classical RubinsteinTaybi syndrome (MIM: 180849) and share the same truncating variant in CREBBP (MIM: 600140) is a reminder that CES in apparently recessive pedigrees should be carefully reviewed for that possibility."
+More unusual is the observation of parental gonadal mosaicism in GNAO1 (MIM: 139311) in two families in our cohort who have GNAO1related epileptic encephalopathy.
+"This increases to three the number of families with gonadal mosaicism for this recently described gene, and only one family had no documented gonadal mosaicism.41 De novo point mutations in the context of autosomalrecessive disorders have very rarely been reported.39 In our cohort, we show that one individual with Joubert syndrome (MIM: 614615) harbored a compoundheterozygous mutation in C5orf42 (MIM: 614615) with one inherited variant, whereas the other has arisen de novo, although we cannot rule out paternal gonadal mosaicism."
+"In addition, we show that one infant with cholestatic liver failure harbored a homozygous truncating variant in BAAT (MIM: 602938), a gene that has been implicated in the context of cholestatic liver disease as a potential modiﬁer on the basis of a single missense variant."
+"Patterns of Mutations in Prenatal Cases Despite a comparable diagnostic yield in pre- (30 out of 65, 46.2%) and postnatal cases, we note that an even higher percentage of prenatal instances are autosomal recessive (87%), and the majority of these (65.4%) represent homozygous probable loss of function (Table 3)."
+"The severe, and often lethal, prenatal presentation of these lossof-function events often represents a phenotypic expansion of the corresponding genes (Table 3)."
+One example is the homozygous truncating variant of MYO9A (MIM: 604875) in a fetus with severe hydrocephalus that appears to mirror the phenotype observed in Myo9 knockout mice.42 This is in contrast to the neuromuscular phenotype observed in the few reported instances of biallelic missense variants in this gene.
+"Half of the individuals referred for prenatal genetic counseling (80 out of 162, 49.4%) came from couples with a history of one or more deceased children (or pregnancy losses) for whom no DNA was available for testing."
+"Table S8 shows that this approach of ‘‘molecular autopsy by proxy’’43 provided a compelling etiology in the majority of instances (45 out of 80, 56.3%)."
+"As expected by the nature of this approach, all the variants were recessive."
+"Again, lossof-function events were common in this subcohort that had lethal phenotypes (28 out 45, 62.2%)."
+Allelic Series and Phenotypic Expansion Table 4 lists instances where the observed phenotypes differ noticeably from those reported in the literature (multilocus phenotypes have been excluded).
+A few instances are worth highlighting.
+"We have previously reported an IGFBP7 (MIM: 602867)-related syndrome characterized by retinal artery microaneurysm, supravalvular pulmonic stenosis, and potential liver involvement.44 Individual 170163 presented with ductal plate malformation with resulting liver cirrhosis, ischemic stroke, and aortic coarctation, features that add to the phenotypic delineation of the syndrome."
+"Phenotypic expansion was not limited to recessive disorders, however, as exempliﬁed by individual 174116."
+"This individual harbors a truncating variant in STAT3 (MIM: 102582) (no truncating variants have been reported in this gene to our knowlexplain the unexpectedly and this might edge), severe brain vascular phenotype form of in the Moyamoya disease."
+"Similarly, the individual with a de in TCF12 (MIM: 600480) novo truncating variant 1194 The American Journal of Human Genetics 104, 1182–1201, June 6, 2019, Table 4."
+List of Individuals Whose Phenotypes Represent an Expansion of the Published Phenotypes ID Result REQ182038 Pathogenic or likely pathogenic Gene ACO2 Variant(s)
+GenBank: NM_001098.2: c.1187C>T:p.
+Ser396Leu Pathogenic or likely pathogenic ADAT3 GenBank: NM_138422.4: c.430G>A:p.
+Val144Met
+Pathogenic or likely pathogenic ATAD3A GenBank: NM_018188.4: c.1410þ1G>A Pathogenic or likely pathogenic ATP11C GenBank: NM_173694.4: c.1675þ2T>C Zygosity Hom Phenotypic Expansion Elements Severe neonatal hypotonia and SMAlike presentation Hom Tetralogy of Fallot Hom Severe fetal presentation Hemi Nonimmune hydrops fetalis Pathogenic or likely pathogenic BEAN1 GenBank: NM_001136106.4: c.180C>G:p.
+Tyr60Ter Pathogenic or likely pathogenic CACNA1G GenBank: NM_198384.2: c.4759þ1G>
+A Het Intellectual disability and epilepsy Microcephaly Pathogenic or likely pathogenic CCNO GenBank: NM_021147.4: c.964delC:p.
+Leu322CysfsTer5 Hom Infertility Pathogenic or likely pathogenic CCNO GenBank: NM_021147.4: c.964delC:p.
+Leu322CysfsTer5 Het Infertility Pathogenic or likely pathogenic CHRNG GenBank: NM_005199.5: c.1366_1367delAG:p.
+His457LeufsTer2 Hom Signiﬁcant brain involvement Pathogenic or likely pathogenic COL4A1 GenBank: NM_001303110.1: c.761delT:p.
+Phe254SerfsTer60
+Het Moyamoya disease Pathogenic or likely pathogenic ERCC5 GenBank: NM_001204425.1: c.3789delT:p.
+"Asp1263GlufsTer24 Hom Severe fetal presentation Pathogenic or likely pathogenic IGFBP7 GenBank: NM_001553.2:c.8301G>A Hom Ischemic stroke, coarctation of aorta, and ductal plate malformation with resulting liver cirrhosis Pathogenic or likely pathogenic KDM1A GenBank: NM_015013.3: c.782_783insA:p."
+Ile262TyrfsTer7 Het Lack of a cleft 176786 179070 176079 178295 172136 172687 172688 172584 171482 173698 170163 174391 172505 180283 Pathogenic or likely pathogenic NDUFB10
+GenBank: NM_004548.2: c.373_375delCAG:p.
+Gln125del
+Pathogenic or likely pathogenic PARS2 GenBank: NM_152268.3: c.283G>A:p.
+Val95Ile 177203 Pathogenic or likely pathogenic PEX16 GenBank: NM_004813.2: c.954delG:p.
+Arg318GlyfsTer39
+REQ181959 Pathogenic or likely pathogenic PRKD1 GenBank: NM_002742.2: c.2554G>T:p.
+Glu852Ter Hom Hom Fetal presentation with nonimmune hydrops fetalis Lack of lactic acidemia and liver involvement (see also 178126 and 173573 in Table S1.
+These individuals have the same variant and also lack lactic acidemia and liver involvement.)
+"Lack of the typical neonatal presentation and presence of hypertonia instead Much more severe and complex congenital heart disease (pulmonary atresia, ventricular septal defect, major aortopulmonary collateral artery, patent ductus arteriosus, and hypertrophic cardiomyopathy; on prostaglandin with biventricular hypertrophic cardiomyopathy) 180876 175069 174396 171888 171889 174116 Pathogenic or likely pathogenic RARS2 GenBank: NM_020320.4: c.1123G>A:p."
+Val375Met
+Pathogenic or likely pathogenic SCN5A GenBank: NM_001099405.1: c.5776C>T:p.
+Arg1926Ter
+Pathogenic or likely pathogenic SMAD3 GenBank: NM_001145103.1: c.72delG:p.
+Arg25GlyfsTer47 Hom Lack of pontocerebellar hypoplasia Het Signiﬁcant skeletalmuscle involvement and no evidence of cardiac involvement Severe intracranial vessel disease Pathogenic or likely pathogenic or likely pathogenic SMARCAL1 GenBank: NM_001127207.1: Hom Signiﬁcant brain involvement c.1824delT:p.
+Phe608LeufsTer26 SMARCAL1 GenBank: NM_001127207.1:
+Hom Signiﬁcant brain involvement c.1824delT:p.
+Phe608LeufsTer26 Pathogenic or likely pathogenic STAT3 GenBank: NM_003150.3: c.1454delA:p.
+Asn485ThrfsTer6 Het Moyamoya disease (Continued on next page)
+"The American Journal of Human Genetics 104, 1182–1201, June 6, 2019 1195 Table 4. Continued ID Result 174750 174613 176229 Gene SURF1 Variant(s)"
+GenBank: NM_003172.3: c.588þ1G>A Zygosity Phenotypic Expansion Elements Hom SMAlike presentation Pathogenic or likely pathogenic or likely pathogenic TCF12 GenBank: NM_001306220.2: c.493G>T:p.
+Glu165Ter De novo Lack of craniosynostosis Pathogenic or likely pathogenic VIPAS39
+GenBank: NM_001193316.1: c.373A>T:p.
+"Arg125Ter Hom Basal ganglia abnormalities Abbreviations are as follows: Hom ¼ homozygous, Het ¼ heterozygous, Hemi ¼ hemizygous, and SMA ¼ spinal muscular atrophy."
+"Completely lacks craniosynostosis, although he does have the developmental delay component of TCF12related craniosynostosis 3."
+Human Lossof-Function Variants in GWAS Signals
+The enrichment of our cohort for lossof-function events allowed us to encounter such events in genes with only links in the genomewide association study (GWAS) literature.
+"In one consanguineous family of three children with nonsyndromic, earlyonset (<5yrs) morbid obesity, we identiﬁed a homozygous truncating variant in APOBR (MIM: 605220)"
+(GenBank: NM_018690.3:c.1081_1087del: p. Glu361ProfsTer38).
+The ﬁnding of a likely null variant in HEXA (MIM: 606869) in an individual with earlyonset Parkinson disease is less clear given the reported association between a carrier status for other lysosomal disorders and this adultonset neurodegenerative disease.45 Clinical Utility of Flash WholeExome Sequencing Flash wholeexome sequencing (WES) was reserved for instances when timely molecular diagnosis was needed.
+"Typically, these included instances of fetuses approaching the legal cutoff date of termination (18.5 weeks of gestation), instances when a decision to continue or withdraw aggressive measures of lifesupport was needed for individuals in the neonatal intensive care unit (NICU) and pediatric intensive care unit (PICU), and instances when children required urgent decisions about liver or bone marrow transplantation."
+"Despite the extremely rapid nature of variant interpretation in Flash WES, the overall yield was comparable to regular WES (48.1% versus 43.3%)."
+Table S10 summarizes our experience with 54 individuals referred to us for Flash WES with various indications.
+Founder Effect Table S6 lists all the founder variants that have been encountered in two or more affected individuals who are not known to be part of the same nuclear family but share the same phenotype and haplotype.
+"Using the broader deﬁnition of founder variants (see Material and Methods for details), we found that 41.6% of the pathogenic or likely pathogenic variants qualify as founder variants."
+"Importantly, several of these variants could only be up- graded to pathogenic or likely pathogenic through this strong segregation."
+It is noteworthy that the contribution of founder variants to the overall pool of diseasecausing variants has increased only slightly compared to our earlier pilot study involving (cid:3)350 exomes (41.6% versus 32.5%).
+"Indeed, Table S4 lists the variants from that study that were reclassiﬁed on the basis of new data from this study, and we note that only 12 could be upgraded to likely pathogenic."
+Several founder variants in Table S6 are worth highlighting.
+"For example, we have previously suggested on the basis of much smaller cohorts that the ADAT3 (MIM: 615302) and C12orf57 (MIM: 615140) founder variants are of comparable frequency.14"
+"However, this cohort clearly shows that ADAT3 is the single most common recessive cause of global developmental delay and intellectual disability in the country, accounting for 20 solved instances compared to 4 solved that were based on C12orf57."
+"We also highlight the power of the founder effect in deﬁning genotypephenotype correlation for variants that would otherwise be classiﬁed as VUSs; for example, ATP6V1B2related cutis laxa syndrome, which we observed in two ‘‘unrelated’’ individuals who have the same syndromic phenotype and share the same missense variant (Table 2)."
+Secondary Findings The secondary ﬁndings we reported back were of two classes: (1) ACMGrecommended and (2) carrier status for KSMs (see above).
+"The overwhelming majority of cases (1,971 out of 2,219, 88.8%) opted to receive secondary ﬁndings in the consent form."
+"Consistent with our previous experience, the percentage of cases with ACMG secondary ﬁndings was small (n ¼ 41, 2%), and the ﬁndings are listed in Table S5."
+"All of these individuals have been referred for full genetic counseling on the basis of published guidelines relevant to their results, and work is underway to characterize the outcome of these referrals."
+"On the other hand, we have identiﬁed a very high carrier frequency of Saudi founder mutations; 697 individuals carry one KSM, 238 carry two KSMs, 56 carry three KSMs, and 15 carry four or more KSMs (Figure S2)."
+"We have also extended our analysis to parents and investigated the likelihood for parents to share the carrier status of a founder variant other than the one relevant to the disease in their offspring, i.e., 1196 The American Journal of Human Genetics 104, 1182–1201, June 6, 2019, unbiased analysis."
+We found that only 62 of 503 (12.3%) couples fall in this category (Figure S2).
+Discussion Largescale CES studies have greatly improved our understanding of the human variome and its medical and clinical relevance.
+"These studies, nearly always from outbred populations, have nearly saturated the morbid genome for the recurrently mutated dominant genes that are linked to human phenotypes in the lossof-function state.46 Despite their very large size, those studies suffer from the conspicuous underrepresentation of autosomalrecessive, diseaserelated genes."
+"A very recent analysis of the 6,040 families from the Deciphering Developmental Disorders study estimated the contribution of recessive causes at 3.6%.47 Consanguineous populations, on the other hand, possess a much greater power to unmask recessive, diseasecausing alleles, and this discrepancy increases exponentially as the allele frequency decreases.4"
+"For example, a rare recessive allele with a frequency of 0.001 will be observed in homozygosity only once per 1,000,000 individuals in an outbred population (q2) but once per 41,494 individuals in the Saudi population that has an average inbreeding coefﬁcient of 0.0241 (qF).16 Thus, despite the much smaller size compared to the DDD cohort, our cohort revealed a remarkably higher number of autosomalrecessive candidate genes."
+"This large number of candidates, however, raises an interesting question about the rate at which the morbid genome is being saturated for autosomalrecessive, diseaserelated genes."
+"In a previously reported pilot clinical exome study involving 347 families, a similar percentage of individuals was found to harbor potential autosomalrecessive candidate genes as in this study.14 It seems unlikely, therefore, that all autosomalrecessive disease genes will have been identiﬁed by 2020 as originally proposed by the International Rare Diseases Research Consortium (IRDiRC).12 Indeed, it seems likely that many additional thousands of affected individuals from consanguineous populations will have to be sequenced, especially in view of two observations made in this study: (1) the high contribution of ‘‘private’’ mutations that showed little decrement as we increased the number of tested individuals from 347 to >2,200 families and (2) the small percentage of candidate genes for which we were able to observe independent (conﬁrmatory) mutational events."
+"The central processing of CES was key for an internal ‘‘matchmaking’’ that allowed us to identify candidate genes with more than one hit, as well as to conﬁrm founder diseasecausing variants that were previously reported as candidates."
+"To this end, we emphasize the tentative candidacy of the genes we propose on the basis of single mutational events, pending future conﬁrmation."
+Majority of individuals with solved diagnoses (77.9%) did not carry the correct clinical diagnosis when CES was requested.
+This is a vivid reminder of the lack of precision in the traditional clinical approach for individuals with suspected genetic diseases and the many missed opportunities for precision clinical management.
+"It is interesting to note that the percentage of individuals that received the correct clinical diagnosis prior to molecular conﬁrmation did not differ signiﬁcantly (p ¼ 0.29) between those evaluated by the genetic experts (18.6%, n ¼ 547) and nongeneticists (23.5%, n ¼ 409)."
+This is consistent with a prior study in which we compared a traditional clinical approach to a genomics-ﬁrst approach in >300 instances of intellectual disability and/or developmental delay where we found only 16% of affected individuals had received a clinical suspicion consistent with the molecular ﬁnding.11 The limited sensitivity of clinical evaluation even by genetic experts probably reﬂects the established challenge of the extreme heterogeneity of Mendelian disorders.
+"Our ﬁnding also challenges the view that genetic experts alone should request CES, because we do not see evidence that such a practice will lead to a signiﬁcantly higher yield and, consequently, reduce costs."
+"It is relevant to highlight here that our unusual study design, wherein we encouraged a ‘‘genomics-ﬁrst’’ approach to maximize the costsaving beneﬁt of CES, should be taken into account when comparing our results to other studies in which affected individuals typically undergo a ‘‘reﬂex’’ CES after exhausting a series of other diagnostic tests."
+Insights.
+"In particular, Beyond the high throughput discovery and conﬁrmation of candidate genes, our unique cohort has also provided additional the high throughput creation of recessive allelic series by virtue of consanguinity loops allowed us to observe important phenotypic aspects previously unknown for the respective genes."
+The documentation of recessive forms of dominant genes has a signiﬁcant impact on the interpretation of likely deleterious variants of dominant genes in individuals with no apparent phenotype.
+The tendency to classify such occurrences as ‘‘incomplete penetrance’’ should be carefully balanced by the growing appreciation that these might indeed represent genuinely recessive forms of genes.36
+The impact on the calculation of recurrence risk cannot be overemphasized.
+We have previously shown that human knockouts can inform GWAS research into complex phenotypes.48 One informative example in this study is APOBR.
+"This gene is in the same linkage disequilibrium [LD] block as SH2B1, which has been proposed as the source of the obesity GWAS signal in 16p11.2.49,50 However, our result suggests that APOBR might have also contributed to the obesity signal."
+"On the other hand, lack of ﬂorid dyslipidemia in these affected children suggests that the study of APOBR in the context of complex diseases should focus on obesity rather than dyslipidemia."
+"A key advantage of the genomicsﬁrst approach taken in this study is made clear by the fact that the overwhelming The remarkable contribution of autosomalrecessive forms of genes to the disease burden in the study The American Journal of Human Genetics 104, 1182–1201, June 6, 2019 1197 population presents an obvious prevention opportunity."
+"Each of the families that had an identiﬁed recessive variant received genetic counseling that explored their future reproductive options, and we have previously shown a very high uptake for such services in the country.10 Although private mutations continue to be a signiﬁcant player, it is encouraging that nearly all the founder variants listed in Table S6 have already been identiﬁed by our previous studies."
+"This suggests that the time is ripe for the use of these variants in populationbased prevention programs, which are currently in development."
+One advantage of speciﬁcally using these highquality pathogenic variants is the avoidance of uncertainty associated with interpreting variants for which there is no supporting human genetics evidence; these variants can pose a signiﬁcant challenge to any screening program.
+"Inexpensive genotyping-based assays that cover all of these variants and allow for a regular update as more of these variants are identiﬁed in the population will be ideally suited for primary prevention through expanding Saudi Arabia’s current premarital carrierscreening program, which is limited to sickle cell disease and thalassemia."
+One can also envision their use in secondary prevention through early diagnosis by incorporating them into the existing Saudi newbornscreening program.
+"In conclusion, we report in a highly consanguineous population a large clinical exome study that highlights the power of a genomicsﬁrst approach to empower clinicians of all backgrounds to partake in the genomic medicine revolution."
+We also showcase the potential of consanguineous populations to contribute to the medical annotation of the human genome beyond individual discoveries of diseaserelated genes.
+The dataset we share through this publication can be a helpful resource for future clinical genomic studies both in outbred and inbred populations.
+"Appendix A: List of Candidate Genes Identiﬁed in the Study Cohort Autosomal Recessive AARSD1 (MIM: 613212), ABCA13 (MIM: 607807), ACBD3 (MIM: 606809), ACOT4 (MIM: 614314), ACSBG1 (MIM: 614362),, AKNA (MIM: 605729), ALKBH8 (MIM: 613306), AP1B1 (MIM: 600157), ATG7 (MIM: 608760), ATRN (MIM: 603130), BCAS3 (MIM: 607470), BECN1 (MIM: 604378), BMP2K (MIM: 617648), BRAP (MIM: 604986), BTNL8 (MIM: 615606), CCDC18, CCDC67 (MIM: 617148), CCDC96, CD34 (MIM: 142230), CEP85, CEP295 (MIM: 617728), CEP131 (MIM: 613479), CFAP46, CFAP221, CHEK1 (MIM: 603078), CMYA5 (MIM: 612193), CNTF (MIM: 118945), COL6A6 (MIM: 616613), CSRP2BP (MIM: 617501), CYB5R4 (MIM: 608343), DCAF15, DEGS1 (MIM: 615843), DERL3 (MIM: 610305), DGKG (MIM: 601854), DIDO1 (MIM: 604140), DMAP1 (MIM: 605077), DMRT2 (MIM: 604935), DMTF1 (MIM: E2F4 (MIM: 600659), 611782), 608491), DNAJA4, DNAJC11 (MIM: 614827), DSCAML1 EHBP1L1, (MIM: EIF2A (MIM: 609234), EIF6 (MIM: 602912), ELFN2, EMSY (MIM: 608574), EPHB6 (MIM: 602757), ERGIC3 (MIM: 616971), FAM69B (MIM: 614543), NCOR2 (MIM: 600848), FAT3 (MIM: 612483), FOSL1 (MIM: 136515), FOXB1, GAD2 (MIM: 138275), GDI2 (MIM: 600767), GLTPD2, GTF2F2 (MIM: 189969), GTF3A (MIM: 600860), HCN2 (MIM: 603781), HSF2 (MIM: 140581), ICE1 (MIM: 617958), IL6ST (MIM: 600694), INADL (MIM: 603199), IQSEC3 (MIM: 612118), ITFG2 (MIM: 617421), ITGA4 (MIM: 192975), KDM5A (MIM: 180202), KDM6B (MIM: 611577), KIAA1024 (MIM: 618054), KIF9 (MIM: 607910), KIF19, KIF13B (MIM: 607350), LAMA5 (MIM: 601033), LETM1 (MIM: 604407), LSR (MIM: 616582), LTBP1 (MIM: 150390), LURAP1 (MIM: 616129), MANEA (MIM: 612327), MAP1B (MIM: 157129), MAP2 (MIM: 157130), MAPK8IP2 (MIM: 607755), MARK1 (MIM: 606511), MCM3 (MIM: 602693), MED18 (MIM: 612384), METTL12 (MIM: 617897), MFN1 (MIM: 608506), MICAL1 (MIM: 607129), MICAL3 (MIM: 608882), MMP10 (MIM: 185260), MTCL1 (MIM: 615766), NAA20 (MIM: 610833), NAIP (MIM: 600355), NRDC (MIM: 602651), NRP1 (MIM: 602069), NUP98 (MIM: 601021), P2RX6 (MIM: 608077), PAK1IP1 (MIM: 607811), PARD3 (MIM: 606745), PARP10 (MIM: 609564), PARP16, PHF14, PIGB (MIM: 604122), PLCH1 (MIM: 612835), PLEKHH2 (MIM: 612723), PLIN5 (MIM: 613248), PLXNA1 (MIM: 601055), PLXNA2 (MIM: 601054), PRSS8 (MIM: 600823), PTPN12 (MIM: 600079), PUS7L, RINT1 (MIM: 610089), SALL3 (MIM: 605079), SCHIP1, SCNN1D (MIM: 601328), SCYL2 (MIM: 616365), SHQ1 (MIM: 613663), SIRPB2 (MIM: 605466), SLC38A3 (MIM: 604437), SLC7A1 (MIM: 104615), SLIT1 (MIM: 603742), SLK (MIM: 616563), SMG8 (MIM: 613175), SMPD4 (MIM: 610457), SOGA1, STXBP3 (MIM: 608339), SUSD2 (MIM: 615825), TAF10 (MIM: 600475), TENM2 (MIM: 610119), THOC3 (MIM: 606929), TIMM8B (MIM: 606659), TMEM130, TMEM17 (MIM: 614950), TMEM212, TNFRSF9 (MIM: 602250), TP73 (MIM: 601990), TTLL10, TTLL6 (MIM: 610849), UGCG (MIM: 602874), UNC13B (MIM: 605836), UNC13C (MIM: 614568), UNC5A (MIM: 607869), USO1 (MIM: 603344), VAT1L, VCAM1 (MIM: 192225), VPS51 (MIM: 615738), WDR6 (MIM: 606031), WDR91 (MIM: 616303), WWTR1 (MIM: 607392), XIRP2 (MIM: 609778), XRCC5 (MIM: 194364), ZMIZ2 (MIM: 611196), ZNF280C, ZNF707, and ZYX (MIM: 602002)."
+"Autosomal Dominant ACAT2 (MIM: 100678), ACMSD (MIM: 608889), ACO1 (MIM: 100880), AMBRA1 (MIM: 611359), AP2B1 (MIM: 601025), BCL9 (MIM: 602597), BTBD1 (MIM: 608530), CACNA1E (MIM: 601013), CACNA2D1 (MIM: 114204), CDH8 (MIM: 610528), CDH9 (MIM: 609974), CEP89 (MIM: 615470), CHD5 (MIM: 610771), CHD6 (MIM: 616114), CREBRF (MIM: 617109), DLGAP2 (MIM: 605438), DLX1 (MIM: 600029), DSCAM (MIM: 602523), ESCO1 (MIM: 609674), EYA3 (MIM: 601655), FASN 1198 The American Journal of Human Genetics 104, 1182–1201, June 6, 2019 (MIM: (MIM: FZD9 600212), (MIM: FRMD6 616933), 614555), (MIM: 142974), KDM2B (MIM: FRYL, (MIM: FYTTD1 601766), GLTSCR2 (MIM: 605691), HDAC4 (MIM: 605314), 609078), HOXC4 KIAA1328 (MIM: 616480), KIF5B (MIM: 602809), KLF4 (MIM: 602253), LRRC4C (MIM: 608817), MGA (MIM: 616061), MOV10 (MIM: 610742), MYO16 (MIM: 615479), MYO18A (MIM: 610067), MYO1A (MIM: 601478), MYO9B (MIM: 602129), MYT1 (MIM: 600379), NAV1 (MIM: 611628), OSBPL9 (MIM: 606737), P2RY13 (MIM: 606380), PLK2 (MIM: 607023), PLPPR3 (MIM: 610391), PML (MIM: 102578), PRKACA (MIM: 601639), PTPN12 (MIM: 600079), RASIP1 (MIM: 609623), RBM14 (MIM: SEPT2 612409), RNF165, RPTOR (MIM: (MIM: 601506), SHANK1 (MIM: 604999), SMARCC2 (MIM: 601734), SMG6 (MIM: 610963), SPEN (MIM: 613484), TBXA2R (MIM: 188070), TJP1 (MIM: 601009), TLN1 (MIM: 186745), TNMD (MIM: 300459), TOMM40 (MIM: 608061), TRIM7 (MIM: 609315), TRPV5 (MIM: 606679), UNK (MIM: 616375), USF3 (MIM: 617568), USP33 (MIM: 615146), WWP1 (MIM: 602307), XPNPEP1 (MIM: 602443), XRCC6 (MIM: 152690), ZBED6 (MIM: 613512), ZFHX3 (MIM: 104155), and ZPR1 (MIM: 603901)."
+"SETDB1 (MIM: 604396), 607130), XLinked CDR1 (MIM: 302650), KLF8 (MIM: 300286), PLXNA3 (MIM: 300022), RBBP7 (MIM: 300825), RPS6KA6 (MIM: 300303), SLITRK4 (MIM: 300562), and SMARCA1 (MIM: 300012)."
+Supplemental Data can be found online at https://doi.org/10.
+1016/j.ajhg.2019.04.011.
+Acknowledgments

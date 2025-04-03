@@ -1,0 +1,846 @@
+"Review Utilizing C. elegans Spermatogenesis and Fertilization Mutants as a Model for Human Disease Sofia M. Perez, Helena S. Augustineli and Matthew R. Marcello * Biology Department, Pace University, New York, NY 10038, USA * Correspondence: mmarcello@pace.edu"
+"Abstract: The nematode C. elegans is a proven model for identifying genes involved in human disease, and the study of C. elegans reproduction, specifically spermatogenesis and fertilization, has led to significant contributions to our understanding of cellular function."
+Approximately 70 genes have been identified in C. elegans that control spermatogenesis and fertilization (spe and fer mutants).
+This review focuses on eight genes that have human orthologs with known pathogenic phenotypes.
+"Using C. elegans to study these genes has led to critical developments in our understanding of protein domain function and human disease, including understanding the role of OTOF (the ortholog of C. elegans fer1) in hearing loss, the contribution of the spe39 ortholog VIPAS39"
+"In vacuolar protein sorting, and the overlapping functions of spe26 and KLHL10 in spermatogenesis."
+We discuss the cellular function of both the C. elegans genes and their human orthologs and the impact that C. elegans mutants and human variants have on cellular function and physiology.
+"Utilizing C. elegans to understand the function of the genes reviewed here, and additional understudied and undiscovered genes, represents a unique opportunity to understand the function of variants that could lead to better disease diagnosis and clinical decision-making."
+Keywords: Caenorhabditis elegans; spermatogenesis; fertilization; genetics; disease modeling; phenotype; ortholog Academic Editor:
+Ann K. Corsi Received: 9 October 2024
+"Revised: 10 January 2025 Accepted: 20 January 2025 Published: 25 January 2025 Citation: Perez, S.M.; Augustineli, H.S.; Marcello, M.R. Utilizing C. elegans Spermatogenesis and Fertilization Mutants as a Model for Human Disease."
+J. Dev.
+Biol.
+"2025, 13, 4."
+https://doi.org/10.3390/ jdb13010004
+Copyright: © 2025 by the authors.
+"Licensee MDPI, Basel, Switzerland."
+This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https://creativecommons.org/ licenses/by/4.0/).
+1. Introduction 1.1.
+C. Elegans as a Model Organism for Human Disease The roundworm Caenorhabditis elegans has been used extensively to understand the impact of human genetic variation on protein function and is a proven model for identifying genes involved in disease pathogenesis.
+"C. Elegans is a valuable model organism for a multitude of reasons, including the ability to (1) easily manipulate its genome for forward genetic screening, transgenic animal construction, and mutation mapping, (2) observe live cellular and molecular events using fluorescentlytagged proteins in a transparent organism, (3) perform genomewide RNA interference (RNAi) screens, (4) conduct screens for suppressor and enhancer modifiers of genes that cause disease, and (5) employ highthroughput analysis, including the use of microfluidic platforms."
+"In addition, CRISPR/Cas9 gene editing is used abundantly in C. elegans to generate precisionmodified alleles, which can be used to investigate disease etiology and treatment."
+"Many cellular processes and molecular pathways, particularly cell signaling, are well conserved between C. elegans and humans, which allows for mechanistic discoveries and direct functional studies."
+The use of model organisms to understand human phenotypes has led to significant advances of our understanding of human disease and its underlying biology.
+The use of C. elegans J. Dev.
+Biol.
+"2025, 13, 4 https://doi.org/10.3390/jdb13010004 J. Dev."
+Biol.
+"2025, 13, 4 2 of 35 as a model system has contributed significantly to our understanding of human disease including neurodegenerative/neuromuscular disorders, metabolic disorders, kidney disease, and cancer."
+"Overall, C. elegans is a popular model organism for the study of human disease that can be used in innovative and creative ways to accelerate personalized and precision medicine."
+1.2.
+C. Elegans Spermatogenesis and Fertilization as a Model for Cellular Function The C. elegans germline and reproductive tract is an excellent model for a variety of cell biological processes.
+"The study of C. elegans reproduction is particularly attractive because of the short reproductive cycle (~3.5 days), large number of progeny produced, and the ability to observe oocyte development, ovulation, fertilization, and early embryogenesis in intact animals."
+"Moreover, greater than 20% of all known C. elegans genes are expressed in the hermaphrodite germline."
+C. Elegans have two sexes: hermaphrodites and males.
+Hermaphrodites produce 300–400 sperm during their final larval stage before switching to oocyte production.
+"Individual males produce sperm continually, and single males can sire over one thousand progeny."
+C. Elegans reproduction can occur via selffertilization in hermaphrodites or by mating with males to produce outcross progeny.
+"Both sexes produce round spermatids, which must undergo a maturation process named sperm activation or spermiogenesis (Figure 1)."
+Sperm activation results in mature sperm that are motile and capable of fusion with the oocyte.
+"One of the hallmark processes of sperm activation is the fusion of the Golgiderived membranous organelles (MOs) with the plasma membrane, which allows for both the redistribution of proteins necessary for fertilization and the secretion of glycoproteins whose functions remain largely uncharacterized."
+MOs are specialized secretory vesicles within spermatids that fuse with the spermatid plasmid membrane during spermiogenesis.
+MO fusion is similar to the acrosome reaction in the sperm of many mammalian species.
+Figure 1.
+Key events of spermatogenesis and sperm activation.
+The terminal spermatocyte contains budding spermatids surrounding a developing residual body (RB).
+Spermatids contain lysosomelike fibrous body–membranous organelles (FBMOs).
+"In the FBMO complex, the FB (fibrous body) is colored green, and the MO is colored blue."
+MOs are Golgiderived and associate with FBs to form the FBMO complex.
+"During spermatid differentiation, round spermatids bud from the terminal spermatocyte in an asymmetric division."
+Spermatids selectively retain the FBMOs and cellular components that are no longer needed are shed to the residual body.
+"The MO membrane also retracts and docks with the plasma membrane, and the FB is released and disassembled."
+"During sperm activation (spermiogenesis), the round spermatids extend a pseudopod and become motile, and the MO fuses with the plasma membrane and releases its contents."
+The purple oval represents the nucleus in all stages.
+J. Dev. 
+"Biol. 2025, 13, 4 2 of 38 organisms for the study of human disease that can be used in innovative and creative ways to accelerate personalized and precision medicine. "
+1.2. C. elegans Spermatogenesis and Fertilization as a Model for Cellular Function The C. elegans germline and reproductive tract is an excellent model for a variety of cell biological processes. 
+"The study of C. elegans reproduction is particularly attrac‐tive because of the short reproductive cycle (~3.5 days), large number of progeny pro‐duced, and the ability to observe oocyte development, ovulation, fertilization, and early embryogenesis in intact animals. "
+"Moreover, greater than 20% of all known C. elegans genes are expressed in the hermaphrodite germline. "
+C. Elegans have two sexes: her‐maphrodites and males. 
+Hermaphrodites produce 300–400 sperm during their final larval stage before switching to oocyte production. 
+"Individual males produce sperm continually, and single males can sire over one thousand progeny. "
+C. Elegans repro‐duction can occur via self‐fertilization in hermaphrodites or by mating with males to pro‐duce outcross progeny. 
+"Both sexes produce round spermatids, which must undergo a maturation process named sperm activation or spermiogenesis (Figure 1). "
+Sperm activation results in mature sperm that are motile and capable of fusion with the oocyte. 
+"One of the hallmark processes of sperm activation is the fusion of the Golgi‐derived membranous organelles (MOs) with the plasma membrane, which allows for both the re‐distribution of proteins necessary for fertilization and the secretion of glycoproteins whose functions remain largely uncharacterized. "
+MOs are specialized secretory vesicles within spermatids that fuse with the spermatid plasmid membrane during sper‐miogenesis. 
+MO fusion is similar to the acrosome reaction in the sperm of many mam‐malian species.  
+Figure 1. Key events of spermatogenesis and sperm activation. 
+The terminal spermatocyte contains budding spermatids surrounding a developing residual body (RB). 
+Spermatids contain lysosome‐like fibrous body–membranous organelles (FB‐MOs). 
+"In the FB‐MO complex, the FB (fibrous body) is colored green, and the MO is colored blue. "
+MOs are Golgi‐derived and associate with FBs to form the FB‐MO complex. 
+"During spermatid differentiation, round spermatids bud from the terminal spermatocyte in an asymmetric division. "
+Spermatids selectively retain the FB‐MOs and cellular components that are no longer needed are shed to the residual body. 
+"The MO membrane also retracts and docks with the plasma membrane, and the FB is released and disassembled. "
+"During sperm activation (spermiogenesis), the round spermatids extend a pseudopod and become motile, and the MO fuses with the plasma mem‐brane and releases its contents. "
+The purple oval represents the nucleus in all stages. 
+This review will focus on a class of C. elegans mutants with spermatogenesis (spe mu‐tants) and fertilization (fer mutants) defects (Table 1). 
+"Spe and fer mutants produce sper‐matocytes, spermatids, and/or sperm that cannot function properly during spermatogen‐esis, spermiogenesis, and/or fertilization. "
+C. Elegans mutants isolated because their sperm were unable to fertilize an egg were originally named fer mutants. 
+"However, this terminology is obsolete, and all new mutants that have functionally defective sperm J. Dev."
+Biol.
+"2025, 13, 4 3 of 35"
+This review will focus on a class of C. elegans mutants with spermatogenesis (spe mutants) and fertilization (fer mutants) defects (Table 1).
+"Spe and fer mutants produce spermatocytes, spermatids, and/or sperm that cannot function properly during spermatogenesis, spermiogenesis, and/or fertilization."
+C. Elegans mutants isolated because their sperm were unable to fertilize an egg were originally named fer mutants.
+"However, this terminology is obsolete, and all new mutants that have functionally defective sperm are called spe mutants."
+"In spe mutants, the sperm function defect in these animals results in infertility, with only a few progenies produced."
+"In spe hermaphrodites, most oocytes remain unfertilized due to their defective sperm."
+"However, since their oocytes are unaffected, spe hermaphrodites can produce viable progeny when crossed with wildtype males."
+1.3.
+Human Orthologs of C. elegans fer and spe Genes
+The identification of orthologs is essential for comparative studies to interpret and infer conclusions from model organism studies.
+"For the purposes of this review, we have focused on the common set of orthologs in The Alliance of Genome Resources (the Alliance) database (www.alliancegenome.org, 5 December 2023)"
+(Table 1).
+The ortholog inferences from the Alliance are included from methods benchmarked by the Quest for Orthologs Consortium and manually curated inferences from HGNC and ZFIN.
+"There are many ortholog inference methods, with new methods in development."
+"The ortholog inferences are not complete and there will be omissions, including orthologs identified from iterative HMMer approaches."
+"However, the Alliance database has harmonized crossorganism data that are consistent and include data from seven knowledgebase projects including WormBase."
+"The human orthologs of C. elegans fer and spe genes were retrieved from the Alliance of Genome Resources (https://www.alliancegenome.org; 5 December 2023, Version 6.6.0), using the highest “Stringency” filter [Stringent (default): Primary criterion: An ortholog called by three or more methods is included if it is the best count OR the best reverse count."
+"Secondary criteria: An ortholog predicted by ZFIN, HGNC, or Xenbase is always included, regardless of count."
+An ortholog called by two methods is included if it is both the best count AND the best reverse count].
+"This review is focused on human orthologs with gene–phenotype relationships in Online Mendelian Inheritance in Man (OMIM); however, there are additional orthologs of C. elegans genes that do not have associated human disease phenotypes, including orthologs of fer1, mib1, and uba1 (Table 1)."
+OMIM is a database of primary data that employs expert review of the biomedical literature to synthesize and summarize new and important information.
+"Allelic variants of diseaserelated genes are included in OMIM; however, only selected mutations are included."
+"As a result, the variants discussed in this review are not comprehensive and there are other sources for identifying variants associated with disease genes, including the Alliance and ConVarT."
+Valuable information can be gained about individual protein domain function by studying the variants of proteins.
+"We have focused on how the sequence variants in both C. elegans and human genes can impact protein function, to outline how their analysis could lead to a better understanding of how these proteins function."
+The progress in nextgeneration sequencing technologies has resulted in a growing number of human genetic variants.
+"Unfortunately, the functional effects of those variants remain unknown."
+"Understanding these genetic variants is necessary for disease diagnosis and therapeutic decisions, and model organisms, such as C. elegans, can function as valuable models to understand these variants. "
+J. Dev.
+Biol.
+"2025, 13, 4 4 of 35 Table 1."
+Human orthologs of C. elegans fer and spe genes and OMIM phenotypes.
+C. Elegans genes Human Orthologs OMIM Phentoype WormBase ID Common Name Locus ID Ensembl ID
+HGNC Symbol Phenotype MIM # Phenotype WBGene00001414 fer1 F43G9.6 WBGene00012933 mib1/fer2/fer4/spe16 Y47D3A.22 WBGene00004959 spe5 Y110A7A.12 WBGene00004963 spe9 C17D12.6 ENSG00000135636 DYSF ENSG00000088340 ENSG00000249715
+ENSG00000214814
+ENSG00000138119
+ENSG00000115155
+ENSG00000101752
+ENSG00000197530 FER1L4 FER1L5 FER1L6
+MYOF OTOF MIB1 MIB2 ENSG00000116039 ATP6V1B1
+"ENSG00000147416 ATP6V1B2 ENSG00000198719 ENSG00000128917 DLL1 DLL4 WBGene00004969 spe15 F47G6.4 ENSG00000196586 MYO6 253601 254130 606768 619366 601071 615092 267300 124480 616455 618709 616589 606346 607821 Muscular dystrophy, limbgirdle, autosomal recessive 2 Miyoshi muscular dystrophy 1 Myopathy, distal, with anterior tibial onset Angioedema, hereditary, 7 ?"
+"Auditory neuropathy, autosomal recessive, 1 Deafness, autosomal recessive 9 Left ventricular noncompaction 7 Variant of unknown signficance Distal renal tubular acidosis 2 with progressive sensorineural hearing loss Deafness, congenital, with onychodystrophy, autosomal dominant ZimmermannLaband syndrome 2 Neurodevelopmental disorder with nonspecific brain abnormalities and with or without seizures AdamsOliver syndrome 6 Deafness, autosomal dominant 22 Deafness, autosomal dominant 22, with hypertrophic cardiomyopathy Deafness, autosomal recessive 37 J. Dev."
+Biol.
+"2025, 13, 4 5 of 35 Table 1."
+Cont.
+C. Elegans genes WormBase ID Common Name WBGene00004972 WBGene00004975 spe26 spe39 Locus ID R10H10.2 ZC404.3 WBGene00006699 uba1/spe32 C47E12.5 Human Orthologs OMIM Phentoype Ensembl ID HGNC Symbol Phenotype MIM #
+Phenotype ENSG00000161594 ENSG00000151445 KLHL10 VIPAS39
+"ENSG00000130985 UBA1 ENSG00000182179 UBA7 615081 613404 301054 301830 Spermatogenic failure 11 Arthrogryposis, renal dysfunction, and cholestasis 2 VEXAS syndrome, somatic Spinal muscular atrophy, Xlinked 2, infantile ?"
+= the relationship between the phenotype and gene is provisional. 
+J. Dev.
+Biol.
+"2025, 13, 4 6 of 35 2."
+C. Elegans fer and spe Genes and Human Ortholog Function 2.1.
+"C. Elegans FER1 and H. sapiens DYSF, MYOF, and OTOF 2.1.1."
+Ferlin Family Protein Function
+"The proteins encoded by fer1 and its human orthologs dysferlin (DYSF), myoferlin (MYOF), and otoferlin (OTOF) are members of the ferlin family of proteins (Figure 2)."
+C. Elegans fer1 is the founding member of the ferlin gene family.
+The ferlin family of proteins are a group of intrinsic membrane proteins necessary for vesicle fusion.
+The protein domains included in ferlin family members vary and there is a lack of consensus regarding domain boundaries.
+"The ferlins discussed here contain multiple C2 domains, a Ferlin Adomain (FerA), a Ferlin Bdomain (FerB), and a Ferlin Cterminal domain (Figure 2)."
+Ferlin family members are divided into two subgroups by their presence of a dysferlin (DysF) domain.
+"Type 1 ferlins include two DysF domains, where one DysF domain is inserted/embedded within a second DysF domain."
+"These nested DysF repeat sequences are divided into two parts, the dysferlin Nterminal region (DysFN) and the dysferlin Cterminal region (DysFC)."
+Type 2 ferlins do not contain a DysF domain.
+"Members of the ferlin family generally contain several C2 domains, and multiple tandem C2 domains are the defining feature of the ferlin proteins."
+C2 domains are found in a diverse set of eukaryotic proteins and were discovered in classical protein kinase C (PKC) as being responsible for calciumdependent membrane binding.
+The C2 domains bind phospholipids in membranes in both calciumdependent and -independent manners.
+The C2 domains in FER1 do not contain the five conserved calciumbinding aspartate residues in the PKC and synaptogamin I C2 domains.
+There is conflicting evidence whether these residues are necessary to coordinate calcium in the OTOF C2A domain.
+FerA domains are typically defined as a 66 amino acid FerA consensus sequence composed of two αhelical segments.
+"Using that definition, OTOF does not contain a FerA domain, and as a result, this domain is not included in the protein domain diagrams."
+"Harsini et al. showed that if an additional primary sequence is included before and after the defined regions, then two additional consensus αhelices can be predicted in all ferlin proteins in the family."
+The resulting predicted fourhelix FerA domain is capped by disordered consensus residues between C2C on the aminoterminal side and the predicted FerB sequences on its Cterminal side.
+"As a result, the updated description for FerA has “four long amphipathic αhelices, with two groups of two αhelices separated by a long, central connecting linker”."
+"Using this updated FerA domain definition, the FerA domains of DYSF, MYOF, and OTOF have calciumdependent, phospholipidbinding activity and can possibly interact with the membrane."
+There are no data to indicate if the FerA domain of FER1 has this activity. 
+J. Dev.
+Biol.
+"2025, 13, 4 7 of 35 Figure 2."
+"Protein diagram of C. elegans FER1 and H. sapiens DYSF, MYOF, and OTOF."
+Diagram depicting fulllength protein with protein domains and genetic variants.
+Human and C. elegans genetic variants are labeled with the shapes indicated at the bottom of the figure (asterisk (*) indicates a nonsense mutation).
+"The FerI and dsRBD domains overlap with C2 domains, as designated by the diagonal lines in the domain depiction."
+The amino acid numbers correspond to isoform a.
+"In DYSF, the G299W, G519R, Q605*, W999C, and R1046H mutations are associated with MMD; the G299R, D625Y, A927fs, E1624fs, E1734G, and R1810K mutations are associated with LGMD2B; the G1865fs mutation is associated with DMAT; the V67D, P791R, I1298V, and R2042C mutations are associated with MMD and LGMD2B; the R1905* mutation is associated with MMD, LGMD2B, and DMAT."
+"In OTOF, the Y730*, E747*, Q829*, R1792H, and P1825A mutations are associated with DFBN9, and the P50R, I515T, G541S, E551fs, L1011P, and R1939Q mutations are associated with ANSD."
+Schematic diagram was generated using Illustrator for Biological Sequences (IBS) 2.0.
+The ferlin proteins discussed also contain a FerI domain and a doublestranded RNAbinding domain (dsRBD) that overlaps with a C2 domains.
+"There is no defined role for the FerI domain, but it has been identified as a nucleolar protein domain."
+"The FerI domain for DYSF, MYOF, and OTOF is between the second and third C2 domains and overlaps with the second C2 domain."
+"FER1 has previously been predicted to have a FerI domain, but this domain is no longer annotated in InterProScan."
+"The dsRNAbinding domain begins within the fifth C2 domain of DYSF, MYOF, and OTOF and the fourth C2 domain of FER1."
+The role for the dsRNA binding domain is currently unclear.
+J. Dev. 
+"Biol. 2025, 13, 4 7 of 38 Figure 2. Protein diagram of C. elegans FER‐1 and H. sapiens DYSF, MYOF, and OTOF. "
+Diagram depicting full‐length protein with protein domains and genetic variants. 
+Human and C. elegans ge‐netic variants are labeled with the shapes indicated at the bottom of the figure (asterisk (*) indicates a nonsense mutation). 
+"The FerI and dsRBD domains overlap with C2 domains, as designated by the diagonal lines in the domain depiction. "
+"The amino acid numbers correspond to isoform a. In DYSF, the G299W, G519R, Q605*, W999C, and R1046H mutations are associated with MMD; the G299R, D625Y, A927fs, E1624fs, E1734G, and R1810K mutations are associated with LGMD2B; the G1865fs mutation is associated with DMAT; the V67D, P791R, I1298V, and R2042C mutations are associated with MMD and LGMD2B; the R1905* mutation is associated with MMD, LGMD2B, and DMAT. "
+"In OTOF, the Y730*, E747*, Q829*, R1792H, and P1825A mutations are associated with DFBN9, and the P50R, I515T, G541S, E551fs, L1011P, and R1939Q mutations are associated with ANSD. "
+Schematic diagram was generated using Illustrator for Biological Sequences (IBS) 2.0. 
+The ferlin proteins discussed also contain a FerI domain and a double‐stranded RNA‐binding domain (dsRBD) that overlaps with a C2 domains. 
+"There is no defined role for the FerI domain, but it has been identified as a nucleolar protein domain. "
+"The FerI domain for DYSF, MYOF, and OTOF is between the second and third C2 domains and overlaps with the second C2 domain. "
+"FER‐1 has previously been predicted to have a FerI domain, but this domain is no longer annotated in InterProScan. "
+"The dsRNA‐binding domain begins within the fifth C2 domain of DYSF, MYOF, and OTOF and the fourth C2 domain of FER‐1. "
+The role for the ds‐RNA binding domain is currently unclear. 
+J. Dev.
+Biol.
+"2025, 13, 4 8 of 35 The functions of the remaining domains in the ferlin proteins are also not welldefined."
+"Despite being used to define the classes of ferlin subgroups, the precise role of the DysF domain is unknown."
+"FER1, DYSF, and MYOF are Type 1 ferlins containing a DysF domain, while OTOF is a Type 2 ferlin."
+"In the methylotrophic yeast Pichia pastoris, the DysF domains of Pex30p and Pex31p are essential for a normal peroxisome number and size."
+"However, in contrast to the ferlin members discussed here, the P. pastoris DysF domains are not embedded within another DysF domain."
+The Ferlin Cterminal domain is found in proteins in the ferlin family and contains a transmembrane domain but has no other described function.
+No function or interaction has been attributed to the FerB domains.
+2.1.2.
+FER1 Function in C. elegans fer1 hermaphrodite mutants make normal numbers of sperm and oocytes but no fer1 sperm have abnormally short pseudopods and are nonfertilization occurs.
+Motile.
+"Notably, their MOs fail to fuse with the plasma membrane."
+"Multiple isoforms of fer1 are expressed in the sperm (specifically primary spermatocytes), and FER1 localizes to the MO of spermatids."
+"fer1 mutants are hypersensitive to intracellular calcium depletion, and calcium is necessary for MO fusion."
+"fer1 is also expressed in muscle, and mutants also have defects in muscle cholinergic synapse function similar to DYSF knockout mice."
+"Of the ten FER1 mutations highlighted in Figure 2, four (p. Trp494Ter, p. Trp1081Ter, p. Glu1345Lys, and p. Glu1657Lys) are nonconditional; sperm with these genetic lesions never fuse their MOs."
+Two of the nonconditional alleles (p. Trp494Ter and p. Trp1081Ter) are nonsense mutations that produce no FER1.
+"The remaining six mutations (p. Gly290Glu, p. Ala709Val, p. Met785Thr, p. Ser1486Asn, p. His1619Tyr, and p. Leu1809Phe) are temperaturesensitive mutations that fuse few to no MOs at the restrictive temperature."
+2.1.3.
+"fer1 Orthologs Associated with Human Disease DYSF Mutations: (a) Miyoshi Muscular Dystrophy (MMD), (b) Muscular Dystrophy, LimbGirdle, Autosomal Recessive 2 (LGMD2B), and (c) Myopathy, Distal, with Anterior Tibial Onset (DMAT) Dysferlinopathies include a spectrum of muscle diseases characterized by two major phenotypes, Miyoshi muscular dystrophy (MMD) and limbgirdle muscular dystrophy type 2B (LGMD2B), and two minor phenotypes, distal myopathy with anterior tibial onset (DMAT) and asymptomatic hyperCKemia."
+"In OMIM, asymptomatic hyperCKemia is not associated with DYSF mutations and will not be discussed here."
+"Mutations in DYSF can cause either the presentation of MMD or LGMD2B; however, clinical presentations can manifest in different muscles."
+Patients with either disease show a slow progression of muscle weakness and elevation of serum creatine kinase concentration.
+"The mean age of onset for MMD is ~22 years, while LGMD2B occurs at ~28 years old."
+"The major difference between diseases is the muscles affected; MMD affects the upper and lower limbs, particularly the calf muscles, while in LGMD2B, weakness and atrophy occur in the pelvic and shoulder girdle muscles."
+"DMAT is characterized by the early onset (mean age 20 years) of distal muscle weakness in the muscles of the anterior compartment of the legs, causing foot drop."
+"There is a high degree of variability of disease in patients with dysferlinopathy, although the clinical presentations can be similar."
+There are a relatively high number of allelic variants for DYSF that are listed in OMIM.
+"Of the 22 selected variants, 5 do not result in single amino acid changes in the DYSF protein and will not be discussed here."
+"Many variants only have a clinical description of patients with the mutation, and the impact of the mutation on protein function has J. Dev."
+Biol.
+"2025, 13, 4 9 of 35 not been determined experimentally."
+"Overall, the type of mutation or level of protein expression does not account for the variability seen in patients with dysferlinopathy."
+"The mutations associated with MMD are p. Gly299Trp, p. Gly519Arg, p. Gln605Ter, p. Trp999Cys, and p. Arg1046His."
+The p. Gly299Trp mutation is in the second C2 domain of DYSF and is hypothesized to interfere with folding.
+The mutation results in protein aggregation in myotubules and amyloid deposits in the muscles.
+The p. Gly519Arg mutation is the result of a transition mutation that activates an exonic cryptic acceptor site and alters splicing.
+The p. Gln605Ter is a nonsense mutation resulting in a truncated protein.
+The p. Trp999Cys variant is the most frequent dysferlinopathy variant.
+Expression of the mutated protein varies.
+"It is expressed at low levels in fibroblasts and displays variable expression in muscle, with some patients having no expression and others having cytoplasmic accumulations of mutated protein."
+More recent studies have shown that patients with this mutation lack DYSF expression.
+"In transfected myoblasts, both the p. Trp999Cys and wildtype proteins colocalize with the integrinlinked- kinase binding protein, affixin."
+"In these experiments, p. Trp999Cys DYSF is expressed at the plasma membrane, and the mutant can interact with affixin."
+"The p. Arg1046His mutation also colocalizes with affixin in myoblasts, but its expression is in cytoplasmic speckles, not the plasma membrane."
+Affixin expression is reduced in the sarcolemma of MMD and LGMD2B patients.
+"The mutations associated with LGMD2B are p. Gly299Arg, p. Asp625Tyr, p. Ala927fs, p. Glu1624fs, p. Glu1734Gly, and p. Arg1810Lys."
+"In contrast to the p. Gly299Trp variant associated with MMD, the p. Gly299Arg variant is associated with LGMD2B."
+"The p. Gly299Arg mutation leads to protein aggregation, specifically in amyloid deposits in the muscle, by hypothetically affecting folding."
+"Other than the description of the amino acid change, the impact of the p. Asp625Tyr and p. Glu1734Gly variants has not been studied."
+The p. Ala927fs variant is predicted to result in premature termination 21 amino acids downstream of the mutation.
+"In patients with this mutation, there is no DYSF expression in the sarcolemma of muscle fibers."
+Heterozygous individuals have reduced protein levels but no clinical symptoms.
+The impact of the p. Glu1624fs variant is predicted to cause a premature stop codon nine amino acids downstream but has not been studied further.
+The molecular impact of p. Arg1810Lys
+(also known as p. Arg1831Lys) has not been determined experimentally.
+This variant could result in either disrupted protein function or altered splicing.
+"The mutations associated with both MMD and LGMD2B are p. Val67Asp, p. Pro791Arg, p. Ile1298Val, and p. Arg2042Cys."
+p. Val67Asp is predicted to cause major disruptions in protein structure.
+Muscle sections from patients with p. Pro791Arg mutations have reduced amounts of DYSF protein.
+Proline 791 is conserved in C. elegans FER1.
+Muscle from patients with p. Ile1298Val mutations also have reduced amounts of DYSF.
+Patients with p. Arg2042Cys mutations have weak DYSF expression.
+"Zebrafish embryos expressing p. Arg2042Cys mutations are unable to repair lesions in the sarcolemma because they cannot recruit DYSF and phosphatidylserine to the repair patch, leading to the hypothesis that the human phenotype could arise due to a failure to repair damaged membranes."
+There are only two mutations associated with the DMAT phenotype alone or in combination with the MMD and LDMD2B phenotype.
+"The p. Gly1865fs mutation is the only one associated with DMAT, and there is no description of the molecular effects of the mutation."
+"The only mutation associated with MMD, LGMD2B, and DMAT is p."
+"Arg1905Ter, and there is no further description of the impact of the variant other than that it will lead to the premature termination of translation. "
+J. Dev.
+Biol.
+"2025, 13, 4 10 of 35 MYOF Mutations: Angioedema Hereditary, 7 (HAE) (Provisional) Angioedema (AE) is characterized by episodes of cutaneous or submucosal edema, often in the skin, abdomen, and upper respiratory tract."
+Hereditary angioedema (HAE) with mutations in the myoferlin gene (HAEMYOF) is one of eight types of HAE.
+MYOF is expressed in the endothelial cells lining intact blood vessels and can regulate VEGF.
+The only mutation in MYOF highlighted is the p. Arg217Ser mutation in the C2B domain (Figure 2).
+"In transfection assays, the mutation increased expression of VEGFR2 on the plasma membrane."
+This led to the hypothesis that mutations in MYOF could lead to inflammation and edema through VEGF misregulation.
+"OTOF Mutations: Deafness, Autosomal Recessive 9 (DFBN9) and Auditory Neuropathy, Autosomal Recessive 1 (ANSD) Mutations in OTOF cause a form of nonsyndromic autosomal recessive sensorineural deafness (DFBN9) resulting in congenital or prelingual bilateral deafness."
+"This phenotype is one of several that fall under the umbrella of auditory neuropathy spectrum disorder (ANSD), which includes a range of hearing dysfunctions."
+"OTOF mutations were the first identified genetic cause of ANSD, but they are not the only cause."
+OTOF is expressed in cochlear inner hair cells and acts as a calcium sensor.
+It functions at the presynaptic site to tether glutamatergic synaptic vesicles to the plasma membrane and plays a role in triggering their fusion and the replenishment of vesicles at ribbon synapses.
+Mutations in OTOF disrupt neurotransmitter release at the ribbon synapses of sensory cells resulting in impaired signal transmission to the auditory nerve.
+"As a result, patients have severeto-profound hearing loss likely from altered transmission of the auditory signal from the synapse to the brain."
+Some pathogenic variants in OTOF can also cause a less frequent temperaturesensitive version of ANSD (TSANSD).
+Patients with TSANSD have normalto-moderate hearing loss at baseline body temperature that turns to severeto-profound hearing loss when the body temperature increases by at least 0.5 ◦C.
+"DFBN9 is associated with p. Tyr730Ter, p. Glu747Ter, p. Gln829Ter, p. Arg1792His, and p. Pro1825Ala mutations in OTOF."
+The p. Tyr730Ter mutation results in severeto-profound hearing loss from a predicted truncated protein of 729 amino acids.
+The p. Glu747Ter nonsense mutation also results in a truncated protein with the same diagnosis.
+The p. Gln829Ter mutation is the most frequent OTOF mutant.
+"Patients with this mutation respond well to cochlear implantation, resulting in satisfactory functioning of the auditory nerve."
+The p. Arg1792His is categorized as likely pathogenic using a manual classification system that includes data from nonpublic databases.
+The p. Pro1825Ala was the first missense mutation identified in the OTOF gene and mutates a conserved proline residue in a C2 domain that is expected to bind calcium.
+"Auditory neuropathy is associated with the p. Pro50Arg, p. Ile515Thr,"
+"p. Gly541Ser, p. Glu551fs,"
+"p. Leu1011Pro, and p. Arg1939Gln mutations in OTOF."
+"The p. Pro50Arg mutation is hypothesized to be “pathologic” because the amino acid is conserved in mouse OTOF; however, there are no experimental data to support this contention."
+"The p. Ile515Thr mutation is associated with a temperaturesensitive hearing phenotype and occurs in an amino acid conserved in human, mouse, chicken, and zebra fish."
+The mutation occurs in the third C2C domain that is predicted to bind calcium.
+This mutation is predicted to disrupt the structure of the third C2C domain and create a new myristylation site.
+"Mice homozygous for the mutation have a moderate hearing impairment and OTOF levels are significantly reduced, which results in enlarged synaptic vesicles and a reduction in exocytosis during stimulation."
+The p. Gly541Ser mutation is hypothesized to be damaging because of the change of a nonpolar residue in the C2C domain. 
+J. Dev.
+Biol.
+"2025, 13, 4 11 of 35 The p. Glu551fs mutation is predicted to result in protein truncation or nonsensemediated decay."
+The p. Leu1011Pro mutation is hypothesized to be pathogenic because the amino acid mutated is conserved and is in the fourth C2D domain that is thought to bind calcium.
+"The p. Arg1939Gln mutation is associated with a strong phenotype, occurs in a conserved amino acid (including FER1, DYSF, and MYOF), and is predicted to be “damaging” to the protein from SIFT and Polyphen2 analysis."
+2.2.
+C. Elegans MIB1/FER2/FER4/SPE16 and H. sapiens MIB1 2.2.1.
+Ankyrin Repeat Domain (ANK) and RING Domain Function C. elegans mib1/fer2/fer2/spe16 and human MIB1 encode MIB (mind bomb)
+E3 ubiquitin protein ligase 1 protein.
+C. Elegans mib1 is orthologous to both human MIB1 and MIB2.
+"Ubiquitin is conjugated to target proteins by a pathway including three enzymes: ubiquitin activation (E1 enzymes), ubiquitin conjugation (E2 enzymes), and ubiquitin ligation to specific substrates (E3 enzymes)."
+"MIB E3 ubiquitin protein ligase proteins ubiquitinate Notch ligands, including Delta."
+Both human MIB1 and C. elegans MIB1 contain multiple ankyrin repeat domains (ANKs) and RING domains (Figure 2).
+"Human MIB1 has nine ANK domains, while C. elegans MIB1 contains seven."
+ANK domains are approximately 33 amino acids long and are present in a plethora of proteins with a wide variety of functions.
+"ANK domains largely mediate protein–protein interactions, and many ANK domain containing proteins are necessary for ubiquitination."
+"ANK domains do not require highly conserved residues at specific sites to function, and instead the 3D structural fold is most likely responsible for their function, with variations in the exposed residues enabling specific protein binding."
+"Both orthologs have two RING domains, but human MIB1 also contains a third."
+The RING (fascinating new gene)-type E3 ligases make up one of the three classes of ubiquitin transfer E3s.
+The RING domain is defined by the cysteines and histidines that coordinate two zinc ions.
+The RING domains in the MIB1 orthologs are the C3HC4 (Cys(3)-HisCys(4))
+RING/RINGHC type.
+Recent studies have demonstrated that the third RING domain of MIB1 is the only RING domain that is necessary for autoubiquitination.
+"In addition to the ANK and RING domains, human MIB1 contains two MIB/HERC2 domains, a ZZ zinc finger domain (Znf), and two mind bomb SH3 repeat (REP) domains in the Nterminal half of the protein."
+The two MIB/HERC2 domains and the ZZ zinc finger domain (Znf) are collectively referred to as the MZM element.
+"The MZM element and REP domains are necessary for interacting with Notch ligands, and they have independent substrate recognition regions."
+2.2.2. MIB1 Function in C. elegans The original characterization of phenotypes in mib1 arose from analyzing fer2 and fer4 mutants that were fertilization defective and originally identified in an EMS mutagenesis screen.
+Sperm from these mutant males had “large tubules around their condensed chromatin” in the perinuclear region instead of the “amorphous RNA containing material” normally in this area.
+"mib1 mutants were also previously described as spe16 mutants, and additional alleles were identified in EMS and ENU mutagenesis screens."
+"mib1 hermaphrodites have severely reduced fertility at 25 ◦C, and sperm show a temperaturesensitive spermatogenesis defect."
+"MIB1 is highly expressed in the germline, with the highest expression in the meiotic region."
+"No MIB1 is seen in the spermatids, and it is instead packaged in the residual body (RB)."
+"In C. elegans, spermatids bud from an anucleate residual body after the completion of meiosis, J. Dev."
+Biol.
+"2025, 13, 4 12 of 35 and these spermatids will mature into fertilizationcompetent sperm after sperm activation (Figure 1)."
+Most phenotypic characterization has been completed in mib1(eb154) deletion mutants.
+Hermaphrodite mib1(eb154) mutants show some defects in spermatogenesis and produce large spermatocytelike cells with multiple haploid nuclei in addition to some normal spermatids.
+Sperm from mib1(eb154) have a variety of spermatogenesis defects including meiosis defects that result in abnormal spermatids and sperm and pseudopod defects.
+"mib1 mutants are also able to suppress gainof-function mutants in two members of the LIN12/Notch family of proteins, lin12 and glp1."
+"Seven of the eight mutations highlighted are missense mutations (p. Met1Ile, p. Gly21Asp, p. Ala224Thr, p. Leu247Phe, p."
+"Met291I, p. Leu292Gln, p. Cys720Tyr) and one is a nonsense mutation (p. Trp460Ter)"
+(Figure 3).
+Figure 3.
+Protein diagram of C. elegans MIB1/FER2/FER4/SPE16 and H. sapiens MIB1.
+Diagram depicting fulllength protein with protein domains and genetic variants.
+Human and C. elegans genetic variants are labeled with the shapes indicated at the bottom of the figure (asterisk (*) indicates a nonsense mutation).
+Schematic diagram was generated using Illustrator for Biological Sequences (IBS) 2.0.
+2.2.3. mib1 Orthologs Associated with Human Disease MIB1 Mutations: Left Ventricular Noncompaction (LVNC) 7
+"Left ventricular noncompaction (LVNC) is a cardiomyopathy that affects the left ventricle of the heart, characterized by increased myocardial trabeculations."
+Trabeculae are sheetlike protrusions of myocardium into lumen.
+"Instead of a compacted myocardium, the myocardium in LVNC has two layers: a thick “spongelike layer” that contains intertrabecular spaces that communicate with the ventricles, and a thin subepicardial layer."
+The development of LVNC is not wellunderstood.
+There are 11 genetic causes of LVNC identified in OMIM; LVNC7 is caused by mutations in MIB1.
+The two mutations in MIB1 that are highlighted are p. Arg530Ter and p. Val943Phe (Figure 3).
+"In patients with the p. Arg530Ter mutation, the truncated form of MIB1 was not detected in blood, indicating that the mutant mRNA may be degraded by nonsensemediated decay."
+Both mutations affect MIB1 homodimer formation and ubiquitin ligase activity.
+"Neither mutant is able to ubiquitinate JAG1, which leads to defects in Notch signaling."
+"When both mutations were introduced into zebrafish, they led to J. Dev. "
+"Biol. 2025, 13, 4 12 of 38 Most phenotypic characterization has been completed in mib‐1(eb154) deletion mu‐tants. "
+Hermaphrodite mib‐1(eb154) mutants show some defects in spermatogenesis and produce large spermatocyte‐like cells with multiple haploid nuclei in addition to some normal spermatids. 
+Sperm from mib‐1(eb154) have a variety of spermatogenesis de‐fects including meiosis defects that result in abnormal spermatids and sperm and pseu‐dopod defects. 
+Mib‐1 mutants are also able to suppress gain‐of‐function mutants in two members of the LIN‐12/
+"Notch family of proteins, lin‐12 and glp‐1. "
+"Seven of the eight mutations highlighted are missense mutations (p. Met1Ile, p. Gly21Asp, "
+"p. Ala224Thr, p. Leu247Phe, p."
+"Met291I, p. Leu292Gln, p. Cys720Tyr) and one is a nonsense mutation (p. Trp460Ter) (Figure 3). "
+Figure 3. Protein diagram of C. elegans MIB‐1/FER‐2/FER‐4/SPE‐16 and H. sapiens MIB1. 
+Diagram depicting full‐length protein with protein domains and genetic variants. 
+Human and C. elegans ge‐netic variants are labeled with the shapes indicated at the bottom of the figure (asterisk (*) indicates a nonsense mutation). 
+Schematic diagram was generated using Illustrator for Biological Sequences (IBS) 2.0. 
+"2.2.3. mib‐1 Orthologs Associated with Human Disease MIB1 Mutations: Left Ventricular Noncompaction (LVNC) 7 Left ventricular noncompaction (LVNC) is a cardiomyopathy that affects the left ven‐tricle of the heart, characterized by increased myocardial trabeculations. "
+Trabecu‐lae are sheet‐like protrusions of myocardium into lumen. 
+"Instead of a compacted my‐ocardium, the myocardium in LVNC has two layers: a thick “sponge‐like layer” that con‐tains intertrabecular spaces that communicate with the ventricles, and a thin subepicardial layer. "
+The development of LVNC is not well‐understood. 
+There are 11 genetic causes of LVNC identified in OMIM; LVNC7 is caused by mutations in MIB1. 
+The two mutations in MIB1 that are highlighted are p. Arg530Ter and p. Val943Phe (Figure 3). 
+"In patients with the p. Arg530Ter mutation, the truncated form of MIB1 was not detected in blood, indicating that the mutant mRNA may be degraded by nonsense‐me‐diated decay. "
+Both mutations affect MIB1 homodimer formation and ubiquitin ligase ac‐tivity. 
+"Neither mutant is able to ubiquitinate JAG1, which leads to defects in Notch signaling. "
+"When both mutations were introduced into zebrafish, they led to defective cardiovascular development. "
+Both mutations result in a loss of function. 
+In the J. Dev.
+Biol.
+"2025, 13, 4 13 of 35 defective cardiovascular development."
+Both mutations result in a loss of function.
+"In the p. Arg530Ter mutation, the loss of function is due to haploinsufficiency, and in the p. Val943Phe mutation, it is proposed to function as a dominantnegative version of the protein."
+MIB1 mutations are thought to lead to LVNC through its interactions with NOTCH1.
+"Without myocardial MIB1 activity, NOTCH1 in the endocardium is not activated by JAG1, and without NOTCH1 activation, the downstream events that are necessary for trabecular patterning and compaction cannot occur at the proper time during development."
+2.3.
+C. Elegans SPE5 and H. sapiens ATP6V1B1 and ATP6V1B2 2.3.1.
+"Vacuolar ATPase Protein Function SPE5, ATPase H+ transporting V1 subunit B1 (ATP6V1B1), and ATPase H+ transporting V1 subunit B2 (ATP6V1B2) are VacuolarATPase (VATPase) proteins (Figure 4)."
+VATPases are large multisubunit complexes originally characterized in the yeast vacuole.
+"The primary function of the VATPase is to create an electrochemical proton gradient across eukaryotic cell membranes, which is necessary for ATP generation."
+"The gradient created allows for the acidification of intracellular vesicles and organelles, which is necessary for many essential cell biological events to occur."
+ATPase is composed of a cytosolic V1 domain and a transmembrane V0 domain.
+"The V1 domain is composed of eight different subunits (A, B, C, D, E, F, G, H)."
+Mammalian gene names begin with the designation ‘ATP6’ and then have ‘V1’ or ‘V0’ for the domain followed by the subunit and isoform.
+"The B1 subunit is expressed in renal, epididymal cells in humans, while B2 expression is ubiquitous."
+Figure 4.
+Protein diagram of C. elegans SPE5 and H. sapiens ATP6V1B1 and ATP6V1B2.
+Diagram depicting fulllength protein with protein domains and genetic variants.
+Human and C. elegans genetic variants are labeled with the shapes indicated at the bottom of the figure (asterisk (*) indicates a nonsense mutation).
+"In ATP6V1B2, the R485P mutation is associated with ZLS2, and the R506* mutation is associated with DODD."
+Schematic diagram was generated using Illustrator for Biological Sequences (IBS) 2.0.
+J. Dev. 
+"Biol. 2025, 13, 4 14 of 38 The nonsense mutation in arginine 31 (p. Arg31Ter) and the frameshift mutation at threonine 166 (p. T166fs), which results in premature termination at 174, both likely result in a loss of function. "
+The mutation of leucine 81 to proline occurs in a conserved residue and is predicted to disrupt an N‐terminal ß‐barrel. 
+The leucine 81 residue is conserved in both ATPGV1B2 and C. elegans SPE‐5 using ClustalW multiple sequence alignment. 
+"In co‐expression studies, the missense mutations p. Gly78Arg and p. Leu81Pro (as well as other missense mutations not highlighted here) fail to interact with the V‐ATPase E subunit, indicating that the mutations could impair ATPase complex formation. "
+Figure 4. 
+Protein diagram of C. elegans SPE‐5 and H. sapiens ATP6V1B1 and ATP6V1B2. 
+Diagram depicting full‐length protein with protein domains and genetic variants. 
+Human and C. elegans ge‐netic variants are labeled with the shapes indicated at the bottom of the figure (asterisk (*) indicates a nonsense mutation). 
+"In ATP6V1B2, the R485P mutation is associated with ZLS2, and the R506* mutation is associated with DODD. "
+Schematic diagram was generated using Illustrator for Biologi‐cal Sequences (IBS) 2.0. 
+ATP6V1B2 Mutations: Dominant Deafness–Onychodystrophy (DDOD) Syndrome and Zimmermann–Laband Syndrome (ZLS) 
+A heterozygous nonsense mutation in ATP6V1B2 has been reported in dominant deafness‐onychodystrophy syndrome (DDOD). 
+DDOD syndrome is characterized by congenital sensorineural deafness and onychodystrophy. 
+"The presentation of on‐ychodystrophy is variable, with absent or hypoplastic fingernails and/or toenails, bulbous fingertips, or pyramidal‐shaped distal phalanx of the toes. "
+"The p. Arg506Ter muta‐tion is a haploinsufficient mutation that occurs in a highly conserved amino acid and re‐sults in a truncated protein, which is predicted to prevent a hydrogen bond from forming between tyrosine 504 and aspartic acid 507. "
+"In transfected cells, the p. Arg506Ter mu‐tation results in reduced lysosomal acidification. "
+J. Dev.
+Biol.
+"2025, 13, 4 14 of 35 2.3.2."
+SPE5 Function in C. elegans spe5 encodes one of two VATPase Bsubunit paralogs in C. elegans.
+"spe5(ok1054) deletion mutants cannot undergo MO acidification and form arrested, multinucleate spermatocytes."
+The acidification of MOs is associated with MO morphogenesis and occurs at the same time as spermatid budding from the residual body and FBMO (fibrous body–membranous organelle—see Figure 1) maturation into an MO secretory vesicle.
+SPE5 expression begins in the spermatocytes.
+"The majority of SPE5 is discarded into the residual body; however, some SPE5 is maintained in MOs of budded spermatids."
+spe5 is on Chromosome I and is upregulated during spermatogenesis.
+"In contrast, the paralog of spe5, vha12, is present on the X chromosome, which is usually silenced during spermatogenesis."
+"Expression of vha12 via extrachromosomal array in spe5 mutants can lead to the production of small broods, indicating the functional equivalence of the two genes."
+"Three of the highlighted mutations are missense mutations (p. Asp172Asn, p. Gly204Arg, and p. Pro382Ser)"
+(Figure 4).
+The p. Asp172Asn and p. Pro382Ser mutations occurred in conserved amino acids.
+The fourth mutation (p. Trp473Ter) is a nonsense mutation.
+2.3.3.
+"spe5 Orthologs Associated with Human Disease ATP6V1B1 Mutations: Distal Renal Tubular Acidosis with Progressive Sensorineural Hearing Loss (DRTA2) Mutations in the ATP6V1B1 gene, encoding the B subunit of the apical proton pump mediating distal nephron acid secretion, cause one of the four types of distal renal tubular acidosis with progressive bilateral sensorineural hearing loss (DRTA2)."
+"Clinical manifestations of abnormal renal function occur in pediatric patients during childhood and include failure to thrive, dehydration, vomiting, polyuria, hypocitraturia, and nephrocalcinosis."
+"ATP6V1B1 is expressed in the cochlea and endolymphatic sac, where it may be necessary to maintain the pH of the endolymph."
+"The nonsense mutation in arginine 31 (p. Arg31Ter) and the frameshift mutation at threonine 166 (p. T166fs), which results in premature termination at 174, both likely result in a loss of function."
+The mutation of leucine 81 to proline occurs in a conserved residue and is predicted to disrupt a Nterminal ßbarrel.
+The leucine 81 residue is conserved in both ATPGV1B2 and C. elegans SPE5 using ClustalW multiple sequence alignment.
+"In coexpression studies, the missense mutations p. Gly78Arg"
+"And p. Leu81Pro (as well as other missense mutations not highlighted here) fail to interact with the VATPase E subunit, indicating that the mutations could impair ATPase complex formation."
+ATP6V1B2 Mutations: Dominant Deafness–Onychodystrophy (DDOD) Syndrome and Zimmermann–Laband Syndrome (ZLS) A heterozygous nonsense mutation in ATP6V1B2 has been reported in dominant deafnessonychodystrophy syndrome (DDOD).
+DDOD syndrome is characterized by congenital sensorineural deafness and onychodystrophy.
+"The presentation of onychodystrophy is variable, with absent or hypoplastic fingernails and/or toenails, bulbous fingertips, or pyramidalshaped distal phalanx of the toes."
+"The p. Arg506Ter mutation is a haploinsufficient mutation that occurs in a highly conserved amino acid and results in a truncated protein, which is predicted to prevent a hydrogen bond from forming between tyrosine 504 and aspartic acid 507."
+"In transfected cells, the p. Arg506Ter mutation results in reduced lysosomal acidification."
+"Zimmermann–Laband syndrome (ZLS) is a rare disorder characterized by gingival fibromatosis, nail aplasia or hypoplasia, joint hyperextensibility, hepatosplenomegaly, hirsutism, abnormalities of the cartilage of the nose and/or ears, and intellectual disability."
+"There are three types of ZLS, and Zimmermann–Laband syndrome2 (ZLS2) is J. Dev."
+Biol.
+"2025, 13, 4 15 of 35 caused by mutation in the ATP6V1B2 gene."
+Epilepsy is also common in ZLS1 but variable in ZLS2.
+"Arg485 is highly conserved, including in C. elegans, and the p. Arg485Pro mutation is not predicted to have any impact on the affinity for its substrate."
+"There is partial clinical overlap between ZLS and DDOD, and ZLS- and DDODcausing ATP6V1B2 mutations affect the same region of the protein, which is involved in the formation of the V1 subcomplex assembly."
+2.4.
+C. Elegans SPE9 and H. sapiens DLL1 and DLL4 2.4.1.
+EGFlike Domain Function The proteins encoded by spe9 and its orthologs Deltalike canonical Notch ligand 1 (DLL1) and Deltalike canonical Notch ligand 4 (DLL4) contain multiple EGFlike domains (Figure 5).
+"According to InterPro, SPE9 contains nine EGFlike domains, with four capable of binding calcium."
+"In previous models, spe9 was shown to encode ten EGFlike repeats."
+"DLL1 and DLL4 both contain eight EGFlike domains, with six EGF calciumbinding domains."
+Proteins containing EGFlike domains are commonly involved in extracellular events like adhesion and receptor–ligand interactions.
+EGF calciumbinding repeats are often found in conjunction with noncalcium-binding repeats.
+Calcium may be used to coordinate the interactions between proteins.
+EGFlike domains may also be used as a scaffold for functions or a spacer unit on cellsurface proteins.
+The role of EGFlike domains can vary.
+"For example, only two of the 36 EGFlike domains of Notch are necessary and sufficient for Notch–Delta interaction, and in C. elegans, the EGFlike domains in LAG2 are not necessary for its function when binding to the LIN12/Notch family members LIN12 and GLP1."
+Figure 5.
+Protein diagram of C. elegans SPE9 and H. sapiens DLL1 and DLL4.
+Diagram depicting fulllength protein with protein domains and genetic variants.
+Human and C. elegans genetic variants are labeled with the shapes indicated at the bottom of the figure (asterisk (*) indicates a nonsense mutation).
+Schematic diagram was generated using Illustrator for Biological Sequences (IBS) 2.0.
+J. Dev. 
+"Biol. 2025, 13, 4 16 of 38 Figure 5. "
+Protein diagram of C. elegans SPE‐9 and H. sapiens DLL1 and DLL4. 
+Diagram depicting full‐length protein with protein domains and genetic variants. 
+Human and C. elegans genetic vari‐ants are labeled with the shapes indicated at the bottom of the figure (asterisk (*) indicates a non‐sense mutation). 
+Schematic diagram was generated using Illustrator for Biological Sequences (IBS) 2.0. 
+"2.4.3. spe‐9 Orthologs Associated with Human Disease DLL1 Mutations: Neurodevelopmental Disorder with Nonspecific Brain Abnormalities and with or without Seizure (NEDBAS) The features of neurodevelopmental disorder with nonspecific brain abnormalities and with or without seizure (NEDBAS) include intellectual disability, autism spectrum disorder, seizures, variable brain malformations, muscular hypotonia, and scoliosis. "
+DLL1 is one of the ligands for the Notch receptor. 
+The Notch signaling pathway coordinates developmental processes in most organs and tissues. 
+DLL1 has been shown to be important in neurodevelopment. 
+"Three of the highlighted muta‐tions in DLL1 result in nonsense mutations (p. Cys77Ter, p. Glu498Ter, and Arg 509Ter) and the fourth is a frameshift mutation in glutamic acid 673 (p. Glu673Glyfs*15). "
+The precise impact of these mutations on DLL1 function is unknown. 
+DLL4 Mutations: Adams–Oliver Syndrome 6 (AOS6) Patients with Adams–Oliver syndrome (AOS) present with aplasia cutis congenita (congenital scalp defects) and terminal transverse limb defects that vary in severity. 
+"There are six forms of Adams–Oliver syndrome defined by the gene that is mutated, and AOS6 is defined by a mutation in DLL4. "
+DLL4‐associated AOS shows highly variable clinical features. 
+DLL4 is a ligand for Notch receptors and is essential for vascular formation. 
+The p. Ala121Pro is predicted to disrupt the structure and function of the beta‐strand on the inside of the module at the N‐terminus of the Notch ligand (MNNL) domain. 
+The p. Arg186Cys mutation could alter the conformation of the protein by J. Dev.
+Biol.
+"2025, 13, 4 16 of 35 In addition to multiple EGF domains, DLL1 and DLL4 both contain DSL (Delta, Serrate, lag2) and MNNL (module at the Nterminus of Notch ligands)/C2 domains."
+The DSL domain is required for Notch transactivation or cisinhibition.
+The MNNL domain is also referred to as a C2 domain and is a membrane recognition motif involved in binding phospholipids.
+"Mutations in EGF repeats near the MNNLDSL binding interface have been shown to change the DLL1 function, indicating that the protein context of the domains is important for protein function."
+2.4.2.
+"SPE9 Function in C. elegans In C. elegans, spe9 was the first gene to be identified as necessary for fertilization."
+"Sperm from spe9 mutants can contact oocytes but cannot fuse with them, despite having normal sperm morphology and motility."
+SPE9 is localized in the pseudopod of mature C. elegans sperm.
+"Mutations in even one of EGFlike domains result in infertility, and the EGF domains must be tethered to the sperm surface to be functional."
+"There are two temperaturesensitive alleles that result in missense mutation, with spe9(hc52) containing a p. Gly550Glu mutation and the spe9(hc88)"
+Allele having a p. Cys258Tyr mutation.
+Cysteine 258 in the third EGFlike repeat is conserved.
+Singson et al. reported that glycine 550 in the eighth EGFlike repeat is conserved.
+"However, a ClustalW multiple sequence alignment with DLL1 and DLL4 shows no conservation at that residue."
+"Two nonconditional alleles, spe9(eb19) and spe9(eb23), have nonsense mutations in glutamic acid 151 (p. Glu151Ter) and arginine 504 (p. Arg504Ter)."
+2.4.3.
+spe9 Orthologs Associated with Human Disease DLL1 Mutations: Neurodevelopmental Disorder with Nonspecific Brain Abnormalities and with or Without Seizure (NEDBAS)
+"The features of neurodevelopmental disorder with nonspecific brain abnormalities and with or without seizure (NEDBAS) include intellectual disability, autism spectrum disorder, seizures, variable brain malformations, muscular hypotonia, and scoliosis."
+DLL1 is one of the ligands for the Notch receptor.
+The Notch signaling pathway coordinates developmental processes in most organs and tissues.
+DLL1 has been shown to be important in neurodevelopment.
+"Three of the highlighted mutations in DLL1 result in nonsense mutations (p. Cys77Ter, p. Glu498Ter, and Arg 509Ter) and the fourth is a frameshift mutation in glutamic acid 673 (p. Glu673Glyfs*15)."
+The precise impact of these mutations on DLL1 function is unknown.
+DLL4 Mutations: Adams–Oliver Syndrome 6 (AOS6) Patients with Adams–Oliver syndrome (AOS) present with aplasia cutis congenita (congenital scalp defects) and terminal transverse limb defects that vary in severity.
+"There are six forms of Adams–Oliver syndrome defined by the gene that is mutated, and AOS6 is defined by a mutation in DLL4."
+DLL4associated AOS shows highly variable clinical features.
+DLL4 is a ligand for Notch receptors and is essential for vascular formation.
+The p. Ala121Pro is predicted to disrupt the structure and function of the betastrand on the inside of the module at the Nterminus of the Notch ligand (MNNL) domain.
+The p. Arg186Cys mutation could alter the conformation of the protein by introducing a novel disulfide bond and therefore have a negative impact on the DSL domain function.
+"The cysteinereplacing mutations at amino acid 390 (p. C390R and p. C390Y) affect residues in the fifth EGFlike domain, which are conserved up to D. melanogaster."
+A ClustalW multiple sequence alignment shows that cysteine 390 is conserved in DLL1 but not C. elegans SPE9.
+The final two highlighted mutations (p. Gln554Ter and p. Arg558Ter) are nonsense mutations that are predicted to result in nonsensemediated decay of the mRNA transcript. 
+J. Dev.
+Biol.
+"2025, 13, 4 17 of 35 2.5."
+C. Elegans SPE15 and H. sapiens MYO6 2.5.1.
+Myosin VI Protein Function SPE15 and myosin VI (MYO6) are myosin domain containing proteins (Figure 6).
+Myosins are molecular motors responsible for actinbased motility.
+"Myosin heavy chains have three main regions: the motor head, the neck region (lever), and the tail domain (cargobinding domain)."
+The motor head domain contains the nucleotide binding pocket and the actin binding site.
+The neck region contains a variable number of isoleucine–glutamine (IQ) motifs and acts as a lever arm to modulate step size.
+The tail region can vary greatly and is also referred to as the cargobinding domain (CBD).
+"The MYO6 tail region contains short coiledcoil regions to mediate myosin dimerization, helical regions to extend the length of the lever arm, and “single alphahelix (SAH) regions that also serve as lever arm extensions”."
+There are both conventional and unconventional myosins.
+"Class II myosins, including skeletal muscle myosin2, are referred to as ‘conventional’ myosin."
+All other myosins are considered ‘unconventional’.
+"The unconventional myosins perform a wide range of cellular processes, including trafficking, membrane tension, and cell motility."
+"SPE15 and MYO6 are unconventional myosins, which are the only myosin types known to move toward the pointed (-) end of actin filaments."
+MYO6 is regulated by alternative splicing depending on the cell and tissue type.
+"According to the SMART database, both SPE15 and MYO6 contain one IQ domain in the neck region and a coiledcoil and cargobinding domain in the tail region."
+Figure 6.
+Protein diagram of C. elegans SPE15 and H. sapiens MYO6.
+Diagram depicting fulllength protein with protein domains and genetic variants.
+Human and C. elegans genetic variants are labeled with the shapes indicated at the bottom of the figure (asterisk (*) indicates a nonsense mutation).
+"In MYO6, the T14fs, E216V, and R1166* mutations are associated with autosomal recessive (AR) deafness, the C442Y and R849 mutations are associated with autosomal dominant deafness (AD), and the H246R mutation is associated with AD deafness with hypertrophic cardiomyopathy."
+Schematic diagram was generated using Illustrator for Biological Sequences (IBS) 2.0. 2.5.2.
+SPE15 Function in C. elegans spe15 is necessary for the separation of spermatids from RBs.
+SPE15 works with actin to create an actomyosin ring that constricts the membrane between the spermatid and RB.
+"During spermatid budding from the RB, SPE15 migrates to the site of membrane constriction from the spermatid poles, indicating that it plays a role J. Dev. "
+"Biol. 2025, 13, 4 18 of 38 804 (p. W804Ter). "
+The inability of sperm to activate is the most likely cause of in‐fertility in spe‐15 mutants.  
+Figure 6. 
+Protein diagram of C. elegans SPE‐15 and H. sapiens MYO6. 
+Diagram depicting full‐length protein with protein domains and genetic variants. 
+Human and C. elegans genetic variants are la‐beled with the shapes indicated at the bottom of the figure (asterisk (*) indicates a nonsense muta‐tion). 
+"In MYO6, the T14fs, E216V, and R1166* mutations are associated with autosomal recessive (AR) deafness, the C442Y and R849 mutations are associated with autosomal dominant deafness (AD), and the H246R mutation is associated with AD deafness with hypertrophic cardiomyopathy. "
+Schematic diagram was generated using Illustrator for Biological Sequences (IBS) 2.0. 
+"2.5.3. spe‐15 Orthologs Associated with Human Disease MYO6 Mutations: Deafness (Autosomal Dominant and Recessive), Including Hyper‐trophic Cardiomyopathy Mutations in MYO6 are associated with deafness. "
+The p. Cys442Tyr and p. Arg849Ter mutations are associated with autosomal dominant nonsyndromic sensorineural hearing loss. 
+"The hearing loss onset in these cases varied from young, early‐school‐age pa‐tients to adults and often could evolve to profound deafness. "
+The p.
+Cys442Tyr mutation occurs in the motor domain in a highly conserved position. Mechanoen‐zymatic analysis showed that MYO6 proteins containing this mutation have accelerated ADP dissociation rates and decreased processive movement. 
+C. Elegans have a simi‐lar hydrophilic amino acid (serine) at this position. 
+The p. Arg849Ter mutation occurs in the lever arm domain of MYO6 (in between the IQ and coiled‐coil domains in alterna‐tive models) and results in a truncated protein missing the globular cargo‐binding domain. 
+"This truncated version of MYO6 is hypothesized to disrupt dimerization, cargo binding, and localization. "
+"In some cases, deafness co‐segregated with familiar hypertrophic cardiomyopathy, as in p. His246Arg mutations. "
+"Histidine 246 is also conserved in C. elegans, as determined by a ClustalW multiple sequence alignment. "
+The p. Arg1166Ter mutation occurs in the globular domain of the tail region. 
+"Finally, MYO6 autosomal recessive mutations (p. Thr13fs, p. Glu216Val, and p. Arg1166Ter) have also been reported to result in bilateral, profound, congenital sensorineural hearing loss, which included vestibular dysfunction and mild facial dysmorphism. "
+The p. Thr13fs mutation (36‐37insT) is predicted to cause a premature translation termination after the first 12 amino acids of MYO6. 
+"The glutamate mutated in the p. Glu216Val mutation is conserved in MYO6 proteins in mouse and other animals, and in C. elegans, there is an J. Dev."
+Biol.
+"2025, 13, 4 18 of 35 in membrane constriction and spermatid release."
+"SPE15 is necessary for partitioning organelles, including mitochondria, ribosomes, and cytoskeletal components, into the spermatids and away from the residual body, and proper organelle segregation is required to deliver the necessary components for spermatid activation and sperm function."
+"As a result of improper organelle segregation, spe15 mutant spermatids individualize but have defects in sperm activation."
+spe15 alleles have varied responses to sperm activators in vitro.
+"spe15(ok153) and spe15(qx529) have defects in sperm activation, while spe15(hc75) does not have activation defects."
+spe15(ok153) is a deletion mutation that removes sequences that encode the myosin head motor domain.
+"spe15(qx529) is a CRISPR/Cas9generated allele designed to mutate the amino acids in the “RRL” motif (amino acids 10671069) within the cargobinding domain (CBD) to a triplealanine mutation (p. Arg1067Ala, p. Arg1068Ala, and p. Leu1069Ala)."
+RRL motifs in the CBD can bind multiple adaptor proteins to regulate and coordinate motor–cargo attachment.
+"According to the InterPro annotation, the RRL motif amino acids are outside the CBD domain."
+"Regardless, in spe15(qx529) mutants, the cargo adapter GIPC (RGSGAIP-interacting protein C terminus) interactions are disrupted, and spermatid release cannot occur normally."
+spe15(hc75) is a nonsense mutation in tryptophan 804 (p. W804Ter).
+The inability of sperm to activate is the most likely cause of infertility in spe15 mutants.
+"2.5.3. spe15 Orthologs Associated with Human Disease MYO6 Mutations: Deafness (Autosomal Dominant and Recessive), Including Hypertrophic Cardiomyopathy Mutations in MYO6 are associated with deafness."
+The p. Cys442Tyr and p. Arg849Ter mutations are associated with autosomal dominant nonsyndromic sensorineural hearing loss.
+"The hearing loss onset in these cases varied from young, earlyschool-age patients to adults and often could evolve to profound deafness."
+The p. Cys442Tyr mutation occurs in the motor domain in a highly conserved position.
+Mechanoenzymatic analysis showed that MYO6 proteins containing this mutation have accelerated ADP dissociation rates and decreased processive movement.
+C. Elegans have a similar hydrophilic amino acid (serine) at this position.
+The p. Arg849Ter mutation occurs in the lever arm domain of MYO6 (in between the IQ and coiledcoil domains in alternative models) and results in a truncated protein missing the globular cargobinding domain.
+"This truncated version of MYO6 is hypothesized to disrupt dimerization, cargo binding, and localization."
+"In some cases, deafness cosegregated with familiar hypertrophic cardiomyopathy, as in p. His246Arg mutations."
+"Histidine 246 is also conserved in C. elegans, as determined by a ClustalW multiple sequence alignment."
+The p. Arg1166Ter mutation occurs in the globular domain of the tail region.
+"Finally, MYO6 autosomal recessive mutations (p. Thr13fs, p. Glu216Val, and p. Arg1166Ter) have also been reported to result in bilateral, profound, congenital sensorineural hearing loss, which included vestibular dysfunction and mild facial dysmorphism."
+The p. Thr13fs mutation (3637insT) is predicted to cause a premature translation termination after the first 12 amino acids of MYO6.
+"The glutamate mutated in the p. Glu216Val mutation is conserved in MYO6 proteins in mouse and other animals, and in C. elegans, there is an aspartate at this residue, indicating that charge may be important for function."
+"The p. His246Arg mutation occurs in a conserved histidine of the motor domain region in multiple species, including mouse and Drosophila. "
+J. Dev.
+Biol.
+"2025, 13, 4 19 of 35 2.6."
+C. Elegans SPE26 and H. sapiens KLHL10 2.6.1.
+Kelch Repeat Domain Function Both SPE26 and Kelchlike family member 10 (KLHL10) contain multiple Kelch repeat domains (Figure 7).
+"Proteins containing Kelch repeat domains participate in a range of cellular functions including extracellular communication, cell morphology maintenance, and regulation of gene expression."
+"Kelch domains typically interact with Cullin3 to form E3 ligase complexes, which mediate the ubiquitination of substrate proteins."
+"Each Kelch repeat folds to form a single blade of a βpropeller structure, and the number of blades varies depending on the number of repeats."
+"Several Kelch repeat proteins associate with the actin cytoskeleton, and the βpropeller is important for function."
+"Many Kelchlike homologs (KLHL) contain a BTB/POZ (BTB for Broadcomplex, tramtrack, and bric à brac and POZ for Pox virus and Zinc finger) domain, a BACK (BTB and Cterminal Kelch) domain, and multiple Kelch repeat motifs."
+"The BTB domain recruits E3 ubiquitin ligase complexes, and BACK domains form a linker between the BTB/POZ domain and the Kelch repeats."
+The presence of a BTB/POZ domain and BACK domain and the number of Kelch repeats can vary in SPE26 protein models.
+"Figure 7 is the model from the SMART database and indicates that KLHL10 contains a BTB/POZ domain, a BACK domain, and six Kelch repeats."
+"SPE26 is a member of the Cpropellor (Cprop) structural subgroup of Kelch repeat proteins, which contain five to seven Kelch motifs within the Cterminal region but have no other regions of homology within their primary sequence."
+"KLHL10 is a member of the Ndimer, Cpropeller subgroup because of the BTB/POZ domain in the Nterminal region."
+Figure 7.
+Protein diagram of C. elegans SPE26 and H. sapiens KLHL10.
+Diagram depicting fulllength protein with protein domains and genetic variants.
+Human and C. elegans genetic variants are labeled with the shapes indicated at the bottom of the figure (asterisk (*) indicates a nonsense mutation).
+Schematic diagram was generated using Illustrator for Biological Sequences (IBS) 2.0.
+2.6.2.
+SPE26 Function in C. elegans Hermaphrodite and male spe26 mutants are sterile because of spermatogenesis disruptions.
+Primary spermatocytes develop normally but fail to complete meiosis and do not form haploid spermatids.
+"The FBMO appears normal in primary spermatocytes in spe26 mutants but disassembles prematurely in the spermatocyte instead of the spermatid, as normally occurs, and the arrays of major sperm protein (MSP) disperse."
+"The MO membranes are able to fold into the compact dumbbell shape of a mature MO, but in some spermatocytes, the MO membranes are distended."
+Sperm from spe26 J. Dev. 
+"Biol. 2025, 13, 4 20 of 38 Figure 7. "
+Protein diagram of C. elegans SPE‐26 and H. sapiens KLHL10. 
+Diagram depicting full‐length protein with protein domains and genetic variants. 
+Human and C. elegans genetic variants are la‐beled with the shapes indicated at the bottom of the figure (asterisk (*) indicates a nonsense muta‐tion). 
+Schematic diagram was generated using Illustrator for Biological Sequences (IBS) 2.0. 
+2.6.3. 
+"Spe‐26 Orthologs Associated with Human Disease KLHL10 Mutations: Spermatogenic Failure 11 Mutations in KLHL10 result in oligozoospermia, characterized as spermatogenic fail‐ure. "
+"Spermatogenic failure displays wide genetic heterogeneity, with 87 different mutations cataloged in OMIM. "
+"In cases of spermatogenesis failure, spermatogenetic arrest during meiosis causes infertility. "
+"The cause of infertility in patients with mei‐otic arrest is often unidentified; however, in general, the patients display meiotically‐ar‐rested spermatocytes in the seminiferous tubules. "
+The two missense mutations high‐lighted in KLHL10 (p. Gln216Pro and p. Ala313Thr) prevent homodimerization in yeast two‐hybrid assays and are hypothesized to affect the function. 
+"In mice, Klhl10 mRNA is expressed in steps 1‐16 spermatids, and the protein is detected in the cytoplasm of steps 9‐16 spermatids. "
+"Klhl10 haploinsufficient males have defects in late spermiogenesis, possibly from defects in ubiquitination‐regulated protein turnover. 2.7. "
+"C. Elegans SPE‐39 and H. sapiens VIPAS39 2.7.1. VIPAS39/SPE‐39 Protein Function The human ortholog of spe‐39 is VPS33B interacting protein, apical‐basolateral polarity regulator, spe‐39 homolog (VIPAS39), also known as C14orf133, Vps16b, and VIPAR. "
+"Spe‐39 gene function was originally discovered in C. elegans, and subsequent studies showed there was an interaction between VPS33B and SPE‐39. "
+"Despite being orthologs, SPE‐39 and VIPAS39 have different domain structures (Figure 8). "
+VI‐PAS39 contains a VPS16 C‐terminal domain. 
+VPS16 forms part of a complex that is required for vacuolar biogenesis and vacuolar stability. 
+The C‐terminal portion of VPS16 binds to VPS33 and is necessary for VPS33 to be integrated into a multi‐subunit complex called HOPS (Homotypic fusion and vacuolar protein sorting). 
+The HOPS complex is necessary for tethering and fusion of lysosomes and intracellular compart‐ments. 
+Human SPE‐39 interacts with VPS33 homologs and other HOPS subunits. 
+C. Elegans spe‐39 is not predicted to encode any conserved protein domain according to the SMART and InterPro databases. 
+Zhu and L’Hernault identified a unique motif in C. elegans spe‐39 and additional orthologs [(LM)‐(ED)‐x‐(FY)‐(RK)‐S‐x‐x‐(DE)‐K‐J. Dev.
+Biol.
+"2025, 13, 4 20 of 35 mutants also have multiple nuclei and show mislocalized actin filaments, ER, and ribosomes."
+"Normally, actin, ER and ribosomes are sequestered into the residual body; however, this does not occur in spe26 mutants."
+"There are six spe26 alleles, and five of the six spe26 alleles map within Kelch repeats. spe26(eb8) and spe26(hc139) are nonconditional alleles resulting from a nonsense mutation (glutamine 441 and tryptophan 460, respectively) in the fifth Kelch repeat."
+spe26(hc140) has a mutation (p. Gly446Glu) in a conserved glycine in the fifth repeat unit of blade five.
+"spe26(it112) and spe26(it118) are two independently isolated alleles with the same base substitution, resulting in a missense mutation (p. Ser360Asn) in the third repeat element."
+"The sixth allele, spe26(hc138), is a temperaturesensitive mutation in the splice site in the second intron and is not shown in Figure 5. 2.6.3."
+spe26 Orthologs Associated with Human Disease KLHL10
+"Mutations: Spermatogenic Failure 11 Mutations in KLHL10 result in oligozoospermia, characterized as spermatogenic failure."
+"Spermatogenic failure displays wide genetic heterogeneity, with 87 different mutations cataloged in OMIM."
+"In cases of spermatogenesis failure, spermatogenetic arrest during meiosis causes infertility."
+"The cause of infertility in patients with meiotic arrest is often unidentified; however, in general, the patients display meioticallyarrested spermatocytes in the seminiferous tubules."
+The two missense mutations highlighted in KLHL10 (p. Gln216Pro and p. Ala313Thr) prevent homodimerization in yeast twohybrid assays and are hypothesized to affect the function.
+"In mice, Klhl10 mRNA is expressed in steps 116 spermatids, and the protein is detected in the cytoplasm of steps 916 spermatids."
+"Klhl10 haploinsufficient males have defects in late spermiogenesis, possibly from defects in ubiquitinationregulated protein turnover."
+2.7.
+C. Elegans SPE39 and H. sapiens VIPAS39 2.7.1. VIPAS39/SPE39 Protein Function
+"The human ortholog of spe39 is VPS33B interacting protein, apicalbasolateral polarity regulator, spe39 homolog (VIPAS39), also known as C14orf133, Vps16b, and VIPAR."
+"spe39 gene function was originally discovered in C. elegans, and subsequent studies showed there was an interaction between VPS33B and SPE39."
+"Despite being orthologs, SPE39 and VIPAS39 have different domain structures (Figure 8). VIPAS39"
+Contains a VPS16 Cterminal domain.
+VPS16 forms part of a complex that is required for vacuolar biogenesis and vacuolar stability.
+The Cterminal portion of VPS16 binds to VPS33 and is necessary for VPS33 to be integrated into a multisubunit complex called HOPS (Homotypic fusion and vacuolar protein sorting).
+The HOPS complex is necessary for tethering and fusion of lysosomes and intracellular compartments.
+Human SPE39 interacts with VPS33 homologs and other HOPS subunits.
+C. Elegans spe39 is not predicted to encode any conserved protein domain according to the SMART and InterPro databases.
+Zhu and L’Hernault identified a unique motif in C. elegans spe39 and additional orthologs [(LM)-(ED)-x-(FY)-(RK)-Sx-x-(DE)-Kx-xL-Lx-x-(AL)- (VIM)].
+"However, that motif is not cataloged in InterPro or the conserved domains database (CDD)."
+2.7.2.
+"SPE39 Function in C. elegans spe39 mutants complete meiosis but do not form spermatids, possibly due to issues with vesicular biogenesis."
+"There are four spe39 mutants: spe39(eb9), spe39(eb110), spe39(eb111), and spe39(tx12). spe39(eb9), spe39(eb110), and spe39(eb111) are nonsense mutations, at amino acid positions 334 (p. Arg334Ter), 320 (p. Gln320Ter), and 393 (p. Arg393Ter), J. Dev."
+Biol.
+"2025, 13, 4 21 of 35 respectively."
+spe39(tx12) is a splicesite mutant and is not depicted in Figure 8.
+Hermaphrodites bearing any of these mutant alleles are selfsterile and can produce progeny after crossing with either wildtype or heterozygous spe39 mutant males.
+spe39(eb9) and
+spe39(tx12) mutants have dramatic reductions in spermatogenesis; their sperm do not contain MOs and have disorganized FBs that are not surrounded by membrane.
+"In vitro, SPE39 interacts with two homologs of the vacuolar proteinsorting protein VPS33 (VPS33A and VPS33B)."
+"RNAi interference of VPS33B in C. elegans causes spe39-like defects, including abnormal FBMO morphogenesis and cytokinesis."
+Figure 8.
+Protein diagram of C. elegans SPE39 and H. sapiens VIPAS39.
+Diagram depicting fulllength protein with protein domains and genetic variants.
+Human and C. elegans genetic variants are labeled with the shapes indicated at the bottom of the figure (asterisk (*) indicates a nonsense mutation).
+Schematic diagram was generated using Illustrator for Biological Sequences (IBS) 2.0. 2.7.3.
+spe39 Orthologs Associated with Human Disease VIPAS39
+"Mutations: Arthrogryposis, Renal Dysfunction, and Cholestasis 2 (ARC2) Arthrogryposis (multiple joint fractures or stiffness), renal dysfunction, and cholestasis (decrease in bile flow) (ARC) syndrome is a rare multisystem disorder with wide clinical variability."
+Patients diagnosed with ARC syndrome also have low gglutamyl transpeptidase activity.
+"Fanconi syndrome, ichthyosis, dysmorphism, jaundice, and diarrhea are also associated with ARC syndrome and are part of the spectrum of phenotypes."
+"ARC2 is caused by mutations in VIPAS39, while ARC1 is caused by mutations in VPS33B."
+Patients with mutations in VIPAS39 display a typical ARC phenotype.
+"The majority of the mutations outlined here (p. Trp59Ter, p. Gln179Ter, p. Thr250fs, p. Gln291Ter, and p. Arg381Ter) are predicted to result in an incomplete, truncated protein being produced because of the insertion of a nonsense codon."
+The p. Met1Arg mutation is predicted to result in translation failure.
+Tornieri et al. showed that the p. Arg220Ter nonsense mutation led to a loss of VIPAS39 binding to VPS33B in yeast twohybrid assays.
+2.8.
+C. Elegans UBA1/SPE32 and H. sapiens UBA1 2.8.1.
+UbiquitinActivating Enzyme Protein Function Both C. elegans uba1 and human ubiquitin- like modifier activating enzyme 1 (UBA1) are ubiquitin- activating enzymes (Figure 9).
+UBA1 is an ubiquitinactivating enzyme (E1).
+The UBA1 structure has a relatively complex arrangement of multiple J. Dev. 
+"Biol. 2025, 13, 4 21 of 38 x‐x‐L‐L‐x‐x‐(AL)‐(VIM)]. "
+"However, that motif is not cataloged in InterPro or the con‐served domains database (CDD).  "
+Figure 8. 
+Protein diagram of C. elegans SPE‐39 and H. sapiens VIPAS39. 
+Diagram depicting full‐length protein with protein domains and genetic variants. 
+Human and C. elegans genetic variants are labeled with the shapes indicated at the bottom of the figure (asterisk (*) indicates a nonsense mutation). 
+Schematic diagram was generated using Illustrator for Biological Sequences (IBS) 2.0. 2.7.2. 
+"SPE‐39 Function in C. elegans spe‐39 mutants complete meiosis but do not form spermatids, possibly due to issues with vesicular biogenesis. "
+"There are four spe‐39 mutants: spe‐39(eb9), spe‐39(eb110), spe‐39(eb111), and spe‐39(tx12). Spe‐39(eb9), spe‐39(eb110), and spe‐39(eb111) are nonsense mutations, at amino acid positions 334 (p. Arg334Ter), 320 (p. Gln320Ter), and 393 (p. Arg393Ter), respectively. "
+Spe‐39(tx12) is a splice‐site mutant and is not depicted in Figure 8. 
+Hermaphrodites bearing any of these mutant alleles are self‐sterile and can produce progeny after crossing with either wild‐type or heterozygous spe‐39 mutant males. Spe‐39(eb9) and spe‐39(tx12) mutants have dramatic reductions in spermato‐genesis; their sperm do not contain MOs and have disorganized FBs that are not sur‐rounded by membrane. 
+"In vitro, SPE‐39 interacts with two homologs of the vacuolar protein‐sorting protein VPS33 (VPS33A and VPS33B). "
+"RNAi interference of VPS33B in C. elegans causes spe‐39‐like defects, including abnormal FB‐MO morphogenesis and cytokinesis. "
+2.7.3. 
+"Spe‐39 Orthologs Associated with Human Disease VIPAS39 Mutations: Arthrogryposis, Renal Dysfunction, and Cholestasis 2 (ARC2) Arthrogryposis (multiple joint fractures or stiffness), renal dysfunction, and choles‐tasis (decrease in bile flow) (ARC) syndrome is a rare multisystem disorder with wide clinical variability. "
+Patients diagnosed with ARC syndrome also have low g‐glu‐tamyl transpeptidase activity. 
+"Fanconi syndrome, ichthyosis, dysmorphism, jaundice, and diarrhea are also associated with ARC syndrome and are part of the spec‐trum of phenotypes. "
+"ARC2 is caused by mutations in VIPAS39, while ARC1 is caused by mutations in VPS33B. "
+Patients with mutations in VIPAS39 display a typical ARC phenotype. 
+"The majority of the mutations outlined here (p. Trp59Ter, p."
+"Gln179Ter, p. Thr250fs, p. Gln291Ter, and p. Arg381Ter) are predicted to result in an J. Dev."
+Biol.
+"2025, 13, 4 22 of 35 domains."
+"The adenylation domains composed of two MoeB/ThiFhomology motifs, which may be illustrated in alternative representations, are not shown in Figure 9."
+"Instead, in Figure 9, we have highlighted the catalytic cysteine halfdomains embedded within the MoeB/ThiF motifs."
+"The catalytic cysteine halfdomains contain the E1 active site cysteine, referred to as the first catalytic cysteine halfdomain (FCCH), and the second catalytic cysteine halfdomain (SCCH)."
+"The FCCH domain plays a role in ubiquitin recognition, while the SCCH domain contains the catalytic residue involved in thioester bond formation."
+UBA1 also contains a fourhelix bundle (4HB) that is immediately adjacent to the Cterminal of the FCCH domain.
+"The FCCH and 4HB domains are part of the “inactive” adenylation domain, while SCCH is part of the “active” adenylation domain that binds ATP and ubiquitin."
+"Finally, UBA1 contains a Cterminal ubiquitinfold domain (UFD), which recruits and binds E2 ubiquitinconjugating enzymes."
+Figure 9.
+Protein diagram of C. elegans UBA1/SPE32 and H. sapiens UBA1.
+Diagram depicting fulllength protein with protein domains and genetic variants.
+Human and C. elegans genetic variants are labeled with the shapes indicated at the bottom of the figure.
+"The M431V, M41T, M41L, and S56P variants are associated with VEXAS, and the M539I and S547G variants are associated with XLSMA."
+Schematic diagram was generated using Illustrator for Biological Sequences (IBS) 2.0.
+2.8.2.
+UBA1 Function in C. elegans UBA1 is the only ubiquitinactivating enzyme in C. elegans.
+"RNAi depletion of uba1 results in embryonic lethality, a low brood size, and death."
+"A temperaturesensitive allele uba1(it129) was isolated based on sterility and larval lethality and provisionally designated as spe32; however, spe32 was determined to be allelic to uba1."
+"The uba1(it129) strain contains a p. Pro1024Ser substitution, and the resulting phenotype is hypomorphic."
+uba1(it129)
+Mutant adult hermaphrodites are incapable of fertilization and lay unfertilized oocytes.
+"Sperm from these hermaphrodites are incapable of fertilization, despite having a normal morphology and being produced in normal numbers."
+Sperm from uba1(it129)
+"Hermaphrodites have normal motility and localization; however, they are not maintained in the spermatheca as unfertilized oocytes pass through."
+"UBA1 function in C. elegans sperm may be necessary for protein sorting during spermatid division from the residual body, similar to the role of spe15, or ubiquitination may play a role in fertilization, as it does in ascidians."
+J. Dev. 
+"Biol. 2025, 13, 4 23 of 38 Figure 9. "
+Protein diagram of C. elegans UBA‐1/SPE‐32 and H. sapiens UBA1. 
+Diagram depicting full‐length protein with protein domains and genetic variants. 
+Human and C. elegans genetic variants are labeled with the shapes indicated at the bottom of the figure. 
+"The M431V, M41T, M41L, and S56P variants are associated with VEXAS, and the M539I and S547G variants are associated with XL‐SMA. "
+Schematic diagram was generated using Illustrator for Biological Sequences (IBS) 2.0. 
+2.8.3. 
+"Uba‐1 Orthologs Associated with Human Disease UBA1 Mutations: VEXAS Syndrome, Somatic and Spinal Muscular Atrophy, X‐linked 2, Infantile (XL‐SMA) VEXAS (vacuoles, E1 enzyme, X‐linked, autoinflammatory, somatic) syndrome de‐scribes a multitude of adult‐onset inflammatory syndromes that were previously thought to be unrelated. "
+"VEXAS syndrome is characterized by a spectrum of systemic inflam‐matory manifestations (relapsing polychondritis, Sweet’s syndrome, polyarteritis nodosa, or giant‐cell arteritis) and hematologic symptoms (myelodysplastic syndrome or multiple myeloma). "
+The syndrome effects multiple organ systems and is severe and pro‐gressive. 
+"Recurrent fever and skin lesions are the most common clinical features; however, the spectrum of clinical characteristics has expanded as new cases have been reported since the original genotype‐driven approach to defining the disease. "
+"Somatic mutations in methionine 41 (p. Met41val, pMet41Thr, and p. Met41Leu) of UBA1 were identified as causing VEXAS syndrome. "
+"Patients with these mutations have vacuoles in myeloid and erythroid precursor cells, but the exact mechanism of vacuolation in VEXAS syndrome patients is unknown. "
+"UBA1 is expressed as two isoforms: UBA1a and UBA1b. UBA1a initiates at p. Met1 and is localized to the nucleus, while UBA1b initiates at p. Met41 and is cytoplasmically expressed. "
+"Mutations in p. Met41 result in the loss of cytoplasmic UBA1b, and instead lead to the expression of a third iso‐form initiated at p."
+Met67 (UBA1c). 
+UBA1c was also expressed in the cytoplasm but was catalytically inactive in thioester assays. 
+"An additional variant resulting in a serine to phenylalanine substitution (p. Ser56Phe) was also identified, which causes a tem‐perature‐sensitive reduction in UBA1 enzymatic activity. "
+One hypothesis for how UBA1 mutations cause VEXAS syndrome is that the mutations lead to the activation of the unfolded protein response (UPR) and multiple inflammatory pathways. 
+"X‐linked infantile spinal muscular atrophy (XL‐SMA, SMAX2) is a rare neuromuscu‐lar disease defined by congenital hypotonia, arthrogryposis, bone fractures present at birth, neurogenic atrophy, denervation, anterior horn cell loss, and a shortened life span (less than two years) because of respiratory distress or pulmonary hypoplasia. "
+Large‐scale mutation analysis identified two missense mutations (p. Met539Ile and J. Dev.
+Biol.
+"2025, 13, 4 23 of 35 2.8.3."
+"uba1 Orthologs Associated with Human Disease UBA1 Mutations: VEXAS Syndrome, Somatic and Spinal Muscular Atrophy, XLinked 2, Infantile (XLSMA) VEXAS (vacuoles, E1 enzyme, Xlinked, autoinflammatory, somatic) syndrome describes a multitude of adultonset inflammatory syndromes that were previously thought to be unrelated."
+"VEXAS syndrome is characterized by a spectrum of systemic inflammatory manifestations (relapsing polychondritis, Sweet’s syndrome, polyarteritis nodosa, or giantcell arteritis) and hematologic symptoms (myelodysplastic syndrome or multiple myeloma)."
+The syndrome effects multiple organ systems and is severe and progressive.
+"Recurrent fever and skin lesions are the most common clinical features; however, the spectrum of clinical characteristics has expanded as new cases have been reported since the original genotypedriven approach to defining the disease."
+"Somatic mutations in methionine 41 (p. Met41val, pMet41Thr, and p. Met41Leu) of UBA1 were identified as causing VEXAS syndrome."
+"Patients with these mutations have vacuoles in myeloid and erythroid precursor cells, but the exact mechanism of vacuolation in VEXAS syndrome patients is unknown."
+UBA1 is expressed as two isoforms: UBA1a and UBA1b.
+"UBA1a initiates at p. Met1 and is localized to the nucleus, while UBA1b initiates at p. Met41 and is cytoplasmically expressed."
+"Mutations in p. Met41 result in the loss of cytoplasmic UBA1b, and instead lead to the expression of a third isoform initiated at p. Met67 (UBA1c)."
+UBA1c was also expressed in the cytoplasm but was catalytically inactive in thioester assays.
+"An additional variant resulting in a serine to phenylalanine substitution (p. Ser56Phe) was also identified, which causes a temperaturesensitive reduction in UBA1 enzymatic activity."
+One hypothesis for how UBA1 mutations cause VEXAS syndrome is that the mutations lead to the activation of the unfolded protein response (UPR) and multiple inflammatory pathways.
+"Xlinked infantile spinal muscular atrophy (XLSMA, SMAX2) is a rare neuromuscular disease defined by congenital hypotonia, arthrogryposis, bone fractures present at birth, neurogenic atrophy, denervation, anterior horn cell loss, and a shortened life span (less than two years) because of respiratory distress or pulmonary hypoplasia."
+"Largescale mutation analysis identified two missense mutations (p. Met539Ile and p. Ser547Gly) and one synonymous substitution (c.1731 C/T, p. Asn577Asn) in UBA1 that segregated with XLSMA."
+The mutations cluster in the active adenylation domain towards the Nterminus of the SCCH that is required for the catalytic activity of UBA1.
+"The missense mutations do not have any impact on the catalytic adenylation activity of UBA1 in vitro; however, another mutation not highlighted here (E557V) results in a reduction in adenylation activity."
+The synonymous mutation p.
+Asn577Asn reduces UBA1 expression and alters the methylation pattern of the exon it is within.
+UBA1 may also play a role in more common SMN1dependent spinal muscular atrophy.
+3.
+Discussion Employing C. elegans fertilization genes as a cell biology model and human disease model has led to significant contributions and advancements in the understanding of protein function and cellular function.
+"This review has outlined the role of eight C. elegans fer and spe mutants and their human orthologs, and, of those, a few are of specific note."
+"When mutations in DYSF were identified as causing LGMD2B, the only sequence they showed homology to was C. elegans fer1."
+"The next year, when mutations in OTOF were identified as responsible for DFNB9, OTOF was only homologous to fer1 and the newly identified DYSF."
+"The studies of OTOF, and other ferlin family members, including fer1, have contributed to the understanding of ferlin protein function and the development of gene therapies to cure hearing loss in individuals with OTOF mutations."
+The initial J. Dev.
+Biol.
+"2025, 13, 4 24 of 35 characterizations of C. elegans spe39 were foundational for understanding how VIPAS39 functions, including that it interacts with VPS33B, and set the stage for understanding how human VIPAS39 functions and how vacuolar protein sorting is regulated."
+"In addition, mutations in both C. elegans spe26 and human KLHL10 cause disruptions in sperm function, demonstrating a remarkable similarity in gene–phenotype relationships between species."
+"As we come to understand more about the gene–phenotype relationships in C. elegans, we may discover that the genes necessary for spermatogenesis and/or fertilization represent phenologs of human phenotypes."
+Phenologs are defined as the phenotypelevel equivalent of gene orthologs and are evolutionarily conserved traits or defects that arise from a set of conserved genes.
+"The study of C. elegans has already identified phenologs of human disease, including amyotrophic lateral sclerosis (ALS), spinal muscular atrophy (SMA), and polycystic kidney disease (PKD)."
+"For example, an atypical form of ALS can be caused by mutations in VAPB (VAMP (synaptobrevin)-associated protein B), and mutations in one of the C. elegans orthologs VAPB, vpr1, have defects in distal tip cell migration and abnormal positions of head neurons."
+SMA is caused by decreased levels of the survival motor neuron (SMN) protein.
+"C. Elegans smn1 mutants exhibit a reduced lifespan, larval arrest, and impaired locomotion and pharyngeal pumping."
+Analysis of these mutants showed that SMN1 is necessary for synaptic vesicle recycling.
+Polycystic kidney disease is caused by mutations in either PKD1 or PKD2.
+"C. Elegans pkd2 is necessary for ciliated sensory neurons in the male tail to detect potential hermaphrodite mates, respond to contact, and locate the vulva."
+"The second C. elegans polycystin, lov1, acts in the same pathway and has the same phenotype."
+New opportunities for understanding will arise as new gene–phenotype relationships in both humans and C. elegans are identified and the functions of understudied and uncharacterized genes are elucidated.
+The C. elegans genes reviewed here were restricted to those with defined human orthologs that have phenotypes cataloged in OMIM.
+"As more gene–phenotype relationships are established in humans, we will undoubtedly be able to expand the scope of a review such as this to potentially include the discussion of genes without a current phenotype relationship."
+One example of a potential new gene–phenotype relationship is the identification that MIB2 variants are possibly associated with a gastropathy that resembles Ménétrier disease.
+"This relationship is not yet confirmed on OMIM, and the associated MIB2 variants are categorized as “Variant of unknown significance” (Table 1)."
+"MIB2 is an ortholog of C. elegans mib1, and studies of mib1 could give insights into MIB2 function."
+"Additionally, more C. elegans genes that are important for spermatogenesis and fertilization continue to be discovered, including two new sperm genes necessary for fertilization, spe36 and spe51."
+There is also another class of C. elegans genes on the egg that are necessary for fertilization—the egg genes—which could provide insights into human disease.
+"Egg mutants produce oocytes that cannot be fertilized and/or undergo egg activation to properly trigger the oocyteto-embryo transition, and their infertility phenotype cannot be rescued by mating with wildtype males."
+"There are currently six categorized egg genes, with the search for more underway."
+"Of the six egg genes, egg4 and egg5 have orthologs in humans."
+"The human orthologs of egg4 and egg5 are PTPRG and PTPRZ1; however, these genes have no associated gene–phenotype relationship currently."
+"Finally, there are also evolving methods of defining orthologs, including structurebased methods, which could alter our view of how we compare function across proteins."
+"Using C. elegans to determine the molecular function of pathogenic human variants, as well as variants of unknown significance, has the capability to aid significantly in precision medicine."
+"The molecular functions for most of the 64 human sequence variants discussed in this review have not been experimentally analyzed, and our knowledge of J. Dev."
+Biol.
+"2025, 13, 4 25 of 35 their impacts on protein functions is only based on the predictive impacts of the amino acid changes."
+Further studies of the molecular functions of these variants could impact treatment.
+"For example, two DYSF variants can lead to substitutions in the same amino acid, with p. Gly299Trp being associated with MMD, while a p. Gly299Arg mutation is associated with LGMD2B."
+The details of how the p. Gly299Arg mutation could lead to amyloid deposits in the muscle and whether p. Gly299Trp does the same are not understood.
+"In addition, studying how variants impact protein function in a variety of protein domain architectures can provide insights into how protein domain organization impacts functions."
+"The genes and proteins reviewed here have led to significant advances in knowledge on human disease, protein domain function, and C. elegans reproduction, and they demonstrate the power of using model organisms to study human disease."
+Combining the study of human variants with additional studies that characterize the precise molecular functions of the existing C. elegans variants using the plethora of tools available will lead to a deeper understanding of cellular function.
+"The processes of making gametes, getting them to the site of fertilization, cellular fusion, and triggering the development of a new organism are full of complex cellular processes that are ripe for study."
+"Author Contributions: M.R.M., writing—original draft preparation; S.M.P. and H.S.A., writing—reviewing and editing; M.R.M., visualization; M.R.M., supervision."
+All authors have read and agreed to the published version of the manuscript.
+Funding:
+This research received no external funding.
+Data Availability Statement: The original contributions presented in this study are included in the article.
+Further inquiries can be directed to the corresponding author(s).
+Acknowledgments: We would like to thank the reviewers for their helpful comments and suggestions.
+We also thank the undergraduate students at the Marcello laboratory for their discussions and comments about the manuscript.
+"Finally, we would like to thank Andy Golden for his mentorship and camaraderie."
+Conflicts of Interest: The authors declare no conflicts of interest.

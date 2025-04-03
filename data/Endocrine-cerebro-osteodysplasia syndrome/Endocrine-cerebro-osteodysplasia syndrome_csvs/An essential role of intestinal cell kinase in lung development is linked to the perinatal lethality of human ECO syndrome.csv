@@ -1,0 +1,202 @@
+HHS Public Access Author manuscript FEBS Lett.
+Author manuscript; available in PMC 2018 May 01.
+Published in final edited form as: FEBS Lett. 2017
+May ; 591(9): 1247–1257.
+Doi:10.1002/18733468.12644.
+"An essential role of intestinal cell kinase in lung development is linked to the perinatal lethality of human ECO syndrome Yixin Tong1,5, So Hyun Park1, Di Wu1, Wenhao Xu2, Stacey J. Guillot2, Li Jin3, Xudong Li3, Yalin Wang4, ChyuanSheng Lin6, and Zheng Fu1,* 1Department of Pharmacology, University of Virginia, Charlottesville, VA 22908, USA 2Department of Microbiology, Immunology, and Cancer Biology, University of Virginia, Charlottesville, Virginia 22908, USA 3Department of Orthopaedic Surgery, University of Virginia, Charlottesville, VA 22908, USA 4Department of Cell Biology, University of Virginia, Charlottesville, VA 22908, USA 5The Gastrointestinal Surgery Center, Tongji Hospital, Huazhong University of Science & Technology, Hubei, 430030, China 6 Departments of Pathology and Cell Biology, Columbia University, New York, NY 10032, USA Abstract Human endocrinecerebro-osteodysplasia (ECO) syndrome, caused by the lossof-function mutation R272Q in the ICK (intestinal cell kinase) gene, is a neonatallethal developmental disorder."
+"To elucidate the molecular basis of ECO syndrome, we constructed an Ick R272Q knockin mouse model that recapitulates ECO pathological phenotypes."
+Newborns bearing Ick R272Q homozygous mutations die at birth due to respiratory distress.
+"Ick, mutant lungs exhibit not only impaired branching morphogenesis associated with reduced mesenchymal proliferation, but also significant airspace deficiency in primitive alveoli concomitant with abnormal interstitial mesenchymal differentiation."
+"ICK, dysfunction induces elongated primary cilia and perturbs ciliary Hedgehog signaling and autophagy during lung sacculation."
+Our study identifies an essential role for ICK in lung development and advances the mechanistic understanding of ECO syndrome.
+"Keywords intestinal cell kinase (ICK); endocrinecerebro-osteodysplasia (ECO) syndrome; lung development; primary cilium; Hedgehog signaling; autophagy *Corresponding author: Zheng Fu, Department of Pharmacology, University of Virginia, PO Box 800735, 1340 Jefferson Park Avenue, Charlottesville, Virginia 22908; Telephone: 434982-3204; Fax: 434982-3878; zf6n@virginia.edu.  "
+Author Contributions ZF and CL conceived and designed the ECO mouse model.
+"YT, SHP, DW, WX, LJ, XL, SJG, YW, ZF performed experiments and conducted data analysis."
+"ZF, CL, WX, XL contributed essential reagents/tools."
+"ZF, YT, SHP contributed to the writing, SJG, CL, WX, LJ, YW contributed to the editing of the manuscript."
+All authors reviewed the results and approved the final version of the manuscript.
+Tong et al.
+Introduction Page 2 Human endocrinecerebro-osteodysplasia (ECO) syndrome is an autosomalrecessive neonatallethal disorder associated with congenital developmental defects in multiple organ systems.
+"A homozygous lossof-function mutation R272Q in the human ICK (intestinal cell kinase) gene, encoding a highly conserved and ubiquitously expressed serine/threonine protein kinase, was identified as the causative mutation for ECO."
+"ICK, is very similar to MAP kinase in the catalytic domain and contains a MAPKlike TDY motif in its activation loop."
+"By knocking down ICK expression using shorthairpin RNA interference, our work has demonstrated an important role for ICK in the regulation of cell proliferation and survival in vitro."
+"An essential role of ICK in human development emerged from the report of human ECO and ECOlike syndromes whose major clinical features include hydrocephalus, polydactyly and micromelia."
+"Recently, Ick knockout mouse models revealed similar ECO phenotypes in the cerebral and skeletal systems and linked ICK deficiency to abnormal structure of primary cilium.  "
+"However, the leading cause of the perinatal lethality phenotype of ECO is still unknown and the underlying cellular and molecular mechanism has not been completely elucidated."
+"To fully understand the structural and mechanistic basis of ECO phenotypes, we generated an Ick R272Q knockin mouse model."
+The homozygous Ick R272Q mutant newborns succumbed to death within minutes of birth due to respiratory distress.
+"Autopsy revealed obvious lung hypoplasia, among other ECO clinical features."
+Histological analysis indicates an abnormal lung with severe airspace deficiency in alveolar precursors.
+"In this study, we sought to investigate the structural, cellular, and molecular basis underlying lung malfunction in ECO syndrome using the Ick R272Q knockin mouse model."
+Materials and methods IckR272Q knockin mouse model for ECO syndrome
+The R272Q (CGA>CAA) point mutation was introduced into the exon 8 of the wildtype Ick allele on a bacterial artificial chromosome (BAC) to generate Ick/R272Q BAC.
+A LNL (LoxPNeo-LoxP) cassette was inserted in the intron downstream of exon 8.
+"A gene targeting vector was constructed by retrieving the 5kb long homology arm (5′ to LNL), the LNL cassette, and the 2kb short homology arm (3′ to LNL) into a plasmid vector carrying the DTA (diphtheria toxin alpha chain) negative selection marker."
+The LNL cassette conferred G418 resistance during gene targeting in PTL1 (129B6 hybrid) ES cells and the DTA cassette provided an autonomous negative selection to reduce the random integration event during gene targeting.
+Several targeted ES cell clones were identified and injected into C57BL/6 blastocysts to generate chimeric mice.
+"Male chimeras were bred to homozygous EIIa (cre/cre) females (in C57BL/6J background) to excise the neo cassette and to transmit the Ick/R272Q allele through germline (Precision Targeting Lab, USA)."
+IckR272Q heterozygous mice were backcrossed with C57BL/6J for six generations to achieve a complete C57BL/6J genetic background using speed congenic.
+The R272Q mutation in mouse Ick gene was confirmed by genomic DNA sequencing.
+"For timed pregnancy, the presence of a copulation plug in the morning represented embryonic day (E) 0.5."
+Animal FEBS Lett.
+Author manuscript; available in PMC 2018 May 01.
+Tong et al.
+Page 3 experiments were carried out according to NIH Animal Welfare Guidelines after approval by the University of Virginia Institutional Animal Care and Use Committee.
+"Lung histology and morphometric analysis Whole mouse embryos or isolated lungs were fixed in 4% paraformaldehyde (PFA) for 1–3 days, depending on age and size of the specimen."
+"Fixed embryos or lung tissue were dehydrated through gradient ethanol, placed in xylene and embedded in paraffin."
+"Sections (5 μm) were cut, stained with Hematoxylin and Eosin, and photographed using Olympus BX41 and cellSens imaging software."
+"For morphometric analysis, 20× images of lung sections taken from Aperio ImageScope (Leica Biosystems) were analyzed by ImageJ using the method for quantification of distal air saccular area and mesenchymal thickness as described in."
+"Immunohistochemistry and Western blot Paraffin sections were immersed in Low pH Flex antigen retrieval solution at 97°C for 20 min, and incubated with Dual Endogenous EnzymeBlock Reagent (Dako) to block endogenous peroxidase and alkaline phosphatase activities."
+"For detection, the peroxidasebased EnVision™+ Dual Link Kit and DAB+ (diaminobenzidine) substratechromogen system (Dako) were used."
+Isolated lungs were snapfrozen in liquid nitrogen and grinded into fine powders on dryice.
+"Proteins were extracted from lysed lung tissue, denatured and applied to Western blotting as described in."
+All commercial antibodies used in the study are listed in Table S1.
+Scythe phosphoT1080 rabbit antibody was generated in rabbits against phosphopeptides RPL[pT]SPESLSRDLEAC and affinitypurified (Genscript).
+Immunofluorescence Paraffin sections of mouse lung tissue were subjected to antigen retrieval in High pH Target retrieval solution (Dako) before incubation with antibodies.
+"Mouse embryonic fibroblast (MEF) cells were isolated from E14.5–E15.5 embryos and maintained at 37°C and 5% CO2 in Dulbecco’s modified Eagle’s medium supplemented with 10% fetal bovine serum, nonessential amino acids, and penicillinstreptomycin using a standard protocol."
+"MEF cells grown on collagencoated coverslips were fixed by 4% paraformaldehyde (PFA) in PBS, rinsed in PBS, and then permeabilized by 0.2% Triton X100 in PBS."
+"After one hour in blocking buffer (3% goat serum, 0.2% Triton X100 in PBS), mouse lung tissue sections or MEF cells on cover slips were incubated with primary antibodies (Table S1) at 4°C overnight followed by rinses in PBS and one hour incubation with Alexa Fluorconjugated secondary antibodies (Table S1)."
+"After extensive rinses, slides were mounted in antifade reagent containing DAPI (4',6diamidino-2phenylindole) for imaging (Zeiss AxioImager Z1, Zeiss)."
+Quantitative RTPCR Total RNA was isolated from E18.5 lung tissue and purified using the RNeasy kit (Qiagen) and 1 μg of total RNA was reverse transcribed with oligodT primer using iScript cDNA Synthesis Kit (BioRad).
+Realtime PCR was performed using the Rotor Gene Q instrument FEBS Lett.
+Author manuscript; available in PMC 2018 May 01.
+Tong et al.
+Page 4 (Qiagen) with KAPA SYBR FAST Universal qPCR Kit (KAPA Bioscience).
+The primers are listed in Table S2.
+"Electron microscopy Lungs were fixed with 2.5% glutaraldehyde and 4% paraformaldehyde in 0.1 M sodium cacodylate buffer at 4°C overnight, and rinsed thoroughly with distilled filtered water."
+"For scanning electron micrographs, the specimens were postfixed with 2% osmium tetroxide for 30 minutes, rinsed thoroughly with water, dehydrated in a graded ethanol series, dried by a critical point drier, mounted on stubs with silver paint or doublesided conductive carbon stickers, and coated with gold by sputter coater."
+Lung specimens were examined and photographed using scanning electron microscope (Zeiss Sigma VP HD SEM).
+Statistical analysis Data are presented as means ± SD.
+"Statistical significance was evaluated using a Student’s ttest, and the P value less than 0.05 was taken as statistically significant."
+"Results Construction of the IckR272Q knockin mouse model for human ECO syndrome To gain a comprehensive understanding of the cellular and molecular basis underlying developmental phenotypes of ECO syndrome, we generated an ECO mouse model in which the ECO R272Q mutation was “knocked in” the murine Ick gene (Fig. 1A)."
+The Ick R272Q mutant allele can be distinguished from the wild type allele based on the size of a PCR product within the knockedin region that is congenic with the R272Q mutation (Fig.
+1A– B).
+The “knocked in” mutation R272Q in the mouse Ick gene was confirmed by genomic DNA sequencing (Fig. 1C).
+Inhibitory effect of the R272Q mutation on ICK catalytic activity was confirmed by assessing phosphorylation of its substrate Scythe (Fig. 1L).  
+Mice heterozygous for the targeted allele (IckR272Q/+) were phenotypically normal.
+IckR272Q homozygous mice died shortly after birth due to respiratory failure IckR272Q/+ heterozygous mice were interbred to produce IckR272Q/R272Q homozygous mice.  
+"Among a total of 292 embryos harvested at E12.5–E18.5, 24% were wild type, 48% were heterozygous, and 28% were homozygous (Table S3)."
+"Among a total of 122 heterozygous intercross offspring genotyped at birth or 3 weeks postpartum, 30% were wild type, 48% were heterozygous, and no live R272Q homozygous mice were found (Table S4)."
+"In all cases, pups that showed severe gasping and died within minutes of birth were genotyped as the R272Q homozygous mutants that displayed essential ECO pathological features such as polydactyly and shortened limbs (Fig."
+S1).
+Inadequate oxygenation of the blood in R272Q homozygous mutant lungs was evident (Fig. 1D).
+These results indicate that IckR272Q/R272Q knockin mouse model can phenotypically replicate human ECO syndrome and impaired transition to air breathing at birth may significantly contribute to the cause of ECO perinatal lethality.
+FEBS Lett.
+Author manuscript; available in PMC 2018 May 01.
+Tong et al.
+"Page 5 IckR272Q homozygous mutant lungs displayed significant airspace deficiency but normal differentiation of alveolar epithelial cells in primitive alveoli IckR272Q homozygous lungs had the normal shape, number and arrangement of lobes but were hypoplastic and severely deficient in airspace (Fig."
+"1D, Fig."
+S2G–H).
+Morphometric analyses of IckR272Q homozygous lungs further indicate a significant reduction in lung saccular area and a marked increase in mesenchymal thickness (Fig.
+"1E, Fig. S2I)."
+The formation of alveolar precursors was severely disrupted as a result of deficient ICK signaling (Fig. 1 and Fig.
+S2).
+Alveolar type 1 (AT1) and type 2 (AT2) epithelial cells are essential building units of alveoli.
+IckR272Q/R272Q mutant lungs expressed the AT1 marker podoplanin (PDPN) and the AT2 marker surfactant protein C (SFTPC) at normal levels and in a pattern similar to that of wild type or IckR272Q/+ littermates (Fig.
+1F–K).
+Electron micrographs confirmed that Ick mutant lungs had both AT1 and AT2 cells as well as secreted surfactants in airspace (Fig.
+"S3A–B), which is consistent with the presence of lamellar bodies and glycogen particles in Ick mutant AT2 cells (Fig. S3C)."
+These observations suggest that ICK function is not essential for the differentiation of alveolar epithelial cells and that airspace deficiency in Ick mutant lungs are not caused by the lack of AT1 and AT2 cells or a deficiency in secreted surfactants.
+"Defective ICK signaling reduced lung branching associated with decreased mesenchymal cell proliferation during morphogenesis To evaluate branching at the pseudoglandular stage (E11.5–16.5), wholemount lungs were isolated from E12.5–E13.5 embryos."
+The number of lung buds (branching points) per area was reduced by about 50% in Ick mutant lungs as compared with normal littermate controls (Fig.
+"2A–C), suggesting that lung branching morphogenesis is compromised in Ick mutant lungs."
+The bronchial tree develops through extensive proliferation of distal epithelium and surrounding mesenchyme.
+Proliferation of the distal lung epithelium and mesenchyme at E12.5 was examined by immunohistochemistry using Ki67 and phosphoHistone H3 as proliferation markers (Fig.
+"2D–E, Fig."
+S4A–B).
+"Ick, mutant lungs showed a significant decrease in the number of proliferating mesenchymal but not epithelial cells (Fig. 2F), suggesting that impaired mesenchymal cell proliferation may cause reduced lung branching in ECO syndrome."
+"An excess of smooth muscle actin (SMA)-positive mesenchymal cells were present in the thickened interstitium of IckR272Q homozygous mutant lungs During alveolar development at the saccular stage (E16.5–18.5), in addition to the differentiation of the two main specialized epithelial cell types of the future alveolus, a major morphogenetic event that occurs is the thinning and remodeling of lung interstitium, a process that is still mechanistically poorly understood."
+"Compared with wild type lungs, Ick mutant lungs displayed excessive cellularity in the interstitium (Fig. 1, Fig. S2), suggesting the thinning process is blocked."
+Given the abundance of proliferating cells in Ick mutant lungs was not significantly different from that of wild type lungs at E18.5 (Fig.
+"S5), overproliferation is not the primary cause of the interstitial hypercellularity in Ick mutant lungs.  "
+Apoptosis may contribute to the thinning of interstitium between airspaces and the formation of air saccules.
+"However, assessing cell death in Ick wild type versus R272Q mutant FEBS Lett."
+Author manuscript; available in PMC 2018 May 01.
+Tong et al.
+"Page 6 lungs was experimentally difficult because of the low number of cells undergoing this process in the normal lung, as reported in and confirmed in our study."
+"Therefore, although no significant difference in the percentage of labelled apoptotic cells (0.04–0.05%) was observed between Ick R272Q homozygous mutant and littermate normal lungs during interstitium remodeling (unpublished data), we cannot completely exclude the possible contribution of aberrant cell apoptosis to the interstitial hypercellularity in Ick mutant lungs."
+"Intriguingly, Western blot analysis revealed that Ick mutant lungs expressed a significantly increased amount of smooth muscle actin (SMA) but a similar amount of epithelial cell marker Ecadherin (CDH1) and AT2 cell marker SFTPC when compared with wild type lungs (Fig. 3C)."
+Immunohistochemistry confirmed the presence of an excessive number of SMApositive mesenchymal cells in the interstitium of Ick mutant lungs (Fig.
+"3A–B, A′–B ′)."
+"In contrast, the expression pattern of SMApositive smooth muscle cells in pulmonary vessels and bronchioli of Ick mutant lungs was very similar to that of normal lungs (Fig. S6).  "
+These results suggest that an accumulation of SMApositive mesenchymal cells in the interstitium may contribute to the impaired thinning of interstitium.
+The TGFβ/Smad signaling pathway is a major transcriptionregulating mechanism for αSMA expression.
+"Compared with normal lungs, Ick mutant lungs did not display any significant changes in the expression levels of Smad2 and Smad3 (Fig. 3C)."
+"Furthermore, TGFβ receptor complexactivated phosphorylation of Smad2 and Smad3 was not elevated, instead a moderate decrease in phosphoSmad2 signals was observed in Ick mutant lungs (Fig."
+3C).
+This result suggests that a Smad signalingindependent mechanism underlies the increased expression of αSMA in Ick mutant lungs.
+Loss of ICK function induced elongated primary cilia in embryonic lungs ICK has an evolutionarily conserved role in the structural maintenance of primary cilium through regulation of intraflagellar transport (IFT).
+"Recently, ICK localization was reported on primary cilia of mammalian cells."
+"Using the primary cilium marker Arl13B (Fig. 4A, B), we sought to determine whether loss of ICK function impairs ciliary structure during embryonic lung development."
+Quantitative analyses indicate that deficient ICK signaling induced a significant increase in the length of primary cilium in the developing lung (Fig. 4C).
+A similar phenotype in ciliary length was observed in IckR272Q/R272Q lungs through scanning electron microscopy (Fig. 4D).
+"Using molecular markers for primary cilium (acetylated tubulin and Arl13B), we also showed that loss of ICK function induced elongation of primary cilium in mouse embryonic fibroblast (MEF) cells (Fig."
+4E–M).
+"ICK, dysfunction altered Sonic hedgehog signaling and autophagy status Primary cilia are not only sensory organelles but also signaling hubs linked to Sonic Hedgehog (Shh) signaling during vertebrate development."
+"Ick, mutant lungs (E18.5) exhibited increased expression of genes that are essential for Shh signaling such as Shh ligands, Shh transmembrane receptor Patched2 (Ptch2), transmembrane regulator Smoothened (Smo), and transcription activator Gli2 as well as decreased expression of a vertebrate Hhspecific inhibitor, Hedgehog interacting protein (Hhip) (Fig. 5E).  "
+FEBS Lett.
+Author manuscript; available in PMC 2018 May 01.
+Tong et al.
+Page 7 Immunohistochemistry confirmed upregulated expression of Gli2 and Ptch2 proteins in a subset of cells in E18.5
+"Ick, mutant lungs (Fig."
+5A–D).
+These results indicate that disrupting ICK signaling in E18.5 embryonic lungs induced an upregulation of Shh signaling associated with elongated primary cilia.
+"Given the reciprocal regulations of primary cilium and autophagy, we assessed the basal autophagy status in E18.5 Ick wild type and mutant lungs by analyzing the expression levels of two autophagy markers:"
+LC3 (microtubuleassociated protein light chain 3) and SQSTM1 (sequestosome 1).
+LC3 was detected as two bands on immunoblot: cytosolic LC3I (upper band) and membraneassociated LC3II (lower band).
+"LC3II is specifically localized on autophagosomes, and its level correlates with autophagic vesicle numbers."
+SQSTM1 binds LC3 and serves as a selective substrate for autophagy.
+"Inhibition of autophagy correlates with increased levels of SQSTM1 whereas decreased levels of SQSTM1 are associated with autophagy induction, suggesting that steadystate levels of SQSTM1 reflect the autophagic status."
+An increase in LC3II signals concurrent with a marked decrease in SQSTM1 signals were detected in Ick R272 homozygous mutant lungs as compared with either wild type or R272 heterozygous mutant lungs (Fig. 5F).
+This result suggests that deficient ICK signaling in the lung elicited an increase in basal autophagy.
+"To further examine whether ICK regulates the activity of the autophagy pathway, we used MEFs to evaluate the autophagy flux and its degradative activity."
+"Under the steadystate, Ick mutant MEFs exhibited less LC3 and SQSTM1 signals than wild type MEFs (Fig. "
+5G).
+"Upon induction of autophagy by starvation, LC3 and SQSTM1 signals in wild type cells were significantly reduced to the levels of Ick mutant cells prior to starvation (Fig. 5G).  "
+"In both the steadystate and starvation conditions, Ick mutant cells displayed significantly less LC3 and SQSTM1 signals than wild type cells, indicating a faster autophagy flux and quicker degradative process in Ick mutant cells."
+"Taken together, our results suggest that the autophagy status is significantly altered by ICK dysfunction."
+Discussion
+Our studies have established ICK as an essential molecular determinant of lung development and provided new mechanistic insights into the perinatal lethality phenotype of human ECO syndrome.
+"Although recent studies from Ick knockout mouse models linked ICK deficiency to defective ciliary structure and transport in the neuronal and skeletal systems, it was not clear how this link affects any specific cellular processes during embryonic development that cause the perinatal death in ECO patients."
+"Using an ECO mouse model, we report here that ICK dysfunction can lead to an abnormal lung with severe alveolar airspace deficiency and respiratory failure at birth."
+Mesenchymal cell proliferation during lung branching morphogenesis and interstitial mesenchymal cell differentiation and remodeling during lung sacculation are two important cellular mechanisms by which ICK regulates embryonic lung development.
+"Loss of ICK function perturbed not only ciliary structure and Hedgehog signaling but also autophagy, a highly conserved intracellular process in the maintenance of cell homeostasis."
+The dependence of Hedgehog (Hh) signaling on the integrity of a primary cilium has been well established.
+Even though in Ick null cells opposite effects on ciliary length were FEBS Lett.
+Author manuscript; available in PMC 2018 May 01.
+Tong et al.
+"Page 8 observed in neural tubes (shortened) and limb buds (elongated), abnormal ciliary localization and expression of Hh pathway components is associated with compromised Hh signaling in both cases, albeit with different patterns."
+"In one case, decreased expression of Hhtargeted genes Gli1 and Ptch1 was observed in the posterior region of limb buds."
+"In the other case, Gli2 and Gli3 signals were enriched at cilia tips in Ick null cells even without Hh pathway stimulation, and ciliary Smo signals were increased in Ick null neural tubes ."
+"In Ick R272Q mutant embryonic lungs, significant alterations in Hhtargeted genes such as Gli2 and Ptch2 were observed at E18.5, the saccular stage (Fig. 5E), but not at E14.5, the pseudoglandular stage (Fig."
+S7).
+These results suggest that the effect of impaired ciliary structure induced by loss of ICK function on Hh signaling may depend on not only specific tissue and cellular contexts but also specific developmental stages.
+"The selective effects of deficient ICK signaling on Gli2 and Ptch2, but not Gli1 and Ptch1, in E18.5 Ick mutant lungs are also intriguing."
+"Gli2, but not Gli1, is primarily required for activation of Hh signaling."
+"Ectopic overexpression of GLI2 can drive increased expression of Shh, Ptch1, Ptch2, Smo, Hhip, and Gli1 in the developing mouse lung."
+"Despite the strong correlative evidence from Ick knockout and Ick R272Q mutant mouse models, further studies are required to establish a functional relationship between Hh signaling and the ECO phenotypes and elucidate the mechanisms underlying the tissue context- and developmental stagedependent selective effects of ICK on the Hh signaling."
+Our data here provided further evidence underscoring the importance of Sonic hedgehog (Shh) signaling in lung development and disease.
+There are significant similarities between the phenotypes of Ick R272Q mutant lungs and transgenic lungs overexpressing Shh.
+Both Shh transgenic and Ick R272Q mutant newborns died soon after birth due to respiratory failure linked to the absence of functional alveoli.
+Either Shh overexpression or ICK dysfunction resulted in an abnormal lung showing extensive mesenchyme between undilated air saccules but normal differentiation of alveolar epithelial cells.
+"This excess mesenchyme probably interferes with sacculation and the formation of functional alveoli, but the underlying mechanisms may be different."
+"In Shh transgenic lungs, increased mesenchymal proliferation may contribute primarily to the excessive interstitial mesenchyme."
+"In Ick mutant lungs, no significant increase in cell proliferation at the saccular stage was detected."
+"The thickened interstitial mesenchyme of Ick mutant lungs has an overabundance of SMApositive cells, suggesting that abnormal mesenchymal differentiation may impair interstitial remodeling and disrupt sacculation."
+Previously we identified Scythe as an ICK interacting protein and candidate substrate from a yeast twohybrid screening.
+"In mammalian cells, ICK directly interacts with Scythe and phosphorylates Scythe in vitro at Thr1080."
+Our new data showing ICK phosphorylation of Scythe Thr1080 in vivo (Fig. 1) strongly suggest that Scythe is an ICK substrate to mediate its downstream signaling events in the developing lung.
+Scythe is a cochaperone protein with diverse regulatory functions in protein biogenesis and degradation .
+Genetargeted deletion of Scythe in mice resulted in perinatal lethality associated with ECOlike lung phenotypes.
+Autophagy was also impaired in lungs of Scythe null mouse embryos.
+Autophagy has been implicated in playing a critical role of facilitating the thinning of the alveolar septa that is necessary for effective gas exchange during the transition to air breathing at birth.
+Further investigation is required to determine FEBS Lett.
+Author manuscript; available in PMC 2018 May 01.
+Tong et al.
+Page 9 whether abnormal autophagy due to disruption of the ICKscythe signaling axis can lead to impaired thinning of lung interstitial mesenchyme and malformation of alveoli in ECO syndrome.
+Several lines of evidences from previous studies suggest that ciliogenesis and autophagy are intricately linked and reciprocally regulated.
+A major goal of our future studies is to address whether ICK directly targets autophagy first to regulate ciliogenesis and Hh signaling or vice versa in the determination of cell fate and phenotype.
+Supplementary Material Refer to Web version on PubMed Central for supplementary material.
+"Acknowledgments We thank our colleagues at UVA Research Histology, Biorepository and Tissue Research Facility, Advanced Microscopy, and DNA Sciences for excellent technical support, and Dr. Ruth Stornetta for technical guidance in immunofluorescence microscopy and imaging."
+This work was partially supported by National Institute of Health grants DK082614 and CA195273 to Z.F. Abbreviations ICK ECO SHH
+Gli intestinal cell kinase endocrinecerebral-osteodysplasia Sonic Hedgehog gliomaassociated oncogene AT1/AT2 alveolar type 1/type 2 epithelial cell PDPN podoplanin SFTPC surfactant protein C SMA LC3 smooth muscle actin microtubuleassociated protein light chain 3 SQSTM1 sequestosome 1 CDH1 cell adhesion molecule 1/Ecadherin MEF mouse embryonic fibroblast

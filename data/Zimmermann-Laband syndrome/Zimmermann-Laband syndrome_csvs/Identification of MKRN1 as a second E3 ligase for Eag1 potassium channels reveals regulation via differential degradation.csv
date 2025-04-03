@@ -1,0 +1,459 @@
+"RESEARCH ARTICLE Identiﬁcation of MKRN1 as a second E3 ligase for Eag1 potassium channels reveals regulation via differential degradation Received for publication, September 7, 2020, and in revised form, February 17, 2021, Published, Papers in Press, February 27, 2021, https://doi.org/10.1016/j.jbc.2021.100484"
+"YaChing Fang1,2, SsuJu Fu2, PoHao Hsu1,2, PeiTzu Chang1, JingJia Huang2, YiChih Chiu1, YiFan Liao1, GueyMei Jow3, ChihYung Tang2,*, and ChungJiuan Jeng1,4,* From the 1Institute of Anatomy and Cell Biology, School of Medicine, National YangMing University, Taipei, Taiwan; 2Department of Physiology, College of Medicine, National Taiwan University, Taipei, Taiwan; 3School of Medicine, FuJen Catholic University, New Taipei City, Taiwan; 4Brain Research Center, National YangMing University, Taipei, Taiwan Edited by George DeMartino Mutations in the human gene encoding the neuronspeciﬁc Eag1 voltagegated K+ channel are associated with neurodevelopmental diseases, indicating an important role of Eag1 during brain development."
+A diseasecausing Eag1 mutation is linked to decreased protein stability that involves enhanced protein degradation by the E3 ubiquitin ligase cullin 7 (CUL7).
+"The general mechanisms governing protein homeostasis of plasma membrane- and endoplasmic reticulum (ER)-localized Eag1 K+ channels, however, remain unclear."
+"By using yeast twohybrid screening, we identiﬁed another E3 ubiquitin ligase, makorin ring ﬁnger protein 1 (MKRN1), as a novel binding partner primarily interacting with the carboxylterminal region of Eag1."
+"MKRN1 mainly interacts with ERlocalized immature coreglycosylated, as well as nascent nonglycosylated, Eag1 proteins."
+MKRN1 promotes polyubiquitination and ERassociated proteasomal degradation of immature Eag1 proteins.
+"Although both CUL7 and MKRN1 contribute to ER quality control of immature coreglycosylated Eag1 proteins, MKRN1, but not CUL7, associates with and promotes degradation of nascent, nonglycosylated Eag1 proteins at the ER."
+"In direct contrast to the role of CUL7 in regulating both ER and peripheral quality controls of Eag1, MKRN1 is exclusively responsible for the early stage of Eag1 maturation at the ER."
+We further demonstrated that both CUL7 and MKRN1 contribute to protein quality control of additional diseasecausing Eag1 mutants associated with defective protein homeostasis.
+Our data suggest that the presence of this dual ubiquitination system differentially maintains Eag1 protein homeostasis and may ensure efﬁcient removal of diseaseassociated misfolded Eag1 mutant channels.
+"The etherà-gogo family of voltagegated K+ channels comprises three gene subfamilies: eag (KV10), erg (eagrelated gene) (KV11), and elk (eaglike K+ channel) (KV12) (1)."
+"In mammals, Eag encodes neuronspeciﬁc K+ channels that are expressed in various regions of the brain and make signiﬁcant * For correspondence: ChungJiuan Jeng, cjjeng@ym.edu.tw; ChihYung Tang, tang@ntu.edu.tw."
+"Contributions to subthreshold K+ currents; nonetheless, the speciﬁc physiological roles of Eag K+ channels are not yet fully understood (2–5)."
+"The mammalian Eag subfamily encompasses two isoforms: Eag1 (KV10.1) and Eag2 (KV10.2) (3, 5–8)."
+"Both in situ hybridization and realtime PCR analyses support the notion that Eag1 and Eag2 are highly expressed in a wide variety of different rat brain areas (2, 5, 9, 10), implying that the two mammalian Eag isoforms may participate in certain essential functions in the brain."
+"In Drosophila, mutations in the eag gene manifest a hyperexcitable phenotype in which ﬂy legs shake extensively under ether anesthesia (11)."
+"Knockout of the Eag1 channel function in mice, however, fails to result in any marked phenotype other than a modest synaptic hyperactivity (12)."
+"Interestingly, knockdown of Eag1 in zebraﬁsh reveals a severe disruption in the development of the central nervous system (13)."
+"Consistent with the observation in zebraﬁsh, mutations in the human gene encoding Eag1 (KCNH1) were recently reported in individuals with two congenital neurodevelopmental disorders: Temple–Baraitser syndrome (TMBTS) (14) and Zimmermann–Laband syndrome (ZLS) (15, 16)."
+"TMBTS is characterized by intellectual disability, epilepsy, dysmorphic facial features, and broad thumbs and great toes with absent/ hypoplastic nails; whereas ZLS is characterized by facial dysmorphism including coarsening of the face and a large nose, gingival enlargement, intellectual disability, hypoplasia of terminal phalanges and nails, and hypertrichosis."
+This correlation between KCNH1 mutations and the clinical presentation of TMBTS/ZLS highlights a potentially important role of Eag1 during the development of the brain.
+"We have previously demonstrated that a ZLScausing mutant Eag1 channel (G469R) is associated with signiﬁcant reduction in total protein level (17), suggesting the presence of a disrupted Eag1 protein homeostasis."
+Protein homeostasis (also known as proteostasis) refers to the property of a subcellular system that regulates and maintains a stable balance of protein synthesis and degradation (18).
+"Protein homeostatic regulation plays a critical role in determining the optimal expression level of endogenous K+ channels in neurons, which in turn may set the network excitability in a wide variety of J. Biol."
+Chem.
+(2021) 296 100484 1 © 2021 THE AUTHORS.
+Published by Elsevier Inc on behalf of American Society for Biochemistry and Molecular Biology.
+This is an open access article under the CC BY license (http://creativecommons.org/licenses/by/4.0/). 
+MKRN1 regulates ER quality control of Eag1 different neural circuits in the brain (19).
+Very little is known about the molecular regulation of Eag1 protein homeostasis.
+"Previously, we reported that the E3 ubiquitin ligase cullin 7 (CUL7) promotes proteasomal and lysosomal degradation of endoplasmic reticulum (ER)- and plasma membranelocalized Eag1 proteins, respectively (17)."
+"In this study, we present the identiﬁcation of another novel binding partner of Eag1, the E3 ubiquitin ligase makorin ring ﬁnger protein 1 (MKRN1; also known as RNF61)."
+"The results from our biochemical and biophysical analyses are consistent with the idea that MKRN1 contributes to protein quality control of Eag1 K+ channels, as well as ERassociated degradation of diseasecausing misfolded Eag1 proteins."
+"Results MKRN1 is a novel binding partner of Eag1 To search for the protein machinery responsible for homeostatic regulation of the Eag1 K+ channel, we carried out yeast twohybrid screening of a rat brain cDNA library by using the cytoplasmic carboxyl (C)-terminal region of rat Eag1 as the bait."
+"Two of the positive clones isolated by the screening correspond to MKRN1, which belongs to the RING E3 ubiquitin ligase family and contains both the RINGﬁnger E2binding domain and the substratebinding domain in the same protein (20)."
+"In addition to regulating protein homeostasis, MKRN1 may also interact with RNAbinding proteins and contribute to mRNA quality control (21, 22)."
+"There are two MKRN1 isoforms, the fulllength, long isoform (isoform 1; 482 amino acids in human; 481 amino acids in rat) and the Cterminal truncated, short isoform (MKRN1S; isoform 2; 329 amino acids in both human and rat), both of which are abundantly expressed in the brain (20, 23, 24)."
+"Importantly, only the long isoform of MKRN1 contains the complete structural domains required for the E3 ubiquitin ligase function (24)."
+"The protein sequences of the two rat MKRN1 clones isolated by yeast twohybrid screening correspond to the partial segments (amino acids 142–481 and 355–481) of the long isoform and are virtually absent in the short isoform, suggesting that Eag1 may mainly interact with the MKRN1 long isoform."
+"To address this possibility, we went on to perform the coimmunoprecipitation experiment."
+Rat Eag1 was coexpressed with either Myctagged rat MKRN1 long isoform (MycMKRN1) or Myctagged rat MKRN1 short isoform (MycMKRN1-S) in HEK293T cells.
+"By employing both the antiMyc and the antiEag1 antibodies for immunoprecipitation, we demonstrate in Figure 1A that only the long isoform of MKRN1, coimmunoprecipitated with Eag1."
+We also generated a GST fusion protein encoding the Cterminal region (amino acids 355–481) of the MKRN1 long isoform (GSTMKRN1-C) and performed GST pulldown assay using rat brain lysates.
+"As shown in Figure 1B, endogenous Eag1 protein in the brain lysates was readily precipitated by GSTMKRN1-C. Additionally, endogenous MKRN1 and Eag1 coexist in the same protein complex in neurons (Fig."
+S1).
+"The direct interaction isoform, was short not but the 2 J. Biol."
+Chem.
+"(2021) 296 100484 between Eag1 and MKRN1 long isoform, but not the short isoform, in HEK293T cells was further validated by the in situ (Fig."
+"1C), which detects proximity ligation assay (PLA) immunoﬂuorescence signals generated from a pair of oligonucleotidelinked antibodies recognizing two proteins that are in proximity (<40 nm) (25–27)."
+Together these observations indicate that Eag1 interacts primarily with the Cterminal region of the long isoform of MKRN1.
+"The bait sequence used for screening the rat brain cDNA library corresponds to the cytoplasmic Cterminal region (amino acids 493–962) of rat Eag1, suggesting that MKRN1 probably interacts with the Cterminal region of Eag1."
+"To test this hypothesis, we generated GST fusion proteins encoding either the amino (N)-terminal (GSTN207) or the Cterminal (GSTC0) region of rat Eag1 (Fig. 1D)."
+"Indeed, MKRN1 was effectively pulled down by the GSTEag1 fusion protein GSTC0, but not by GSTN207."
+"To further locate the MKRN1interacting domain in Eag1, we generated three additional GST fusion proteins containing different Eag1 Cterminal domains: GSTC1 (amino acids 493–724), GSTC2 (amino acids 723–848), and GSTC3 (amino acids 835–962) (Fig. 1D)."
+"MKRN1 was efﬁciently pulled down by GSTC1, but not by GSTC2 and GSTC3, indicating that the proximal Cterminal region of Eag1 harbors the major MKRN1interacting domain."
+The proximal Cterminal region of Eag1 contains a Clinker domain and a cyclic nucleotidebinding homology domain (CNBHD).
+We therefore made two additional GST fusion proteins that encode either the Clinker (GSTC1A: amino acid 493–560) or the CNBHD (GSTC1B: amino acids 561–722) region.
+"As depicted in Figure 1D, MKRN1 preferentially binds to GSTC1B, implying that MKRN1 may directly interact with the Eag1 CNBHD."
+MKRN1 preferentially interacts with immature Eag1 Upon close inspection of the PLA immunoﬂuorescence signals of Eag1 and MKRN1 long isoform (Fig.
+"1C), which probably reﬂect the direct interaction of the two macromolecules, we noticed that the majority of the signals was localized at the cytoplasmic perinuclear region."
+"Since properly folded, mature Eag1 proteins are generally considered plasma membrane ion channels, the foregoing PLA images appear to imply that MKRN1 mainly interacts with immature Eag1 proteins that either have yet to or even fail to reach the plasma membrane."
+"To address this interesting possibility, we studied the effect of MKRN1 on Eag1 protein maturation in HEK293T cells."
+Eag1 harbors two consensus asparagine (N)-linked glycosylation sites (N388 and N406) (28).
+"Importantly, the electrophoretic mobility pattern of Eag1 proteins on an immunoblot typically manifests as two major protein bands: i) a slower (highmolecular-weight) band “a” that corresponds to mature, fullglycosylated Eag1 proteins the plasma membrane, and ii) a faster (lowmolecular-weight) band “b” that represents immature, coreglycosylated Eag1 proteins at (17)."
+"By coexpressing Eag1 with MKRN1, we noticed the presence of another Eag1associated the ER (Fig."
+2A) localized at MKRN1 regulates ER quality control of Eag1 Figure 1.
+The MKRN1 long isoform binds to Eag1.
+"A, coimmunoprecipitation of Eag1 and MKRN1 in HEK293T cells."
+"Lysates from HEK293T cells coexpressing rat Eag1 with the Myc vector, Myctagged MKRN1 long isoform (MycMKRN1), or Myctagged MKRN1 short isoform (MycMKRN1-S) were immunoprecipitated (IP) with the antiMyc (αMyc) (left) or antiEag1 (αEag1) (right) antibodies, followed by immunoblotting with the αMyc, αEag1, or antiGAPDH (αGAPDH) antibodies."
+Corresponding expression levels of Eag1 and MycMKRN1 in the lysates are shown in the Input lane.
+"Henceforward, input volumes correspond to 5% of the total cell lysates used for immunoprecipitation."
+"The positions of molecular mass markers (in kilodalton, kDa) are indicated to the left."
+"The protein bands corresponding to MycMKRN1 or MycMKRN1-S are highlighted with arrow and arrowhead, respectively."
+Asterisk indicates IgG heavy chain.
+The expression of GAPDH was used as the loading control.
+"B, GST pulldown assay with rat brain lysates."
+"Top, schematic representation of the GSTMKRN1-C1 fusion protein (encoding MKRN1 amino acids 355–481)."
+"Bottom, representative immunoblot."
+Brain lysates were subject to J. Biol.
+Chem.
+(2021) 296 100484 3 MKRN1 regulates ER quality control of Eag1 lowmolecular-weight protein band “c” (Fig. 2A).
+"In contrast, no signiﬁcant band c was detected when Eag1 was coexpressed with the noninteracting MKRN1S (Fig. 2A)."
+"Since the apparent electrophoretic mobility of the MKRN1induced Eag1 band c is signiﬁcantly faster than that of immature, coreglycosylated Eag1 proteins (band b), it is possible that band c may correspond to nascent, nonglycosylated Eag1 proteins."
+"To address this hypothesis, we employed an Eag1 mutant with the two consensus glycosylation asparagine residues mutated into glutamine (N388Q and N406Q; Eag1QQ)."
+Figure 2B shows that removing all Nlinked oligosaccharides of Eag1 (both bands a and b) with the amidase PNGase F generates to comigrate with the nonglycosylated Eag1QQ mutant.
+"Furthermore, cleaving high mannose oligosaccharides from immature, coreglycosylated Eag1 (band b) with Endo H also results in the presence of the Eag1QQ-like, lowmolecular- weight protein band (Fig. 2B)."
+"Mass spectrometry analyses of bands a, b, and c, as well as the single, deglycosylated band in response to PNGase F treatment, reveal that they indeed represent Eag1 proteins of distinct apparent molecular weights (Fig."
+S2; Table S1).
+"Most importantly, all the abovementioned nonglycosylated Eag1 protein bands share virtually identical electrophoretic mobility pattern with the MKRN1induced Eag1 band c, consistent with the idea that band c represents nascent, nonglycosylated Eag1 proteins."
+"Lowmolecular-weight protein that appears How can MKRN1 enhance the presence of nascent, nonglycosylated Eag1 proteins?"
+One possibility is that MKRN1 may promote the deglycosylation of coreglycosylated Eag1 and/or prevent the glycosylation of nascent Eag1.
+"If this inference is true, MKRN1 would be expected to display a differential binding afﬁnity between immature Eag1 (bands b and c) and mature Eag1 (band a)."
+"Indeed, Figure 2C illustrates that, compared with their mature counterpart, immature Eag1 proteins were more efﬁciently coimmunoprecipitated with MKRN1."
+"In contrast, no discernible difference in the coimmunoprecipitation efﬁciency with MKRN1 was detected between immature Eag1 proteins (bands b and c) and the nonglycosylated Eag1QQ mutant (Fig. 2D)."
+"Taken together, the foregoing results support the notion that MKRN1 preferentially interacts with immature Eag1 proteins that are probably located at the cytoplasm, such as the ER or the cisGolgi apparatus."
+MKRN1 downregulates Eag1 protein level
+Next we asked whether MKRN1 may regulate protein homeostasis of Eag1 K+ channels.
+"Upon siRNA or shRNA knockdown of endogenous MKRN1 expression in HEK293T cells, we observed a sizeable upregulation of total Eag1 protein level (Fig."
+"3, A and B; Fig. S3)."
+A similar Eag1 upregulation effect was also detected when we knocked down endogenous MKRN1 expression in cultured cortical neurons (Fig. 3C).
+"Conversely, overexpression of MKRN1, but not the short isoform (MKRN1S) or a catalytically inactive MKRN1 construct with a point mutation in the E3 ligase domain (MKRN1H307E) (29), results in a substantial reduction of both immature (bands b and c) and mature (band a) Eag1 proteins in HEK293T cells (Fig. 3D)."
+"Similarly, only MKRN1, but not MKRN1S and MKRN1H307E, impairs the functional expression of Eag1 K+ currents in HEK293T cells (Fig. 3E)."
+"MKRN1 fails to discernibly affect the biophysical property of Eag1 K+ channels, consistent with the idea that the observed reduction in membrane K+ conductance primarily reﬂects a disruption of Eag1 protein homeostasis by MKRN1."
+"Moreover, in agreement with the aforementioned interaction of MKRN1 with the nonglycosylated Eag1QQ mutant, coexpression with MKRN1 considerably decreases Eag1QQ protein level (Fig. S4A)."
+We then address the mechanism underlying the downregulation of Eag1 protein level by MKRN1.
+Semiquantitative RTPCR analyses reveal that MKRN1 does not detectably affect the mRNA level of Eag1 (Fig.
+S5).
+This observation appears to rule out a potential transcriptional effect of MKRN1 on Eag1.
+"Given its known role as a member of the RING ﬁnger E3 ubiquitin ligase superfamily (20), we also explored the possibility that MKRN1 may affect Eag1 protein homeostasis by catalyzing the ubiquitination of the K+ channel."
+"Figure 4A illustrates that, in response to coexpression with HAtagged ubiquitin (HAUb), basal Eag1 ubiquitination signal manifests as a faint, diffuse Eag1 protein smear conjugated with HAUb, consistent with the presence of Eag1 polyubiquitination in HEK293T cells."
+"Importantly, overexpression of MKRN1 leads to a prominent enhancement of Eag1 polyubiquitination (Fig. 4A)."
+"Moreover, MKRN1 promotes polyubiquitination of the nonglycosylated Eag1QQ mutant (Fig. S4B), further supporting the notion that glycosylation is not required for Eag1 regulation by MKRN1."
+"In contrast, overexpression of either the short isoform MKRN1S or the catalytically inactive mutant MKRN1H307E fails to exert comparable ubiquitinationenhancing effect on Eag1 (Fig. 4B)."
+"Together these results suggest that MKRN1 effectively promotes Eag1 polyubiquitination, which leads to substantial downregulation of Eag1 protein level."
+"The pulldown assay with the GST protein or the GSTMKRN1-C fusion protein, followed by immunoblotting with the antiGST (αGST) or αEag1 antibodies."
+"C, representative confocal micrographs for in situ proximity ligation assay (PLA) in HEK293T cells coexpressing MycEag1 with the Flag vector, FlagMKRN1, or FlagMKRN1-S. Fixed cells were stained with both αMyc and αFlag under the permeabilized conﬁguration."
+"In all conditions, a pair of oligonucleotidelinked Duolink PLA secondary antibodies was applied."
+The ﬂuorescence signal (red) was only detected when the oligonucleotide labeled αMyc and αFlag were in proximity.
+Cells were also stained with the nuclear counterstain DAPI (blue; right panels).
+Cells were imaged in both the ﬂuorescence (PLA; left panels) and the differential interference contrast (DIC; center panels) modes.
+"D, GST pulldown assay with HEK293T lysates."
+"Top, structural topology of the Eag1 channel and the GSTEag1 fusion proteins."
+"In Eag1, the cytoplasmic Nterminal region contains a PerArnt-Sim (PAS) domain, and the cytoplasmic Cterminal region includes three structural domains: the carboxyl linker (Clinker), the cyclic nucleotidebinding homology domain (CNBHD), and the postCNBHD region."
+"The amino acid range of various GSTEag1 fusion proteins: GSTN207 (1–207), GSTC0 (493–962), GSTC1 (493–724), GSTC2 (723–848), GSTC3 (835–962), GSTC1A (493–560), GSTC1B (561–722)."
+"Bottom, representative immunoblots."
+"Cell lysates prepared from HEK293T cells expressing MycMKRN1 were used for GST pulldown assay with GST or the indicated GSTEag1 fusion proteins, followed by immunoblotting with αMyc or αGST."
+Arrows denote MycMKRN1 protein bands.
+4 J. Biol.
+Chem.
+(2021) 296 100484 MKRN1 regulates ER quality control of Eag1 Figure 2.
+MKRN1 interacts with immature Eag1.
+"A, MKRN1 induces the presence of Eag1 protein band c. Eag1 was coexpressed with the Myc vector, MycMKRN1, or MycMKRN1-S in HEK293T cells."
+"Eag1 expression manifests as three distinct protein bands (a, b, c) of 110 to 120 kDa."
+"B, protein band c corresponds to nonglycosylated Eag1."
+Cell lysates prepared from HEK293T cells expressing Eag1 or the Eag1glycosylation mutant (Eag1QQ) were employed for deglycosylation assays with Endo H or PNGase F: “band a” is PNGase Fsensitive but Endo Hinsensitive; “band b” is
+PNGase F- and Endo Hsensitive; “band c” shares the same apparent molecular weight with the Eag1QQ mutant.
+"C, MKRN1 displays higher binding afﬁnity to immature Eag1."
+"Left, representative coimmunoprecipitation (CoIP) data."
+Eag1 was coexpressed with the Myc vector or MycMKRN1 in HEK293T cells.
+Cell lysates were immunoprecipitated with αMyc.
+"Right, quantiﬁcation of relative CoIP efﬁciency."
+"Protein densities of IP mature and immature Eag1 signals were standardized by those of corresponding Input signals, followed by normalization with respect of immature Eag1 (band b+c)"
+(*p < 0.05; n = 3).
+"D, MKRN1 binds to nonglycosylated Eag1."
+"Left, representative CoIP data."
+Myctagged Eag1 or Eag1QQ was coexpressed with Flagtagged MKRN1 in HEK293T cells.
+Cell lysates were immunoprecipitated with αFlag.
+"Right, quantiﬁcation of relative CoIP efﬁciency."
+Data were normalized with respect to immature Eag1 (band b+c) (n = 3).
+"MKRN1 enhances ERassociated degradation of immature Eag1 To ascertain the detailed mechanism of Eag1 downregulation by MKRN1, we went on to study the effect of two distinct types of protein degradation blockers, the lysosome inhibitor chloroquine (CQ) and the proteasome inhibitor MG132."
+"Figure 5A demonstrates that, for both mature (band a) and immature (bands b and c) Eag1, the extent of protein downregulation by MKRN1 remains virtually the same in the absence or presence of CQ, suggesting against a mechanistic role of lysosomal degradation."
+Application of MG132 does not notably affect the downregulation of mature Eag1 by MKRN1 either (Fig. 5B).
+"Nevertheless, MG132 treatment effectively abolishes the suppression effect of MKRN1 on the protein level of immature Eag1 (Fig. 5B)."
+The selective rescue effect of MG132 on immature but not mature Eag1 appears to imply that MKRN1 efﬁciently promotes proteasomal degradation of immature Eag1.
+"Furthermore, although MG132 markedly rescues MKRN1promoted degradation of immature Eag1, the majority of the rescued immature Eag1 bands b and c may be substantially misfolded and is thus prevented from protein maturation into the mature Eag1 band a."
+"So far our data are consistent with the idea that MKRN1 preferentially interacts with and promotes degradation of immature Eag1, which suggests that both MKRN1 and immature Eag1 may be localized at the ER membrane."
+"To directly address this hypothesis, we examined the subcellular localization of Eag1 and MKRN1 in HEK293T cells."
+"Differential centrifugation analyses indicate that the ERresident membrane protein calnexin, the plasma membrane protein cadherin, and Eag1 are exclusively present in the membrane fraction (Fig. 5C)."
+"Sucrose density gradient analyses further demonstrate that, in the absence of MKRN1, mature (band a) and immature (band b) Eag1 proteins were preferentially detected in the cadherinenriched plasma membrane and the calnexinenriched ER membrane respectively (Fig. 5C)."
+"In HEK293T cells, both endogenous and heterologously expressed MKRN1 display notable membrane association as well; moreover, in the presence of MKRN1, both immature Eag1 proteins (bands b and c) and MKRN1 are in the calnexinenriched ER membrane fraction present (Fig."
+"S6, A and B; Fig. 5D)."
+"Finally, confocal microscopic images illustrate that a signiﬁcant portion of both Eag1 and MKRN1 immunoﬂuorescence signals colocalize with the fractions, J. Biol."
+Chem.
+(2021) 296 100484 5 MKRN1 regulates ER quality control of Eag1 Figure 3.
+MKRN1 downregulates Eag1 protein level.
+"A, siRNA knockdown of endogenous MKRN1 in HEK293T cells."
+"HEK293T cells overexpressing Eag1 were subject to treatment with a negative control siRNA (siNeg), or a siRNA speciﬁc for MKRN1 (siMKRN1)."
+Quantitative analyses are summarized by the bar graphs.
+"Protein densities were standardized as the ratio to the cognate GAPDH signals, followed by normalization with respect to the siNeg control (*p < 0.05; n = 4)."
+"B, shRNA knockdown of endogenous MKRN1 in HEK293T cells."
+"HEK293T cells overexpressing Eag1 were subject to treatment with a control shRNA for GFP (shGFP), or two types of shRNA speciﬁc for MKRN1 (shMKRN1#1, shMKRN1#2)."
+Quantitative analyses are based on normalization with respect to the shGFP control (*p < 0.05; n = 4).
+"C, shRNA knockdown of endogenous MKRN1 in cortical neurons."
+"Cultured rat neurons were subject to treatment with a control shRNA for GFP (shGFP), or two types of shRNA speciﬁc for MKRN1 (shMKRN1#1, shMKRN1#3)."
+Quantitative analyses are based on normalization with respect to the shGFP control (*p < 0.05; n = 4).
+"D, effect of MKRN1, MKRN1S, or MKRN1H307E overexpression on Eag1 protein level."
+Eag1 was cotransfected into HEK293T cells with the indicated constructs in the molar ratio 1:5.
+Quantitative analyses are based on normalization with respect to the Myc vector control (*p < 0.05; n = 4–5).
+"E, effect of MKRN1, MKRN1S, or MKRN1H307E overexpression on Eag1 current level."
+"Top, representative Eag1 K+ current traces in the presence of the indicated constructs."
+"The holding potential was −90 mV, and the pulse potentials ranged from −80 to +60 mV. Bottom, quantiﬁcation of Eag1 wholecell current density at +40 mV. Data were normalized with respect to the Myc vector control (*p < 0.05)."
+The numbers of observations are shown in parentheses.
+6 J. Biol.
+Chem.
+"(2021) 296 100484 ERtargeting protein DsRedER, as well as exhibiting reticular perinuclear staining pattern (Fig."
+S6C; Fig. 5E).
+"Overall, the preceding observations support the notion that MKRN1 primarily promotes ERassociated proteasomal degradation of immature Eag1."
+"To directly address whether MKRN1 affects the protein stability of Eag1, we applied the cycloheximide (CHX) chase assay to assess the effect of MKRN1 on Eag1 protein halflife."
+"As shown in Figure 6, A and B, MKRN1 overexpression leads to about 45% reduction in the apparent halflife of total Eag1 protein, from about 13.7 h to about 7.6 h."
+"In contrast, overexpression of the noninteracting MKRN1S fails to discernibly change Eag1 total protein halflife (about 12.7 h)."
+This result conﬁrms that MKRN1 accelerates the protein turnover kinetics of Eag1.
+"In addition to total Eag1 protein, we also analyzed how MKRN1 affects protein stability of mature (band a) and immature (bands b and c) Eag1."
+"Figure 6C depicts that, in the presence of MKRN1, the apparent protein halflife of mature Eag1 decreases by about 53%, from about 21.8 to 10.2 h."
+"In addition, MKRN1 coexpression leads to about 33% diminution in apparent halflife of immature Eag1, from about 10.0 to 6.7 h (Fig."
+6D).
+"Given that MKRN1 preferentially interacts with immature Eag1, how can MKRN1 enhance protein turnover of mature Eag1?"
+"The apparent protein halflife of mature Eag1, as resolved from the CHX chase assay in Figure 6, is in fact determined by the protein degradation kinetics of fullglycosylated mature Eag1 (band a) per se, as well as the protein maturation (i.e., membrane trafﬁcking) kinetics of coreglycosylated immature Eag1 (band b)."
+"In other words, the observed MKRN1induced reduction in mature Eag1 halflife may reﬂect an enhanced degradation of mature Eag1 and/or a decreased membrane trafﬁcking of immature Eag1."
+"To differentiate these two possibilities, we employed the brefeldin A (BFA) chase assay to further investigate the effect of MKRN1 on mature Eag1 degradation at the cell surface (Fig. 7A)."
+"BFA obstructs the MKRN1 regulates ER quality control of Eag1 forward trafﬁcking of proteins from the ER to the Golgi (30), and is therefore expected to block the conversion of Eag1 from its immature form (band b) into its mature form (band a), resulting in a timedependent enrichment of immature Eag1 proteins (Fig. 7B)."
+"In response to MKRN1 (but not MKRN1S) immature Eag1 displays a timeoverexpression, however, dependent reduction in the BFA chase assay (Fig. 7B), consistent with the presence of MKRN1induced enhanced degradation of immature Eag1."
+"On the other hand, as a result of the BFAinduced blockade of forward membrane trafﬁcking, the timedependent decrease in the “band a” level in the BFA chase assay shall more faithfully reﬂect the degradation kinetics of mature Eag1 proteins."
+"As illustrated in Figure 7C, in the absence of MKRN1, the apparent protein halflife of mature Eag1 is about 11.0 h."
+"Most importantly, upon coexpression with either MKRN1 or MKRN1S, the apparent protein halflife of mature Eag1 remains virtually unchanged (about 11.6 h), consistent with the idea that MKRN1 does not detectably affect the protein stability of mature Eag1 proteins at the cell surface."
+"Therefore, the aforementioned effect of MKRN1 on the protein halflife of mature Eag1 predominantly reﬂects a timedependent reduction in the amount of immature Eag1 trafﬁcking to the plasma membrane."
+"MKRN1 contributes to protein quality control of diseasecausing Eag1 mutants In human, the Eag1 K+ channel protein is encoded by the KCNH1 gene."
+Several mutations in the KCNH1 gene have been linked to the congenital neurodevelopmental anomalies TMBTS and ZLS (14–16).
+"Previous functional analyses indicate that the ZLScausing Eag1 mutations G348R and I467V give rise to functional K+ channels with hyperpolarizing shift of the steadystate voltage dependence property, but that another ZLScausing Eag1 mutation, G469R, fails to generate detectable K+ currents (16)."
+"It remains unclear, however, whether these diseasecausing mutations may affect Eag1 Figure 4."
+MKRN1 promotes Eag1 ubiquitination.
+"A, Left, representative immunoblot showing MKRN1mediated Eag1 ubiquitination by HAtagged ubiquitin (HAUb)."
+Ubiquitinated Eag1 is visualized as protein smears with high molecular weights.
+"Right, quantiﬁcation of relative ubiquitinated Eag1 levels with respect to the Myc vector control (*p < 0.05; n = 3)."
+"B, Left, representative immunoblots comparing the effect of MKRN1, MKRN1S or MKRN1H307E coexpression on Eag1 ubiquitination."
+"Right, quantiﬁcation of relative ubiquitinated Eag1 levels with respect to the effect of MKRN1 coexpression (*p < 0.05; n = 3)."
+J. Biol.
+Chem.
+(2021) 296 100484 7 MKRN1 regulates ER quality control of Eag1 Figure 5.
+MKRN1 mediates ERassociated proteasomal degradation of Eag1.
+"A and B, effect of 10 μM chloroquine (CQ) or 10 μM MG132 treatment (in DMSO) on MKRN1 regulation of Eag1 protein levels in HEK293T cells."
+"Left panels, representative immunoblots."
+"Right panels, quantiﬁcation of the effect of MKRN1 coexpression on mature (band a) or immature (band b+c) Eag1 protein levels in the absence or presence of drug treatment."
+"Protein densities were standardized as the followed by ratio to the cognate GAPDH signals, normalization with respect to the corresponding Myc vector control (*p < 0.05; n = 4)."
+"C and D, subcellular fractionation patterns of Eag1 in the absence or presence of MycMKRN1 coexpression in HEK293T cells."
+"Left panels, representative immunoblots."
+Total cell homogenates (T) were ultracentrifuged and thereafter separated into the cytosol (C) and the membrane (M) fractions.
+"The membrane pellet fraction was further sedimented through a discontinuous sucrose gradient and subsequently divided into eight fractions, with the density gradient increasing from fraction 1 toward fraction 8."
+Two endogenous proteins were used as speciﬁc markers for distinct subcellular compartments in HEK293T cells: cadherin (plasma membrane; fractions 2–4) and calnexin (ER membrane; fractions 7–8).
+"Right panels, densitometric quantiﬁcation of the relative distribution (with respect to the total signal) of the indicated protein bands in each membraneassociated fraction."
+"E, representative immunoﬂuorescence images showing the effect of MKRN1 (magenta) coexpression on the subcellular in HEK293T cells."
+Nuclei were counterstained with DAPI (blue).
+Cells were cotransfected with the DsRedER expression vector (DsRedER) (red) to verify ER localization.
+"Arrowheads indicate plasma membrane staining, whereas arrows denote intracellular staining."
+"Scale bar, 10 μm."
+Data are representative of at least three independent experiments.
+Localization of Eag1 (green) protein homeostasis.
+"Figure 8A shows that, upon overexpression in HEK293T cells, the total protein level of the nonfunctional mutant G469R is substantially lower than that of the wildtype (WT) channel."
+"In contrast, the total protein level of the two functional Eag1 mutants (G348R and I467V) is comparable with that of their WT counterpart."
+"Nevertheless, we noticed that, relative to the WT, the band b signals of the to be more prominent."
+We therefore mutants appear 8 J. Biol.
+Chem.
+(2021) 296 100484 MKRN1 regulates ER quality control of Eag1 Figure 6.
+MKRN1 reduces Eag1 protein stability.
+"A, representative immunoblots showing the protein turnover time course of Eag1 coexpressed with the Myc vector, MycMKRN1, or MycMKRN1-S in HEK293T cells."
+Transfected cells were subject to 100 μg/ml cycloheximide (CHX) treatment for the indicated durations.
+"B–D, quantiﬁcation of the halflife values of Eag1 protein bands in response to different coexpression conditions."
+Symbol colors:
+"Myc vector, black; MKRN1, red; MKRN1S, blue."
+"Left panels, linear plot of relative Eag1 protein band signals in response to different CHX treatment durations (based on the immunoblot shown in (A))."
+"Protein densities were standardized as the ratio to the cognate GAPDH signals, followed by normalization with respect to the corresponding no treatment control at 0 h (Center panels)"
+Linearregression analyses (solid lines) of the semilogarithmic plot of the same data points shown to the left.
+"Right panels, statistical analyses of Eag1 protein halflife values derived from multiple experiments (*p < 0.05; n = 4–6)."
+J. Biol.
+Chem.
+"(2021) 296 100484 9 MKRN1 regulates ER quality control of Eag1 compared the relative protein signal of band a (fullglycosy- lated form) to band b (coreglycosylated form) (band a/b ratio), which reﬂects the protein maturation efﬁciency of a given Eag1 construct."
+"While the two functional Eag1 mutants display about 50% decrease in the band a/b ratio, the reduction level is more than 80% for the nonfunctional G469R mutant (Fig. 8A)."
+"Together, these observations are consistent with the idea that these ZLScausing Eag1 mutants are associated with a signiﬁcant defect in protein homeostasis."
+"Like the WT, the total protein level of the mutants was dramatically reduced in response to CUL7 or MKRN1 coexpression (Fig. 8, B and C)."
+"Moreover, similar to the effect of RNA interference of endogenous CUL7 expression (17), siRNA knockdown of endogenous MKRN1 in HEK293T cells leads to considerable upregulation of the total protein level of the mutants (Fig. 8D)."
+"Overall, our data indicate that both CUL7 and MKRN1 contribute to the protein quality control mechanism of the ZLScausing Eag1 mutants."
+"Discussion A cardinal mechanism governing protein homeostasis of K+ channels involves exquisite posttranslational regulation of protein folding and degradation (19, 31)."
+"In this study, we identiﬁed MKRN1 as a novel binding partner of Eag1 K+ channels."
+"MKRN1, a member of the RING E3 ubiquitin ligase family, contains the RINGﬁnger E2binding domain and the interacts with substratebinding domain on the same polypeptide and is highly expressed in various mammalian cells (20, 23)."
+"Our biochemical analyses demonstrate that, via its Cterminal CNBHD region, Eag1 interacts primarily with the Cterminal segment of the long isoform of MKRN1."
+"Importantly, we provided multiple lines of evidence suggesting that MKRN1 mainly coreglycosylated, as well as nascent nonglycosylated, Eag1 proteins."
+"Furthermore, MKRN1, but not isoform (MKRN1S) or the catalytically inactive MKRN1 mutant (MKRN1H307E), promotes polyubiquitination and proteasomal degradation of Eag1."
+Together these observations indicate that the long isoform of MKRN1 serves as an E3 ubiquitin ligase contributing to ERassociated proteasomal degradation of immature Eag1 proteins.
+"ERlocalized the short immature MKRN1 was initially reported regulating cell differentiation and cell cycle by promoting human telomerase reverse transcriptase ubiquitination and proteasomal degradation (32, 33)."
+"MKRN1 was later demonstrated to play an essential role in controlling apoptosis, cell cycle arrest, and tumorigenesis via serving as the E3 ubiquitin ligase for such key signaling proteins as p21, p53, and phosphatase and tensin homolog (29, 34–36)."
+"The functions of other known substrate proteins for MKRN1 include viral shell protein, Wnt signaling, and cellular energy sensing (37–39)."
+"Therefore, to the best of our knowledge, here we present the ﬁrst direct evidence indicating that Figure 7."
+MKRN1 fails to affect the protein stability of mature Eag1.
+"A, representative immunoblots showing the effect of brefeldin A (BFA) treatment on mature and immature Eag1 protein bands."
+HEK293T cells coexpressing Eag1 and the indicated constructs were subject to up to 12 h of BFA treatment.
+"B, MKRN1 reverses BFAinduced enhancement of immature (band b+c) Eag1 signals."
+"Left, linear plot of relative immature Eag1 signals in response to different BFA treatment durations (based on the immunoblot shown in (A))."
+"Protein densities were standardized as the ratio to the cognate GAPDH signals, followed by normalization with respect to the corresponding no treatment control at 0 h. Symbols: Myc vector, black squares; MKRN1, red circles; MKRN1S, blue triangles."
+"Right, linearregression analyses (solid lines) of the semilogarithmic plot of the same data points shown to the left."
+"C, MKRN1 does not affect the time course of BFAinduced reduction of mature (band a) Eag1 signals."
+"Left, Linear plot of relative mature Eag1 signals in response to different BFA treatment durations (based on the immunoblot shown in (A))."
+"Protein densities were standardized as the ratio to the cognate GAPDH signals, followed by normalization with respect to the corresponding no treatment control at 0 h. Symbols: Myc vector, black squares; MKRN1, red circles; MKRN1S, blue triangles."
+"Center, linearregression analyses (solid lines) of the semilogarithmic plot of the same data points shown to the left."
+"Right, Statistical analyses of mature (surface) Eag1 protein halflife values derived from multiple experiments (*p < 0.05; n = 4)."
+10 J. Biol.
+Chem.
+(2021) 296 100484 MKRN1 may also affect neuronal membrane excitability by regulating protein homeostasis of the Eag1 channel.
+An important step during the biogenesis of membrane proteins is the conversion of their glycosylation patterns from core (high mannose oligosaccharides) into mature (complex) glycans (40).
+"The glycan composition of a membrane protein can therefore affect its folding, stability, and trafﬁcking to the cell surface (41, 42)."
+"Previous studies have shown that Eag1 harbors two Nlinked glycosylation sites, N388 and N406, and mutation at either of the two Nlinked glycosylation sites MKRN1 regulates ER quality control of Eag1 Figure 8."
+MKRN1 regulates protein expression of diseaseassociated Eag1 mutants.
+"A, Left, representative immunoblot comparing protein expression of Eag1 wildtype (WT), G348R, I467V, and G469R mutants in HEK293T cells."
+"Right, statistical comparisons between WT and mutants were performed for total protein level (Eag1 total), as well as the relative signal ratio of band a to band b (Eag1 band a/b) (*p < 0.05; n = 3)."
+"B–D, effect of CUL7 overexpression, MKRN1 overexpression, or siRNA knockdown of MKRN1 on WT and mutant Eag1 protein levels in HEK293T cells."
+"Left panels, representative immunoblots."
+"Right panels, quantiﬁcation of relative Eag1 protein levels."
+"Eag1 signals were standardized as the ratio to the cognate GAPDH signals, followed by normalization to the corresponding Mycvector or siRNA control (*p < 0.05; n = 3)."
+J. Biol.
+Chem.
+(2021) 296 100484 11 MKRN1 regulates ER quality control of Eag1 results in prominent disruption of Eag1 protein stability and trafﬁcking (28).
+"We have demonstrated that inhibition of protein degradation by MG132 affects Eag1 glycosylation and trafﬁcking to the surface (17), suggesting that constitutive ER clearance is essential for the transport of Eag1 channels to the membrane."
+"Interestingly, suppression of Eag1 proteasomal degradation with MG132 results in the accumulation of a third protein band with the lowest apparent molecular weight (band c) that represents the nonglycosylated form of the K+ channel (Fig."
+5B; Fig. S2) (17).
+"Prior to proteasomal degradation, ubiquitinated glycoproteins are subject to retrotranslocation from the ER to the cytoplasm, followed by deglycosylation by Nglycanase (40, 43); therefore, the accumulated band c may correspond to MG132rescued deglycosylated Eag1 in the cytoplasm."
+"Alternatively, the MG132induced band c may also represent nascent, nonglycosylated Eag1 localized at the ER."
+"Coexpression with MKRN1, but not CUL7, leads to the accumulation of Eag1 band c as well (Fig. 2) (17)."
+"Importantly, sucrose density gradient analyses indicate that MKRN1 and Eag1 band"
+"C colocalize at the calnexinenriched ER membrane fraction (Fig. 5), suggesting that MKRN1 interacts with nascent, nonglycosylated Eag1 at the ER, but not the cytosolic deglycosylated protein intermediate to be destructed by the proteasome."
+"Provided that MKRN1 effectively promotes the ubiquitination of ERlocalized coreglycosylated and nonglycosylated Eag1 proteins (Fig. 3), why does the E3 ubiquitin ligase induce the accumulation of nascent, nonglycosylated Eag1?"
+"The E3 ubiquitin ligase HRD1 is responsible for ERassociated degradation of the ATPbinding cassette halftransporters ABCG8 and ABCG5, which form heterodimers at the ER before trafﬁcking to the plasma membrane to control sterol balance (44, 45)."
+"In addition to the common E3 activitydependent degradation mechanism, HRD1 may also inhibit ABCG8 glycosylation and thereby induce the accumulation of nonglycosylated ABCG8 at the ER."
+"Moreover, RNF121, an ERresident E3ubiquitin ligase, regulates protein homeostasis of vascular endothelial growth factor receptor2 (VEGFR2) by immature preferentially interacting with newly synthesized, VEGFR2 that is associated with lower protein stability, leading to an ubiquitinmediated accumulation of immature VEGFR2 at the ER (46)."
+"Taken together, we propose that, similar to HRD1 and RNF121, MKRN1 interacts primarily with misfolded coreglycosylated and nonglycosylated Eag1, thereby preventing the maturation of misfolded immature Eag1 proteins at the ER, as well as promoting their degradation in an E3 activitydependent manner."
+"Protein quality control, one of the most important forms of homeostatic regulation, involves rigorous molecular surveillances of protein folding conformations, as well as efﬁcient targeting of misfolded or damaged proteins for degradation (47–49)."
+"There are two main proteolytic systems responsible for elaborate implementation of protein degradation: the ubiquitin–proteasome system that is associated with ER quality control of protein folding, and the endosomelysosomal degradation that safeguards peripheral quality control of membranelocalized proteins (50, 51)."
+Both protein 12 J. Biol.
+Chem.
+"(2021) 296 100484 degradation systems are essential for the maintenance of normal cellular functions, and the degradation of a given target protein may involve multiple types of E3 ubiquitin ligases."
+We have previously demonstrated that the multisubunit E3 ubiquitin ligase CUL7 promotes degradation of both ERlocalized immature and plasmamembrane-localized mature Eag1 proteins (17).
+"In light of the current evidence that MKRN1 also mediates ERassociated degradation of the K+ channel, herein we suggest a more comprehensive protein homeostasis mechanism for Eag1, as illustrated in the schematic model in Figure 9."
+We propose that both CUL7 and MKRN1 contribute to ER quality control of immature coreglycosylated Eag1 proteins.
+"In addition, our data are consistent with the idea that MKRN1, but not CUL7, associates with and promotes degradation of nascent, nonglycosylated at the ER."
+"In direct contrast to the role of MKRN1 in exclusively regulating the early stage of Eag1 maturation at the ER, CUL7 is additionally responsible for peripheral quality control by promoting lysosomal degradation of mature, fullglycosylated Eag1 at the cell surface."
+"The presence of a dual ubiquitination system may ensure efﬁcient removal of misfolded channel proteins, especially for those Eag1 mutants associated with the pathogenesis of the congenital neurodevelopmental anomalies TMBTS and ZLS."
+"Indeed, our biochemical analyses indicate that both CUL7 and MKRN1 contribute to the protein quality control mechanism of ZLScausing Eag1 mutants (Fig."
+"8, B–D) (17)."
+"According to previous electrophysiological analyses, the ZLScausing Eag1 mutant G469R fails to generate detectable K+ currents (16)."
+"Compared with its WT counterpart, the total protein level of this nonfunctional Eag1 mutant is dramatically decreased (Fig. 8A) (17), indicating the presence of impaired protein stability."
+"On the other hand, the ZLScausing G348R and I467V mutants give rise to functional K+ channels with prominent hyperpolarizing shift of the steadystate voltage dependence property (16)."
+"Surprisingly, despite the presence of this gainof-function phenotype on the channel gating property, the K+ current amplitude of the G348R and I467V mutants is comparable with that of the WT Eag1 channel (16)."
+"This paradoxical observation may be reconciled by our ﬁnding that all the aforementioned ZLScausing Eag1 mutants exhibit substantial reduction in band a/b ratio (Fig. 8A), suggesting the presence of sizeable membrane trafﬁcking deﬁcit."
+"Therefore, the current study provides the critical evidence indicating that the pathogenic mechanism of ZLScausing mutations primarily concerns lossof-function effect on Eag1 protein homeostasis."
+"Although the mechanistic link between defective Eag1 protein homeostasis and neurodevelopmental anomaly remains unclear, our identiﬁcation of the dual E3 ubiquitin ligase system may provide future insight to the therapeutic potential of correcting Eag1 protein homeostasis."
+"Experimental procedures cDNA constructs cDNAs for rat Eag1 (Dr Olaf Pongs, Saarland University, Germany) and MKRN1 long isoform were subcloned into vectors pcDNA3.1, pcDNA3.1Myc, or pcDNA3.1Flag MKRN1 regulates ER quality control of Eag1 (Invitrogen)."
+"Diseasecausing (G348R, G469R, and I467V) and glycosylationdeﬁcient Eag1 mutations (N388Q and N406Q; Eag1QQ), as well as MKRN1 short form and the catalytically inactive E3 ligase mutant MKRN1H307E, were generated using the QuikChange sitedirected mutagenesis kit (Agilent Technologies), followed by veriﬁcation with DNA sequencing."
+"The other cDNA constructs include pDsRedMonomer- Membrane (Clontech), pDsRedER (Clontech Laboratories), and HAUbiquitin (Addgene)."
+"Cell culture and DNA transfection Human embryonic kidney 293T (HEK293T) cells were grown in DMEM (Gibco) supplemented with 10% fetal bovine serum (HyClone), 1 mM sodium pyruvate, and penicillin streptomycin at 37 (cid:1)C incubator with 5% CO2."
+"Twentyfour hours before transfection, cells were plated onto 6- or 12well plates (for biochemical experiments) or polyD-lysine (Sigma)-coated coverslips in 24well plates (for immunoﬂuorescence experiments)."
+The amount of Eag1 cDNA used in each well was about 200 (for protein expression) to 1000 (for immunoprecipitation) ng/ml.
+The molar ratio for cotransfection with MKRN1 was 5:1 (relative to Eag1 cDNA).
+Transient transfection was performed using the Lipofectamine 2000 reagent (Invitrogen).
+"Various expression constructs were incubated with the transfection reagent for 20 min at room temperature, and DNAlipofectamine diluted in OptiMEM (Invitrogen) was added to culture wells."
+"After 6 h of incubation at 37 (cid:1)C, the medium was changed and transfected cells were maintained in 37 (cid:1)C incubator for 24 to 48 h. Where indicated, brefeldin A (LC Laboratories; 10 μM), chloroquine (Sigma; 10 μM), cycloheximide (Sigma; 100 μg/ml), or MG132 (Enzo Life Science; 10 μM) was added to the culture medium."
+Figure 9.
+A dual E3 ubiquitin ligase system mediates protein homeostasis of the Eag1 channel.
+"In this schematic model, we propose that two E3 ubiquitin ligases, CUL7 and MKRN1, play differential roles in the maintenance of Eag1 protein homeostasis."
+"During biogenesis of immature Eag1 at the endoplasmic reticulum (ER), newly translated nascent, nonglycosylated Eag1 goes through initial glycosylation process in the ER lumen to form a coreglycosylated intermediate (pathway 1)."
+Misfolded nonglycosylated Eag1 is recognized by MKRN1 and eventually subject to proteasomal degradation (pathway 2).
+"Misfolded coreglycosylated Eag1, on the other hand, is identiﬁed by both CUL7 and MKRN1, followed by degradation through the ubiquitinproteasome system (pathway 3)."
+"In contrast, properly folded immature Eag1 may exit the ER and undergo advanced glycan structure modiﬁcation at the Golgi complex (pathway 4), followed by trafﬁcking to the plasma membrane (pathway 5)."
+"At the membrane, misfolded or aged fullglycosylated Eag1 is subject to endosomelysosomal degradation via a CUL7depdendent mechanism (pathway 6)."
+"Overall, while both CUL7 and MKRN1 contribute to ER quality control and prevent ER exit of misfolded immature Eag1, CUL7 is additionally in charge of peripheral quality control of mature Eag1 at the cell surface."
+J. Biol.
+Chem.
+"(2021) 296 100484 13 MKRN1 regulates ER quality control of Eag1 siRNA and shRNA knockdown (shRNAs) Transfection of small interference RNAs (siRNAs) (Invitrogen), including MKRN1 siRNA (siMKRN1: 5’-GCATGGAGGTGGTCTATGATT-3’) and negative control (siNeg: Invitrogen #4390843), was implemented with the Lipofectamine RNAi MAX (Invitrogen)."
+Cells were plated onto 12well plates 24 h before siRNA transfection.
+"Twentyfour hours after siRNA knockdown, cells were further transfected with Eag1 cDNA."
+"Short hairpin RNAs in the pLKO.1 puromycinresistant vector (RNAi Core, Academia Sinica) include MKRN1shRNAs (shMKRN1#1:"
+"TRCN0000289977, targeting human and rat MKRN1 sequences; shMKRN1#2: TRCN0000289976, targeting human MKRN1 sequence; shrat MKRN1#3: TRCN0000041206, sequence) and GFP shRNA (shGFP: TRCN0000207020)."
+"For lentiviral packaging in HEK293T cells, viruscontaining medium was harvested and concentrated using ultracentrifugation (10,000g for 4 h at 4 (cid:1)C) to yield viral stocks."
+"For lentiviral infection in HEK293T cells, viral stocks were supplemented with 8 μg/ml of polybrene (Sigma)."
+Infected HEK293T cells were selected by 5 μg/ml of puromycin (Sigma) and subsequently transfected with Eag1 cDNA.
+"For suppressing endogenous MKRN1 in cultured neurons, 7 day in vitro (DIV7) cortical neurons were infected with viral stocks supplemented with 0.4 μg/ml of polybrene."
+"After puromycin selection, infected DIV11 neurons were subject to immunoblotting."
+"Targeting Immunoprecipitation and immunoblotting Fortyeight hours after transfection, HEK293T cells were lysed in the icecold lysis buffer [(in mM) 100 NaCl, 4 KCl, 2.5 EDTA, 20 NaHCO3, 20 TrisHCl, pH 7.5, 1 phenylmethylsulfonyl ﬂuoride (PMSF)] with 1% Triton X100, supplemented with protease inhibitor cocktail (Roche Applied Science)."
+"The lysates were cleared by centrifugation at 13,800g for 15 min at 4 (cid:1)C. Protein concentrations were determined by the BCA method (Thermo Scientiﬁc)."
+"For immunoprecipitation, solubilized lysates were precleared with protein A/G Sepharose beads (GE Healthcare Biosciences) and then incubated for 16 h at 4 (cid:1)C with protein A/G Sepharose beads precoated with desired antibodies."
+"The beads were washed extensively with the lysis buffer, and the immune complexes were eluted from the beads by boiling for 5 min in Laemmli sample buffer."
+"For glycosidase treatment, solubilized cell lysates were treated with 500 U Nglycosidase F (PNGase F; New England Biolabs) or endoglycosidase H (Endo H; New England Biolabs) for 4 h at 37 (cid:1)C. Protein samples were separated on SDSPAGE, transferred onto nitrocellulose membrane (GE Healthcare Biosciences), immunoblotted with appropriate dilution of primary antibodies, and visualized with the ECL detection system (Advansta)."
+"Primary antibodies include mouse antipan-cadherin (1:2000; Abcam), mouse anticalnexin (1:2000; Santa Cruz), rabbit antiEag1 (1:15,000; Alomone), mouse antiFlag (1:5000; Sigma), rabbit antiFlag (1:5000; Sigma), rabbit antiGAPDH (1:50,000; GeneTex), mouse antiGFP (1:10,000; Abcam), rat antiHA (1:5000; Roche), and rabbit antiMKRN1 (1:5000; Bethyl Laboratories) 14 J. Biol."
+Chem.
+(2021) 296 100484 antibodies.
+"After TBST wash, membranes were incubated with appropriate dilution of horseradishperoxidase-conjugated goat antimouse or goat antirabbit secondary antibodies (Invitrogen) for 1 h at RT."
+"Immunoblot signals were quantiﬁed by using the ImageQuant software (GE Healthcare Biosciences) and quantiﬁed with Image J (National Institute of Health, Bethesda, MD, USA)."
+Results shown are representative of at least three independent experiments.
+Animals and neuronal cultures All animal procedures were in conformity with the animal protocol approved by the Institutional Animal Care and Use Committee (IACUC) of National YangMing University.
+Dissociated neuronal cultures were prepared from embryonic embryos (E18 or E19) of SpragueDawley rats.
+Dissociated cortical neurons were plated at 1000 cells/mm2.
+Neurons were maintained in the Neurobasal (Invitrogen) supplemented with 2% B27 (Invitrogen) and 2 mM glutamine in a humidiﬁed 5% CO2 incubator at 37 (cid:1)C. Immunoﬂuorescence Cells grown on coverslips were rinsed in icecold PBS
+"[(in mM) 136 NaCl, 2.5 KCl, 1.5 KH2PO4, 6.5 Na2HPO4, pH 7.4] with 0.9 mM CaCl2 and 0.5 mM MgCl2 and then ﬁxed for 20 min with 4% paraformaldehyde in PBS at 4 (cid:1)C. After washing with cold PBS, ﬁxed cells were permeabilized and blocked with a blocking buffer (5% normal goat serum in PBS, 0.05% (v/v) Triton X100) for 60 min at 4 (cid:1)C. Cells were then immunolabeled with the following primary antibodies at 4 (cid:1)C for 16 h: rabbit antiEag1 antibody (Alomone; 1:1000)."
+Alexa IgG and Alexa Fluor 568Fluor 488conjugated rabbit conjugated mouse IgG (Molecular Probes) were used as secondary antibodies.
+Cell nuclei were stained with DAPI (1 μg/ ml in PBS; Sigma) for 7 min at room temperature.
+"After ﬁnal wash, coverslips were mounted in a mounting medium (4% npropyl gallate, 90% glycerol, 0.1 M carbonate buffer, pH 9.2) and observed using a Zeiss LSM880 laserscanning microscope equipped with 100X oil immersion objective (Zeiss)."
+"To visualize colocalization of MycEag1 and FlagMKRN1 in HEK293T cells, we employed the Duolink in situ proximity ligation assay (Olink Bioscience)."
+"After ﬁxation in 4% paraformaldehyde, cells on coverslips were incubated with Duolink blocking buffer for 30 min at 37 (cid:1)C, followed by immunolabeling with appropriate dilution (in Duolink antibody diluent buffer) of rabbit antiFlag and mouse antiMyc antibodies overnight at 4 (cid:1)C. For negative controls of proximity ligation assay, we applied each primary antibody individually."
+"After being rinsed in Duolink wash buffer A, cells were incubated with the oligonucleotidelabeled Duolink antirabbit PLUS"
+"And antimouse MINUS secondary antibodies (1:5) for 1 h at 37 (cid:1)C. Samples were then ampliﬁed with Duolink detection reagents red for 100 min at 37 (cid:1)C, followed by rinsing in Duolink wash buffer B, and mounted with Duolink mounting media."
+Fluorescence images of proximity ligation interaction were acquired using confocal microscopy. 
+"Preparation of brain homogenates and crude membrane fractions For crude membrane fraction preparation, rat forebrains were homogenized in buffer H1 [(in mM) 320 sucrose, 1 NaHCO3, 0.5 CaCl2, 1 PMSF] containing the complete protease inhibitor cocktail (Roche Applied Science)."
+Tissue homogenates were centrifuged at 1400g for 10 min to recover the supernatant S1 and the pellet P1.
+"The S1 fraction was subject to centrifugation at 13,800g for 10 min to obtain the P2 pellet (crude membrane fractions)."
+Glutathione Stransferase (GST) pulldown assay GST fusion proteins were produced and puriﬁed by following the manufacturer’s instruction (Agilent Technologies) as previously reported (17).
+"Brieﬂy, cDNAs encoding the indicated regions of rat Eag1 or MKRN1 were subcloned into the pGEX vector (GE Healthcare, Biosciences) and expressed in the E. coli strain BL21."
+The lysates of IPTGinduced bacteria were incubated with glutathioneagarose beads (Sigma) that bound GST fusion proteins.
+GST fusion proteincoated beads (4–8 μg) were subsequently incubated overnight with appropriate HEK293T cell lysates or crude membrane fractions from rat cortices at 4 (cid:1)C and eluted by boiling for 5 min in the Laemmli sample buffer.
+Differential centrifugation and sucrose gradient fractionation Cells were washed with icedcold PBS and detached from petri dishes with PBS and 2 mM EDTA.
+"Cells were pelleted for 5 min at 1000g and resuspended in hypotonic buffer [(in mM) 20 TrisHCl, pH 7.9, 2 dithiothreitol, 10 EDTA, and 1 PMSF] supplemented with protease inhibitor cocktail (Roche Applied Science)."
+Cell suspension was homogenized by 20 strokes in a Dounce homogenizer and centrifuged at 1000g at 4 (cid:1)C for 5 min to undisrupted cells.
+Homogenates were supplemented with 2.0 M sucrose to achieve a 0.2 M ﬁnal sucrose concentration.
+"After 90 min centrifugation at 100,000g, supernatant and pellet fractions contained cytosolic and membrane proteins, respectively."
+"Pellets were rinsed with hypotonic buffer and resuspended to the same volume as supernatants in icedcold lysis buffer [(in mM) 100 NaCl, 4 KCl, 2.5 EDTA, 20 NaHCO3, 20 TrisHCl, pH 7.5, 1 PMSF] with 1% Triton X100."
+"For sucrose gradient fractionation, we employed a previously published protocol with some modiﬁcations (17)."
+Cells were lysed and ultracentrifuged to separate the cytosol and the membrane fractions as describe above.
+Membrane pellet fractions were suspended in hypotonic buffer supplemented with 2.0 M sucrose to achieve a 0.2 M ﬁnal sucrose concentration.
+"Membrane lysates were loaded on the top of a discontinuous sucrose gradient [2.0 M (0.4 ml), 1.5 M (0.75 ml), 1.35 M (0.75 ml), 1.2 M (0.75 ml), 0.9 M (0.5 ml), and 0.5 M (0.5 ml) in hypotonic buffer] and subject to a 32,000g centrifugation for 16 h in a Beckman SW55 rotor."
+"Fractions were collected from the top of the gradient, including one 1.0ml and seven 0.5ml fractions."
+MKRN1 regulates ER quality control of Eag1 Mass spectrometry analysis and protein identiﬁcation
+Three 10cm petri dishes of HEK293T cells ((cid:3)1.5 × 107 cells per dish) were transfected with the Eag1 plasmid.
+"Fortytwo hours after transfection, cells were treated with 10 μM MG132 for 6 h to induce the accumulation of Eag1 band c, followed by immunoprecipitation with the antiEag1 antibody."
+"The immunoprecipitates were eluted with 150 μl 0.5% SDS, 40 mM DTT at 95 (cid:1)C for 15 min. Onethird of the eluent (50 μl) was digested with PNGase F at 37 (cid:1)C for 4 h."
+"The eluents with or without PNGase F digestion were concentrated on a centrifugal ﬁlter at 10,000g for 20 to 40 min."
+Eluted complexes were resuspended in 2X Laemmli buffer and subject to SDSPAGE separation for immunoblotting or silver staining.
+"Gel sections of Eag1 bands a, b, c, and PNGase Ftreated Eag1 (band d) were diced into small pieces (1 × 1 mm)."
+Each gel piece was placed into a 2ml tube and dehydrated with 25 mM NH4HCO3 and 50% (v/ v) acetonitrile (1:1).
+"After drying in a SpeedVac (Thermo Electron), gel pieces were rehydrated with 25 mM NH4HCO3 and 1% βmercaptoethanol in dark for 20 min at 56 (cid:1)C, followed by incubation in a solution containing 5% 4vinylpyridine in 25 mM NH4HCO3 and 50% acetonitrile (1:1) for 20 min at room temperature."
+"Protein digestions were performed with trypsin in 10 μl formic acid (0.1%, v/v) at 37 (cid:1)C overnight."
+"Digested proteins were then desalted for nanoscale liquid chromatography coupled to tandem mass spectrometry (nanoLC-MS/MS) analysis, using a nanoAcquity system (Waters) coupled to an Orbitrap Velos hybrid mass spectrometer with a nanoelectrospray ionization source (ThermoFisher Scientiﬁc), at the MetabolomicsProteomics Research Center, National YangMing University, Taiwan."
+Peptides for analysis were loaded via a BEH C18 column (length: 25 cm; inner diameter: 75 μm; Waters) and separated at an ﬂow rate of 300 nl/min using mobile phase acetonitrile with the addition of 0.1% formic acid in a gradient of 5 to 35% over 120 min. Eluted peptides were examined with the LTQOrbitrap mass spectrometer using a spray voltage of +1.7 kV.
+The mass spectrometer was conducted in the positive ion mode and on the basis of a datadependent acquisition method (isolation width: 2.0 Da).
+"The resolution of full MS was set to 30,000 with the m/z range of 400."
+Mass spectrum data of the peptides were obtained using a full spectrometer survey scan (m/z range of 350–1600).
+"According to the datadependent acquisition method, the ten most intense multiply charged ions (2+ and 3+) were selected for MS/MS scan."
+Collisioninduced dissociation was conﬁrmed for MS/MS.
+"The acquired MS/MS data were analyzed by Peaks7.5 Studio software for Proteomics (Bioinformatics Solutions) via searching the UniProt rat protein database (UniProt database: RatUP- (Unreviewed)-202101-06and-Eag1.fasta; number of entries searched in the database: 28,068)."
+"Search parameters were set as follows: enzyme, trypsin; precursor ion mass tolerance, 50 ppm; fragment ion mass error tolerance, 0.8 Da; precursor mass search type, monoisotopic; maximum missed cleavages allowed 2; and oxidation on methionine (+15.99 Da) and Spyr- idylethylation on cysteine (+105.06 Da) for variable modiﬁcations."
+The average local conﬁdence was established as over 80%.
+"A decoy database was used to calculate the false discovery rate, J. Biol."
+Chem.
+(2021) 296 100484 15 MKRN1 regulates ER quality control of Eag1 which was set as below 0.1%.
+A protein was identiﬁed when at least one unique peptide was matched.
+Electrophysiology Wholecell voltage clamp recordings of Eag1 K+ currents in HEK293T cells were performed 24 h posttransfection.
+"Electrode solution contains (in mM) 140 KCl, 1 MgCl2, 10 EGTA, 10 HEPES, pH 7.2."
+"Bath solution comprises (in mM) 140 NaCl, 5 KCl, 1 CaCl2, and 10 HEPES, pH 7.2."
+Data were acquired with the Axopatch 200B ampliﬁer (Molecular Devices) and digitized with the Digidata 1440A system and the pCLAMP 10.2 software (Molecular Devices).
+Cells with large currents in which voltage clamp errors might appear were excluded from data analyses.
+Passive membrane properties were compensated by using the -P/4 leak subtraction method.
+Data were sampled at 10 kHz and ﬁltered at 1 kHz.
+All recordings were performed at room temperature (20–22 (cid:1)C).
+Statistical analysis Data are presented as mean ± SD.
+"The signiﬁcance of the difference between two means was tested by Student’s ttest, whereas means from multiple groups were compared by oneway ANOVA."
+All statistical analyses and curve ﬁtting were performed with the Origin 7.0 (Microcal Software) or Prism 6 (GraphPad Software).
+Data availability Information on identiﬁed peptides and their charge states has been submitted to ProteomeXchange.
+Data are available via ProteomeXchange with identiﬁer PXD023984 (https://doi. Org/10.6019/PXD023984).
+Supporting information.
+"Information—This article contains supporting Author contributions—Y. -C. F., P. -T. C., Y. -C. C., and P. -H. H. performed subcloning and biochemical studies."
+P. -H. H. completed yeast twohybrid screening.
+Y. -C. F. and P. -T. C. executed RNA interference experiments.
+S. -J. F. and J. -J. H. conducted electrophysiological recordings.
+Y. -C. F. and Y. -F. L. performed confocal microscopy.
+"Y. -C. F., C. -Y. T., and C. -J. J. prepared the ﬁgures."
+"G. -M. J., C. -Y. T., and C. -J. J. conceived and designed the experiments."
+C. -J. J. and C. -Y. T. drafted and revised the article with inputs from the coauthors.
+All the authors approved the ﬁnal version of the article.
+"Funding and additional information—This work was supported by research grants to C. -J. J. from Ministry of Science and Technology, Taiwan (1052320-B010-016MY3 1082320-B010-039MY3), and from Ministry of Education, Taiwan, for The Featured Areas Research Center Program within the framework of the Higher Education Sprout Project in Brain Research Center, National YangMing University (109BRCB404)."
+And Conﬂict of interests—The authors declare that they have no conﬂicts of interest with the contents of this article.
+16 J. Biol.
+Chem.
+"(2021) 296 100484 Abbreviations—The abbreviations used are: BFA, brefeldin A; C, carboxyl; CHX, cycloheximide; CNBHD, cyclic nucleotidebinding homology domain; CQ, chloroquine; CUL7, cullin 7; DIV, day in vitro; Eag1QQ, Eag1 N388QN406Q mutant; Endo H, endoglycosidase H; ER, endoplasmic reticulum; GST, glutathione Stransferase; HEK, human embryonic kidney; MKRN1, makorin ring ﬁnger protein 1; MKRN1S, MKRN1 short isoform; N, amino; Nlinked, liquid asparaginelinked; nanoLC-MS/MS, nanoscale chromatography coupled to tandem mass spectrometry; PLA, proximity ligation assay; PMSF, phenylmethylsulfonyl ﬂuoride; PNGase F, Nglycosidase F; shRNA, short hairpin RNA; siRNA, small interference RNA; TMBTS, Temple–Baraitser syndrome;"
+"Ub, ubiquitin; VEGFR2, vascular endothelial growth factor receptor2; WT, wildtype; ZLS, Zimmermann–Laband syndrome."

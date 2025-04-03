@@ -1,0 +1,278 @@
+HHS Public Access Author manuscript FEBS Lett.
+Author manuscript; available in PMC 2020 November 01.
+Published in final edited form as: FEBS Lett. 2019
+November ; 593(21): 2990–3002. Doi:10.1002/18733468.13600.
+"Ciliogenesis associated kinase 1 (CILK1): targets and functions in various organ systems Zheng Fu1,*, Casey D. Gailey1, Eric J. Wang1, David L. Brautigan2 1Department of Pharmacology, University of Virginia, Charlottesville, VA 22908, USA 2Department of Microbiology, Immunology and Cancer Biology, University of Virginia, Charlottesville, VA 22908, USA Abstract Ciliogenesis associated kinase 1 (CILK1) was previously known as intestinal cell kinase (ICK) because it was cloned from that origin."
+"However, CILK1 is now recognized as a widely expressed and highly conserved serine/threonine protein kinase."
+"Mutations in the human CILK1 gene have been associated with ciliopathies, a group of human genetic disorders with defects in the primary cilium."
+"In mice, both Cilk1 knockout and Cilk1 knockin mutations have recapitulated human ciliopathies."
+"Thus, CILK1 has a fundamental role in the function of the cilium."
+Several candidate substrates have been proposed for CILK1 and the challenge is to relate these to the mutant phenotypes.
+"In this review, we summarize what is known about CILK1 functions and targets, and discuss gaps in current knowledge that motivate further experimentation to fully understand the role of CILK1 in organ development in humans."
+Keywords primary cilia; ciliopathy; ciliogenesis; intraflagellar transport; kinesin family member 3A; 
+Hedgehog signalling; epilepsy; stereocilia; autophagy 1.  
+Introduction
+The large CMGC (CDK/MAPK/GSK/CLK) branch of the human kinome includes the subgroup called RCK (vros crosshybridizing kinase) (1).
+"These RCK protein kinases consist of ICK/MRK (intestinal cell kinase/MAKrelated kinase) (2, 3), MAK (male germ cellassociated kinase) (1, 4), and MOK (MAPK/MAK/MRKoverlapping kinase) (5)."
+"In the course of searching for their biological functions and signalling mechanisms, ICK was established as the prototype for this group of kinases that have similarity to both MAPKs (mitogenactivated protein kinases) and CDKs (cyclindependent protein kinases)."
+"The name of ICK is misleading because, while initially cloned from intestinal cells, ICK is broadly expressed in tissues and cells, and more importantly this name has no implication on the key character or function of the gene."
+"The HUGO gene nomenclature committee recently approved the change of the gene name and symbol from intestinal cell kinase (ICK) to *Corresponding author: Department of Pharmacology, PO Box 800735, University of Virginia, 1340 Jefferson Park Avenue, Charlottesville, Virginia, 22908, USA. zf6n@virginia.edu.  "
+Fu et al.
+"Page 2 ciliogenesis associated kinase 1 (CILK1), to convey its evolutionarily conserved function in ciliogenesis."
+"In this review and hereafter, ICK is referred to as CILK1."
+1.1 Regulation of CILK1 by phosphorylation RCKs are “unusual remote cousins” of MAPKs in that they share significant homology with MAPKs in the catalytic domain and contain a MAPKlike TXY motif in the activation loop that is dually phosphorylated for kinase activation (6).
+"Unlike classic MAPKs, RCKs are not acutely activated by growth factors through the canonical dualspecificity MEKs (3, 7, 8).  "
+"Instead, both CILK1 and MAK are activated by phosphorylation of Thr157 in the TDY motif by CDK20 (cyclindependent kinase 20), also known as CCRK (cell cyclerelated kinase) (8, 9)."
+"In contrast to CDK20 as a “yang” positive regulator, PP5 (protein phosphatase 5) was identified from a yeast twohybrid screen as a “yin” negative regulator that dephosphorylates Thr157 and inactivates CILK1 in response to oxidative stress (8)."
+The tyrosine in the TDY motif is thought to undergo autophosphorylation for full activation of CILK1 (8).
+"Both CILK1 and MAK also possess the CDKlike regulatory sites T14Y15 near their Nterminus, but lack the PSTAIRE cyclin binding motif found in most CDKs (6).  "
+CILK1 can be partially inactivated by fibroblast growth factor (FGF) signallingmediated phosphorylation of the conserved Tyr15 (10).
+Little else is known about the mechanism and the effect of the T14Y15 motif phosphorylation in CILK1 and MAK.
+"1.2 Intrinsically disordered but functionally critical noncatalytic domain Although CILK1 is very similar to MAPK in the Nterminal catalytic domain, it diverges significantly in both the length and sequence of the Cterminal noncatalytic domain (CTD).  "
+No recognized structural domain has been found in the CTD (285–632 aa) of CILK1 using NCBI Conserved Domain Architecture Retrieval Tool (CDART) (11).
+"The predicted secondary structure for this CTD is entirely random coil (12), suggesting that the CTD is an intrinsically disordered protein (IDP) region (13)."
+"Although IDPs lack welldefined threedimensional structures, they are known to rely on short linear motifs (SLiMs) to interact with folded protein domains and facilitate key protein functions (13, 14)."
+"Indeed, we have recently reported that the intrinsically unstructured CTD is critical for CILK1 functions by determining substrate binding and subcellular localization (15)."
+Better understanding of the basis for CTD functions merits further investigation.
+"1.3 CILK1 substrate phosphorylation consensus The CILK1 substrate phosphorylation consensus sequence has been determined by a positional scanning peptide array as [R]-[P]-[X]-[S/T]-[P/A/S/T], with the strongest selection for arginine at −3 and proline at −2 positions (8)."
+"One distinction from MAPKs and CDKs is that CILK1 does not absolutely require proline at +1 position or a basic residue (K/R) at +3 position in substrates, respectively (16, 17)."
+"The phosphorylation consensus of CILK1 is similar to that (RP-XS/TP) of DYRKs (dualspecificity tyrosine phosphorylationregulated kinases) (18), except in the stringency for requirement of proline at +1 position."
+It is worth pointing out that the current CILK1 substrate consensus sequence was determined using only the Nterminal kinase domain.
+"Since the CTD of CILK1 has been subsequently shown as indispensable for substrate recognition and phosphorylation (15), we speculate that CILK1 substrate specificity may be influenced by the MAPKlike FEBS Lett."
+Author manuscript; available in PMC 2020 November 01.
+Fu et al.
+Page 3 “docking” interactions through its CTD.
+This would probably not affect interactions at the CILK1 active site that contribute to specificity with peptide substrates.
+The CILK1 substrate consensus sequence may be of some use in identification of physiological substrates.
+1.4 Discovery of CILK1 functions and disease relevance CILK1 relevance to human disease remained obscure for more than a decade after its discovery in the late 1990s.
+"The major breakthrough came in 2009, first from the report of human ECO (endocrinecerebro-osteodysplasia) syndrome, where CILK1 was implicated in development of the human central nervous, skeletal, and endocrine systems (19)."
+"Later, a knockdown study in human colon cancer cells showed that suppression of CILK1 reduced cell proliferation and G1 cell cycle progression (20)."
+"The essential role of CILK1 in development was further substantiated by both Cilk1 knockout (KO) (21, 22) and Cilk1 mutation knockin (KI) mouse models (23, 24)."
+"Mechanistic analysis of phenotypes in CILK1deficient mouse models revealed a role for CILK1 in the primary cilium, as described below."
+Most mammalian cells have a primary cilium protruding from their surface that senses environmental cues and transduces extracellular signals to regulate intracellular processes (25).
+Human diseases called ciliopathies are attributed to mutations in the proteins and enzymes supporting the function of this organelle (26).
+"Ciliopathies manifest as a constellation of clinical features in nearly every major body organ, highlighting the essential role of the primary cilium in development and homeostasis."
+"To date, there are still major gaps in our knowledge about how primary cilia are formed, maintained and function in signal transduction, and the mechanisms associated with ciliary dysfunction are yet to be fully elucidated."
+"Homologues of the RCK family in Caenorhabditis elegans (DYF5, dyefilling defective 5), Chlamydomonas reinhardtii (LF4, long flagella protein 4), Tetrahymena thermophila (LF4A, long flagella protein 4A), and Leishmania mexicana (LmxMPK9, Leishmania mexicana MAP kinase 9) are negative regulators of cilia and flagella length (27– 30), because mutations in these genes result in abnormal extension of the cilium/flagellum.  "
+"So far, three inactivating mutations in human CILK1 gene have been identified in human ciliopathies (19, 31, 32), and pathogenic variants were linked to Juvenile Myoclonic Epilepsy (33) (Fig. 1)."
+Candidate substrates for CILK1 emerged from these revelations of its biological functions (Fig. 2).
+"In this review, we will highlight recent advances in our knowledge about CILK1 functions in multiorgan systems and putative substrates in various signalling pathways, as well as discuss perspectives on future studies that may provide mechanistic insights into the role of CILK1 in human development and disease."
+"2.  CILK1 functions in multiorgan systems 2.1 CILK1 in the intestinal epithelium CILK1 is broadly expressed in tissues and highly abundant in the intestine (2, 3, 34, 35)."
+"In the mouse small intestine, CILK1 mRNA is specifically enriched in the proliferative compartment, the intestinal crypts, where stem/progenitor cells and transient amplifying FEBS Lett."
+Author manuscript; available in PMC 2020 November 01.
+Fu et al.
+"Page 4 epithelial cells reside (3, 34)."
+The restricted localization in the crypt raised an early speculation that CILK1 may function in the regulation of intestinal epithelial cell proliferation and intestinal stem or progenitor cell activities (3).
+"Using lentiviral short hairpin RNA (shRNA) interference, we tested this hypothesis by knockdown of CILK1 expression in cultured colorectal carcinoma and intestinal epithelial cell lines."
+"Indeed, the knockdown of CILK1 significantly reduced the proliferation of these cell lines."
+The results provided the first in vitro evidence that CILK1 promotes cell proliferation and cell cycle progression (20).
+"To further address the functions of CILK1 in vivo, we generated an intestine specific KO mouse model."
+It was puzzling that there was no obvious phenotype in CILK1deficient intestinal epithelium during normal development and homeostatic maintenance (unpublished data).
+"But, in a radiation injury mouse model, we observed upregulation of CILK1 expression in regenerating intestinal epithelium that coincides with elevated expression of intestinal stem cell markers."
+"The CILK1 deficiency stunted villi length in the regenerating epithelium, suggesting a supportive role of CILK1 in regenerative growth of intestinal epithelium after radiation injury (unpublished data)."
+"CILK1 expression in the mouse intestinal epithelium is also significantly elevated during the intestinal response to protein malnutrition (36), implicating that CILK1 signaling may contribute to compensatory mucosal growth under nutritional stress."
+Further studies are required to find out how CILK1 supports “catchup” growth of intestinal epithelium in response to nutrient deficiency and impacts the pathophysiological outcomes induced by the vicious cycle of malnutrition and infection.
+2.2 CILK1 in brain development and epilepsy Homozygous CILK1 R272Q was identified as the causative mutation for human ECO syndrome (19).
+"In a SwissModel structure of CILK1 catalytic domain, the conserved R272 in the PKKRP motif is in L15 of subdomain XI and forms ion pairs with conserved E169 and W184; these interactions are predicted to stabilize the interface of αhL15-αi and help to create an active conformation for CILK1 (7)."
+"Mutation of R272 to either alanine or glutamine inactivates CILK1 as a kinase (7, 19)."
+"In ECO syndrome, inactivation of CILK1 caused extensive neuropathological defects in embryonic development, including holoprosencephaly, corpus callosum hypoplasia, and cerebral cortex malformation (19)."
+"In a CILK1deficient mouse model, embryos displayed similar abnormalities, such as enlarged cerebral cortexes and hydrocephalus (21)."
+These embryonic phenotypes in the developing brain are associated with reduced number and reduced activity of neuronal progenitor cells that show aberrant ciliogenesis and sonic hedgehog signaling (21).
+"Furthermore, conditional deletion of CILK1 resulted in growth defects in postnatal brains in the cerebellum and hippocampus dentate gyrus, which are likely caused by compromised postnatal neurogenesis (21)."
+"Surprisingly, loss of CILK1 function in brain affects ciliogenesis only in neural progenitor cells, not in mature neurons, suggesting a neuronal cell typespecific effect of CILK1 in ciliogenesis."
+Heterozygous variants in human CILK1 gene were associated with juvenile myoclonic epilepsy in 7% of the patients in a recent study (33).
+"When plasmids encoding the pathogenic CILK1 variants (K220E, K305T, A615T, and R632X in epilepsy and R272Q in ECO syndrome) were electroporated into the mouse neocortex they impaired radial FEBS Lett."
+Author manuscript; available in PMC 2020 November 01.
+Fu et al.
+Page 5 migration of neural progenitor cells such that fewer neurons reached the cortical plate.
+"Thus, introduction of the inactive kinase inhibited cell migration, possibly through a dominant negative action."
+Cortical progenitor cells expressing pathogenic CILK1 variants showed a lower index of mitosis and cellcycle exit but higher index of apoptosis (except A615T) when compared with cells expressing wildtype CILK1 (33).
+Heterozygous Cilk1 null mice experienced tonicclonic convulsions more frequently than wildtype mice during 2% isoflurane induced light sleep (33).
+"However, there is striking variation in epilepsy phenotypes both within and among families, which strongly suggests that CILK1 is pleiotropic, and the phenotypic effect of CILK1 variants in epilepsy depends on the interaction with modifier genes in epistatic loci (33)."
+"In the central nervous system, the neural primary cilium is emerging as a nonsynaptic signaling mechanism through which environmental signals shape and refine interneuronal connectivity (37, 38)."
+An important question yet to be addressed is whether the mechanism by which heterozygous CILK1 variants trigger epilepsy is related to its highly conserved role in the primary cilium.
+"Surprisingly, epilepsy phenotype can be induced in heterozygous KO mice whose brain structures and neural cilia morphology appear to be indistinguishable from that of wildtype mice (21, 33)."
+"If one functional allele can produce enough active CILK1 protein to fulfill its role in the formation and maintenance of primary cilia, as suggested by both Cilk1 KO and Cilk1 R272Q KI mouse models (21–23), the epilepsy phenotype of CILK1 variants is unlikely the direct consequence of neural ciliary defects.  "
+"However, since CILK1 is pleiotropic in epilepsy (33), the genetic background of mouse models may play a critical role in determining the epilepsy phenotype of variants, which should be taken into consideration when designing further studies to elucidate the mechanism underlying the epileptic effect of CILK1 variants."
+"2.3 CILK1 in lung morphogenesis and primitive alveoli formation ECO syndrome is an autosomal recessive, neonatallethal developmental disorder (19)."
+"Both homozygous Cilk1 KO and Cilk1 R272Q KI mice died around birth due to respiratory distress (21, 23)."
+"Autopsy revealed obvious lung hypoplasia, among other ECO clinical features."
+"R272Q homozygous lungs had the normal shape, number and arrangement of lobes but were hypoplastic and severely deficient in airspace (23)."
+These observations support the idea that CILK1 is required for cell proliferation and tissue development in vivo.  
+"Morphometric analyses further indicated a significant reduction in lung saccular area and a marked increase in interstitial mesenchymal thickness, suggesting that the formation of primitive alveoli was severely disrupted by CILK1 dysfunction (23)."
+"During branching morphogenesis at the pseudoglandular stage, the number of lung buds (branching points) per area was reduced by about 50% in CILK1 mutant lungs as compared with normal littermate controls, indicating that loss of CILK1 function severely compromised lung branching morphogenesis (23)."
+The bronchial tree develops through extensive proliferation of distal epithelium and surrounding mesenchyme.
+"In CILK1 mutant lungs, reduced proliferation of mesenchymal but not epithelial cells impaired lung branching (23)."
+FEBS Lett.
+Author manuscript; available in PMC 2020 November 01.
+Fu et al.
+"Page 6 During alveolar development at the saccular stage (E16.5–18.5), two major morphogenetic events occur and are required for the formation of air saccules: differentiation of the two main specialized epithelial cell types of the future alveolus, and the thinning and remodeling of lung interstitium."
+"In the developing lung, CILK1 deficiency did not alter the morphology and functions of alveolar type 1 and type 2 epithelial cells but caused hypercellularity in the interstitium (23)."
+These results suggest that CILK1 function is dispensable for differentiation of alveolar epithelial cells but is essential for the thinning and remodeling of interstitial mesenchyme.
+Further analysis indicated that a deficiency in apoptosis is unlikely a major cause of the excessive cellularity in the interstitium; instead abnormal mesenchymal differentiation in the interstitium may result in the hypercellularity that blocks the thinning of interstitium and the expansion of airspace (23).
+"Furthermore, CILK1 dysfunction induced elongation of primary cilia and perturbation of ciliary Hedgehog signaling during lung sacculation (23)."
+"In the developing lung, loss of CILK1 function perturbed not only ciliary structure and Hedgehog signaling but also autophagy, a highly conserved intracellular process in the maintenance of cell homeostasis (23)."
+Autophagy is intrinsically linked to ciliogenesis (39– 41) and is implicated for a critical role of facilitating the thinning of the alveolar septa that is necessary for effective gas exchange during the transition to air breathing at birth (42).
+The mechanism by which CILK1 regulates lung morphogenesis and sacculation through ciliary signaling and autophagy is still unclear and awaits future investigation.
+"2.4 CILK1 in skeletal development Homozygosity for mutations in CILK1 including c.1305GA (R272Q), c.358GT (G120C), and c.238GA (E80K), produced ECO and ECOlike syndromes that present profound and wideranging skeletal abnormalities such as polydactyly, short ribs, bowed limbs, and shortened and hypoplastic long bones (19, 31, 43)."
+"Cilk1 null and R272Q mutant mouse models showed marked disruption of growth plate architecture, with a shortened proliferative zone and poorly formed hypertrophic zone, indicating compromised proliferation and faulty differentiation of chondrocytes (24, 43)."
+Cilk1 R272Q KI mice showed a deformed spine with defective intervertebral disc (24).
+Analysis of the spinal column and long bones of R272Q mutants revealed reduced proliferation zones and reduced prevalence of type X collagenexpressing hypertrophic chondrocytes (24).
+"Because analysis of apoptotic cells showed no significant difference between normal and CILK1 mutant growth plates, CILK1 is implicated in the regulation of chondrocyte proliferation and maturation."
+"Although the mechanisms underlying these skeletal phenotypes are not fully understood, studies from patientderived fibroblasts (E80K) and CILK1 null chondrocytes have suggested a link between Hedgehog and ERK signaling pathways and ciliary dysfunction (43)."
+2.5 CILK1 in inner ear development and auditory function The cochlea in the inner ear is the hearing organ.
+The planar cell polarity (PCP) signalling pathway plays a critical role in the establishment of cellular asymmetry within the plane of a sheet of inner ear sensory hair cells.
+PCP in hair cells in the cochlea refers to the asymmetric structure consisting of staircaselike stereocilia bundles and one kinocilium on the apical FEBS Lett.
+Author manuscript; available in PMC 2020 November 01.
+Fu et al.
+Page 7 surface of the cell body.
+"CILK1 deletion caused PCP defects in the cochlea, including misorientation of stereocilia and aberrant position of the kinocilium, leading to auditory dysfunction (44)."
+"Furthermore, disruption of CILK1 caused accumulation of ciliary protein "
+"Ift88 at the tip of cilia and cilia elongation in the cochlea, suggesting IFT dysfunction is closely related to cilia elongation in CILK1deficient cochlea (44)."
+This result is consistent with prior observations in cultured cells that CILK1 knockdown induces cilia elongation and increases the anterograde IFT velocity (45).
+"Overall, these results demonstrate that CILK1 is essential for auditory function by regulating PCP formation in inner ear hair cells."
+The mechanism by which CILK1 controls cilia morphology and function and the establishment of PCP in the cochlea remains to be elucidated.
+"2.6 CILK1 in cardiac development and hypertrophy No major cardiac phenotype in embryonic development was reported in ECO and ECOlike syndromes, except that an affected patient bearing the G120C mutation in CILK1 presented ventricular septal defect (VSD), which is a common heart defect at birth (31)."
+Heart phenotype was either not detected or understudied in both KO and mutant CILK1 KI mouse models.
+"Abe and colleagues isolated ICK/MRK from a rat heart cDNA library, and they reported CILK1 expression in myocardium of embryonic and adult hearts (2)."
+"Interestingly, they observed an increase in the intensity of CILK1 staining and the number of CILK1positive cardiomyocytes in hypertrophic hearts under experimentally induced stenosis of the abdominal aorta (2)."
+This result implicates that CILK1 expression is inducible in the heart by external stress such as pressure overload.
+This phenomenon is reminiscent of what we observed in the intestinal epithelium where CILK1 expression can be induced under nutritional stress (36) or radiation injury (unpublished data).
+Conditional KO mouse models will be needed to interrogate the role of CILK1 in the heart under both normal and pathophysiological conditions.
+"2.7 CILK1 in kidney and adrenal glands In ECO patients with the homozygous R272Q mutation, kidney cortex and medulla showed cystically dilated tubules to a variable extent (19)."
+An affected fetus with homozygosity for the G102C mutation showed large and hyperechogenic kidneys (31).
+Hyperechogenicity is a nonspecific finding but a significant one in that it suggests the presence of renal abnormalities.
+"The role of cilia in the pathogenesis of cystic kidney disease has been well established but the exact mechanism by which mutant genes and cilia cause cysts remain poorly defined (46, 47)."
+"Since CILK1 has a highly conserved role in regulating cilia function, it will be an intriguing question whether CILK1 dysfunction contributes to the pathogenesis of cyst formation in kidney disease."
+"ECO and ECOlike syndromes presented remarkable defects in endocrine glands, including absent or hypoplastic adrenal glands and pituitary gland (19, 31)."
+"Primary cilia are signalling hubs for Hedgehog and Wnt signalling pathways, both of which play a major role in the development and regeneration of adrenal glands (48, 49)."
+It is thus conceivable that CILK1 may be involved in the development of adrenal glands through regulating various ciliary signalling pathways.
+FEBS Lett.
+Author manuscript; available in PMC 2020 November 01.
+Fu et al.
+Page 8 3.  
+"CILK1 targets in signalling pathways 3.1 Targeting KIF3A in anterograde IFT In primary cilia, intraflagellar transport (IFT) is a bidirectional system that consists of kinesinmediated anterograde and dyneinmediated retrograde movement of cargos."
+"IFT, especially anterograde, is critical for proper cilium formation and maintenance of the structure (50)."
+"Knockdown of CILK1 accelerates anterograde IFT in the primary cilium, which may provide a possible explanation for CILK1 deficiencyinduced cilium elongation (45)."
+Anterograde IFT is mediated by the heterotrimeric kinesin2 motor complex (KIF3A/ KIF3B/KAP3).
+KIF3A and KIF3B (kinesin family member 3A and 3B) form a heterodimer that functions as a microtubulebased fast anterograde translocator.
+"Human KIF3AThr672 is located within a CILK1 consensus sequence RPRTS that is highly conserved among metazoans (15) and is phosphorylated by CILK1 in vitro and in vivo (15, 21). This CILK1 site is in the Cterminal cargobinding region of human KIF3A that contains multiple phosphorylation sites, including PKA site Ser687 and CaMKII sites Thr692 and Ser696 (51)."
+Phosphorylation of S687/T692/S696 enhances the cargobinding and trafficking activities of KIF3A (51).
+It remains to be determined whether phosphorylation of KIF3AThr672 by CILK1 is another mechanism for regulation of KIF3A activity in IFT.
+"Mouse Kif3a mutant protein containing mutation of all 8 phosphosites at the Cterminal could not rescue the ciliogenesis defects in Kif3aknockdown cells (21), consistent with the notion that phosphorylation of KIF3A Cterminal cargobinding domain is critical for IFT and ciliogenesis."
+"Interestingly, mouse Kif3aT674A mutant protein exhibited a stronger capacity than Kif3aWT protein to rescue cilia formation in Kif3aknockdown cells (21)."
+This intriguing observation supports the hypothesis that KIF3ApThr672 acts as a downstream effector through which CILK1 negatively regulates ciliogenesis.
+"Further studies are required to address how CILK1 phosphorylation of KIF3AThr672 affects IFT and ciliogenesis, and whether deregulation of this phosphorylation event is required for the ciliopathy phenotypes caused by CILK1 dysfunction."
+"3.2 Targeting Raptor in mTORC1 signalling The serinethreonine protein kinase mTOR (mammalian target of rapamycin) is the core catalytic component of two structurally and functionally distinct protein complexes, mTOR complex 1 (mTORC1) and mTOR complex 2 (mTORC2), which collectively integrate nutrient, hormonal, and energy signal inputs to control cell growth, proliferation and survival (52–54)."
+Suppression of CILK1 expression in intestinal epithelial cells markedly impaired cell proliferation and G1 cell cycle progression (20).
+"Furthermore, CILK1 deficiency led to a significant decrease in mTORC1 activity, concomitant with reduced expression of specific mTORC1 downstream targets cyclinD1 and cMyc (20)."
+These results suggest that CILK1 may target the mTORC1 signalling pathway to regulate cell proliferation and cell cycle progression.
+"Raptor, regulatory associated protein of mTOR, plays an important role as a scaffolding protein to recruit substrates to mTOR (55) and also positively regulate mTOR activity by directly interacting with Rag family GTPases to induce mTORC1 relocalization to the lysosomes (56–58)."
+Raptor is a substrate of multiple protein kinases and the complex FEBS Lett.
+Author manuscript; available in PMC 2020 November 01.
+Fu et al.
+Page 9 phosphorylation status of Raptor is tightly associated with the activity of mTORC1.
+CILK1 physically interacts with mTORC1 and phosphorylates Raptor at Thr908 in cells (59).  
+"Although the phosphodeficient mutant, Raptor T908A, did not affect mTORC1 assembly, it did markedly impair the mTORC1 activation by insulin or by the small GTPbinding protein RheB under nutrient starvation (59)."
+These findings point to phosphorylation of Raptor by CILK1 as a requirement for activation of mTORC1.
+Cilia function and mTOR activation are linked.
+Primary cilia regulate mTORC1 activity through the ciliary Lkb1AMPK-Rheb pathway (60).
+Cilium formation and length are regulated by the mTOR pathway.
+Inhibition of mTORC1 by rapamycin resulted in shorter cilia in zebrafish and C. reinhardtii embryos (61).
+"In mammalian cells, however, inactivating mTORC1 by rapamycin or Raptor knockdown promoted ciliogenesis (62)."
+Rapamycin treatment suppressed the effect of CILK1 depletion on cilium length and IFT (45).
+These results suggest that CILK1 could regulate ciliogenesis and IFT through phosphorylation of Raptor and activation of mTORC1.
+"3.3 Targeting Scythe in autophagy Increasing evidence has shown that ciliogenesis and autophagy are intricately linked and reciprocally regulated (39, 40, 63)."
+"Autophagy regulates ciliogenesis by controlling the levels of ciliary proteins that are either essential for ciliogenesis, such as IFT20 (intraflagellar transport 20) (40), or negative regulators of ciliogenesis, such as the centriolar satellite protein OFD1 (oralfacial-digital syndrome 1) (39)."
+"Under basal conditions, basal autophagy prevents ciliary growth through degradation of IFT proteins such as IFT20."
+"Early upon nutrient removal, induction of autophagy triggers degradation of the endogenous inhibitor of ciliogenesis OFD1, thus promoting cilium formation."
+This switch in autophagy cargo upon starvation promotes IFT and ciliogenesis.
+"In ECO ciliopathy mouse lungs, elongation of primary cilia is closely correlated with increased autophagy (23)."
+"Furthermore, CILK1 mutant cells displayed a faster autophagy flux and quicker degradative process upon induction of autophagy by starvation."
+These observations raise whether CILK1 lossof-function increased autophagy for the elongation of primary cilia in ECO ciliopathy.
+Scythe was identified as a CILK1 interacting protein and a candidate substrate from a yeast twohybrid screen (8).
+"In mammalian cells, CILK1 directly interacts with Scythe and specifically phosphorylates Scythe at Thr1080 (8)."
+Scythe is a cochaperon protein involved in protein quality control (64) and is essential for basal and starvationinduced autophagy (65).
+Whether CILK1 controls ciliogenesis in part through regulating autophagy via phosphorylation of Scythe awaits further investigation.
+3.4 Targeting GSK3β in Hedgehog signalling Glycogen synthase kinase 3β (GSK3β) is a positive regulator of ciliogenesis.
+"In green alga Chlamydomonas reinhardtii, flagellar assembly requires GSK3β activity."
+"Adding lithium chloride, an inhibitor of GSK3β, to cells undergoing flagellar assembly results in flagella less than half the normal length (66, 67)."
+"In mammalian cells, the inhibitory Ser9 phosphorylation state of GSK3β correlates with the reduced frequency of primary cilia formation in renal cysts (68)."
+GSK3β promotes assembly of primary cilia after mitosis FEBS Lett.
+Author manuscript; available in PMC 2020 November 01.
+Fu et al.
+Page 10 through the GSK3βDzip1-Rab8 signalling cascade (69).
+"In addition, GSK3β is a positive regulator of Hedgehog (Hh) signalling."
+Downregulation of GSK3β expression by RNA interference in Hhresponsive cells attenuated Hedgehog signalling (70).
+"GSK3β binds Sufu, a negative regulator of Hh signalling."
+GSK3β phosphorylation of Sufu at T407 decreases its ability to bind Gli and suppress Glimediated transcription (70).
+GSK3β Thr7 is a highly conserved CILK1 site.
+Inhibitory Ser9 phosphorylation of GSK3β by AKT is an important mechanism that negatively regulates GSK3β activity upon insulin stimulation (71).
+Thr7 and Thr8 are located in the AKT substrate consensus sequence on GSK3β and are essential for insulinstimulated Ser9 phosphorylation in vivo and GSK3β inactivation (72).
+CILK1 phosphorylates GSK3β Thr7 in vitro and in vivo.
+Thr7 phosphorylation enhances Ser9 phosphorylation and promotes phosphoSer9-dependent autoinhibition of GSK3β (72).
+These results raise the hypothesis that CILK1 negatively regulates GSK3β activity through inhibitory Thr7 phosphorylation to suppress cilia formation and Hedgehog signalling.
+4.  Conclusions and Perspectives CILK1 has an essential role in human development.
+Both CILK1 and its upstream activating kinase CDK20/CCRK are highly conserved regulators of ciliogenesis and cilia length.  
+CILK1 KO and the ECO mutation (R272Q) KI mouse models revealed a requirement for CILK1 in multiple organ systems.
+"Alteration in cilia number, cilia length, ciliary signalling and autophagy presumably accounts for the pathological phenotypes caused by CILK1 dysfunction."
+"Several candidate substrates for CILK1 have been identified, such as KIF3A, Raptor and Scythe"
+But how they mediate CILK1 effects on cilia morphology and function is still poorly defined.
+How the phosphorylation of these substrates relates to mutant CILK1 ciliopathies and epilepsy is completely unknown.
+The link of CILK1 mutations to human ciliopathies and epilepsy has brought CILK1 under the spotlight on the centre stage of human health and disease.
+"Although remarkable progress has been made within the past two decades, many significant questions remain to be addressed in future research."
+4.1 Does CILK1 have cellular functions separate from the primary cilium?
+"If so, what are the substrates and do these functions contribute to the pathogenesis of ciliopathies and epilepsy?"
+Studies using either GFPtagged CILK1 or antibody staining of endogenous CILK1 have shown that CILK1 is localized in the primary cilium.
+We and others have focussed on CILK1 regulation of KIF3A and ciliary anterograde transport.
+"But CILK1 is observed in other intracellular compartments, including nucleus and cytoplasm.  "
+There are unique sequence requirements for subcellular targeting of CILK1.
+"For example, we have shown that mutation of the conserved R272 within the PKKRP motif in the catalytic domain is sufficient to exclude CILK1 from the nucleus (7)."
+"Furthermore, we have shown the noncatalytic CTD of CILK1 is required for ciliary localization (15)."
+"It has been shown that CILK1 with different ciliopathy mutations exhibits distinct patterns of subcellular localization (31, 43), which predicts that these ciliopathy mutations may cause their disease phenotypes through different molecular mechanisms."
+It is likely that CILK1 interacts with distinct pools of substrates and signalling proteins in its various locations FEBS Lett.
+Author manuscript; available in PMC 2020 November 01.
+Fu et al.
+Page 11 within cells.
+"Biochemical isolation and characterization of these mutationspecific CILK1 complexes may expose other, new targets for the diversity of CILK1 signalling."
+4.2 
+What are the environmental stimuli that activate or inactivate CILK1?
+Primary cilium offers a unique signalling environment.
+"The primary cilium contains many cell surface receptors, including GPCR, RTK, Hedgehog, PDGFRα, TGFβ, and WNT."
+"The cilium provides highly efficient signal processing, with a remarkably large ratio of sensing surface to internal volume."
+This restricted intracellular environment favours generation of high concentrations of second messengers such as calcium and cyclic AMP and proteinprotein interactions.
+How CILK1 is regulated in this unique signalling environment is largely unknown.
+What extracellular signals impact CILK1 activity?
+Is CILK1 intracellular localization regulated?
+"We need to move beyond establishing a requirement for CILK1 in ciliarydependent functions and define with more precision what CILK1 does, and how."
+The answers to these questions will require tools to track CILK1 activity in time and space under different cellular conditions.
+"Plus, we need to understand how ciliopathyassociated mutations affect CILK1 activation and inactivation, as well as association with and phosphorylation of different substrates, and the effects on these targets."
+"4.3 Do CILK1, MAK, and MOK have similar or distinct functions and mechanisms of action?"
+"RCK family kinases and their homologs, including C. elegans DYF5, Chalmydomonas LF4, Tetrahymena LF4A, and Leishmania LmxMPK9, are negative regulators of cilium and flagellum length (27–30)."
+"Based on the sequence similarity in their serine/threonine kinase domain, LF4 is closer to MOK, and DYF5 is closer to CILK1 and MAK."
+"Jansen and colleagues have shown that while both CILK1 and MOK are negative regulators of cilia length, they have distinct effects on intraflagellar transport (45)."
+"Loss- or gainof-function of CILK1 affected IFT velocity, which is similar to the phenotype of its C. elegans homolog DYF5."
+"In contrast, MOK overexpression or knockdown had no effect on IFT speed."
+"MOK homologs LF4 and LF4A have inconsistent IFT phenotypes (28, 30)."
+These results support independent functions for CILK1 and MOK.
+"The effects of CILK1 and MOK on cilium length both require mTORC1 signalling, but identification of their individual downstream targets and effectors require further investigation."
+CILK1 is most closely related to MAK in sequence and domain structure.
+"Pathogenic MAK variants are associated with retinitis pigmentosa, a retinal ciliopathy (73, 74)."
+MAK plays a key role as a negative regulator of cilium length in retinal photoreceptor survival (75).  
+"Furukawa and colleagues proposed that MAK regulates microtubule stability and controls cilium length through phosphorylation of microtubuleassociated proteins, such as retinitis pigmentosa 1 (RP1) (75)."
+A recent study in C. elegans further indicated that the CDK20MAK kinase cascade controls cilia shape and structure by regulating axonemal microtubule dynamics (76).
+"Indeed, CILK1, MAK and their closest homolog DYF5 affect the motility of kinesin motors and movement of IFT particles, as well as docking and undocking of IFT cargos in primary cilia (27, 45, 77)."
+"Although CILK1 and MAK are almost identical in the sequence of the Nterminal catalytic domain, they differ significantly in the sequence of the Cterminal noncatalytic domain (CTD)."
+We recently demonstrated that the intrinsically FEBS Lett.
+Author manuscript; available in PMC 2020 November 01.
+Fu et al.
+"Page 12 disordered CTD of CILK1 is required for its ciliary targeting, substrate binding and phosphorylation."
+This suggests that the divergent CTDs of CILK1 and MAK may determine their individual functions by specifying substrate recognition and subcellular compartmentalization.
+"A key question that remains to be addressed in our future study is whether the ciliary functions of CILK1 and MAK are distinct or redundant, and whether these kinases utilize different targets and pathways to regulate ciliary length and ciliary transport machinery."
+Acknowledgments This work was supported by the National Institute of Health grant GM127690 to Z.F. and the F. Palmer Weber endowed professorship to D.L.B.
+"We thank our colleagues Thomas Sturgill, Michael Weber, Thurl Harris, Li Jin, and Mark Beenhakker for constructive comments and valuable advice."
+Abbreviations: CILK1 ciliogenesis associated kinase 1 ICK RCK MAK MOK MRK LF4 DYF5 intestinal cell kinase vros crosshybridizing kinase male germ cellassociated kinase MAPK/MAK/MRKoverlapping kinase MAKrelated kinase long flagella protein 4 dyefilling defective 5 LmxMPK9 Leishmania mexicana MAP kinase 9 MAPK CDK
+CDK20 CCRK PP5 FGF IDP SLiMs DYRKs ECO KO mitogenactivated protein kinase cyclindependent kinase 20 cell cyclerelated kinase protein phosphatase 5 fibroblast growth factor intrinsically disordered protein short linear motifs dualspecificity tyrosine phosphorylationregulated kinases endocrinecerebro-osteodysplasia knockout FEBS Lett.
+Author manuscript; available in PMC 2020 November 01.
+Fu et al.
+Page 13 KI PCP IFT KIF3A mTOR Raptor IFT20 OFD1 RP1 knockin planar cell polarity intraflagellar transport kinesin family member 3A mammalian target of rapamycin regulatory associated protein of mTOR intraflagellar transport 20 oralfacial-digital syndrome 1 retinitis pigmentosa 1
