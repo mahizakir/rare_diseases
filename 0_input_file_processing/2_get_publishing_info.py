@@ -38,7 +38,7 @@ def search_article(partial_title):
 #     return gne_count, myopathy_count
 
 # Folder containing CSV files
-disease_name = "pachydermoperiostosis"
+disease_name = "Zimmermann-Laband syndrome" #"Mabry syndrome" #"Endocrine-cerebro-osteodysplasia syndrome"  #"pachydermoperiostosis"
 folder_path = f"../data/{disease_name}/{disease_name}_csvs"  # Change this to your actual folder path
 output_csv = f"../data/{disease_name}/publication_info_"+ disease_name +".csv"  # Output file
 
