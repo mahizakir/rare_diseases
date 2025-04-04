@@ -1,8 +1,9 @@
 import pandas as pd
-import csv, math
+import csv, math, sys
 import matplotlib.pyplot as plt
 
-disease_name = 'pachydermoperiostosis'
+# disease_name = 'pachydermoperiostosis'
+disease_name = sys.argv[1]
 input_file_path_here = '../data/' + disease_name + '/updated_metadata_tagged_triple_' + disease_name + '.csv'
 df2 = pd.read_csv(input_file_path_here)
 

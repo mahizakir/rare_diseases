@@ -15,6 +15,9 @@ df = pd.read_csv("ORPHAnomenclature_MasterFile_en_2024..xlsx - ICD10.csv")
 def get_orphacode(term: str) -> int:
     """Find ORPHAcode for a given disease term."""
     match = df[df["PreferredTerm"].str.lower() == term.lower()]
+    if match.empty:
+        # If no match in PreferredTerm, try searching in Synonyms
+        match = df[df["Synonyms"].str.lower().str.contains(term.lower(), na=False)]
     return match["ORPHAcode"].values[0] if not match.empty else None
 
 def scrape_disease_definition(orphacode: int) -> str:
@@ -86,6 +89,10 @@ def find_keywords(disease_name):
         extracted_terms = generate_response(definition)
         print(extracted_terms)
         keywords = extracted_terms.split(", ")
+
+        # Check if the disease_name is already in the keywords list
+        if disease_name.lower() not in [keyword.lower() for keyword in keywords]:
+            keywords.append(disease_name)  # Add the disease_name if not found
     
     return keywords
 

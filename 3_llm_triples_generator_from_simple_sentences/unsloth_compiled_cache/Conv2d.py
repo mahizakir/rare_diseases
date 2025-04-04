@@ -37,7 +37,7 @@ from torch import Tensor
 import torch
 import torch.nn as nn
 from torch.nn import functional as F
-from transformers.models.siglip.modeling_siglip import (np)
+
 
 def forward(self, input: Tensor) -> Tensor:
-    return self._conv_forward(input, self.weight, self.bias).to(input.dtype)
+    return self._conv_forward(input, self.weight, self.bias).to(input.dtype).to(input.dtype)

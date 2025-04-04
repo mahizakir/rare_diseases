@@ -1,8 +1,8 @@
-import pandas as pd
+import pandas as pd, sys
 
 # Load CSV files
-disease_name = 'pachydermoperiostosis'
-
+# disease_name = 'pachydermoperiostosis'
+disease_name = sys.argv[1]
 
 publication_info_file_path = '../data/' + disease_name + '/publication_info_' + disease_name + '.csv'
 tagged_triple_file_path = '../data/' + disease_name + '/tagged_triples_from_triple_and_relevant_sentence_with_' + disease_name + '.csv' 

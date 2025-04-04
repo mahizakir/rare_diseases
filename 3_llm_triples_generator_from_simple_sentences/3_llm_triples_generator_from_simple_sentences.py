@@ -51,7 +51,8 @@ def extract_response(input_string):
         return response
 
 
-disease_name = 'pachydermoperiostosis'
+#disease_name = 'pachydermoperiostosis'
+disease_name = sys.argv[1]
 file_path = '../data/' + disease_name + '/generated_simple_sentences' + disease_name + '.csv' 
 df = pd.read_csv(file_path, usecols=[0, 1, 2], header=0) # Read the CSV file, skipping the header
 list_of_unformatted_original_sentences = df.iloc[:, 0].tolist() # Convert the first column values to a list, skipping the header

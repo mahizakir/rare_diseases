@@ -1,7 +1,9 @@
 import pandas as pd
 import csv, os, sys
 
-disease_name = 'pachydermoperiostosis'
+
+disease_name = sys.argv[1]
+# disease_name = 'pachydermoperiostosis'
 file_path = '../data/' + disease_name + '/formatted_triples_' + disease_name + '.csv' 
 
 df = pd.read_csv(file_path, usecols=[0, 1, 2, 3, 4, 5, 6], header=0) # Read the CSV file, skipping the header

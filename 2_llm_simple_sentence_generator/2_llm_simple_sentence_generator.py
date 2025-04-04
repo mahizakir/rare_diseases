@@ -3,6 +3,10 @@ import pandas as pd
 import re, csv, os, sys
 from unsloth import FastLanguageModel
 from transformers import TextStreamer
+import warnings
+
+# Suppress the warning related to slow image processor
+warnings.filterwarnings("ignore", message=".*Using a slow image processor.*")
 
 parent_directory = os.path.abspath(os.path.join(os.getcwd(), '..'))
 sys.path.append(parent_directory)
@@ -50,7 +54,8 @@ def extract_response(input_string):
         response = match.group(1).strip()  # Extract and clean the response
         return response
 
-disease_name = 'pachydermoperiostosis'
+#disease_name = 'Endocrine-cerebro-osteodysplasia syndrome'
+disease_name = sys.argv[1]
 file_path = '../data/' + disease_name + '/relevant_texts_' + disease_name + '.csv'  # Replace with your CSV file path
 df = pd.read_csv(file_path, usecols=[0, 1], header=0) # Read the CSV file, skipping the header
 list_of_inputs = df.iloc[:, 0].tolist() # Convert the first column values to a list, skipping the header

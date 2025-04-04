@@ -1,10 +1,11 @@
 import pandas as pd
 import csv
-import warnings
+import warnings, sys
 # Suppress specific FutureWarning from transformers
 warnings.filterwarnings("ignore", category=FutureWarning, module="transformers.tokenization_utils_base")
 
-disease_name = 'pachydermoperiostosis'
+# disease_name = 'pachydermoperiostosis'
+disease_name = sys.argv[1]
 file_path = '../data/' + disease_name + '/generated_triples_from_simple_sentences_' + disease_name + '.csv' 
 # file_path = 'generated_triples_from_simple_sentences.csv'  # Replace with your CSV file path
 df = pd.read_csv(file_path, usecols=[0, 1, 2, 3], header=0) # Read the CSV file, skipping the header
