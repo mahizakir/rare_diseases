@@ -33,7 +33,7 @@ def read_csv_files_from_folder(folder_path):
     
     return contents_list
 
-# disease_name = "pachydermoperiostosis"
+#disease_name = "pachydermoperiostosis"
 disease_name = sys.argv[1]
 folder_path = f"../data/{disease_name}/{disease_name}_csvs"
 csv_contents_with_file_name = read_csv_files_from_folder(folder_path)
