@@ -1,0 +1,331 @@
+"Article Identiﬁcation of Novel Gene Variants for Autism Spectrum Disorders in the Lebanese Population Using WholeExome Sequencing Perla Gerges 1,2,* Christian R. Andres 2,4 and Walid Hleihel 1,5, Tania Bitar 1,*, Frederic Laumonnier 2, Sylviane Marouillat 2, Georges Nemer 3 1 Department of Biology, Faculty of Arts and Sciences, Holy Spirit University of Kaslik, Jounieh P.O. Box 446, Lebanon; walidhleihel@usek.edu.lb 2 UMR 1253 iBrain, Inserm, Faculté de Médecine, Université de Tours, CEDEX 1, 37032 Tours, France; frederic.laumonnier@univtours.fr (F.L.); sylviane.marouillat@univtours.fr (S.M.); christian.andres@univtours.fr (C.R.A.) 3 Division of Genomics and Translational Biomedicine, College of Health and Life Sciences, Hamad Bin Khalifa University, Doha P.O. Box 34110, Qatar; GNemer@hbku.edu.qa Laboratoire de Biochimie et Biologie Moléculaire, CHRU de Tours, CEDEX 09, 37044 Tours, France School of Medicine and Medical Sciences, Holy Spirit University of Kaslik, Jounieh P.O. Box 446, Lebanon *"
+Correspondence: perla.a.gerges@net.usek.edu.lb (P.G.); taniabitar@usek.edu.lb (T.B.)
+"Abstract: In our previous study, in which array CGH was used on 19 Lebanese ASD subjects and their parents, we identiﬁed rare copy number variants (CNVs) in 14 subjects."
+The ﬁve remaining subjects did not show any CNVs related to autism spectrum disorders (ASD).
+"In the present complementary study, we applied wholeexome sequencing (WES), which allows the identiﬁcation of rare genetic variations such as single nucleotide variations and small insertions/deletions, to the ﬁve negative CNV subjects."
+"After stringent ﬁltering of initial data on the ﬁve families, three novel genes potentially related to neurodevelopment were identiﬁed, including a de novo mutation in the MIS18BP1 gene."
+"In addition, genes already known to be related to ASD contained sequence variations."
+Our ﬁndings outline the potential involvement of the novel de novo mutation in the MIS18BP1 gene in the genetic etiology and pathophysiology of ASD and highlights the genetic complexity of these disorders.
+"Further studies with larger cohorts of subjects are needed to conﬁrm these observations, and functional analyses need to be performed to understand the precise pathophysiology in these cases."
+"Citation: Gerges, P.; Bitar, T.; Laumonnier, F.; Marouillat, S.; Nemer, G.; Andres, C.R.; Hleihel, W. Identification of Novel Gene Variants for Autism Spectrum Disorders in the Lebanese Population Using WholeExome Sequencing."
+"Genes 2022, 13, 186."
+https://doi.org/10.3390/ genes13020186 Academic Editors: Andreas G. Chiocchetti and Zeynep Tümer Keywords: autism spectrum disorders; wholeexome sequ encing; single nucleotide variations; insertions/deletions; genetic etiology; MIS18BP1 Received: 20 December 2021 Accepted: 19 January 2022
+Published: 21 January 2022 Publisher’s Note: MDPI stays neutral with regard to jurisdictional claims in published maps and institutional afﬁl- iations.
+Copyright: © 2022 by the authors.
+"Licensee MDPI, Basel, Switzerland."
+This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https:// creativecommons.org/licenses/by/ 4.0/).
+"1. Introduction According to the Diagnostic and Statistical Manual of Mental Disorders DSM5, autism spectrum disorders (ASD) are extremely variable conditions characterized by impairments in reciprocal social communication and the use of restrictive and repetitive routines, typically manifesting before the age of 3 years and affecting boys 4 times more than girls."
+"For 2016, in the United States, the estimated ASD prevalence has gradually risen to affect 1 in every 54 children who are 8 years of age, according to a recently published report by the Centers for Disease Control and Prevention (CDC)."
+"However, the prevalence in Lebanon is estimated to be 1 in 66 children in Beirut and Mount regions."
+"In parallel to the considerable clinical heterogeneity of these disorders, several studies have shown that ASD are multifactorial disorders."
+Variations in multiple genes provide strong evidence of the involvement of genetic factors that explain most of ASD risk.
+"In fact, ASD is thought to potentially involve more than 1000 genes, while 102 genes have been formally associated, with variable levels of evidence."
+"An important proportion of Genes 2022, 13, 186."
+"https://doi.org/10.3390/genes13020186 https://www.mdpi.com/journal/genes (cid:1)(cid:2)(cid:3)(cid:1)(cid:4)(cid:5)(cid:6)(cid:7)(cid:8)(cid:1)(cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:7)genesG C A TT A C GG C A TGenes 2022, 13, 186 2 of 12 these genes encodes proteins implicated in synaptic function, ubiquitination, and chromatin remodeling."
+"Chromosomal abnormalities, rare copy number variations (CNVs) and single nucleotide variants (SNV) have been associated with ASD."
+"Rare, de novo, and inherited CNVs have been entangled in several neurodevelopmental disorders, and they are observed in 15–20% of subjects with ASD."
+"Despite the great number of identiﬁed ASD susceptibility genes, only a small proportion of them have been strongly validated ; as such, identifying speciﬁc causative genes is an important challenge."
+Recent developments in genomic sequencing have transformed variant discovery.
+"Different approaches have been used to uncover gene variants related to ASD, such as next generation sequencing techniques (NGS) including whole genome sequencing (WGS) and wholeexome sequencing (WES)."
+WES has been used to identify rare and novel genetic variations related to neurodevelopmental disorders.
+Our previous study aimed to evaluate the presence of rare CNVs in a group of 19 Lebanese ASD subjects and their parents using the highresolution comparative genomic hybridization technique (array CGH) which is an ultrahigh-resolution method of genetic testing that identiﬁes small deletions and duplications.
+We reported a high percentage of CNVs in 14 subjects.
+"Moreover, this study uncovered several CNVs related to ASD and identiﬁed PJA2, SYNPO, APCS, and TAC1 as novel ASD candidate genes."
+"An additional approach to identifying small CNVs, SNVs, and indels in the genome associated with several disorders including ASD could be of interest since array CGH cannot detect balanced structural variations and point mutations."
+"To this end, in this complementary study, wholeexome sequencing (WES) was further implemented among the ﬁve families who did not reveal any CNVs related to ASD in the previous study, to identify point mutations in genes and to expand our knowledge of the genetic etiology and the pathophysiology of these disorders."
+"Therefore, the analysis framework was designed to uncover rare de novo and inherited variants in novel or ASDlinked genes that have previously been described."
+"This approach enabled us to detect variants in three novel genes potentially related to neurodevelopment, including one de novo mutation in the MIS18BP1 gene."
+"In addition, variants in genes already known as related to ASD were also detected."
+2. Materials and Methods 2.1.
+Subjects and Clinical Characteristics The 5 studied subjects were enrolled in the study among the group of 19.
+The diagnosis was performed by the psychiatrists of the nongovernmental organizations (NGOs).
+This was based on the Diagnostic and Statistical Manual of Mental Disorders in its 4th edition.
+"As reported by the NGOs, the average Childhood Autism Rating Scale (CARS) score as well as the levels of intellectual disability were moderate in the subjects included in our study."
+Subjects were recruited from specialized institutions and NGOs distributed all over Lebanon.
+"First, our research team contacted the NGOs to explain the aim of the project."
+"After the approval of the NGOs, a letter summarizing the objectives was sent to the families."
+"Afterward, the families were invited to a meeting with our team in which we explained the different steps of the study."
+The families who accepted to participate in our study provided us with a signed informed consent form before the collection of the data and the samples.
+The study was complied with the ethical standards and guidelines of the Declaration of Helsinki in 1964 and its later amendments.
+The Holy Spirit University Ethical Committee reviewed and approved the study protocol (delivered in 2014).
+2.2.
+"DNA Extraction Genomic DNA was extracted from the blood samples of ASD subjects and their 2 parents (except the mother of subject number 64 who was dead and the father of subject 70 who was unknown) using the QIAsymphony robot, and then the concentration and purity Genes 2022, 13, 186 3 of 12 of the extracted DNA was assessed by spectrophotometry (Thermo Scientiﬁc Nanodrop 2000, Waltham, MA, USA)."
+2.3.
+"Genetic Studies Using the V6 SureSelect kits (Agilent, Santa Clara, CA, USA) on an Illumina HiSeq2500 platform at Macrogen (Seoul, Korea), library preparation and subsequent exome capture were performed."
+"Using Novo align, sequences were aligned to the hg19 human genome and variants were called by the Genome Analyses Toolkit (GATK)."
+A Phred scaled quality score (PSQ) of more than 20 was adopted.
+The Illumina variant studio was used to annotate and analyze the variants.
+"Further analysis of the ﬁltered variants continued using the Varsome platform (www.varsome.com, accessed on 13 September 2020)."
+2.4.
+Variant Analysis We only kept the SNV and indel gene variants with an allele frequency <1% in the Database of Genomic Variants (DGV) in the UCSC Genome browser.
+"Then, all intergenic, intronic, noncoding, splice region, synonymous, downstream, and upstream variants were excluded."
+"Deleterious variants obtained from exonic frameshift, damaging missense, splice donor and acceptor, stop codon gained and lost, and inframe deletions and insertions were retained (Figure 1)."
+"In addition, the variants with a read depth of less than 20 and a variant allele frequency of less than 35% of the normal allele (proportion of variant reads) were removed."
+"Furthermore, trio analysis and cohort exclusion were performed on the remaining gene variants by assuming a de novo, autosomal recessive, and Xlinked mode of inheritance."
+Figure 1.
+Filtering approach of the variables detected by wholeexome sequencing.
+"In total, 2 ﬁlters were applied on the obtained variants from the 5 subjects."
+The ﬁrst ﬁlter was based on the allele frequency and the protein coding consequences of the variants.
+The second ﬁlter was based on the trio analysis and cohort exclusion.
+"Genes 2022, 13, 186 4 of 14 Figure 1."
+Filtering approach of the variables detected by wholeexome sequencing.
+"In total, 2 filters were applied on the obtained variants from the 5 subjects."
+The first filter was based on the allele frequency and the protein coding consequences of the variants.
+The second filter was based on the trio analysis and cohort exclusion.
+"The theoretical pathogenicity of the missense variants was evaluated by in silico predictive software (SIFT: https://bii.a.star.edu.sg/, accessed on 11 September 2020, Polyphen2: http://genetics.bwh.harvard.edu/pph2/, accessed on 11 September 2020, CADD https://cadd.gs.washington.edu/snv, accessed on 19 December 2021) and scored accordingly."
+Damaging missense SNVs were defined as those having a deleterious prediction in one of the tools.
+"Then, we manually inspected the likely false positive variants using the IGV.  "
+"In order to verify if the detected variations were in genes already known to be associated with ASD or neurodevelopmental disorders, we checked the following databases: SFARI (https://www.sfari.org/, accessed on 31 December 2020), AutismKB (http://db.cbi.pku.edu.cn/autismkb_v2/), accessed on 31 December 2020 and PubMed (https://pubmed.ncbi.nlm.nih.gov/, accessed on 31 December 2020)."
+"The gene variants were subsequently classified according to the American College of Medical Genetics and Genomics (ACMG) as pathogenic, likely pathogenic, variants of uncertain clinical significance, likely benign, and benign."
+We defined the damaging ASDassociated variants as those meeting likely pathogenic or pathogenic criteria according to ACMG standards.
+"The remaining genes were subjected to further screening for biological significance for neural development, known neurological disorders, and function using Online Mendelian Inheritance in Man (OMIM) (https://www.omim.org/, accessed on 15 February 2021), PubMed, Decipher (https://decipher.sanger.ac.uk/, accessed on 15 February 2021), and Gene Cards (https://www.genecards.org/, accessed on 15 February 2021)."
+"These genes were classified as novel in ASD related to neurodevelopment and/or Genes 2022, 13, 186 4 of 12 The theoretical pathogenicity of the missense variants was evaluated by in silico predictive software (SIFT: https://bii.a.star.edu.sg/, accessed on 11 September 2020, Polyphen2: http://genetics.bwh.harvard.edu/pph2/, accessed on 11 September 2020, CADD: https://cadd.gs.washington.edu/snv, accessed on 19 December 2021) and scored accordingly."
+Damaging missense SNVs were deﬁned as those having a deleterious prediction in one of the tools.
+"Then, we manually inspected the likely false positive variants using the IGV."
+"In order to verify if the detected variations were in genes already known to be associated with ASD or neurodevelopmental disorders, we checked the following databases: SFARI (https://www.sfari.org/, accessed on 31 December 2020), AutismKB (http:// db.cbi.pku.edu.cn/autismkb_v2/, accessed on 31 December 2020) and PubMed (https: //pubmed.ncbi.nlm.nih.gov/, accessed on 31 December 2020)."
+"The gene variants were subsequently classiﬁed according to the American College of Medical Genetics and Genomics (ACMG) as pathogenic, likely pathogenic, variants of uncertain clinical signiﬁcance, likely benign, and benign."
+We deﬁned the damaging ASDassociated variants as those meeting likely pathogenic or pathogenic criteria according to ACMG standards.
+"The remaining genes were subjected to further screening for biological signiﬁcance for neural development, known neurological disorders, and function using Online Mendelian Inheritance in Man (OMIM) (https://www.omim.org/, accessed on 15 February 2021), PubMed, Decipher (https://decipher.sanger.ac.uk/, accessed on 15 February 2021), and Gene Cards (https://www.genecards.org/, accessed on 15 February 2021)."
+These genes were classiﬁed as novel in ASD related to neurodevelopment and/or neurological disorders.
+The updated annotation and distribution in the GnomAD database were ascertained using the Varsome portal.
+2.5.
+"Genetic Validation Using Sanger Sequencing To genotype the variants, we designed PCR primers for each site using the Primer3Plus software (https://www.bioinformatics.nl/cgibin/primer3plus/primer3plus.cgi, accessed on 11 October 2021) and used standard PCR conditions for the available 10 samples (Table S1)."
+"Sanger sequencing was performed on an ABI 3130xl Genetic Analyzer (Applied Biosystems, Waltham, MA, USA) following the manufacturer’s instructions to validate the new candidates."
+"Finally, the 10 variants were validated (Figure S2)."
+3. Results This study included ﬁve eligible subjects with ASD phenotypes.
+The main characteris- tics of each subject are displayed in Table 1.
+WES was performed for each subject and his/her parents when available to detect SNVs and/or indels in all available genes.
+The resulting on targetreads of around 40 Mbp showed an ~80X coverage average mean depth of target regions for all samples.
+We adopted a ﬁltering strategy that associates the genotype to the underlying phenotypes within each family for all variants with less than 1% minor allele frequency (MAF).
+"We started our analysis with 95,000 variants/subject."
+"After applying the ﬁrst ﬁlter, around 1400 variants/subject were retained."
+Subsequent ﬁltering based on trio analysis and cohort exclusion reduced the variants to around 3 variants/subject as shown in Figure 2.
+Figure 2.
+Number of variants obtained by WES after 2 ﬁltering steps.
+Around 1400 variants/subject remained after applying the ﬁrst ﬁlter and around 3 variants/subject remained after the second ﬁlter.
+"Genes 2022, 13, 186 6 of 14 Figure 2."
+Number of variants obtained by WES after 2 filtering steps.
+Around 1400 variants/subject remained after applying the first filter and around 3 variants/subject remained after the second filter.
+"The analysis framework of this study was designed to uncover not only de novo variants, but also the ones with autosomal recessive and Xlinked mode of inheritance in unknown or ASD linked genes, previously described.  "
+3.1.
+Detected Variants 3.1.1.
+De Novo Variants
+We detected a missense SNV on chromosome 4 in the USP46 (OMIM #612849) gene in subject number 23 (Table 2).
+The c.293C>T (NM_022832.3) predicted a p. Pro98Leu variation which was found to be deleterious by SIFT and benign by Polyphen 2.  
+"In subject number 45, a frameshift deletion and a missense SNV were detected on chromosome 14 and 12 in the MIS18BP1 (OMIM #618139) and KRT2 (OMIM #600194) genes, respectively."
+The c.471delA (NM_018353.4) in the MIS18BP1 gene predicted a p. Lys157AsnfsTer24 variation which was inspected using Integrated Genome Browser Visualization (IGV) (Figure S1).
+The c.1022G>A (NM_000423.2) on the KRT2 gene predicted a p. Arg341His variation which was found to be deleterious by SIFT and probably damaging by Polyphen 2.  
+"In subject number 73, a missense SNV was detected on chromosome 3 in the LSMEM2 gene."
+The c.97G>T (NM_153215.1) on this gene predicted a p. Gly33Trp which was considered to be deleterious by SIFT and possibly damaging by Polyphen 2.  
+Table 2.
+List of de novo gene variants.
+"De novo variants in 4 genes were detected in subjects 23, 45, and 73."
+"AD: autosomal dominant, PS: strong evidence of pathogenicity, PM: moderate evidence of pathogenicity, PVS: very strong evidence of pathogenicity, PP: supporting evidence of pathogenicity, BP: supporting evidence of a benign impact.  "
+Identified Variant Subject Gene Chromosome Mode of Inheritance Type Base Change Protein Change Consequence SIFT Polyphen2 CADD ACMG Classification 23 USP46 4 AD snv c.293C>T p. Pro98Leu
+"Missense deleterious (0.03) benign (0.009) 23.8 Uncertain significance (PS2, PM2) 45 MIS18BP1 14 AD deletion c.471delA p. Lys157AsnfsTer24 frameshift 16.6 Uncertain significance (PVS1, PP3) KRT2 12 AD snv c.1022G>A p. Arg341His missense deleterious (0) probably damaging (1) 27.7 Likely pathogenic (PM1, PM2, PP2, PP3) 73 LSMEM2 3 AD snv c.97G>T p. Gly33Trp"
+"Missense deleterious (0.02) possibly damaging (0.688) 22.1 Uncertain significance (PM2, BP4) 3.1.2."
+Homozygote Variants
+"In subject number 45, we detected one missense homozygous SNV inherited from both parents on chromosome 2 in the HAAO (OMIM #604521) gene (Table 3)."
+The c.371T>C (NM_012205.2) in this gene led to a p. Met124Thr variation which was predicted to be tolerated by SIFT and benign by Polyphen 2 and was inspected on IGV (Figure S1).  
+"Genes 2022, 13, 186 5 of 12 Table 1."
+Characteristics of ASD subjects included in our study.
+Subject Number Gender Age Region Parents Availability Parents Consanguinity Family History CARS 23 45 64 70 Male Female Male 10 Beirut
+Yes South Lebanon
+Yes Mount Lebanon
+No
+No
+"No, No Male 27 Bekaa No Father unknown 73 Male Bekaa"
+"Yes No Diabetes, cancer, and renal disease on both the paternal and maternal sides NA Hypertension and high cholesterol on the maternal side Diabetes, hypertension, high cholesterol, and triglycerides on both the maternal and paternal family sides."
+"Diabetes, hypertension on both family sides."
+"Intellectual disability in paternal side Moderate autism Moderate autism Moderate autism Associated Comorbidities Hyperactivity, anxiety Epilepsy, speech delay Anxiety, depression, hyperactivity, selfinjurious behavior Anxiety, depression, hyperactivity, selfinjurious behavior The analysis framework of this study was designed to uncover not only de novo variants, but also the ones with autosomal recessive and Xlinked mode of inheritance in unknown or ASD linked genes, previously described."
+3.1.
+Detected Variants 3.1.1.
+De Novo Variants
+We detected a missense SNV on chromosome 4 in the USP46 (OMIM #612849) gene in subject number 23 (Table 2).
+The c.293C>T (NM_022832.3) predicted a p. Pro98Leu variation which was found to be deleterious by SIFT and benign by Polyphen 2.
+Table 2.
+List of de novo gene variants.
+"De novo variants in 4 genes were detected in subjects 23, 45, and 73."
+"AD: autosomal dominant, PS: strong evidence of pathogenicity, PM: moderate evidence of pathogenicity, PVS: very strong evidence of pathogenicity, PP: supporting evidence of pathogenicity, BP: supporting evidence of a benign impact."
+Subject Gene Chromosome Mode of Inheritance Type Base Change Protein Change Consequence SIFT Polyphen2 CADD Identiﬁed Variant 23 USP46 45 MIS18BP1 14 KRT2 12 73 LSMEM2 3 AD AD snv c.293C>T p. Pro98Leu
+Missense deleterious (0.03) benign (0.009) deletion c.471delA p. Lys157Asnfs
+Ter24 frameshift snv c.1022G>A p. Arg341His missense snv c.97G>T p. Gly33Trp
+"Missense deleterious (0) deleterious (0.02) probably damaging (1) possibly damaging (0.688) 23.8 16.6 27.7 22.1 ACMG Classification Uncertain signiﬁcance (PS2, PM2)"
+"Uncertain signiﬁcance (PVS1, PP3) Likely pathogenic (PM1, PM2, PP2, PP3)"
+"Uncertain signiﬁcance (PM2, BP4)"
+"In subject number 45, a frameshift deletion and a missense SNV were detected on chromosome 14 and 12 in the MIS18BP1 (OMIM #618139) and KRT2 (OMIM #600194) genes, respectively."
+The c.471delA (NM_018353.4) in the MIS18BP1 gene predicted a p. Lys157AsnfsTer24 variation which was inspected using Integrated Genome Browser Visualization (IGV) (Figure S1).
+"The c.1022G>A (NM_000423.2) on the KRT2 gene predicted Genes 2022, 13, 186 6 of 12 a p. Arg341His variation which was found to be deleterious by SIFT and probably damaging by Polyphen 2."
+"In subject number 73, a missense SNV was detected on chromosome 3 in the LSMEM2 gene."
+The c.97G>T (NM_153215.1) on this gene predicted a p. Gly33Trp which was considered to be deleterious by SIFT and possibly damaging by Polyphen 2. 3.1.2.
+Homozygote Variants
+"In subject number 45, we detected one missense homozygous SNV inherited from both parents on chromosome 2 in the HAAO (OMIM #604521) gene (Table 3)."
+The c.371T>C (NM_012205.2) in this gene led to a p. Met124Thr variation which was predicted to be tolerated by SIFT and benign by Polyphen 2 and was inspected on IGV (Figure S1).
+Table 3.
+List of autosomal recessive gene variants.
+"In total, 3 homozygous variants were detected in 3 different genes in subjects 45, 70, and 73."
+"AR: autosomal recessive, PM: moderate evidence of pathogenicity, BP: supporting evidence of a benign impact, PVS: very strong evidence of pathogenicity, BS: strong evidence of a benign impact."
+Subject Gene Chromosome Mode of Inheritance Type Base Change Protein Change Consequence SIFT Polyphen2 CADD Identiﬁed Variant 45 HAAO 70 73 ASXL3 18 KRTAP55 11 AR AR AR snv c.371T>C p. Met124Thr missense snv c.5560G>A p. Val1854Ile missense insertion c.157_158 insGAGG p.
+"Ala53Glyfs Ter129 frameshift tolerated (1) benign (0) Damaging (0.09) Benign (0.05) 0.05 16.5 32 ACMG Classiﬁcation Uncertain signiﬁcance (PM1, PM2, BP4)"
+"Uncertain signiﬁcance (PM2, BP4)"
+"Uncertain signiﬁcance (PVS1, BS1)"
+"In subject number 70, one homozygous missense SNV on chromosome 18 in the ASXL3 (OMIM #615115) gene was detected and inspected on IGV (Figure S1)."
+"Since the father was missing, we cannot assume that it was inherited from both parents."
+The c.5560G>A (NM_030632.1) on this gene predicted a p. Val1854Ile variation which was considered to be damaging by SIFT and benign by Polyphen 2.
+"In subject number 73, one homozygous frameshift deletion inherited from the father was detected on chromosome 2 in the KRTAP55 gene and inspected using IGV (Figure S1)."
+The c.2773C>T (NM_001001480.2) in KRTAP55 gene predicted a p. Arg925Trp variation which was shown to be deleterious by SIFT and possibly damaging by Polyphen 2.
+3.1.3.
+XLinked Variants
+"In male subject number 23, a total of 2 missense SNVs inherited from the mother on chromosome X in the SLITRK4 (OMIM #300562) and FLNA (OMIM #300017) genes were detected (Table 4)."
+The c.1860A>C (NM_001184749.1) on the SLITRK4 gene predicted a p. Leu620Phe variation which was considered to be deleterious by SIFT and benign by Polyphen2 and was inspected using IGV (Figure S1).
+The c.1954G>A (NM_001110556.1) in the FLNA gene predicted a p. Glu652Lys variation which was predicted to be tolerated by SIFT and probably damaging by Polyphen 2.
+"In male subject number 64, we detected 2 missense SNVs on chromosome X in PTCHD1 (OMIM #300828) and FLNA (OMIM #300017) genes."
+The c.1804A>G (NM_173495.2) in PTCHD1 gene predicted a p. Thr602Ala variation which was predicted to be tolerated by SIFT and probably damaging by Polyphen 2 and was inspected using IGV (Figure S1).
+"On the FLNA gene, the c.2590G>T (NM_001110556.1) predicted a p. Val864Phe variation which was predicted to be deleterious by SIFT and possibly damaging by Polyphen 2."
+"Since the mother of subject 64 is dead, we cannot assume whether these SNVs are inherited or de novo. "
+"Genes 2022, 13, 186 7 of 12 Table 4."
+List of Xlinked gene variants.
+"Variants in 4 genes were presented in the Xlinked pattern of inheritance in subjects 23, 64, and 73."
+Two different variants on the FLNA gene were detected in subjects 23 and 64.
+XR:
+"Xlinked recessive, PM: moderate evidence of pathogenicity, PP: supporting evidence of pathogenicity, BP: supporting evidence of a benign impact."
+Subject Gene Chromosome Mode of Inheritance Type Base Change Protein Change Consequence SIFT Polyphen2 CADD ACMG Classiﬁcation Identiﬁed Variant SLITRK4 FLNA PTCHD1 23 64 FLNA 73 NHSL2 XR XR XR snv c.1860A>C p. Leu620Phe missense snv c.1954G>
+"A p. Glu652Lys missense snv c.1804A>G p. Thr602Ala missense snv c.2590G>T p. Val864Phe missense snv c.2773C>T p. Arg925Trp missense deleterious (0) benign (0.441) tolerated (0.09) tolerated (0.32) deleterious (0) deleterious (0) probably damaging (0.929) probably damaging (0.996) possibly damaging (0.745) possibly damaging (0.847) 23.7 25.3 20.9 22.7 19.8 Uncertain signiﬁcance (PM2, PP3)"
+"Uncertain signiﬁcance (PM2, PP3, BP1)"
+"Uncertain signiﬁcance (PM2, PP3, BP1)"
+"Uncertain signiﬁcance (PM2, PP3, BP1)"
+"Uncertain signiﬁcance (PM5, PP2, BP1)"
+"In male subject number 73, we detected a missense SNV in the NHSL2 gene inherited from the mother."
+The c.2773C>T (NM_001013627.2) led to p. Arg925Trp variations which was predicted to be deleterious by SIFT and possibly damaging by Polyphen 2. 3.2.
+Oligogenic Model
+Our results showed that all the studied subjects had multihit SNVs and indels simultaneously.
+"We detected 3 SNVs in subject 23 (Figure 3a), 2 SNVs and 1 deletion in subject 45 (Figure 3b), 2 SNVs in subject 64, whose mother was dead (Figure 3c), 1 SNV in subject 70, whose father was unknown (Figure 3d), and 2 SNVs and 1 insertion in subject 73 (Figure 3e)."
+The homozygous SNV on the HAAO gene was retained since it was inherited from both parents.
+Figure 3.
+Pedigrees of the 5 subjects.
+"(a) In subject number 23, 2 SNVs were inherited from the mother and 1 SNV was de novo."
+"(b) In subject number 45, 1 SNV was inherited from both parents and 1 SNV and 1 deletion were de novo."
+"(c) In subject number 64, 2 SNVs were detected on chromosome X. (d)"
+"In subject number 70, we detected 1 inherited SNV on chromosome 18 in the ASXL3 gene."
+"(e) In subject number 73, 1 SNV and 1 insertion were inherited and 1 SNV was de novo."
+"Blue color represents the inherited variants, red color represents the de novo variants and green color represents the variants with unknown origin of transmission."
+"Genes 2022, 13, 186 9 of 14 Figure 3."
+Pedigrees of the 5 subjects.
+"(a) In subject number 23, 2 SNVs were inherited from the mother and 1 SNV was de novo."
+"(b) In subject number 45, 1 SNV was inherited from both parents and 1 SNV and 1 deletion were de novo."
+"(c) In subject number 64, 2 SNVs were detected on chromosome X. (d)"
+"In subject number 70, we detected 1 inherited SNV on chromosome 18 in the ASXL3 gene."
+"(e) In subject number 73, 1 SNV and 1 insertion were inherited and 1 SNV was de novo."
+"Blue color represents the inherited variants, red color represents the de novo variants and green color represents the variants with unknown origin of transmission."
+"Since de novo gene variants have been considered a major cause of earlyonset genetic disorders such as ASD, Pathway Studio software v12.3 (https://mammal.pathwaystudio.com/, accessed on 24 September 2020) was used to identify the cell processes related to the encoded protein of the novel de novo mutation in the MIS18BP1 gene detected in our study."
+A biological network was created by integrating MIS18BP1 gene in the software and the encoded protein was connected to its related cell processes (Figure 4).  
+"Genes 2022, 13, 186 8 of 12 Since de novo gene variants have been considered a major cause of earlyonset genetic disorders such as ASD, Pathway Studio software v12.3 (https://mammal.pathwaystudio."
+"Com/, accessed on 24 September 2020) was used to identify the cell processes related to the encoded protein of the novel de novo mutation in the MIS18BP1 gene detected in our study."
+A biological network was created by integrating MIS18BP1 gene in the software and the encoded protein was connected to its related cell processes (Figure 4).
+Figure 4.
+Analysis of the cell processes of the encoded protein of MIS18BP1 gene using Pathway Studio software.
+A biological network was created connecting the encoded protein of MIS18BP1 gene by the cell processes.
+4.
+Discussion
+This is the ﬁrst study on Lebanese ASD subjects using the WES approach.
+"Due to the high genetic heterogeneity of ASD and the complexity of inheritance, the genetic factors are not yet fully elucidated."
+"Therefore, it is of interest to search for novel ASD candidate genes in new populations that will lead to a better understanding of the etiology based on a strict familial genotyping–phenotyping correlation approach."
+"In our previous study, in which array CGH was used on 19 ASD subjects, we identiﬁed rare CNVs in 14 subjects in the novel candidate genes PJA2, APCS, SYNPO, and TAC1."
+"Thus, in this study, the genomic characterization of the ﬁve ASD subjects, who did not reveal any CNVs related to ASD, with that of their parents (except the mother of subject number 64 who was dead and the father of subject 70 who was unknown) also revealed novel gene variants such as SNVs and indels."
+"Among the novel genes, the de novo mutations are considered strong candidates for disease."
+Ten variants were successfully validated using Sanger sequencing (Figure S3).
+"Furthermore, most of the studied subjects had more than one candidate variant observed, which speaks in favor of a multihit genetic model or alternatively on the benignity of some identiﬁed variants."
+"Despite the limited sample size in our study, none of the identiﬁed variants had been previously identiﬁed in the database of more than 500 exomes of Lebanese subjects with different forms of common and rare diseases."
+"In addition, variants in genes already reported as related to ASD (either in autism databases or in literature) were detected, reinforcing the robustness of our strategy."
+"Since de novo variants contribute to the genetic etiology of ASD, our study aimed to identify these variants."
+"A novel de novo frameshift deletion on chromosome 14 was identiﬁed in the MIS18BP1 gene (MIS18 binding protein1), which is a mitotic regulator."
+It was conﬁrmed that MIS18BP1 is regulated via SUMOubiquitin crosstalk during mitosis.
+"SUMOylation plays an important role in neuronal differentiation, synapse formation con-"
+"Genes 2022, 13, 186 10 of 14 Figure 4."
+Analysis of the cell processes of the encoded protein of MIS18BP1 gene using Pathway Studio software.
+A biological network was created connecting the encoded protein of MIS18BP1 gene by the cell processes.
+4.
+Discussion
+This is the first study on Lebanese ASD subjects using the WES approach.
+"Due to the high genetic heterogeneity of ASD and the complexity of inheritance, the genetic factors are not yet fully elucidated."
+"Therefore, it is of interest to search for novel ASD candidate genes in new populations that will lead to a better understanding of the etiology based on a strict familial genotyping–phenotyping correlation approach."
+"In our previous study, in which array CGH was used on 19 ASD subjects, we identified rare CNVs in 14 subjects in the novel candidate genes PJA2, APCS, SYNPO, and TAC1."
+"Thus, in this study, the genomic characterization of the five ASD subjects, who did not reveal any CNVs related to ASD, with that of their parents (except the mother of subject number 64 who was dead and the father of subject 70 who was unknown) also revealed novel gene variants such as SNVs and indels."
+"Among the novel genes, the de novo mutations are considered strong candidates for disease."
+Ten variants were successfully validated using Sanger sequencing (Figure S3).
+"Furthermore, most of the studied subjects had more than one candidate variant observed, which speaks in favor of a multihit genetic model or alternatively on the benignity of some identified variants.  "
+"Despite the limited sample size in our study, none of the identified variants had been previously identified in the database of more than 500 exomes of Lebanese subjects with different forms of common and rare diseases."
+"In addition, variants in genes already reported as related to ASD (either in autism databases or in literature) were detected, reinforcing the robustness of our strategy.  "
+"Since de novo variants contribute to the genetic etiology of ASD, our study aimed to identify these variants."
+"A novel de novo frameshift deletion on chromosome 14 was identified in the MIS18BP1 gene (MIS18 binding protein1), which is a mitotic regulator."
+It was confirmed that MIS18BP1 is regulated via SUMOubiquitin crosstalk during mitosis.
+"SUMOylation plays an important role in neuronal differentiation, synapse formation control, regulation of synaptic transmission and cell survival."
+"Furthermore, the ubiquitin pathway regulates neurotransmitter release, synaptic vesicle recycling, and changes in post synaptic density and dendritic spines."
+"Using Pathway Studio software, cell processes related to the encoded protein of the MIS18BP1 gene were Genes 2022, 13, 186 9 of 12 trol, regulation of synaptic transmission and cell survival."
+"Furthermore, the ubiquitin pathway regulates neurotransmitter release, synaptic vesicle recycling, and changes in post synaptic density and dendritic spines."
+"Using Pathway Studio software, cell processes related to the encoded protein of the MIS18BP1 gene were presented (Figure 4)."
+"Chromatin remodeling and DNA methylation, two of the identiﬁed processes, are important in human brain development that can be regulated by MIS18BP1, strengthening its potential role in ASD."
+"Subject 45, who is epileptic and has a speech delay, had a deletion in the MIS18BP1 gene."
+"In fact, it has been reported that DNA methylation and chromatin remodeling have been linked to the development of epilepsy."
+"Furthermore, variations in mitotic genes which are responsible for kinetochore assembly, chromosome segregation, and condensation can trigger the onset of neurodevelopmental disorders by insufﬁcient cell proliferation and failure in neuronal stem cell replenishment, leading to the underdevelopment of the central nervous system."
+"An important chromatin remodeler, CDC42 (Cell Division Cycle 42), interacts with the encoded protein of MIS18BP1 gene."
+"Furthermore, the encoded protein of CDC42BPB (CDC42 Binding Protein Kinase Beta) gene is a downstream effector of CDC42."
+CDC42BPB gene was identiﬁed as ASD risk gene in a study using WES and subsequent transmission and de novo association (TADA) analysis.
+"In addition, three de novo missense SNVs were detected in the following genes: USP46, KRT2, and LSMEM2."
+The deubiquitinating enzyme encoded by the USP46 gene is speciﬁc for the Alphaamino-3hydroxy-5methyl-4isoxazolepropionic acid receptor (AMPARs).
+These receptors are the primary mediators for neuronal development and communication and play a substantial role in learning and memory.
+A deletion in 4q12 involving the USP46 gene was identiﬁed in a female ASD subject in a study on Italian families using oligo array CGH.
+"Two novel missense SNVs were detected in the SLITRK4 (SLIT and NTRK Like Family Member 4) and NHSL2 (NHSLike Protein 2) genes on chromosome X in male subjects 23 and 73, respectively."
+SLITRKs family are transmembrane proteins from the leucinerich repeat (LRR) superfamily.
+"They are expressed in the central nervous system and participate in neurite outgrowth, neuronal survival, and dendritic elaboration."
+NHSL2 gene is a member of the Nance–Horan syndrome (NHS) gene family.
+"NanceHoran syndrome is a Xlinked developmental disorder characterized by intellectual disability, cataracts, and physical and teeth abnormalities."
+"In a study performed on three NHS families, one affected male had severe mental retardation, epilepsy, and hypotonia."
+"In the same study, NHS expression was detected in fetal brain, lung, kidney, and thymus, and was largely expressed throughout brain development."
+"Furthermore, some of the inherited gene variants concerned genes that have been already reported in the literature and may represent strong candidates for ASD."
+"On chromosome X, four missense SNVs were detected involving FLNA and PTCHD1 genes in male subjects 23 and 64."
+"In subjects 23 and 64, two SNVs in FLNA (Filamin A) gene were detected."
+This gene encodes an actinbinding protein which links actin ﬁlaments to membrane glycoproteins.
+"In a chromosomal microarray analysis study performed on 195 ASD subjects of Greek origin, a deletion in the FLNA gene was found in a subject with ASD, seizures, and dysmorphic features."
+"In addition, the encoded protein of the PTCHD1 (Patched domain containing 1) gene is a membrane protein with a patched domain."
+This gene is required for the thalamic reticular nucleus (TRN) development and function.
+"This part of the thalamus is essential for sleep rhythm generation, attention, and sensorimotor processing."
+"In addition, PTCHD1 interacts with the postsynaptic membrane to provide a direct link with the excitatory synaptic network."
+"A genomewide assessment for structural abnormalities performed on 427 unrelated ASD patients identiﬁed novel loci in the PTCHD1 gene, which led to it being an ASD susceptibility gene."
+"Moreover, a study conducted on 23 subjects with PTCHD1 deletions or truncating mutations supported that these gene mutations were the cause of a Xlinked nonsyndromic neurodevelopmental disorder which has the features of intellectual disability and ASD. "
+"Genes 2022, 13, 186 10 of 12 On chromosome 2 and 18, two homozygous missense SNVs were detected on the HAAO and ASXL3 genes."
+"Subject 45 was homozygous for the SNV on the HAAO (3Hydroxyanthranilate 3,4Dioxygenase) gene (Figure 3b)."
+"In this case, the combination of the two inherited alleles led to the phenotype since the parents were unaffected."
+The expression of the HAAO gene was previously found to be reduced in ASD subjects.
+This gene encodes a protein belonging to the intramolecular dioxygenases family which exists in low amounts in the central nervous system.
+"The HAAO enzyme catalyzes the synthesis of quinolic acid, which is an excitotoxin."
+High cerebral levels of this acid may participate in neurologic and inﬂammatory disorder pathogenesis.
+"Moreover, the ASXL3 (ASXL Transcriptional Regulator 3) gene encodes an important protein for the regulation of gene transcription."
+Its encoded protein may also inhibit histone deubiquitination.
+"In a WES study performed aiming to uncover the susceptibility genes contributing to ASD, a mutation was found in the ASXL3 gene in ASD patients with intellectual disability."
+The WES approach only sequences the coding regions of the genome.
+"Moreover, like other WES studies, one of the potential limitations is the exclusion of causative variants by a stringent ﬁltering approach to remove false positives."
+"Due to the relatively small sample size in our study and the aim of only investigating rare genetic variations, statistical and functional analyses were not performed."
+"However, our ﬁndings need to be validated by further functional studies and more robust genetic ﬁndings can be obtained from future studies with enlarged sample sizes."
+"5. Conclusions In our study, using the WES technique for the ﬁrst time in the Lebanese population, we identiﬁed one novel de novo mutation in the MIS18BPB1 gene and two other novel inherited mutations in the SLITRK4 and NHSL2 as potential ASD candidate genes."
+"In addition, our results conﬁrmed the presence of other de novo and inherited genetic variations that have been previously described and are shared between Lebanese ASD subjects and other studied populations with ASD."
+"Accordingly, our observations provide a further argument for frequent polygenic models in ASD composed of several inherited and de novo variants."
+"However, further research work (including functional studies) is essential to reinforce and validate our ﬁndings and to strengthen their implication in the pathology."
+Supplementary Materials: The following supporting information can be downloaded at: https://www.
+mdpi.com/article/10.3390/genes13020186/s1.
+Figure S1: Integrated Genome Browser visualization (IGV) of the variants; Figure S2: Sanger validation of the candidate variants; Table S1: Primer sequences for amplification and sequencing of the candidate genes regions containing the variants.
+"Author Contributions: W.H., C.R.A., G.N. and T.B. conceived and designed the project."
+"P.G., T.B. and W.H. recruited the subjects."
+"P.G., T.B., G.N., F.L. and S.M. performed the experiments."
+All the authors analyzed the data and discussed the results.
+P.G. wrote the paper.
+All authors have read and agreed to the published version of the manuscript.
+Funding:
+This project was funded by the National Council for Scientiﬁc Research in Lebanon (CNRSL)
+"S/3541, the Higher Center for Research of the Holy Spirit University of Kaslik (HCRUSEK) 90010141 and the Institut National de la Santé et de la Recherche Médicale (INSERM)."
+Institutional Review Board Statement: This study was performed in line with the ethical standards and guidelines declared by the Declaration of Helsinki in 1964 and its later amendments and was approved by the Holy Spirit University Ethical Committee (delivered on 13 August 2014 and renewed on 9 January 2019).
+Informed Consent Statement: Informed consent was obtained from all individual participants included in the study.
+All parents of the participants provided informed consent for publication.
+"Data Availability Statement: The datasets generated and analyzed during the current study are available in the European Variation Archive (EVA) repository under the accession number PRJEB44446 at https://www.ebi.ac.uk/eva/, accessed on 1 December 2021. "
+"Genes 2022, 13, 186 11 of 12 Acknowledgments: We thank all the nongovernmental organizations and associations that care for subjects with autism and graciously shared their data with us."
+Conﬂicts of Interest: The authors declare that they have no competing interest.

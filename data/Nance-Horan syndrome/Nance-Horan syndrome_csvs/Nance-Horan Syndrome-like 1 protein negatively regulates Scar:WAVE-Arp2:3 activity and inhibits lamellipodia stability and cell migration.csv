@@ -1,0 +1,698 @@
+"ARTICLE https://doi.org/10.1038/s41467021-259166 OPEN NanceHoran Syndromelike 1 protein negatively regulates Scar/WAVEArp2/3 activity and inhibits lamellipodia stability and cell migration AhLai Law1,5, Shamsinar Jalal1,8, Tommy Pallett Lawrence Yolland2, Stefania Marcotti Anett Jandke Matthias Krause 2, James A. Levitt3, Simon P. Poland3, Maia RoweSampson1,2, 3, Brian Marc Stramer 1,8, Fuad Mosis1, Ahmad Guni1, Simon Brayford2, 4, Giordano Pula1,7, Simon M. AmeerBeg 1,6, Robert Koch 2 & 1✉ Cell migration is important for development and its aberrant regulation contributes to many diseases."
+The Scar/WAVE complex is essential for Arp2/3 mediated lamellipodia formation during mesenchymal cell migration and several coinciding signals activate it.
+"However, so far, no direct negative regulators are known."
+"Here we identify NanceHoran Syndromelike 1 protein (NHSL1) as a direct binding partner of the Scar/WAVE complex, which colocalise at protruding lamellipodia."
+This interaction is mediated by the Abi SH3 domain and two binding sites in NHSL1.
+"Furthermore, active Rac binds to NHSL1 at two regions that mediate leading edge targeting of NHSL1."
+"Surprisingly, NHSL1 inhibits cell migration through its interaction with the Scar/WAVE complex."
+"Mechanistically, NHSL1 may reduce cell migration efﬁciency by impeding Arp2/3 activity, as measured in cells using an Arp2/3 FRETFLIM biosensor, resulting in reduced Factin density of lamellipodia, and consequently impairing the stability of lamellipodia protrusions."
+"1 Krause Group, Randall Centre for Cell and Molecular Biophysics, King’s College London, New Hunt’s House, Guy’s Campus, London SE1 1UL, UK. 2 Stramer Group, Randall Centre for Cell and Molecular Biophysics, King’s College London, New Hunt’s House, Guy’s Campus, London SE1 1UL, UK. 3 AmeerBeg Group, Richard Dimbleby Cancer Research Laboratories, Comprehensive Cancer Centre, School of Cancer and Pharmaceutical Sciences, King’s College London, New Hunt’s House, Guy’s Campus, London SE1 1UL, UK. 4 School of Immunology and Microbial Sciences, King’s College London, Guy’s Campus, London SE1 1UL, UK. 5Present address: School of Life Sciences, University of Bedfordshire, Luton LU1 3JU, UK."
+"6Present address: Immunosurveillance Laboratory, The Francis Crick Institute, 1 Midland Road, London NW1 1AT, UK. 7Present address: Institute for Clinical Chemistry and Laboratory Medicine, University Medical Center Hamburg (UKE), Martinistrasse 52, O26, 20246 Hamburg, Germany."
+"8These authors contributed equally: Shamsinar Jalal, Tommy Pallett."
+"Email: Matthias.Krause@kcl.ac.uk NATURE COMMUNICATIONS | (2021) 12:5687 | https://doi.org/10.1038/s41467021-259166 | www.nature.com/naturecommunications ARTICLE NATURE COMMUNICATIONS | https://doi.org/10.1038/s41467021-259166 Cell migration is essential for embryonic development, homoeostasis and wound healing, and its deregulation impaired wound healing causes developmental defects, and cancer metastasis1."
+"Mesenchymal cell migration depends on the polymerisation of actin ﬁlaments, which push the plasma membrane forward to form membrane extensions such as lamellipodia."
+The establishment of adhesions underneath lamellipodia stabilise protrusions allowing cells to advance2.
+"Lamellipodium formation is controlled by Rac, a small GTPase of the Rho family."
+"Active Rac, tyrosine phosphorylation and binding to phosphoinositides activates the Scar/WAVE complex at the very edge of lamellipodia and thereby recruits the Arp2/3 complex to nucleate branched actin networks."
+"The Scar/WAVE complex is a heteropentameric, autoinhibited protein complex, consisting of Scar/WAVE13, Nap1, Sra1/Pir121, Abi13 and HSPC3002–4."
+We have previously shown that Lamellipodin (Lpd) localises to the very edge of lamellipodia5 and directly binds active Rac and the Scar/WAVE complex6.
+Rac increases the interaction between Lpd and the Scar/WAVE complex6.
+"Lpd functions to promote cell migration via the Scar/WAVE complex6,7, which is consistent with a positive role for the Scar/WAVE complex in enhancing migration8–11."
+We postulate that the Scar/WAVE complex needs also to be negatively regulated at the leading edge to tightly control lamellipodial protrusion dynamics and cell steering.
+"However, so far, it is not known how the Scar/WAVE complex is directly inhibited at the leading edge."
+"Here, we identify NHSL1 (Nance–Horan Syndromelike 1) protein as a negative regulator of cell migration and we ﬁnd that this is mediated by its interaction with the Scar/WAVE complex."
+We show that NHSL1 directly binds to the Scar/WAVE complex and colocalises with it at the very edge of protruding lamellipodia.
+"We ﬁnd that active Rac binds to NHSL1 at two regions of the protein, which mediate leadingedge targeting of NHSL1."
+The negative regulatory function of NHSL1 in cell migration may be due to its role in lamellipodia since we show that it reduces lamellipodia stability.
+"NHSL1 acts to reduce Arp2/3 activity, which is consistent with our ﬁnding that NHSL1 reduces the Factin content of lamellipodia via its interaction with the Scar/WAVE complex."
+"In NHSL1 CRISPR knockout cells we observe a reduction in total cellular Scar/WAVE2, Arp2/3 complex and Factin levels indicating the permanent overactivation of Scar/WAVE and Arp2/3 complexes caused by loss of NHSL1 may lead to their degradation."
+"Taken together, our data suggest that NHSL1 negatively regulates the Scar/WAVE complex, and hence reduces Arp2/3 activity, to control lamellipodia stability and consequently cell migration efﬁciency."
+Results NHSL1 localises to the very edge of lamellipodia.
+NHSL1 belongs to the poorly investigated Nance–Horan Syndrome protein family along with Nance–Horan Syndrome (NHS) and NHSL2 proteins.
+"Mutations in the NHS gene cause Nance–Horan syndrome, which is characterised by dental abnormalities, developmental delay and congenital cataracts12–16."
+Expression analysis of NHSL1 by northern blot revealed a 7.5 kb ubiquitously expressed isoform and several shorter isoforms with a tissuespeciﬁc distribution (Fig. 1a).
+"In contrast, NHS expression was detected in the brain, kidney, lung and thymus13 suggesting that the NHS protein has evolved a more specialised function."
+We generated a rabbit polyclonal antiNHSL1 antiserum (4457) (Fig. 1e) and a monoclonal antibody (clone C286F5E1).
+Both NHSL1 antibodies detect endogenous NHSL1 as a 260 kDa protein by immunoblotting in the melanoma cell line B16F1 and the breast epithelial cell line MCF10A (Fig.
+1b–d and Supplementary Fig. 1a–c).
+B16F1 cells display large lamellipodia when plated on 2D substrates and have been used extensively in other studies to characterise lamellipodia dynamics and cell migration17 and are thus used throughout this study.
+NHS localises to lamellipodia but the function of NHS and NHSlike proteins in cell migration are not known14.
+"We found that NHSL1 also localises to the very edge of protruding lamellipodia and, in addition, to vesicular structures when tagged with EGFP either N- or Cterminally (Fig."
+"1f, g and Supplementary Movie 1)."
+This localisation is not due to spaceﬁlling as B16F1 cells display very thin lamellipodia and subtraction of the intensity of coexpressed cytoplasmic mScarlet does not remove the leadingedge signal of EGFPNHSL1 (Supplementary Fig.
+1d and Supplementary Movie 2).
+We previously showed that Lpd also localises at the very edge of lamellipodia5.
+When we coexpressed NHSL1EGFP with mScarletLpd in B16F1 cells we found that both colocalise at the edge of lamellipodia (Supplementary Fig.
+1e and Supplementary Movie 3).
+This prompted us to test whether both proteins can form a complex in cells.
+We tested this by coexpressing EGFPLpd with MycNHSL1 in HEK cells but could not detect an interaction after pulling down EGFPLpd with GFPtrap beads (Supplementary Fig. 1f).
+NHSL1 negatively regulates cell migration.
+"To explore the role of NHSL1 in cell migration, we created stable NHSL1 CRISPR knockout B16F1 cell lines by knocking in a stop codon into exon 2 (Supplementary Fig. 2a), which is common to all isoforms."
+"Clonal cell lines were tested by western blot and qPCR analysis, which revealed that NHSL1 expression was greatly reduced in clone CRISPR 2 but less reduced in clone CRISPR 21 (Fig."
+"2a, b and Supplementary Fig."
+"3a, e)."
+The partially reduced mRNA and protein levels (Fig.
+"2a, b and Supplementary Fig."
+"3a, e) in the CRISPR 21 cell line are consistent with Cas9 induced indels only in some alleles (Supplementary Fig. 2a), whereas the absence of NHSL1 wildtype alleles (Supplementary Fig."
+"2a, b) and mRNA in the CRISPR 2 cell line (Supplementary Fig. 3e) indicates that the CRISPR 2 line represents a full NHSL1 knockout."
+"In random cell migration assays on ﬁbronectin, cell speeds signiﬁcantly increased by 52% for both NHSL1 CRISPR clones compared to wildtype B16F1 cells (Fig."
+"2c, d and Supplementary Fig."
+3b–d).
+"Traditionally, cell migration persistence is measured as the directionality ratio: the ratio of the straightline distance and the total trajectory path length of each track."
+This leads to inaccurate measurements as this ratio is affected by different track lengths as well as cell speeds18.
+"Instead, we quantiﬁed cell persistence using the Dunn persistence method6 by calculating the directionality ratio over a short interval of the movie, deﬁned by a time ratio, TR, and then averaging over all these intervals comprising the whole track to obtain the “Mean Track Persistence” (MTP)."
+"This analysis revealed that cell migration persistence was also signiﬁcantly increased by 53 and 51% for the CRISPR 2 and CRISPR 21 cell lines, respectively (Fig."
+"2c, e)."
+"This increase in persistence could also be seen when we calculated the directionality ratio over time (Supplementary Fig. 4a) and the direction autocorrelation, a measure of how the angle of displacement vectors correlate with themselves which is independent of speed18,19 (Supplementary Fig. 4b)."
+Analysing mean square displacement also indicated that NHSL1 CRISPR 2 and CRISPR 21 cells explore a larger area (Fig. 2f).
+"In agreement, we found that directional migration into a scratch wound was signiﬁcantly increased in NHSL1 knockdown MCF10A cells (Supplementary Fig."
+5a–c and Supplementary Movie 4).
+Together these results suggest that NHSL1 negatively regulates cell migration speed and persistence.
+NHSL1 is a binding partner of active Rac.
+To characterise the region of NHSL1 required for leadingedge recruitment (Fig.
+"1f, g), four EGFPtagged fragments covering the entire length of NHSL1 NATURE COMMUNICATIONS | (2021) 12:5687 | https://doi.org/10.1038/s41467021-259166 | www.nature.com/naturecommunications NATURE COMMUNICATIONS | https://doi.org/10.1038/s41467021-259166 ARTICLE Fig."
+1
+NHSL1 localises to the very edge of lamellipodia.
+A Northern blot analysis of NHSL1 expression in different murine tissues.
+Arrows show a large 7.5 kb isoform that is ubiquitously expressed and various shorter isoforms with varying tissue speciﬁc distribution.
+"B–d Western blots detecting NHSL1 protein in the indicated cell lines using the b, c polyclonal (4457) or d monoclonal antibody (C286F5E1)."
+For full blots see Supplementary Fig.
+1a–c. E Scheme of NHSL1 protein (grey rectangle) containing three putative SH3 binding sites (indicated black boxes).
+GSTfusion proteins 1–8 and EGFPfusion proteins 1–4 of NHSL1 are indicated (white rectangles).
+Immunogen for the NHSL1 polyclonal antibody is indicated.
+"F, g Nterminal EGFPtagged NHSL1 (f) and Cterminal EGFPtagged NHSL1 (g) were expressed in B16F1 cells and, after plating on laminin, localisation of both EGFPtagged NHSL1 constructs were imaged live."
+Scale bar: 20 μm.
+Inset represents a magniﬁed view of the white box.
+Scale bar in the inset: 1.25 μm.
+"Representative blots or images shown from a one and b–d, f, g three independent biological experiments."
+See also related Supplementary Movie 1. (Fig. 3a) were expressed in B16F1 cells.
+Livecell imaging revealed that only fragments 2 and 3 were localised to lamellipodia (Fig.
+"3d, e and Supplementary Movie 5)."
+"In addition, fragments 1 and 3 were detected at vesicular structures (Fig."
+"3c, e and Supplementary Movie 5)."
+"Since Rac is an important regulator of lamellipodia formation, we hypothesised that Rac may bind NHSL1 for its recruitment to lamellipodia."
+"We, interaction between dominant active (DA) Myctagged Rac1Q61L and EGFPtagged NHSL1 or EGFP only as a control in HEK cells."
+"Myc- tested for therefore, tagged DA Rac1 was pulled down with Myctrap beads and interaction with EGFPNHSL1 was evaluated by western blot against EGFP."
+This analysis revealed that NHSL1 is in complex with active Rac (Fig. 3g and Supplementary Fig. 6a).
+This was veriﬁed in a reciprocal experiment in which EGFPRac1-Q61L or EGFP was pulled down with GFPtrap beads and the interaction with MycNHSL1 was evaluated by western blot against Myc (Supplementary Fig.
+6b).
+"Again, we observed an interaction between dominant active Rac and NHSL1 suggesting that NHSL1 is a binding partner of active Rac."
+NATURE COMMUNICATIONS | (2021) 12:5687 | https://doi.org/10.1038/s41467021-259166 | www.nature.com/naturecommunications ARTICLE NATURE COMMUNICATIONS | https://doi.org/10.1038/s41467021-259166 NATURE COMMUNICATIONS | (2021) 12:5687 | https://doi.org/10.1038/s41467021-259166 | www.nature.com/naturecommunications NATURE COMMUNICATIONS | https://doi.org/10.1038/s41467021-259166 ARTICLE Fig.
+2
+NHSL1 negatively regulates cell migration and persistence.
+A Western blot showing the extent of reduction of NHSL1 expression in the clonal NHSL1 CRISPR B16F1 cell lines 2 and 21 were probed with polyclonal NHSL1 antibodies and HSC70 as a loading control.
+Representative blot from three independent biological repeats.
+B Quantiﬁcation of western blots in a normalised to the HSC70 loading control; Results are mean values ± SEM (error bars); oneway ANOVA:
+"P < 0.0001; F(2,6) = 54.85; Dunnett’s multiple comparisons tests: control vs. CRISPR 2: ***P = 0.0001; control vs. CRISPR 21: ***P = 0.0003 from three independent biological repeats."
+C Schematic diagram of the deﬁnition of Mean Track Speed (MTS) and Mean Track Persistence (MTP).
+"D Cell migration speed of both NHSL1 CRISPR clones 2 and 21 in random cell migration assays was signiﬁcantly increased by an average of ~52% compared to wildtype control B16F1 cells; Mean Track Speed (MTS) (δt = 15 mins, TR = 4; see ‘Methods’ for calculation)."
+Oneway ANOVA:
+"P < 0.0001; F(2,469)"
+= 41.87; Dunnett’s multiple comparisons test: Results are mean (μm/min) ± SEM (error bars): control: 0.398 ± 0.017 μm/min; CRISPR 2: 0.603 ± 0.024 μm/min; control vs. CRISPR 2: ****P < 0.0001; CRISPR 21: 0.609 ± 0.017 μm/min; control vs. CRISPR 21: ****P < 0.0001.
+"E Cell migration persistence was signiﬁcantly increased by 53% or 51% for the NHSL1 CRISPR 2 or 21 cell lines, respectively."
+"Mean Track Persistence (MTP) (δt = 15 mins, TR = 4; see ‘Methods’ for calculation)."
+Oneway ANOVA:
+"P < 0.0001; F(2,469)"
+"= 28.01; Dunnett’s multiple comparisons test: control: 0.350 ± 0.021; CRISPR 2: 0.529 ± 0.017; control vs. CRISPR 2: ****P < 0.0001; CRISPR 21: 0.502 ± 0.016; control vs. CRISPR 21: ****P < 0.0001; results are mean (this is dimensionless, see panel c for explanation of MTP) ± SEM (error bars); f loglog plot of Mean Square Displacement (MSD) of control B16F1 cells, NHSL1 CRISPR clones 2 and 21 in random cell migration assays from (d, e); Results are mean values ± SEM (error bars)."
+"D–f n = 177 (wild type), 140 (NHSL1 clones 2) and 156 (NHSL1 clones 21) cells from four independent biological repeats."
+Source data are provided as a Source Data ﬁle.
+We again expressed the four EGFPtagged NHSL1 fragments to determine which fragment may mediate the interaction with Myctagged dominant active Rac1 and pulled down MycDA-Rac1 with Myctrap beads.
+A western blot against EGFP showed robust pulldown of EGFPNHSL1 fragment 2 and weak pulldown of fragment 3 by active Rac (Fig.
+"3h, i)."
+"To further delineate the Rac binding sites in NHSL1, we generated nine overlapping subfragments covering fragments 2 and 3 (Supplementary Fig. 7a)."
+"Again, Myctrap pulldown of MycDA-Rac1 from HEK lysates coexpressing EGFPtagged NHSL1 subfragments 1 to 9 revealed that subfragments 1 and 6, which overlap with each other at the N terminus of fragment 2, and subfragment 9, which is centrally located in fragment 3, are in complex with active Rac (Supplementary Fig. 7b)."
+"Taken together, our data suggest that NHSL1 may be recruited to the leading edge by membraneassociated active Rac binding directly or indirectly to two regions in NHSL1 located at amino acid 410563 in fragment 2 and at amino acid 9461099 in fragment 3."
+NHSL1 interacts with the Scar/WAVE complex via Abi.
+"As the Scar/WAVE complex localises to the leading edge of cells2, we tested whether NHSL1 colocalises with it at this site."
+"Using livecell imaging, we observed that NHSL1EGFP colocalises with mScarlettagged Abi1 and Nap1, two components of the Scar/ WAVE complex at the very edge of protruding lamellipodia (Fig."
+"4a, b and Supplementary Movie 6)."
+"In agreement, we also found that endogenous NHSL1 colocalises with Abi1, Scar/ WAVE1 and Scar/WAVE2 at this site (Fig. 4c–e; see line scans in Supplementary Fig."
+8a–h).
+"To explore a potential interaction with the Scar/WAVE complex, Myctagged components of the Scar/WAVE complex and EGFPNHSL1 were expressed in HEK cells."
+Immunoprecipitation of EGFPNHSL1 revealed that NHSL1 interacts with the Scar/WAVE complex (Fig.
+5a and Supplementary Fig.
+"9a, b)."
+To conﬁrm whether the respective endogenous proteins can be found in a complex in cells we immunoprecipitated endogenous NHSL1 and observed coimmunoprecipitation with Abi1 and Scar/ WAVE2 from B16F1 and MCF10A cell lysates (Fig.
+"5b, c)."
+"Since NHSL1 contains several putative SH3 binding sites we hypothesised that the SH3 domain of Abi, which is part of the Scar/WAVE complex, may mediate the interaction with NHSL1."
+The interaction between NHSL1 and Abi was tested by GSTpulldown experiments with puriﬁed Abi1SH3 and cAbl-SH3 from HEK lysates containing EGFPNHSL1 or EGFP only as control.
+"cAbl-SH3 was used as another control since binding to Abi may be mediated indirectly by binding with the Abi ligand cAbl which also contains a SH3 domain20,21."
+"We found that while the EGFP negative control did not bind (Supplementary Fig. 9c), EGFPNHSL1 speciﬁcally bound to the SH3 domain of Abi and not to the SH3 domain of cAbl (Fig. 5d)."
+We next explored whether the SH3 domain of Abi is necessary for the interaction between NHSL1 and the Scar/WAVE complex.
+NHSL1 was immunoprecipitated from HEK cell lysates containing MycNHSL1 and all ﬁve Myctagged components of the Scar/ WAVE complex including either fulllength Abi1 (Abi1full- length) or an Abi1 construct that lacked the SH3 domain (Abi1delta-SH3).
+Coimmunoprecipitation was detected with an antibody against the Myctag (Fig. 5e).
+Quantiﬁcation of coimmunoprecipitation of NHSL1 with the Scar/WAVE complex revealed that expression of Abi1delta-SH3 disrupted the interaction between NHSL1 and the Scar/WAVE complex (Fig.
+"5e, f)."
+This suggests that the SH3 domain of Abi mediates the interaction of NHSL1 with the Scar/WAVE complex.
+"To verify that the Scar/WAVE complex properly assembles in cells when all components of the Scar/WAVE complex are expressed as tagged proteins, we expressed Myctagged PIR121, Nap1, HSPC300 and Scar/WAVE2 together with either EGFPAbi1-fulllength, EGFPAbi1-deltaSH3, or EGFP in HEK cells."
+"After GFPtrap pulldown from cell lysates, we detected bound Myctagged proteins with an antibody against the Myctag."
+This analysis revealed that indeed all tagged components of the Scar/ WAVE complex faithfully associate with each other as a complex (Supplementary Fig. 9d).
+"To test whether the interaction between Abi and NHSL1 is direct and to map the SH3 binding site in NHSL1, we performed a farwestern blot experiment."
+We puriﬁed from E. coli eight GSTfusion proteins covering the entire length of NHSL1 (Fig.
+1e and Supplementary Fig.
+"10a, b), which were separated on SDSPAGE, followed by blotting onto the membrane."
+We overlaid this membrane with puriﬁed MBPtagged fulllength Abi1 (MBPAbi1-fulllength) or an MBP fusion protein with Abi1 in which the SH3 domain had been deleted (MBPAbi1-deltaSH3) or MBP as control.
+The farwestern overlay showed that only fragments 4 and 5 of NHSL1 directly interacted with wildtype Abi but neither with Abi missing the SH3 domain nor MBP on its own (Supplementary Fig. 10a).
+"In agreement, fragments 4 and 5 contain three putative SH3 binding sites suggesting that Abi binds directly via its SH3 domain to NHSL1."
+"Next, we explored whether these putative SH3 binding sites were sufﬁcient for the interaction with Abi."
+"We mutated SH3 binding sites 1 and 2 (site 1 + 2), or sites 2 and 3 (site 2 + 3) or all three sites together (site 1 + 2 + 3) in fulllength NHSL1 and expressed the EGFPtagged mutant and wildtype cDNA’s together with Myctagged Abi1 in HEK cells."
+"After GFPtrap pulldown from lysates, western blot against the Myctag revealed that only EGFPNHSL1 (site 2 + 3) and NHSL1 (sites 1 + 2 + 3) showed loss of interaction NATURE COMMUNICATIONS | (2021) 12:5687 | https://doi.org/10.1038/s41467021-259166 | www.nature.com/naturecommunications ARTICLE NATURE COMMUNICATIONS | https://doi.org/10.1038/s41467021-259166 Fig."
+3
+NHSL1 is a binding partner of active Rac.
+A Scheme of NHSL1 protein: EGFPfusion proteins 1 to 4 of NHSL1 are indicated (white rectangles).
+B–f Four EGFPtagged fragments covering the entire length of NHSL1 (Figs.
+1e and 3a) were generated and expressed in B16F1 cells (c–f) along with EGFP as a negative control (b).
+Insets show enlarged pictures of the boxed areas from stills taken from livecell imaging.
+Fragments 2 and 3 localise to the very edge of lamellipodia similar to fulllength NHSL1.
+Representative images from three independent experiments.
+Scale bar: 20 μm.
+Inset represents a magniﬁed view of the white box.
+Scale bar in inset: 1.25 μm.
+See also related Supplementary Movie 5.
+G Western blot showing that dominant active (DA) Rac pulls down NHSL1 using Myctrap beads from HEK cell lysates expressing Myctagged DA Rac coexpressed with EGFPtagged NHSL1 or EGFP only as control.
+Representative blots from three independent biological repeats (see Supplementary Fig.
+6a for full western blots).
+H Western blot showing Myctagged DA Rac pulldowns of the four NHSL1 fragments (see panels a and b–e) from HEK cells expressing the EGFPtagged fragments covering the entire length of NHSL1 or EGFP only as control coexpressed with Myctagged DA Rac.
+Representative blots from three independent experiments.
+I Quantiﬁcation of band intensity of chemiluminescence from h imaged with a chargecoupled device (CCD) camera shows that Myctagged DA Rac binds signiﬁcantly to fragment 2 compared to GFP.
+The amounts of EGFPNHSL1 fragments were normalised to the amount of MycRac that was pulled down.
+"Bars indicate mean ± SEM (error bars), n = 3 biological repeats."
+Oneway ANOVA:
+"P = 0.003, F(4,10) = 8.473; and Dunnett’s multiple comparisons tests: **P = 0.004."
+Source data are provided as a Source Data ﬁle.
+NATURE COMMUNICATIONS | (2021) 12:5687 | https://doi.org/10.1038/s41467021-259166 | www.nature.com/naturecommunications NATURE COMMUNICATIONS | https://doi.org/10.1038/s41467021-259166 ARTICLE Fig.
+4
+NHSL1 colocalises with Abi and the Scar/WAVE complex.
+A Still images from livecell imaging showing NHSL1EGFP coexpressed with mScarletI-tagged Abi1 and b Nap1 in B16F1 cells.
+Representative images shown from three independent experiments.
+Scale bar represents 20 µm.
+Inset is a magniﬁed view of the white box.
+"Scale bar in inset an applies to both insets a, b: 1.25 μm."
+See also related Supplementary Movie 6.
+"C–e Endogenous NHSL1 colocalises with Abi1 (c NHSL1 pAb) Scar/WAVE1 (d NHSL1 pAb), and Scar/WAVE2 (e NHSL1 mAb) at the very edge of lamellipodia in B16F1 mouse melanoma cells."
+"Scale bar in c applies also to d, e: 20 µm."
+Inset represents a magniﬁed view of the white box.
+"Scale bar in the inset in c applies also to inset for d, e: 20 μm."
+Representative images shown from three independent experiments.
+See Supplementary Fig. 8 for line scans of colocalisations in c and e. NATURE COMMUNICATIONS | (2021) 12:5687 | https://doi.org/10.1038/s41467021-259166 | www.nature.com/naturecommunications ARTICLE NATURE COMMUNICATIONS | https://doi.org/10.1038/s41467021-259166 Fig.
+5
+NHSL1 interacts with Abi and the Scar/WAVE complex.
+a Scar/WAVE complex coimmunoprecipitates with NHSL1.
+"HEK cells were transfected with EGFPNHSL1, and MycPir121, -Nap1, -WAVE2, -Abi2."
+NHSL1 was immunoprecipitated (pAb 4457) from lysates and coimmunoprecipitation tested on a western blot with Myc and EGFP antibodies.
+(see Supplementary Fig.
+"9a, b for full western blots)."
+"B, c Western blot showing endogenous NHSL1 pulled down with polyclonal NHSL1 (4457) antibody followed by western blotting with b Abi1 and c Scar/WAVE2 antibodies detecting endogenous coimmunoprecipitation of these proteins in MCF10A (Abi1) and B16F1 (Scar/WAVE2) cell lysates."
+Immunoprecipitation using nonimmune rabbit IgG served as a negative control.
+D GSTpulldowns using puriﬁed Glutathionesepharose coupled GSTfusion proteins of Abi1 and cAbl-SH3 domains or GST alone from HEK cell lysates that were transfected with EGFPNHSL1.
+Following GSTpulldown EGFPNHSL1 was detected in a western blot with antiEGFP antibodies.
+Ponceau staining of membrane reveals GST or GSTtagged Abi- or AblSH3 domains used.
+"E Western blot showing immunoprecipitation using NHSL1 polyclonal (4457) antibody or nonimmune rabbit IgG control from HEK cell lysates expressing MycNHSL1 and all Myctagged components of the Scar/WAVE complex, including MycAbi1-fulllength (e, left), Myc-"
+"Abi1delta-SH3 (e, right)."
+The western blot shows coimmunoprecipitation between NHSL1 and all components of the Scar/WAVE complex only when the Abi SH3 domain is present (MycHSPC300 is not shown).
+A–e Representative blots from three independent biological experiments.
+F Quantiﬁcation of band intensity from chemiluminescence from e imaged with a CCD camera.
+Coimmunoprecipitation is reduced by >80%.
+Bars indicate mean ± SEM (error bars); n = 3 independent biological experiments; oneway ANOVA:
+"P = 0.0002; F(7,16) = 8.855; Sidak’s multiple comparisons tests: PIR121 **p = 0.0093; Nap1 **P = 0.0028; WAVE2 **P = 0.0074; Abi1 **P = 0.0030."
+G HEK cells were transfected with EGFPtagged NHSL1 or NHSL1SH3 binding mutants or EGFP only as negative control and MycAbi1.
+"After GFPtrap pulldown of wildtype (WT) NHSL1 or different NHSL1SH3 binding mutants, coprecipitation was detected in a western blot with Myc antibody."
+Representative blots from ﬁve independent biological experiments.
+Source data are provided as a Source Data ﬁle.
+NATURE COMMUNICATIONS | (2021) 12:5687 | https://doi.org/10.1038/s41467021-259166 | www.nature.com/naturecommunications NATURE COMMUNICATIONS | https://doi.org/10.1038/s41467021-259166 ARTICLE Fig.
+6 NHSL1 negatively regulates cell migration via the Scar/WAVE complex.
+"A Speed of randomly migrating B16F1 cells overexpressing either wildtype NHSL1 (NHSL1 WT, black circles) or the NHSL1 mutant in the Scar/WAVE complex binding sites (NHSL1 SW Mut, blue diamonds) or EGFP alone (red crosses) as control plated on ﬁbronectin after selection using a bicistronic puromycin expression plasmid ensuring all cells analysed overexpressed NHSL1."
+"Mean track speed (dt = 3, TR = 4; see ‘Methods’ for calculation)."
+"Results are mean ± SEM (error bars), of four independent biological experiments."
+"Each data point represents the mean speed of a cell from a total number of 106, 104, 108 cells for control, NHSL1 WT and NHSL1 SW Mut, respectively."
+Oneway ANOVA:
+"P = 0.0007; F(2,395) = 7.385; and Dunnett’s multiple comparisons tests: ***P = 0.0003; nsP = 0.0655; b, c speed and persistence of randomly migrating wildtype B16F1 cells expressing Myc alone as control (black circles) or CRISPR 2 cells expressing either the NHSL1 mutant in the Scar/WAVE complex binding sites (NHSL1 SW Mut, blue diamonds) or NHSL1 (NHSL1 WT, red crosses) or Myc alone as control (pink squares) plated on laminin after selection using a bicistronic blasticidin expression plasmid ensuring all cells analysed expressed NHSL1."
+"Mean track speed (b) and persistence (c) (dt = 5, TR = 2; see ‘Methods’ for calculation)."
+Each data point represents the mean speed of a cell.
+Results are mean ± SEM (error bars).
+B Oneway ANOVA:
+"P = 0.0077; F(3,302) = 4.044; and Dunnett’s multiple comparisons test: **P = 0.0018; *P = 0.0364; nsP = 0.1215."
+C Oneway ANOVA:
+"P = 0.0034; F(3,302) = 4.648; and Dunnett’s multiple comparisons tests: CRISPR 2 vs. WT control: *P = 0.0397; NHSL1 CRISPR2 vs. Rescue MycNHSL1 SW Mut: nsP = 0.9877; NHSL1 CRISPR2 vs. Rescue MycNHSL1 WT: nsP = 0.9442."
+"D Mean Square Displacement analysis (loglog plot) of data shown in b, c. Results are mean values ± SEM (error bars)."
+"B–d n = 102 (wildtype cells Myc only), 55 (CRISPR 2 cells Myc only), 77 (CRISPR 2 Rescue MycNHSL1 SW Mut), 72 (CRISPR 2 Rescue MycNHSL1 WT) from ﬁve independent biological experiments."
+Source data are provided as a Source Data ﬁle.
+With Abi1 (Fig. 5g).
+"Taken together, these data indicate that Abi binds via its SH3 domain to two sites in NHSL1."
+NHSL1 reduces cell migration via the Scar/Wave complex.
+We observed that loss of NHSL1 resulted in increased cell migration speed and persistence (Fig.
+"2 and Supplementary Figs. 3, 4)."
+"To examine the consequences of increasing NHSL1 expression, we overexpressed EGFPtagged wildtype NHSL1 (EGFPNHSL1 WT) or the NHSL1 cDNA which cannot interact with the Abi SH3 domain and hence cannot interact with the Scar/WAVE complex (Fig. 5g) (EGFPNHSL1 SW Mut) in B16F1 cells NATURE COMMUNICATIONS | (2021) 12:5687 | https://doi.org/10.1038/s41467021-259166 | www.nature.com/naturecommunications ARTICLE NATURE COMMUNICATIONS | https://doi.org/10.1038/s41467021-259166 (Supplementary Fig. 11a)."
+We quantiﬁed random cell migration behaviour after plating the cells on ﬁbronectin and observed a moderate but signiﬁcant reduction in cell migration speed (Fig. 6a) and a moderately reduced mean square displacement (Supplementary Fig. 11b) for cells overexpressing wildtype EGFPNHSL1 compared to EGFP control.
+"This is consistent with the result from the NHSL1 CRISPR cells, which displayed the opposite effect (Fig."
+2c–f).
+Cell migration persistence was increased upon overexpression of NHSL1 (Supplementary Fig.
+11c–e).
+"Since CRISPR knockout of NHSL1 also increases persistence, this suggests that optimal expression levels of NHSL1 may ﬁnetune cell migration persistence."
+The NHSL1 Scar/WAVE binding mutant localises to the very edge of lamellipodia (Supplementary Fig.
+11f and Supplementary Movie 7) like wildtype EGFPNHSL1 (Fig.
+"1f, g and Supplementary Movie 1)."
+"In contrast, the NHSL1 Scar/WAVE binding mutant did not reduce migration speed (Fig. 6a) suggesting that NHSL1 negatively regulates cell migration speed via an interaction with the Scar/WAVE complex."
+"To verify this and to test whether the observed phenotypes in the NHSL1 CRISPR knockout clones were not due to offtarget effects, we reexpressed Myctagged wildtype NHSL1 (MycNHSL1 WT) or the NHSL1 Scar/WAVE complex binding mutant (MycNHSL1 SW Mut) in B16F1 cells."
+After plating the cells on laminin we again observed an increase in random cell migration speed and persistence between wildtype control and NHSL1 CRISPR2 knockout cells (Fig.
+"6b, c) conﬁrming our previous results (Fig."
+2c–e).
+Reexpression of neither wildtype MycNHSL1 nor MycNHSL1 SW Mut in CRISPR 2 cells rescued cell migration persistence (Fig.
+"6c, d and Supplementary Fig."
+"12a, b)."
+This result and the increase in cell migration persistence upon NHSL1 overexpression (Supplementary Fig.
+11c–e) and NHSL1 knockout (Fig. 2e) together suggest that optimal expression levels of NHSL1 may be required for the lower cell migration persistence observed in the wildtype cells.
+"However, reexpression of wildtype MycNHSL1 but not MycNHSL1 SW Mut in CRISPR 2 cells resulted in a signiﬁcant reduction in cell migration speed (Fig. 6b)."
+This indicates that wildtype NHSL1 but not NHSL1 SW Mut (that cannot bind to the Scar/WAVE complex) can rescue the NHSL1 knockout phenotype and suggests that NHSL1 negatively regulates cell migration speed via an interaction with the Scar/WAVE complex.
+NHSL1 CRISPR knockout increases Arp2/3 activity in cells.
+"As the Scar/WAVE complex is the major activator of the Arp2/3 complex, which induces branched Factin nucleation at the leading edge of cells, we sought a direct method to investigate whether NHSL1 controls Arp2/3 activity."
+"In order to directly quantify Arp2/3 activity in cells, we developed a FRETFLIM Arp2/3 biosensor."
+"We designed this biosensor based on in vitro FRET probes for the Arp2/ 3 complex22,23, which were successfully used to measure the activity of the puriﬁed complex and relies on the conformational change of the Arp2/3 complex upon binding to nucleation promotion factors such as the Scar/WAVE complex23–29."
+Here we tagged the Arp2/ 3 subunits ARPC3 with mTurq2 as the FRET donor and ARPC1B with mVenus as the FRET acceptor and expressed them from a bicistronic (ARPC1BmVenus-P2AARPC3-mTurq2).
+"When the Arp2/3 complex is activated by Scar/WAVE, ARP2 and ARP3 and also ARPC3 and ARPC1B move closer to each other22–29"
+Allowing FRET between mTurq2 and mVenus to occur.
+"To evaluate whether this biosensor faithfully reports changes in Arp2/3 activity in cells, we expressed our Arp2/3 biosensor together with MycDA- Rac1 or empty Myc vector as control and measured FRET efﬁciency by Fluorescence Lifetime Imaging (FLIM)."
+This analysis revealed that FRET efﬁciency and hence Arp2/3 activity was signiﬁcantly increased upon expression of dominant active Rac compared to construct control (Fig.
+7a–c and Supplementary Fig.
+13a–e).
+We then expressed our biosensor in control B16F1 cells or in the NHSL1 CRISPR 2 and 21 cell lines and again measured FRET by FLIM.
+We found that FRET efﬁciency and hence Arp2/3 activity was signiﬁcantly increased in both NHSL1 CRISPR 2 and 21 cell lines compared to control B16F1 cells (Fig.
+7d–f and Supplementary Fig. 14a–f).
+"To test whether the observed phenotypes in the NHSL1 CRISPR knockout clones were not due to offtarget effects, we reexpressed Myctagged wildtype NHSL1 (MycNHSL1 WT) or the NHSL1 Scar/WAVE complex binding mutant (MycNHSL1 SW Mut) in the NHSL1 CRISPR 2 cell line and also expressed our Arp2/3 biosensor and quantiﬁed FRET by FLIM."
+"Again, we observed a signiﬁcant increase in Arp2/3 activity in the NHSL1 CRISPR 2 cell line compared to control B16F1 cells, which was rescued with the wildtype NHSL1."
+This conﬁrmed that indeed the observed increase in Arp2/3 activity in the NHSL1 CRISPR 2 cells was due to loss of NHSL1 and not due to offtarget effects (Supplementary Fig.
+14g).
+We also found a signiﬁcant rescue with the NHSL1 Scar/WAVE complex binding mutant (Supplementary Fig.
+14g) suggesting that in whole cells NHSL1 affects Arp2/3 activity through other mechanisms in addition to its interaction with the Scar/WAVE complex.
+"As an additional control, we performed immunoﬂuorescence analysis on wildtype B16F1 cells or the NHSL1 CRISPR 2 and 21 cells and quantiﬁed wholecell Arp2/3 intensity."
+We found that total Arp2/3 levels were not increased but rather reduced in NHSL1 CRISPR cells (Supplementary Fig.
+"15a, c) and this excludes the possibility that the observed increase in Arp2/3 activity is due to increased Arp2/3 levels when NHSL1 is knocked out."
+"Similarly, western blot analysis revealed that both total cellular Arp2/3 complex (subunit ARPC2) and Scar/WAVE2 levels were reduced in the NHSL1 CRISPR 2 line (Supplementary Fig."
+"15d–f), suggesting that persistent overactivation of the Scar/ WAVE and Arp2/3 complexes in the absence of NHSL1 may lead to their proteasomal degradation30,31."
+"Consistent with a reduction in total Arp2/3 levels, we observed that the total cellular Factin content was signiﬁcantly reduced in NHSL1 CRISPR 2 cells compared to wildtype cells."
+This phenotype was rescued by reexpressing wildtype MycNHSL1 but not MycNHSL1 SW Mut in the NHSL1 CRISPR 2 cells (Fig.
+8c and Supplementary Fig. 16a) suggesting that NHSL1 controls cellular Factin levels by binding to the Scar/WAVE complex.
+"Similarly, we observed a signiﬁcant reduction in total cellular Factin content upon knockdown of NHSL1 and, conversely, an increased total cellular Factin content upon overexpression of EGFPNHSL1 in HEK293 cells (Supplementary Fig."
+"16b, c)."
+Loss of NHSL1 increases lamellipodial Factin content.
+"To gain a deeper insight on how NHSL1 affects cell motility, we quantiﬁed lamellipodium parameters."
+We transfected our stable NHSL1 CRISPR B16F1 cell lines or control wildtype B16F1 cells with LifeActEGFP.
+We found that NHSL1 CRISPR 2 and 21 cells had a larger cell area (Supplementary Fig. 17a) and thus we normalised the lamellipodia length to the total cell area.
+This analysis revealed that the NHSL1 CRISPR 2 and 21 cells have a signiﬁcantly reduced ratio of lamellipodia length to cell area (Fig.
+"8a, b and Supplementary Fig."
+"17a, b)."
+"However, both lamellipodia width and the number of microspikes per length of lamellipodium were unchanged (Fig."
+8a and Supplementary Fig.
+"17c, d)."
+To quantify Arp2/3 activity in lamellipodia we sought to estimate Arp2/3 biosensor FRET efﬁciency at the leading edge by manually outlining lamellipodia.
+This approach is limited by the FRETFLIM microscope.
+"Nevertheless, we resolution of observed a change in FRET efﬁciency from 0.01 to 3.97% for 10 NATURE COMMUNICATIONS | (2021) 12:5687 | https://doi.org/10.1038/s41467021-259166 | www.nature.com/naturecommunications NATURE COMMUNICATIONS | https://doi.org/10.1038/s41467021-259166 ARTICLE Control vs. CRISPR 2 (P = 0.6914) and 0.01 to 8.87% for Control vs. CRISPR 21 (P = 0.2502) for Arp2/3 activity in the lamellipodium."
+Neither change is signiﬁcant (Supplementary Fig. 14h).
+"As an alternative method, endogenous Arp2/3 staining intensity in the lamellipodium can be used as an approximation of Arp2/3 activity since Arp2/3, after activation at the leading edge, is incorporated into the lamellipodial Factin meshwork."
+We found that relative Arp2/3 complex (ARPC2) intensity was signiﬁcantly increased in the lamellipodium in the NHSL1 CRISPR 2 cells (the mean changed from 0.9789 to 1.149).
+"The mean of the NHSL1 CRISPR 21 cells also changed from 0.9789 for the control wildtype cells to 1.104, but the latter change was not signiﬁcant (Fig."
+8d and Supplementary Fig. 15a).
+The NHSL1 CRISPR 2 cell different results from these two CRISPR KO clones are consistent with our ﬁnding that the NHSL1 CRISPR 21 cell line represents a partial knockout whereas line represents a full knockout (Supplementary Fig. 2).
+This suggests that NHSL1 functions to reduce Arp2/3 activity in the lamellipodium.
+"When we quantiﬁed Alexa488phalloidin labelled Factin intensity in the lamellipodium, we observed an increase in intensity per area in the NHSL1 CRISPR cells (Fig."
+8e and Supplementary Fig. 15b).
+"Conversely, we found a signiﬁcant reduction of lamellipodia LifeActEGFP intensity per area upon wildtype NHSL1 overexpression but not with the NHSL1 Scar/ WAVE binding mutant (Fig."
+8f and Supplementary Fig. 17e) suggesting that NHSL1 may inhibit Factin nucleation in the lamellipodium by binding to Scar/WAVE.
+NATURE COMMUNICATIONS | (2021) 12:5687 | https://doi.org/10.1038/s41467021-259166 | www.nature.com/naturecommunications 11 ARTICLE NATURE COMMUNICATIONS | https://doi.org/10.1038/s41467021-259166 Fig.
+7
+NHSL1 negatively regulates Arp2/3 activity.
+A Lifetime images of B16F1 expressing the Arp2/3 biosensor and either empty Myc- control plasmid or Myctagged dominant active Rac (DA Rac).
+"Warm colours indicate short lifetimes of the donor mTurq2, which represent high FRET efﬁciency and Arp2/ 3 activity."
+Representative images from 4 independent biological experiments are shown.
+Scale bar: 20 μm.
+B FRET efﬁciency histograms from the same representative wildtype B16F1 (orange circles) and DA Rac (lilac upsidedown triangles) cells expressing the Arp2/3 biosensor as shown in a. c Quantiﬁcation of average cellular FRET efﬁciency that represents Arp2/3 activity from 4 independent biological repeats from control: 31 cells (orange circles); DA Rac: 26 cells (lilac upsidedown triangles).
+"Data points are the weighted average means for each cell, calculated from the FRET efﬁciency histogram and used instead of the normal (unweighted) mean in order to better represent the true FRET efﬁciency."
+"Results are the average weighted average mean ± SEM (error bars), ****P = 0.0000000065; t = 7.379; df = 54."
+"Unpaired, twotailed ttest."
+"D Lifetime images of wildtype B16F1, NHSL1 CRISPR clone 2 and NHSL1 CRISPR clone 21 cells expressing the Arp2/3 biosensor."
+"Warm colours indicate short lifetimes of the donor mTurq2, which represent high FRET efﬁciency and Arp2/3 activity."
+Representative images from 4 independent biological experiments are shown.
+Scale bar: 20 μm.
+"E FRET efﬁciency histogram from the same representative wildtype B16F1 (orange circles), NHSL1 CRISPR clone 2 (magenta squares) and NHSL1 CRISPR clone 21 (green triangles) cells expressing the Arp2/3 biosensor as shown in d. f Quantiﬁcation of average cellular FRET efﬁciency which represents Arp2/3 activity from 4 independent biological repeats from control: 19 cells (orange circles); NHSL1 CRISPR 2: 21 cells (magenta squares); NHSL1 CRISPR 21: 11 cells (green triangles)."
+"Data points are the weighted average means for each cell, calculated from the FRET efﬁciency histograms."
+"Data points represent the average weighted mean ± SEM (error bars), Kruskal–Wallis test: P = 0.0091; Kruskal–Wallis statistic: 9.407 and Dunn’s multiple comparisons test: control versus CRISPR 2 *P = 0.0136; control versus CRISPR 21 *P = 0.0260."
+Source data are provided as a Source Data ﬁle.
+NHSL1 knockout decreases lamellipodial Factin assembly rate.
+To explore the effects of NHSL1 on Factin retrograde ﬂow in the lamellipodium we again used our NHSL1 CRISPR 2 cell line and rescued it with MycNHSL1 WT or the MycNHSL1 SW Mut and transfected them with LifeActEGFP (Fig.
+9a and Supplementary Movie 8).
+The protrusion speed of lamellipodia was not signiﬁcantly changed by NHSL1 knockout (Supplementary Fig. 18a).
+"However, particle image velocimetry analysis revealed a signiﬁcant reduction of Factin retrograde ﬂow in the NHSL1 CRISPR 2 lamellipodia compared to wildtype control lamellipodia (Fig."
+"9a, b)."
+Reexpression of MycNHSL1 WT in the NHSL1 CRISPR 2 cells changed the mean values of the retrograde ﬂow speed in lamellipodia from 1.34 to 1.43 μm/min and reexpression of MycNHSL1 SW Mut changed the mean values of the ﬂow speed from 1.34 to 1.51 μm/min
+But these changes were not signiﬁcant (Fig.
+"9a, b)."
+A more intuitive measure of effective actin polymerisation at the lamellipodium is the Factin assembly rate which takes the forward protrusion of the plasma membrane and the retrograde actin ﬂow into account and can be calculated in this case as the sum of the magnitude of the vectors of the ﬂow speed and the protrusion speed32.
+Even though we measured increased Arp2/3 activity in the NHSL1 CRISPR 2 cells (Fig.
+"7d–f), we surprisingly observed a signiﬁcant reduction of Factin assembly rate in NHSL1 CRISPR 2 lamellipodia compared to wildtype control lamellipodia (Fig."
+"9a, c)."
+"Reexpression of MycNHSL1 WT or the MycNHSL1 SW Mut changed the mean values of the Factin assembly rate for both from 4.04 to 4.30 μm/min compared to the NHSL1 CRISPR knockout lamellipodia, but this change was not signiﬁcant (Fig."
+"9a, c)."
+"This seemingly counterintuitive observation that NHSL1 CRISPR knockout causes increased Arp2/3 activity yet decreases Factin retrograde ﬂow and assembly rate in the lamellipodium may be explained by the effects of higher ﬁlament densities on membrane tension and the tension gradient across the lamellipodium32,33."
+"Our observations are consistent with results from modelling of actin ﬁlament density in the lamellipodium and calculating resulting Factin retrograde ﬂow, protrusion speed and assembly rate32,33 (see ‘Discussion’ section)."
+NHSL1 reduces stability of lamellipodia protrusion.
+"Since NHSL1 reduced Arp2/3 activity (Fig. 7), we further explored whether NHSL1 affects lamellipodia dynamics and/or lamellipodia stability."
+We quantiﬁed leadingedge morphodynamics (Supplementary Movies 9 and 10).
+This revealed that protrusion speed did not change signiﬁcantly in the NHSL1 CRISPR cells compared to control (Fig. 10e) in agreement with lamellipodia ﬂow analysis protrusion speed measurements during (Supplementary Fig. 18a).
+"In addition, we did not observe a signiﬁcant change in lamellipodia protrusion speed when we reexpressed wildtype or the Scar/WAVE binding mutant of NHSL1 in the NHSL1 CRISPR 2 knockout cell line (Fig. 10e)."
+"Lamellipodia stability can be deﬁned both temporally, as the duration of lamellipodium protrusion until the next retraction, as well as spatially: lamellipodia can be characterised by protruding segments interrupted by small retractions."
+Stable lamellipodia with longer sections of protrusions may more likely increase cell migration speed and persistence than lamellipodia with many retractions.
+We thus analysed lamellipodia stability and observed that the NHSL1 CRISPR 2 cells displayed a signiﬁcantly increased uninterrupted lamellipodium while this parameter was not changed in the NHSL1 CRISPR 21 cell line (Fig.
+"10a, c and Supplementary Movie 9)."
+The different results from these two CRISPR KO clones are consistent with our ﬁnding that the NHSL1 CRISPR 21 cell line represents a partial knockout whereas the NHSL1 CRISPR 2 cell line represents a full knockout (Supplementary Fig. 2).
+"Conversely, cells overexpressing MycNHSL1 (Fig."
+"10b, d and Supplementary Movie 10) showed a signiﬁcantly decreased uninterrupted lamellipodium compared to controls."
+"When we compared the standard deviation (S.D.) of the lamellipodia protrusion speed from all frames of a movie as a readout for the temporal stability of protrusions over time, we observed a change from S.D. = 0.376 μm/min for WT MycControl to S.D. = 0.265 μm/min for NHSL1 CRISPR 2 knockout cells."
+This standard deviation of the lamellipodia protrusion speed the NHSL1 CRISPR 2 knockout cells was signiﬁcantly of increased in the NHSL1 CRISPR 2 cells reexpressing wild type but not the NHSL1 Scar/WAVE complex binding mutant (Fig. 10f).
+"Taken together, this indicates that NHSL1 reduces lamellipodia protrusions potentially via its the stability of interaction with the Scar/WAVE complex."
+Discussion
+"The Scar/WAVE complex, which is activated by several signals including Rac, is essential for lamellipodia formation and promotes mesenchymal cell migration2."
+We postulate that the Scar/ WAVE complex needs also to be negatively regulated at the leading edge to tightly control lamellipodial protrusion dynamics and cell steering.
+"Yet, so far, no direct inhibitor of the Scar/ WAVE complex has been described."
+"Here we reveal that NHSL1 is a direct, negative regulator of the Scar/WAVE complex, which consequently reduces Arp2/3 activity."
+"This reduction in Scar/ WAVEArp2/3 activity may cause a decrease in lamellipodia stability, and thus also cell migration efﬁciency."
+12 NATURE COMMUNICATIONS | (2021) 12:5687 | https://doi.org/10.1038/s41467021-259166 | www.nature.com/naturecommunications NATURE COMMUNICATIONS | https://doi.org/10.1038/s41467021-259166 ARTICLE NHSL1 knockout cells also displayed reduced retrograde Factin ﬂow speed which coincided with a reduced Factin assembly rate (Fig. 9).
+Actin polymerisation at the very edge of lamellipodia creates the force for plasma membrane protrusion.
+How the assembly rate is divided between the protrusion and retrograde ﬂow controls the speed of protrusions.
+"Dolati et al. (2018) modelled the relationship between actin ﬁlament density at the leading edge of cells and the resulting retrograde ﬂow, lamellipodia protrusion and Factin assembly rates32."
+"The model, which agrees best with experimental results, revealed that protrusion and assembly rates increase with actin ﬁlament density at the leading edge up to a certain threshold."
+This threshold corresponds to the density measured for wildtype B16F1 lamellipodia.
+When actin ﬁlament density is further increased the protrusion rate then plateaus and the actin assembly rate again decreases32.
+This is likely due to membrane tension which counteracts the most NATURE COMMUNICATIONS | (2021) 12:5687 | https://doi.org/10.1038/s41467021-259166 | www.nature.com/naturecommunications 13 ARTICLE NATURE COMMUNICATIONS | https://doi.org/10.1038/s41467021-259166 Fig.
+8 NHSL1 negatively regulates Arp2/3 and Factin content in the lamellipodium.
+"A First frame of a movie of LifeActEGFP expressing B16F1 cells showing how length, width and area was quantiﬁed (see ‘Methods’ section) in (b; S17a–d): red line: area; blue lines: width of lamellipodium."
+Bar: 20 μm.
+B Ratio of lamellipodia length/total cell area.
+n = 15 cells each.
+"Oneway ANOVA, Dunnett’s test; ****P < 0.0001; **P = 0.0059; F(2,42) = 10.84."
+"C Total cellular Factin (Alexa568phalloidin) intensity/area ratio in wildtype B16F1 cells expressing Myctag (WT MycControl, black circles) or CRISPR 2 cells expressing the NHSL1 mutant in the Scar/WAVE complex binding sites (MycNHSL1 SW Mut, blue diamonds) or NHSL1 (MycNHSL1 WT, red crosses) or Myctag as control (pink squares) plated on laminin."
+Oneway ANOVA:
+P = 0.0009; Kruskal–Wallis statistics 16.44; ***P = 0.0003; **P = 0.0083; nsP = 0.1518; outliers removed: ROUT method (Q = 1%) (n analysed/n outliers = no removed); WT control: n = 67 cells/no = 0; NHSL1 CRISPR2: n = 71 cells/no = 3; NHSL1 CRISPR2 + MycNHSL1 SW Mut Rescue: n = 76 cells/no = 5; NHSL1 CRISPR2 + Rescue MycNHSL1 WT: n = 82 cells/no = 4. d
+Relative lamellipodial Arp2/3 intensity: Arp2/3 intensity in the lamellipodium normalised cellby-cell against wholecell Arp2/3 intensity.
+"Kruskal–Wallis test (P = 0.0514), Dunn’s test: *P = 0.0353; nsP > 0.9999; wild type (n = 40 cells), NHSL1 CRISPR 2 (n = 38 cells) and NHSL1 CRISPR 21 (n = 33 cells) B16F1 cells on laminin, stained with antiARPC2 antibodies."
+E Lamellipodial Factin (Alexa488phalloidin) intensity/area ratio in B16F1 wildtype control cells or NHSL1 CRISPR 2 and NHSL1 CRISPR 21 B16F1 cells plated on laminin.
+"n = control (61), CRISPR 2 (61), CRISPR 21 (43) cells; oneway ANOVA:"
+"P = 0.0127; F(2,162) = 4.486; Dunnett’s multiple comparisons test: **P = 0.0099."
+"F Lamellipodial Factin (LifeActEGFP) intensity/area ratio in B16F1 cells transfected with a tricistronic plasmid expressing Myctagged NHSL1 (wild type or Scar/WAVE binding mutant), puromycin resistance and LifeActEGFP or empty plasmid (MycIRES-PuroT2A-LifeActEGFP) after selection with puromycin plated on laminin."
+"n = control (14), WT (12), NHSL1SW mut (13) cells."
+Oneway ANOVA:
+"P = 0.0074; F(2,36) = 5.636; Dunnett’s multiple comparisons test: **P = 0.0036; nsP = 0.1810."
+"B–f Results are mean ± SEM (error bars) from three (b, d) or four (c, f) or ﬁve (e) biologically independent experiments."
+"Source data are provided as a Source Data ﬁle. Protrusive force32,33."
+"In NHSL1 knockout cells Arp2/3 activity is increased (Fig. 7) and in the lamellipodium, Arp2/3 and actin ﬁlament densities (Fig."
+8) are higher compared to wildtype B16F1 cells.
+"Thus, our observed experimental values of reduced retrograde ﬂow coinciding with reduced Factin assembly rates are consistent with the predicted rates from the model32,34."
+We did not observe an increase in protrusion speed at higher Arp2/3 activity.
+This may seem counterintuitive but agrees with the predictions of the model.
+"Consequently, the faster cell migration speed observed in the NHSL1 knockout cells cannot be explained by a faster lamellipodial protrusion speed."
+The increase in cell migration speed may therefore be due to an increase in lamellipodial stability.
+"Taken together, the observed reduction in retrograde ﬂow and assembly rates ﬁt very well with the increased Arp2/3 activity in the NHSL1 CRISPR cells."
+The resulting increased actin ﬁlament branching density in the NHSL1 CRISPR cells may exert more force to counteract the membrane tension and thereby increase lamellipodial stability and consequently increase cell migration efﬁciency.
+We found that NHSL1 knockout cells display a reduction in relative overall lamellipodia length (Fig.
+8) while the longest uninterrupted lamellipodia length increases (Fig. 10).
+"How the overall length of lamellipodia is controlled and why some cell types such as ﬁbroblasts have smaller lamellipodia than others, for example, B16F1 cells or ﬁsh keratocytes is unknown."
+The Scar/WAVE complex appears linear oligomers35 but how a lateral extension of such oligomers is controlled is not known.
+Our ﬁnding that NHSL1 interacts with the Scar/WAVE complex and affects lamellipodia length and continuity opens the possibility that NHSL1 may be involved in this control of lateral lamellipodia propagation.
+"To form higherorder Several isoforms of NHSL1 have been predicted from the human genome sequence, which results from alternative splicing of several different exon 1 sequences (Ensembl13,14,16)."
+"Only one out of several alternative exon 1 sequences includes a Scar homology domain (SHD) also found in Scar/WAVE family proteins which in Scar/ WAVE proteins mediates the interaction with Abi, HSPC300, Nap1 and Sra12."
+The NHSL1 isoform that we cloned harbours an exon 1 which does not include the SHD.
+"A similar exonintron structure has been described for the related Nance–Horan Syndrome (NHS) and NHSL2 proteins13,14,36, but overall conservation between family members is low at the amino acid level (NHSL1 versus NHS: 30.3% and NHSL1 versus NHSL2: 25.1% see Supplementary Fig. 18b)."
+"The function of NHS in cell migration is not known, but NHS has been reported to localise to lamellipodia in MTLn3 breast cancer cells14 which is consistent with our observation that NHSL1 localises to the edge of protruding lamellipodia (Fig. 1)."
+"The SHD domain of NHS has been shown to coimmunoprecipitate with the Scar/WAVE complex components Abi, HSPC300, Nap1 and Sra114."
+Here we show that an NHSL1 isoform without the SHD domain interacts with the entire Scar/ WAVE complex via the SH3 domain of Abi.
+"Interestingly, the two Abi binding sites which mediate binding to NHSL1 (site 2 + 3; Fig."
+"5g) are highly conserved in the NHS family (PFAM PF15273 HHM logo, (Supplementary Fig."
+"18c, d))"
+Even though overall conservation is low (Supplementary Fig.
+"18b)13,36 highlighting the importance of Scar/WAVE complex interaction at these particular sites."
+"Furthermore, this suggests that all isoforms of NHS may also directly interact with the Scar/WAVE complex via the Abi SH3 domainmediated by the two Abi binding sites identiﬁed here."
+We thus postulate that at least some functions such as regulation of cell migration may be conserved between the family members.
+"Therefore, deregulated cell migration may play a role in the pathogenesis of Nance–Horan syndrome."
+"Overexpression of an isoform of NHS harbouring the SHD domain has been reported to inhibit the ability of MTLn3 breast cancer cells to respond to EGF by forming lamellipodia, whilst overexpression of an isoform of NHS without the SHD domain did not affect lamellipodia extension14."
+"In agreement, we show that overexpression of the NHSL1 isoform without the SHD domain does not inhibit lamellipodia extension (Supplementary Movie 1)."
+"Furthermore, we found that knockout of all isoforms of NHSL1 increases lamellipodia stability, cell migration speed and persistence (Figs. 2, 6 and 10)."
+"However, only lamellipodia stability and cell migration speed but not persistence were rescued in the NHSL1 CRISPR knockout cells when we reexpressed wildtype NHSL1."
+"Since overexpression of NHSL1 also increased cell migration persistence, optimal expression levels of NHSL1 may be required for low cell migration persistence."
+The zebraﬁsh orthologue of NHSL1 had been identiﬁed in a genetic screen for defects in a speciﬁc developmental migration of facial branchiomotor neurons suggesting a critical role of NHSL1 in neuronal migration37.
+"Here, we found that NHSL1 negatively regulates random 2D cell migration by reducing lamellipodia stability (Figs. 2, 6 and 10)."
+We hypothesise that this reﬂects a role in the guidance of NHSL1 during developmental migration as cells must be able to change their path.
+"In addition, the neurons need to integrate additional inputs in this mode of migration since zebraﬁsh NHSL1 functions together with the planar cell polarity components Scrib and Vangl cell autonomously in facial branchiomotor neurons, which involves the interactions between the neurons and their planarpolarised environment of the surrounding tissue37."
+14 NATURE COMMUNICATIONS | (2021) 12:5687 | https://doi.org/10.1038/s41467021-259166 | www.nature.com/naturecommunications NATURE COMMUNICATIONS | https://doi.org/10.1038/s41467021-259166 ARTICLE Fig.
+9
+NHSL1 increases actin retrograde ﬂow speed and Factin assembly rate.
+"A A representative snapshot in time (02:42 min:s) of a segmented lamellipodium from a wildtype cell (WT), NHSL1 knockout cell (NHSL1 CRISPR 2) and NHSL1 knockout cells rescued with a wildtype NHSL1 construct (NHSL1 CRISPR 2 Rescue MycNHSL1 WT) and with a mutant NHSL1 construct (NHSL1 CRISPR 2 Rescue MycNHSL1 SW Mut) using a bicistronic expression plasmid also conferring resistance to blasticidin to ensure that all cells analysed expressed NHSL1 and also expressing lifeActEGFP."
+Left panels show a frame from segmented Airyscan movies; right panels show the corresponding frame from the PIV interpolated movie.
+"Each colourmap has the same range (0–3 μm/min) and distance between vector arrows (1 μm); warmer colours represent faster ﬂow, vector arrows are all the unit length."
+Scale bar: 10 μm.
+Representative images shown from six independent biological experiments.
+b
+Quantiﬁcation of the average speed of actin retrograde ﬂow for each condition over all frames for each cell.
+Flow is signiﬁcantly reduced in NHSL1 knockout cells but cannot be fully rescued by either the WT or mutant NHSL1 constructs.
+"Results are mean ± SEM; n = 41, 32, 35 and 36 for the respective conditions (left to right on x-axis), from 6 independent biological repeats."
+Oneway ANOVA:
+"P = 0.0001; F(3,140)"
+"= 7.312; Tukey’s multiple comparisons tests: ***P = 0.0002, ns = not signiﬁcant: CRISPR 2 versus rescue MycNHSL1 SW Mut: nsP = 0.4285; CRISPR 2 versus rescue MycNHSL1 WT: nsP = 0.8275."
+C Quantiﬁcation of the Factin assembly rate for each condition over all frames for each cell.
+The Factin assembly rate is signiﬁcantly reduced in NHSL1 knockout cells but cannot be rescued by either the WT or mutant NHSL1 constructs.
+"Results are mean ± SEM; n = 41, 32, 35 and 36 for the respective conditions (left to right on x-axis), from 6 independent biological repeats."
+Oneway ANOVA:
+"P = 0.0059; F(3,104)"
+"= 4.400; Tukey’s multiple comparisons test: **P = 0.0044, ns = not signiﬁcant: CRISPR 2 versus rescue MycNHSL1 SW Mut: nsP = 0.7874; CRISPR 2 versus rescue MycNHSL1 WT: nsP = 0.7967."
+Source data are provided as a Source Data ﬁle.
+"Active Rac binds to NHSL1 via two sites and thus Rac may recruit NHSL1 to the leading edge of cells (Fig. 3 and Supplementary Figs. 6, 7)."
+Whether this interaction is direct or not needs to be investigated in future studies.
+We show here that NHSL1 is a direct interactor of the Scar/WAVE complex and colocalises with it at the very edge of lamellipodia.
+"In addition, an EGFPNHSL1 Scar/WAVE binding mutant localises at lamellipodia like wildtype NHSL1 (Supplementary Fig. 11f)."
+"Finally, NHSL1 knockout cells display increased Arp2/3 activity (Fig. 7)."
+Taken together this suggests that NHSL1 may act in a RacNHSL1-Scar/ NATURE COMMUNICATIONS | (2021) 12:5687 | https://doi.org/10.1038/s41467021-259166 | www.nature.com/naturecommunications 15 ARTICLE NATURE COMMUNICATIONS
+| https://doi.org/10.1038/s41467021-259166 Fig.
+10 NHSL1 reduces the stability of lamellipodia protrusion.
+"A, b Movie stills showing protrusion (blue) and retraction (red) dynamics of wildtype B16F1, NHSL1 CRISPR 2 and B16F1 cells overexpressing Myctagged NHSL1."
+Scale bar: 20 μm.
+"C, d NHSL1 reduces the length of the longest uninterrupted lamellipodium."
+"Each data point represents the mean length of the longest uninterrupted lamellipodium quantiﬁed from all frames of a movie of one LifeActEGFP expressing B16F1 cell (5 s intervals, 10 min duration) (see ‘Methods’ for details)."
+"Control (black circles), NHSL1 CRISPR 2 (magenta squares), 21 (green triangles) (c) and control (black circles) and MycNHSL1 overexpression (red crosses) (d)."
+c
+Control: n = 13; NHSL1 CRISPR 2: n = 12; NHSL1 CRISPR 21: n = 13 cells.
+Oneway ANOVA:
+"P = 0.0111; F(2,35) = 5.133; Dunnett’s test *P = 0.0144, control versus CRISPR 21: not signiﬁcant: nsP = 0.9949."
+D control n =10; MycNHSL1 n = 9 cells.
+"***P = 0.006, Mann–Whitney test."
+"E, f Quantiﬁcation (see ‘Methods’ section) of lamellipodia protrusion speed (e) and lamellipodia stability (f) of randomly migrating wildtype B16F1 cells or CRISPR 2 cells expressing either NHSL1 (NHSL1 WT) or the NHSL1 mutant in the Scar/WAVE complex binding sites (NHSL1 SW Mut) or Myc alone (control) plated on laminin."
+"WT Control: n = 13, NHSL1 CRISPR 2: n = 12, Rescue MycNHSL1 SW Mut: n = 11, Rescue MycNHSL1 SW WT: n = 15 cells."
+Oneway ANOVA:
+"P = 0.2097, F(3,47) = 1.568; Dunnett’s test: NHSL1 CRISPR 2 vs Rescue SW mut: nsP = 0.2043; NHSL1 CRISPR 2 vs Rescue SW WT: nsP = 0.1573; NHSL1 CRISPR 2 vs WT control: nsP =0.7639."
+f
+The standard deviation of the cone speed shows the ﬂuctuation of speeds along the edge and serves as a measure for the stability of lamellipodial protrusions.
+"WT control: n = 13, NHSL1 CRISPR 2: n = 12, Rescue MycNHSL1 SW Mut: n = 11, Rescue MycNHSL1 SW WT: n = 15 cells."
+Oneway ANOVA:
+"P = 0.0412, F(3,47) = 2.971; Dunnett’s test: NHSL1 CRISPR 2 vs Rescue SW mut: nsP = 0.8865; NHSL1 CRISPR 2 vs Rescue SW WT: *P = 0.0299; NHSL1 CRISPR 2 vs WT control: nsP = 0.1173."
+"C–f Results are mean ± SEM (error bars), four independent biological repeats."
+Source data are provided as a Source Data ﬁle.
+WAVEArp2/3 pathway negatively regulating Scar/WAVE and thus also Arp2/3 activity.
+"Interestingly, the two Rac binding sites in NHSL1 do not resemble any known Rac binding sites such as the CRIB or DUF1394 domains."
+The latter domain is found in the Scar/WAVE complex component Sra1/PIR121 but also in CYRI.
+CYRI binds to active Rac via a DUF1394 domain thereby competing with Sra1/PIR121 in the Scar/ 16 NATURE COMMUNICATIONS | (2021) 12:5687 | https://doi.org/10.1038/s41467021-259166 | www.nature.com/naturecommunications NATURE COMMUNICATIONS | https://doi.org/10.1038/s41467021-259166 ARTICLE WAVE complex for Rac binding and indirectly counteracting Scar/ WAVE recruitment to the leading edge38.
+"Surprisingly, we found that NHSL1 reduces cell migration via the Scar/WAVE complex."
+This is interesting since the Scar/ WAVE complex also directly binds to Rac and this increases Arp2/3 activation via the Scar/WAVE complex.
+"A similar paradoxical regulation has been observed at the level of the Arp2/3 complex: Arpin negatively regulates Arp2/3 activity whereas the Scar/WAVE complex positively regulates Arp2/3 activity, and both of these activities occur downstream of active Rac at the same time in a protruding lamellipodium."
+"Through this paradoxical circuitry, called an incoherent feedforward loop39, Arpin controls cell migration speed and persistence40."
+"Similar to NHSL1, Lpd functions downstream of active Rac but in contrast, Lpd promotes cell migration speed and persistence6,7."
+Both Lpd and NHSL1 appear to colocalise at the very edge of lamellipodia during protrusion (Supplementary Fig.
+1e and Supplementary Movie 3).
+"We, therefore, propose that NHSL1 together with Lpd forms an incoherent feedforward loop at the level of the Scar/WAVE complex downstream of active Rac at the leading edge of cells in which Lpd promotes whereas NHSL1 inhibits cell migration via Scar/WAVE to enable cell steering."
+"Methods Molecular biology, plasmids and reagents."
+Fulllength human NHSL1d cDNA including exon 1d and excluding exon 5 was generated by cloning overlapping EST clones Flj35425 and DKFZp686P1949 into pENTR3C (Invitrogen).
+Fragments of NHSL1 (Figs.
+"1e, 3a and Supplementary Fig."
+7a) were cloned into pENTR3C (Invitrogen).
+NHSL1 cDNA in pENTR was mutated using Quikchange (Agilent) to create double (sites 1 + 2 or sites 2 + 3) and triple (sites 1 + 2 + 3) SH3 binding sites: Site 1: aa518–524(R >
+A)AS(P > A)LK(P > A); Site 2: aa625–633KKPPLP(P > A)S(R > A);
+Site 3: aa836–844 KPK(P > A)KV(P > A)ER.
+"ARPC1B (HsCD00370547), ARPC3 (HsCD00288065), Sra1 (CYFIP1; HsCD00042136), PIR121 (CYFIP2; HsCD00045545), Nap1 (NCKAP1; HsCD00045562), Abi2 (HsCD00042752) and HSPC300 (C3orf10; HsCD00045008) cloned into pENTR233 or pDONR221 (Harvard Institute of Proteomics)."
+pDONR221WAVE-2 (German Resource Centre for Genome Research).
+hsAbi1d (BC024254; Geneservice) fulllength and Abi1dΔ- SH3 (aa 1–417) were cloned into pENTR11.
+Human Lpd (AY494951) was ampliﬁed and cloned into pENTR3C (Invitrogen)6.
+"ARPC1BmVenus-P2AARPC3-mTurq2 was generated by Gibson assembly (NEB Hiﬁ, New England Biolabs, Inc.) in pENTR3C (Invitrogen)."
+pENTR3CARPC1B-mVenusP2A-ARPC3mTurq2 was transferred to pRK5Myc-DEST for CMV driven expression in mammalian cells.
+"cDNAs in pENTR or pDONR were transferred into tagged mammalian expression vectors using Gateway® recombination (Invitrogen): pCAGDEST- EGFP, pCAGDEST- EGFPT2A-Puro, pCAGEGFP-DESTIRES-Puro, pRK5Myc-DEST, pCAGMyc-DEST- IRESPuro, pCAGMyc-DESTIRES-BLAST, pCAGMyc-DESTIRES-PuroT2A-LifeActEGFP, pCDNA3.1mScarlet-IDEST, pV16gateway (MBP), which were generated by traditional restrictionbased cloning or Gibson assembly (NEB"
+"Hiﬁ, New England Biolabs, Inc.) cloning."
+"The SH3 domains of Abi1d, cAbl and eight fragments covering the entire length of NHSL1 were cloned by PCR and restriction cloning into pGEX6P1 and puriﬁed from E. coli on Glutathionesepharose (Amersham)."
+"Dominant active Myctagged Rac1Q61L in pRK5Myc was kindly provided by Laura Machesky (Beatson Institute, Glasgow, UK)."
+"The NHSL1 shRNA constructs (shRNA A: TGCCCATTCTGTGATGATTA shRNA B: TGGATAAATCCCTATCAAGA), ControlshRNA:"
+GCCGATAACCGAGAATACC were cloned into pLL3.7Puro which is derived from pLL3.7 with the addition of a puromycin selection.
+All constructs were veriﬁed by sequencing.
+The sequences of all primers used are supplied as Supplementary Data 1.
+Northern blot and qPCR.
+The murine multiple tissue northern blot (Ambion) was probed with a 650 bp NHSL1 fragment covering GSTNHSL1-6 (Fig.
+"1a, e) according to the manufacturer’s instructions."
+For Fig.
+"2b, RNA was extracted from cells using the RNeasy Mini Qiagen kit."
+"cDNA was prepared using Superscript IV (Invitrogen) and expression levels of NHSL1 were quantiﬁed using standard curves relative to GusB using genespeciﬁc primers (PrimeTime qPCR primer assays, IDT): GusB: Mm.PT.39a.22214848 (primer 1: ACCACACCCAGCCAATAAAG; primer 2: AGCAATGGTACCGGCAG)"
+NHSL1 (detecting all isoforms): Mm.PT.58.41480072 (primer 1: TCTTCATCTTGATAATCGTCGCA; primer 2: CAAGCTCAACCTCAAATCAGTG) in combination with Bioline Sensimix on a Roche lightcycler 480II qPCR machine.
+For Supplementary Fig.
+"5b, mRNA levels were measured using the Cells to Ct Kit (Applied Biosystems) and an NHSL1speciﬁc Taqman assay (Hs00325291_m1, Applied Biosystems)."
+The amount of remaining mRNA was calculated with the deltaCt method.
+Generation of CRISPR cell lines.
+"Stable CRISPR NHSL1 knockout B16F1 cell lines were made by knocking in a stop codon into exon 2, which is common to all isoforms."
+"We utilised a CRISPRCas9 nickase approach with two sgRNA’s, which minimises potential offtarget effects."
+"To generate the donor plasmid for homologydirected repair, genomic DNA from B16F1 cells (QiaAmp genomic DNA kit, Qiagen) was ampliﬁed with primers adding a stop codon at the beginning of exon 2 of NHSL1 common to all isoforms and cloned into the targeting plasmid pHR110PA1(5′MCSEF1-RFP + Puro3′MCS) (SBI)."
+Two closely spaced NHSL1speciﬁc sgRNA(sgRNA1: caccgTCGACTCTCCTCGTCCAAGT; sgRNA2: caccgCTGTCCACTACACGGCACCA) were designed using http://crispr.mit.edu and cloned into pX330S2 (Addgene 58778) and pX330A_D10A_x2 (Addgene 58772) harbouring the Cas9 nickase and combined into one plasmid using a golden gate reaction33.
+"B16F1 cells were transiently transfected with both targeting plasmid and nickase plasmid including 2 sgRNA’s and after selection with puromycin, clonal cell lines were generated by limited dilution and reduction in expression of NHSL1 tested in a western blot."
+Cells were transiently transfected with a plasmid driving Cre recombinase expression from a PGK promoter and FACS sorted for the absence of RFP.
+Genomic DNA was extracted using Qiagen QIAamp DNA mini kit and knockout cell lines genotyped using primers amplifying insertion of the selection cassette into the correct locus: left armspeciﬁc (primer 1: aggtctacactctgccgttctggg; primer 2: CGGCCGCtgTCTAGATTTTTGAa) or to detect WT or KO alleles after Cre mediated excision of the selection cassette: Primer pair 1: (gccccagcctcgcaatg; ccgtccagcaagcccagaga); primer pair 2: (aatcctcgtgccccagcctc; gcggacgtgcaagccagtta).
+Antibodies.
+"Immobilised GSTNHSL1-6, 7, 8 (mAb) or GSTaa387-546NHSL1 (pAb) (Fig."
+1f) were digested with Prescission protease (Amersham Pharmacia Biotech) and used to produce monoclonal antibodies by PEG induced fusion of primary B cells isolated from popliteal lymph nodes with the mouse myeloma cell line P3X63-Ag8.
+"The NHSL1 monoclonal antibody was subcloned twice (clone C286F5E1; IgG1) and used for western blot: undiluted hybridoma supernatant, immunoﬂuorescence: 50 μg/ml."
+GSTaa387-546NHSL1 (Fig. 1f)
+"After digestion with Prescission protease (Amersham Pharmacia Biotech) was used to raise polyclonal rabbit antiserum #4457 (Eurogentec) and used for western blot: 1:2000, immunoﬂuorescence: 1:400."
+Commercial primary antibodies:
+"EGFP, western blot: 1:2000 (11814460001, Roche); Myc, western blot: 1:5000 (M5546, 9E10, Sigma); MBP, western blot: 1:10,000 (E8032S, New England Biolabs); Abi1, western blot: 1:1000, immunoﬂuorescence: 1:100 (MBL, clone 1B9, D1473), Scar/WAVE1, immunoﬂuorescence: 1:50 (BD 612276), Scar/WAVE2 rabbit mAb, western blot: 1:1000, immunoﬂuorescence: 1:50 (D2C8, CST 3659), ARPC2, western blot: 1:1000, immunoﬂuorescence: 1:100 (07227-I100UG, Millipore)."
+"Secondary antibodies: HRPgoat antirabbit, western blot: 1:2000 (P044801, AgilentDako); HRPgoat antimouse, western blot: 1:2000 (P044701, AgilentDako)."
+Cell culture and transient transfections.
+"HEK 293FT cells (ThermoFisher Scientiﬁc R70007) and B16F1 mouse melanoma cells (ATCC CRL6323) were cultured in Dulbecco’s modiﬁed Eagle’s medium containing penicillin/streptomycin, Lglutamine and 10% fetal bovine serum."
+"MCF10A cells (ATCC CRL- 10317) were cultured41 in DMEM/F12, 5%(v/v) horse serum, 20 ng/ml EGF, 0.5 μg/ml hydrocortisone, 100 ng/ml Choleratoxin, 10ug/ml insulin, and penicillin/streptomycin."
+Ag8 cell (ATCC CRL6323) were cultured in OptiMEM.
+Transient transfections in HEK 293FT cells were carried out using Lipofectamine 2000 (Invitrogen) according to the manufacturer’s instructions.
+Transient transfections with B16F1 cells were carried out with XtremeGene 9 (Roche) and replaced with normal growth media 4–6 h after transfection.
+"All cells were maintained at 37 °C in 5% (MCF10A) or 10% (B16F1, HEK 293FT) CO2."
+"Immunoprecipitations, pulldowns and western blotting."
+"Cells were lysed in glutathione Stransferase (GST) buffer (50 mM TrisHCL, pH 7.4, 200 mM NaCl, 1% NP40, 2 mM MgCl2, 10% glycerol, NaF +Na3VO4, and complete mini tablets without EDTA, Roche)."
+"Lysates were incubated on ice for 15 min and centrifuged at 17,000 × g at 4 °C for 10 min. Protein concentration was then determined (Pierce BCA protein assay kit; ThermoFisher Scientiﬁc)."
+"For pulldowns, the lysate was incubated with either glutathione beads (Amersham), GFPtrap or Myctrap beads (Chromotek)."
+"For immunoprecipitations, Protein A bead precleared lysates were incubated with primary antibody or nonimmune control IgG followed by 1% BSA blocked protein"
+A beads (Pierce) or protein A/G beads (Alpha Diagnostics).
+"For GFPtrap or Myctrap pulldowns, beads were blocked with 1% BSA before incubating with lysates for 1–2 h or 30 min, respectively."
+"Following bead incubation, all beads were washed with lysis buffer, separated on SDS- PAGE gels and transferred onto ImmobilonP membranes (EMD Millipore)."
+"Western blotting was performed by transferring at 100 V, 350 mA, 50 W for 1.5 h before blocking in 5%(w/v) BSA, 5%(w/v) or 10%(w/v) milk in TBST (20 mM Trisbase, 154 mM NaCl, 0.1% (v/v) Tween20, pH7.6), overnight followed by 1 h incubation with the indicated primary antibodies followed by HRP conjugated secondary antibodies (Dako) for 1 h at NATURE COMMUNICATIONS | (2021) 12:5687 | https://doi.org/10.1038/s41467021-259166 | www.nature.com/naturecommunications 17 ARTICLE NATURE COMMUNICATIONS | https://doi.org/10.1038/s41467021-259166 room temperature with three washes of TBST, TBST + 0.5 M NaCl and TBST + 0.5% (v/v) TX100."
+Blots were developed with the ImmunStar WesternC ECL kit (BioRad Laboratories) using the BioRad Imager and ImageLab software.
+Farwestern blot.
+GST and MBP fusion proteins were puriﬁed from BL21CodonPlus
+"(DE3)-RP E. coli (Stratagene) using glutathione (GE Healthcare) or amylose (New England Biolabs, Inc.) beads."
+"Puriﬁed GSTNHSL1 fragments were separated on SDSPAGE and transferred onto PVDF membranes, blocked in 5% BSA/TBST and overlayed with 10 μg/ml of puriﬁed MBP, MBPAbi fulllength or MBPAbi-deltaSH3 in 5% (w/v) BSA, TBST and MBP were detected with 1:10,000 MBP antibodies in 5% BSA/TBST, E8032S (New England Biolabs)."
+Immunoﬂuorescence and livecell imaging.
+"For immunoﬂuorescence analysis cells were plated on nitric acidwashed coverslips (HechtAssistant), coated with 25 μg/ml laminin (L2020, Sigma) and ﬁxed 10 min with 4% paraformaldehydePHEM (60 mM PIPES, 25 mM HEPES, 10 mM EGTA, 2 mM MgCl2, 0.12 M sucrose)."
+"For NHSL1 mAb and ARPC2 pAb (07227-I100UG, Millipore): cells were permeabilised for 2 min with 0.1% TritonX-100/TBS and quenched for 10 min with 1 mg/ml Sodium Borohydride; For NHSL1 pAb: cells were permeabilised with 0.05% saponin, 2 h at RT."
+"For all antibodies: cells were blocked with 10% normal goat serum and 10% BSA, TBS."
+"Secondary antibodies: goat antirabbit, or antimouse Alexa488 or 568, 1:500 (Invitrogen) and mounted in Prolong Diamond (Invitrogen)."
+For Alexaﬂuor 488 or 568conjugated Phalloidin staining: cells were ﬁxed 20 min with 4% paraformaldehydePHEM at room temperature.
+Cells were permeabilised for 2 min with 0.1% TritonX- 100/TBS and washed in a TBS solution.
+"Cells were stained with Alexa ﬂuor 488 or 568conjugated Phalloidin (Invitrogen) diluted 1:250 in 10% normal goat serum/TBS for 1 h at room temperature, then washed three times in a TBS solution, and mounted in a Prolong Diamond (Invitrogen)."
+Cells were imaged on an IX81 Olympus microscope (see below).
+Equal exposure times were used for all cells and all conditions for a given experiment.
+Intensity values were then normalised for each experiment to the mean of the control condition for that experiment.
+"Cell proﬁler analysis of Factin content in HEK293 cells was analysed using Cellproﬁler 2.0 software (http://www.cellproﬁler.org, Broad Institute)."
+"Brieﬂy, cells were identiﬁed based on nuclear DAPI and phalloidin staining."
+FActin content was measured using the MeasureObjectIntensity module.
+Data was exported into a text ﬁle and analysed with Graphpad Prism.
+Values obtained from control samples (GFP or scrambled shRNA) were set to 100%.
+"For low magniﬁcation phase contrast and high magniﬁcation imaging, cells were plated on 12well tissue culture dishes or glassbottom dishes (Ibidi; 81218200) coated with 10 µg/ml ﬁbronectin (F1141, Sigma) or coated with 25 µg/ml laminin (L2020, Sigma)."
+"For immunoﬂuorescence and live imaging, an IX 81 microscope (Olympus), with a Solent Scientiﬁc incubation chamber, ﬁlter wheels (Sutter), an ASI XY stage, Cascade II 512B camera (Photometrics), and 4× UPlanFL, 10× UPlanFL, ×60 PlanApochromat NA 1.45, or 100× UPlanApochromat S NA 1.4 objective lenses controlled by MetaMorph software or an LSM 880 Airyscan confocal microscope (Zeiss) with an environmental chamber (37 °C; 10% CO2) driven by Zen Black software with a ×63 oil (NA 1.4) PlanApochromat objective (Zeiss) was used."
+Supplementary movies were prepared in Metamorph 6.1 and Fiji 1.53c.
+Adobe Photoshop CS6 and Creative Cloud for the presentation of the images in the ﬁgures.
+Scratch assays and quantiﬁcation of random cell migration speed and persistence.
+Conﬂuent control or shRNA MCF10A cells were scratched with a P200 pipette tip and treated with mitomycin C to inhibit cell proliferation.
+Movies were acquired for 12 h with a frame every 5 min.
+The scratch area was measured at 0 and 12 h with Fiji.
+"For random migration, B16F1 cells were plated onto ﬁbronectin or laminincoated 12well dishes for 3 h before imaging for 24 h"
+"Every 5 min. Cells were manually tracked by their nuclear position using the Manual Tracking plugin (FIJI), and the cell track coordinates were imported into Mathematica for analysis using the Chemotaxis Analysis Notebook v1.6β (G. Dunn, King’s College London, UK6)."
+Speed and persistence measurements from tracking data are susceptible to positional error (due to manual tracking) as well as biological noise (from cell morphology changes or nuclear repositioning).
+"To address the former, we estimated the positional error by tracking the same cell multiple times (each time blinded to the previous track), and then calculated the time interval (as an integer multiple of the frame interval) over which this error fell to at least below 10% of the average displacement measurement."
+We selected the smallest multiple for which this condition was true to avoid error from sampling too infrequently to measure the true path length.
+This time interval is termed the ‘usable time interval’ and denoted δt (see Fig.
+"2c, upper panel)."
+"In order to be consistent over data sets, we adopted a usable time interval that was common to all data within a dataset."
+This was δt ¼ 15 (equivalent to a multiple of 3 frame intervals or taking a displacement measurement every 3 frames) for the CRISPR knockout and overexpression experiments on ﬁbronectin and δt ¼ 25 min (equivalent to a multiple of 5 frame intervals or taking a displacement measurement every 5 frames) for the CRISPR 2 knockout and rescue experiments on laminin.
+This ‘usable time interval’ approach also helps to reduce the impact of biological noise on the data.
+"Cell speed is the displacement (dn) over δt, where n denotes which interval of the track we are measuring (for example n ¼ 1 would indicate the ﬁrst 15 min, n ¼ 2 the second 15 min etc.)."
+The Mean Track Speed (MTS) is then the average cell speed over the whole track length (Fig.
+"2c, upper panel, boxed equation)."
+Cell persistence has traditionally been deﬁned by the directionality ratio: the net (straight line) displacement divided by the total track length.
+"This measurement comes with additional issues to noise, namely that it is dependent on interval size, track length and cell speed."
+"The interval size is determined by the usable time interval, δt for the same reasons as previously described."
+"To address the dependence on track length, we measured persistence over another time interval, denoted Δt, which is an integer multiple of δt (see Fig."
+"2c, lower panel)."
+"This multiple is called the Time Ratio (TR, equal to Δt=δt)."
+"This approach allows tracks of different total length to be compared equally, without skewing average results."
+"Persistence is deﬁned by the Mean Track Persistence (MTP), equal to the average directionality ratio over the intervals Δt (Δt ¼ 60 min for TR = 4), multiplied by a normalisation factor, α, which sets the maximum persistence to 1 (a perfectly straight migration path) and the minimum persistence to that of a purely random walk."
+"The directionality ratio is the net displacement, DN, where N is the interval number for each Δt (i.e. N ¼ 1 indicates the ﬁrst 60 min, N ¼ 2 indicates the second 60 min etc.)"
+Divided by the track length over Δt (the sum of the displacements dn) (Fig.
+"2c, lower panel, boxed equation)."
+"Finally, the issue of cell speed dependence can be addressed by selecting an appropriate combination of δt and TR."
+"Plotting MTS as a function of δt reveals that speed falls off exponentially with increasing time interval, for all intervals which yield displacement values above the level of track noise."
+The mean persistence proﬁle is a plot of the MTP obtained for all possible choices of δt for a given TR.
+"In the mean persistence proﬁle, the persistence normally starts off low at small speed intervals and rapidly increases to a peak before falling off again."
+"To avoid noise, we chose a suitable δt and TR combination allowing the MTP to be measured close to this peak."
+"The same TR must be used across all data sets so they are directly comparable; thus, another compromise must be that the TR chosen is appropriate for all populations."
+"After some investigation, a δt of 15 and TR of 4 was chosen, for the CRISPR knockout and overexpression experiments on ﬁbronectin and a δt of 25 and TR of 2 was chosen for the CRISPR 2 knockout and rescue experiments on laminin."
+These combinations ensured in both cases that tracks were long enough to contain multiple intervals.
+"The direction autocorrelation, directionality ratio over time and mean square displacement was calculated and plotted using Excel macros provided in Gorelik and Gautreau, Nature Methods 201418 according to the instruction provided."
+Quantiﬁcation of lamellipodia dynamics.
+"B16F1 cells expressing LifeActEGFP plated on laminin were imaged for 10 min at 5 s per frame using an LSM 880 Airyscan confocal microscope or IX81 Olympus microscope and cells were automatically segmented and protrusion vectors at each pixel along the cell edge calculated using MATLAB code kindly provided by Andrew Jamieson and Gaudenz Danuser (UT Southwestern, USA): the Windowingprotrusion analysis package from the Danuser lab can be downloaded at: https://github.com/DanuserLab/WindowingProtrusion."
+Tracking the direction of migration of these cells allowed us to automatically quantify membrane protrusion speed only of the lamellipodium in the direction of migration.
+"Custom written MATLAB code and Metamorph journals were used to calculate protrusion speed, the longest uninterrupted lamellipodium and the length distribution of protrusions from all frames of the movie from the leadingedge automatic proﬁling data."
+This custom written MATLAB code which has not been published before is available as Supplementary Software 1.
+The length of the longest uninterrupted lamellipodium was quantiﬁed as follows: Each data point in Fig.
+"10c, d represents the mean length of the longest uninterrupted lamellipodium quantiﬁed from all frames of a movie of one LifeActEGFP expressing B16F1 cell (5 s intervals, 10 min duration)."
+The lamellipodia protrusion speed (Fig. 10e) and lamellipodia stability (standard deviation of the cone speed) (Fig. 10f) of randomly migrating B16F1 cells plated on laminin were quantiﬁed by automatically segmenting the cell outline in each frame of the movies and calculating protrusion vectors at each pixel along the cell edge.
+Lamellipodia protrusion speed was quantiﬁed in a cone of 60° centred about the direction of migration as quantiﬁed by tracking the centroid of the cell.
+The standard deviation of the cone speed shows the ﬂuctuation of speeds along the edge and serves as a measure for the stability of lamellipodial protrusions.
+"Fiji and Excel were used to quantify the LifeActEGFP intensity, total cell area, lamellipodia width and length and microspike number per length of lamellipodium in the ﬁrst frame of each movie."
+Lamellipodia length was quantiﬁed using the Fiji plugin “measure_ROI” (http://www.optinav.info/MeasureRoi.htm: Measure_Roi_Curve.java).
+"This plugin measures the length of curved objects: For each particle, it ﬁrst ﬁnds the points with the largest separation."
+These are designated as the endpoints.
+"Next, it computes two curves that connect the endpoints along the left and right sides of the object."
+These curves are parameterised by arc length.
+The left and right side curves are averaged for each arc length to create a centerline curve.
+The arc length of the centerline curve is reported as the length of the object.
+Lamellipodia width was measured using the line tool in Fiji to draw lines at 90° angle relative to the leading edge at ten roughly equal distance points along the lamellipodium and these were averaged.
+Supplementary movies were prepared in Fiji 1.53c.
+FRETFLIM analysis of Arp2/3 activity.
+"B16F1 cells plated on nitric acid cleaned No 1.5 coverslips (Hecht Assistent), coated with 25 μg/ml laminin (Sigma) were ﬁxed for 20 min with 4% paraformaldehydePHEM (60 mM PIPES, 25 mM 18 NATURE COMMUNICATIONS | (2021) 12:5687 | https://doi.org/10.1038/s41467021-259166 | www.nature.com/naturecommunications NATURE COMMUNICATIONS | https://doi.org/10.1038/s41467021-259166 ARTICLE HEPES, 10 mM EGTA, 2 mM MgCl2, 0.12 M sucrose), permeabilised for 2 min with 0.1% TX100/PBS, background ﬂuorescence quenched with 1 mg/ml sodium borohydride in PBS and mounted in ProLong Diamond (ThermoFisher)."
+"Timedomain FLIM data were acquired via a timecorrelated singlephoton counting (TCSPC) custombuilt, automated, 2photon microscope."
+"Brieﬂy, this consisted of a Modelocked femtosecond Ti:Sapphire laser (Coherent Vision II; Coherent (UK) Ltd, Scotland) for ﬂuorescence excitation, a dualaxis scanner, a photomultiplier detector (HPM100-06; Becker & Hickl GmbH, Germany) and TCSPC electronics (SPC830; Becker & Hickl GmbH, Germany) controlled by LabView 2018."
+"Images were acquired using a 1.3 NA ×40 Plan Fluor Oil Immersion objective (Nikon Instruments Ltd, UK)."
+Fluorescence lifetimes were determined for every pixel using a modiﬁed Levenberg–Marquardt ﬁtting technique42.
+"The FLIM images were batch analysed by running an inhouse exponential ﬁtting algorithm (TRI2 software) written in LabWindows/CVI 2017 (National Instruments, Austin, TX)42, which can be obtained here: https://ﬂimlib.GitHub.io."
+The ﬁtting parameters for each timeresolved intensity image were recorded in individual output ﬁles and used to generate a distribution of lifetime and an average ﬂuorescence lifetime.
+FLIM/FRET analysis was performed to investigate Arp2/3 activity using the Arp2/3 biosensor (ARPC1BmVenus-P2AARPC3-mTurq2).
+"FRET efﬁciencies were calculated based on the equation E = 1 − τ the donor in the absence and presence of the acceptor, respectively."
+"DA are the measured ﬂuorescence lifetimes of D, where τ D and τ DA/τ"
+Analysis of Factin retrograde ﬂow.
+"Cells transfected with LifeActGFP were harvested and replated onto 35 mm glassbottomed dishes (Ibidi), precoated with laminin (L2020, Sigma)."
+The dishes were centrifuged for 2 min at 200 × g and incubated for ≥3 h before imaging.
+The cells were then counterstained with 0.5 μM SiRDNA (Spirochrome) for ~30 min prior to imaging.
+This stain was not used in actin ﬂow experiments but was used for cell tracking in the quantiﬁcation of lamellipodial dynamics experiments.
+"Videos were captured on a Zeiss LSM880 Airyscan confocal microscope driven by Zen Black edition software at 5× zoom, 0.4–1.0% laser power and frame rate of 3.22 s with at least 20 frames per movie."
+Preprocessing.
+Zen Black edition software was used to Airyscanprocess the raw data with automatic parameter ﬁtting.
+"Lamellipodia were segmented in Fiji by using a semiautomated method: frameby-frame normalisation of contrast and Gaussian blur, and then correcting for photobleaching over the entire movie by histogram matching and using the result to construct a binary mask determined by semiautomatic thresholding with manual editing to remove certain features such as vesicles."
+This mask was then multiplied by the corresponding contrastenhanced original Airyscan movie (not blurred or bleachcorrected) to obtain a segmented movie which formed the input for PIV.
+"Movies were truncated when loss of focus, lamellipodial collapse or signiﬁcant translocation of the cell out of the ﬁeld of view occurred."
+PIV analysis.
+PIV analysis was carried out using a custom MATLAB script which can be downloaded here: https://github.com/stemarcotti/PIV.
+The script utilises a twodimensional crosscorrelation algorithm adapted from classical PIV and is published here in refs.
+"43,44."
+The method relies on searching for a region of interest (source area) in a larger region of a subsequent frame (search area) and ﬁnding the best match by crosscorrelation.
+"For our analysis we optimised the region size, overlap and correlation threshold using a source box size of 0.3 μm, search box size of 0.5 μm, grid size (deﬁning the overlap) of 0.2 μm and correlation coefﬁcient threshold of 0.5."
+"Subsequently, spatial and temporal convolution are used to interpolate the displacement vectors over all the pixels in the image."
+"Here, the spatial kernel size was 3 μm (σ = 0.5 μm) and the temporal kernel size was 15 s (σ = 6 s)."
+"All colourmaps presented were generated by setting a maximum ﬂow velocity of 3 μm/min, and the number of vector arrows displayed is arbitrarily deﬁned by the distance between them to represent the interpolation."
+Statistical analyses.
+Data were tested for normal distribution by D’Agostino & Pearson and Shapiro–Wilk normality tests.
+"Statistical analysis was performed in Prism v7, v8, v9 (GraphPad Software) using a Student’s ttest, Oneway ANOVA or nonparametric Kruskal–Wallis test with appropriate posthoc tests (see ﬁgure legends in each case)."
+P values < 0.05 were considered signiﬁcant.
+Reporting summary.
+Further information on research design is available in the Nature Research Reporting Summary linked to this article.
+Data availability The imaging datasets generated are available from the corresponding author on reasonable request.
+All quantiﬁcations and full western blots from this study are provided in the Source Data ﬁle.
+Source data are provided with this paper.
+Code availability Custom written MATLAB code which has not been published before is available as supplementary software 1.
+This zip ﬁle contains the additional Matlab codes and instructions for “Quantiﬁcation of lamellipodia protrusion speed” and for “Analysis of length distribution of lamellipodia” to be used in conjunction with the Windowing- protrusion analysis package from the Danuser lab which can be downloaded at: https:// github.com/DanuserLab/WindowingProtrusion.
+The PIV Matlab script can be downloaded here: https://github.com/stemarcotti/PIV.
+The TRI2 software for FLIM analysis can be downloaded here: https://ﬂimlib.GitHub.io Received: 24 August 2018; Accepted: 3 September 2021;

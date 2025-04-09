@@ -1,0 +1,89 @@
+"In vivo 37: 19751979 (2023) doi:10.21873/invivo.13294 Determination of the Possible Target Genes of Hepatomaderived Growth Factor in Hepatoma Cells HIRAYUKI ENOMOTO, TAKASHI NISHIMURA, SHINYA FUKUNUSHI, HIDEYUKI SHIOMI and HIROKO IIJIMA Division of Hepatobiliary and Pancreatic Diseases, Department of Gastroenterology, Hyogo Medical University, Nishinomiya, Japan Abstract."
+"Background/Aim: We identified a new growth factor, hepatomaderived growth factor (HDGF), which is a presumed growthstimulating factor of hepatocellular carcinoma (HCC)."
+"Recently, we identified two microRNAs (miR6072 and miR3137) induced by HDGF, which were also found to be associated with the prognosis of HCC patients."
+This study aimed to identify the target genes of these HDGFrelated microRNAs.
+Materials and Methods: A public database was searched for candidate target genes of HDGFrelated microRNAs.
+"Using the microarray system, the genes whose expression changed in response to HDGF administration were determined."
+"Finally, a public cancer genomics database was searched for genes that were induced by HDGF and associated with the prognosis of HCC."
+"Results: A total of 1,132 genes were identified as common target genes of the 2 HDGFrelated microRNAs."
+"Among these genes, a microarray system showed that the expression of 6 genes was increased (≥1.5fold) or decreased (≤0.67fold) after HDGF administration."
+"Using a cancer genomics database, two of the six genes were found to be related to the prognosis of HCC."
+"A high expression of alkylglycerone phosphate synthase (AGPS) was significantly associated with a poor survival (p=0.0025, 0.0063 and 0.0081 for the 1-, 3and 5 year survival, respectively)."
+"A high expression of the shroom family member 4 (SHROOM4) gene was found to be significantly associated with a better survival (p=0.003, Correspondence to: Hirayuki Enomoto, Division of Hepatobiliary and Pancreatic Diseases, Department of Gastroenterology, Hyogo Medical University, Mukogawacho1-1, Nishinomiya, Hyogo 6638501, Japan.  "
+"Tel: +81 798456472, Fax: "
+"+81 798456474, email: enomoto@hyomed.ac.jp Key Words: Hepatomaderived growth factor, hepatocellular carcinoma, target genes, prognosis."
+This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BYNC-ND) 4.0 international license (https://creativecommons.org/licenses/bync-nd/4.0).
+"0.0006 and 0.0006 for the 1-, 3- and 5 year survival, respectively)."
+Conclusion: This study identified potential target genes of HDGFrelated microRNAs that were associated with the prognosis of HCC.
+"Hepatocellular carcinoma (HCC) is one of the most common malignant diseases in the world (1, 2).  "
+"Despite recent advances in drug therapy for HCC, the prognosis of HCC remains unsatisfactory (35), and new approaches for the treatment of HCC are still sought.  "
+We searched for a novel growth factor that stimulated the proliferation of hepatoma cells and identified the new molecule hepatomaderived growth factor (HDGF) (6).
+"We previously reported that HDGF functions as a growthstimulating factor for hepatic cells and that its high expression is associated with a poor prognosis in patients with HCC (6, 7)."
+"In addition, HDGF has been suggested to play a significant role in various kinds of malignancies (812)."
+"To assess the mechanisms underlying HDGFrelated cellular proliferation, we searched for microRNAs that were commonly induced in two hepatoma cell lines after HDGF stimulation and suggested that miR6072 and miR3137 were associated with HDGFinduced cellular proliferation (13).  "
+"However, which genes are influenced by these microRNAs is unclear.  "
+This study therefore investigated which genes are targeted by the abovementioned HDGFrelated microRNAs and relate to the prognosis of HCC patients.
+Materials and Methods that were two microRNAs Cell culture and RNA extraction.
+"In our previous study (13), we identified induced by HDGF administration and associated with the prognosis of patients with HCC using two hepatoma cell lines (HepG2 and SKHep1 cells)."
+"The summary of the cell culture methods was as follows: hepatoma cells were inoculated in 12well dishes (Corning International, Tokyo, Japan) containing Dulbecco’s Modified Eagle Medium (DMEM) supplemented with 10% fetal bovine serum (SigmaAldrich Japan, Tokyo, Japan).  "
+"Twentyfour hours after the inoculation of the cells, recombinant HDGF (Abcam, Tokyo, Japan; 1975 in vivo 37: 19751979 (2023)"
+Figure 1.
+Flowchart to determine the genes that were commonly targeted by the two HDGFrelated microRNAs and whose expression changed in response to hepatomaderived growth factor (HDGF).  
+A public database was used to explore the candidate target genes of HDGFrelated microRNAs.
+"Using the microarray system with the panels of 27,457 mRNAs, the genes that were commonly targeted by the two HDGFrelated microRNAs in hepatoma cell lines were then determined."
+Product code: ab132259) was administered at a final concentration of 100 ng/ml in the medium.
+"After 48 h of HDGF stimulation, total RNA was isolated using the miRNeasy Mini Kit (QiagenJapan, Tokyo, Japan) according to the manufacturer’s instructions."
+Total RNA was also collected from control cells without HDGF administration.
+Identification of mRNAs suggested being targeted by HDGFrelated microRNAs (Figure 1).
+"A public database that provided target genes of microRNAs was accessed (Target Scan Human, version 8.0)"
+"(14, 15) and the candidate target genes of HDGFrelated microRNAs (miR3137 and miR6072) were explored.  "
+"In this database, suggested target genes of miR6072 were provided as those of miR6072/68913p."
+"Using the microarray system with panels of 27,457 mRNAs (Human Oligo chip 25k Ver.  2.10, Toray, Japan), the mRNA expression of HDGFtreated cells was compared with that of control (untreated) cells and the mRNAs that were increased (≥1.5fold) or decreased (≤0.67fold) "
+After HDGF administration were determined.
+The SKHep1 hepatoma cell line was also used to search for genes whose expression changed after HDGF stimulation.
+"In this manner, we determined the possible target genes of HDGFrelated microRNAs in hepatoma cell lines (Figure 1)."
+Association of the mRNAs with the survival of primary liver cancer.
+We used public cancer genomics datasets (UCSC Xena platform)
+(16) to assess whether the determined possible target genes of the HDGFrelated microRNAs were related to the prognosis of patients with liver cancer.
+"Based on the data in the system (GDC TCGA Liver Cancer), a total of 351 patients were categorized into two groups—a highexpression group and a lowexpression group— Table I. Possible common target genes of the two HDGFrelated microRNAs (miR6072 and miR3137)."
+Commonly increased mRNAs
+AGPS: Alkylglycerone phosphate synthase ENGASE:
+Endobeta-Nacetylglucosaminidase NHS: NanceHoran syndrome (congenital cataracts and dental anomalies) RALGAPB:
+"Ral GTPase activating protein, beta subunit (noncatalytic) SHROOM4: Shroom family member 4 ZNF641: Zinc finger protein 641 according to the median expression.  "
+The overall survival curve between the two groups was evaluated by the logrank test.
+A pvalue <0.05 was considered to represent a significant difference in the prognosis.
+"Results Using the public database, we identified a total of 1,132 genes suggested being common target genes of the two HDGFrelated microRNAs."
+"Using the microarray system, we next evaluated whether the mRNA expression of such genes was altered in response to the administration of HDGF protein (Figure 1).  "
+"Among the 1,132 genes, no gene was found to be commonly decreased (≤0.67fold) in the two hepatoma cell lines, whereas the expression of six genes was 1976 Enomoto et al: Target Genes of HDGFrelated microRNAs Figure 2."
+Association of the six genes targeted by HDGFrelated microRNAs with the fiveyear survival of hepatocellular carcinoma (HCC).
+"Using the UCSC Xena platform, we investigated whether the expression of the six genes targeted by the HDGFrelated microRNAs was related to the prognosis of patients with HCC."
+The KaplanMeier survival curves are shown.
+(A)
+"Alkylglycerone phosphate synthase (AGPS), (B) endobeta- Nacetylglucosaminidase (ENGASE), (C) NanceHoran syndrome (NHS), (D) Ral GTPase activating protein, beta subunit, noncatalytic (RALGAPB), (E) Shroom family member 4 (SHROOM4), and (F) Zinc finger protein 641 (ZNF641)."
+Commonly increased (≥1.5fold) in the two hepatomaderived cell lines after stimulation with HDGF (Table I).  
+We further evaluated the association of the six candidate genes with the prognosis of patients with liver cancer.
+"Using the cancer genomics database with 351 HCC patients, we found that a high expression of alkylglycerone phosphate synthase (AGPS) was significantly associated with a poor survival (p=0.0025, 0.0063 and 0.0081 for the 1-, 3- and 5 year survival, respectively)."
+"In contrast, a high expression of the shroom family member 4 (SHROOM4) gene was significantly associated with a favorable prognosis and better survival (p=0.003, 0.0006 and 0.0006 for the 1-, "
+"3- and 5 year survival, respectively)"
+(Figure 2).
+"Discussion Because of advancements in antiviral treatments and lifestyle changes, the etiologies of HCC have been changing in recent years (17, 18); however, HCC is still a highly frequent malignancy, remaining a major health concern worldwide (1, 2), and research regarding the mechanisms of HCC growth is important."
+We discovered the original growth factor HDGF and reported microRNAs that were induced by HDGF and associated with a poor prognosis (13).  
+This study further explored genes that were considered to be common targets of HDGFrelated microRNAs and associated with the prognosis of HCC patients.
+"AGPS is a protein involved in lipid synthesis, and previous studies have suggested that it affects intracellular lipid metabolism and contributes to the proliferation of malignant cells, including hepatoma cells (1922).  "
+"Our findings are consistent with these reports, and our current study is the first report to show the possible involvement of AGPS in the prognosis of patients with HCC."
+"Recent studies have suggested the contribution of HDGF to lipogenesisrelated events, including the proliferation of cancer cells (23, 24); thus, the induction of AGPS may be involved in HDGFrelated metabolic changes and the growth stimulation of hepatoma cells."
+"A high expression of SHROOM4 was associated with an improved prognosis, although its expression was induced by HDGF stimulation.  "
+"Regarding cancer cell proliferation, positive feedback systems are generally the focus of much attention.  "
+"However, negative feedback systems are considered to be involved in various physiological aspects, including cancer cell proliferation (25, 26)."
+We suspect that the induction of SHROOM4 may be a negative feedback 1977 in vivo 37: 19751979 (2023) reaction in response to the stimulation of HDGF.
+"However, the reason for the favorable outcome in cases with a high expression of SHROOM4 should be further investigated."
+Several limitations associated with the present study warrant mention.
+"We previously reported two HDGFrelated microRNAs, and the current study focused on the common target genes of these microRNAs; however, additional studies on genes without an association with these microRNAs are also needed."
+"Although the relationships of AGPS and SHROM4 genes with the prognoses of patients with HCC have barely been reported, functional assays of the two genes in hepatoma growth have not been conducted."
+"In summary, this study focused on the genes targeted by HDGFrelated microRNAs and identified two genes with possible associations with the prognosis of patients with HCC."
+Funding This research was funded in part by grants from the Grantsin-Aid for Scientific Research (KAKENHI21K07994).
+Conflicts of Interest The Authors declare that there are no conflicts of interest in association with this study.
+"Authors’ Contributions HE: Study design, data analysis, funding acquisition and the original draft writing; TN, SF, HS: performed the experiments and data analysis; HI: study design, data interpretation, review and editing the manuscript.  "
+All Authors read and edited the manuscript and approved the final version of the manuscript.
+Acknowledgements
+"The Authors thank Kanazawa N, Matsushita Y, Kiriyama H, Fujii S, Higuchi Y, Nagumo E, Mega Y, Kido H and Shimoji Y (Hyogo Medical University) for their technical and secretarial assistance."

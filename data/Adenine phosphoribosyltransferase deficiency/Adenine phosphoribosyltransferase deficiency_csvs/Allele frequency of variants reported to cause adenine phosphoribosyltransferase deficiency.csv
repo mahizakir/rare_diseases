@@ -1,0 +1,46 @@
+European Journal of Human Genetics (2021) 29:1061–1070 https://doi.org/10.1038/s41431020-008056 A R T
+"I C L E Allele frequency of variants reported to cause adenine phosphoribosyltransferase deﬁciency Hrafnhildur L. Runolfsdottir Brynjar O. Jensson7 ● Gudny A. Arnadottir Hildigunnur Katrinardottir7 ● Daniel Gudbjartsson7,8 ● Unnur Thorsteinsdottir1,7 ●"
+"Patrick Sulem 7 ● Kari Stefansson1,7 ● Runolfur Palsson 1,2 7 ● Sigurjon A. Gudjonsson7 ● Run Fridriksdottir7 ● 3,4,5 ● Olafur S. Indridason1 ● Vidar O. Edvardsson 1,6 ● 1,2 ● John A. Sayer Received: 24 March 2020 /"
+Revised: 1 December 2020 /
+Accepted:
+21 December 2020 / Published online: 11 March 2021 ©
+"The Author(s), under exclusive licence to European Society of Human Genetics 2021."
+"This article is published with open access Abstract Adenine phosphoribosyltransferase deﬁciency is a rare, autosomal recessive disorder of purine metabolism that causes nephrolithiasis and progressive chronic kidney disease."
+"The small number of reported cases indicates an extremely low prevalence, although it has been suggested that missed diagnoses may play a role."
+We assessed the prevalence of APRT deﬁciency based on the frequency of causallyrelated APRT sequence variants in a diverse set of large genomic databases.
+"A thorough search was carried out for all APRT variants that have been conﬁrmed as pathogenic under recessive mode of inheritance, and the frequency of the identiﬁed variants examined in six population genomic databases: the deCODE genetics database, the UK Biobank, the 100,000 Genomes Project, the Genome Aggregation Database, the Human Genetic Variation Database and the Korean Variant Archive."
+The estimated frequency of homozygous genotypes was calculated using the HardyWeinberg equation.
+"Sixtytwo pathogenic APRT variants were identiﬁed, including six novel variants."
+"Most common were the missense variants c.407T>C (p.(Met136Thr)) in Japan and c.194A>T (p.(Asp65Val)) in Iceland, as well as the splicesite variant c.400 + 2dup (p.(Ala108Glufs*3)) in the European population."
+Twentynine variants were detected in at least one of the six genomic databases.
+"The highest cumulative minor allele frequency (cMAF) of pathogenic variants outside of Japan and Iceland was observed in the Irish population (0.2%), though no APRT deﬁciency cases have been reported in Ireland."
+The large number of cases in Japan and Iceland is consistent with a founder effect in these populations.
+There is no evidence for widespread underdiagnosis based on the current analysis.
+"Introduction Adenine phosphoribosyltransferase (APRT) deﬁciency (OMIM 102600; 614723) is a rare disorder of purine Supplementary information The online version of this article (https:// doi.org/10.1038/s41431020-008056) contains supplementary material, which is available to authorized users."
+* Runolfur Palsson runolfur@landspitali.is
+"Faculty of Medicine, School of Health Sciences, University of Iceland, Reykjavik, Iceland Internal Medicine and Rehabilitation Services, Landspitali—The National University Hospital, Reykjavik, Iceland 3 Renal Unit, Newcastle upon Tyne Hospitals NHS Foundation Trust, Newcastle upon Tyne, UK metabolism that is inherited in an autosomal recessive manner."
+"In the absence of functional APRT activity, adenine is oxidized to 2,8dihydroxyadenine (DHA) by xanthine oxidoreductase (xanthine dehydrogenase/oxidase)."
+Poor solubility of DHA in the urine leads to stone formation and crystal nephropathy.
+"Radiolucent kidney stones are the most common clinical manifestation, Institute of Genetic Medicine, Newcastle University, Central Parkway Newcastle, Newcastle upon Tyne, UK 5 NIHR Biomedical Research Centre, Newcastle upon Tyne, UK 6 Children’s Medical Center, Landspitali—The National University Hospital, Reykjavik, Iceland deCODE genetics, Reykjavik, Iceland School of Engineering and Natural Sciences, University of Iceland, Reykjavik, Iceland 1062 H. L. Runolfsdottir et al. followed by chronic kidney disease which has already progressed to endstage kidney disease in 15–20% of patients at the time of diagnosis of APRT deﬁciency."
+"The disorder is ﬁrst recognized in the In some cases, setting of disease recurrence following kidney transplantation."
+"Treatment with the xanthine oxidoreductase inhibitors reduces DHA synthesis and excretion, alleviating stone burden and kidney injury."
+"And febuxostat allopurinol The human APRT gene, located on chromosome 16q24, is 2466 base pairs long and contains ﬁve exons encoding a 180 amino acid protein (NP_000476.1)."
+The Human Gene Mutation Database (HGMD) lists 51 reported diseasecausing variants to date.
+"More than 300 cases have been reported worldwide, the majority of patients coming from Japan, France and Iceland."
+"The most commonly reported variants are a missense variant in patients from exon 3, c.407T>C (p.(Met136Thr)), Japan, a T insertion at the splice donor site of intron 4, c.400 + 2dup (p.(Ala108Glufs*3)), among Europeans, and another missense variant in exon 3, c.194A>T (p.(Asp65Val)), which accounts for all known cases of APRT deﬁciency in Iceland."
+"Individuals homozygous for diseasecausing variants have invariably been shown to have completely abolished enzyme activity, while heterozygous carriers have partial enzyme function but do not appear to have any biochemical or clinical abnormalities."
+"Although the small number of reported cases worldwide indicates that APRT deﬁciency is an extremely rare condition, the large number of patients identiﬁed in Japan, France and Iceland has raised concerns that the prevalence may be underestimated in many populations."
+"Furthermore, the commonly reported occurrence of delayed or missed diagnosis suggests that lack of awareness among clinicians might contribute to the low number of reported cases."
+"However, a founder effect is a likely explanation for the high frequency of a single pathogenic variant and disease prevalence in the Icelandic and Japanese populations."
+"As wholegenome and wholeexome sequencing have become more widely available, studies on the molecular basis of rare diseases using openaccess populationbased data have provided further insight into their pathogenesis and allele frequency."
+"The aim of this study was to search for all APRT variants conﬁrmed as diseasecausing under inheritance that have been reported in the literature and registered in online disease databases to date, and assess the frequency of these variants in a set of large population genomic databases containing information on individuals from diverse geographic locations and ethnic groups."
+Recessive mode of Methods Ethical considerations The study was approved by the National Bioethics Committee of Iceland (NBC 09072) and the Icelandic Data Protection Authority.
+"Search for known pathogenic APRT sequence variants In order to identify all sequence variants documented to cause APRT deﬁciency, we performed a search strategy using three major sources through February 2020: (1) Medical literature and databases."
+"We performed a webbased search and assessement of APRT variants in reported cases of APRT deﬁciency using PubMed, HGMD, OMIM, and ClinVar."
+(2) Expanded web sources.
+"To search for APRT variants, we also assessed the full text of published articles, conference abstracts and book chapters identiﬁed using PubMed® (https://pubmed.ncbi.nlm.nih.gov/) and Google® (http://www.google.com), with the terms “APRT deﬁciency”, “adenine phosphoribosyltransferase deﬁciency”, “2,8dihydroxyadenine”, “2,8dihydroxyadeni- nuria” and “2,8DHA”."
+(3) APRT Deﬁciency Registry of the Rare Kidney Stone Consortium (RKSC; http://www.rarekidneystones. Org).
+Information on APRT variants was obtained from the APRT Deﬁciency Registry and through personal communication to the research group.
+The RKSC was established in 2009 to study hereditary kidney stone disorders and has since maintained a private database with clinical information on participating individuals.
+"As of September 2019, 63 patients from eight countries were enrolled in the APRT Deﬁciency Registry, 56 of whom had undergone genetic testing with the identiﬁcation of biallelic diseasecausing APRT variants."
+"The variants are reported using nomenclature recommended by the Human Genome Variation Society, including"

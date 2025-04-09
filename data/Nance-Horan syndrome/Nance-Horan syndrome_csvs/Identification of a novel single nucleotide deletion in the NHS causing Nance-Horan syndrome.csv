@@ -1,0 +1,298 @@
+Huang et al.
+"BMC Ophthalmology (2025) 25:92 https://doi.org/10.1186/s12886025-03933z BMC Ophthalmology Identification of a novel single nucleotide deletion in the NHS causing NanceHoran syndrome Teng Huang1,2,3†, YaNan Liu1,2,3†, DanTong Ding1,2,3, Qiao Wang1,2,3, QiuLing Xie1,2,3, XueChuan Miao1,2,3, Chuan Qin5, XiuFeng Huang4* and Jin Li1,2,3*"
+Abstract Background Nance–Horan syndrome (NHS) is a rare Xlinked dominant disorder caused by pathogenic variants in the NHS gene on chromosome Xp22.2Xp22.13.
+"Clinical manifestations consist of congenital cataracts, along with dysmorphic facial features and dental anomalies and, in certain instances, intellectual disability."
+This study aimed to identify the genetic cause responsible for NHS in a Chinese family with four individuals primarily presenting with congenital cataracts.
+"Methods Genomic DNA was collected from six family members, including four affected individuals (three females and one male) from a twogeneration family."
+The family history and clinical data were documented.
+"Wholeexome sequencing was performed on the proband, and candidate pathogenic variants were filtered through a series of screening steps and validated by Sanger sequencing."
+Cosegregation analysis was conducted to confirm the pathogenicity of the identified variant.
+Results Genetic analysis revealed a novel frameshift pathogenic variant in NHS gene (c.1735delA: p. R579Gfs*91) 
+Present in all four affected members.
+"All affected members exhibited congenital cataracts, congenital ptosis, strabismus, high myopia as well as dental and facial anomalies, and more severe characteristic features observed in the male patient."
+These clinical manifestations were consistent with the phenotype of NHS.
+"Conclusion This study identified a novel NHS pathogenic variant in a Chinese family, expanding the mutational spectrum of NHS."
+"Contrary to previous reports of female carriers exhibiting mild symptoms, we demonstrated severe ocular phenotypes in three affected females."
+These findings will assist in providing genetic counseling for NHS patients.
+†Teng Huang and YaNan Liu contributed equally to this work.
+Jin Li and XiuFeng Huang contributed equally cocorresponding authors.
+*Correspondence: XiuFeng Huang hxfwzmc@163.com Jin Li lijin_wz@eye.ac.cn Full list of author information is available at the end of the article © The Author(s) 2025.  
+"Open Access This article is licensed under a Creative Commons AttributionNonCommercial-NoDerivatives 4.0 International License, which permits any noncommercial use, sharing, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if you modified the licensed material."
+You do not have permission under this licence to share adapted material derived from this article or parts of it.
+"The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material."
+"If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder."
+"To view a copy of this licence, visit h t t p : / / c r e a t"
+I v e c o m m o n s.  
+O r g / l 
+I c e n s e s / b y - n c - n d / 4. 0 /. RESEARCHOpen
+"AccessPage 2 of 13 Keywords NanceHoran syndrome, NHS, Congenital cataracts, Xlinked disease Introduction Nance–Horan syndrome (NHS) (OMIM: 302350), also known as cataractdental syndrome, is an extremely rare Xlinked genetic disorder.  "
+"It is characterized by congenital cataracts, dental anomalies, facial dysmorphic features, and, in some cases, intellectual disability and behavioral issues .  "
+The disease was first described by Nance et al.  And Horan and Billson in 1974 .  
+Hemizygous males with NHS typically exhibit a more pronounced phenotype than their heterozygous female counterparts.
+"Affected males often present with congenital cataracts, microcornea, nystagmus, microphthalmia, glaucoma, screwdrivershaped incisors, diastema, developmental delays, and intellectual disability .  "
+Lateral brachymetacarpalia and congenital cardiac defects have also been observed.
+"In contrast, heterozygous females tend to have a milder and more varied phenotype, including posterior Ysutural cataracts, facial features, and characteristic dental abnormalities."
+The NHS gene (NHS actin remodeling regulator; OMIM: 300457; NM_001291867; NP_001278796.1) is located on the X chromosome at region Xp22.2Xp22.13 .  
+It contains nine coding exons and encodes at least seven isoforms due to alternative splicing .  
+"The NHS protein, identified as a regulator of actin assembly and cell morphology, contains four conserved nuclear localization signals."
+"Though the precise function of the NHS gene is not fully understood, it is highly expressed in the midbrain, retina, lens, tooth primordia, craniofacial mesenchyme, and heart, where it plays a key role in regulating the development of these tissues .  "
+"Moreover, the NHS gene shows a high level of conservation among vertebrates."
+"Based on the latest update of the CatMap database (accessed on June 12, 2024, h t t p s : / /"
+C a t - m a p.
+w u s t l.
+"E d u / ) , more than 70 pathogenic v an r i an n t s have been reported in the NHS gene associated with NHS and Xlinked cataract 40 (OMIM: 302200)."
+"In NHS, the most frequently pathogenic variants are small deletions (22/72) and nonsense mutations (20/72), followed by large deletions (9/72), small insertions (8/72), and splice site mutations (6/72).  "
+"Less commonly pathogenic variants are missense mutations (2/72), balanced translocations (2/72), chromosomal inversions , intragenic genomic rearrangements , and segmental duplications-triplications, with one case each in the CatMap database."
+"Congenital cataracts are the principal manifestations of NHS and the most readily observable features in the early stage among patients with the Nance–Horan syndrome, thereby presenting a challenge for ophthalmologists in terms of early and prompt diagnosis.  "
+"In this study, a clinical and genetic analysis of a Chinese family with congenital cataracts, dental and craniofacial abnormalities was performed.  "
+"Wholeexome sequencing (WES), Sanger sequencing, and bioinformatics analysis were employed to identify and characterize novel variants in the NHS gene.  "
+"By identifying the pathogenic variant in this family, the spectrum of known pathogenic variants and clinical manifestations associated with NHS can be further expanded, providing assistance for genetic counseling for patients."
+"Materials and methods Subjects and sample collection The Ethics Committee of Wenzhou Medical University’s Eye Hospital granted approval for this study (approval number 2021239-k209), and adhered to the guidelines of the Helsinki Declaration regarding research involving kinship and DNA samples.  "
+Each participant underwent a detailed written informed consent process.  
+"All patients and their family members underwent thorough ocular clinical examinations and systemic physical tests by qualified ophthalmologists, who also provided clinical diagnoses, in order to ensure the accuracy and reliability of the research."
+"With the cooperation of proband and her families, peripheral blood samples or oral mucosal samples were collected for further research and analysis.  "
+"Following the manufacturer’s instructions, genomic DNA was extracted using either the Thermo Fisher Invitrogen™ Kit (MagMAX™ DNA MultiSample Ultra 2.0 Kit, Thermo Fisher Scientific, Norway) or the QIAGEN Blood DNA extraction kit (QIAGEN, Germany)."
+"Wholeexome sequencing and bioinformatics analysis To conduct the analysis, DNA samples obtained from individuals affected by the condition underwent comprehensive Wholeexome sequencing (WES).  "
+"This process utilized the Twist Human Core Exome Kit (Twist Bioscience, USA) and the NovaSeq 6000 platform (Illumina, San Diego, USA) for the sequencing procedure.  "
+"The detailed protocols for nextgeneration sequencing and data analysis, including variant annotation and pathogenicity prediction, as well as the use of prediction tools and population frequencies have been described in previously published literature .  "
+"Briefly, the Burrows–Wheeler Aligner tool (BWA) was used to align the shortread sequence data to the hg19 human reference genome, and variant calling was performed with GATK according to the best practice guidelines.  "
+ANNOVAR (http://wannovar.wglab.org/) was employed for variant annotation.  
+The allele frequencies Huang et al.
+"BMC Ophthalmology (2025) 25:92-Page 3 of 13 of the identified variants within the population were crosschecked using data from Genome Aggregation Database (gnomAD v4.1.0, h t t p : / / g n o m a d ."
+B r o a d 
+I n s t i t u t e.
+"O r g /), Exome Aggregation Consortium (ExAC, h t t p : / / e"
+X a c .
+B r o a d
+I n s t i t u t e.
+"O r g /) , MAGIC cohort of PSI Genomics Co, and China Metabolic Analytics Project (ChinaMAP, http://www.mbiobank.com/) .  "
+The pathogenic potential of variants was evaluated following the 2015 guidelines of the American College of Medical Genetics and Genomics (ACMG).
+The access to the aforementioned databases was completed as of June 2023.
+Sanger sequencing was validated by designing primers specific to the target DNA fragment (Supp. Table S1) and then amplifying via polymerase chain reaction (PCR).  
+"Subsequently, an ABI 3730xl sequencer (Applied Biosystems, USA) was utilized for Sanger sequencing.  "
+The MutationMapper software was employed to align the acquired sequences with the reference sequence.
+Results Clinical assessments
+"The proband (III:1), a 9year-old female, along with her sister (III:2, 8years-old), visited the Cataract Department of the Eye Hospital of Wenzhou Medical University due to bilateral lens opacity."
+Their mother (II:6) and brother (III:3) also suffered from the same symptoms.  
+"The younger brother had undergone cataract surgery, whereas no ocular or facial abnormalities were identified in other family members (Fig. 1A)."
+"The proband was born prematurely by 20 days, with normal weight and height at birth, and her parents were not consanguineous.  "
+"The mother had no history of infection, medication use, or exposure to any radiation environment during the pregnancy with the proband and the perinatal period.  "
+"She was diagnosed with congenital cataracts, congenital ptosis, exotropia, and congenital heart disease (aortic valve stenosis and patent ductus arteriosus) at the age of over one year."
+She underwent surgical treatment for congenital heart disease at the age of 2.
+"According to her mother’s description, her height and weight grew very slowly before the surgery."
+"At the age of 6, she received surgical treatment for bilateral congenital blepharoptosis.  "
+"At the age of 7, she underwent surgical treatment for exotropia.  "
+"Physical examination revealed mild facial abnormalities, including a broad and high forehead, anteverted nares, small mouth, mildly long ears, prominent and posteriorly rotated ears."
+Her incisors presented a slightly screwdriver-like shape and mulberrylike shaped molars.  
+"The proband had a defect in the right upper central incisor, and the possibility of trauma was excluded (Fig. 2ae)."
+The ophthalmic examination results of the subject (III:1) indicated that she had bilateral congenital cataracts and congenital ptosis.  
+"The slitlamp and CASIA2 OCT (Tomey Corporation, Nagoya Japan) examinations of the anterior segment revealed lens opacification in the posterior embryonic nucleus, which presented a radial pattern (Fig. 2fg)."
+"The corneal diameters of both eyes were 10.5 mm in the right (OD) and 10.4 mm in the left (OS), the axial lengths were OD 25.66 mm and OS 24.95 mm (Table 1).  "
+There was a significant posterior staphyloma and tigroid fundus alterations (Fig. 2hi).  
+"The subject underwent cataract surgery in our hospital, and the bestcorrected visual acuity (BCVA) of both eyes on the first day after the operation was OD 0.2 and OS 0.5."
+"The younger sister (III:2) had a normal delivery around term, but measurements at birth could not be obtained.  "
+"The mother had no history of infection, medication use, or exposure to any radiation environment during the pregnancy with III:2 and the perinatal period."
+"At the age of 5, she presented to a local hospital for surgical treatment due to exotropia."
+"During this period, she was identified with congenital cataracts and congenital ptosis.  "
+"Physical examination revealed mild facial abnormalities, including a broad and high forehead, prominent nasolabial sulci, mildly long ears, and posteriorly rotated ears.  "
+"Her incisors presented a slightly screwdriverlike shape and mulberrylike shaped molars, and there was a wide diastema between the incisors (Fig. 3ae).  "
+"Like the proband, she presented to our hospital for surgical treatment of congenital cataracts."
+"The morphology of the lens opacities was demonstrated through intraoperative video screenshots and CASIA2 anterior segment OCT, which were located posterior to the embryonic nucleus, with a slightly lesser degree of opacity in the left eye (Fig. 3fg)."
+"The corneal diameters of both eyes were 11.3 mm for the right eye (OD) and 11.9 mm for the left eye (OS), and the axial lengths were OD 26.70 mm and OS 26.23 mm (Table 1).  "
+Posterior segment Bscan ultrasonography and wideangle fundoscopy indicated obvious posterior staphyloma and tigroid fundus changes (Fig. 3hi).  
+"She received cataract surgery in our hospital, and the BCVA on postoperative day 1 was OD 0.6 and OS 0.2."
+"The brother (III:3) was also a fullterm normal delivery, but measurements at birth could not be obtained.  "
+"During the pregnancy with III:3 and perinatal period, there was no history of infection, medication use or exposure to radiation environments.  "
+"At the age of 5, he had undergone surgery for bilateral congenital cataracts at a local hospital, and the type of lens opacity could not be assessed.  "
+"Physical examination revealed a long and narrow face, broad and high forehead, anteverted nares with high insertion of the columella, small mouth, downturned corners of the mouth, broad philtrum, maxillary prognathism, mildly long and prominent ears, and borderline Huang et al."
+BMC Ophthalmology (2025) 25:92-Page 4 of 13 Fig. 
+1 Pedigrees of the families with NHS mutation.  
+"A: Squares indicate men and circles women; black and white symbols represent affected and unaffected individuals, respectively."
+Proband was indicated by arrow.
+"+/− indicates heterozygous individual, −/− indicates individual testing negative, +/0 indicates hemizygote testing positive, −/0 indicates hemizygote testing negative."
+B: Sequencing results of NHS mutation in affected and unaffected individuals.
+C: The IGV plots of the proband lowset ears.  
+"His incisor presented a screwdriverlike shape and his molars had a mulberrylike shaped, with a wide diastema between the incisors (Fig. 4ae).  "
+"Additionally, he had mild bilateral flatfoot abnormalities.  "
+"The brother (III:3) did not show any signs of intellectual disability, but he had a marked stutter when speaking.  "
+"Ophthalmic examination showed horizontal nystagmus, congenital ptosis, and exotropia, and the visual acuity examination was not cooperative."
+The axial lengths were OD 25.68 mm and OS 26.32 mm (Table 1).
+Ultrasonography of the posterior segment and fundus photography showed marked posterior staphyloma and tigroid fundus (Fig. 4fg).
+"The mother (II:6) of the proband, a 30year-old female, also suffered from bilateral congenital cataracts, congenital ptosis, and strabismus.  "
+"Due to missing the optimal surgical period, she did not undergo cataract surgery, and currently only has light perception in her left eye (Table 1)."
+"She had visited the outpatient department of our hospital for high myopia, but the specific examination reports have been lost.  "
+"She and her three children share similar facial shapes, broad and high foreheads, mildly long ears, and specific manifestations of the teeth were not collected."
+"According to the mother (II:6), her parents had none of the aforementioned ocular or facial manifestations, and her parents were not related by consanguinity."
+"Clinical photographs, cytogenetic, and molecular studies of the patients were performed with informed consent."
+Huang et al.
+BMC Ophthalmology (2025) 25:92-Page 5 of 13 Fig.
+2 
+The clinical phenotypes and ophthalmological examinations of the affected proband (III:1).  
+(ab) Facial phenotype of proband (III:1).  
+III:1 had mild enlarged pinnae and bulbous nose.
+(c) The proband presents with the phenotype of congenital ptosis in both eyes.
+(de) Representative dental abnormalities of the proband.
+Intraoral images demonstrating screwdrivershaped incisors and mulberrylike molars.
+"There is a defect in the right maxillary central incisor, and trauma has been excluded as the cause."
+(f) Photograph of the proband.
+The phenotype of the proband was documented by ophthalmic operating microscope photography before surgery.
+(g) The CASIA2 anterior segment photography reveals the morphology of the cataract in the crosssection of the lens.
+(h) Bscan ultrasound of both eyes showing prominent posterior staphyloma.
+"(i) Presented preoperative wideangle fundus photography of both eyes of the proband, which suggested a tigroid fundus."
+"OD, right eye; OS, left eye Huang et al."
+BMC Ophthalmology (2025) 25:92 Height (at last examination)
+Weight (at last examination) BCVA (logMAR) Ocular features Facial abnormalities (30.14%) Dental abnormalities (18.44%)
+Table 1 Clinical symptoms of the female carriers and the affected males.
+Abbreviations:
+"F, female; M, male; y, year; M, month; D, day; N/K, not known; LP, light perception; “+”, positive; “-”, negative; PO, postoperation; AXL, axial length in mm and age of measurement; SD, standard deviation (Reference to the children’s growth standards issued by the National health commission of China in 2024)"
+Characteristics Age of onset/sex III 1 (proband) 1 year/F III 3 4 year/M Disease Phenotype III 2 5 year/F 122.0 cm(-2.46SD) 123.5 cm(-0.92SD) 120.5 cm(-0.04SD) 21.2 kg(-2.44SD) 23.2 kg(-0.78SD) 20.5 kg(-0.93SD) N/K Page 6 of 13 II 6 19 year/F 155.0 cm (OD/OS)
+Congenital cataracts Cataract surgery Congenital ptosis (1.42%)
+Strabismus Nystagmus High myopia (4.26%) AXL (age)
+Longnarrow face (7.80%) Broad and high forehead Anteverted nares 0.2/0.5 (PO 1d)
+25.66/24.95 (9y) + (slight) + (slight) Small mouth 0.6/0.2 (PO 1d)
+"26.70/26.23 (8y) + (slight) - (prominent nasolabial sulci) N/K 25.68/26.32 (6y) + (with high insertion of the columella) N/K / LP N/K N/K + (slight) N/K N/K + (with downturned corners, broad philtrum, maxillary prognathism)"
+Mildly long ears Screwdriver shaped incisors (5.67%)
+Wide diastema in incisors (5.67%) Mulberrylike molars (3.19%) + (rotated posteriorly and prominent) + (rotated posteriorly) + (ears in a borderline lowset) + (Flatfoot) N/K N/K N/K N/K Cardiac defects (1.77%) Hand and foot abnormalities (1.42%) Mental retardation (7.45%) Genetic analysis The study identified a novel pathogenic NHS variant in this family.  
+"The sequencing results showed an onebase pair deletion (A) at nucleotide 1735 in exon 7 of the NHS, which would lead to a frameshift at codon 579 and premature termination of translation (c.1735delA: p. R579Gfs*91) "
+(Fig. 1C).  
+"This single nucleotide deletion leads to a frameshift alteration, which also predicts a truncated protein.  "
+"This variant was verified through Sanger sequencing of the affected mother, her younger siblings, and her grandparents (Fig. 1B).  "
+"This variant has not been reported in gnomAD, the ExAC database, MAGIC database or in ChinaMAP database (Table 2).  "
+"However, the c.1735delA variant could be categorized as pathogenic according to the American College of Medical Genetics and Genomics (ACMG) criteria (PVS1 + PM2 + PM6 + PP1) "
+(Table 2).  
+The proband’s mother (II:6) carried this variant and transmitted it to her two daughters and one son.  
+"However, none of her (II:6) elder siblings or parents exhibited any similar ocular or facial abnormalities."
+"Thus, it could not be excluded that the mother (II:6) inherited the condition through germinal mosaicism.  "
+"The identified variation in this study causes a small deletion (chrX:17743956_1743966) of exon 7 of the NHS gene isoform 1 (NM_198270), isoform 2 (NM_001136024), isoform 3 (NM_001291867) and isoform 4 (NM_001291868), while having no effect on the other gene isoforms by searching the bioinformatics website (https://genome.ucsc.edu) (Fig. 5A).  "
+The encoded domain structure of NHS was depicted in Fig. 
+"5B, and the corresponding region of the variant was marked.  "
+"Through sequence alignment of the NHS protein among different species, it was determined that p. R579 is highly conserved in various species (Fig. 5C)."
+Huang et al.
+BMC Ophthalmology (2025) 25:92-Page 7 of 13 Fig.
+3 
+The clinical phenotypes and ophthalmological examinations of the proband’s affected sister (III:2).
+(ab)
+"The facial phenotype of III:2, with mild enlarged pinnae and a bulbous nose."
+(c) Both eyes of III:2 manifested the phenotype of congenital ptosis.
+(de) Representative dental abnormalities of III:2.  
+Intraoral images demonstrating screwdrivershaped incisors and mulberrylike molars.
+(f) The phenotype of III:2 was documented by ophthalmic operating microscope photography before surgery.
+(g) The CASIA2 anterior segment photography reveals the morphology of the cataract in the crosssection of the lens.
+(h) Bscan ultrasound of both eyes showing prominent posterior staphyloma.
+"(i) Presented preoperative wideangle fundus photography of both eyes of the proband, and the result indicated a tigroid fundus Discussion In this study, we describe the clinical and molecular genetic analysis of a Chinese family exhibiting NHS."
+We carried out wholeexome sequencing to detect functional candidate genes and identified a novel single nucleotide deletion (c.1735delA: p. R579Gfs*91) in NHS.
+"In our pedigree, the proband (III:1), her mother, and her younger siblings, all presented with ocular manifestations of Huang et al."
+BMC Ophthalmology (2025) 25:92-Page 8 of 13 Fig.
+4 The clinical phenotypes and ophthalmological examinations of the proband’s affected borther (III:3).
+(ab) III:3 representative facial dysmorphology of the NHS patients.
+"III:3 had a long and narrow face, and the ears were anteverted, with a bulbous nose."
+© III:3 presents with the phenotype of congenital ptosis in both eyes.
+(de) Representative dental abnormalities of the III:3.
+Intraoral images demonstrating screwdrivershaped incisors and mulberrylike molars.
+(f) Bscan ultrasound of both eyes showing prominent posterior staphyloma.
+"(g) Fundus images of the III:3, with unclear optic atrophy and tigroid fundus Table 2 Analysis of pathogenic variants in NHS Gene Position Nucleotide change Predicted amino acid change (GRCh37/hg19) NHS chrX:17,743,956– 17,743,966 c.1735delA p. R579Gfs*91 XD Inheritance Population frequency prediction ACMG Classification GnomAD_exome ExAC MAGIC ChinaMAP (PVS1 + PM2 + PM6 + PP1) Abbreviations: GnomAD_exome, GnomAD All individuals exome allele frequency; ExAC, Exome Aggregation Consortium; MAGIC, Myopia Associated Genetics and Intervention Consortium project cohort of PSI Genomics Co; ChinaMAP, China Metabolic Analytics Project; ACMG, American College of Medical Genetics and Genomics; XD, Xlinked dominant iheritance; “-”, Data not available; P, Pathogenic; congenital cataracts, congenital ptosis, and high myopia, along with dental anomalies and facial abnormalities.  "
+NHS is characterized by significant phenotypic heterogeneity.  
+"Previous studies have shown that patients with different pathogenic variants exhibit diverse phenotypes, and there is no distinct genotypephenotype correlation .  "
+"The affected male patients in this report had phenotypes similar to those previously reported for NHS males, particularly regarding dental and facial abnormalities."
+"Unlike NHS females, who are typically carriers with Huang et al."
+BMC Ophthalmology (2025) 25:92-Page 9 of 13 Fig. 
+5 Schematic diagram of NHS gene isoforms by searching the bioinformatics website (https://genome.ucsc.edu) and ( h t t p s : / / w w w.
+U n i p r o t.
+O r g ) .  
+A: The blue solid squares represent the exon.
+The black line represents intron.
+"The identified variation in this study causes a small deletion (chrX:17743956_1743966) of exon 7 of the NHS gene isoform 1 (NM_198270), isoform 2 (NM_001136024), isoform 3 (NM_001291867) and isoform 4 (NM_001291868), while having no effect on the other NHS gene isoforms."
+B: The schematic show the encoded domain structure of NHS.
+"WHD, WAVE homology domain; Disord, Disordered; C: Sequence alignments of the NHS protein among different species."
+The Arginine at p. R579 were highly conserved in various species.
+"The positions of the variant amino acids are indicated by red box subtle facial appearances and mild Ysuture central lens opacities that do not require surgery, the female subjects in our reported family exhibited clinical manifestations similar to the affected brother (III:3), including lens opacities that severely impact vision, congenital ptosis, and high myopia, as well as dental and facial abnormalities."
+"In NHS, dental and facial abnormalities are relatively common phenotype.  "
+The three affected children we observed all exhibited screwdriverlike incisors and mulberry-like molars.  
+"According to CATMAP, as of June 2024, a total of 282 NHS patients have been reported (136 females and 140 males, 6 with unknown sex) (Supp."
+"Table S2), Among them, 52 patients (18.44%) were described as having dental abnormalities, including 12 female carriers.  "
+"Among the 52 patients with dental abnormalities, 16 patients (5.67%) were reported to have screwdriverlike incisors, 16 patients (5.67%) had wide diastema, and 9 patients (3.19%) had mulberrylike molars."
+"Other dental abnormalities included maxillary malformations (4 cases), conical incisors (4 cases), persistent primary teeth (3 cases), malocclusion (2 cases), supernumerary and abnormallyshaped teeth (2 cases), and tooth agenesis Huang et al."
+BMC Ophthalmology (2025) 25:92-Page 10 of 13 (1 case).  
+"The proband’s brother exhibited a typical long and narrow face associated with NHS, and all three affected individuals had mild ear abnormalities."
+"In previous reports of NHS, 85 patients (30.14%) were described as having facial abnormalities.  "
+"Among them, 22 cases (7.80%) were described as having a longnarrow face, 26 cases (9.22%) had prominent and anteverted ears, 10 cases (3.55%) had enlarged pinnae, and 7 cases (2.48%) had bulbous noses."
+"It should be noted that in some NHS families reported in the literature, the pedigrees only reported dental and facial abnormalities in a general way, without further detailed description of their specific phenotypes, making statistical analysis impossible."
+"Congenital cataracts are the most prominent and earlyonset manifestations of NanceHoran syndrome (NHS), leading to severe vision loss and affecting the quality of life.  "
+"The lens opacities the proband and her sister were located in the posterior embryonic nucleus, presenting in a radial pattern (the proband’s lens opacities were distributed along the Ysuture) (Figs. "
+"2 and 3), which severely affected the visual acuity of both individuals.  "
+The proband’s younger brother had already undergone cataract surgery at a younger age due to earlier visionaffecting lens opacities.  
+"According to statistics, among the NHS males with described cataract types, the most common type is nuclear cataract (70.09%, 75/107), followed by total cataract (10.28%, 11/107).  "
+"Among the NHS females with described cataract types, the most common type is Ysuture cataract (45.08%, 55/122), followed by nuclear cataract (28.69%, 35/122), and punctate/dot cataract (9.84%, 12/122).  "
+"It can be concluded that the lens opacities in males are generally more severe than those in females, and they may require earlier surgical intervention."
+"In addition to congenital cataracts, common ocular features associated with NHS include microcornea, microphthalmia, glaucoma, nystagmus, and strabismus ."
+"Among these, the reported cases of microphthalmia (29 in males, 1 in females) and microcornea (61 in males, 25 in females) showed a significantly higher prevalence in male patients than in female patients."
+"However, none of the affected members in this report presented with the classic findings of microcornea, microphthalmia, and glaucoma.  "
+"Instead, they exhibited congenital ptosis (4/282) and high myopia (12/282), which have rarely been presented in previous reports on NHS."
+"Margherita Coccia et al.  (2009) reported a case with a nonsense mutation (c. C742T: p. Arg248X), where the male proband presented with ptosis, but ptosis was not observed in the female carrier."
+Caroline Miller et al. (2021) reported a familial case of NHS disruption due to a translocation t(X; 19) 
+(Xp22.13; q13.1).  
+"The proband presented with short stature, primary amenorrhea, horseshoe kidney, and cleft palate, along with intellectual disability, but she did not have congenital cataracts, only mild myopia and blepharoptosis."
+The recent report was by Li Li et al. 
+"(2024), where a hemizygous variant (c.2519_2520del) was present in a twogeneration family.  "
+"Two females in this family exhibited ptosis of the right upper eyelid, while the other one male and two female patients did not present with this symptom."
+"Further observation of ptosis in the individuals from this study shows that ptosis could be an underreported feature, and expands the ophthalmological NHS phenotype."
+"Unlike previously reported NHS patients with microcornea and microphthalmia , the four affected members in our family exhibited high myopia and increased axial length.  "
+"The proband and her younger siblings all underwent followup IOL Master (Carl Zeiss Meditec, Germany), indicating an axial length of approximately 26.00 mm."
+"Considering their ages between 6 and 9 years, the possibility of further axial length growth cannot be ruled out, and we need to conduct regular follow-up observations."
+"Wenmin Sun et al. (2014) performed whole exome sequencing on probands from 18 Chinese families with congenital cataracts and identified NHS pathogenic variants in four families, one of which had a (c.556G > T: p."
+"E186*) mutation associated with high myopia, but did not provide any pedigree charts or clinical data.  "
+"In another family (c.8531G > A), the proband was reported to have tigroid retinal change, but there was no description of high myopia or axial length."
+"Huajin Li et al.  (2018) reported a small deletion mutation (c.263_266delCGTC: p. V89Wfs*106) in NHS, in which only the proband’s mother had high myopia, but no visual acuity or axial length data were provided."
+"The latest study by Yazhou Huang et al. (2022) identified a heterozygous microdeletion of -0.52 Mb at Xp22.13 in the proband, with two affected individuals showing ocular abnormalities such as microcornea and high myopia.  "
+"Unfortunately, no ocular parameter data were presented.  "
+"Although high myopia has been reported in patients with NHS (12/282), this is the first time that detailed axial length data and related fundus images have been provided.  "
+"Pathological myopia, characterized by excessive axial elongation, can lead to structural changes in the posterior segment of the eye, such as posterior staphyloma, myopic maculopathy, and high myopiaassociated optic neuropathy, all of which can cause progressive visual impairment and a loss of bestcorrected visual acuity .  "
+This study will continue to follow up with this family to detect and prevent the progression of ocular fundus lesions and subsequent visual impairment as early as possible.
+"The proband (III:1) presented with signs of congenital heart disease, including aortic valve stenosis and patent ductus arteriosus, which were not observed in other affected members secondary to sequencing variants.  "
+Huang et al.
+BMC Ophthalmology (2025) 25:92 
+"To our knowledge, this represents the first instance of a female NHS patient with cardiac defects.  "
+"In contrast, cardiac defects have been reported in five male NHS patients (5/282).  "
+"Margherita Coccia et al.  Diagnosed congenital cardiac defects (ductus arteriosus, tetralogy of Fallot, ventriculoseptal defect, and stenosis of a major cardiac vessel) in four out of six affected males in a fourgeneration pedigree."
+The disruption of the promoter led to aberrant transcription of one copy of the NHS gene in this family.
+"Alejandra Damian et al. described a large balanced pericentric inversion inv(X)(p22.13q27.3) that caused a boy to have an overlapping presentation of classical NHS, accompanied by a ventricular septal defect.  "
+"This suggests that the cardiac abnormalities may be influenced by flanking genes, which could modulate the risk of cardiac defects."
+"In pediatric cataract specialist clinics, it is common to encounter children with congenital cataracts, either with or without other ocular abnormalities or as part of multisystem genetic disorders.  "
+"The most common mode of inheritance for congenital cataracts is autosomal dominant, however, they can also be inherited in autosomal recessive or Xlinked patterns .  "
+"NHS is one of the syndromes in which cataracts are inherited in a Xlinked manner, with over 70 cases reported in the literature to date."
+"Due to reduced penetrance, variable expression, and subtle nonocular manifestations that are often overlooked, the actual incidence of NHS in the general population remains uncertain .  "
+"In addition, heterozygous females with NHS typically exhibit similar but less pronounced extraocular features compared to affected males."
+"The process of X chromosome inactivation (XCI) is a crucial developmental event in female mammals, that helps to balance the expression levels of Xlinked genes between the sexes .  "
+"XCI is random, with an equal chance for either X chromosome from the mother or father to be inactivated .  "
+"Deviation from this random pattern of inactivation is termed skewed Xchromosome inactivation (SXCI), which can have clinical implications."
+NHS is ubiquitously expressed in both human and mouse tissues.
+"In situ hybridization studies show that NHS is expressed throughout murine lens development, from the lens placode to the mature lens, which suggests its critical role in ocular development.  "
+The involvement of NHS in various cellular processes may explain the pleiotropic characteristics observed in NHS.  
+"Disruption of NHS expression or translation leads to cataract formation in both humans and mice, which emphasizes its pivotal role in lens development."
+"The NHSA isoform is typically located at the cellular periphery in different tissues, with a particular emphasis on the lens epithelium .  "
+"Proper functioning of intercellular junctions is crucial for both lens development and the preservation Page 11 of 13 of lens homeostasis , and disruption of NHSA expression in the lens epithelium is thought to underlie cataractogenesis in NHS."
+"The identified pathogenic variant in this study, a single-base pair deletion (A) at nucleotide 1735 in exon 7 of NHS, causes a frameshift at codon 579 and premature termination of translation, potentially resulting in a truncated NHS protein."
+"Such truncation mutations often lead to nonsensemediated decay (NMD), which causes the complete loss of the mutated protein."
+"However, it has been reported that some mRNAs with premature termination codons in specific regions can escape NMD, leading to the synthesis of abnormal proteins."
+"In female carriers, the manifestations of NHS are usually milder than in males due to the presence of XCI."
+Previous studies have showed that preferential inactivation of the normal X chromosome and aberrant transcription of NHS contribute to the phenotypic heterogeneity observed in affected families .  
+"Nevertheless, further research is needed to fully understand the underlying pathogenic mechanisms of NHS."
+"In summary, skewed X inactivation is one of the possible pathomechanisms for females with a severe phenotype, and a limitation of this report is that it has not been checked in females."
+"In variant a novel conclusion, (c.1735delA: p. R579Gfs*91) in the NHS gene was identified in a Chinese family, which expands the spectrum of pathogenic variants associated with NanceHoran syndrome.  "
+"Detailed ophthalmological examinations of the affected family members provided valuable data, contributing to a better understanding of the syndrome’s genotypephe- notype correlation and offering insights for future pathogenic variant analyses."
+Supplementary Information
+The online version contains supplementary material available at h t t p s : / / d
+O i.  
+O r g / 1 0 .
+"1 1 8 6 / s 1 2 8 8 6– 0 2 5–0 3 9 3 3 - z. Supplementary Material 1 Supplementary Material 2 Acknowledgements We would like to thank the family involved in this study, and the supporting clinicians and molecular genetics staff for their time and efforts."
+Author contributions XH and JL designed the study; TH wrote the manuscript; TH and YL participated in molecular genetic studies; CQ performed the target NGS; QW and QX collected the patients’ samples; DD analyzed the clinical data; XM analyzed the target NGS data.
+All authors reviewed the final manuscript.
+Funding There was no specific funding for this study.
+Data availability ALL sequencing data has been submitted to NCBI SRA database: PRJNA1097220.
+Huang et al.
+"BMC Ophthalmology (2025) 25:92 Declarations Ethics approval and consent to participate Ethics was approved by the research ethics committee of Wenzhou Medical University Laboratory (approval number 2021239-k209), and all the family members participating in this study gave written informed consent."
+This study adhered to the tenets of the Declaration of Helsinki and was approved by the research ethics committee of Wenzhou Medical University Laboratory.
+Written informed consent forms were obtained from all investigated participants or their guardians if they were under 18 years old Consent for publication Written informed consent has been obtained from all participants and their parents/legal guardians regarding their personal or clinical details along with any identifying images published in this study.
+Competing interests The authors declare no competing interests.
+"Author details 1National Clinical Research Center for Ocular Diseases, Eye Hospital, Wenzhou Medical University, Wenzhou, China 2National Engineering Research Center of Ophthalmology and Optometry, Eye Hospital, Wenzhou Medical University, Wenzhou, China 3State Key Laboratory of Ophthalmology, Optometry and Visual Science, Eye Hospital, Wenzhou Medical University, Wenzhou, China 4Zhejiang Provincial Clinical Research Center for Pediatric Disease, Wenzhou 325027, China 5Institute of PSI Genomics Co., Ltd, Wenzhou, China Received: 6 December 2024 /"
+Accepted: 18 February 2025

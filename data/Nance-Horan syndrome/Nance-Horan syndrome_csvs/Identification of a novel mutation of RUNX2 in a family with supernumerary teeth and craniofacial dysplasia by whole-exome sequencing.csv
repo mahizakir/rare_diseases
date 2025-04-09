@@ -1,0 +1,190 @@
+"Clinical Case Report Medicine® OPEN Identiﬁcation of a novel mutation of RUNX2 in a family with supernumerary teeth and craniofacial dysplasia by wholeexome sequencing A case report and literature review Dan Ma, MDa, b, Xuxia Wang, MD, PhDc, Jun Guo, PhDd, Jun Zhang, MD, PhDa, ∗ , Tao Cai, MD, PhDb, e,∗"
+Abstract Rationale: Supernumerary teeth are those that teeth in excess number than the normal count.
+It is usually associated with genetic syndromes when present in more numbers.
+"Several causal genes, such as APC, NHS, TRPS1, EVC and RUNX2, have been identiﬁed."
+"However, etiology of supernumerary teeth remains largely unclear."
+"Patient concerns: A family with the clinical diagnosis of supernumerary teeth, short stature and craniofacial dysplasia was examined."
+Diagnoses: Molecular genetic analysis found that mutation occurred in the RUNX2 gene.
+"On the basis of this ﬁnding and clinical manifestations, the ﬁnal diagnosis of cleidocranial dysplasia was made."
+"Interventions: Whole exome sequencing (WES) of DNA samples was performed to identify the diseasecausing mutation, including the affected child and mother as well as the healthy father."
+"Outcomes: A novel mutation of RUNX2 (c.473C>A; p. A158E) was identiﬁed in both patients, but not in normal family member and inhouse database containing 3,000 Chinese Han individuals WES."
+"This mutation was further conﬁrmed by Sanger sequencing and predicted to be deleterious by several commonly used algorithms, including SIFT, PPT2, MutationTaster and Proven."
+"Furthermore, phenotypegenotype correlation analyses of all published 239 cases with different mutations in RUNX2 revealed signiﬁcant association of supernumerary teeth and facial dysplasia with the Runt domain of the encoded protein."
+Lessons: This is the ﬁrst WES study to identify genetic cause in Chinese patients with a novel RUNX2 mutation.
+Our ﬁndings expanded the mutation spectrum and clinical features of the disease and facilitated clinic diagnosis and genetic counseling.
+"Abbreviations: CCD = cleidocranial dysplasia, RUNX2 = Runtrelated transcription factor 2, WES = whole exome sequencing."
+"Keywords: cleidocranial dysplasia, phenotype–genotype correlation, RUNX2, supernumerary teeth Editor: N/A."
+This study was supported by the National Natural Science Foundation of China (No. 81371180).
+The authors have no conﬂicts of interest to disclose.
+Supplemental Digital Content is available for this article.
+"A Department of Orthodontics, School of Stomatology, Shandong University, Jinan, Shandong, China, b Experimental Medicine Section, National Institute of Dental and Craniofacial Research, National Institutes of Health, Bethesda, MD, c Department of Oral and Maxillofacial Surgery, School of Stomatology, Shandong University, Jinan, Shandong, d Beijing Key Laboratory for Genetics of Birth Defects, MOE Key Laboratory of Major Diseases in Children, Center for Medical Genetics, Beijing Pediatric Research Institute, Beijing Children’s Hospital, Capital Medical University, National Center for Children’s Health, Beijing, e Institute of Genomic Medicine, Wenzhou Medical University, Zhejiang, China."
+Correspondence:
+"Jun Zhang, Department of Orthodontics, School of Stomatology, Shandong University, Wenhua West Road 441, Jinan, Shandong, 250012, China (email: zhangj@sdu.edu.cn); Tao Cai, Experimental Medicine Section, NIDCR, NIH, 30 Convent Drive, Bethesda, MD 20892 (email: tcai@mail.nih.gov)."
+Copyright © 2018 the Author(s).
+"Published by Wolters Kluwer Health, Inc."
+"This is an open access article distributed under the terms of the Creative Commons AttributionNon Commercial License 4.0 (CCBYNC), where it is permissible to download, share, remix, transform, and buildup the work provided it is properly cited."
+The work cannot be used commercially without permission from the journal.
+Medicine (2018) 97:32(e11328) Received:
+11 March 2018 / Accepted: 4 June 2018 http://dx.doi.org/10.1097/MD.0000000000011328 1.
+Introduction Supernumerary teeth are those that teeth in excess number than the normal count.
+The prevalence of supernumerary teeth is 1.5% to 3.5% in permanent dentition.
+"Supernumerary teeth are usually associated with genetic syndromes, such as Gardner’s syndrome, Nance–Horan syndrome, Trichorhinophalangeal syndrome, cleidocranial dysplasia (CCD), and Opitz BBB/G syndrome."
+"Several causative genes, such as APC, NHS, TRPS1, Runtrelated transcription factor 2 (RUNX2), and MID1, have been identiﬁed to be responsible for the formation of supernumerary teeth."
+"Considering the genetical heterogeneities in affected individuals with supernumerary teeth and craniofacial dysplasia, we applied wholeexome sequencing (WES) and biomedical informatics analysis to identify potential causes for molecular diagnosis at clinic."
+Here we report the identiﬁcation of a novel mutation within the Runt domain of RUNX2 in a familial case with supernumerary teeth and craniofacial dysplasia (part of phenotypes in the disorder of cleidocranial dysplasia) and also present minimeta analysis of phenotype–genotype correlations of the disorder.
+"Cleidocranial dysplasia (CCD; OMIM 119600) is an autosomal dominant inheritable skeletal disorder with an estimated incidence of 1/1000,000 with no gender or ethnic predilection. "
+Ma et al. Medicine (2018) 97:32 Medicine
+"The main phenotypes of CCD are mainly related to clavicular dysplasia, delayed closure or nonclosure of the fontanels, multiple wormian bones (also known as intra sutural bones), short stature, midface hypoplasia, and supernumerary teeth."
+"Other phenotypes, including brachydactyly with hypoplastic distal phalanges or pubic bones, scoliosis, brachycephaly, depressed nasal bridge, are also described in literatures."
+"This disease is often caused by loss function or haploinsufﬁciency of the RUNX2 gene, which plays an important role in the differentiation of osteoblasts and the maturation of chondrocytes."
+"RUNX2 protein contains a Runt domain, a Nterminal stretch of glutamine/alanine repeats (Q/A domain), and a Cterminal proline/serine/threoninerich (PST) domain."
+"It has been reported that chromosomal deletions, translocations, missense, nonsense, splice site mutations and frameshift are the common mutations in RUNX2."
+"To date, more than 182 heterozygous mutations in RUNX2 have been identiﬁed in affected individuals with CCD (HGMD database)."
+"Majority of RUNX2 mutations happened in the Runt domain, and the most common mutations are missense mutations."
+2. Methods 2.1.
+Clinical manifestations A family with the clinical diagnosis of supernumerary teeth and craniofacial dysplasia at School of Stomatology in Shandong University was examined.
+"The proband (III1, indicated by an arrow in the pedigree, Fig. 1A) was a 16year-old girl; the affected mother was 48 years old."
+"The affected individuals underwent clinical evaluation, such as craniofacial examination, oral/dental evaluation, and radiological imaging."
+"Endocrinologic laboratory tests, electrocardiogram, and color Doppler echocardiography were also performed for the mother due to her chest dull pain."
+"Oral examination was conducted to record characteristics, such as tooth eruption and retention, enamel development state and periodontal and occlusal conditions."
+"Photographs of the intraoral view, both shoulder joints, head and face were obtained in both patients."
+2.2.
+"Wholeexome sequencing and bioinformatics analysis This study was approved by the ethics committee of School of Stomatology, Shandong University."
+Informed consent was obtained from the parents.
+Two milliliters of peripheral blood samples were collected from each member of the trio.
+"Genomic DNAs were extracted using Universal Genomic DNA Kit (ComWin Biotech, Beijing, China)."
+"Wholeexome sequencing was performed (Angen Gene Medicine Tech, Beijing, China)."
+"Wholeexome capture was carried out using the Agilent SureSelect Human All Exon Kit (Agilent Technologies, Santa Clara, CA) and highthroughput sequencing by the Illumina HiSeq 2000 sequencer instrument (Illumina, San Diego, CA)."
+The steps of WES in silico analysis of potential genetic causes are summarized (Fig. 1B).
+All variants were identiﬁed through Genome Analysis Toolkit (GATK).
+The results were ﬁltered to exclude synonymous variants.
+"Deleterious singlenucleotide variants (SNVs) were predicted by SIFT, PolyPhen2, MutationTaster and Proven programs."
+Identiﬁed causal mutation in RUNX2 (GenBank acc.
+No.:
+"NM_001024630.3, NP_001019801.3) was further conﬁrmed by Sanger Sequencing (ABI 3500 Genetic Analyzer, Applied Biosystems, Foster City, CA) using speciﬁc primers (forward: 50CATTCCTGTCGGCCATTACT-30; reverse: 50GAAAAACACTCAACTTCATCTGGA-30)."
+3. Results 3.1.
+Clinical ﬁndings Both the proband and the mother had the chief complaint of delayed eruption of permanent anterior teeth.
+The proband showed a short stature (156 cm) and bodyweight at 50 kg.
+"In physical examination, the proband face appeared to be broad frontal bossing, orbital hypertelorism, midface forehead, hypoplasia, and protruding mandible (Fig."
+2A).
+Her nasal bridge appears to be low.
+"Intraoral examination revealed persistence of the primary teeth, delayed eruption of the permanent teeth, supernumerary teeth, an Angle class III malocclusion, negative overjet, bilateral posterior crossbite, and high arched palate Figure 1."
+Pedigree and wholeexome sequencing.
+(A) Genetic pedigree of a Chinese family with supernumerary teeth and craniofacial dysplasia.
+"Proband, indicated with an arrow."
+(B) Wholeexome sequencing (WES) and bioinformatics analysis.
+The schematic illustrates the main steps of WES analysis.
+WES = wholeexome sequencing. 
+Ma et al.
+Medicine (2018) 97:32 www.mdjournal.com
+Figure 2.
+Clinical manifestations.
+(A) Photographs show phenotypic characteristics of the proband.
+(B) Photographs show phenotypic characteristics of the affected mother.
+(C)
+The appearance of supernumerary teeth in the patients.
+"White and black rhombuses denote supernumerary teeth in the mandible and maxilla, respectively."
+(Fig.
+2A).
+"The Panoramic radiograph showed at least one unerupted supernumerary tooth in the maxilla, and nine supernumerary teeth in the mandible (Fig."
+"2C, III1)."
+Both shoulders of the proband could not be approximated to midline either actively or passively.
+"However, chest and posteroanterior cephalometric radiograph examinations were declined by the family members."
+"The color Doppler echocardiography showed mitral and tricuspid valve regurgitation in patient II3 and tricuspid valve regurgitation in patient III1 (Supplementary Fig. 1, http://links.lww.com/MD/C339)."
+"The proband’s mother (i.e., III3) was also short (154 cm)."
+"Her facial appearance was similar to her daughter, with a prominent forehead and large fontanelles, hypertelorism and a depressed nasal bridge, midface hypoplasia and mandibular hyperplasia (Fig. 2B)."
+No abnormal hypermobility of the shoulders was found.
+"Oral manifestations include an edgeto-edge occlusion of the anterior teeth, negative overjet, retention of deciduous teeth, and a higharched palate."
+"Panoramic radiograph showed one supernumerary tooth in the maxilla and 6 supernumerary teeth in the mandible, failure of secondary dentition eruption (Fig. 2B)."
+She had a ﬁxed denture for her unerupted supernumerary teeth (Fig.
+2C).
+"The color Doppler echocardiography showed mitral regurgitation and tricuspid regurgitation (Supplementary Fig. 1, http://links.lww.com/MD/C339, II3)."
+3.2.
+"Genetic analysis Mutational analysis of RUNX2 revealed a novel missense mutation (c. C473A; p. A158E) in both affected subjects, which was further conﬁrmed by Sanger sequencing (Fig."
+3A).
+This mutation has not been previously reported (HGMD).
+This substitution of Alanine 158 with Glutamic acid is within Runt domain (Fig.
+"3B, indicated by a red triangle)."
+Alanine 158 in RUNX2 is evolutionarily conserved in all examined vertebrates (Fig.
+"3C), suggesting that this residue is functionally important."
+"To understand the pathogenetic effect and provide insight for a better understanding of phenotype determining mechanisms, we examined the crystal structure of RUNX1 that shares a high homology of Runt domain with RUNX2 sequence."
+"In the ternary complex formed with CBFb and DNA (Protein Data Bank: 1H9D), Arg134 of RUNX1 is found to correspond to Ala158 of RUNX2, thereby interacting with the DNA molecule (Fig. 4)."
+"Considering the conservation of the Runt domains of RUNX13 for a similar DNA binding mode, we infer that the pathogenic effects of the p. A158E mutation of RUNX2 might result in an impairment of its DNA binding capability."
+3.3.
+"Genotype–phenotype correlation By extensive literature analysis, we compared various phenotypes between 183 patients with missense and 25 patients with Ma et al."
+Medicine (2018) 97:32
+Medicine Figure 4.
+Ribbon diagram of the RD:CBFb:DNA ternary complex and mutated residues.
+"The RD and CBFb are shown in green, while DNA is in orange."
+The amino acid mutated at 158 (p. A158E) is shown in red.
+The 3D structural model is established using PyMOL Molecular Graphics System.
+"Maxillary hypoplasia as well as in patients with midface hypoplasia and mandibular hyperplasia than that in nonRunt domain regions (P < .05, Table 2), suggesting the importance of Runt domain in dental and craniofacial development."
+"4. Discussion Supernumerary teeth, as an important diagnostic clue, have been demonstrated to be associated multiple syndromes, such as Gardner’s syndrome (OMIM 175100) caused by haploinsufﬁthe APC gene (OMIM 611731), Nance–Horan ciency of syndrome (OMIM 302350) by mutations in NHS (OMIM 302350), Trichorhinophalangeal syndrome (OMIM 190350) by TRPS1 (OMIM 604386), cleidocranial dysostosis (OMIM 119600) by RUNX2 (OMIM 600211), and Opitz BBB/G syndrome (OMIM 300000) by MID1 (OMIM 300552)."
+Careful physical examination is fundamental for diagnosis of patients with supernumerary teeth whether to be a genetical syndrome or not.
+"Given clinical diagnosis remains unclear, genetic analysis using WES is recommended to uncover potential genomic defects underlying supernumerary teeth."
+"In the present study, we report 2 cases of a rare autosomal dominant syndrome associated with multiple supernumerary teeth and craniofacial dysplasia."
+"To identify the underlying genetic defect, we employed WES to explore possible causative gene and identiﬁed a novel missense mutation in codon 473 of RUNX2."
+"This method can identify all sequence variations in coding regions, which makes results more reliable."
+"Furthermore, several commonly used algorithms, such as PolyPhen2 and MutationTaster, revealed that mutation p. A158E in RUNX2 with deleterious effects and altered protein structure."
+This appears the ﬁrst study to identify the genetic cause in patients with CCDlike phenotypes in China utilizing the WES approach.
+Figure 3.
+Mutation identiﬁcation and characterization.
+"(A) Sequencing of exon 3 of RUNX2 shows the heterozygous mutant allele with C>A missense mutation (c.473C>A), which causes a protein change at amino acid 158 (p. A158E)."
+(B)
+The protein structure of RUNX2 (altered position is indicated by a red triangle).
+(C) Comparison of sequences of the p.
+A158containing regions of RUNX2 in 11 different species.
+"Nonsense mutations (details are provided in Supplementary Table 1, http://links.lww.com/MD/C339) that were clustered in the Runt domain of RUNX2 (Table 1)."
+"The phenotypes are presented in 5 categories, including delayed closure of sutures or wormian bones, hypoplastic clavicles, supernumerary teeth, short stature, and midface hypoplasia or mandibular hyperplasia (Table 1)."
+"However, we found no signiﬁcant difference, in terms of these phenotypes, between the groups with missense and nonsense, suggesting a crucial effect of missense mutations within the Runt domain on the encoded whole protein."
+"Next, we analyzed the effects of mutations locations, either in Runt domain or nonRunt domain region, on clinical manifestations (Table 2)."
+"In a total of 239 patients, selected clinical manifestations presented in 208 of them with nonsense or missense mutations clustered in Runt domain were compared with that in the remaining 31 cases with nonsense or missense mutations in nonRunt domain regions."
+"As results, mutation rates in Runt domain are signiﬁcantly higher in patients with supernumerary teeth and Table 1 Comparison of effects of mutation types in the Runt domain on phenotypic spectrum."
+Type Delayed closure of sutures or wormian bones Missense mutations in Runt domain Nonsense mutations in Runt domain 95.10% 100% Hypoplastic clavicles 88.43% 100% Supernumerary teeth 89.62% 90.91% Short stature 89.52% 93.33% Midface hypoplasia or mandibular hyperplasia 97.80% 100% Ma et al.
+Medicine (2018) 97:32 www.mdjournal.com
+Table 2 Comparison of effects of mutation locations on clinical manifestations.
+Type Mutations in Runt domain Mutations in nonRunt region P < .05.
+Delayed closure of sutures or wormian bones 95.68% 94.12% Hypoplastic clavicles 89.85% 92.86% Supernumerary teeth 89.74% 63.64% Short stature 89.93% 87.50% Midface hypoplasia or mandibular hyperplasia 97.87% 77.78% Affected individuals with CCDassociated phenotypes usually have characteristic clinical features.
+"They tend to show prominent forehead, widely spaced eyes, ﬂat nasal bridge, maxillary hypoplasia, relative mandibular prognathism contribute to skeletal Class III tendency, prolonged retention of the primary dentition, and presence of multiple supernumerary teeth, with consequent delayed and impacted eruption of permanent teeth."
+"These facial features, multiple supernumerary teeth and altered eruption patterns are of signiﬁcance at clinic."
+"But the most characteristic clinical features are delayed closure of fontanels or open fontanels, hypoplasia or aplasia one or both clavicles or completely absent in 10% patients permitting inability to approximate the shoulders anteriorly, and short stature."
+Other conditions share some characteristics with CCD.
+"For instance, 16q22 deletion syndrome shows the same manifestations of fontanel and clavicle as CCD."
+"Mandibuloacral dysplasia syndrome also shows short stature, delayed closure of cranial sutures and dysplastic clavicles."
+Yunis–Varon syndrome exhibits similar manifestations in delayed closure of cranial sutures and dysplastic clavicles.
+"Based on clinical and radiographic ﬁndings, diagnosis of typical CCD generally is not a challenge since it can be differentiated from symptoms of cranium, clavicles and teeth."
+"However, clinical and radiographic manifestations of the affected family members in the present cases only showed part of manifestations, such as craniofacial dysplasia and dental abnormalities."
+"The etiology of CCD is usually caused by hypomorphic or haploinsufﬁciency of RUNX2 (runtrelated transcription factor 2, OMIM 600211) on chromosome 6p21.RUNX2 is essential for differentiation of osteoblast and dental stem cells, and thus involved in bone and tooth formation."
+Further evidence for the correlation of RUNX2 with CCD is similar phenotypes in hypoplastic clavicles and defective skull formation in heterozygous (Runx2+/-) mice to that in patients with CCD.
+"Around 60% to 70% of cases with CCD are found to carry pathogenic variants in RUNX2, while remaining cases with CCD appear spontaneously with no apparent genetic causes."
+RUNX2 spans approximately 200kb in genome with eight coding exons.
+The RUNX2 protein is a transcription factor with multiple functional domains as described below.
+The QA domain regulates transactivation activity of RUNX2 target genes.
+The Runt domain consisting of 128 amino acids is responsible for heterodimerizations with CBFb and DNA binding.
+The nuclear localization signal (NLS) regulates the accumulation of the RUNX2 protein into nuclei.
+The PST domain is necessary for interactions with other transcription factors and RUNX2mediated transcriptional regulation.
+"To date, more than 182 different mutations in RNNX2 have been identiﬁed (HGMD database)."
+"While nonsense and frameshift mutations occur throughout the RUNX2 gene, the majority missense mutations are found to be clustered in Runt domain, like in our cases."
+"Later studies Multiple studies attempted to describe genotype–phenotype correlations in CCD, but the results were inconclusive."
+"For instance, short statures were often seen in the patients with impairment of Runt domain; correlation was also noted between the height scores and the number of supernumerary teeth."
+"Failed to conﬁrm these observaHowever, tions."
+"Here, we analyzed all the missense/nonsense mutations with or without the Runt domain involvement, and found no signiﬁcant association between short stature and different locations of mutations."
+We also found no evidence of a correlation between short stature and supernumerary teeth.
+"Additional study showed that mutations in Runt domain were associated with severe dental anomalies, such as multiple impacted and supernumerary teeth, while mutations outside of Runt domain showed mild dental anomalies."
+"Through a minimeta analysis, we found many more cases with supernumerary teeth and maxillary hypoplasia or mandibular protrusion with missense mutations in Runt domain."
+"5. Conclusion In summary, we identiﬁed a novel missense mutation of RUNX2 in 2 patients by WES and showed potential correlations between facial phenotypes and missense mutations in Runt domain through a minimeta analysis."
+These ﬁndings expanded our understanding of the correlation between the spectrum of CCD mutations and phenotypes.
+Further studies are required to establish the genotype–phenotype correlations in more details.
+Acknowledgments
+The authors are thankful for the participation of the family in this study.
+"The authors gratefully acknowledge for Dr Richard Leapman’s supports and guidance on this research at NIBIB, NIH."
+"Author contributions Data curation: Dan Ma, Jun Zhang."
+"Formal analysis: Dan Ma, Jun Zhang."
+"Funding acquisition: Tao Cai, Jun Zhang."
+"Investigation: Dan Ma, Jun Zhang."
+Project administration:
+"Xuxia Wang, Jun Guo, Tao Cai. Resources: Dan Ma, Xuxia Wang, Jun Zhang."
+Supervision:
+"Tao Cai, Jun Zhang."
+Writing – original draft: Dan Ma.
+Writing – review & editing: Tao Cai.

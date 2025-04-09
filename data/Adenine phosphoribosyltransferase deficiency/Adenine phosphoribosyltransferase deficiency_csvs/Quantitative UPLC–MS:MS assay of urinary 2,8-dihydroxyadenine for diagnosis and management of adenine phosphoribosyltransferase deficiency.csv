@@ -1,0 +1,191 @@
+HHS Public Access Author manuscript J Chromatogr B Analyt Technol Biomed Life Sci.
+Author manuscript; available in PMC 2017 May 26.
+Published in final edited form as: J Chromatogr B Analyt Technol Biomed Life Sci. 2016 November 15; 10361037: 170–177.
+Doi:10.1016/ j.jchromb.2016.09.018.
+"Quantitative UPLC–MS/MS assay of urinary 2,8dihydroxyadenine for diagnosis and management of adenine phosphoribosyltransferase deficiency Margret Thorsteinsdottira, b,*, Unnur A. Thorsteinsdottira, b, Finnur F. Eirikssona, b, Hrafnhildur L. Runolfsdottira, Inger M.Sch."
+"Agustsdottirc, Steinunn Oddsdottird, Baldur B. Sigurdssonb, e, Hordur K. Hardarsona, Nilesh R. Kamblea, Snorri Th."
+"Sigurdssona, Vidar O. Edvardssona, c, and Runolfur Palssona, f aUniversity of Iceland, Reykjavik, Iceland bArcticMass, Reykjavik, Iceland cChildrenís Medical Center, Landspitali – The National University Hospital of Iceland, Reykjavik, Iceland dDepartment of Clinical Biochemistry, Landspitali – The National University Hospital of Iceland, Reykjavik, Iceland eCenter for Biomedicine, European Academy of Bolzano/Bozen, Bolzano, Italy fDivision of Nephrology, Landspitali – The National University Hospital of Iceland, Reykjavik, Iceland Abstract Adenine phosphoribosyltransferase (APRT) deficiency is a hereditary disorder that leads to excessive urinary excretion of 2,8dihydroxyadenine (DHA), causing nephrolithiasis and chronic kidney disease."
+Treatment with allopurinol or febuxostat reduces DHA production and attenuates the renal manifestations.
+"Assessment of DHA crystalluria by urine microscopy is used for therapeutic monitoring, but lacks sensitivity."
+We report a highthroughput assay based on ultraperformance liquid chromatography coupled to tandem mass spectrometry (UPLC–MS/MS) for quantification of urinary DHA.
+"The UPLC–MS/MS assay was optimized by a chemometric approach for absolute quantification of DHA, utilizing isotopically labeled DHA as an internal standard."
+Experimental screening was conducted with Doptimal design and optimization of the DHA response was performed with central composite face design and related to the peak area of DHA using partial least square regression.
+Acceptable precision and accuracy of the DHA concentration were obtained over a calibration range of 100 to 5000 ng/mL on three different days.
+The intra- and interday accuracy and precision coefficients of variation were well within ±15% for quality control samples analyzed in replicates of six at three concentration levels.
+"Absolute quantification of DHA in urine samples from patients with APRT deficiency was achieved wihtin 6.5 min. Measurement of DHA in 24 h urine samples from three patients with APRT deficiency, diluted 1:15 (v/v) with 10 mM ammonium hydroxide (NH4OH), yielded a concentration of 3021, 5860 and 10563 ng/mL and 24 h excretion of 816, 1327 and 1649 mg, respectively."
+A rapid and robust UPLC–MS/MS assay for absolute quantification of DHA in urine was successfully developed.
+We believe this method will greatly facilitate diagnosis and management of patients with APRT deficiency.
+"*Corresponding author at: University of Iceland, Reykjavik, Iceland.  "
+Thorsteinsdottir et al.
+Keywords Page 2 APRT deficiency; Clinical mass spectrometry; Chemometrics; Doptimal design; Therapeutic drug monitoring 1.
+"Introduction Adenine phosphoribosyltransferase (APRT) deficiency (OMIM 102600) is a rare autosomal recessive disorder of purine metabolism, primarily manifested by nephrolithiasis and chronic kidney disease (CKD)."
+"The absence of functional APRT prevents recycling of adenine, which in turn is oxidized by xanthine dehydrogenase to the poorly soluble 2,8dihydroxyadenine (DHA)."
+Precipitation of DHA in the kidneys leads to progressive crystalassociated tubulointerstitial nephropathy and urinary stone formation.
+"Since APRT deficiency can be successfully treated with the xanthine dehydrogenase inhibitors allopurinol and febuxostat, early diagnosis and timely initiation of pharmacotherapy prevents stone formation and irreversible loss of kidney function."
+"Although the characteristic round, brown DHA crystals are usually readily detected by urine microscopy, they are frequently missed or misidentified."
+Infrared spectrophotometry and xray crystallography are the recommended methods for detecting DHA in urinary calculi.  
+"Nevertheless, the authors have observed several cases of false identification of DHA in kidney stone specimens using these techniques."
+"Thus, the diagnosis of APRT deficiency still relies on the demonstration of absent APRT activity in red cell lysates or biallelic pathogenic variants in the APRT gene."
+"Monitoring of pharmacological therapy is currently based on microscopic evaluation of crystalluria, with the absence of DHA crystals considered indicative of adequate therapy."
+"Several methods for analysis of urinary DHA concentration have previously been described in the literature, including highperformance liquid chromatography (HPLC) coupled to a multichannel ultraviolet detector, capillary electrophoresis (CE) and HPLC coupled to tandem mass spectrometry (HPLC– MS/MS)."
+None of these methods have been established for use in clinical practice.  
+"Hence, a rapid and accurate clinical assay for DHA detection is needed to enhance the diagnosis and therapeutic monitoring of patients with APRT deficiency."
+"Since HPLC–MS/MS has proved to be a highly reliable method for the identification and quantification of various biomarkers, we developed and report herein a novel ultraperformance liquid chromatographytandem mass spectrometry (UPLC–MS/MS) assay for absolute quantification of urinary DHA, employing an isotopically labeled DHA as an internal standard."
+Optimization of the UPLC–MS/MS quantification method was carried out using a chemometric approach.
+"The assay was prevalidated in terms of selectivity, sensitivity, concentration function, accuracy, precision, carryover, stability and matrix effect for diluted urine samples."
+J Chromatogr B Analyt Technol Biomed Life Sci.
+Author manuscript; available in PMC 2017 May 26.
+Thorsteinsdottir et al.
+Page 3 2.
+Experimental 2.1.
+"Chemicals and reagents DHA (95% pure), manufactured by SigmaAldrich (Taufkirchen, Germany), but no longer commercially available, was kindly provided by L. Fairbanks, Purine Research Laboratory, St Thomas' Hospital, London, UK."
+"Adenine (99.6% pure), adenosine (100% pure), 2deoxyadenosine (99.9% pure), hypoxanthine (99.6% pure), inosine (99.2% pure), 2deoxyinosine (99.8% pure), uric acid (99.3% pure), acetonitrile (gradient grade), methanol (gradient grade), ammonia (25%), ammonium acetate (reagent grade), ammonium hydroxide (NH4OH, reagent grade), formic acid (reagent grade) and dimethyl sulfoxide (DMSO, Chromasolv grade) were purchased from SigmaAldrich (Taufkirchen, Germany)."
+Deionized water was produced by the Millipore® technique.
+2Deoxyguanosine-13C
+"(15N2) (98% pure) was obtained from Santa Cruz (Dallas, TX, USA) and applied as an internal standard for purines during method development."
+2.2.
+Internal standard for DHA
+"In order to perform absolute quantification of DHA in urine samples, an isotopically labeled internal standard was required."
+"2,8Dihydroxyadenine-213C-1,315N2 (DHA2-13C1,315N2) was synthesized by our group, following a previously reported protocol, using thiourea13C,15N2 as a starting material."
+2.3.
+"Preparation of solutions and samples for UPLC–MS/MSanalysis Standard stock solutions were prepared in 100 mM NH4OH at a concentration of 100 μg/mL for DHA, adenine and 2deoxyadenosine, 200 μg/mL for adenosine, hypoxanthine, inosine, 2deoxyinosine, and uric acid, and 1 mg/mL for DHA2-13C1,315N2 and 2deoxyguanosine13C,15N2."
+"Urine samples donated by healthy volunteers, diluted 1:15 (v/v) with 10 mM NH4OH, were used as a blank matrix."
+"An intermediate working solution was prepared in 10 mM NH4OH at the concentration of 10 μg/mL for DHA, adenine, adenosine, 2deoxyadenosine, hypoxanthine, inosine, 2deoxyinosine, uric acid and 2deoxyguanosine13C,15N2. This intermediate working solution was diluted 1:100 (v/v) with the blank matrix, producing a 1000 ng/mL solution of each analyte for use during the design of experiments (DoE)."
+"A working solution of the internal standard, DHA2-13C1,315N2 (8 μg/mL) was prepared in 10 mM NH 4OH."
+All solutions were stored at −20°C.
+"For the quantification of DHA, a calibration standard and QC samples were prepared fresh each day by adding the intermediate working solutions prepared in 10 mM NH4OH at an analyte concentration of 0.04, 0.08, 0.16, 0.2, 0.3, 0.5, 0.6, 0.8, 1.2, 2.0, 4.0, 6.0 and 10.0 μg/mL as well as by adding the internal standard working solution by proper dilution with the blank matrix."
+"The calibration points were selected at the DHA concentrations of 100, 150, 250, 400, 600, 1000, 3000, 5000 ng/mL and 3 QC samples at the concentrations of 300, 800, 2000 ng/mL for DHA and 8 μg/mL for the internal standard."
+2.4.
+"Multivariate experimental design for the UPLC–MS/MS assay Waters ACQUITY UPLC device coupled to a Quattro Premier™ XE triple quadrupole mass spectrometer (Waters Corporation, Milford, MA) was utilized for the analysis."
+Multiple J Chromatogr B Analyt Technol Biomed Life Sci.
+Author manuscript; available in PMC 2017 May 26.
+Thorsteinsdottir et al.
+Page 4 reaction monitoring (MRM) in both negative and positive electrospray ionization (ESI) modes was employed and the fragmentation behavior of each compound characterized using collisioninduced dissociation (CID). The MRM transition of each analyte is presented in Table 1.
+Nitrogen was used as a desolvation and cone gas and high purity argon as a collision gas.
+"Source temperature and desolvation gas temperature were set at 130°C and 400°C, respectively."
+"The analytical column, Acquity HSS T3 (1.8 μm, 100 × 2.1 mm) (Waters Corporation, Wexford, Ireland), was maintained at 35 °C."
+"The injection volume was 5 or 10 μL. Doptimal design with interaction model (MODDE Pro 11, Data Analytics Solutions, MKS Instruments AB, Umea, Sweden), consisting of 3 quantitative and 3 qualitative factors, was generated to determine significant variables for a UPLC–MS/MS screening assay of DHA in human urine."
+"The assay was designed to include simultaneous measurement of DHA, adenine, adenosine, 2deoxyadenosine, hypoxanthine, inosine, 2deoxyinosine, and uric acid to ensure adequate separation between all analytes."
+"Capillary voltage, gradient steepness, type of gradient slope, flow rate, and different composition of the mobile phase were optimized and related to the UPLC–MS/MS responses, utilizing partial least squares (PLS) regression."
+Mobile phase A consisted of MQ water containing 0.1% (v/v) formic acid (pH 2.8) or MQ water with 2 mM ammonium acetate (pH 6.7) and mobile phase B was either methanol (MeOH) or acetonitrile (ACN).
+"The gradient elution program was designed as follows: 0–1.0 min 0.5% B; 1.5, 2.5 or 3.5 min, respectively, to 20% B; 2.5, 3.5 or 4.5–5.0 min to 80% B; 5.0–5.5 min, hold at 80% B;"
+"5.5–5.7 min to 0.5% B; and 5.7–6.5 min, hold at 0.5% B."
+The levels of each experimental factor are presented in Table 2.
+"The experimental design consisted of 39 experiments, including 3 center point runs performed in 2 different domains, ESI+ and ESI-."
+The retention time and peak area for each of the purine analytes were studied.
+A central composite face (CCF) design with a quadratic model was generated to identify the optimal settings for the mass spectrometer at an optimal flow rate for the UPLC for quantification of DHA in human urine.
+"Three factors, capillary voltage, cone voltage and flow rate, were investigated and related to the peak area of DHA, using PLS regression in 12 experiments plus central point replications."
+2.5.
+"Prevalidation of the UPLC–MS/MS assay The following parameters were assessed during prevalidation of the UPLC–MS/MS assay: selectivity, concentration function, limit of detection (LOD) and lower limit of quantification (LLOQ), intraand interday assay precision and accuracy, autosampler stability, carryover, dilution integrity and matrix effect of the corresponding matrix."
+"The selectivity was assessed by analyzing blank urine samples, with and without internal standard, from six healthy individuals, as well as blank urine samples spiked with DHA at the LLOQ concentration level (100 ng/mL)."
+The concentration function of the method was evaluated at concentrations ranging from 100 to 5000 ng/mL for DHA.
+Calibration curves were generated by plotting the corresponding peak area ratio under the specific MRM chromatogram for the analyte or internal standard versus the corresponding analyte concentrations using weighted (1/x) the least squares quadratic regression.
+"The LOD and LLOQ were evaluated by replicate analysis (n = 6) and defined as the lowest concentrations that gave a signalto-noise (S/N) ratio of at least 3fold and 20fold, respectively."
+"Intra- and interassay precision (the relative standard deviation, RSD) and accuracy (the relative error) were determined by replicate analysis (n = 6) of the LLOQ and QC samples, conducted over three J Chromatogr B Analyt Technol Biomed Life Sci."
+Author manuscript; available in PMC 2017 May 26.
+Thorsteinsdottir et al.
+Page 5 different days.
+"The stability of the processed samples, which were kept in the autosampler at 22 °C for at least 18 h, was tested by replicate analysis (n = 6) of each QC concentration level and compared to QC samples measured immediately after sample preparation.  "
+"Carryover in the UPLC–MS/MS system was tested by analyzing a blank urine sample spiked with internal standard, following analysis of urine samples at the upper limit of quantification."
+Matrix effect was assessed by comparing the peak area for DHA in spiked blank urine samples from six healthy individuals with MQ water spiked with DHA.
+"In both cases, the samples were diluted with NH4OH 1:15 (v/v)."
+2.6.
+Measurement of DHA in urine samples from patients with APRT deficiency This part of the study was approved by the National Bioethics Committee of Iceland (NBC 09072) and the Icelandic Data Protection Authority.
+Informed consent was obtained from all living participants.
+"Twentyfour hour urine samples were collected from 3 adult patients with APRT deficiency, who were not receiving xanthine dehydrogenase inhibitor (allopurinol or febuxostat) treatment and 6 healthy individuals."
+All 3 patients had an estimated glomerular filtration rate (eGFR) ≥60 mL/min/1.73 m2.
+"Within 2 h of arrival at the laboratory, the 24 h collection bottle was inverted 3, 13, 18 and 28 times and subsequently aliquoted."
+"After the last inversion, the remaining urine was aliquoted and stored for up to 72 h at 20 °C, 4°C and at −20 °C (pH 8.6)."
+"Finally, the pH of the urine samples, which were kept at room temperature for 72 h, was raised to pH 10 by adding 25% NH4OH during continuous stirring with a magnetic mixer."
+"Prior to UPLC–MS/MS analysis, urine samples were diluted 1:15 (v/v) with 10 mM NH4OH."
+"Then, 50 μL of the diluted samples were pipetted into a 96well plate, followed by addition of 100 μL of 10 mM NH 4OH and subsequently 50 μL of the internal standard working solution."
+All samples were subsequently mixed in the plate for 3 min and centrifuged at 3100 rpm for 10 min at 4°C before injection into the UPLC–MS/MS system.
+2.7.
+"Data processing All data were acquired using the MassLynx 4.1 software program and processed with TargetLynx™ Application Manager (Waters Corp., Milford, MA, USA)."
+"GraphPad prism (GraphPad software Inc, La Jolla, LA, USA) was used for statistical analysis, including a oneway ANOVA with Tukey Multiple Comparison test."
+Data shown represent the results of 6 separate analyses.
+"All multivariate experimental design data analyses and calculations were carried out using the MODDE Pro 11 software (Data Analytics Solutions, MKS Instruments AB, Umea, Sweden)."
+"This included generation of response surface models, analysis of regression coefficients at 95% confidence intervals and prediction of optimum conditions of the experimental design, based on criteria for the highest DHA peak area at the minimum retention time."
+All responses were centered and scaled to unit variance and log scale transformation was applied for the peak area of all analytes.
+J Chromatogr B Analyt Technol Biomed Life Sci.
+Author manuscript; available in PMC 2017 May 26.
+Thorsteinsdottir et al.
+Page 6 3. Results and discussion 3.1.
+"Chemometric optimization of the UPLC–MS/MS assay Doptimal design with an interaction model was selected for screening of important experimental variables and their appropriate ranges for the UPLC–MS/MS assay, as this model allows for simultaneous evaluation of both multilevel qualitative factors and quantitative factors."
+"The retention time of all purines studied and the peak area of DHA were selected as responses, since our primary goal was to develop a sensitive and accurate method for quantification of DHA in human urine samples, without any interference from early eluting matrix components or other purines."
+"PLS regression analyses of the peak area of all purines studied, both in ESI+ and ESI- modes, revealed two distinguishable groups (Fig. 1).  "
+"Group A, corresponding to all experimental values in the ESI+ mode, demonstrated a much higher response (peak area) compared with group B, which represented experiments carried out in ESI- mode."
+"Therefore, the ESI+ mode was utilized for the remainder of the work as it resulted in much higher sensitivity for each purine."
+"The fraction of variance (R2), explained by the PLS regression analysis of the responses in the ESI+ mode, was > 91% for all responses with an acceptable prediction ability of the model (Q2 > 80%)."
+"The plot from the PLS regression modeling of the purines showed that flow rate, pH and the type of organic modifier of the mobile phase had the most significant effect on retention time, with a low flow rate, pH of 6.7 and methanol as mobile phase B resulting in a higher retention time (data not shown)."
+Adequate separation of the purines was achieved for all conditions studied during the experimental screening in the ESI+ mode as is illustrated in Fig.
+2.
+This is important as spontaneous fragmentation of adenosine and 2deoxyadenosine into the same ion fragment as adenine and of inosine and 2deoxyinosine into the same ion fragment as hypoxanthine may occur.
+"The regression coefficient plot of the scaled and centered peak area of DHA showed that capillary voltage, flow rate and mobile phase A at pH 2.8 had a significant negative effect, while nonlinear gradient (slope 4) and mobile phase A at pH 6.7 had a significant positive effect on the peak area (Fig. 3)."
+"Several interaction effects between capillary voltage and flow rate, capillary voltage and pH of the mobile phase, and type of gradient slope and organic modifier in the mobile phase, were significant, so these variables cannot be independently controlled to obtain maximum sensitivity."
+This is further illustrated in Fig.
+"4, showing a counterplot of the DHA peak area as a function of flow rate and capillary voltage at different mobile phase conditions."
+"Mobile phase A at pH 6.7, as opposed to pH 2.8, yielded a much higher peak area of DHA and the same was true for acetonitrile as an organic modifier in mobile phase B. Moreover, the sensitivity of the method could be improved by the decreasing capillary voltage and flow rate."
+The results of the screening studies were used to select significant variables for final optimization of the quantification method.
+A CCF design was chosen and correlated to the sensitivity of the analyte employing PLS regression.
+"The experimental domain was redefined and the experimental factors studied included capillary voltage, cone voltage and flow rate (Table 2)."
+A nonlinear gradient slope was used for mobile phase A (pH 6.7) and mobile phase B (acetonitrile) with the gradient steepness set at 1.5 min.
+A response surface model J Chromatogr B Analyt Technol Biomed Life Sci.
+Author manuscript; available in PMC 2017 May 26.
+Thorsteinsdottir et al.
+Page 7 was fitted utilizing PLS regression analysis of the peak area of DHA.
+"Two PLS components were significant, the explained variance > 96% and the acceptable predictability of the model (Q2 >85%)."
+"The optimal experimental conditions observed and subsequently used for the analysis of urine samples were: mobile phase A at pH 6.7; acetonitrile as mobile phase B; flow rate of 0.35 mL/min with a nonlinear gradient slope, raising the concentration of mobile phase B from 0.5 to 20% in 1.5 min; capillary voltage of 0.4 kV; and cone voltage for DHA set at 35 V. The final experimental conditions selected for the quantification method are summarized in Table 3. 3.2."
+"Analytical performance of the optimized UPLC–MS/MS assay We report for the first time an absolute quantification of DHA in human urine samples by UPLC–MS/MS, using the isotopically labeled reference compound, DHA2-13C1,315N2, as an internal standard."
+The results from the prevalidation study of the assay showed acceptable selectivity without any interfering peaks in the human urine samples from the 6 individuals tested.
+"There were no interfering peaks detected in the blank matrix at the same retention time as for DHA, as demonstrated by the MRM chromatogram of blank urine from a healthy individual (Fig. 5a) compared with the blank matrix spiked with DHA at LLOQ concentration (Fig. 5b)."
+"The results also indicate that urine from healthy individuals does not contain significant endogenous levels of DHA, as DHA was not detected in any of the six urine matrixes analyzed (data not shown)."
+"The back calculated concentration of all calibration standards, including the LLOQ, were within acceptable limits of ±15% of the nominal value (data only shown for LLOQ), in the concentration range of 100 to 5000 ng/mL (Table 4)."
+The limit of detection for DHA was 20 ng/mL and the LLOQ of the method was set at 100 ng/mL.
+"The analytical performance of the assay was tested for LLOQ and QC samples using blank matrix spiked with DHA at 3 different concentrations, 300, 800 and 2000 ng/mL, on three different days."
+Intraday coefficients of variation (CVs) were 4.5– 5.7% with accuracy of −2.0–8.5% for all QC samples.
+Intraday CVs for LLOQ were 8.3% with accuracy 3.3%.
+The interday accuracy and precision CVs for QC samples and LLOQ were well within the ±15% limits (Table 4).
+The processed samples (n = 6) were stable up to 18 h at 22°C in the autosampler with CV for all QC samples < 6% and with a mean bias of the back calculated concentration <11%.
+"To evaluate carryover, a blank urine sample was injected immediately following analysis of the highest DHA standard at 5000 ng/mL but no DHA peak was detected."
+"Dilution integrity was evaluated by spiking DHA into a blank urine sample at a concentration of 10,000 ng/mL and diluting the sample with 10 mM NH4OH down to the range of the concentration curve."
+"The DHA concentration of the diluted samples (n = 3) was within ±15% of nominal values, demonstrating good sample integrity."
+The matrix effect was evaluated by comparing the response for DHA spiked at the same concentration in blank urine and in neat solution.
+"The response for DHA was the same in blank urine samples from 6 different biological sources as in the neat solution (data not shown), indicating no significant matrix effect."
+"Hartmann et al. reported relative quantification of urinary DHA and other key purine metabolites in a total analysis time of 20 min, whereas the analytical run time was only 6.5 min with our method."
+"The limit of detection for DHA was much higher than in our assay, 167 ng/mL vs. 20 ng/mL and the interday CV for DHA was quite high or 25%."
+Urinary J Chromatogr B Analyt Technol Biomed Life Sci.
+Author manuscript; available in PMC 2017 May 26.
+Thorsteinsdottir et al.
+"Page 8 DHA has also been measured using HPLC coupled to a multichannel ultraviolet detector, but this method required computeraided data analysis and a 30-min analytical run time."
+"In addition, CE has been used for relative quantification of DHA in urine samples with a markedly shorter analytical run time than can be achieved with the HPLCbased methods ."
+"However, reproducibility has been a challenge when CE methods are used in conjunction with UV detection as the peak identification is based on detection time which can vary greatly amongst different matrices."
+None of the previously reported techniques for urinary DHA determination has been fully developed for clinical application.
+"In fact, only relative quantification of DHA has been accomplished due to lack of isotopically labeled reference standards."
+3.3.
+"Measurement of DHA concentration in urine samples from patients with APRT deficiency Due to the poor solubility of DHA, storage and handling of urine specimens from patients with APRT deficiency may influence the measurement of the DHA concentration."
+"Since 24 h urine collection is almost exclusively conducted by patients at home, we investigated the effect of storage temperature on the measurement of DHA in urine specimens obtained from 3 patients."
+"No significant difference was observed in the peak area of DHA at +20°C, −4°Cor at −20°C for up to at least 72 h at pH 8.6, indicating no significant effect of storage temperature on the DHA signal response (Fig. 6a)."
+"Accordingly, urine samples may be kept at room temperature up to 72 h prior to analysis without affecting the results."
+"Raising the pH of the urine samples to pH 8.6 improved the response of DHA, but additional increase of the pH to 10 with 25% NH4OH resulted in a lower response (Fig. 6b)."
+"These results are consistent with those reported by Hartmann et al., who observed no change in urinary DHA concentration at pH values ranging from 3 to 9."
+"Although Peck et al. also reported that the solubility of DHA can be increased by raising the pH beyond baseline values, this resulted in very unstable solutions."
+"Increased sample mixing did not have significant effect on the peak area of DHA (data not shown) and, therefore, it was decided to invert the collection bottle only 3 times during further experiments."
+"Twentyfour hour urine samples from 3 patients with APRT deficiency, who were not receiving pharmacological treatment and from 6 healthy individuals were analyzed using the UPLC–MS/MS assay."
+"MRM chromatogram illustrated a peak corresponding to DHA in the patients' samples, which was not detected in the sample from the healthy individuals (Fig. "
+"5a, c, d and e)."
+An unidentified peak was observed in the MRM chromatogram of all the urine samples from the patients and the control individuals (data shown for 1 healthy individual) that was well separated from the DHA peak and did not interfere with the quantification of DHA.
+"The clinical applicability of the assay was demonstrated by determining the concentration of DHA in 24 h urine samples from patients with APRT deficiency, diluted 1:15 (v/v) with 10 mM NH4OH."
+"The urinary DHA concentration in the three patients was 3021, 5860 and 10563 ng/mL and the 24 h urinary DHA excretion 816, 1327 and 1649 mg, respectively, suggesting a highly variable excretion rate between patients (Fig. 7)."
+J Chromatogr B Analyt Technol Biomed Life Sci.
+Author manuscript; available in PMC 2017 May 26.
+Thorsteinsdottir et al. 4.
+"Conclusions Page 9 We have successfully developed a rapid and robust UPLCMS/MS assay with minimal sample preparation for absolute quantification of DHA in urine, utilizing isotopically labeled DHA as an internal standard."
+"The chemometric approach (DOE), for optimization of the UPLC–MS/MS method was demonstrated to be highly effective, requiring only a fraction of the number of experiments that would have been needed when changing only one separate factor at a time."
+We believe this UPLC–MS/MS assay will greatly facilitate clinical diagnosis and monitoring of pharmacotherapy in patients with APRT deficiency.
+Preliminary data from patients with APRT deficiency demonstrate that urinary DHA is easily detected by the assay and that absolute concentration of DHA can be determined in patient's samples at a broad concentration range.
+"Future work will focus on evaluation of the UPLC–MS/MS urinary assay in individuals with APRT deficiency, aiming for full validation for use in clinical practice."
+"Acknowledgments Part of this work was presented in an abstract form at the American Society of Nephrology Kidney Week in Atlanta, GA, November 2013 and at the American Society for Mass Spectrometry in St. Louis, MO, May 2015."
+"The study was supported by the Rare Kidney Stone Consortium (U54DK083908), a part of the Rare Diseases Clinical Research Network (RDCRN), an initiative of the Office of Rare Diseases Research (ORDR), National Center for Advancing Translational Sciences (NCATS)."
+"This consortium is funded through a collaboration between NCATS, and the National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK)."
+"The authors would like to thank L. Fairbanks, Purine Research Laboratory, St Thomas' Hospital, London, UK, who kindly provided our research team with a sample of 2,8dihydroxyadenine (manufactured by SigmaAldrich, Germany, but no longer commercially available) for the initial assay development."

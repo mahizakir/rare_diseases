@@ -1,0 +1,574 @@
+"RESEARCH ARTICLE The epithelial polarity genes frazzled and GUKholder adjust morphogen gradients to coordinate changes in cell position with cell fate specification Yongqiang Xue1, Aravindan Krishnan1, Juan Sebastian Chahda1, Robert Allen Schweickart1, Rui SousaNeves2*, Claudia Mieko MizutaniID 1,2* 1 Department of Biology, Case Western Reserve University, Cleveland, Ohio, United States of America, 2 Department of Genetics and Genome Sciences, Case Western Reserve University, Cleveland, Ohio, United States of America * rss105@case.edu (RSN); claudia.mizutani@case.edu (CMM)"
+Abstract AU : Pleaseconfirmthatallheadinglevelsarerepresentedcorrectly: Morphogenetic gradients specify distinct cell populations within tissues.
+"Originally, morphogens were conceived as substances that act on a static field of cells, yet cells usually move during development."
+"Thus, the way cell fates are defined in moving cells remains a significant and largely unsolved problem."
+"Here, we investigated this issue using spatial referencing of cells and 3D spatial statistics in the Drosophila blastoderm to reveal how cell density responds to morphogenetic activity."
+"We show that the morphogen decapentaplegic (DPP) attracts cells towards its peak levels in the dorsal midline, whereas dorsal (DL) stalls them ventrally."
+We identified frazzled and GUKholder as the downstream effectors regulated by these morphogens that constrict cells and provide the mechanical force necessary to draw cells dorsally.
+"Surprisingly, GUKH and FRA modulate the DL and DPP gradient levels and this regulation creates a very precise mechanism of coordinating cell movement and fate specification."
+Introduction
+"The “French Flag model” of positional information is a central model in developmental biology that explains how cell fates are specified within broad regions of developing embryos, limbs, and other organs."
+"In this model, cells are thought to interpret threshold levels of a morphogen according to their spatial position and acquire distinct fates through the activation of specific gene expression programs."
+"Despite its immense power to explain diverse phenomena such as embryonic axial patterning and segregation of different neuronal populations in the nervous system, a major simplification is frequently overlooked in this model."
+"Namely, it is assumed that morphogen thresholds reach and modify a static cell population."
+"However, this condition is seldom if ever met in most developmental contexts, which generally involve a dynamic displacement of cells at the same time they read the instructive thresholds that determine their fates."
+"Here, we sought to understand how tissues coordinate cell movements with cell fate specification during pattern formation."
+"a1111111111 a1111111111 a1111111111 a1111111111 a1111111111 OPEN ACCESS Citation: Xue Y, Krishnan A, Chahda JS, Schweickart RA, SousaNeves R, Mizutani CM (2023)"
+The epithelial polarity genes frazzled and GUKholder adjust morphogen gradients to coordinate changes in cell position with cell fate specification.
+PLoS
+Biol 21(3): e3002021.
+"https:// doi.org/10.1371/journal.pbio.3002021 Academic Editor: Konrad Basler, University of Zurich, SWITZERLAND Received:"
+"May 26, 2022, Accepted: February 3, 2023"
+"Published: March 13, 2023"
+Copyright: © 2023
+Xue et al.
+"This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited."
+Data Availability Statement: All relevant data are within the paper and its Supporting Information files.
+Funding:
+This work was supported by National Institutes of Health grant numbers 1R21EB016535 and 5R33AG049863 (to CMM and RSN) and 5R01AG061390 (to RSN).
+"YX, AK, JSC and RAS were supported by the College of Arts and Sciences of Case Western Reserve University."
+"The funders had no role in study design, data collection and PLOS Biology | https://doi.org/10.1371/journal.pbio.3002021 March 13, 2023 1 / 28 analysis, decision to publish, or preparation of the manuscript."
+Competing interests: The authors have declared that no competing interests exist.
+"Abbreviations: 3D, three-dimensional; A/P, anteroposterior; BMP4, bone morphogenetic 4; DL, dorsal; DPP, decapentaplegic; D/V, dorsoventral; DynaMMA, Dynamic Adjustment of Movement with Morphogenetic Activity; ECAD, ECadherin; FRA, frazzled; FTZ, fushi tarazu; GD, gastrulation defective; GIS, geographic information system; GUKH, gukholder; ind, intermediate nervous system defective; MAGUK, membraneassociated guanylate kinase; msh, muscle segment homeodomain; NHS, Nance–Horan syndrome; pMAD, phosphorylatedMothers Against DPP; rho, rhomboid; SAJ, spot adherens junction; sim, single-minded; sna, snail; sog, short gastrulation; ST2, even skipped stripe 2; TKV, thick veins; vnd, ventral nervous defective."
+"Coordination of cell movements and cell fate specification by morphogens To that end, we analyzed the Drosophila blastoderm, a phase of embryonic development in which the syncytium nuclei behave as compartmentalized open cells that move in a single plane on the surface of embryos as they acquire distinct fates."
+"For a long time, cells at this embryonic stage were treated as a static field."
+"However, this view changed with the discovery that not only cells move, but they actually follow stereotyped trajectories that ultimately establish welldefined patterns of cell densities along the anteroposterior (A/P) and dorsoventral (D/V) axes (Fig 1)."
+"In particular, cells from the lateral sides of the embryo and from the anterior and posterior poles move towards the dorsal midline, whereas cells within the ventral region remain mostly immotile with only slight movements towards the posterior region."
+"Noteworthy, these stereotyped cell movements are disrupted in mutant embryos without either bicoid (BCD) or dorsal/NFκB (DL/NFκB) gradients, indicating that they are regulated by morphogens that pattern the A/P and D/V embryonic axes, respectively."
+Additional evidence of a genetic control of these movements comes from the fact that different lineages of Drosophilids display speciesspecific patterns of cell density.
+The discovery of global stereotyped cell movements in the blastoderm opens the possibility of investigating the mechanisms by which morphogens coordinate cell fate specification relative to cell position.
+"This exquisitely simple, bidimensional embryonic patterning allows for referencing each cell in space and in this way to ask how morphogens control the stereotyped cell trajectories."
+"In addition, this model allows for testing possible molecular effectors that coordinate this process."
+"To address these issues, we focused on the stereotyped cell movements along the D/V axis, where the mesoderm, neuroectoderm, and ectoderm are formed."
+The formation of these domains depends on a ventralto-dorsal nuclear gradient level of the transcription factor DL/NFκB and an opposing dorsalto-ventral gradient of secreted decapentaplegic/ bone morphogenetic 4 (DPP/BMP4).
+"DL activates mesodermal genes such as snail (sna) and neuroectodermal genes, such as short gastrulation (sog) and intermediate nervous system defective (ind), and represses ectodermal genes, such as dpp."
+The DL gradient is established by a maternal signaling pathway that regulates the graded activation of the Toll receptor by Spa¨tzle ligand along the DV axis leading to the selective transport of DL into the nucleus.
+"DPP activates ectodermal genes, such as rhomboid (rho) and race and represses neuroectodermal genes, such as muscle segment homeotic (msh) and ind."
+The DPP gradient is established zygotically and depends on the interaction of various extracellular modulators.
+"Here, we show that DPP, and not DL, directly attracts cells to the dorsal region and that DL stalls cells ventrally by excluding DPP expression."
+"Through an in silico screen, we identified GUKholder (gukh) and frazzled (fra) as the effector genes that respond to DPP and/or DL and control the stereotyped cell movements."
+"We show that both genes are required for the correct formation of cell density patterns and the specification of the mesodermal, neuroectodermal, and ectodermal expression domains."
+"Finally, we show that fra and gukh modulate the shapes of the gradients of DL and DPP."
+"Together, our results provide evidence that DPP instructs cells about their fate in a dosagedependent manner and adjusts these thresholds by positioning cells in space."
+Results Cells move towards the dorsal midline during cellularization in a stereotyped fashion We began our study by first analyzing the formation of cell density patterns resulting from cell movements during the blastoderm stage.
+"To quantify these patterns along the D/V axis, we analyzed ventral and dorsal halves of individual embryos precisely oriented in each position according to D/V and A/P markers (rhomboid (rho), snail (sna), intermediate neuroblasts defective (ind), evenskipped (eve), and fushitarazu (ftz) (see Methods)."
+"We focused on early PLOS Biology | https://doi.org/10.1371/journal.pbio.3002021 March 13, 2023 2 / 28 PLOS BIOLOGYCoordination of cell movements and cell fate specification by morphogens Fig 1."
+AU :
+AbbreviationlistshavebeencompiledforthoseusedinFigs1to7:Pleaseverifythatallentriesarecorrect: DPP is the morphogen that attracts cells dorsally.
+"(A, B) Cell density heatmaps of dorsal and ventral sides of wildtype embryos at early (A) and late (B) cellularization stages."
+"“Average heatmaps” combine data of 9 embryos for all genotypes, except for gd7;dpp- (n = 5)."
+“Representative heatmap” shows a single embryo with A/P marker ftz (black dots).
+Note the higher dorsal cell density in early stage that increases in late stage.
+(C) gd7 mutants with no DL gradient loose early asymmetry of cell densities.
+(D) Dorsal and ventral cell count differences of embryos shown in (A–C).
+(E) antiE-CAD membrane labeling of dorsal cells in wild type during cellularization.
+(F) Quantification of cell constriction over time.
+"Dorsal cells show significant decrease in segmented surface area from early to mid- to late stages, while ventral cells of same embryos do not."
+"(G, H) DPP increases cell density in the absence of DL."
+(G) Average cell density heatmaps in late stage gd7 embryos without DL gradient (top left).
+"The highdensity levels in ventral and dorsal surfaces is abolished when DPP is also removed (gd7;dpp- embryos, top center) and restored by the ectopic expression of dpp (gd7;dpp- st2dpp embryos, top right; dots indicate margins of rho domain)."
+Changes in the expression of DPPtarget rho in these genetic backgrounds (bottom) confirm the manipulations.
+"(H) Dorsal and ventral cell counts in wild type, gd7 and gd7;dpp- embryos at late cellularization stage."
+"Error bars, standard deviation."
+"N. S., not significant."
+"Asterisks, threshold values based on pvalues calculated with twotail Mann–Whitney test (D, F, H, comparison of different genotypes and stages) or twotailed Wilcoxon signedrank test (H, comparison of D/V surfaces of same genotypes and stages)."
+"�p < 0.05, ���p < 0.0001."
+"Scale bars, 10 μmAU : Pleasenotethatallinstancesof mmarechangetomm:"
+"Pleasecheck: the graphs shown in D, F, and H can be found at Supporting information S1 Metadata."
+"A/P, anteroposterior; DL, dorsal; DPP, decapentaplegic; D/V, dorsoventral; FTZ, fushi tarazu; GD, gastrulation defective; ST2, even skipped stripe 2. (E) and 60 μm (G)."
+"Metadata for https://doi.org/10.1371/journal.pbio.3002021.g001 and late cellularization stages defined by initial and fully extended membrane invagination on the ventral side, respectively."
+"Images obtained from these stages were then segmented to obtain the centroids of each nucleus, and the 3D cell features were imported into geographic information system (GIS) to generate average cell density heatmaps for the dorsal and ventral regions and to analyze the data with spatial statistics."
+"In addition to heatmaps and hot/cold spot maps, we also tested for differences in cell count numbers (see Methods)."
+"PLOS Biology | https://doi.org/10.1371/journal.pbio.3002021 March 13, 2023 3 / 28 PLOS BIOLOGYCoordination of cell movements and cell fate specification by morphogens Our results show that at the cellularization onset, there is already a slightly higher number of dorsal cells than ventral cells (Fig 1A)."
+These differences are established prior to cellularization by the DL gradient as evidenced by the fact that embryos without nuclear DL have equal cell densities in the ventral and dorsal sides at the beginning of cellularization (Fig 1C and 1D).
+"In agreement with previous reports, by the end of cellularization, the asymmetric pattern of high density of cells within the dorsal region versus low density in the ventral region becomes evident in density heatmaps of late stage embryos (Fig 1B and 1D)."
+"Since the total cell number in the embryo remains constant during cellularization and apoptosis is absent during this stage, the emergence of a dorsal region of high cell density reflects the movement of cells towards the dorsal midline."
+"To visualize these movements, we analyzed timelapse videos of live embryos expressing the cell membrane protein ECadherin/ShotgunGFP (ECAD/ShgGFP) as well as ECAD in fixed embryos throughout cellularization (Fig 1D)."
+"The data obtained with ECAD-GFP agree with previous analyses using HistoneGFP, but since ECAD-GFP labels cell contours, our analyses rule out the possibility of nuclear movement within cells and reveal that the cell movements involve cell constriction with no evident intercalation between cells (S1 Video)."
+We measured the segmented surface areas of individual dorsal cells expressing ECAD-GFP in timelapse images (S2 Video and S1 Fig) and from dorsal and ventral cells of same fixed embryos at 3 distinct stages (Fig 1E and 1F).
+"These results show that the apical surface of dorsal cells becomes constricted and tightened as cells move dorsally, resulting in a significant decrease in cell size from early to mid and to late stage."
+"In contrast, cells located in the ventral side of the embryo do not constrict over time (Fig 1F)."
+"Thus, these experiments confirm the stereotyped cell movements from the lateral regions and poles towards the dorsal midline center, resulting in an increase in cell density on the dorsal surface of the embryo compared to the ventral surface."
+"DL regulates cell movements indirectly through DPP From the data presented above and previous reports, it is clear that cells are attracted to the dorsal region and their density increases in this region over time."
+"To a large extent, this pattern of cell clustering is the mirror image of the DL gradient, which decreases continuously towards the dorsal side."
+"In addition, the asymmetric dorsal clustering of cells was shown to be abrogated in embryos with no nuclear DL."
+"However, if DL regulated this dorsalbound cell movement directly, then this would imply that it does so by creating cell repulsion."
+"In this case, we should expect repulsion to reach its maximum in the ventral region where the levels of DL peak."
+"Nevertheless, in this region, the cell movement is virtually inexistent."
+"Thus, DL cannot be the morphogen that directly governs these cell movements, but rather it must do so indirectly through repression of another morphogen that attracts cells dorsally."
+"The natural candidate to exert this activity is DPP, which meets the requirements of being repressed ventrally by DL and achieving peak levels in the dorsal midline, the site where cells are attracted to."
+"To understand the relationship between cell clustering and the DL and DPP gradients, we tested the effects caused by the removal of DL and DPP individually and simultaneously."
+"First, we analyzed embryos without the DL gradient using the maternal mutation gastrulation defective (gd), which prevents the processing of Spa¨tzle and the activation of Toll."
+"In those embryos, the DL gradient is not formed because DL is absent from the nuclei."
+"In addition, the DPP gradient is not formed because the relief of DL repression allows DPP to expand across the DV axis as can be seen by the ubiquitous activation of its target rho (Fig 1G)."
+"As expected, we observe a high cellular density across the D/V axis within the center region of these embryos (Fig 1B, 1G and 1H)."
+"The anterior and posterior poles have a low density as in the wild PLOS Biology | https://doi.org/10.1371/journal.pbio.3002021 March 13, 2023 4 / 28 PLOS BIOLOGYCoordination of cell movements and cell fate specification by morphogens type, indicating that the movements controlled by the A/P coordinates are maintained, but these anterior/posteriormost cells move towards the center of the embryo without noticeable dorsoventral differences (i.e., the directionality to the dorsal midline is lost in gd embryos)."
+"Next, to test if this cellular density packing stems from the indirect ubiquitous activation of DPP, we removed DPP from embryos without DL gradient (note loss of rho activation in Fig 1G)."
+"In contrast to the loss of DL only, embryos without DL and DPP gradients have a much lower cell density across the D/V axis (Fig 1G and 1H)."
+"Thus, DPP is required for cell clustering."
+"To further test the ability of DPP to attract cells, we analyzed embryos without DL and DPP gradients expressing DPP orthogonally by using the evenskipped stripe 2dpp (st2dpp) construct."
+These experiments show that DPP expressed in this position activates ectopically its target gene rho and indeed attracts cells to the center of the embryo across its entire circumference (Fig 1G and 1H).
+Several other pieces of evidence unambiguously demonstrate that DPP attracts cells.
+"First, the cell density in the dorsal region never increases over time in embryos without DPP (Fig 2A–2C)."
+"Second, this phenotype can be rescued by the addition of st2dpp."
+The rescued embryos have a broad area of high cell density on the dorsal surface beyond the sites of dpp RNA expression and rho activation (Fig 2D).
+"Third, cell counts along the A/P axis of these embryos show a higher cell density anteriorly than posteriorly, showing a reorganization in the cell density along the A/P axis in response to the localized ectopic DPP source (Fig 2E and 2F)."
+"Finally, GetisOrd Gi� spatial statistics show that while wildtype embryos have large hot spots in the central dorsal region flanked by cold spots in the poles (Fig 2G), the hot and cold spots are smaller in dpp embryos and there is an increase in randomly distributed cells (Fig 2GAU : PleasenotethatFig2HiscitedinthesentenceFinally; Getis (cid:0) OrdGi � spatialstatisticsshowthatwhilewild (cid:0) spots shifted more anteriorly (Fig 2GAU : PleasenotethatFig2IiscitedinthesentenceTheexpressionofst2 (cid:0)"
+Dpprevertsthisphenotype:::butisnotincludedinthecaptionofFig2:Pleasecheck:).
+"The expression of st2dpp reverts this phenotype similar to the wild type, with hot)."
+Typeembryos:::butisnotincludedinthecaptionofFig2:Pleasecheck: A genomewide search identifies GUKholder and frazzled as candidate genes to regulate cell movements The results above show that DPP attracts cells dorsally and DL stalls them ventrally by excluding DPP expression.
+"However, since DL encodes a transcription factor and DPP encodes a secreted signaling protein, these cell movements must be enabled by downstream genes."
+"To identify these effectors, we searched for genes likely to respond to DL and/or DPP gradients and that encode proteins with a role consistent with the regulation of cell movement."
+We screened the Drosophila genome for genes with similar developmental expression patterns to the DPP receptor thickveins using the existing modENCODE mRNAseq development database.
+"Out of 101 genes identified, we selected those with predicted functions in cell migration, cell adhesion, and/or cytoskeleton regulation, as well as asymmetric expression along the D/V axis (see Methods for details)."
+"This search led to the identification of 2 genes, frazzled (fra) and GUKholder (gukh)."
+"Both genes have been implicated in migration in various developmental contexts but were not previously associated to either DPP or DL, and their early embryonic functions are unknown."
+Fra is the Drosophila homolog of Deleted in Colorectal Cancer gene (DCC) and encodes a protein belonging to the immunoglobulin subfamily that functions as the receptor of Netrin.
+"FRA/DCC was previously implicated in glial and axonal migration, and migration of various cell types including cardiac, salivary gland, and mesenchymal cells in Drosophila."
+Gukh encodes a protein with a SCARWAVE domain predicted to act on the nucleation of actin filaments.
+"In addition, GUKH physically interacts with membraneassociated guanylate kinases (MAGUKs), such as DISCS LARGE (DLG) and is required for the correct subcellular localization of the planar cell polarity proteins DLG and Scribble (SCRIB)."
+"In PLOS Biology | https://doi.org/10.1371/journal.pbio.3002021 March 13, 2023 5 / 28 PLOS BIOLOGYCoordination of cell movements and cell fate specification by morphogens Fig 2. DPP pulls cells over long distances."
+Cell density heatmaps of dpp- embryos at early (A) and late (B) cellularization stages.
+The dorsal surface has slightly higher density than ventral surface that does not change over time.
+Average heatmap shown on left (n = 9).
+Representative heatmap on right shows ftz stripes (black dots).
+(C) Cell number differences between ventral and dorsal sides in dpp- at early and late stages.
+(D) Cell density heatmaps of the dorsal surface of late stage dpp-
+"Embryos ectopically expressing dpp (st2dpp) (gray dots, stripe position)."
+Black dots in representative heatmap show rhoexpressing cells.
+(E) Selected regions for cell counts using ftz as an A/P landmark for nearby (st2) and distant (st6~7) regions from ectopic dpp.
+"(F) Cell counts in latestage wild type and dpp- and dpp-, st2dpp embryos."
+Note that st2dpp expression increases the density of cells in ftz stripe 2 and reduces the density of cells between stripes 6 and 7 compared to wild type.
+"Error bars, standard deviation."
+"N.S., not significant."
+"Asterisks, threshold values based on pvalues (��p < 0.01) calculated with twotail Mann–Whitney test (different stages in C; genotype comparisons in F) or twotailed Wilcoxon signedrank test (st2 and st6~7 comparisons of same genotypes in F)."
+"(G) Hot spot analysis of dorsal surface of wild type, dpp and dpp, st2dpp embryos."
+"Legend on left side indicates colorcode for confidence intervals of hot spots (red shades) and cold spots (blue shades), and nonsignificant regions (NS, yellow)."
+"Scale bars, 60 μm (D and E, top) and 20 μm (E, bottom)."
+Metadata for the graphs shown in C and F can be found at Supporting information S1 Metadata.
+"A/P, anteroposterior; DPP, decapentaplegic; FTZ, fushi tarazu; ST2, even skipped stripe 2."
+"https://doi.org/10.1371/journal.pbio.3002021.g002 Danio rerio, its ortholog has been shown to regulate cell migration during craniofacial development."
+"Furthermore, the human orthologue of GUKH, the Nance–Horan syndrome gene (NHS), nucleates actin filaments."
+"Noteworthy, emerging work link both fra and gukh to epithelial polarity functions, morphogenesis, and regulation of adherens junctions along the cell apicobasal axis."
+DPP and DL regulate gukh expression and DL regulates fra expression We next tested if gukh and fra are regulated by DL and/or DPP.
+"Gukh RNA is strongly expressed in 2 lateral stripes in the ventral neuroectoderm, in the mesoderm, and in a thin stripe within the dorsal midline as revealed by sensitive fluorescent in situ hybridization (Figs 3A, 3C, S2A and S2B)."
+"Our results show that both DPP and DL are required to activate gukh in the dorsal and ventral regions, respectively."
+This regulation is evident in dpp- mutants where the expression of gukh in the dorsal midline is lost (Fig 3A and 3B; note the presence and absence of gukh nascent transcripts in high magnification boxes) and restored by the expression of st2dpp (S2C and S2D Fig).
+"Furthermore, in gd7 mutant embryos that cause the loss of nuclear DL and the activation of DPP signaling, the dorsal stripe of gukh expression expands PLOS Biology | https://doi.org/10.1371/journal.pbio.3002021 March 13, 2023 6 / 28 PLOS BIOLOGYCoordination of cell movements and cell fate specification by morphogens Fig 3."
+GUKH and FRA are DL and/or DPP targets that regulate coordinated cell movements.
+(A–F) gukh is activated by DPP and DL.
+"In the wild type (wt), gukh RNA appears in a thin stripe in the dorsal midline (A) and a broad ventral domain with high levels in the ventral neuroectoderm (C, arrows; S1 Fig)."
+"(B) gukh dorsal expression is lost in dpp- embryo; compare nascent transcripts in insets in A, B (see also S1 Fig)."
+(D) gd7 mutant without DL and ubiquitous DPP have expanded gukh dorsal domain across the D/V axis and loss of neuroectodermal expression domain.
+(E) Toll10b mutant with ubiquitous high nuclear DL levels have gukh ventral expression domain expanded.
+(F) gukh expression is completely lost in the absence of DL and DPP in gd7; dpp-.
+(G) fra RNA forms a D/V gradient.
+Graded DL levels repress fra as seen by fra expansion in gd7 mutant with no DL (H) and increasingly lower levels in Tlr4 (I) and Tl10b (J) mutants with intermediate and high nuclear DL levels (see also S1 Fig).
+(K) fra RNA levels decrease with increasing levels of DL in wild type and in mutants.
+"(L) Average cell density heatmaps of latestage wild type, fra3 and gukhL1 embryos (n = 9) show that the high cellular density in the dorsal side requires fra and gukh."
+Note also the higher ventral cellular density in the mutants compared to wild type (see also S2 Fig).
+(M) D/V cell count differences of genotypes in (L).
+"Error bars, standard deviation."
+"Asterisks, threshold values based on pvalues calculated with twotail Mann–Whitney test (��p < 0.001 and ���p < 0.0001)."
+"(N) Hot spot analysis of dorsal and ventral embryo surfaces of wild type, fra and gukh."
+"Legend on left shows colorcodes for confidence intervals; NS, not significant; DB, distance band value employed for each surface analyzed."
+"Scale bars shown in A, 60 μm (whole mounts), 20 μm (inset)."
+Metadata for the graphs shown in K and M can be found at Supporting information S1 Metadata.
+"DL, dorsal; DPP, decapentaplegic; D/V, dorsoventral; FRA, frazzled; GD, gastrulation defective; GUKH, gukholder."
+https://doi.org/10.1371/journal.pbio.3002021.g003 throughout the embryo circumference (Fig 3D).
+"Evidence that gukh is also activated by DL was obtained using Tlr4, a mutation that maintains uniform levels of nuclear DL around the entire embryo circumference."
+"In these embryos, the gukh ventral expression domain is expanded around their entire circumference (Fig 3E)."
+"Finally, gukh expression is completely lost in gd7, dpp- embryos that lack both DL and DPP (Fig 3F)."
+"PLOS Biology | https://doi.org/10.1371/journal.pbio.3002021 March 13, 2023 7 / 28 PLOS BIOLOGYCoordination of cell movements and cell fate specification by morphogens"
+"In contrast to the expression of GUKH that appears in discrete positions, fra RNAs are dissed- tributed in a dorsal to ventral gradient (Fig 3G) that is not regulated by DPP (S2E–S2H Fig) but generated by a dosagedependent repression by DL."
+"This can be best demonstrated by quantifying the levels of fra in embryos without nuclear DL (gd7 embryos) (Fig 3H) or intermediate (Fig 3I) and high levels of nuclear DL (Fig 3J) (i.e., using moderate and strong dominant mutations of Tl)."
+"Indeed, the intensity levels of fra RNA obtained in mutants that do not express DL or express DL uniformly at a single level, reproduce discrete points of the curve of decaying fra levels from dorsal to ventral regions in normal embryos (Fig 3K)."
+Fra and gukh are required for stereotyped cell movements We next asked if the response of fra and gukh to the D/V gradients of DL and/or DPP is required for the stereotyped cell movements in the embryo.
+"To address this issue, we analyzed cell density heatmaps and hot/cold spots of the null mutants fra3 and gukhL1."
+The heatmaps show that the cell density decreases in the dorsal region of mutant embryos and increases in the ventral region (Fig 3L).
+These findings are confirmed by direct cell counts that yield a significantly lower D/V cell count differences in fra and gukh embryos compared to the wild type (Fig 3M).
+"The hot spot analyses in the dorsal region can still identify hot spot clusters in the mutants, and those are established with less cell numbers (Fig 3N)."
+"Noteworthy, we observe the emergence of cell density hot spots within the ventral midline of mutant embryos (Fig 3N)."
+"This finding contrasts to wildtype embryos, which typically show random cell distribution in the ventral region, and occasionally have few hot spots in more lateral regions but not in the ventral midline (Fig 3N)."
+"Finally, density heatmaps in the lateral region of the embryo corresponding to the neuroectoderm show a higher cell density in fra3 and gukhL1 than the wild type (S3 Fig), in agreement with a decreased attraction of lateral cells to the dorsal region."
+"Taken together, these results show that fra and gukh are required for the stereotyped cell movements in the blastoderm."
+The cell movement towards the dorsal side of embryos deploys changes in cell area that are regulated by FRA and GUKH Our results show that there is a noticeable decrease in the size of dorsal cells from early to late stage (Fig 1D and 1E).
+"We also observe that in late stage, dorsal cells are on average 34% smaller than ventral cells (Fig 4A–4D)."
+"Since the shape of these cells often approximates a regular hexagon (Figs 1D and 4A), a single dorsal row that shrinks 34% of its area could dislodge 20% of the diameter of a ventral cell or 24% of a dorsal cell."
+"Thus, the constriction of 5 cell rows can roughly pull 1 cell diameter of ventralsized cells."
+"To test whether the expression of fra and gukh in dorsal cells are required to constrict and pull lateral cells dorsally, we analyzed if mutants for these genes changed the area of dorsal cells."
+"These experiments reveal that dorsal cells of fra mutants are 26% larger than wildtype dorsal cells, whereas gukh dorsal cells are almost 40% larger than the wild type (Fig 4D)."
+"Thus, we conclude both fra and gukh are required for the constriction of dorsal cells."
+"FRA increases the levels of ECAD in adherens junctions and GUKH increases FActin bundles While quantifying the cellular areas of fra and gukh mutants, we noticed that ECAD at spot adherens junctions (SAJs) appeared much weaker, illdefined, and with gaps in fra mutants, indicating that fra is required for maintaining correct ECAD levels and the integrity of the SAJs (Fig 4F–4G)."
+"In contrast, ECAD levels at the membrane do not appear to change in gukh PLOS Biology | https://doi.org/10.1371/journal.pbio.3002021 March 13, 2023 8 / 28 PLOS BIOLOGYCoordination of cell movements and cell fate specification by morphogens Fig 4."
+FRA and GUKH are required for cell constriction through apical localization of ECAD at cell membranes.
+(A–C) Image segmentation for cell surface measurements.
+(A) Filtered image of antiE-CAD staining.
+(B) Image segmentation shows outlines of membranes bordering ECAD.
+"(C) Merge of A, B. (D) Quantifications of surface areas from wildtype ventral and dorsal cells, and dorsal cells from fra and gukh mutant at late cellularization stage."
+"In the wild type, dorsal cells are significantly smaller than ventral cells."
+"In fra and gukh, dorsal cells are not constricted as dorsal cells in wild type."
+"Error bars, standard deviation; pvalues calculated with twotail Mann–Whitney test (���p < 0.001)."
+"(E, F) Latestage wildtype embryo stained for antiE-CAD showing lower levels in ventral (E) than dorsal cells (F)."
+Dorsal cells from fra (G) and gukh (H) stained for ECAD.
+"Note larger cell sizes with diffuse ECAD signal compared to wild type, and low ECAD membrane signal in fra (see also S3 Fig)."
+"(I–K) Segmented dorsal cells from wild type, fra and PLOS Biology | https://doi.org/10.1371/journal.pbio.3002021 March 13, 2023 9 / 28 PLOS BIOLOGYCoordination of cell movements and cell fate specification by morphogens gukh stained with ECAD."
+The low levels of ECAD in the mutants result in less cells with high circularity (red outlines) and more cells with lower circularity (green outlines) compared to the wild type.
+"FRAGFP (L, O, green) and ECAD (M, P, red) in dorsal cells shown in sagittal (L and M) and apicallateral surface views (O, P)."
+"(N, Q) Signal colocalization in merged images (arrows) (see also S4 Fig)."
+"Scale bar, 10 μm."
+Metadata for the graph shown in D can be found at Supporting information S1 Metadata.
+"ECAD, ECadherin; FRA, frazzled; GUKH, gukholder;."
+"https://doi.org/10.1371/journal.pbio.3002021.g004 mutants, though there is more diffuse signal within the cells compared to the wild type, as well as abnormal SAJs with fewer interruptions than those seen in fra mutants (Fig 4H)."
+"In segmented images of ECAD in the mutants, we note the presence of cells with jagged membranes and fused cells, as opposed to the smooth contours of wellseparated cells in the wild type."
+These differences can be quantified by measuring the circularity of cell contours in fra and gukh mutants and wildtype embryos (red and green outlines in Fig 4I–4K).
+The SAJs are apical constrictions containing ECAD with catenin among other proteins that interact with actin and regulate cell adhesion and signaling.
+"Our analyses also revealed that like FRA, ECAD is more abundant dorsally than ventrally and its expression is greatly reduced in the ventral presumptive mesoderm (Fig 4E and 4F)."
+"This asymmetry of ECAD is regulated directly or indirectly by DL since dorsalized embryos that lack nuclear DL have high ECAD levels, and ventralized embryos with ubiquitous nuclear DL have low ECAD levels (S3 Fig)."
+Previous work on wound healing also found that ECAD is either directly or indirectly regulated by DL.
+"However, in the case shown here, at least part of this regulation is indirect and mediated by FRA because in the absence of fra, the levels of ECAD throughout the embryo drop to levels found in the ventral region (Figs 4E, 4G and S4)."
+This similar distribution of ECAD and FRA is consistent with the fact that ECAD was also identified in our genomic screening for targets of DPP and/or DL.
+"In agreement with these results, we show that both FRA and ECAD colocalize at SAJs (Figs 4L–4Q and S5)."
+"In addition, we show that ECAD regulation is independent of DPP (S6A Fig)."
+"Together, these data indicate that FRA is necessary to maintain high levels of ECAD at the membrane."
+SinceAU :
+"Pleasenotethatemoreevidentboudsedataissubjectedtoananalysisofcellboudnariesplainsneuroectodermclearcompetition:dtypeesemutanthasbeendeleted:Pleasecheck: GUKH is required for apical cell constriction and its protein contains the SCAR-- WAVE domain implicated in the nucleation of actin in filaments, we asked if the distribution of filamentous actin (FActin) in the cell perimeter was affected in gukh mutants."
+These analyses show that the loss of GUKH reduces the thickness of the actin bundles localized right below the cell membranes (S7 Fig).
+"Consistent with this result, we show that dpp mutants, which lack gukh expression in the dorsal midline (Fig 3B), also have thinner actin bundles in the dorsal region (S6B Fig)."
+"Thus, from these experiments, we conclude that GUKH constricts cells by increasing Factin."
+The ability of GUKH to regulate cell area appears to be highly conserved since proteins of the SCAR/WAVE family regulate cell morphology from plants to humans by promoting actin filament nucleation.
+"For example, the gukh human ortholog NHS was shown to maintain cells constricted, and its removal leads to a cell spreading phenotype."
+"Cell movement is required for the proper formation of gene expression domains Thus far, our results reveal how DL and DPP gradients regulate organized cell movements through 2 effector genes that modify cell shape and adhesion, gukh and fra."
+"However, it is unclear if the cell movement generated by these proteins is required for the proper separation of the embryonic layers in different gene expression domains."
+"To address this issue, we analyzed whether fra and gukh embryos affect the expression domains of 6 D/V genes involved in ectodermal, neuroectodermal, and mesodermal cell specification."
+"Our results show that the PLOS Biology | https://doi.org/10.1371/journal.pbio.3002021 March 13, 2023 10 / 28 PLOS BIOLOGYCoordination of cell movements and cell fate specification by morphogens Fig 5."
+D/V expression domains change in fra and gukh mutants.
+"(A) RNA in situ for race, rho, msh, ind, vnd, and sna in wild type, fra3 and gukhL1."
+"Brackets, domain width."
+"Cell counts of ectodermal expression genes race and rho (B), neuroectodermal genes msh (C), ind and vnd (D), and mesodermal gene sna (E)."
+"Asterisks, threshold values of pvalues calculated with twotail Mann–Whitney test (�p < 0.05, ��p < 0.01, ���p < 0.0001)."
+"N.S., not significant."
+"Yellow dots, mean values."
+"Scale bar, 60 μm."
+Metadata for the graphs shown in B–E can be found at Supporting information S1 Metadata.
+"D/V, dorsoventral; FRA, frazzle; GUKH, gukholder; ind, intermediate nervous system defective; msh, muscle segment homeodomain; sna, snail; vnd, ventral nervous defective."
+https://doi.org/10.1371/journal.pbio.3002021.g005 changes in cell density profiles in these mutants affect the specification of all 3 D/V layers (Fig 5A).
+"In the dorsal region, we note that within the nested domains of race and rho, race decreases in size and rho is expanded (Fig 5A and 5B)."
+"In the neuroectoderm, the muscle segment homeodomain (msh) domain is expanded and misshapen in fra3 and gukhL1, whereas the lateral and ventral domains marked by ind and ventral nervous defective (vnd) are reduced in fra3 (Fig 5A, 5C and 5D)."
+"Finally, in the mesoderm, the sna domain is expanded in fra3 but reduced in gukhL1 (Fig 5A and 5E)."
+"Thus, these results show that the formation of cell density patterns is essential for the correct embryonic patterning."
+The stereotyped cell movements define the precise gradient thresholds required for the separation of gene expression domains The finding above implies that the gradients of DPP and/or DL must be affected in fra and gukh mutants.
+"To directly test this prediction, we first analyzed the distribution of nuclear DL levels in fra and gukh mutants (Fig 6A)."
+These experiments show that the increase in ventral cell density seen in the heatmaps of both mutants (Fig 3L) involves a broader domain of visible nuclear DL in fra and an apparent lower intensity in the midline of both mutants compared to the wild type (Fig 6A).
+"To determine the shape of the DL gradient, we quantified the levels of nuclear DL in these mutants (Fig 6B)."
+These analyses reveal that the DL gradient in fra and gukh mutants has a pronounced flattened peak in the ventral midline compared to the wild type (Fig 6B).
+"In the regions with lower DL levels (where standard deviations of signal intensities overlap, Fig 6B), we note that DL signal appear fuzzier in fra than in the wild type (Fig 6A)."
+"This fuzziness suggested that the gradient decays more gradually in fra, which could explain the expansion of the sna domain, and the normalized gradients confirm this expectation (S8 Fig)."
+"Since SNA is a negative regulator of neuroectodermal genes, including vnd, the invasion of SNA into the neuroectoderm explains why part of the vnd expression in the neuroectoderm is eliminated in fra (Fig 5A and 5D)."
+"In contrast, gukh mutants do not have an expansion in SNA and vnd and ind are not affected (Fig 5A and 5D)."
+"Thus, from these experiments, we conclude that the movements of cells exiting from the ventral region in the wild type affects how the DL gradient is laid out."
+"PLOS Biology | https://doi.org/10.1371/journal.pbio.3002021 March 13, 2023 11 / 28 PLOS BIOLOGYCoordination of cell movements and cell fate specification by morphogens Fig 6."
+GUKH and FRA modify DL and DPP thresholds levels and displace cells within expression borders.
+"(A–C) Detection and quantification of nuclear DL and pMAD in wild type, fra and gukh."
+(A) Ventral and dorsal views of mutant and wildtype embryos stained for antiDL (yellow) and antipMAD (green) antibodies.
+(B) DL gradient quantification shows lower peak in fra (blue) and gukh (green) than in wild type (red).
+"VM, ventral midline."
+(C) pMAD gradient decreases in amplitude in both mutants.
+"DM, dorsal midline."
+"Error bars, standard deviation; n, sample sizes."
+(D) Mesectodermal border is disrupted in fra and gukh.
+Sim RNA in latestage embryos stained with Hoescht (gray and blue in alternating panels).
+"Magenta dots, sim+ nuclei."
+Wildtype sim pattern forms a straight singlecell row.
+Sim expression is interrupted in fra (arrows) and forms clusters in both fra and gukh (dashed lines) (see also S7 Fig).
+"Scale bars, 60 μm (A) and 20 μm (D)."
+Metadata for the graphs shown in B and C can be found at Supporting information S1 Metadata.
+"DL, dorsal; DPP, decapentaplegic; FRA, frazzled; GUKH, gukholder; pMAD, phosphorylatedMothers Against DPP."
+"https://doi.org/10.1371/journal.pbio.3002021.g006 PLOS Biology | https://doi.org/10.1371/journal.pbio.3002021 March 13, 2023 12 / 28 PLOS BIOLOGYCoordination of cell movements and cell fate specification by morphogens These experiments suggest that lateral cells of fra and gukh mutants are more dorsalized due to the reduction in DL levels, which could explain the ectodermal expansion of rho into more lateral regions (Fig 5A)."
+"However, if this were the case, the reduction of nuclear DL in the mutants should increase the exposure of msh to the repressive activity of DPP and cause a retraction of msh domain."
+"Nevertheless, what we see in both mutants is exactly the opposite, which is a significant expansion of msh domain dorsally (Fig 5A and 5C)."
+"This result unmistakably shows that in these 2 mutants, DPP reaches the neuroectoderm below the threshold necessary to repress the dorsal boundary of msh, and therefore, the DPP gradient must be also affected."
+"To confirm this expectation, we analyzed the expression of phosphorylated-Mothers Against DPP (pMAD), which accumulates in the nucleus in response to DPP."
+"We measured nuclear pMAD levels at late cellularization stage, when the DPP gradient becomes stable and nuclear pMAD levels are high and report peak levels of DPP activation within a narrow stripe of dorsalmost cells."
+"These experiments show that pMAD levels drop dramatically in fra and gukh mutants (Fig 6A and 6C), which is consistent with the reduction in the race domain of both mutants (Fig 5A and 5B)."
+"Thus, in these mutants, DPP does not reach its peak levels dorsally and collapses forming a flattened gradient that spreads more laterally as revealed by the expansion of rho (Figs 5A, 6A and 6C), and reaches the neuroectoderm at lower levels than normal as seen by the expansion of msh."
+"Together, these results reveal an unexpected relationship between cell movement and the formation DPP and DL gradients."
+"Namely, that the thresholds of gene activation or repression elicited by the DPP and DL gradients are tightly coordinated with the movement of cells."
+"In other words, the correct gradient thresholds are only achieved when the cells are moving in defined trajectories in response to these gradients."
+FRA and GUKH are required for defining the separation of juxtaposed expression domains The experiments above show that GUKH and FRA regulate the fate and position of cells by changing the way gradients and thresholds are spread in space.
+"However, it is unclear if in addition, the movement of these cells is required to fine tune borders of gene expression."
+"To address this issue, we analyzed a particular group of cells bordering the mesoderm and neuroectoderm."
+"At this position, single-minded (sim) is expressed in a single row of mesectodermal cells forming a straight line, which depends on the sharp sna boundary for precise localization of Notch signaling activation."
+"If the formation of a straight line of simexpress- ing cells depends on a highly coordinated exiting of cells from the mesoderm, then halting the exiting of cells should disorganize the line of simexpressing cells."
+"The analysis of the mesodermal boundary in fra and gukh mutants shows that the sna border becomes jagged (S9 Fig), whereas the sim expression has gaps and abnormal clusters containing 2 rows of simexpress- ing cells (Fig 6D)."
+We conclude that FRA and GUKH are required to maintain sharp boundaries and prevent the intrusion of neighboring cell fates from different expression domains.
+"In sum, our data support a model whereby morphogens control organized cell movements, which are essential for the correct placement of cell fates and for maintaining shapes of the gradients themselves."
+Discussion It has been well established that morphogens instruct cells about their fates within tissues by activating and repressing genes at different threshold levels and eliciting local crossregulation among target genes that help separate domains of gene expression.
+"Extensive evidence shows that morphogens can act over relatively long distances, yet cells can be separated into different PLOS Biology | https://doi.org/10.1371/journal.pbio.3002021 March 13, 2023 13 / 28 PLOS BIOLOGYCoordination of cell movements and cell fate specification by morphogens Fig 7."
+Model of DynaMMA.
+(A) Current model of embryonic patterning.
+Crosssection of an embryo in which the cells are static and DPP and DL instruct cells about fate.
+The gradient of activated Toll receptors regulates the transport of DL to the nucleus and creates a ventral to dorsal gradient of DL.
+DL represses DPP and restricts its expression to the dorsal side of the embryo.
+"From this position, DPP forms a dorsalto-ventral gradient that instructs cells."
+Extracellular shuttling of DPP increases its concentration in the dorsal midline.
+Note that both gradients are inflexible and cannot tolerate changes in cell position.
+(B) DynaMMA.
+"In this model, DL excludes DPP and FRA from the ventral domain and creates a dorsalto-ventral gradient of FRA superimposed to a DPP gradient."
+High levels of FRA dorsally counteract the cell dissociative and invasive properties that peak DPP levels cause and maintain the cells tightly attached.
+The gradient of FRA establishes a gradient of cell cohesivity that progressively loosens cells towards more lateral regions.
+Peak levels of DPP dorsally activate GUKH that constricts the cells dorsally by interacting with Factin and allows cells to be pulled dorsally.
+"In the DL domain, this pulling allows cells to move up along the ventral–dorsal axis and sharpen the DL gradient through fewer nuclei competitivity."
+"Similarly, the formation of the DPP gradient also depends on cell densities; in this case, the compression of cells dorsally sharpens the DPP gradient by creating the peak level necessary for patterning dorsal regions of the embryo, possibly through the concentration of TKV receptors in more constricted cells."
+"DL, dorsal; DPP, decapentaplegic; DynaMMA, Dynamic Adjustment of Movement with Morphogenetic Activity; FRA, frazzled; GUKH, gukholder; TKV, thick veins."
+https://doi.org/10.1371/journal.pbio.3002021.g007 genetic programs even when located within few cell diameters apart.
+"If fate separation within neighboring cells per se is remarkable, even more surprising is that morphogens achieve this level of precision while cells are in motion."
+"Indeed, it is difficult to understand how a system of coordinates that seems utterly dependent on protein dispersion can instruct cells in motion with such high level of precision."
+"Our results support a new model that integrates gradient activity and cell position, which we refer to as model of Dynamic Adjustment of Movement with Morphogenetic Activity (DynaMMA, Fig 7) and discuss below."
+"Current models of DV patterning draw from the considerable effort put forth to explain fate specification and position through mathematical models that test different scenarios involving variables such as dispersion of ligands, production, and degradation rates of pathway components and time (reviewed in)."
+"Since these models usually assume that cell fields are static, the variations in the shape of a gradient and gene responses are frequently interpreted in the realm of the dynamics of the components of a pathway, not cells and their spatial positions over time (Fig 7A)."
+"The gradient of DL, for example, is generated by the graded activation of Tl receptor in response to a cascade that activates its ligand Spa¨tzle in the perivitelline space."
+Tl activation causes the degradation of cactus allowing free DL to translocate into the nucleus (reviewed in).
+"In contrast, our results reveal an additional mechanism that is key to the formation of this gradient which is the exiting of cells from the ventral region and their passing through progressively lower levels of active Tl."
+"The cells that remain in the ventralmost region of the embryo are expected to experience an increase in nuclear DL levels due to a decreased PLOS Biology | https://doi.org/10.1371/journal.pbio.3002021 March 13, 2023 14 / 28 PLOS BIOLOGYCoordination of cell movements and cell fate specification by morphogens competition among nuclei that receive DL."
+"Indeed, it has been shown the DL gradient is sensitive to nuclear density and quickly increases in amplitude during early cellularization stage."
+"Fra and gukh mutants clearly lack this increase in amplitude, which can be explained by the increased competition for DL nuclear transport caused by the more densely packed nuclei in the ventral region of these mutants compared to the wild type."
+The change in nuclear DL gradient caused by the exit of ventral cells towards the dorsal region appears to be an important mechanism that ties DL and DPP to a single coordinate system similar to a tug of war where DPP is on one end pulling cells and DL on the other resisting to this pulling force.
+"This system allows for assigning cells with nuclear DL to specific positions in response to DPP levels, and in these positions, cells acquire fates that depend on both DL and DPP."
+"Since DPP can modulate the exiting of ventral cells from the mesoderm and how much these cells move in and away from the zone of Tl activation, DPP ultimately can regulate the levels of nuclear DL, not transcriptionally, but by cell attraction."
+This exquisitely simple mechanism of cell–cell interaction is potentially capable of creating very precise variations in target gene expression that are based on the thresholds of 2 morphogens in a single position.
+"With this view in mind, it is inevitable to conclude that cell movement does not pose a hindrance to fate specification, but indeed is the very way of achieving maximal precision in determining the position of cells and their fate (Fig 7B)."
+"Peak levels of DPP are regulated by cell density Whereas ventrally the DL gradient can be readjusted by the exit of ventral cells to more lateral regions, dorsally, the shape of the DPP gradient appears to be regulated by the attraction of cells by DPP to the site where its signaling peaks."
+This is best illustrated by the collapse of peak levels of DPP and the narrowing of the pMAD stripe in gukh and fra.
+"Since FRA and GUKH are part of a complex of proteins involved in cell adhesion, it seems clear that the normal sudden sharpening of the pMAD stripe depends on these cell contacts (Fig 7B)."
+"In particular, the adherens junctions, which have high levels of ECAD and make strong contacts in the presence of high levels of FRA."
+"Consistent with these observations, FRA colocalizes with ECAD and the loss of FRA alone eliminates the asymmetric localization of ECAD along the D/V axis (Figs 4G and S3)."
+"Thus, the dorsalto-ventral gradient of FRA elicits a gradient of ECAD and these gradients appear to be essential in determining the range of peak DPP levels."
+"The mechanism by which FRA increases ECAD levels is unknown and needs to be investigated further, but it seems likely that FRA normally might prevent a default degradation of ECAD."
+There are at least 3 reasons to believe that the presence of FRA might regulate the degradation of ECAD.
+"First, it has been shown that cells exposed to high levels of DPP/BMP usually have low levels of ECAD and high mobility, which is exactly the opposite of what we have shown in embryos where dorsal cells have high levels of DPP, ECAD, and FRA."
+"Second, the high levels of ECAD where DPP peaks can be abolished by removing the FRA receptor alone (Fig 4G)."
+"Third, mutants without FRA have low ECAD levels throughout the embryo comparable to ventral regions without FRA (S3 Fig)."
+"Consistent with these observations, it has been reported that human ECAD is cleaved by Presenilin1 (PS1), which serves the purpose of disassembling AJs."
+This is achieved by the binding of PS1 to the GGG binding site in human ECAD and the cleaving of ECAD at a γ secretaselike site right at the transmembrane domain on the cytoplasmic side.
+"In Drosophila, we note that ECAD and FRA have the PS1 binding site (1376GGG1378 in ECAD and 1328GGG1330 in FRA) and the γ secretaselike site."
+"Thus, FRA appears to have the necessary sequences to compete with ECAD for the binding to PS1 and in this way reduce ECAD degradation."
+"Since FRA is regulated by DL and not DPP, FRA becomes expressed where the high levels of DPP would normally lead to a decrease PLOS Biology | https://doi.org/10.1371/journal.pbio.3002021 March 13, 2023 15 / 28 PLOS BIOLOGYCoordination of cell movements and cell fate specification by morphogens in ECAD."
+Such mechanism allows for keeping high levels of DPP signaling without the adverse effects of disassembling cell contacts.
+Previous studies have found an association between DPP signaling and ECAD and suggest that this type of signaling might be recurrently used during development.
+"For example, in the stem cell niche of the Drosophila testis, the DPP receptor TKV appears to be guided to the apical region of cells by ECAD and in this way the signaling is concentrated in a particular region."
+"Similarly, during retinal development, TKV is required for the integrity of cell junctions containing ECAD and the specification of pigment cells."
+"In addition, the overexpression of ECAD causes upregulation of the Punt ortholog TFGβ Receptor II and increases TGFβ signaling in vitro."
+"Finally, ECAD binds directly to this type II receptor in a complex that includes the type I receptor."
+"Together, these data suggest that FRA might be required to increase the levels of ECAD and cell tightening, which in turn guides TKV to achieve high levels of DPP signaling."
+"In this view, the lower levels of pMAD in gukh and fra mutants may be explained by the decrease in cell clustering observed in these mutants (Figs 6C and 7)."
+The role of asymmetric DV cell densities for the formation of peak levels of DL and DPP gradients can be summarized as follows.
+"In the ventral embryonic region, a low cell density is essential to decrease the competition of DL to enter the nuclei, whereas in the dorsal region, a high cell density achieved via cell constriction with tight Factin bundles and ECAD membrane localization may contribute to a higher concentration of TKV receptors and DPP peak levels (Fig 7B)."
+"Consistent with the possibility that ECAD is required to generate the peak levels of DPP required to pull cells and create a normal DL gradient, we note that the loss of ecad causes the expansion of rho and retraction of vnd and sna (S10 Fig) that are defects reminiscent of a lowerthan-normal DL gradient."
+Dynamic cell interactions are essential for a selfcorrecting system that organizes tissues and adjusts supply with demand Polarized gradients in which 1 morphogen antagonizes the other are frequently deployed to establish a series of cell fates within a field of moving cells.
+"Movement is not the exception, but the rule."
+"These facts suggest that after 50 years of the French Flag Model or the French Flag Problem as originally stated, there is enough evidence that the field of cells that is instructed to differentiate participates in the way this instruction is delivered."
+"Lewis Wolpert, the proponent of the French Flag Model concedes that the current view of morphogen needs additional alternatives that include cell interactions."
+"In a recent work, it was shown that the formation of neural cell fates in the vertebrate neural tube depends on a differential distribution of cadherins established by the Sonic Hedgehog gradient, providing patterning robustness despite cell movements and noisy morphogen signals."
+"Here, we show that cells change their positions in a coordinated fashion in response to morphogenetic gradients."
+"Additionally, cells subjected to the instructive activity of one morphogen can be allocated to different positions by a second morphogen, and in this way, create a continuum of cell fates."
+"Finally, we show that the integrity of this system regulates the shapes of the gradients and therefore how much of the morphogen is delivered."
+"Thus, the separation of different embryonic tissues requires a system that coordinates the levels of morphogen with the position of cells and gene expression."
+Methods Fly stocks and genetic crosses Stocks were obtained from the Bloomington Stock Center (BSC).
+Wildtype embryos were collected from y w flies.
+Dpp-
+Embryos were collected from dppH46 wgSp1 cn1 bw1/CyO23 stock.
+"PLOS Biology | https://doi.org/10.1371/journal.pbio.3002021 March 13, 2023 16 / 28 PLOS BIOLOGYCoordination of cell movements and cell fate specification by morphogens dpp-, st2dpp embryos were collected from y w; dppH46 wgSp1 st2dpp/CyO stock."
+gd7 embryos were collected from eggs laid by v1 gd7/ v1 gd7 females.
+"To obtain gd7, dppH46 double mutant embryos, we generated the stock v1gd7/FM3; dppH46wgSp1cn1bw1/CyO23 and selected females homozygotes for gd7 to cross with dppH46wgSp1cn1bw1/CyO23 males and collected embryos from this cross."
+"To obtain gd7; dppH46, st2dpp embryos, females v1 gd7/ v1 gd7; dppH46 wgSp1 cn1 bw1/CyO23 were mated to y w; dppH46 wgSp1 st2dpp/CyO males."
+Embryos with modest nuclear DL concentration were collected from eggs laid by females homozygotes for Tlr4.
+"Embryos with high nuclear DL concentration were collected from eggs laid by females heterozygotes for Tl10B. Fra mutant embryos were obtained from fra3/CyO, hblacZ stock."
+"Gukh mutant embryos were obtained from gukhL1/TM3, hblacZ stock."
+gukhL1 was generated by imprecise Pelement excision of gukhBG02660 (w1118; P{GT1} gukhBG02660 line (BSC).
+gukhL1 is embryonic lethal and null for gukh RNA.
+Lethality was also confirmed using deficiencies Df (3R)Exel6182 [FBab0038237] and Df(3R)BSC474
+[FBab0045340].
+"Embryos expressing GFPtagged proteins (Ecadherin-GFP and FRAGFP) were collected from y w�; TI{TI}shgGFP and y w[67c23]; Mi{PTGFSTF.1}fra[MI06684GFSTF.1], obtained from BSC."
+"Fly stocks were maintained at room temperature on a cornmealbased medium (cornmeal, molasses, yeast, agar, tegosept, and water)."
+Crosses were done at 25˚C and 70% humidity.
+Embryo collection and fluorescent multiplex in situ hybridization Approximately 5 to 6 h embryos were collected from agar plates with grape juice supplemented with yeast at 25˚C and fixed according to.
+"Protocols used for fluorescent multiplex in situ hybridization, double in situ and antibody protocols and probe labeling are described in detail in."
+"RNA antisense probes were labeled with Digoxigenin (DIG), Biotin (BIO), Fluorescein (FITC), or Dinitrophenol (DNP) and used at 1:100 concentration."
+"Probes were detected with the following primary antibodies (SigmaAldrich): sheepanti-DIG (1:1,000), goatanti-BIO (1:1,000), rabbit antiDNP (1:2,000), and mouseanti-FITC (1:1,000)."
+"Alexaconjugated secondary antibodies (Invitrogen) were used at 1:500 (Alexa 488, Alexa 555, and Alexa 647)."
+Nuclear staining was done with DAPI or Hoescht.
+Embryos were mounted in SlowFade Gold mountant (Invitrogen) at −20˚C before imaging.
+"Antibody immunostaining The following primary antibodies and concentrations were used: rabbitanti-Frazzled (1:200, a gift from Dr. Jan lab at University of California San Francisco), rat antiE-cadherin DCAD2 (1:100, Developmental Studies Hybridoma Bank), mouse antiβ-gal antibody 401a (1:1,000, Developmental Studies Hybridoma Bank), chicken antiβ-gal antibody (1:500), Mouse antiDorsal 7A4 (1:1,000, Developmental Studies Hybridoma Bank), and rabbit antiPhospho-Smad1/5 41D10 (1:800, Cell Signaling Technology, Product #9516T)."
+"After incubation, embryos were washed 4 times in PBT for 15 min each and incubated with secondary antibodies diluted at 1:500 for 1 to 1.5 h at room temperature."
+"For Factin labeling, Phalloidin conjugated with Rhodamin was used at 1:100 in embryos fixed without methanol (Cytoskeleton)."
+Actin was also detected with mouse antiActin antibody JLA20 at 1:30 concentration (supernatant form) from the Developmental Studies Hybridoma Bank.
+"Confocal microscopy Embryos were mounted in SlowFade Gold Antifade with added glass beads (Polyscience, 150 to 210 microns, Cat."
+#05483)
+To prevent flattening and enable rolling of embryos into desired position.
+"Images were acquired with Zeiss LSM700 confocal microscope Zstacks using a PlanApochromat 20×/0.3 M27, EC Neofluar 40×/1.3 Oil M27 or PlanApochromat 63×/1.40 oil PLOS Biology | https://doi.org/10.1371/journal.pbio.3002021 March 13, 2023 17 / 28 PLOS BIOLOGYCoordination of cell movements and cell fate specification by morphogens M27 objective lenses."
+Laser power and gain were adjusted within the dynamic range with no signal saturation.
+"For nuclei segmentation of entire embryo surfaces and signal intensity quantifications, Zstacks of about 30 slides for the embryo dorsal surface and 40 slices for ventral surface were obtained at 1.5 μm Zstep, line average 2, 1.58 μs speed, 1,024 × 1,024 pixels, 12 bits, and 20× objective lens."
+"D/V orientation of embryos was defined by the gene expression patterns of rho, sna, and ind; A/P markers used were ftz and eve."
+Ventralized (Tl mutants) and dorsalized embryos (gd mutants) do not show a patterned gene expression along the D/V axis.
+"However, the geometry of embryo (shorter dorsal side and longer ventral side) and location of pole cells at a more dorsal region are preserved and were used for orienting the embryos."
+Imaging for segmentation of cell surfaces and measuring of cell size and ECAD signal intensity in fra and wildtype embryos was done with 40× oil objective lens at 0.8 μm Zstep with settings above.
+"For measurements of intensity levels of pMAD and DL, images were collected with 12 bits (pMAD) and 16 bits (DL)."
+Line average 4 and 3.16 μs speed were used for some figure panels to improve visualization.
+Timelapse imaging Embryos expressing shg/ecad-GFP constructs were collected at 3 to 4 h after being laid on a grape plate and transferred to a doublesided tape and dechorionated by hand using a needle.
+The dechorionated embryo was placed on a coverslip covered with Heptane glue and inverted on a gas-permeable Lumox culture dish (Greiner) covered with Halocarbon oil.
+Timelapse imaging was initiated right before cellularization for about 1 to 1.5 h of duration.
+Zstacks were set up for 3 min intervals.
+"After imaging, embryos were unmounted, transferred to a slide with halocarbon oil, placed inside a humid chamber, and allowed to develop at 25˚C. Videos from embryos that hatched to the first instar larva stage were used for analysis."
+Image segmentation of nuclei and cell density spatial analyses Zstacks confocal images of nuclei stained with Hoechst or DAPI were segmented using Fiji software version 1.49s.
+"For segmentation of the embryo dorsal surface, the first 20 slices from the confocal Zstacks were used from embryos of all genotypes."
+"For the ventral side, the first 25 slices for gd7, gd7;dpp- and gd7;dpp- st2dpp embryos and the first 35 slices for embryos of all other genotypes were used."
+Accuracy of segmentation confirmed with manual nuclei counts was between 90% and 100%.
+"The last few slices of the confocal Zstacks containing the embryo periphery were discarded, since this region is not segmented reliably."
+"The Zstack subsets were processed using a “median 3D filter” with x, y, z radius set to 2.0, “gaussian 3D filter” with x, y, z radius set to 1, and “unsharp mask” filter (1.4 radius and 0.7 mask weight for the embryo dorsal surface images; 1.2 and 0.6 for ventral surface images)."
+"For dorsal side images of wildtype embryos, an additional “maximum 3D” filter with x, y, z radius 1.0 was applied to improve segmentation in areas with high nuclei densities."
+All images were filtered 1 last time using sharpen process.
+The processed images were segmented using the 3D iterative threshold segmentation available in the 3D plugin package.
+The minimum volume was set at 15 μm for ventral and dorsal embryo surfaces and the maximum volume was set at 190 μm for dorsal surface and 200 μm for ventral surface.
+"“Criteria method” was set as “volume,” “threshold method” was set as “kmeans,” “value method” was set at 100, “minimum threshold” was set as default, and “filtering box” was selected."
+"After segmentation, 3D object counter was used to obtain centroids of segmented nuclei and their x, y, z coordinates."
+"In order to identify most cells with the least background noise, a threshold value between 40 and 100 was selected in the 3D object counter window depending on the embryo image."
+"To obtain the signal intensity of some of the markers (e.g., ftz, dpp, and rho) within corresponding expressing nuclei objects, PLOS Biology | https://doi.org/10.1371/journal.pbio.3002021 March 13, 2023 18 / 28 PLOS BIOLOGYCoordination of cell movements and cell fate specification by morphogens we used the option redirect to original confocal image in the 3D object counter settings."
+"Next, the resulting.csv files containing the centroid x, y, z coordinates were imported into Esri ArcMap software to generate the density heatmaps and contour plots."
+"First, a surface mask was created using the “aggregate points” function using an aggregation distance 30."
+"Next, the heatmaps were generated using “kernel density” function and the symbology applied was a “stretched” colormap with high/low values set as 0.0105 and 0.002."
+The contour plots were set with an interval of 0.0005.
+"For creating average heatmaps of embryos of same genotype, 4 coordinates of points (i.e., anterior and posterior poles, and lateralmost points at the center of the embryo) were matched into the same location across different embryos using “add control points” function in “georeferencing” tool."
+The average heatmap was then generated using the “raster calculator” under “Map algebra” in “spatial analysis” tools.
+"The symbology applied, and contour plot settings used were the same as above."
+"Cell counts and statistical analyses For comparing cell counts at the dorsal and ventral midline regions, Matlab was used to identify the centroid of the projected confocal Zstack of ventral and dorsal embryo surfaces and to crop a rectangle of 300 × 100 pixels (156.14 × 52.04 μm)."
+The number of nuclei from this rectangle was recorded.
+The twotailed Mann–Whitney test was used to test whether dorsalven- tral cell number differences varied among embryos of different genotypes.
+The twotailed Wilcoxon signedrank test was used to test whether cell numbers varied from dorsal to ventral within embryos of the same genotype.
+"For cell counts of st2dpp expressing embryos, regions of interest of 100 × 100 pixels (52.05 × 52.05 μm) were cropped from stripe 2 ftz region and in between stripes 6 and 7 along the dorsal midline using Matlab."
+The cell numbers within these regions of interest were obtained and compared using a twotailed Wilcoxon signedrank test.
+"For D/V gene expression domain analyses, twotailed Mann–Whitney test was used to compare cell counts."
+"In all cases, we used a pvalue of 0.05 to reject the null hypothesis and accept the alternative hypothesis that the 2 compared data sets are significantly different with a 95% confidence interval."
+"Spatial statistics for hot spot analyses To identify statistically significant cell clusters of high and low density versus nonsignificant randomly distributed cells, GetisOrdi G� spatial statistic was applied to nuclei centroids of dorsal and ventral embryo surfaces using Esri ArcPro or ArcMap software."
+The centroids were split using a grid system of size 20 and the “hot spot analysis” tool was used with a fixed distance band of 50 for the denser dorsal embryo surface and 120 for the less dense ventral surface.
+"Grids identified as hot spots are labeled according to their confidence intervals (dark red, 99%; red, 95%, light red, 90%) and the same for cold spots (dark blue, 99%; blue, 95%; light blue, 90%)."
+Nonsignificant grids (NS) with randomly distributed cells are labeled in yellow.
+Fra and gukh identification in genomic in silico screenings Three main criteria were established to identify our candidate genes.
+"First, a genomewide search was conducted to select genes with similar expression pattern to the DPP receptor thickveins throughout development."
+"This search was done using the mRNAseq data from “modENCODE Temporal Expression Data”, deposited in Flybase database (Flybase release FB2014_03May, Dmel 5.57, available in Flybase archives)."
+"Second, out of 101 genes identified in this search, we selected those genes with previously described or predicted functions related to cell migration, cell adhesion, or cytoskeleton regulation."
+"Finally, we selected genes with asymmetric expression patterns along the D/V axis according to the expression pattern PLOS Biology | https://doi.org/10.1371/journal.pbio.3002021 March 13, 2023 19 / 28 PLOS BIOLOGYCoordination of cell movements and cell fate specification by morphogens database maintained by the Berkeley Drosophila Genome Project."
+Gukh was the first hit on the list of genes with developmental expression pattern similar to tkv with a 93.66% of similarity; fra was the sixth hit with 89.84% of similarity.
+Both genes fit the other 2 criteria established.
+"Fra RNA and ECAD dorsoventral signal intensity analysis Individual embryos stained with fra antisense probe or antiE-CAD antibody were imaged on the dorsal, lateral, and ventral sides using the confocal settings described above."
+"The Zstacks from ventral, dorsal, and lateral surfaces were projected in 2D using maximum intensity projection and the average intensity level and standard deviation from a region of 50 × 50 pixels (26.03 × 26.03 μm) was obtained using Fiji software."
+Intensity levels of fra RNA were measured from 5 D/V locations and were fit to a Gaussian curve using vnd as a D/V marker.
+"The measurement of ECAD intensity was obtained from the centermost region of dorsal, lateral, and ventral projected images and a linear fit was performed."
+Curve fittings were performed using OriginLab or Excel software.
+Measurement of pMAD and DL gradients The DL gradient was measured and normalized according to.
+"Briefly, embryos stained with antiDL antibody and sog RNA (used as a D/V marker) were handsliced using a 26G 3/ 8 inch needle at approximately 35% and 65% AP positions to obtain crosssections of the trunk region."
+The crosssections were flipped up and imaged using the same confocal settings for all genotypes (see description of confocal settings above).
+A small circle of approximately 10 μm2 was selected within the 30 ventralmost nuclei and the DL average signal intensity levels were obtained in Fiji.
+The pMAD gradient was measured in the 18 dorsalmost cells of the embryo.
+Confocal Zstacks were projected using maximum intensity 2D projection and a region of interest of 10.4 μm2 was cropped inside each of the 18 nuclei and the pMAD signal intensity level was obtained using Fiji software.
+A Gaussian curve fit for pMAD and DL gradients were obtained using OriginLab or Excel software.
+Supporting information S1 Video.
+Dorsal surface of a wildtype embryo expressing ECAD-GFP during cellularization.
+Note constriction of dorsalmost cells.
+(MP4) S2 Video.
+Timelapse and segmented surfaces of 7 individual dorsal cells expressing ECAD-GFP.
+"The first part of this video shows the GFP channel overlaid with the segmented surfaces of seven cells colored in white, which was used to quantify the surface areas over time."
+"The second part of the video shows all cell membranes segmented overlaid with the segmented surfaces of seven cells, each with a different color corresponding to the graph shown in S1 Fig."
+(MP4) S1 Fig.
+Timelapse imaging of individual dorsal cells expressing ECAD-GFP shows successive cell constriction over time.
+Measurements of surface areas of 7 individual dorsal cells that were segmented from S2 Video.
+Segmentation mask of each individual cell above is shown in the second part of video using the same corresponding colors as seen in the graph.
+Metadata for the graph shown in this figure can be found at Supporting information S1 Metadata.
+"(TIF) PLOS Biology | https://doi.org/10.1371/journal.pbio.3002021 March 13, 2023 20 / 28 PLOS BIOLOGYCoordination of cell movements and cell fate specification by morphogens S2 Fig."
+Additional information on gukh expression pattern and gukh and fra regulation by dpp.
+Related to Fig 3.
+"(A, B) gukh is expressed in the ventral region of the neuroectoderm."
+"Lateral view of a late blastoderm wildtype embryo showing a strong band of gukh expression within the ventral neuroectoderm (A) that colocalizes with rhomboid expression (B, rho in magenta, gukh in gray)."
+"(C, D) Ectopic dpp expression restores gukh dorsal expression in dppembryos (related to Fig 3A and 3B)."
+"(C) Dorsal view of a dpp-, st2dpp embryo stained for gukh."
+"Arrows shows presence of gukh nascent transcripts near the source of DPP expression, see high magnification inset."
+"(D) Same embryo showing expression of gukh (green), dpp (red), and the DPPtarget."
+(E–H) fra is not regulated by DPP.
+"Late blastoderm embryos shown in dorsal view (E, F) and lateral view (G, H)."
+"Fra expression is similar in wild type (E, G) and dppembryos (F, H)."
+(TIF) S3 Fig.
+"Cell density heatmaps from lateral region of wild type (wt), fra3, gukhL1embryos; related to Fig 3."
+Note that cell density is higher in mutants than in the wild type.
+Green dots indicate position of ventral and dorsal border of the lateral neuroectodermal domain marked by expression of ind.
+n indicates number of segmented embryos used for creating the average heatmaps.
+(TIF) S4 Fig.
+ECAD levels and cellular localization are modified in fra mutants and in embryos without the DL gradient; related to Fig 4. (A) Wildtype levels of ECAD decrease sharply from dorsal to ventral regions of the embryo (black circles).
+"In fra3 mutants, ECAD levels decrease in dorsal and lateral regions (squares)."
+"In gd7 dorsalized embryos, ECAD levels are intermediate to high across the entire D/V axis (gray lozenge), whereas in Tl10b ventralized embryos, ECAD levels are low across the entire embryo (gray triangle)."
+"(B) Measurements of ECAD intensity levels in small regions from one side of cell across the other side, spanning the membranes and intracellular regions."
+ECAD intensity levels in the membrane are lower in the mutants compared to the wild type but more intense within the intracellular regions than in the wild type.
+This pattern is consistent with a more diffuse staining of ECAD within the cell and less localized signal at the membrane.
+"Error bars, standard deviation."
+Sample size n = 9.
+Metadata for the graphs shown in A and B can be found at Supporting information S1 Metadata.
+(TIF)
+S5 Fig.
+Distribution of FRA protein across apical to basal regions during late cellularization stage.
+"(A, B) Localization of FRAGFP, DLG, and ECAD."
+"(A) Staining of FRAGFP (green) and discs large (DLG, magenta)."
+(B) FRAGFP (green) and ECAD (magenta).
+Top 2 rows show sagittal view of dorsal cells and ventral cells.
+Note high levels of FRA in the apical region of dorsal cells.
+"Bottom 3 rows show surface view of apical, basolateral, and basal regions."
+Note enrichment of FRAGFP in cell vertices at basolateral region and colocalization with ECAD (see Fig 4 in main paper).
+(C) Similar staining patterns are confirmed with antiFRA antibody (green) and antiE-CAD antibody (magenta) at the basolateral region of dorsal cells.
+Note colocalization of FRA and ECAD to the cell vertices (gray in merge image).
+(TIF) S6 Fig.
+Dpp mutants have normal ECAD levels and thinner Actin filaments.
+(A) ECAD intensity levels in dorsal regions of wild type (yw) and dpp mutant embryos are similar.
+(B) Actin filament thickness is significantly smaller in dpp mutants than in the wild type (yw).
+"Embryos were stained with antiActin antibody and measurements were taken at approximately 3.5–4 microns from the apical region of dorsal cells; pvalues calculated with twotail PLOS Biology | https://doi.org/10.1371/journal.pbio.3002021 March 13, 2023 21 / 28 PLOS BIOLOGYCoordination of cell movements and cell fate specification by morphogens Mann–Whitney test."
+Metadata for the graphs shown in A and B can be found at Supporting information S1 Metadata.
+(TIF) S7 Fig.
+GUKH is required for proper formation of FActin bundles; related to Fig 4.
+(A–F) Phalloidin staining in late cellularization stage of wild type (A–C) and gukh mutants (D–F).
+"A single confocal focal plane at approximately 6 μm from the apical region is shown for cells from dorsal (A, D), lateral (B, E), and ventral (C, F) regions of the embryo are shown."
+Note decreased levels and thinner bundles in gukh compared to wild type.
+"(G) Quantification of fiber thicknesses in wild type and gukh in dorsal, lateral, and ventral regions."
+"Error bars, standard deviation."
+Asterisks indicate threshold values for statistical tests based on pvalues calculated with twotail Mann–Whitney test (���p < 0.0001).
+"Sample size n = 60 for individual measurements (dorsal, lateral, and ventral) in wild type and gukh."
+Metadata for the graph shown in G can be found at Supporting information S1 Metadata.
+(TIF) S8 Fig.
+The normalized DL gradient in wild type (red squares) and fra mutant (blue circle) show a more gradual decay in DL intensity levels in fra compared to the wild type; related to Fig 6.
+Metadata for this graph can be found at Supporting information S1 Metadata (please refer to data for Fig 6B).
+(TIF) S9 Fig.
+SNA expression border becomes jagged in the absence of FRA or GUKH; related to Fig 6. sna
+"RNA in situ staining of late cellularization stage embryos show a straight border in wildtype embryos (A), but irregular border in fra (B) and gukh (C) embryos (arrows)."
+(TIF) S10 Fig.
+Ecad affects fate specification.
+"Cell counts of race and rho (ectoderm), ind and vnd (neuroectoderm), and sna (mesoderm), show that ecad mutants (blue) have enlarged rho domain and reduced vnd and sna domains compared to the wild type (red); pvalues indicated on graphs were calculated with twotail Mann–Whitney test."
+Metadata for the graph shown in this figure can be found at Supporting information S1 Metadata.
+(TIF) S1 Table.
+DL and MAD binding sites present in gukh and fra.
+(XLSX) S1 Metadata.
+Excel file containing metadata for this paper.
+(XLSX)
+Acknowledgments We thank Y.N. Jan and L. Jan for the antiFra antibody and the Drosophila Bloomington Stock Center for fly stocks.
+"DCAD2, 7A4, 401a, and 4F3 monoclonal antibodies were developed by T. Uemura, R. Steward, J.R. Sanes, and C. Goodman, respectively, and were obtained from the Developmental Studies Hybridoma Bank, created by the NICHD of the NIH and maintained at The University of Iowa, Department of Biology, Iowa City, IA 52242."
+"Author Contributions Conceptualization: Yongqiang Xue, Rui SousaNeves, Claudia Mieko Mizutani."
+Data curation: Claudia Mieko Mizutani.
+"PLOS Biology | https://doi.org/10.1371/journal.pbio.3002021 March 13, 2023 22 / 28 PLOS BIOLOGYCoordination of cell movements and cell fate specification by morphogens Formal analysis: Yongqiang Xue, Aravindan Krishnan, Juan Sebastian Chahda, Rui SousaNeves, Claudia Mieko Mizutani."
+"Funding acquisition: Rui SousaNeves, Claudia Mieko Mizutani."
+"Investigation: Yongqiang Xue, Aravindan Krishnan, Juan Sebastian Chahda, Robert Allen Schweickart, Rui SousaNeves, Claudia Mieko Mizutani."
+Methodology:
+"Yongqiang Xue, Aravindan Krishnan, Juan Sebastian Chahda, Robert Allen Schweickart, Rui SousaNeves, Claudia Mieko Mizutani."
+Project administration:
+"Rui SousaNeves, Claudia Mieko Mizutani."
+Resources: Claudia Mieko Mizutani.
+Supervision: Claudia Mieko Mizutani.
+Validation:
+"Yongqiang Xue, Aravindan Krishnan, Rui SousaNeves, Claudia Mieko Mizutani."
+"Visualization: Yongqiang Xue, Aravindan Krishnan, Rui SousaNeves, Claudia Mieko Mizutani."
+"Writing – original draft: Yongqiang Xue, Rui SousaNeves, Claudia Mieko Mizutani."
+"Writing – review & editing: Yongqiang Xue, Rui SousaNeves, Claudia Mieko Mizutani."

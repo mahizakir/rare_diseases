@@ -1,0 +1,249 @@
+"Article Identiﬁcation of Diﬀerentially Methylated CpG Sites in Fibroblasts from Keloid Scars Mansour A. Alghamdi 1,2 Andrew Stevenson 4 Patricia L. Danielsen 10,"
+"Cecilia M. Prêle 11, Fiona M. Wood 4,9,12 and Mark W. Fear 4,*, † , Suzanne Rea 9, Janine M. Duke 4,, Phillip E. Melton 5,6, Laith N. AlEitan 7,8, Hilary J. Wallace 3,4, Eric K. Moses 5,6, 1 Department of Anatomy, College of Medicine, King Khalid University, Abha 61421, Saudi Arabia; m.alghamdi@kku.edu.sa 2 Genomics and Personalized Medicine Unit, College of Medicine, King Khalid University, Abha 61421, Saudi Arabia School of Medicine, The University of Notre Dame Australia, Fremantle 6959, Australia; hilary.wallace@nd.edu.au Burn Injury Research Unit, School of Biomedical Sciences, Faculty of Health and Medical Sciences, The University of Western Australia, Perth 6009, Australia; andrew@ﬁonawoodfoundation.com (A.S.); janine.duke@uwa.edu.au (J.M.D.); ﬁona.wood@health.wa.gov.au (F.M.W.) 5 Centre for Genetic Origins of Health and Disease, Faculty of Health and Medical Sciences, The University of Western Australia, Perth 6009, Australia; phillip.melton@uwa.edu.au (P.E.M.); eric.moses@uwa.edu.au (E.K.M.) School of Pharmacy and Biomedical Sciences, Faculty of Health Science, Curtin University, Perth 6102, Australia 7 Department of Applied Biological Sciences, Jordan University of Science and Technology, Irbid 22110, Jordan; lneitan@just.edu.jo 8 Department of Biotechnology and Genetic Engineering, Jordan University of Science and Technology, Irbid 22110, Jordan Burns Service of Western Australia, Perth Children’s Hospital and Fiona Stanley Hospital, Department of Health, Perth 6009, Australia; Suzanne.Rea@health.wa.gov.au 10 Department of Dermatology and Copenhagen Wound Healing Center, Copenhagen University Hospital, 11 DK2400 Copenhagen NV, Denmark; patriciadanielsen@yahoo.dk Institute for Respiratory Health, Faculty of Health and Medical Sciences, The University of Western Australia, Perth 6009, Australia; cecilia.prele@uwa.edu.au 12 Fiona Wood Foundation, Perth 6150, Australia * Correspondence: Mark.fear@uwa.edu.au † Burn Injury Research Unit, M318, University of Western Australia, 35 Stirling Highway, Crawley 6009, WA, Australia."
+"Received: 31 May 2020; Accepted: 24 June 2020; Published: 28 June 2020 Abstract: As a part of an abnormal healing process of dermal injuries and irritation, keloid scars arise on the skin as benign ﬁbroproliferative tumors."
+"Although the etiology of keloid scarring remains unsettled, considerable recent evidence suggested that keloidogenesis may be driven by epigenetic changes, particularly, DNA methylation."
+"Therefore, genomewide scanning of methylated cytosinephosphoguanine (CpG) sites in extracted DNA from 12 keloid scar ﬁbroblasts (KF) and 12 control skin ﬁbroblasts (CF) (six normal skin ﬁbroblasts and six normotrophic ﬁbroblasts) was conducted using the Illumina Human Methylation 450K BeadChip in two replicates for each sample."
+"Comparing KF and CF used a Linear Models for Microarray Data (Limma) model revealed 100,000 diﬀerentially methylated (DM) CpG sites, 20,695 of which were found to be hypomethylated and 79,305 were hypermethylated."
+"The top DM CpG sites were associated with TNKS2, FAM45B, LOC723972, GAS7, RHBDD2 and CAMKK1."
+"Subsequently, the most functionally enriched genes with the top 100 DM CpG sites were signiﬁcantly (p ≤ 0.05) associated with SH2 domain binding, regulation of transcription, DNAtemplated, nucleus, positive regulation of protein targeting to mitochondrion, Biomedicines 2020, 8, 181; doi:10.3390/biomedicines8070181 www.mdpi.com/journal/biomedicines biomedicines(cid:1)(cid:2)(cid:3)(cid:1)(cid:4)(cid:5)(cid:6)(cid:7)(cid:8)(cid:1)(cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:7)Biomedicines 2020, 8, 181 2 of 16 nucleoplasm, Swr1 complex, histone exchange, and cellular response to organic substance."
+"In addition, NLK, CAMKK1, LPAR2, CASP1, and NHS showed to be the most common regulators in the signaling network analysis."
+"Taken together, these ﬁndings shed light on the methylation status of keloids that could be implicated in the underlying mechanism of keloid scars formation and remission."
+Keywords: keloid scars; DNA methylation; wound healing; epigenetics 1.
+Introduction Wound healing in the human body is one of the most complex and progressive processes that require the involvement of several diﬀerent molecular and cellular events.
+"The normal healing process involves multidynamic stages in three overlapping phases: the inﬂammation reaction, cellular elements proliferation and synthesis, and remodeling."
+The latter phase outcomes are clinically predominant where collagen deposition occurs.
+"When the healing process is adequate, inconspicuous harmless scars, the normotrophic, are formed."
+"In response to aberrant healing of skin injuries and irritation, undesirable scars are raised."
+"Scars can fall into both hypertrophic and keloids that are not necessarily the same, but can be diﬃcult to diﬀerentiate."
+Keloids are often distinguished by their growing to the surrounding healthy skin beyond the margins of the original tissue lesion.
+Keloid scars are benign dermal ﬁbrotic tumors clinically characterized by the excessive production and deposition of the extracellular matrix (ECM) components.
+"Although the pathogenesis of keloids is poorly elucidated, some genetic and environmental factors, as well as epigenetic mechanisms, have been involved, resulting in dysregulation of the tissue repair and regeneration processes."
+Interests have recently progressed toward the ﬁeld of cutaneous epigenetics as a vital mechanism in regulating gene expression.
+DNA methylation is one of the most potent epigenetic changes that is common in cytosinephosphoguanine (CpG) dinucleotides in which cytosine residue is bind to a methyl group (CH3) at position C5.
+Methylation of the DNA is essential during early normal development and contributes to the natural phenotypic variation in humans.
+"The aberrant addition (hypermethylation), or removal (hypomethylation) of the methyl group can either decrease or increase the rate of gene expression."
+"Epigenetic modiﬁcation, including DNA methylation, has been observed in several human diseases, including keloid scars."
+These ﬁndings strongly suggested that DNA methylation is crucial in maintaining genome stability and plays an important role in disease pathogenesis.
+Most DNA methylation is known to occur at CpG sites.
+"These studies mainly focused on CpG islands methylation, which are regions with high cluster of CpG sites."
+"Therefore, this study was undertaken to investigate the methylation levels of CpG sites in all genomic regions in keloid ﬁbroblasts compared to the normal skin and normotrophic scar ﬁbroblasts to further understand the role of DNA methylation as an epigenetic modiﬁcation in keloid pathogenesis."
+2. Experimental Section 2.1.
+Subjects Keloid tissue samples were obtained from 12 patients (8 males and 4 females with an average age of 34 years) (Table 1) who were enrolled in a clinical trial which included excision of a keloid scar.
+These subjects had received no previous treatment of the keloid scar within 6 months of surgical excision.
+A full medical history was taken prior to excision and clinical examination was performed by a surgeon to conﬁrm the diagnosis of keloid scar.
+"The causes of keloid scar include immunization site, surgery, nonburn trauma, acne, and burn injury."
+"Control samples (n = 12) were normotrophic burn scar tissue (Vancouver Scar Scale: height subscore = 0) and matched normal skin collected from 6 male subjects with an average age of 24.5 years who had sustained a previous unilateral burn injury Biomedicines 2020, 8, 181 3 of 16 (Table 1)."
+The clinical criteria used to diﬀerentiate a keloid scar from a normotrophic scar include a history of continuous growth outside the boundaries of the original wound and symptoms such as pain and itch.
+The study was performed in accordance with the relevant National Health and Medical Research Council (NHMRC) of Australia’s ethical statements and guidelines.
+Ethical approval for all tissue collection was obtained from the Human Research Ethics Committees of the University of Western Australia (RA/4/1/5604; Date: 03/09/2012) and Royal Perth Hospital (EC2009/114 and EC 2012/067; Date: 03/09/2012).
+All participants provided written informed consent.
+Subject ID 1 Age Gender 2 Type of Tissue Site of Tissue Ethnicity Table 1.
+Patient and keloid scar details.
+P 1 P 2 P 3 P 4 P 5 P 6 P 7 P 8 P 9 P 10 P 11 P 12 C 1 C 2 C 3 C 4 C 5 C 6 40 38 29 30 53 28 18 42 30 21 47 29 29 25 19 25 30 19 keloid scar keloid scar keloid scar keloid scar keloid scar shoulder neck (thyroid) forearm sternum upper arm shoulder ear sternum keloid scar normotrophic scar normal skin normotrophic scar normal skin normotrophic scar normal skin normotrophic scar normal skin normotrophic scar normal skin normotrophic scar normal skin sternum forearm contralateral forearm contralateral forearm contralateral forearm contralateral forearm contralateral forearm contralateral forearm East Asian Southeast European Hispanic Northwest European Northwest European East Asian Northwest European East Asian Northwest European and East Asian Northwest European East Asian South East Asian Caucasian Caucasian Caucasian 2.2.
+Isolation and Culture of Fibroblasts from Keloid Scar and Control Samples 1 P: Patient; C: Control.
+2 M: Male; F: Female.
+Fibroblasts were isolated from fresh tissue by the explant method.
+This method was slightly modiﬁed from previously published methods.
+Cell growth was maintained until the second passage (P2) and then cells were frozen in liquid nitrogen and stored until further experiments.
+2.3. DNA Extraction and Bisulfate Conversion DNA was extracted from the ﬁbroblasts (P2) using a QIAamp DNA Mini kit (Cat.
+"No. 51304, Qiagen, Hulsterweg, The Netherlands) and Promega Wizard SV Genomic DNA system (Cat."
+"No. A2360, Promega, Madison, WI, USA) as per the manufacturers’ instructions."
+"The quality and quantity of extracted DNA were measured using a NanoDrop2000 spectrophotometer (Thermo Fisher Scientific, Waltham, MA, USA)."
+Bisulﬁte conversion of 800 ng of DNA was carried out on 24 samples using the EZ DNA Methylation kit (Cat.
+"No. D5001, Zymo Research, Irvine, CA, USA) according to the manufacturer’s instructions."
+2.4. DNA Methylation Assay
+"A minimum of 500 ng genomic DNA was ampliﬁed, fragmented, and hybridized onto the Illumina Human Methylation 450K BeadChip (Cat."
+"No. WG314-1003, Illumina, San Diego, CA, Biomedicines 2020, 8, 181 4 of 16 USA) according to the manufacturer’s protocol (Illumina 2013)."
+This BeadChip processes 12 samples per array.
+Two replicates of the methylation assay were performed per sample.
+The ﬁrst BeadChip included bisulﬁteconverted DNA from 6 normal skin ﬁbroblasts and 6 normotrophic ﬁbroblasts.
+The second BeadChip included bisulﬁteconverted DNA from 12 keloid scar ﬁbroblasts.
+2.5.
+Data Processing for the 450k Methylation Array A computational R package (RnBeads) was adapted to process and analyze the raw intensity data from methylation chip (IDAT ﬁles).
+"The dataset was subjected to ﬁltering procedures, background subtraction, and normalization."
+"The ﬁltering stages included the removal of sites overlapped with SNPs, greedycut algorithm, the removal of probes with speciﬁc contexts and missing values, and the removal of probes with beta values exhibiting standard deviation lower than 0.005."
+The methylumi package (method “noob”) was used for background subtraction and the BetaMixture Quantile Normalization (BMIQ) method was used to normalize the methylation beta values.
+"As keloid ﬁbroblasts and control ﬁbroblasts were run on separate BeadChips, a batch eﬀect may occur."
+RnBeads uses the Surrogate Variable Analysis (SVA) package to visualize and adjust for batch eﬀects during diﬀerential methylation analysis.
+"As a ﬁnal outcome, a summary of the changes at CpG sites was generated."
+2.6.
+Diﬀerential Methylation Statistical Analysis Diﬀerential methylation (DM) analysis comparing keloid ﬁbroblast (KF) DNA with control ﬁbroblasts (CF) DNA was carried out at the CpG site.
+"The comparison was computed using a Linear Models for Microarray Data (Limma) method, which has been adapted by the RnBeads package for use in methylation arrays."
+The linear models were employed and ﬁtted using an empirical Bayes approach on derived Mvalues.
+The Benjamini and Hochberg (BH) 5% false discovery rate (FDR) was used to correct for multiple testing.
+"The DM for each CpG sites was computed based on three measures: the beta diﬀerence in methylation means between KF and CF, the log2 of the quotient in methylation, and the diﬀerential methylation pvalue using Limma."
+"Using these three measures, each CpG site was given a rank."
+The combined rank was computed as the maximum (=worst) rank among the three ranks.
+A smaller combined rank indicates that the CpG sites exhibit more DM.
+"The topranking 100,000 sites with the smallest combined rank score were selected for further analysis."
+2.7.
+"Enrichment and Pathway Analysis The Database for Annotation, Visualization, and Integrated Discovery (DAVID) v.6.8, was utilized to conduct GO term enrichment analysis of the genes corresponding to the top 100 CpG sites."
+"The GO terms included three criteria: biological process (BP), cellular component (CC), and molecular function (MF)."
+A pvalue ≤ 0.05 was used as a cutoﬀ threshold.
+2.8. Interaction Network Analysis The interaction network analysis of genes associated with the top 100 DM CpG sites was explored using the Signaling Network Open Resource 2.0 (SIGNOR).
+The type of relation was selected to include only “all” interactions with a relaxed layout and score of “0.0”.
+3. Results 3.1.
+Samples Clustering The samples sharing similar methylation patterns showed an expected hierarchal clustering based on all the methylation values of the top 1000 most variable loci (Figure 1).
+"In a study conducted by our research group, we have found no statistical signiﬁcance in methylation level between normotrophic burn scar ﬁbroblasts and matched normal skin ﬁbroblasts (data not published)."
+"Hence, ﬁbroblasts from both tissue types (normotrophic burn scar and normal skin) were used in this study as CF to increase statistical power."
+"Figure 1 shows one hierarchal clustering of CF isolated from normotrophic Biomedicines 2020, 8, 181 5 of 16 burn scar and normal skin explaining the similarity in methylation patterns and another clustering of KF isolated from keloid scar."
+The dataset was inspected for a strong signal in the methylation values using a dimension reduction test by implementing multidimensional scaling (MDS) method (Figure 2).
+MDS conﬁrmed that the diﬀerence in methylation level between KF and CF dominates the analysis.
+Figure 1.
+Hierarchal clustering of the top 1000 most variable loci across the 24 samples.
+Clustering used average linkage and Manhattan distance.
+"The top xaxis shows the study groups, where KF and CF stand for keloid ﬁbroblasts and control ﬁbroblasts, respectively."
+"The bottom xaxis shows the samples identiﬁcation numbers, 13–24 represent KF and 1–12 represent CF."
+"The color key and histogram of the heatmap deﬁnes the pattern of methylation, values of 0 (red color) and 1 (purple color) indicate decreased and increased methylation, respectively."
+"The distribution of the 1000 most variable loci across the diﬀerent cytosinephosphoguanine (CpG) regions (open sea, shelf, shore and island) is shown with color coding on the bottom xaxis."
+"Biomedicines 2020, 8, x FOR PEER REVIEW 5 of 16 3. Results 3.1."
+Samples Clustering The samples sharing similar methylation patterns showed an expected hierarchal clustering based on all the methylation values of the top 1000 most variable loci (Figure 1).
+"In a study conducted by our research group, we have found no statistical significance in methylation level between normotrophic burn scar fibroblasts and matched normal skin fibroblasts (data not published)."
+"Hence, fibroblasts from both tissue types (normotrophic burn scar and normal skin) were used in this study as CF to increase statistical power."
+Figure 1 shows one hierarchal clustering of CF isolated from normotrophic burn scar and normal skin explaining the similarity in methylation patterns and another clustering of KF isolated from keloid scar.
+The dataset was inspected for a strong signal in the methylation values using a dimension reduction test by implementing multidimensional scaling (MDS) method (Figure 2).
+MDS confirmed that the difference in methylation level between KF and CF dominates the analysis.  
+Figure 1.
+Hierarchal clustering of the top 1000 most variable loci across the 24 samples.
+Clustering used average linkage and Manhattan distance.
+"The top xaxis shows the study groups, where KF and CF stand for keloid fibroblasts and control fibroblasts, respectively."
+"The bottom xaxis shows the samples identification numbers, 13–24 represent KF and 1–12 represent CF."
+"The color key and histogram of the heatmap defines the pattern of methylation, values of 0 (red color) and 1 (purple color) indicate decreased and increased methylation, respectively."
+"The distribution of the 1000 most variable loci across the different cytosinephosphoguanine (CpG) regions (open sea, shelf, shore and island) is shown with color coding on the bottom xaxis. "
+"Biomedicines 2020, 8, 181 6 of 16 Figure 2."
+Two Multidimensional scaling (MDS) of the sample groups.
+The scatter plots show the coordinates of the control ﬁbroblasts (CF) and keloid ﬁbroblasts (KF) samples after performing Kruskal’s multidimensional scaling based on the matrix of the average methylation levels and Manhattan distance.
+"The plot of 24 samples (1–12 CF and 13–24 KF) shows that samples cluster according to methylation level, as expected."
+3.2.
+"Diﬀerential Methylation of CpG Sites The top 100,000 sites ranked according to the combined rank score were selected to identify DM CpG sites in KF."
+"Of the 100,000 CpG sites, 20,695 CpG sites were found to be hypomethylated (beta diﬀerence range = −0.030 to −0.67) and 79,305 CpG sites were hypermethylated (beta diﬀerence range = 0.030 to 0.79) in KF compared to CF with an adjusted pvalue (FDR) ≤0.11 (Figure 3)."
+The log2 of the quotient in methylation between KF and CF had a minimum value of −3.34 and a maximum value of 4.42.
+The top 100 DM CpG sites with the lowest combined rank score are shown in Table S1.
+The beta diﬀerence of the list of 100 DM sites ranged from −0.22 to −0.42 for hypomethylated genes and ranged from 0.23 to 0.60 for hypermethylated genes with an adjusted pvalue (FDR) ≤1.72 × 10 −6.
+3.3.
+Functional Enrichment Analysis The genes associated with the top 100 DM CpG sites were subject to functional enrichment analyses using the DAVID webtool.
+The most signiﬁcant gene ontology (GO) terms (pvalue ≤ 0.05) are shown in Table 2.
+"On the MF level, the associated genes were mainly enriched for “SH2 domain binding”, on the CC level, genes were enriched for “nucleus”, “nucleoplasm”, and “Swr1 complex”."
+"On the BP level, the associated genes were enriched for four terms including “regulation of transcription, DNAtemplated”, “positive regulation of protein targeting to mitochondrion”, “histone exchange”, and “cellular response to organic substance”."
+"Biomedicines 2020, 8, x FOR PEER REVIEW 6 of 16 Figure 2."
+Two Multidimensional scaling (MDS) of the sample groups.
+The scatter plots show the coordinates of the control fibroblasts (CF) and keloid fibroblasts (KF) samples after performing Kruskal’s multidimensional scaling based on the matrix of the average methylation levels and Manhattan distance.
+"The plot of 24 samples (1–12 CF and 13–24 KF) shows that samples cluster according to methylation level, as expected."
+3.2.
+"Differential Methylation of CpG Sites The top 100,000 sites ranked according to the combined rank score were selected to identify DM CpG sites in KF."
+"Of the 100,000 CpG sites, 20,695 CpG sites were found to be hypomethylated (beta difference range = −0.030 to −0.67) and 79,305 CpG sites were hypermethylated (beta difference range = 0.030 to 0.79) in KF compared to CF with an adjusted pvalue (FDR) ≤0.11 (Figure 3)."
+The log2 of the quotient in methylation between KF and CF had a minimum value of −3.34 and a maximum value of 4.42.
+The top 100 DM CpG sites with the lowest combined rank score are shown in Table S1.
+The beta difference of the list of 100 DM sites ranged from −0.22 to −0.42 for hypomethylated genes and ranged from 0.23 to 0.60 for hypermethylated genes with an adjusted pvalue (FDR) ≤1.72 × 10−6. 
+"Biomedicines 2020, 8, 181 7 of 16 Figure 3."
+"Scatter plots for the (A) topranking 1000 and (B) topranking 100,000 diﬀerentially methylated CpG sites."
+"For each plot, the mean β values of control ﬁbroblasts (mean.beta.CF) are on the xaxis, while the mean β values of keloid ﬁbroblasts (mean.beta.KF) are on the yaxis."
+Methylation levels (β) varied between 0 (unmethylated) and 1 (fully methylated).
+Blue points represent variable diﬀerentially methylated sites.
+Table 2.
+Gene ontology enrichment analyses of the genes associated with the top 100 CpG sites.
+"Category 1 Term pValue 2 Genes GO:0042169~SH2 domain binding 0.002 SYP, NLK, DAG1 MF BP GO:0006355~regulation of transcription, DNAtemplated 0.005 ASXL2, PKNOX2, ZNF718, BPTF, TFEC, NLK, SCML1, GAS7, BRD8, KLF3 ANP32C, NLK, ANP32E, SCML1, TKT, CAMKK1, TNKS2, PKNOX2, PSMA1, SERPINB9, ZNF718, FAM64A, SENP1, TAF15, BPTF, C19ORF66, USP36, FANCC, BRD8, MYH10, KLF3 CC GO:0005634~nucleus 0.011 BP CC BP GO:1903955~positive regulation of protein targeting to mitochondrion 0.016 HSPA1L, NBPF3, USP36 GO:0005654~nucleoplasm 0.020 GO:0000812~Swr1 complex GO:0043486~histone exchange GO:0071310~cellular response to organic substance 0.021 0.025 0.038 ASXL2, NLK, FANK1, DAG1, TKT, HSPA1L, PSMA1, SENP1, BPTF, TAF15, TFEC, BRD8, FANCC ANP32E, BRD8 ANP32C, ANP32E SYP, CASP1 1 BP: biological process; CC: cellular component; MF: molecular function; 2 Terms with a pvalue ≤ 0.05 are shown."
+3.4.
+Interaction Network Analysis of the interaction between the genes associated with the top 100 DM CpG sites showed that ﬁve genes were found to be common regulators with a minimum of 7 connectivities each.
+"These genes are the NLK, CAMKK1, LPAR2, CASP1 and NHS genes (Figure 4)."
+"Biomedicines 2020, 8, x FOR PEER REVIEW 7 of 16 Figure 3."
+"Scatter plots for the (A) topranking 1000 and (B) topranking 100,000 differentially methylated CpG sites."
+"For each plot, the mean β values of control fibroblasts (mean.beta.CF) are on the xaxis, while the mean β values of keloid fibroblasts (mean.beta.KF) are on the yaxis."
+Methylation levels (β) varied between 0 (unmethylated) and 1 (fully methylated).
+Blue points represent variable differentially methylated sites.
+3.3.
+Functional Enrichment Analysis The genes associated with the top 100 DM CpG sites were subject to functional enrichment analyses using the DAVID webtool.
+The most significant gene ontology (GO) terms (pvalue ≤ 0.05) are shown in Table 2.
+"On the MF level, the associated genes were mainly enriched for “SH2 domain binding”, on the CC level, genes were enriched for “nucleus”, “nucleoplasm”, and “Swr1 complex”."
+"On the BP level, the associated genes were enriched for four terms including “regulation of transcription, DNAtemplated”, “positive regulation of protein targeting to mitochondrion”, “histone exchange”, and “cellular response to organic substance”."
+Table 2.
+Gene ontology enrichment analyses of the genes associated with the top 100 CpG sites.
+"Category 1 Term pValue 2 Genes MF GO:0042169~SH2 domain binding 0.002 SYP, NLK, DAG1 BP GO:0006355~regulation of transcription, DNAtemplated 0.005 ASXL2, PKNOX2, ZNF718, BPTF, TFEC, NLK, SCML1, GAS7, BRD8, KLF3 CC GO:0005634~nucleus 0.011 ANP32C, NLK, ANP32E, SCML1, TKT, CAMKK1, TNKS2, PKNOX2, PSMA1, SERPINB9, ZNF718, FAM64A, SENP1, TAF15, BPTF, C19ORF66, USP36, FANCC, BRD8, MYH10, KLF3 BP GO:1903955~positive regulation of protein targeting to mitochondrion 0.016 HSPA1L, NBPF3, USP36 CC GO:0005654~nucleoplasm 0.020 ASXL2, NLK, FANK1, DAG1, TKT, HSPA1L, PSMA1, SENP1, BPTF, Biomedicines 2020, 8, 181 8 of 16 Figure 4."
+Interaction network of the genes associated with the topranking 100 CpG sites.
+"Among these genes, ﬁve genes (NLK, CAMKK1, LPAR2, CASP1 and NHS) have the most relationships and interactions with proteins and molecules."
+"The type of interactions, proteins and molecules are shown in the color, coded legend at the right corner of the ﬁgure."
+4.
+Discussion Keloid scarring is an aggressive skin disease with unclear pathogenesis.
+It is characterized by excessive ﬁbroblast proliferation and collagen accumulation in the ECM that does not regress over time.
+Keloid scars are an ongoing clinical challenge with no single eﬀective treatment regimen.
+"Nevertheless, clinicians use several modalities for scar prevention and management, including massage therapy, pressure garments, adhesive tape support/silicone gel sheeting, intralesional corticosteroid injections, laser and lightbased therapy, cryotherapy, radiotherapy, 5ﬂuorouracil, interferon injections, bleomycin injections, and surgery."
+"Among these wide treatment strategies, intralesional steroid injections remain the ﬁrstline treatment for many clinicians alone or in combination with other treatment modalities."
+A widely used intralesional corticosteroid is triamcinolone acetonide.
+Treatment with triamcinolone alone proved to be more eﬀective than verapamil for the prevention of keloid scar recurrence after surgical excision.
+"Compared to 5ﬂuorouracil and bleomycin, triamcinolone is more eﬀective in preventing recurrence and reducing scar size and symptoms."
+"However, a combined treatment of triamcinolone with other treatment modalities such as verapamil, 5ﬂuorouracil, and laser therapy showed better outcomes and patient satisfaction."
+"Depending on the size and location of scars, the recommended concentration of triamcinolone ranges from 10 to 40 mg/mL."
+"Unlike genetic alterations, epigenetic changes are potentially reversable."
+"Therefore, the identiﬁcation of epigenetic targets could lead to therapeutic interventions."
+"DNA methylation is an epigenetic gene regulatory mechanism that has been found to play a fundamental role in cancer, ﬁbrotic disorders, cutaneous diseases, and wound healing."
+"DNA methylation is known to occur commonly at CpG islands and was traditionally linked to transcriptional Biomedicines 2020, 8, x FOR PEER REVIEW 8 of 16 TAF15, TFEC, BRD8, FANCC CC GO:0000812~Swr1 complex 0.021 ANP32E, BRD8 BP GO:0043486~histone exchange 0.025 ANP32C, ANP32E BP GO:0071310~cellular response to organic substance 0.038 SYP, CASP1 1 BP: biological process; CC: cellular component; MF: molecular function; 2 Terms with a pvalue ≤ 0.05 are shown."
+3.4.
+Interaction Network Analysis of the interaction between the genes associated with the top 100 DM CpG sites showed that five genes were found to be common regulators with a minimum of 7 connectivities each.
+"These genes are the NLK, CAMKK1, LPAR2, CASP1 and NHS genes (Figure 4).  "
+Figure 4.
+Interaction network of the genes associated with the topranking 100 CpG sites.
+"Among these genes, five genes (NLK, CAMKK1, LPAR2, CASP1 and NHS) have the most relationships and interactions with proteins and molecules."
+"The type of interactions, proteins and molecules are shown in the color, coded legend at the right corner of the figure."
+4.
+Discussion Keloid scarring is an aggressive skin disease with unclear pathogenesis.
+It is characterized by excessive fibroblast proliferation and collagen accumulation in the ECM that does not regress over time.
+Keloid scars are an ongoing clinical challenge with no single effective treatment regimen.
+"Nevertheless, clinicians use several modalities for scar prevention and management, including massage therapy, pressure garments, adhesive tape support/silicone gel sheeting, intralesional corticosteroid injections, laser and lightbased therapy, cryotherapy, radiotherapy, 5fluorouracil, interferon injections, bleomycin injections, and surgery."
+"Among these wide treatment strategies, intralesional steroid injections remain the firstline treatment for many clinicians alone or in combination with other treatment modalities."
+"A widely used intralesional corticosteroid is Biomedicines 2020, 8, 181 9 of 16 silencing."
+"These CpG islands are found in high densities in the promoter regions of genes, where transcription of DNA begins, and thus regulate gene transcription."
+This study has explored whether altered collagen deposition by keloid ﬁbroblasts could at least in part be explained by epigenetic changes sustainably and heritably altering the gene expression proﬁle in these cells.
+Our ﬁndings showed signiﬁcant DNA methylation changes at the CpG sites across multiple genes in KF DNA compared to CF DNA.
+"The overgrowth and hyperproliferative nature of keloids are common features with tumorigenesis, in addition to epigenetic and genetic aberration."
+"Of the diﬀerentially methylated 100,000 CpG sites in our analysis, more than twothirds were hypermethylated."
+"Consistent with several cancerslinked DNA hypermethylation, such as in prostate cancer (PCa), and breast cancer."
+"In contrast, more hypomethylation proﬁles found in keloids genome, frequently in the nonpromoter regions."
+"Among the 100 topranking DM CpG sites in KF compared to CF, the top seven genes were tankyrase 2 (TNKS2), hepatopoietin PCn127 (LOC723972), family with sequence similarity 45 member B (FAM45B), growth arrest speciﬁc 7 (GAS7), neuroblastoma breakpoint member 3 (NBPF3), rhomboid domain containing 2 (RHBDD2), and family with sequence similarity 64 members A (FAM64A)."
+TNKS2 (cg11963436) and LOC723972 (cg21581312) were reported to be among the 50 DM CpG sites associated with lung function in cystic ﬁbrosis patients.
+"From a methylationbased EpigenomeWide Association Study (EWAS) in Parkinson’s disease (PD) identifying 9983 DM genes, FAM45B, LOC723972, and TNKS2 were among 20 unique DM genes in the patients."
+"In further evaluation, TNKS2 (cg11963436) was one of two signiﬁcantly conﬁrmed DM genes that hypermethylated in PD patients."
+"Using the Illumina Human Methylation 450K BeadChip, LOC723972 (cg21581312) CpG site was hypomethylated in cervical squamous cell carcinoma (SCC) as well as in cervical intraepithelial neoplasia grade 3 (CIN3) compared with the normal tissues."
+"Methylation proﬁles in colorectal cancer (CRC) showed 50 signiﬁcantly hypermethylated CpG sites located within six genes in African American patients, including GAS7 gene."
+"Moreover, among 355 methylated CpG sites in CRC, GAS7 was one of 59 signiﬁcantly methylated sites in CRC tissues compared to normal tissues."
+"Furthermore, several epigenomic analyses revealed the hypermethylation pattern of GAS7 in lung cancer, prostate cancer, CRC, and pancreatic endocrine tumors (PETs)."
+"In order to investigate the strong association of the obesityassociated (FTO) gene variants and obesity with epigenetic changes, a genomewide methylation scan in obese and normal weight females identiﬁed 20 DM sites in obese females, of which one was hypomethylated site in NBPF3 gene."
+"There are little or no reports on the methylation status of RHBDD2, but it was found to be overexpressed in CRC, breast cancer, and as a pathogenic gene in familial nonmedullary thyroid cancer (FNMTC)."
+"The FAM64A gene correlated in diﬀerentially methylated regions (DMRs) containing multiple CpG sites associated with nevus count (nDMRs), which is a strong risk factor, contributed to melanoma pathogenesis."
+"An interaction network analysis of the top 100 DM CpG sites showed ﬁve common regulator genes: nemolike kinase (NLK), calcium/calmodulindependent protein kinase 1 (CAMKK1), lysophosphatidic acid receptor 2 (LPAR2), caspase 1 (CASP1), and NanceHoran syndrome (NHS)."
+"The mitogenactivated protein kinase (MAPK) member, NLK is involved in a variety of signaling pathways as well as in several types of cancer."
+"NLK was found to positively regulate the activation of CCAAT/enhancer binding proteins (C/EBPs) signaling cascade triggered by the proinﬂammatory cytokine, interleukin1 (IL1)."
+"In contrast, it was found to negatively regulate the ternary transcriptional complex in the Notch signaling pathway that is crucial in cell fates of metazoan tissues."
+"Aberrant expression of NLK has been associated with the initiation or progression of oral squamous cell carcinoma, laryngeal cancer, nonsmall-cell lung cancer (NSCLC), and CRC."
+The CAMKK1 gene mediated the upstream activation of AMPactivated protein kinase (AMPK) by phosphorylation of the αsubunit threonine 172 (Thr172) residue.
+"AMPK is a key regulator in various cellular events and targets, such as in the treatment of type 2 diabetes (T2D) and maintaining homeostasis of the cellular energy."
+The expression levels of LPAR2 have a critical role in carcinogenesis and during tumor progression.
+"In a mouse model, overexpression of LPAR2 induces intestinal dysplasia, which Biomedicines 2020, 8, 181 10 of 16 therefore alters the proliferation and diﬀerentiation of the intestinal epithelial cells (IEC)."
+"The pivotal inﬂammasome component, Caspase1, is an emerging player in various diseases progressions, as well as a biomarker for early diagnosis and a therapeutic target."
+"The encoded protein of the NHS gene regulates the development of brain, craniofacial, eye, and tooth, in addition to actin remodeling and thus maintaining cell morphology."
+"Mutations in the NHS gene were found to cause Nance–Horan syndrome (NHS), a Xlinked disorder."
+"Ontology enrichment analysis of the genes provides insight into the role of the signiﬁcantly methylated genes, showed that hypo- and hypermethylated CpG sites have occurred at various categories of biological processes, cellular components, and molecular functions."
+The most relevant genes class was associated with the Srchomology 2 (SH2) domain binding (GO:0042169).
+"Interestingly, the genes in SH2 domain binding were hypermethylated (Table S1)."
+"Among them is the synaptophysin (SYP) gene, where SH2 domains bind to its multiple carboxyterminal tyrosinephosphorylated residues."
+SH2 domains are involved in various signaling transduction and found to regulate cellular behavior and functions upon interactions with other domains and cellular components.
+"However, the SYP gene is a pivotal regulator in the release of neurotransmitters and synaptic plasticity."
+"It was found to be associated with some psychiatric disorders such as attentiondeﬁcit/hyperactivity disorder (ADHD), schizophrenia, and depression."
+"Other prevailing ontological terms are the regulation of transcription, DNAtemplated (GO:0006355) and histone exchange (GO:0043486)."
+"The latter of which process genes, acidic nuclear phosphoprotein 32 family member C and member E (ANP32C and ANP32E, respectively) and were also hypermethylated (Table S1)."
+"They were frequently found to regulate gene expression by acting on the substitution of histones or histone subunits within the chromatin, especially the ANP32E gene."
+"The ANP32E gene was enriched in two other cellular component terms, nucleus (GO:0005634) and Swr1 complex (GO:0000812)."
+"Although some ANP 32 family members function as tumor suppresser, ANP32C is an oncogene that has been overexpressed in prostate and breast cancer."
+"In a similar context, ANP32E is found to induce oncogenesis of triplenegative breast cancer (TNBC) by upregulation of the transcription factor, E2F1."
+"Furthermore, those genes belong to the regulation of transcription, DNAtemplated ontology, were represented by hypo- and hypermethylation patterns (Table S1)."
+"Among them is the ASXL transcriptional regulator 2 (ASXL2) gene, in which de novo germline truncation in ASXL2 variants have been associated with various clinical features of intellectual disabilities, macrocephaly, and dysmorphism."
+"Similarly, ASXL2 deﬁciency in mice model (ASXL2−/−) was directed towards insulin resistance, osteopetrosis, and lipodystrophy."
+"Moreover, it promotes breast carcinogenesis through epigenetic regulation of the estrogen receptor alpha (ERα)."
+"5. Conclusions In addition to the preliminary known genetic predisposition of keloids, methylation sequencing of CpG sites in keloids revealed signiﬁcant hyper- and hypomethylated genes in ﬁbroblasts from keloid scars compared to control ﬁbroblasts demonstrated the vital role of DNA methylation as an epigenetic regulation mechanism in keloids formation and progression, as well as a putative therapeutic target, by reversing the methylation status to halt the overgrowth in scars."
+"The DM genes and their products are known to elaborate several biological pathways, signaling, and functions that could be implicated further to understand keloid etiology and targeted treatment development in future exploration."
+"Supplementary Materials: The following are available online at http://www.mdpi.com/22279059/8/7/181/s1, Table S1: The top 100 CpG sites and the associated genes."
+"Author Contributions: Conceptualization, M.W.F., F.M.W., P.L.D., H.J.W. and E.K.M.; methodology, M.A.A., A.S., S.R. and P.E.M.; software, M.A.A., A.S. and P.E.M.; validation, M.W.F., H.J.W. and P.E.M.; formal analysis, M.A.A., A.S. and P.E.M.; investigation, M.A.A., P.E.M. and A.S.; resources, M.W.F., E.K.M., C.M.P., S.R. and F.M.W.; data curation, M.A.A. and P.E.M.; writing—original draft preparation, M.W.F., J.M.D., M.A.A. and L.N.A.-E.; writing—review and editing, M.A.A., M.W.F., L.N.A.-E., E.K.M., H.J.W., J.M.D., C.M.P., P.L.D. and F.M.W.; visualization, M.A.A., J.M.D., C.M.P., H.J.W. and M.W.F.; supervision, M.W.F., P.L.D., P.E.M. and H.J.W.; Biomedicines 2020, 8, 181 11 of 16 project administration, M.W.F.; funding acquisition, M.W.F., F.M.W., and H.J.W. All authors have read and agreed to the published version of the manuscript."
+Funding:
+This research received no external funding.
+Acknowledgments: The authors are grateful to all the participants of this study for their invaluable contribution.
+"The authors also would like to express their gratitude to King Khalid University, Saudi Arabia, for providing administrative and technical support."
+Conﬂicts of Interest: The authors declare no conﬂict of interest.

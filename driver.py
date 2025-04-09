@@ -3,7 +3,8 @@ import os
 import sys
 
 # Disease name
-disease_name = "Endocrine-cerebro-osteodysplasia syndrome" #"Zimmermann-Laband syndrome" #"Mabry syndrome" #"Endocrine-cerebro-osteodysplasia syndrome"
+disease_name = "Acral persistent papular mucinosis" #"Nelson syndrome"
+#"Endocrine-cerebro-osteodysplasia syndrome" #"Zimmermann-Laband syndrome" #"Mabry syndrome" #"Endocrine-cerebro-osteodysplasia syndrome"
 
 # Parent folder path
 parent_folder = os.path.dirname(os.path.abspath(__file__))

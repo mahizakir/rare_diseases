@@ -1,0 +1,469 @@
+Article https://doi.org/10.1038/s41467024-556473 NHSL3 controls single and collective cell migration through two distinct mechanisms Received:
+1 November 2024
+"Accepted: 19 December 2024 Check for updates Nikita M. Novikov 1, Jinmei Gao 2, Artem I. Fokin 1, Nathalie Rocques1, Giovanni Chiappetta3, Karina D. Rysenkova 1, Diego Javier Zea2, Anna Polesskaya 1, Joelle Vinh 3, Raphael Guerois Alexis M. Gautreau 1 2 & The molecular mechanisms underlying cell migration remain incompletely understood."
+"Here, we show that knockout cells for NHSL3, the most recently identiﬁed member of the NanceHoran Syndrome family, are more persistent than parental cells in single cell migration, but that, in wound healing, follower cells are impaired in their ability to follow leader cells."
+The NHSL3 locus encodes several isoforms.
+We identify the partner repertoire of each isoform using proteomics and predict direct partners and their binding sites using an AlphaFold2based pipeline.
+"Rescue with speciﬁc isoforms, and lack of rescue when relevant binding sites are mutated, establish that the interaction of a long isoform with MENA/VASP proteins is critical at cellcell junctions for collective migration, while the interaction of a short one with 143-3θ in lamellipodia is critical for single cell migration."
+"Taken together, these results demonstrate that NHSL3 regulates single and collective cell migration through distinct mechanisms."
+Cell migration plays an essential role in the embryonic development and adulthood of animals.
+There are multiple modes of cell motility.
+"In particular, cells can migrate as single cells or as groups."
+Migrating cells are polarised in the direction of movement.
+"The leading edge of a migrating cell is characterised by a membrane protrusion, referred to as the lamellipodium1."
+The lamellipodium protrudes through the pushing force provided by Arp2/3generated branched actin networks.
+"Persistence of movement in a given direction is driven by a positive feedback loop that sustains polymerisation of branched actin, where it was previously polymerised, at the leading edge2,3."
+"In collective migration, cohesiveness allows leader cells to orient follower cells via mechanotransduction through cellcell junctions4."
+Cellcell junctions require a dynamic actin cytoskeleton for their establishment and maintenance.
+"A balance of pushing forces mediated by branched actin and pulling forces mediated by myosinmediated contractility controls strength, plasticity and repair of cellcell adhesions5,6."
+"At the molecular level, the Arp2/3 complex nucleates daughter actin ﬁlaments from preexisting ﬁlaments at the cell cortex, in lamellipodia as well as cellcell junctions7,8."
+"In both locations, its major activator is the pentameric WAVE complex9."
+The subunit WAVE that directly activates Arp2/3 is masked at resting state and becomes exposed upon signalling by the small GTPase Rac19.
+"VASP family proteins, which form tetramers clustered at the plasma membrane, increase the speed of actin polymerisation by fuelling actin monomers to the dynamic end of actin ﬁlaments10,11."
+IRSp53 is an adaptor protein that clusters VASP proteins12.
+"VASP proteins operate both in lamellipodia and at cellcell junctions13,14."
+"Actin ﬁlament elongation by VASP family proteins reinforces the cytoskeletal attachment of cellcell junctions under tension15,16."
+"The NanceHoran Syndrome gene NHS is mutated in children affected with facial dysmorphia, dental abnormalities, cataract and intellectual disability17."
+"The NHS protein displays a WAVE homology 1Laboratory of Structural Biology of the Cell (BIOC), CNRS UMR7654, École Polytechnique, Institut Polytechnique de Paris, Palaiseau, France."
+"2Université ParisSaclay, CEA, CNRS, Institute for Integrative Biology of the Cell (I2BC), Gifsur-Yvette, France."
+"3Biological Mass Spectrometry and Proteomics (SMBP), ESPCI Paris, Université PSL, LPC CNRS UMR8249, Paris, France."
+"Email: alexis.gautreau@polytechnique.edu Nature Communications | (2025) 16:205 Article https://doi.org/10.1038/s41467024-556473 domain (WHD) at its Nterminus, and the WHD deﬁnes a family of NHSlike proteins18."
+The homologous domain in WAVE proteins is critical for the assembly of the WAVE complex19.
+NHS was found to interact with WAVE complex subunits and to regulate lamellipodial protrusions18.
+The interaction of NHS family proteins with the WAVE complex was deciphered in the NHSL1 member that inhibits lamellipodial protrusions and persistence of cell migration through a twotiered mechanism.
+"The NHSL1 WHD domain allows the assembly of a socalled WAVE shell complex, where NHSL1 occupies the position of the WAVE subunit20."
+"NHSL1 also interacts with the canonical WAVE complex, which contains WAVE, through two prolinerich motifs engaged with the SH3 domain of the ABI1 subunit21."
+"Here we report the role of a functionally uncharacterised protein, KIAA1522, recently identiﬁed as a member of the NHS family protein and subsequently renamed NHSL322,23."
+"NHSL3 displays a WHD and ABI1 binding sites, similar to NHSL1."
+"We found that NHSL3 regulates single and collective cell migration, but that none of these functions involves the WAVE complex."
+"Using proteomics and AlphaFold2, we identify two NHSL3 isoforms and their speciﬁc effectors that control single and collective cell migration."
+"Results NHSL3 Regulates Single and Collective Cell Migration To investigate the potential role of NHSL3 in cell migration, we ﬁrst used the untransformed epithelial cell line MCF10A derived from human breast that allows evaluating migration of cell monolayers, as well as single cells when cells are dissociated24."
+"When NHSL3 was depleted using siRNAs, trajectories of single MCF10A cells became less convoluted (Fig. 1a, Supplementary Movie 1)."
+"This increase in migration persistence means that the direction of migration, chosen at random, is sustained upon NHSL3 depletion."
+A decrease in cell speed was associated with this increased persistence of MCF10A cells (Supplementary ﬁg. 1a).
+The same effect was previously observed with a variety of perturbations of the Arp2/3 pathway in MCF10A cells25.
+"We then generated NHSL3 knockout (KO) clones in MCF10A cells using CRISPR/Cas9, as we previously described25."
+"We isolated two KO clones, which expressed no NHSL3 due to premature stop codons in both alleles (Supplementary ﬁg. 1b)."
+"The KO clones exhibited the same phenotype of increased persistence and decreased speed as NHSL3 knockdown cells (Figs. 1b, Supplementary ﬁg. 1c, Supplementary Movie 2)."
+We then decided to generalise these ﬁndings to another cell line.
+"We chose the hTERTimmortalised HME1 cell line, that corresponds to untransformed human mammary epithelial cells, like the MCF10A cell line."
+"Upon siRNAmediated depletion of NHSL3, HME1 cells also exhibited an increase in migration persistence, that is not associated with a change in cell speed in this system (Fig."
+"1c, Supplementary ﬁg. 1d, Supplementary Movie 3)."
+"Thus, we characterised the NHSL3 protein as a negative regulator of migration persistence."
+"We then sought to localise NHSL3 using immunoﬂuorescence of HME1 cells, which display more pronounced lamellipodia than MCF10A cells."
+NHSL3 was localised in lamellipodia together with the branched actin marker cortactin (Fig. 1d)26.
+"In MCF10A cells, however, NHSL3 was mostly observed at cellcell junctions when cells touched each other (Fig. 1e)."
+The junctional staining was lost upon NHSL3 KO.
+We also observed cellcell junction staining when endogenous NHSL3 was tagged with a GFPFlag at its Cterminus in a knockin (KI) line derived from MCF10A cells (Supplementary ﬁgs.
+"2a, b)."
+This junctional localisation prompted us to evaluate the potential role of NHSL3 in collective cell migration.
+We compared NHSL3 KO clones to parental MCF10A cells in a wound healing assay.
+"Videomicroscopy showed that all lines appeared able to close the wound (Supplementary Movie 4, Supplementary ﬁg. 2c)."
+"We then analysed cell displacement from these phase contrast movies using Particle Image Velocimetry analysis (PIV), which provides the ﬁeld of displacement vectors and its evolution over time (Supplementary ﬁgs."
+"2d, Supplementary Movie 5)."
+This analysis thereby reveals how cells respond to the mechanical stimulus by inducing coordinated migration towards the wound of the ﬁrst rows of cells.
+Cell speed and order parameter correspond to the length and orientation of displacement vectors towards the wound.
+"Both speed and order parameter decreased in NHSL3 KO cells compared with parental cells, especially after the ﬁrst rows of cells facing the wound (Figs."
+"1f, Supplementary ﬁg. 2e)."
+The effect on cell speed was signiﬁcant and more pronounced than that on the order parameter.
+NHSL3 is thus also a regulator of cell coordination in collective migration.
+Different isoforms control single and collective cell migration NHSL3 is a complex gene displaying alternative exons.
+We characterised the isoforms expressed in MCF10A cells using RTPCR (Fig.
+2a)
+And cloned them into an expression vector.
+"NHSL3 has three possible transcription start sites, generating alternative ﬁrst exons, leading to three long isoforms—because they all contain the remaining six exons—that we named i1, i2 and i3."
+"In addition, we detected a much shorter isoform, lacking exons 5 and 6, when the third start site was used."
+The isoform i3 is thus either short (i3S) or long (i3L).
+"We isolated cell lines derived from the MCF10A NHSL3 KO line that stably express either i1 (1094 aminoacids), i2 (1046 aminoacids), i3L (1035 aminoacids) or i3S (143 aminoacids)."
+"When tested in the single cell migration assay, we found, to our surprise, that only the short i3S isoform rescues the increased persistence of KO cells (Fig."
+"2b, c, Supplementary ﬁg. 3a, Supplementary Movie 6, Supplementary Data 1)."
+"Using quantitative RTPCR (qRTPCR), we determined that i3S mRNA is by far the least expressed isoform, amounting to only 0.1% of total NHSL3 mRNAs (Fig. 2d)."
+"The KI cell line that expresses all NHSL3 isoforms tagged at their Cterminus, allowed us to detect i3S. At the protein level, the short isoform i3S represents about 1% of total NHSL3 (Fig. 2e), since the lysate has to be diluted about 100fold so that long isoforms generate a signal similar to the one of the short isoform in undiluted lysate."
+"To conﬁrm that only the small NHSL3 isoform controls the migration persistence of single cells, we designed siRNAs that either target all long isoforms in the alternative exon 6 or that target only the small i3S isoform at its unique junction of exons 4 and 7 (Fig."
+"2f, g, Supplementary ﬁg. 3b)."
+"Consistent with KO/rescue experiments, speciﬁc depletion of i3S was sufﬁcient to generate the increased persistence phenotype previously observed when all isoforms were simultaneously inactivated by knockdown or knockout (Fig."
+"2h, Supplementary Movie 7)."
+"In sharp contrast, depletion of all long isoforms was not affecting migration persistence."
+The situation is markedly different for the collective migration phenotype.
+"Indeed, the expression of each individual isoform partially rescued the phenotype of the ‘slow follower cells’ exhibited by the KO, but most isoforms failed to reach statistical signiﬁcance."
+The only signiﬁcant rescue was observed with the long i2 isoform (Figs.
+"2i, Supplementary ﬁg. 3c)."
+"All long isoforms, but not the short i3S isoform, were localised at cellcell junctions of MCF10A cells (Supplementary ﬁg. 4a)."
+"In contrast, when transiently expressed into hTERTHME1 cells, all isoforms were detected in lamellipodia (Supplementary ﬁg. 4b)."
+"In conclusion, we detected i3S in the lamellipodium in line with its function in single cell migration and i2 at cellcell junctions in line with its function in collective migration."
+Identiﬁcation of NHSL3 Partners We then attempted to characterise the mechanisms by which NHSL3 controls migration persistence of single cells.
+"Since NHSL3 inhibits the persistence of MCF10A cells, as previously described for NHSL120,21, we combined siRNAmediated depletion of NHSL3 and NHSL1 in MCF10A cells to test whether there would be an additive effect of NHSL3 and Nature Communications | (2025) 16:205 Article https://doi.org/10.1038/s41467024-556473 MCF10A siCTRL + siNHSL3 NHSL3 GAPDH kDa 185 30 Par + NHSL3 KO1 NHSL3 KO2 MCF10A NHSL3 GAPDH kDa 185 30 hTERTHME1 siCTRL + siNHSL3 NHSL3 GAPDH kDa 185 30 1.0 0.8 0.6 0.4 0.2 MCF10A p<0.0001 siCTRL siNHSL3 20 10 Time interval (min) 30 40 50 1.0 0.8 0.6 0.4 0.2 MCF10A p<0.0001 Par NHSL3 KO1 NHSL3 KO2 40 50 20 10 Time interval (min) 30 1.0 0.8 0.6 0.4 0.2 hTERTHME1 siCTRL siNHSL3 20 10 Time interval (min) 40 30 hTERTHME1 parental DAPI/actin Cortactin NHSL3 Cortactin/NHSL3 MCF10A parental DAPI/actin NHSL3 MCF10A NHSL3 KO DAPI/actin NHSL3 100 50 -4 100 50 p<0.0001 50 Cortactin NHSL3 -2 Distance (μm) Actin NHSL3 Actin NHSL3"
+-10
+-5
+"Distance, μm 10 28 27 26 25 24 23 22 21 20 19 18 17 16 15 14 13 12 11 10 4 h 8 h Par KO1 KO2 25 20 15 10 Par KO1 KO2 p=0.0017 p=0.0002 64 128 192 256 320 384 Distance from the edge (μm) NHSL1 depletion."
+"When both NHSL1 and NHSL3 were knocked down together, we indeed observed that migration persistence is more increased than with any single knockdown (Figs. 3a, Supplementary ﬁg. 5, Supplementary Movie 8), suggesting that NHSL1 and NHSL3 do not control migration persistence through the same mechanism."
+"We have previously reported that NHSL1 assembles a socalled WAVE shell complex that contains all WAVE complex subunits, except the WAVE protein20."
+All 3 NHSL3 isoforms display homology to the WHD of NHSL1.
+We thus decided to clone the three Nterminal regions of NHSL3 isoforms corresponding to the NHSL1 WHD (Fig. 3b) and established MCF10A lines stably expressing NHSL3 putative WHDs or the WHD of NHSL1 as a positive control.
+"Only NHSL1 WHD was able to associate with the WAVE complex subunits, CYFIP1, NCKAP1, ABI1 and BRK1 (Fig. 3b)."
+"Therefore, unlike NHSL1, NHSL3 does not form a WAVE Nature Communications | (2025) 16:205 Article https://doi.org/10.1038/s41467024-556473 Fig."
+1 | NHSL3 regulates single and collective cell migration.
+A MCF10A cells are transfected with pools of control (CTRL) or NHSL3 siRNAs and analysed by Western blots using NHSL3 and GAPDH antibodies.
+Cells are tracked for 6.5 h and migration persistence is extracted from trajectories of single cells.
+"n = 60 cells, mean ± SEM."
+B NHSL3 KO clones or parental MCF10A cells are analysed by Western blots using NHSL3 and GAPDH antibodies.
+Cells are tracked for 6.5 h and migration persistence is extracted from trajectories of single cells.
+n = 60 cells.
+C hTERTHME1 cells are transfected with pools of control (CTRL) or NHSL3 siRNAs and analysed by Western blots.
+Cells are tracked for 8 h and migration persistence is extracted from trajectories of single cells.
+"n = 60 cells, mean ± SEM."
+"D hTERTHME1 cells are stained with DAPI (nuclear DNA), phalloidin (ﬁlamentous actin) and antibodies targeting cortactin or NHSL3."
+"Single confocal section, scale bar: 20 μm."
+Overlap of cortactin and NHSL3 over multiple line scans registered to the cell edge.
+"Data are shown as mean ± SEM, n = 15 line scans."
+"E Parental MCF10A (Par) and NHSL3 KO cells are stained with DAPI, phalloidin and NHSL3 antibodies."
+"Single confocal section, scale bar: 10 μm."
+Overlap of actin and NHSL3 over multiple line scans registered to the cellcell junction.
+"Data are shown as mean ± SEM, n = 15 line scans."
+F Migration of monolayers into the wound that is created by lifting an insert is imaged by phase contrast over time and analysed by Particle Image Velocimetry (PIV).
+"Heat maps of the speed of collective parental MCF10A or NHSL3 KO cells display the front edge at the top and time of insert lifting at the left and its evolution over time and space (average of 12 measures, i.e. 3 biological replicates each containing 4 ﬁelds of view)."
+Quantiﬁcation of cell speed across the monolayer at 8 h. Statistical signiﬁcance is calculated using custommade R programmes for single cell migration and oneway ANOVA for collective migration.
+Pvalues are indicated.
+Three biological repeats for each experiment gave similar results.
+Source data are provided as a Source Data ﬁle.
+Shell complex.
+"Together, these results indicated that NHSL3 controls migration persistence through a different mechanism than NHSL1."
+We then sought to identify partners of NHSL3 that can account for its role in cell migration.
+"To this end, we performed Tandem Afﬁnity Puriﬁcation (TAP) of FlagGFP fusion proteins of the different NHSL3 isoforms expressed in stable MCF10A cell lines (Fig. 4a)."
+"We also performed TAP in the KI cell line, where all isoforms are tagged at their Cterminus with GFPFlag (Fig. 4b)."
+"All TAPs were successful, with many partners identiﬁed for all NHSL3 isoforms using mass spectrometry (Supplementary Data 2)."
+"Logically, the short i3S isoform associates with fewer proteins, only 42, compared with the hundreds associated with long isoforms."
+"Among partners of long isoforms, we noticed the presence of wellestablished regulators of actin polymerisation, such as all subunits of the WAVE complex, including WAVE2, as well as IRSp53 and MENA/VASP proteins."
+These actin regulators were also found to be associated with endogenously tagged NHSL3 isoforms of the KI cell line (Supplementary Data 2).
+"To validate these partners, we performed direct GFP immunoprecipitations from the lines expressing FlagGFP fusions proteins with each isoform."
+"In line with mass spectrometry results, all long isoforms, but not the short i3S, were associated with these proteins involved in actin polymerisation (Fig. 4c)."
+"These results indicate these “usual suspects” might control the speed at which follower cells follow leader cells, but cannot play a role in the control of migration persistence of single cells, since they do not interact with i3S. NHSL3 regulates collective migration via MENA/VASP We employed the AlphaFold2 software to predict the potential binding sites between NHSL3 and proteins of the WAVE complex, IRSp53, and MENA/VASP."
+"As NHSL3 is predicted to be a largely intrinsically disordered protein, we used a strategy that we recently developed where proteins are cut into fragments to increase sensitivity for binding site detection27."
+"The WAVE complex subunit ABI1 was predicted to bind to two sites of NHSL3 through its SH3 domain, in a manner similar to its interaction with NHSL1 (Figs."
+"5a, b, Supplementary Data 3)21."
+"IRSp53 was also predicted to interact with NHSL3 through its SH3 domain, but to a third site."
+"Finally, MENA/VASP proteins were predicted to interact with a fourth binding site through their EVH1 domain."
+"Although the four predicted sites are all short prolinerich motifs, AlphaFold2 predicted binding to these different motifs in a speciﬁc manner."
+We introduced into the i2 isoform the deletions corresponding to each predicted binding site and stably expressed each of these mutant forms of i2 as FlagGFP fusion proteins in the NHSL3 KO line.
+GFP immunoprecipitations revealed that the binding sites of IRSp53 and MENA/VASP were correctly predicted (Fig. 5c).
+"For ABI1, only the ﬁrst predicted site appeared important for NHSL3 interaction with the WAVE complex."
+We then assayed collective migration of the KO line expressing mutant forms of i2 unable to interact with one or the other of these actin regulators.
+Only the mutant form of i2 that does no longer interact with MENA/VASP proteins (i2_Δ4) was unable to rescue the ‘slow follower cells’ phenotype (Fig. 5d).
+"The mutant form of i2 that does no longer interact with the IRSp53 protein (i2_Δ3) partially rescued the phenotype, while the mutant form of i2 that does no longer interact with the WAVE complex fully rescued it (i2_Δ1)."
+The localisation of the mutant form of i2 that does not interact with MENA/ VASP (i2_Δ4) was less pronounced in cellcell junctions than wildtype i2 (Fig. 5e).
+"Intensity of MENA/VASP at cellcell junctions was also decreased in KO cells expressing this mutant form of i2 (i2_Δ4), compared with KO cells expressing wild type i2."
+"Regarding the mutant form of i2 that does not interact with the WAVE complex (i2_Δ1), it was also less associated with cellcell junctions than wildtype i2, and junctions were themselves less intensely stained by phalloidin in the mutant compared with the wild type, despite the full rescue the KO displayed by this mutant form (Supplementary ﬁg. 6a)."
+These results suggested that localisation of NHSL3 at cellcell junctions partially depends on its interactions with both MENA/VASP and the WAVE complex.
+"The interaction of NHSL3 with MENA/VASP proteins accounts for the recruitment of only a fraction of MENA/VASP at cellcell junctions, but this pool appears to be critical for signal transmission to follower cells during collective migration."
+"NHSL3 regulates single cell migration via 143-3θ Since i3S does not interact with any of the wellestablished regulators of actin polymerisation, we next sought to uncover the mechanisms by which NHSL3 regulates migration persistence of single cells."
+i3S is likely to regulate migration persistence through the interaction with one or several of the 42 partners we identiﬁed using proteomics.
+We took advantage of the aforementioned in silico screening protocol by cutting the intrinsically disordered i3S into segments and isolating globular domains of partners to search for direct interactors using AlphaFold227.
+"Out of the 42 partners, six were predicted as potential direct partners of i3S Cterminal segment with a conﬁdence score above 0.65 (Fig."
+"6a, Supplementary Data 3)."
+This threshold was found as a fair tradeoff between sensitivity and speciﬁcity27.
+"We focused on the candidate displaying the highest conﬁdence score, 143-3θ, encoded by the YWHAQ gene (Supplementary Data 3)."
+"Six out of seven 143–3 isoforms, including 143-3θ, also associated with long NHSL3 isoforms (Supplementary Data 2), presumably because they are phosphorylated on many residues in public databases (Uniprot & PRIDE)."
+"But 143-3θ was the only 143-3 isoform that associated with i3S. To conﬁrm the speciﬁc interaction of i3S with 143-3θ, we cloned the YWHAQ gene encoding 143-3θ and two other genes encoding 143–3 isoforms associated with NHSL3 long isoforms, but not with i3S, namely the YWHAE gene encoding 143-3ε and the YWHAG gene encoding 143-3γ."
+We transiently expressed GFPtagged i3S and PCtagged 143–3 isoforms in 293 T cells.
+"GFP immunoprecipitates revealed that, indeed, i3S interacts with 143-3θ, but neither with 143- 3ε, nor with 143-3γ (Fig. 6b)."
+"In the structural model generated by AlphaFold2, 143-3θ interacted with the unique Cterminal region of i3S that connects the aminoacids encoded by exon 4 with those encoded by exon 7."
+The model displayed contacts with strong physicochemical complementary at the interface (Fig. 6c).
+"We designed three sets of mutations, A125E, the double mutation D124A/E131A and R135D, that Nature Communications | (2025) 16:205 Article https://doi.org/10.1038/s41467024-556473 Isoforms KO i1 i2 i3L E1 234 bp E1’ 89 bp E1’’ 56 bp E2 E3 E4 E5 E6 E7 E2 E3 E4 E5 E6 E7 E2 E3 E4 E5 E6 E7 si_long i3S E1’’ E2 E3 E4 E7 si_i3S NHSL3 GAPDH MCF10A K Oi3 S K Oi3L K Oi1"
+K Oi2 kDa P ar K O 185 115 80 65 50 30 1.0 0.8 0.6 0.4 0.2 Par KO KOi1
+KOi2 KOi3L KOi3S
+50 10 20 40 Time interval (min) 30 Par KO KOi1 KOi2 KOi3L KOi3S Par p<0.0001 p<0.0001 p<0.0001 p<0.0001 p=0.33
+KO p<0.0001 p=0.049 p=0.33 p=0.47 p<0.0001 i3S E1’’ endogenous NHSL3 i3S GAPDH i1 i2 E1 E2 E3 E4 E5 E1’ E2 E3 E4 E5 i3L E1’’ E2 E3 E4 E5 E2 E3 E4 E7 Relative percentage of NHSL3 isoforms mRNA in MCF10A cells Input IP: GFP NHSL3 KI serial dilution P ar KI P ar 1/2 1/4 1/8 1/16 1/32 1/64 1/128 kDa i1 44.6 ± 4.6% i2 49.6 ± 5.1% i3L 5.7 ± 9.7% i3S 0.1 ± 0.02% NHSL3 185 115 80 65 50 30 25 15 10 MCF10A parental MCF10A parental E6 E7 E6 E7 E6 E7 MCF10A NHSL3 i3S siC T R L si_i3 S si_long kDa 185 50 30 p<0.0001 p=0.0005 p<0.0001 p=0.0001 p<0.0001 p=0.14 10 101 siCTRL si_i3S si_long si_i3S + si_long 102 Primers for i3S Primers for long isoforms 28 27 26 25 24 23 22 21 20 19 18 17 16 15 14 13 12 11 10 8 h 4 h} Par KO KOi1 KOi2 KOi3L KOi3S 1.0 0.8 0.6 0.4 0.2 10 25 20 15 10 siCTRL si_i3S si_long si_i3S + si_long 20 40 Time interval (min) 30 p=0.64 p<0.0001 50 Par KO KOi1
+KOi2 KOi3L KOi3S
+64 192 384 256 128 Distance from the edge (μm) 320 Par KO KOi1 KOi2 KOi3L KOi3S Par p=0.0109 p=0.45 p>0.99 p>0.99 p=0.41 KO p=0.0109 p>0.99 p=0.0088 p>0.99 p>0.99 were predicted to abolish the interaction of i3S with 143-3θ in the structural model.
+"When introduced into GFPtagged i3S, all three mutations indeed abolished the interaction with PCtagged 143-3θ in transiently transfected 293 T cells (Fig. 6d)."
+We took advantage of the availability of such mutations to examine the role of the i3S/143-3θ interaction in migration persistence.
+"We focused on the R135D mutation, which is a single substitution and that does not appear to destabilise i3S, unlike A125E (Fig. 6d)."
+"When stably expressed in NHSL3 KO cells, R135D i3S failed to interact with the endogenous 143-3θ expressed in MCF10A cells (Fig. 6e)."
+"Importantly, R135D i3S also failed to rescue the increased migration persistence, unlike wild type i3S (Figs. 6f, Supplementary ﬁg."
+"7a, Supplementary Movie 9)."
+"If the R135D mutation renders i3S nonfunctional, because it abolishes its interaction with 143-3θ, then Nature Communications | (2025) 16:205 Article https://doi.org/10.1038/s41467024-556473 Fig."
+2 | Different NHSL3 isoforms are involved in single and collective cell migration.
+A Scheme of NHSL3 isoforms expressed in MCF10A cells.
+Exons 5 and 6 are omitted in a short isoform.
+"Three transcriptional start sites account for different exons 1, labelled E1, E1’ and E1”."
+Locations of the gRNA used for KO and siRNAs targeting speciﬁcally short and long isoforms are indicated.
+B MCF10A NHSL3 KO cells are stably transfected with plasmids expressing FlagGFP or FlagGFP tagged NHSL3 isoforms and analysed by Western blots using NHSL3 and GAPDH antibodies.
+Red stars indicate the location of NHSL3 isoforms.
+c
+Cells are tracked for 6.5 h and migration persistence is extracted from trajectories of single cells.
+"n = 60 cells, mean ± SEM."
+i3S is the only isoform that rescues the increased persistence of NHSL3 KO cells.
+d
+Quantiﬁcation of different NHSL3 mRNAs in MCF10A cells using qRTPCR and representation of their respective abundance.
+"Proportions of NHSL3 isoforms are deduced from the PCR amplicons labelled a to e in the scheme, mean ± SEM."
+E Quantiﬁcation of long and short isoforms at the protein level.
+The different isoforms are labelled at their Cterminus by knocking in GFPFlag in exon 7 (KI).
+Lysates from parental MCF10A and KI cells are subjected to GFP immunoprecipitation.
+"Lysates, immunoprecipitates and dilution thereof are subjected to NHSL3 Western blot."
+The short isoform is about 100fold less abundant than long isoforms.
+F MCF10A cells stably expressing i3S are transfected with siRNAs targeting short or long isoforms and analysed by Western blots.
+"G qRTPCR of short and long isoforms in MCF10A cells transfected with siRNAs, n = 3, mean ± SEM."
+H Migration persistence of single MCF10A cells transfected with siRNAs.
+"Tracking 6.5 h, n = 60 cells, mean ± SEM."
+"I Collective migration of NHSL3 KO cells stably expressing the different NHSL3 isoforms, assessed as in Fig."
+1f.
+i2 is the only isoform that signiﬁcantly rescues the decreased speed of follower cells in NHSL3 KO cells.
+Statistical signiﬁcance is calculated with custommade R programmes for single cell migration or with KruskalWallis test for collective migration.
+Signiﬁcant pvalues are highlighted in yellow in the tables.
+Three biological repeats of each experiment gave similar results.
+Source data are provided as a Source Data ﬁle.
+MCF10A siCTRL siNHSL1 siNHSL3 NHSL1 NHSL3 GAPDH kDa 185 185 30 1.0 0.8 0.6 0.4 0.2 p<0.0001 siNHSL1 + siNHSL3 siNHSL1 siCTRL p=0.062 p<0.0001 50 MCF10A 20 10 Time interval (min) 40 30 Nterminus fragments NHSL3 i1 NHSL3 i2 NHSL3 i3 NHSL1 140 92 81 25 89 123 Coiled coil Most conserved region of WHD GFP CYFIP1 NCKAP1 WAVE2 ABI1 BRK1 GAPDH Input IP: GFP P ar G F P L3i1 L3i2 L3i3 L1 P ar G F P L3i1 L3i2 L3i3 L1 kDa 50 30 115 115 80 65 50 10 30 Fig. 3
+| NHSL3 regulates single cell migration through a mechanism distinct from the one of NHSL1.
+A MCF10A cells are transfected with siRNA pools targeting NHSL1 and NHSL3 and analysed by Western blots.
+Migration persistence of single cells.
+"Tracking 6.5 h, n = 60 cells, mean ± SEM."
+Statistical signiﬁcance is calculated using custommade R programmes for single cell migration and pvalues are indicated.
+B The 3 Nterminal regions of NHSL3 depicted in the scheme are cloned into a plasmid expressing fusion proteins with FlagGFP and compared with the corresponding WAVE Homology Domain (WHD) of NHSL1.
+Lysates of MCF10A cells stably expressing the various fusion proteins are subjected to GFP immunoprecipitations.
+"Lysates and immunoprecipitates are analysed by Western blots using antibodies targeting GFP, WAVE complex subunits or GAPDH as a negative control."
+"NHSL1 with a functional WHD forms a WAVE shell complex containing all WAVE complex subunits, except WAVE2 that it replaces."
+None of the NHSL3 Nterminal domains forms a similar WAVE shell complex.
+"L1 refers to NHSL1, L3i1 to NHSL3 i1, L3i2 to NHSL3 i2, L3i3 to NHSL3 i3."
+Three biological repeats of both experiments gave similar results.
+Source data are provided as a Source Data ﬁle.
+143-3θ depletion should yield the same phenotype.
+"We thus used siRNAs to deplete 143-3θ from parental MCF10A, NHSL3 KO cells and KO cells stably expressing wild type or R135D i3S. As expected, 143-3θ depletion increased migration persistence of parental cells to the level of NHSL3 KO cells, but 143-3θ depletion in KO cells did not aggravate the phenotype further (Figs. 6g, Supplementary ﬁg. 7b)."
+"Similarly, 143- 3θ depletion increased migration persistence of MCF10A KO cells rescued by i3S, but 143-3θ depletion did not aggravate the phenotype of KO cells stably expressing R135D"
+i3S. These results indicate that 143-3θ is a signiﬁcant partner of i3S in the control of migration persistence.
+We then examined the localisation of 143-3θ by immunoﬂuorescence of HME1 cells.
+We detected a weak enrichment of 143-3θ Nature Communications | (2025) 16:205 Article MCF10A i1 i2 i3L i3 S P ar kDa 185 115 80 65 50 30 NHSL3 GAPDH https://doi.org/10.1038/s41467024-556473 MCF10A kDa P ar G F P i1 i2 i3L i3 S MCF10A P ar KI kDa Silver staining 185 115 80 65 50 30 25 15 10 200 116.3 97.4 66.3 55.4 36.5 31 21.5 14.4 # of partners 331 171 317 42 # of partners 135 GFP MCF10A P ar G F P Input i1 i2 i3L i3 S P ar G F P IP: GFP i1 i2 i3L i3 S kDa 185 NCKAP1 CYFIP1 MCF10A Input i1 i2 i3L P ar G F P IP: GFP i1 i2 i3L G F P i3 S i3 S P ar WAVE2 ABI1 BRK1 IRSp53 MENA VASP GAPDH 115 80 65 50 30 25 15 10 kDa 115 115 80 65 50 10 50 110 50 30 Fig.
+4 | Identiﬁcation of NHSL3 partners.
+A MCF10A cells are stably transfected with plasmids expressing either FlagGFP or FlagGFP tagged NHSL3 isoforms and analysed by Western blots.
+"B FLAGGFP tagged NHSL3 isoforms, or FLAGGFP as a control, from stable MCF10A clones or GFPFlag knockin (KI) MCF10A cells are subjected to Tandem Afﬁnity Puriﬁcation (TAP)."
+Proteins are resolved by SDS–PAGE and silver stained.
+The number of proteins identiﬁed by mass spectrometry is indicated below each lane.
+"C GFP immunoprecipitates from MCF10A cells stably expressing NHSL3 isoforms are analysed by Western blots for the presence of partners involved in actin polymerisation, namely WAVE complex subunits, IRSp53 and MENA/VASP proteins."
+Red stars indicate the position of tagged isoforms of NHSL3.
+Three biological repeats of each experiment gave similar results.
+"In lamellipodia highlighted by the cortactin marker (Figs. 7a, Supplementary ﬁg. 8a)."
+"Importantly, this lamellipodial pool of 143-3θ was lost upon NHSL3 depletion using siRNAs and speciﬁcally upon depletion of the short, but not the long isoforms of NHSL3 (Figs. 7b, Supplementary ﬁg. 8b)."
+"Together, these results demonstrated that the interaction of i3S with 143-3θ is required for NHSL3 to recruit 143-3θ to lamellipodia and to control migration persistence of single cells."
+Discussion
+"In this work, we identiﬁed the uncharacterised NHS family member NHSL3 as a regulator of cell migration."
+"NHS and NHSL1 had previously been reported to interact with the WAVE complex and this interaction was found to control lamellipodial protrusions and migration of single cells18,21."
+NHSL1 interacts with the whole WAVE complex through two short prolinerich motifs that interact with the ABI1 SH3 domain21.
+"This mode of interaction is conserved in NHSL3, even if only one of the two predicted binding sites appears functional in NHSL3."
+"NHSL1 also assembles a socalled WAVE shell complex through its Nterminal WHD domain, which replaces the WAVE subunit within its complex20."
+"Even though the different Nterminal regions of NHSL3 isoforms exhibit homology to WAVE, like NHSL1, NHSL3 appears unable to assemble a WAVE shell complex, unlike NHSL1."
+"The most surprising observation, Nature Communications | (2025) 16:205 Article https://doi.org/10.1038/s41467024-556473 NHSL3 i2 (cid:2)1 (cid:2)2 (cid:2)3 (cid:2)4 1046 SLRKLKRPPPPP 453 442 ABI1 site 1 QPPKPER 567 561 ABI1 site 2 PPHPKVPAPFSPPP 626 613 WPPPPPPAPEEQDLSMADFPP 741 721 IRSp53 site MENA/VASP site MCF10A NHSL3 KO Input IP: GFP i2_(cid:2)1 G F P i2_(cid:2)1+2 i2_(cid:2)3 i2_(cid:2)2 i2_(cid:2)4 K O i2_(cid:2)1 G F P i2_(cid:2)1+2 i2_(cid:2)3 i2_(cid:2)2 i2_(cid:2)4 kDa 185 NHSL3 i2 (442453) ABI1 site 1 NHSL3 i2 (561567) ABI1 site 2 NHSL3 i2 (613626)"
+IRSp53 site Abi1 IRSp53 AF2: 0.68 AF2: 0.63 AF2: 0.73 NHSL3 i2 (721741) MENA/VASP site MENA VASP AF2: 0.74 AF2: 0.76 4 h 8 h Par KO
+KOi2_(cid:2)1 KOi2_(cid:2)3 KOi2_(cid:2)4 35 34 33 32 31 30 29 28 27 26 25 24 23 22 21 20 19 18 17 16 15 14 13 12 11 10 MCF10A NHSL3 KO DAPI/actin GFPi2 VASP (cid:2) DAPI/actin GFPi2_(cid:2)4 VASP K O GFP CYFIP1 NCKAP1 WAVE2 ABI1 BRK1 IRSp53 MENA VASP GAPDH 115 115 80 65 50 10 50 110 50 30 Par KO
+KOi2_(cid:2)1 KOi2_(cid:2)3 KOi2_(cid:2)4 30 25 20 15 10 64 128 192 256 Distance from the edge (μm) 320 384 Par KO
+KOi2_(cid:2)1 KOi2_(cid:2)3 KOi2_(cid:2)4 p=0.0137 p>0.99 p>0.99 p>0.99 p=0.0166 p=0.0137 p=0.026 p=0.0025 p>0.99 p>0.99 VASP i2_Δ4 GFP i2_Δ4 Par KO 120 100 80 60 40 20 -2.5 0.0 2.5 -2.5 0.0 2.5 actin i2_Δ4 120 100 80 60 40 20 -2.5 0.0 Distance from the junction (μm) 2.5 Fig.
+5 | NHSL3 i2 regulates the speed of follower cells in collective migration through its interaction with MENA/VASP family proteins.
+"A Predicted binding sites on NHSL3 for ABI1, IRSp53 and MENA/VASP are deleted in isoform 2, as indicated (Δ1 to Δ4)."
+B AlphaFold2generated models of interactions between NHSL3 and partners.
+Conﬁdence of the interaction is indicated as the AF2 score.
+C GFP immunoprecipitates from stable rescued KO lines are analysed by Western blots.
+Two biological repeats with similar results.
+"D Collective migration of NHSL3 KO cells stably expressing the different NHSL3 i2 mutant forms, assessed as in Fig."
+"1b (average of 12 measures, i.e. 3 biological replicates each containing 4 ﬁelds of view)."
+Statistical signiﬁcance is calculated with KruskalWallis test and pvalues are indicated.
+"E MCF10A NHSL3 KO cells stably expressing NHSL3 i2 or NHSL3 i2_Δ4 are allowed to migrate collectively into the wound for 8 h and monolayers are stained with DAPI, phalloidin and VASP antibodies."
+Scale bar: 10 μm.
+"Intensity of GFP ﬂuorescence, VASP immunoﬂuorescence and phalloidin is plotted as percentages from -2.5 to 2.5 µm across the cellcell junction (mean ± SEM of 45 measures, i.e. 3 biological replicates each containing 15 line scans)."
+The three biological repeats of all displayed experiments gave similar results.
+Source data are provided as a Source Data ﬁle.
+"Nature Communications | (2025) 16:205 Article https://doi.org/10.1038/s41467024-556473 we believe, is that even though NHSL3 interacts with the WAVE complex, this interaction does not appear to play any role in the dual regulation of single and collective cell migration that NHSL3 exerts."
+NHSL3 regulates a speciﬁc aspect of collective migration.
+"During wound healing, NHSL3 inactivation induces a migration defect in follower cells, but not in leader cells, since leader cells are moving forward at the same speed in NHSL3 KO and parental cells (Supplementary ﬁg. 2c)."
+"This phenotype suggests that NHSL3 is not involved in wound sensing and initial migration induction, but rather that NHSL3 might be involved in transmitting the mechanical signal from the wound edge to cells further back in the monolayer, to induce coordinated migration."
+The localisation of NHSL3 in cellcell junctions would be consistent with this interpretation (Fig.
+8).
+"NHS and NHSL1 also localise to cellcell junctions18,28, but these two family members were not reported regulating collective cell migration."
+"The localisation of NHSL3 at cellcell junctions is speciﬁc to long isoforms, which exhibit the prolinerich motifs that interact with the WAVE complex and MENA/VASP proteins."
+"The WAVE complex multiplies actin ﬁlaments through Arp2/3mediated nucleation of branched actin, whereas MENA/VASP proteins elongate actin ﬁlaments from their barbed end29,30."
+VASP family proteins are thought to elongate ﬁlaments from the Arp2/3generated branched actin networks in lamellipodia31.
+"Lamellipodin is another example of a protein that coordinates these two molecular machines for efﬁcient cell migration and invasion of cancer cells32,33."
+"However, functionally, the interaction of NHSL3 with MENA/VASP proteins, but not with the WAVE complex, is required to rescue the phenotype of follower cells exhibited by KO cells."
+"Therefore, NHSL3 regulates collective migration through its interaction with MENA/VASP proteins."
+"AlphaFold2mediated prediction of proteinprotein interactions34,35 played a critical role in this study, not only to predict binding motifs of long isoforms, because these binding sites to SH3 domains and EVH1 were already described22,36, but especially to screen partners identiﬁed by proteomics."
+Partners identiﬁed by proteomics are too numerous to screen them all functionally.
+AlphaFold2 permits to distinguish potential direct partners among those and predicts the associated binding site.
+"The predictive pipeline we have developed, where protein partners are cut into domains before being tested, involving the fragmentation of the protein partners in the disordered regions, signiﬁcantly increases the success rate of proteinprotein interaction detection27."
+"This approach allowed us to speciﬁcally focus on 143-3θ, because 143-3θ displayed the best conﬁdence score."
+"143-3θ is not a protein obviously involved in cell migration, even if other 143-3 family members were previously shown to regulate cell migration37."
+143-3θ fulﬁlled all the expected criteria for a signiﬁcant partner of NHSL3 controlling single cell migration.
+siRNAmediated depletion of 143-3θ phenocopied NHSL3 depletion and mutation of 143-3θ binding site on NHSL3 prevented i3S from rescuing the phenotype of KO cells.
+"143-3 family proteins primarily function as dimers that recognise phosphorylated residues, even if this is not an absolute requisite38–40."
+"143-3 family proteins can heterodimerize, yet we only found 143-3θ associated with i3S by proteomics and this speciﬁcity among 143–3 proteins was conﬁrmed using coimmunoprecipitations with other expressed 143–3 proteins."
+"Since potentially phosphorylated residues were not included in the structural predictions of i3S interaction with its partners, it is not sure that the 143-3θ interaction with i3S requires a phosphorylated residue in NHSL3."
+The structural model that AlphaFold2 predicted involved the unique junction of exon 4 with exon 7 in i3S and the phosphobinding groove on 143-3θ.
+This model was experimentally tested using several mutations that indeed abrogated the interaction.
+"Therefore, even if the single 143-3θ subunit engaged with i3S does not require a phosphorylated residue, the other 143-3θ subunit of the dimer would still be available to engage with a phosphoresidue of NHSL3 or one of its partners."
+The interaction of i3S with 143-3θ was clearly required to recruit a pool of 143-3θ to lamellipodia.
+"This pool appeared minor in quantity, yet, functionally, we have shown that it was critical to control single cell migration."
+"We have previously extensively characterised the molecular mechanisms of migration persistence in single cell migration in the MCF10A cell system and found that Arp2/3 activation by the WAVE complex and the branched actin it generates at the lamellipodial edge were essential24,25,41,42."
+"Here, we uncovered a regulator of migration persistence, NHSL3, that can bind to the WAVE complex, but employs other molecular machines to control migration."
+NHSL3 regulates both single and collective cell migration through distinct isoforms.
+"We were able to identify 143-3θ and MENA/VASP proteins as essential partners of NHSL3 for the control of single and collective cell migration, respectively."
+Our work highlights the power of AlphaFold2mediated structural predictions in deciphering the molecular mechanisms of a protein of interest and the importance of NHS family proteins in regulating cell migration through various mechanisms.
+"Methods Cell culture MCF10A cells were grown in DMEM/F12 medium supplemented with 5% horse serum, 20 ng/mL epidermal growth factor, 10 µg/mL insulin, 100 ng/mL cholera toxin, 500 ng/mL hydrocortisone and 100 U/mL penicillin."
+"hTERTHME1 cells and HEK293T cells were grown in RPMI1640 or DMEM medium, respectively, with 10% FBS and 100 U/mL penicillin/streptomycin."
+hTERTHME1 (ME16C) and HEK 293 T (CRL3216) cells were from ATCC.
+"MCF10A cell line was from the collection of breast cell lines organised by Thierry Dubois (Institut Curie, Paris)."
+Media and supplements were from Life Technologies and Sigma.
+Cells were incubated at 37 °C in 5% CO2.
+Cells were passaged every 3 days.
+"Plasmids, transfection and isolation of stable cell lines FlagGFP tagged proteins were expressed from a homemade vector, MXS AAVS1L SA2A Puro bGHpA EF1Flag GFP Blue SV40pA AAVS1R"
+"That was previously described (Molinie et al., 2019)."
+"Fulllength NHSL3 isoforms (i1 NP_065939, i2 NP_001356482, i3L NP_001185901 and i3S NP_001185902), as well as Ntermini of NHSL3 and NHSL1 (i1_1140 aa, i2_192 aa, i3_181 aa, NHSL1_1123 aa) and mutants of NHSL3 i3S (i3S_A125E, i3S_D124A/E131A, i3S_R135D) and NHSL3 i2 (i2_Δ1 lacking 442453 aa, i2_Δ2 lacking 561567 aa, i2_Δ1 + 2 lacking 442453 aa and Δ561567 aa, i2_Δ3 lacking 613626 aa, i2_Δ4 lacking 721741 aa) were ampliﬁed using primers detailed in Supplementary Data 4 and inserted into MXS AAVS1 vector in place of the Blue cassette using Fse1 and Asc1 restriction sites."
+Transfections were performed using Lipofectamine 3000 (Invitrogen).
+"To obtain stable cell lines in MCF10A, MXS AAVS1 vectors were cotransfected with two TALEN constructs (Addgene #59025 and 59026) inducing a doublestrand break at the AAVS1 locus43."
+Cells were selected with 0.5 µg/mL puromycin (Invivogen).
+"Single clones were picked using cloning rings, expanded and analysed by Western blot."
+"Antibodies The antibodies used were: antiNHSL3 (SigmaAldrich, HPA064839, 1:1000); antiNHSL1 (SigmaAldrich, HPA029967, 1:1000); antiGFP (Roche, 11814460001, 1:1000); antiNCKAP1 (Bethyl Laboratories, A305178A, 1:2000); antiMENA (SigmaAldrich, HPA028696, 1:1000); antiVASP (SigmaAldrich, HPA005724, 1:1000); antiIRSp53 (Proteintech, 110872-AP, 1:1000); anti14-33θ (Bethyl Laboratories, A303146A, 1:1000); antiGAPDH (Thermo Fisher Scientific, AM4300, 1:4000), antiα-tubulin (Sigma T9026, 1:2000) and anticortactin (Sigma 05180-I100UL, 1:200)."
+"Homemade CYFIP1, ABI1, WAVE2 antibodies and BRK1 antibody were described previously44,45."
+"Western blots Cells were lysed in RIPA buffer (HEPES 50 mM, EDTA 10 mM, SDS 0.1%, NP40 1%, DOC 0.5%, NaCl 15"
+"mM, pH7.4) supplemented with protease Nature Communications | (2025) 16:205 Article https://doi.org/10.1038/s41467024-556473 AlphaFold2mediated screening for direct partners Bait Prey in direct contact Prey in indirect contact NHSL3 i3S (Q9P2064) AlphaFold2 confidence score 0.69 HSPA4 0.69 0.66 HSPA4L 106 142 0.73 0.68 0.75 0.77 HSPD1"
+HSPA1A YWHAQ Bait: NHSL3 i3S HSPA9 HSPH1 S100A10 FLNA S100A6 PRMT5 CLNS1A WDR77 106142 PRPS1
+Prey PPM1B HSPA5 THUMPD3 RPS25 RPL13 RPL27A PCNA PPP2R2A LRPPRC RAN EEF2 GNB2L1 RPLP2 RPS28 RPL23A RNH1 FUS TUFM EIF4A1 DSTN SLC25A6 TUBA1A ARF4 RPS3 293T Input IP: GFP PC14-33 CTRL ε θ i3S ε θ CTRL ε θ i3S ε θ GFP PC Tubulin 293T kDa 50 30 30 50 Input IP: GFP MCF10A NHSL3 KO GFP 143-3θ GAPDH + D 124 A/E 131 A + D 124 A/E 131 A + R 135 D + R 135 D + A 125 E + A 125 E + G F P +i3 S kDa 50 + G F P +i3 S 30 30 50 MCF10A NHSL3 KO Par KO i3S R135D - + +- +- - + - + +- +- kDa 30 25 185 115 80 65 50 30 1.0 0.8 0.6 0.4 0.2 PC14-33θ GFP PC Tubulin siCTRL si143-3θ 143-3θ NHSL3 GAPDH 1.0 0.8 0.6 0.4 0.2 Par KO i3S R135D p=0.75 p<0.0001 50 20 10 Time interval (min) 40 30 i3S + siCTRL i3S + si143-3θ R135D + siCTRL R135D + si143-3θ
+Input G F P i3 S R 135 D K O K O
+"IP: GFP R 135 D kDa 50 G F P i3 S 30 30 25 30 Par + siCTRL Par + si143-3θ KO + siCTRL KO + si143-3θ p=0.13 p<0.0001 p=0.55 p<0.0001 50 20 40 10 Time interval (min) 30 50 20 10 Time interval (min) 40 30 inhibitors (Roche), the lysates were clariﬁed by centrifugation at 14,000 rpm for 15 min and subjected to SDS–PAGE using NuPAGE 412% BisTris or 3–8% TrisAcetate gels (Life Technologies)."
+"Pieces of nitrocellulose membranes were cut and incubated with different primary antibodies, HRP conjugated secondary antibodies (Sigma) and developed with SuperSignal™ West Femto Substrate (Thermo Fisher Scientific) and ChemiDoc imaging system (BioRad)."
+Uncropped images are provided in the source data ﬁle.
+qRTPCR
+"For qRTPCR, total RNA from MCF10A parental cells or from MCF10A parental transfected with siCTRL, si_i3S, si_long or si_i3S and si_long Nature Communications | (2025) 16:205 10 Article https://doi.org/10.1038/s41467024-556473 Fig."
+6 | The short isoform of NHSL3 regulates migration persistence of single cells through its interaction with 143-3θ.
+A Prediction of direct partners of NHSL3 i3S using an AlphaFold2based pipeline that decomposes tested proteins into evolutionary conserved domains.
+Partners bound to the unique Cterminal domain of i3S are shown.
+YWHAQ encoding 143-3θ displays the highest conﬁdence score.
+Grey connections indicate proteinprotein interaction reported in Biogrid.
+B 293 T cells are transiently cotransfected with plasmids expressing GFPtagged NHSL3 i3S and PCtagged 143-3 family proteins.
+Lysates and GFP immunoprecipitates are analysed by Western blots.
+C AlphaFold2generated model of the interaction between NHSL3 i3S and 143-3θ.
+i3S residues that are critical for the interaction are displayed in full.
+D 293 T cells are transiently cotransfected with plasmids expressing the PCtagged 143-3θ and the GFPtagged i3S containing the indicated mutations.
+Lysates and GFP immunoprecipitates are analysed by Western blots.
+E Lysates from NHSL3 KO and NHSL3 KO stably expressing GFP or GFPtagged NHSL3 i3S or the R135D derivative thereof are subjected to GFP immunoprecipitation and analysed by Western blots.
+F Migration persistence extracted from single cell trajectories of the same cell lines.
+"Tracking 6.5 h, n = 60 cells."
+"G Parental MCF10A, NHSL3 KO and KO cells stably expressing i3S or the R135D derivative are transfected with control or 143-3θ targeting siRNAs."
+Migration persistence is extracted from single cell trajectories and lysates from siRNAtransfected cells are analysed by Western blots.
+"Tracking 6.5 h, n = 60 cells."
+Data are shown as mean ± SEM.
+Statistical signiﬁcance is calculated with custommade R programmes for single cell migration and pvalues are indicated.
+Three biological repeats of each experiment gave similar results.
+Source data are provided as a Source Data ﬁle. Was extracted by NucleoSpin RNA Plus Kit (MachereyNagel).
+"To generate cDNA, 1.2 μg of total RNA and SuperScript III ﬁrst strand synthesis for RTPCR kit (Invitrogen) was used."
+PCR was carried out using iTaq Universal SYBR Green Supermix (BioRad) on a CFX96 (BioRad).
+"The thermal cycling programme for template denaturation, primer annealing and primer extension was 95 °C for 10 sec, 60 °C for 30 sec for 35 cycles."
+"To calculate the ratio of each splice isoform i1, i2, i3S, i3L of NHSL3 we used the following formula: 2−ΔCt, where ΔCt = (Ct particular isoform mRNA − Ct total NHSL3 mRNA in the same sample)46."
+Nucleotide sequences of the primers used are provided in Supplementary Data 4.
+"Knockdown, knockout and knockin MCF10A and hTERTHME1 knockdown cells were obtained by transfecting 10 or 20 nM siRNAs with Lipofectamine RNAiMAX (Invitrogen)."
+"siRNAs were Dharmacon ONTARGET SMART Pools (L010728-020005 for KIAA1522/NHSL3, L032698-000010 for NHSL1, L012329- 000005 for YWHAQ/143-3θ) or Dharmacon ONTARGET single siRNAs (J010640-050002 and J010640-080002 for NCKAP1)."
+Knockdown of speciﬁc NHSL3 isoforms was obtained by transfecting 10 nM of the following siRNAs (Sigma) with Lipofectamine RNAiMAX (Invitrogen): siCTRL: 5’-AAUUCUCCGAACGUGUCACGUUU3’; si_long: 5’-GGAGUGUGUCCCUGCGUAAdTdT3’ for long isoforms of NHSL3; si_i3S: 5’-CAGCGCAAAGACUCACAGAAAdTdT3’ for NHSL3 i3S. Cells were analysed after 3 days.
+MCF10A NHSL3 knockout cell lines were generated with CRISPR/ Cas9 system.
+"The following gRNAs were used: NHSL3 5’- CAGUCAGACCACAUCCUACG-3’, nontargeting 5’- AAAUGUGAGAUCAGAGUAAU-3’."
+Cells were transfected with the gRNA:tracrRNA duplex and puriﬁed Cas9 protein using Lipofectamine CRISPRMAX™ (all reagents from ThermoFischer Scientiﬁc).
+"After 2 days, cells were diluted at 0.8 cells/well in 96well plates."
+Single clones were expanded and analysed by Western blot.
+The alleles of KO clones were characterised by sequencing.
+MCF10A NHSL3 knockin cell lines were generated with CRISPR/ Cas9 system.
+"The following gRNA that targets genomic DNA, in exon 7, at the level of the stop codon of NHSL3 was used: NHSL3 Cterminus 5’- CUGACCACCAGGCACCUCAC3’."
+Corresponding oligonucleotides were annealed and cloned in the BsaI restriction site of pRG2(-GG) plasmid.
+The donor plasmid was constructed as follows.
+The NHSL3 homology arm left (HL) and homology arm right (HR) ﬂanking Cas9targeted site were synthesised by Integrated DNA Technologies.
+The GFPFlag was ampliﬁed from the custommade plasmid MXS GFP using primers containing the Flag sequence.
+The T2APuro was ampliﬁed from the custommade plasmid MXS Puro using primers containing the T2A sequence.
+"The donor cassette was constructed by assembling HL, GFPFlag, T2APuro, and HR by MXS chaining47."
+MCF10A cells were transfected with the hSpCas9 CMV noSelectionMarker bGHpA and gRNA containing pRG2(-GG) plasmids together with the NHSL3 HL- GFPFlag-T2APuro-HR donor plasmid described above.
+Transfection was performed by electroporation at 240 V and 950 µF using ECM 630 system (BTX).
+Cells were selected with 0.5 µg/mL of puromycin (InvivoGen).
+"Single clones were picked with cloning rings, expanded and analysed by Western blot and Sanger sequencing."
+Immunoﬂuorescence Cells were seeded on glass coverslips coated with 20 µg/mL bovine ﬁbronectin (Sigma) for 1 h at 37 °C.
+"Cells were ﬁxed in 3.2% PFA on PBS, permeabilised with 0.5 % Triton X100, blocked in 2% BSA and incubated with antibodies (15 µg/mL for the primary, 5 µg/mL for the secondary) or 1:3000 diluted SiRactin (Tebubio)."
+Nuclei were counterstained with DAPI (Live Technologies).
+"Images were acquired by Axio Observer microscope (Zeiss) or when indicated, on the SP8STWS confocal microscope equipped with a HC PL APO 63x/1.40 oil immersion objective, a white light laser, HyD and PMT detectors."
+Image analysis was performed with ImageJ FIJI software.
+"To compare ﬂuorescence intensity in different conditions in an experiment, images were acquired with the same exposure time and microscope settings."
+"Immunoprecipitation and tandem afﬁnity puriﬁcation MCF10A cells stably expressing NHSL3 GFPFlag KI or FlagGFP NHSL3 isoforms were lysed with XBNP40 buffer (50 mM HEPES, 50 mM KCl, 1% NP40, 10 mM EDTA, pH 7.7) supplemented with protease inhibitors at 4 °C for 30 min."
+"The lysates were clariﬁed by centrifugation at 13,000 rpm for 15 min. For TAP, clariﬁed cell extracts were incubated with FLAGM2 beads (Sigma) at 4 °C for 4 h. FLAGM2 beads were washed with XBNP40 buffer and eluted with 0.5 mg/ml FLAG peptide (Sigma) in XB (50 mM HEPES, 50 mM KCl, 10 mM EDTA, pH 7.7) overnight at 4 °C."
+FLAG eluates were collected and incubated with GFPtrap beads (Chromotek) at 4 °C for 1 h.
+The GFPtrap beads were washed with XBNP40 buffer.
+"20% of the beads were subjected to SDS–PAGE for silver staining (SilverQuest Silver Staining Kit, Thermo Fisher Scientific) and 80% of the beads were analysed by mass spectrometry."
+For GFP immunoprecipitation clariﬁed cell extracts were incubated with GFPtrap beads (Chromotek) at 4 °C for 1 h.
+The GFPtrap beads were washed with XBNP40 buffer.
+Beads were subjected to SDS–PAGE for Western blot.
+"Mass spectrometry The resins containing the immunoprecipitated samples were loaded onto a 10 kDa cutoff centrifugal ﬁlters (Microcon, MilliporeMerck) and washed with 500 μL of buffer (50 mM, pH 8.0, AMBIC)."
+Disulphide reduction was performed by adding to the centrifugal ﬁlters 200 μL of a solution containing 10 mM dithiothreitol in AMBIC for 2 h at 37 °C.
+Thiol alkylation was performed by adding to the previous samples 20 μL of a solution containing 500 mM iodoacetamide in AMBIC for 30 minutes at room temperature.
+Reagents were removed by ﬁltration and sample washed three times with 500 μL of AMBIC.
+Proteins were digested with 0.5 μg of trypsin/LysC (Promega) in 100 μL of AMBIC Nature Communications | (2025) 16:205 11 Article https://doi.org/10.1038/s41467024-556473 Fig.
+7 | The short isoform of NHSL3 recruits 143-3θ to lamellipodia.
+hTERTHME1 cells are transfected with siRNAs targeting all NHSL3 forms (a) or speciﬁcally long and short isoforms (b).
+"Cells are subjected to immunoﬂuorescence with DAPI, phalloidin and antibodies recognising 143-3θ or cortactin."
+"Enrichment of 143-3θ and cortactin at the lamellipodial edge is measured and plotted as the fold increase compared with signal intensity of a similar region of interest beneath the plasma membrane, mean ± SEM."
+Scale bars: 10 µm. n = 57 cells for (a) and n = 60 cells for (b).
+Statistical signiﬁcance is calculated with twosided MannWhitney test (a) or KruskalWallis test (b) and pvalues are indicated.
+Three biological repeats of both experiments gave similar results.
+Source data are provided as a Source Data ﬁle.
+Nature Communications | (2025) 16:205 12 Article https://doi.org/10.1038/s41467024-556473 Fig.
+8 | Model.
+NHSL3 regulates single and collective cell migration through two distinct mechanisms.
+The long isoform i2 regulates speed of follower cells in collective migration by recruiting a pool of MENA/VASP proteins to cellcell contacts in migrating monolayers.
+The short isoform i3S regulates migration persistence of single cells by recruiting 143-3θ to the lamellipodium.
+Overnight at 37 °C.
+The resulting peptide mixture was ﬁltered and acidiﬁed with triﬂuoro acetic acid at a ﬁnal concentration of 0.1%.
+Technical triplicates were systematically analysed.
+"For each fraction, 6 μL of sample was concentrated on a C18 cartridge (Dionex Acclaim PepMap100, 5 μm, 300 μm i.d."
+"X 5 mm) and eluted on a capillary reversephase column (nanoEaze M/Z Peptide CSH C18, 1.8 μm, 75 μm i.d."
+"X 25 cm) at 220 nL/min, with a gradient of 2% to 38% of buffer B in 60 min (buffer A: 0.1% aq."
+Formic Acid/Acetonitrile 98:2 (v/v); buffer B: 0.1% aq.
+"Formic Acid/Acetonitrile 10:90 (v/ v)), coupled with a quadrupoleOrbitrap mass spectrometer (Q Exactive HF, ThermoFisher Scientiﬁc) using a Top 20 datadependent acquisition MS experiment: 1 survey MS scan (4002,000 m/z; resolution 70,000) followed by 20 MS/MS scans on the 20 most intense precursors (dynamic exclusion of 30 s, resolution 17,500)."
+"Protein identiﬁcation was performed with MaxQuant search engine v.1.5.3.30 against the human SwissProt database (updated in 05/2022), with the following parameters: methionine oxidation, asparagine/glutamine deamidation as variable modiﬁcations, cysteine carbamidomethylation as ﬁxed modiﬁcation, ﬁrst search error tolerance 20 ppm, main error tolerance 6 ppm, MS/MS error tolerance 20 ppm, FDR 1%."
+Quantiﬁcation was performed in labelfree LFQ normalisation mode48 using at least 2 razor or unique peptide per protein.
+Quantities were estimated using LFQ intensities.
+"Proteins detected in at least 2 of 3 replicates, and not detected in any of the control samples, were considered speciﬁc NHSL3 partners."
+Structural modelling The structural modelling of protein complexes was performed using AlphaFold234 with a fragmentation strategy that increases the sensitivity of detection27.
+"Sequences of NHSL3 i2, i3S, ABI1, IRSp53, MENA, VASP and of the proteins detected as partners of i3S using proteomics were retrieved from the UniProt database and were submitted to three iterations of MMseqs249 against the uniref30_2202 database."
+"The resulting multiple alignments of orthologs were ﬁltered using hhﬁlter50 using the following parameters (‘id’=100, ‘qid’=25, ‘cov’=50) and the taxonomy assigned to every sequence, keeping only one sequence per Nature Communications | (2025) 16:205 13 Article https://doi.org/10.1038/s41467024-556473 species."
+"Fulllength sequences in alignments were then retrieved, and these sequences were realigned using MAFFT51 with the default FFTNS-2 protocol."
+"The NHSL3 i2 isoform was fragmented into 15 overlapping fragments, each approximately 100 amino acids long which were predicted against the different domains detected in the four partners ABI1, IRSp53, MENA, and VASP (Supplementary Data 3)."
+"NHSL3 i3S was fragmented into four domains (1–41, 32–95, 86–-115 and 106–142) used as baits and predicted against 42 prey partners either fragmented into domains or considered as fulllength proteins (Supplementary Data 3)."
+"To build the socalled mixed coalignments, sequences in the alignment of individual partners were paired according to their assigned species and left unpaired in case no common species were found52."
+The concatenated multiple sequence alignments of tested partners were used as input of 1 run of the AlphaFold2 algorithm with 3 recycles each and 5 generated models34 using ColabFold v1.5.252 with the Multimer v2.3 model parameters35 on NVidia A100 GPUs.
+"Four scores, the pLDDT, the pTMscore, the ipTMscore and the model conﬁdence score (weighted combination of pTM and ipTM scores with a 20:80 ratio), were provided by AlphaFold2 to rate the quality of models."
+The solutions obtained with NHSL3 i2 fragments were initially ranked using the average ipTM score calculated over the ﬁve models generated by AlphaFold2.
+The scores obtained for all the generated models are reported Supplementary Data 3.
+"After identifying fragments containing the most probable binding site, ﬁnal models were generated using AlphaFold2 (5–25 models), restricting the delimitations to the regions in contact and selecting the model with the highest conﬁdence score for minimisation for release in the ModelArchive database."
+"Migration and videomicroscopy All cell migration assays were performed in µSlide eightwell dishes (#80826, Ibidi)."
+"For single cell migration assays, cells were seeded on dishes coated with 20 μg/ml Fibronectin (Sigma)."
+"For wound healing experiments, 80,000 cells were plated on dishes coated with 20 μg/ml"
+"Fibronectin within inserts (#80209, Ibidi) one day before the experiment."
+Inserts were removed before acquisitions.
+"After seeding cells for 24 h, videomicroscopy was performed on an inverted Axio Observer microscope (Zeiss) equipped with a Pecon Zeiss incubator XL multi S1 RED LS (Heating Unit XL S, Temperature module, CO2 module, Heating Insert PS and CO2 cover), a deﬁnite focus module and a Hamamatsu camera C10600 OrcaR2."
+Images were acquired every 10 min for 24 h with a ×10 objective.
+Individual cells were tracked using ImageJ software with the Manual Tracking plugin.
+DiPer software was used to analyse the single cell migration parameters53.
+"To derive heat maps of speed and order parameter in wound healing, ﬁelds focused on only one edge of the wound were acquired, and average leadingedge positions perpendicular to the axis of the wound gave leading edge progression."
+The ﬁeld of displacement vectors was obtained with the PIVlab software package54 for Matlab (MathWorks).
+"The window size was set to 32 pixels, i.e. 23.75 µm with a 0.75 overlap between windows."
+A time sliding window averaging ﬁelds over 4 frames (40 minutes) was used.
+Spurious vectors were ﬁltered out on amplitude and were replaced by interpolated velocity from neighbouring vectors.
+The local order parameter was calculated using a previously published code55.
+"Statistical analysis For statistical analysis, GraphPad Prism and Microsoft Excel were used."
+The Shapiro–Wilk normality test was performed.
+Twotailed unpaired ttest was used for parametric data and Mann–Whitney test was used for nonparametric data.
+ANOVA followed by post hoc Tukey’s multiple comparison test was used for parametric data and Kruskal–Wallis test followed by post hoc Dunn’s multiple comparison test was used for nonparametric data.
+Þ*e(cid:2)t
+Migration persistence for individual cells is evaluated based on the exponential decay and plateau ﬁt according to equation ðy
+"= 1 (cid:2) b a + bÞ, where y is the migration persistence, b is plateaued value, t is the time interval and an is the decay constant."
+"Then the related statistical analysis was conducted through custommade R programmes, as previously described41."
+No statistical method was used to predetermine sample size.
+No data were excluded from the analyses.
+The experiments were not randomised.
+The Investigators were not blinded to allocation during experiments and outcome assessment.
+Reporting summary Further information on research design is available in the Nature Portfolio Reporting Summary linked to this article.
+Data availability Raw ﬁles of the LCMSMS analyses and database searches have been deposited in PRIDE with the accession number PXD053609.
+"Structural models can be accessed on modelarchive.org: NHSL3_i3S14-33θ [https://www.modelarchive.org/doi/10.5452/mapptik], NHSL3_i2Abi1_site1"
+"[https://www.modelarchive.org/doi/10.5452/mapzi05], NHSL3_i2Abi1_site2 [https://www.modelarchive.org/doi/10.5452/mae0o0t], NHSL3_i2IRSp53"
+"[https://www.modelarchive.org/doi/10. 5452/ma3kkf3], NHSL3_i2MENA"
+"[https://www.modelarchive.org/doi/ 10.5452/madfoes], and NHSL3_i2VASP"
+[https://www.modelarchive. Org/doi/10.5452/maxrf33].
+Source data are provided with this paper.

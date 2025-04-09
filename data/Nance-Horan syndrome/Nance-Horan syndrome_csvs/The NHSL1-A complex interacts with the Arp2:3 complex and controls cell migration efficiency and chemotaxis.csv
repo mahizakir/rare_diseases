@@ -1,0 +1,852 @@
+"bioRxiv preprint doi: https://doi.org/10.1101/2025.03.13.643034 this version posted March 13, 2025.  "
+"The copyright holder for this preprint (which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity."
+It is made available under a CCBY-NCND 4.0 International license The NHSL1A complex interacts with the Arp2/3 complex and controls cell migration efficiency and chemotaxis.  
+"Shamsinar Jalal1,4, Tommy Pallett1,5, Shengyuan Wu1, Sreeja B. Asokan2,3, James E. Bear2,3, and Matthias Krause1,* 1 King’s College London, Krause group, Randall Centre for Cell and Molecular Biophysics, New Hunt’s House, Guy’s Campus, London, SE1 1UL, UK.  2 University of North Carolina at Chapel Hill School of Medicine, UNC Lineberger Comprehensive Cancer Center, Chapel Hill, NC, USA.  "
+"3 University of North Carolina at Chapel Hill School of Medicine, Department of Cell Biology and Physiology, Chapel Hill, NC, USA.  4 Present address: Queen Mary University of London, William Harvey Research Institute, Experimental Medicine and Rheumatology, London, UK 5 Present address: King’s College London, AmeerBeg group, Richard Dimbleby Cancer Research Laboratories, Comprehensive Cancer Centre, School of Cancer and Pharmaceutical Sciences, New Hunt’s House, Guy’s Campus, London, SE1 1UL, UK * Correspondence should be addressed to M.K. Matthias.Krause@kcl.ac.uk Phone: +4420-78486959 "
+Abstract Cell migration is crucial for development and deregulation causes diseases.
+The Scar/WAVE complex promotes mesenchymal cell migration through Arp2/3 mediated lamellipodia protrusion.  
+We previously discovered that all isoforms of NanceHoran Syndromelike 1 (NHSL1) protein interact directly with the Scar/WAVE complex and the NHSL1F1 isoform negatively regulates Scar/WAVEArp2/3 activity thereby inhibiting 2D random cell migration.  
+"Here, we investigate the NHSL1A1 isoform, which contains a Scar homology domain (SHD).  "
+The SHD in Scar/WAVE mediates the formation of the Scar/WAVE complex.  
+"We found that the SHD of NHLS1A is sufficient for the formation of an NHSL1A complex composed of the same proteins as the Scar/WAVE complex, but NHSL1A replaces Scar/WAVE."
+"NHSL1A SHD recruits the NHSL1A complex to lamellipodia, where also the Scar/WAVE complex resides."
+"Scar/WAVE contains a WCA domain, which is phosphorylated by CK2 and recruits and activates the Arp2/3 complex to nucleate branched actin networks supporting lamellipodial protrusion."
+We identified a WCA domain in NHSL1 which interacts with the Arp2/3 complex.  
+"The NHSL1 WCA domain is phosphorylated by GSK3, and this increases the interaction with the Arp2/3 complex.  "
+"In contrast to NHSL1F1, the NHSL1A bioRxiv preprint doi: https://doi.org/10.1101/2025.03.13.643034 this version posted March 13, 2025.  "
+"The copyright holder for this preprint (which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity."
+It is made available under a CCBY-NCND 4.0 International license complex promotes cell migration speed but not cell persistence via the Scar/WAVE complex and potentially via its WCA domain.  
+"In addition, the NHSL1A complex is required for chemotaxis.  "
+"Mechanistically, the NHSL1A complex may increase lamellipodial Arp2/3 activity and lamellipodial speed while reducing lamellipodial persistence."
+Our findings reveal an additional layer of Arp2/3 complex control essential for mesenchymal cell migration highly relevant for development and disease.  
+"Introduction Mesenchymal cell migration is driven by the polymerisation of dense, highly branched actin networks that form membrane protrusions, known as lamellipodia, at the leading edge of cells."
+"The Arp2/3 complex, a branched actin nucleator required for formation of these networks, is activated by the Cterminal WH2Central-Acid (WCA) domain (also known as the VCA domain) of nucleation promoting factors which include NWASP, WASP, and Scar/WAVE131–7.  "
+"The WH2 domain mediates Gactin recruitment, whilst the central and acidic regions bind to the Arp2/3 complex; the central region forms an amphipathic helix which is required for Arp2/3 complex activation8,9.  "
+Activation is regulated by serine phosphorylation.  
+"For instance, CK2mediated phosphorylation of S483/484 in the WCA domain of haematopoieticspecific WASP increases its affinity for the Arp2/3 complex sevenfold10.  "
+"These residues are conserved in NWASP, and five similarly positioned and CK2phosphorylated serine residues are found in Scar/WAVE13."
+"This regulation, however, is complicated by the fact that phosphorylation of just the first two of these residues (S482/484) conversely inhibits the Arp2/3 complex11.  "
+"In agreement, serine residues in the acidic region of the WCA of Dictyostelium Scar are basally phosphorylated and nonphosphorylatable Scar mutants caused lamellipodia and persistent cell migration12.  "
+"Large, persistent Scar/WAVE13 form a heteropentameric Scar/WAVE complex (also known as the WAVE regulatory complex, or WRC) along with CYFIP1/2, Nap1, Abi13, and HSPC300.  "
+"The WCA domain is not accessible in the autoinhibited conformation of the Scar/WAVE complex, but this inhibition is relieved by activeRac binding to CYFIP1/2, tyrosine phosphorylation, and PIP3 binding to Scar/WAVE1313–16.  "
+"Once activated, the Scar/WAVE complex drives the complete activation of the Arp2/3 complex and thereby promotes mesenchymal cell migration1–5,17.  "
+"Cell migration is essential for embryonic development, and hence its dysregulation to developmental defects.  "
+NanceHoran Syndrome contributes is a rare Xlinked developmental disorder18 caused by mutations in the NHS gene.
+"Affected individuals display facial and dental abnormalities, cataracts, and cognitive impairment19,20.  "
+"NanceHoran bioRxiv preprint doi: https://doi.org/10.1101/2025.03.13.643034 this version posted March 13, 2025.  "
+"The copyright holder for this preprint (which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity."
+"It is made available under a CCBY-NCND 4.0 International license Syndromelike 1 (NHSL1) protein belongs to the poorly characterised NanceHoran syndrome protein family together with the NanceHoran Syndrome (NHS), NHSL221, and NHSL3 (HGNC ID:29301)22 proteins.  "
+"NHSL1 has 25 predicted isoforms in GenBank (GeneID: 57224): the result of the alternative splicing of exons 1 and the skipping of exons 3 and/or 621,23.  "
+"We propose a systematic nomenclature for NHSL1 isoforms: a letter AH specifying the eight alternatively spliced exon 1 (exon1aexon1h) and a number, 14, indicating (1) the skipping of exons 3 and 6, (2) the skipping of exon 6 only, (3) the skipping of exon 3 only, and (4) the inclusion of both exons 3 and 6 respectively.  "
+"For example, NHSL1A1 includes exon 1a, and omits both exon 3 and exon 6 (Fig. S1A).  "
+"Exon 1a harbours a Scar Homology domain (SHD), also found in Scar/WAVE proteins (Fig. "
+"1A, S1B,C).  "
+In Scar/WAVE proteins the SHD facilitates the formation of a heterotrimer with Abi and HSPC300 which interacts with the CYFIPNap1 dimer to form the full Scar/WAVE complex14.
+"Consequently, it may be possible for NHSL1 isoforms containing this exon (NHSL1A isoforms) to also form a trimeric subcomplex with Abi and HSPC300 and thereby form an analogous complex to the Scar/WAVE complex, in which the Scar/WAVE protein is substituted for NHSL1A.  "
+"During our investigation another group reported the existence of an NHSL1A complex, which they termed the ‘WAVEshell complex’24.  "
+Given that this complex does not contain WAVE (Scar/WAVE)
+We considered this to be misleading and therefore propose the name ‘NHSL1A complex’.  
+The study by Wang et al.  Explored the function the PPP2R1A scaffolding unit of the PP2 phosphatase complex and showed that it interacts with the NHSL1A complex24.  
+The authors confirmed our previous finding that knockdown or knockout of all NHSL1 isoforms increased cell migration efficiency25 but did not explore the function of the NHSL1A complex in cell migration – this is the focus of our present study.  
+We previously showed that all NHSL1 isoforms interact with the Scar/WAVE complex via two Abi SH3 domain binding sites located in exon 625.
+"In our previous study we focussed on the NHSL1F1 isoform and found that it negatively regulates cell migration via the Scar/WAVE complex, with which it colocalises at the very edge of protruding lamellipodia25.  "
+"Mechanistically, NHSL1F1 reduced cell migration efficiency by impeding Arp2/3 activity thereby impairing the stability of lamellipodial protrusions25.  "
+"Here we independently identify the NHSL1A complex, and show that in contrast to NHSL1F1, the NHSL1A complex promotes cell migration speed via the Scar/WAVE complex and is required for chemotaxis.  "
+"The NHSL1A complex localises to the edge of lamellipodia, as well as to vesicles, and its recruitment to lamellipodia depends on its SHD but not on the interaction with the Scar/WAVE complex via Abi."
+This suggests that both the Scar/WAVE complex and the NHSL1A complex are independently recruited to lamellipodia.  
+"Despite this, we surprisingly observe that interfering with the Scar/WAVE complex bioRxiv preprint doi: https://doi.org/10.1101/2025.03.13.643034 this version posted March 13, 2025.  "
+"The copyright holder for this preprint (which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity."
+It is made available under a CCBY-NCND 4.0 International license interaction did result in a shift in NHSL1A localisation to tips of microspikes and filopodia.  
+We also uncover that all NHSL1 isoforms harbour a WCA domain in a central region of the protein encoded by exon 6.
+"We show that this domain interacts with the Arp2/3 complex, and that this interaction is upregulated via its phosphorylation by the serine/threonine kinase GSK3."
+This evidence suggests that the NHSL1A complex may be functionally equivalent to the Scar/WAVE complex.  
+Reexpression of NHSL1A1 in panisoform NHSL1 CRISPR knockout cells induced dynamically protruding and retracting lamellipodia and “asterlike” Factin-rich vesicles close to the leading edge.
+This suggests that the NHSL1A complex reorganises lamellipodial actin and thereby increases lamellipodial speed while reducing lamellipodial stability.  
+Results NHSL1A harbours a Scar homology domain allowing it to form the NHSL1A complex 
+"To explore the expression of NHSL1A in cell lines, we generated an antibody against the SHD which is specific to the NHSL1A isoform."
+Western blot analysis of B16F1 melanoma cell lysates revealed that this NHSL1 isoform is highly expressed in this cell line and at lower levels also in other cell lines (Fig. 
+"1A,B).  "
+"B16F1 cells are widely used for studying lamellipodia and mesenchymal cell migration15,26–28 and are thus used throughout this study.  "
+"To investigate the function of the NHSL1A complex, we created several mutated NHSL1A1 cDNAs."
+We mutated the two known Abi SH3 domain binding sites25 in full length NHSL1A1 which prevents interaction with the entire Scar/WAVE complex (NHSL1A1-SW- Mut).
+"We created another construct in which we deleted the SHD domain and mutated the two Abi SH3 domain binding sites (NHSL1A1-DSHDSW-Mut), which prevents the formation of the NHSL1A complex, and which does not allow interaction with the Scar/WAVE complex.  "
+We also created a construct just with the SHD domain of NHSL1 (NHSL1A-SHD).  
+"To explore whether a complex harbouring NHSL1A can form, containing all components of the Scar/WAVE complex except Scar/WAVE itself, we expressed N- terminally EGFPtagged NHSL1A1 wildtype (EGFPNHSL1-A1WT), the abovementioned mutant constructs, or EGFP only as negative control together with Myctagged Scar/WAVE complex components Nap1, CYFIP1, Abi1, and HSPC300 in HEK cells.  "
+EGFPtagged NHSL1A1 proteins were pulled down from lysates using EGFPtrap beads and interaction with Myctagged Scar/WAVE complex components was evaluated by western blot with an antiMyc antibody.
+"This analysis revealed that full length NHSL1A1 and NHSL1A1-SWMut interact with components of the Scar/WAVE complex in the absence of Scar/WAVE (Fig. 1C- bioRxiv preprint doi: https://doi.org/10.1101/2025.03.13.643034 this version posted March 13, 2025.  "
+"The copyright holder for this preprint (which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity."
+It is made available under a CCBY-NCND 4.0 International license F).  
+"This was no longer the case when the SHD was deleted, and the SW binding site mutated (Fig. 1CF)."
+"This suggests that NHSL1A1 can form a complex with Nap1, CYFIP1, Abi1, and most likely HSPC300."
+"The SHD of NHSL1A is sufficient for the formation of the NHSL1A complex as it also coprecipitates Nap1, CYFIP1, and Abi1 (Fig. 1CF)."
+Our results are consistent with a recent report also documenting the existence of the NHSL1A complex24.  
+"bioRxiv preprint doi: https://doi.org/10.1101/2025.03.13.643034 this version posted March 13, 2025.  "
+"The copyright holder for this preprint (which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity."
+"It is made available under a CCBY-NCND 4.0 International license bioRxiv preprint doi: https://doi.org/10.1101/2025.03.13.643034 this version posted March 13, 2025.  "
+"The copyright holder for this preprint (which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity."
+It is made available under a CCBY-NCND 4.0 International license Figure 1: NHSL1A harbours a Scar homology domain allowing it to form the NHSL1A complex (A) Domain organisation of the NHSL1A1 protein isoform.  
+"The Scar Homology Domain (SHD), two Scar/WAVE complex (Abi SH3) binding sites and the WH2central-acidic (WCA) domain are shown."
+"Numbers above the domains indicate the amino acid sequence start and end positions in NHSL1A1.  (B) Western blot showing the expression of NHSL1A, probed with polyclonal NHSL1 SHD specific antibody."
+Representative blots from three independent biological experiments.
+"(C) HEK293 cells were transfected with EGFPtagged NHSL1A1, or NHSL1A1-SWMut, or NHSL1A1 SHDSW-Mut, or the NHSL1A-SHD (Scar Homology Domain), or EGFP only as negative control and Myctagged Scar/WAVE complex components including CYFIP1, Nap1, and Abi1."
+EGFPtrap pulldown was done to measure the extent of interaction between the different NHSL1A constructs and the Scar/WAVE complex components.  
+Coprecipitation was detected via a Western blot with Myc antibody.  
+Representative blots from four independent biological experiments.
+(D – F) Quantification of band intensity from chemiluminescence imaging shown in (C) normalised to the EGFP negative control.
+"The values are then normalised to NHSL1A-WT construct, which is set at 1.0.  "
+Results are mean values ± SEM (error bars); KruskalWallis test: (D) 
+For Myctagged SHDSW-Mut: **P = 0.0017; (E) 
+"For Myctagged CYFIP1, NHSL1A1-WT vs NHSL1A1- Nap1, NHSL1A1-WT vs NHSL1A1-SWMut: *P = 0.0322; NHSL1A1-WT vs NHSL1A1- SHDSW-Mut: **P = 0.0038; (F) "
+"For Myctagged Abi1, NHSL1A1-WT vs NHSL1A1-SWSHD-SWMut: **P = 0.0031; ns = no Mut: "
+*P = 0.0089; NHSL1A1-WT vs NHSL1A1- significant difference.  
+"bioRxiv preprint doi: https://doi.org/10.1101/2025.03.13.643034 this version posted March 13, 2025.  "
+"The copyright holder for this preprint (which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity."
+"It is made available under a CCBY-NCND 4.0 International license bioRxiv preprint doi: https://doi.org/10.1101/2025.03.13.643034 this version posted March 13, 2025.  "
+"The copyright holder for this preprint (which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity."
+"It is made available under a CCBY-NCND 4.0 International license Figure S1: NHSL1 isoform nomenclature, NHSL1A Scar homology domain alignments, and quantification of NHSL1A complex interactions (A) Genomic structure of the NHSL1 gene and nomenclature of its isoforms.  "
+"NHSL1A1 includes exon 1a, which encodes for most of the SHD."
+"The NHSL1F1, -F2 and -F4 isoforms all contain exon 1f.  "
+The (*) sign indicates the isoforms of NHSL1 being studied in this and our previous study25.
+"(B) Clustal V sequence alignment of amino acid residues in the SHD of NHSA, NHSL1A, and Scar/WAVE1–3 .  "
+"Red indicates conservation between groups of strongly similar properties with Gonnet PAM 250matrix scoring more than 0.5, while blue and green represent conservation between groups of weakly similar properties with Gonnet PAM 250 scoring less than or equal to 0.5."
+(C) Deep MSA conservation of amino acid residues of SHD of NHSL1A (NCBI reference sequence: XP047275069.1).  
+The SHD of NHSL1A is from amino acid 28 to amino acid 127.  
+The MSA alignment was done on the Deep MSA platform built by the Zhang lab55.  
+Deep MSA is a sensitive multiple sequence alignment opensource program that ’digs deep’ into the alignments by merging sequences from three wholegenome and meta genome databases through a hybrid homologydetection algorithm.  
+(D–F) Quantification of band intensity from chemiluminescence imaging shown in Figure 1(C) normalised to the EGFP negative control.
+"These represent the same data as in Figure 1 (DF) but with the values normalised to the NHSL1A1-SHD construct, which is set at 1.0.  "
+Results are mean values ± SEM (error bars); KruskalWallis test for all three analyses against NHSL1A1-SHD.
+"(G) Table showing stoichiometry ratio between CYFIP1, Nap1, and Abi1 of each NHSL1A1 construct from Figure 1(C) and quantified from Figure 1(D – F).  "
+Results are from four independent biological repeats.  
+"All NHSL1 isoforms contain a WCA domain which mediates interaction with the Arp2/3 complex In the Scar/WAVE complex, the Scar/WAVE protein mediates the function of the complex: its WCA domain recruits the Arp2/3 complex to the leading edge of cells and activates it thereby inducing branched actin nucleation and subsequent lamellipodial protrusion1."
+This raises the question of what mediates the function of the NHSL1A complex and the intriguing possibility that NHSL1 harbours a WCA domain as well.
+"In all eukaryotic nucleation promoting factors the WCA domain is found at the Cterminal end of the proteins1,3,7,29, but this is not the case for NHS family proteins.  "
+"However, the first identified activator of the Arp2/3 complex, the bacterial protein ActA, harbours a WCA in the Nterminus of the protein30–33.  "
+"Careful analysis of the NHSL1 sequence revealed a putative bioRxiv preprint doi: https://doi.org/10.1101/2025.03.13.643034 this version posted March 13, 2025.  "
+"The copyright holder for this preprint (which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity."
+It is made available under a CCBY-NCND 4.0 International license central WCA (aa690765).  
+"The NHSL1 WCA contains sequence homology to Scar/WAVE, WASP families, and ActA in their respective WH2, central and acidic regions (Fig."
+"2A, S2A).  "
+"The acidic region of NHSL1 WCA harbours a tryptophane, several acidic amino acids, and serine residues in a similar arrangement as in well characterised WCA domains (Fig. "
+"2A, S2A).  "
+"The latter ones are known to be phosphorylated by the Serine/Threonine kinase CK2 in WASP, Scar/WAVE2, and ActA and this increases the affinity of the WCA for the Arp2/3 complex10,11,34–36.  "
+"Bioinformatics analysis (Scansite, NetPhorest; PhosphositePlus; Kinase library) predicted that CK2 and another Serine/Threonine kinase, GSK3, may phosphorylate the WCA of NHSL1.  "
+Mass spectrometry screens revealed that several of the Serine residues in the WCA of NHSL1 are indeed phosphorylated in cells (PhosphositePlus; 37) (Fig. S2A).  
+"Thus, we postulated that the WCA of NHSL1 may be regulated by Serine/Threonine phosphorylation to control interaction with the Arp2/3 complex.  "
+"To test this, we purified the GSTtagged WCA domain of NHSL1, the WCA domain of Scar/WAVE2 as positive control, and GST only as negative control from E. coli.  "
+"These sepharose bead immobilised GST fusion proteins were dephoshophorylated using Calf Intestinal Phosphatase and then in vitro phosphorylated with purified CK2, GSK3 or both kinases together.  "
+The beads were incubated with B16F1 cell lysates and bound endogenous Arp2/3 complex detected in a western blot with an Arp3 antibody.  
+This analysis revealed that both the NHSL1 WCA domain (Fig.
+"2B,C) and the Scar/WAVE2 WCA domain (Fig."
+"2B,D) weakly interact with the Arp2/3 complex without phosphorylation.  "
+"However, GSK3 phosphorylation resulted in an increased affinity of the NHSL1 WCA domain for the Arp2/3 complex (Fig. "
+"2B,C).  "
+"Taken together, this suggest that all isoforms of NHSL1 harbour a WCA domain which mediates the interaction with the Arp2/3 complex, and that this interaction is promoted by GSK3 phosphorylation.  "
+"To mimic the serine phosphorylation in the NHSL1 WCA, we mutated the serine residues S752E, S756E, and S759E to glutamic acid to create a dominant active NHSL1 WCA (GSTNHSL1-WCADA) which may constitutively interact with the Arp2/3 complex."
+We purified this GSTNHSL1-WCADA protein from E. coli and tested for interaction with the endogenous Arp2/3 complex from B16F1 cell lysates.
+The western blots revealed that GST- NHSL1WCA-DA was able to strongly interact with the Arp2/3 complex (Fig. 
+"S2B,C).  "
+"This provides evidence that the phosphorylation of serine residues in position S752, S756, and S759 promote interaction with the Arp2/3 complex.  "
+"10 bioRxiv preprint doi: https://doi.org/10.1101/2025.03.13.643034 this version posted March 13, 2025.  "
+"The copyright holder for this preprint (which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity."
+"It is made available under a CCBY-NCND 4.0 International license 11 bioRxiv preprint doi: https://doi.org/10.1101/2025.03.13.643034 this version posted March 13, 2025.  "
+"The copyright holder for this preprint (which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity."
+It is made available under a CCBY-NCND 4.0 International license Figure 2: All NHSL1 isoforms contain a WCA domain which mediates interaction with the Arp2/3 complex (A) DeepMSA sequence alignment showing conservation of amino acid residues in the WCA domain of all NHSL1 isoforms.
+The MSA alignment was done on the DeepMSA platform built by the Zhang lab.
+The amino acid sequences of WCA of Scar/WAVE2 and NWASP are also shown as comparison.
+(B) GSTpulldowns using purified GSTtagged proteins of NHSL1A1- WCAWT or Scar/WAVE2WCA or GST alone as a negative control coupled to Glutathione- sepharose beads from B16F1 cell lysates.  
+"Before GSTpulldowns were performed, the purified GSTtagged proteins on the sepharose beads were subjected to a dephosphorylation step using calf intestinal phosphatase (CIP) to remove any phosphorylation from the bacterial host, followed by a phosphorylation step using no kinase treatment (-/-), or purified CK2 alone, or GSK3 alone or both CK2 and GSK3 kinases (+/+).  "
+"Following GSTpulldowns, endogenous Arp3 was detected in a western blot with Arp3 antibody.  "
+Representative blots from four independent biological experiments.  
+"(C) and (D) quantification of band intensity from chemiluminescence imaging from (B), normalised to GST control."
+"The values were then normalised to -/-, which was set at 1."
+Bars indicate mean ± SEM (error bars).
+KruskalWallis tests: (C) GSTNHSL1-WCA:
+-/- vs + CK2: ns=0.0901; -/- vs + GSK3: **P=0.0134; -/- vs +/+: ns = 0.0901.
+KruskalWallis tests: (D) GSTScar/WAVE2- WCA -/- vs + CK2: ns = 0.1553; -/- vs + GSK3: **P = 0.0901; -/- vs +/+: ns = 0.1843.  
+"12 bioRxiv preprint doi: https://doi.org/10.1101/2025.03.13.643034 this version posted March 13, 2025.  "
+"The copyright holder for this preprint (which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity."
+"It is made available under a CCBY-NCND 4.0 International license 13 bioRxiv preprint doi: https://doi.org/10.1101/2025.03.13.643034 this version posted March 13, 2025.  "
+"The copyright holder for this preprint (which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity."
+"It is made available under a CCBY-NCND 4.0 International license Figure S2: NHSL1 harbours a WCA domain (A) Amino acid sequence alignment of the WCA domains of Homo sapiens (hs) NHSL1, Scar/WAVE1–3, WASP, NWASP and Listeria monocytogenes ActA.  (B) GSTpulldown using purified GSTtagged proteins of dominant active NHSL1A1-WCADA or GST alone as a negative control coupled to Glutathionesepharose beads from B16F1 cell lysates.  "
+"Following GSTpulldowns, endogenous Arp3 was detected in a western blot with an Arp3 antibody."
+The 1% input band and the pulldown bands were taken from the same blot using the same exposure time.  
+Representative blots from three independent biological experiments.  
+"(C) Quantification of Arp3 band intensity from blot chemiluminescence from (B), normalised to GST control."
+Results are mean ± SEM (error bars); Unpaired ttest; GST control vs NHSL1A1-WCADA: ns = no significant difference.  
+Results are from three independent biological experiments.  
+"The NHSL1A complex localises to the very edge of lamellipodia and to vesicles To explore the function of the NHSL1A complex in cell migration, we first tested the localisation of our NHSL1A1 wildtype and mutant constructs in NHSL1 CRISPR knockout B16F1 (NHSL1KO) cells25 to avoid any potential interference with other endogenous NHSL1 isoforms.  "
+We cotransfected our EGFPtagged NHSL1 constructs with LifeAct- mScarletI to evaluate any changes in Factin distribution and dynamics.  
+"As a control, we expressed EGFP (Fig. "
+3A; Supplemental movie 1) which as expected diffusely localises within the cytosol and the nucleus.  
+"EGFPNHSL1-A1WT localised to the edge of lamellipodia similarly to NHSL1F125, but also localised strongly to many Factin- rich vesicles at the leading edge and around the nucleus (Fig."
+3B; Supplemental movie 2).
+In around half of the cells some of the vesicles at the leading edge appear as Factin rich “asters” from which more vesicles appear to bud off (Fig. 
+"S3, arrowhead; Supplemental movie 3) suggesting that these Factin-rich vesicles may be induced by the expression of wildtype NHSL1A1.  "
+The leading edge of cells transfected with wildtype NHSL1A1 appeared to be very dynamic in comparison to the NHSL1 knockout cells (Supplemental movies 2 and 3).  
+The EGFPNHSL1-A1SW-Mut construct (the variant which cannot bind to the Scar/WAVE complex) localised more weakly to the edge of lamellipodia and to only a few Factin-rich vesicles compared to wildtype NHSL1A1.  
+"However, in addition NHSL1A1-SWMut localisation was observed at the tips of microspikes (Fig."
+"3C, arrows) and filopodia (Fig."
+"3C, arrowheads) (Supplemental movie 4).  "
+"We did not previously detect the analogous mutant 14 bioRxiv preprint doi: https://doi.org/10.1101/2025.03.13.643034 this version posted March 13, 2025.  "
+"The copyright holder for this preprint (which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity."
+It is made available under a CCBY-NCND 4.0 International license variant of NHSL1F1 (NHSL1F1-SWmut) at microspikes or filopodia25 suggesting that the NHSL1A complex can relocate to these sites when not bound to the Scar/WAVE complex.  
+"We observed that the EGFPNHSL1-A1DSHD-SWmut (which cannot bind to the Scar/WAVE complex nor form the NHSL1A complex) did not localise to the very edge of lamellipodia and only weakly to vesicles but instead localised to the cytosol and in cells with high expression also to the nucleus, (Fig. "
+3D; Supplemental movie 5).  
+The leading edge appeared smoother compared to the more dynamic lamellipodia of the NHSL1A1-WT expressing cells (Fig.
+"3B,D; Supplemental movie 5).  "
+"Similar to wildtype NHSL1A1, the WCA dominant active mutant construct (EGFP- NHSL1A1-WCADA) localised to the edge of lamellipodia and to vesicles and appeared to increase the number of Factin rich vesicles (Fig. "
+"3B,E; Supplemental movie 6) and to induce more dynamic lamellipodia (Supplemental movie 6).  "
+"15 bioRxiv preprint doi: https://doi.org/10.1101/2025.03.13.643034 this version posted March 13, 2025.  "
+"The copyright holder for this preprint (which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity."
+"It is made available under a CCBY-NCND 4.0 International license 16 bioRxiv preprint doi: https://doi.org/10.1101/2025.03.13.643034 this version posted March 13, 2025.  "
+"The copyright holder for this preprint (which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity."
+"It is made available under a CCBY-NCND 4.0 International license Figure 3: The NHSL1A complex localises to the edge of lamellipodia and to vesicles Still images from livecell imaging showing NHSL1 CRISPR knockout B16F1 cells either expressing EGFP only (A), or (B – E) different EGFPtagged NHSL1A1 constructs together with LifeActmScarlet migrating on laminin."
+"(B, E) EGFPNHSL1-A1WT and EGFPNHSL1- A1WCA-DA localised to the edge of lamellipodia, and vesicles as shown in the insets."
+(C) EGFPNHSL1-A1SW-Mut weakly localised to lamellipodia and vesicles but also robustly to tips of microspikes (arrows) and filopodia (arrowheads).  
+(D) NHSL1A1- SHDSW-Mut localise localised to the cytosol and weakly to vesicles but not to the leading edge.  
+Representative images from four independent biological experiments.
+Scale bar represents 10 µm.
+Inset is a magnified view of the white box.
+Scale bar of inset represents 2 µm.  
+"17 bioRxiv preprint doi: https://doi.org/10.1101/2025.03.13.643034 this version posted March 13, 2025.  "
+"The copyright holder for this preprint (which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity."
+It is made available under a CCBY-NCND 4.0 International license Figure S3: The NHSL1A complex localises to Factin-rich “asters” from which vesicles bud off Still images from livecell imaging showing NHSL1 CRISPR knockout B16F1 cells expressing EGFPNHSL1-A1WT localised to the edge of lamellipodia and in around half of the cells also to Factin-rich “asters” from which vesicles bud off (arrowheads).  
+Representative images from four independent biological experiments.
+Scale bar represents 10 µm.
+Inset is a magnified view of the white box.
+Scale bar of inset represents 2 µm.  
+"The NHSL1A complex promotes cell migration speed via the Scar/WAVE complex We tested the function of the NHSL1A complex in random cell migration by re- expressing our NHSL1A1 wildtype and mutants in the NHSL1 CRISPR knockout B16F1 18 bioRxiv preprint doi: https://doi.org/10.1101/2025.03.13.643034 this version posted March 13, 2025.  "
+"The copyright holder for this preprint (which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity."
+It is made available under a CCBY-NCND 4.0 International license cells.  
+In this case the proteins were Myctagged and expressed from a bicistronic plasmid also encoding the resistance gene for blasticidin.  
+This enabled blasticidin selection for successfully transfected cells to ensure all analysed cells expressed the expected constructs.
+"As control, we used the empty Myctag-IRESblasticidin plasmid.  "
+Tracking cell migration behaviour from phase contrast movies revealed that cells re- expressing NHSL1A1-WT migrated significantly faster than the NHSL1 knockout cells (Fig. 4A; for cell tracks see Fig. S4).
+This is a surprising result because it is opposite to what we observed for the NHSL1F1 isoform25 and suggests that the NHSL1A complex functions to promote cell migration.  
+Reexpression of the NHSL1A-SHD on its own did not increase migration speed indicating that the Cterminus of NHSL1 mediates its function in cell migration (Fig. 4A).  
+"In agreement, expression of the NHSL1A1-SWMut did not increase migration speed (Fig. 4A) implying that the increase in cell migration requires the interaction of NHSL1A with the Scar/WAVE complex.  "
+"However, the NHSL1A1-DSHDSW-Mut increased cell migration speed like NHSL1A1-WT (Fig. 4A)."
+This was unexpected because this construct does not localise to the edge of lamellipodia (Fig. 3D) and cannot form the NHSL1A complex (Fig. 1CF).
+"However, it does localise weakly to vesicles and harbours an intact WCA domain and thus may increase cell migration speed indirectly via Arp2/3 complex mediated vesicle trafficking."
+Reexpression of NHSL1A1-WCADA did not result in cell speeds significantly different from NHSL1A1-WT suggesting that the NHSL1 WCA does not have a negative function in cell migration (Fig. 4A).
+This indicates that the function of the NHSL1A complex in promoting cell migration speed may be mediated by both its interaction with the Scar/WAVE complex and the Arp2/3 complex.  
+"When we analysed the directionality ratio over time, we observed that during early time intervals, which reflect cell migration persistence, the reexpression of NHSL1A1-WT, NHSL1A1-SWMut, NHSL1A1-DSHDSW-Mut, and NHSL1A1-WCADA resulted in the quickest loss (steepest gradient of descent) of directionality compared to the KOMyc and re- expression of NHSL1A1-SHD (40<dt<70 min) (Fig. 4B).  "
+"However, at later intervals (70<dt<200 min) cells reexpressing NHSL1A1-WT had a reduced directionality, but neither NHSL1A1-SHD, NHSL1A1-SWMut, nor NHSL1A1-WCADA reduced directionality compared to the NHSL1 knockout cells.  "
+Analysis of mean squared displacement (MSD) which is dependent on speed and persistence only revealed a big reduction in MSD for the reexpression of NHSL1A1-SW- Mut which reflects its inability to increase migration speed in addition to reducing persistence (short timeinterval directionality).
+Reexpression of NHSL1A1-WT only moderately reduced MSD which reflects its combination of increased cell migration speed but reduced persistence (Fig. 4C).
+"Estimation of the MSD exponent (alphavalue) from the slopes of the loglog transform of MSD curves characterises the motion of the cells ( = 1 indicates 19 bioRxiv preprint doi: https://doi.org/10.1101/2025.03.13.643034 this version posted March 13, 2025.  "
+"The copyright holder for this preprint (which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity."
+"It is made available under a CCBY-NCND 4.0 International license diffusive, or random, motion whilst = 2 indicates ballistic, or directional, motion)38,39.  "
+"This measure of directionality revealed a similar reduction in cell migration persistence for re- expression of NHSL1A1-WT, NHSL1A1-SWMut, NHSL1A1-DSHDSW-mut, and NHSL1- A1WCA-DA as observed by measuring directionality over time at shorter interval values.  "
+"However, reexpression of the NHSL1A1-SHD did not reduce the alpha value compared to the NHSL1 knockout cells (Fig. 4D).  "
+"Taken together, these data suggest that NHSL1A may inhibit cell migration persistence via other interactors and not via its interaction with the Scar/WAVE and the Arp2/3 complexes (Fig. 4B)."
+There are also clear differences between the regulation of the persistence (defined by shorter time intervals) and longerterm directionality.  
+"20 bioRxiv preprint doi: https://doi.org/10.1101/2025.03.13.643034 this version posted March 13, 2025.  "
+"The copyright holder for this preprint (which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity."
+"It is made available under a CCBY-NCND 4.0 International license 21 bioRxiv preprint doi: https://doi.org/10.1101/2025.03.13.643034 this version posted March 13, 2025.  "
+"The copyright holder for this preprint (which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity."
+"It is made available under a CCBY-NCND 4.0 International license Figure 4: The NHSL1A complex promotes cell migration speed via the Scar/WAVE complex (A) Mean track speed of randomly migrating NHSL1 CRISPR knockout B16F1 cells expressing Myc alone as control, or"
+NHSL1 CRISPR knockout B16F1 cells expressing either the fulllength wildtype NHSL1A1 or fulllength mutant constructs of NHSL1A1 plated on laminin after selection using a bicistronic blasticidin expression plasmid ensuring all cells analysed expressed NHSL1A1.  
+Each data point represents the mean speed of a cell.  
+Results are mean ± SEM (error bars).
+(B)
+The normalised (see methods) directionality ratio was plotted to explore how the cell migration persistence changes over time.  
+Directionality ratio and (C) mean square displacement (MSD) were calculated and plotted using Excel macros provided in54.
+(D) Alpha value (-value) calculated from the slope of the loglog plot of the MSD of randomly migrating cells.  
+"Experiments were performed on n = 55 (NHSL1 knockout - Myc only), 49 (NHSL1 knockout - Rescue MycNHSL1-AWT), 58 (NHSL1 knockout - MycNHSL1-ASW-Mut), 62 (NHSL1 knockout - MycNHSL1-A- SHDSW-Mut), 64 (NHSL1 knockout - MycNHSL1-ASHD) and 55 (NHSL1 knockout - MycNHSL1-AWCA- DA) from three independent biological experiments.  "
+"22 bioRxiv preprint doi: https://doi.org/10.1101/2025.03.13.643034 this version posted March 13, 2025.  "
+"The copyright holder for this preprint (which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity."
+"It is made available under a CCBY-NCND 4.0 International license 23 bioRxiv preprint doi: https://doi.org/10.1101/2025.03.13.643034 this version posted March 13, 2025.  "
+"The copyright holder for this preprint (which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity."
+"It is made available under a CCBY-NCND 4.0 International license Figure S4: The NHSL1A complex promotes cell migration speed via the Scar/WAVE complex Cell tracks of randomly migrating NHSL1 knockout B16F1 cells expressing Myc alone as control, or NHLS1 knockout B16F1 cells expressing either the fulllength wildtype NHSL1- A1 or fulllength mutant constructs of NHSL1A1 plated on laminin after selection using a bicistronic blasticidin expression plasmid ensuring all cells analysed expressed NHSL1A1.  "
+The NHSL1A complex mediates chemotaxis It is unknown whether NHSL1 proteins regulate chemotaxis.  
+"To explore this, we compared wildtype B16F1 cells with NHSL1 knockout cells both transiently transfected with the empty Myctag-IRESblasticidin vector or the NHSL1 knockout cells reexpressing Myc- NHSL1A1-WTIRES-blasticidin.  "
+"After blasticidin selection, the chemotactic ability of each cell population was analysed in a microfluidic chemotaxis chamber40 in a gradient of HGF (Fig. 5A)."
+"In the absence of NHSL1 proteins, cell migration speed was significantly reduced from 0.84 ± 0.03 µm/min to 0.67 ± 0.03 µm/min, and reexpression of NHSL1A1 increased the mean speed back to 0.73 ± 0.04 µm/min µm/min (Fig. 5B), a result which is not statistically significant, but which was in approximate agreement with our results from random migration assays (Fig. 4A)."
+"The yForward Migration Index (yFMI) shows that wild- type B16F1 cells chemotax, albeit weakly, up the gradient of HGF with a mean yFMI of 0.05 ± 0.02."
+"The NHSL1 knockout cells, however, have a mean yFMI of –0.04 ± 0.02, indicating that they cannot chemotax.  "
+This dysfunctional phenotype is rescued significantly by re- expression of wildtype NHSL1A1 resulting in a mean yFMI of 0.11 ± 0.03 (Fig. 
+"5C,D) suggesting that the NHSL1A complex is required for chemotaxis.  "
+"24 bioRxiv preprint doi: https://doi.org/10.1101/2025.03.13.643034 this version posted March 13, 2025.  "
+"The copyright holder for this preprint (which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity."
+"It is made available under a CCBY-NCND 4.0 International license 25 bioRxiv preprint doi: https://doi.org/10.1101/2025.03.13.643034 this version posted March 13, 2025.  "
+"The copyright holder for this preprint (which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity."
+It is made available under a CCBY-NCND 4.0 International license Figure 5: The NHSL1A complex mediates chemotaxis (A) Schematic diagram of the microfluidics chemotaxis chamber: 
+Cells are loaded into the cell chamber through an inlet on the right side of the chamber (not depicted).
+"Media without serum containing the chemoattractant HGF is loaded into the source inlet, while media without serum is loaded into the sink inlet."
+A syringe pump is then connected to both source and sink inlets to introduce a steady flow of media from source to sink in the cell chamber.  
+"(B) Cell migration speed and © Forward Migration Index (yFMI) of wildtype B16F1 cells expressing the Myctag alone, or NHSL1 knockout B16F1 cells expressing either the Myc- tag alone or wildtype fulllength NHSL1A1-WT migrating on laminin while being subjected to a gradient of hepatocyte growth factor (HGF) in a chemotaxis chamber."
+(B) KruskalWallis test: knockout vs WT control: ***P = 0.0002.
+© Ordinary oneway ANOVA test: knockout vs WT control: **P=0.0095; knockout vs Rescue Myc NHSL1A-WT: ***P=0.0001.  
+(D) Rose plots showing the overall direction of migration of wildtype B16F1
+"Cells expressing the Myc- tag alone as control, or knockout B16F1 cells expressing either the Myctag alone as control or wildtype fulllength NHSL1A1 in a chemotaxis assay.  "
+The hepatocyte growth factor (HGF) gradient is in the direction of yaxis.
+"Each point of origin has been reset to (x, y) = 0 on the plot, and each bar represents both the direction in which a group of cells were migrating and the number of cells (cell counts) in that group according to the respective bar length.  "
+Each bar has a range angle interval of 10° (total of 36 bars in each plot).  
+"Results are obtained from four independent biological experiments for WT control and knockout control and three independent biological experiments for Rescue MycNHSL1-AWT, and n = 130 (WT control Myc only), 125 (knockout Myc only) and 65 (Rescue MycNHSL1-AWT).  "
+"The NHSL1A complex increases lamellipodial protrusion speed via the WCA domain and reduces stability of lamellipodial protrusions To explore the mechanisms how the NHSL1A complex promotes cell migration, we investigated its effect on lamellipodial protrusion or retraction speeds and lamellipodial stability."
+"To do this, we cotransfected LifeActmScarlet together with either EGFP as control or the EGFPtagged NHSL1A1 constructs and generated high magnification movies of the lamellipodium and quantified protrusion and retraction vectors at each pixel along the leading edge (Fig. 6A).  "
+"This analysis revealed that the speed of lamellipodial protrusion changed from 4.7 ± 0.3 µm/min to 5.3 ± 0.4 µm/min in the NHSL1 knockout cells re- expressing wildtype NHSL1A1, but this was not significant (Fig. 6B).  "
+"Similarly, the lamellipodial protrusion speed changed from 4.7 ± 0.3 µm/min to 5.0 ± 0.3 µm/min in the NHSL1A1-SWMut reexpression to a slightly lesser extent compared to NHSL1A1-WT.  26 bioRxiv preprint doi: https://doi.org/10.1101/2025.03.13.643034 this version posted March 13, 2025.  "
+"The copyright holder for this preprint (which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity."
+"It is made available under a CCBY-NCND 4.0 International license However, the speed increased further to 5.9 ± 0.4 µm/min upon reexpression of the NHSL1- A1WCA-DA and this change was significant (Fig. 6B).  "
+The lamellipodial retraction speed increased significantly from 2.8 ± 0.2 µm/min in the NHSL1 knockout cells to 4.4 ± 0.5 µm/min in the knockout cells reexpressing wildtype NHSL1A1.
+Retraction speed did not change in knockout cells reexpressing either NHSL1- A1 mutant variants (Fig. 6D) suggesting that the NHSL1A complex mediates retraction speed in part via the Scar/WAVE complex.  
+Reexpression of the NHSL1A1-WCADA construct did not change the mean retraction speed (Fig. 6D).  
+"This is in contrast what we observed for this phosphomimetic construct in protrusion speed, implying that phosphorylationdephosphorylation cycles of the NHSL1 WCA domain may be required for its role in lamellipodial dynamics.  "
+"Together, this indicates that the NHSL1A complex may promote lamellipodial dynamics via its WCA domain and via the Scar/WAVE complex.  "
+We then analysed the standard deviation (SD) of the mean lamellipodial protrusion or retraction speed as a readout for the lamellipodial stability over time.  
+The SD of the lamellipodial protrusion did not change significantly between the different conditions (Fig. 6C).  
+"However, the reexpression of NHSL1A1-WT significantly increased the SD of the lamellipodial retraction speed, but this was not the case when the NHSL1A1-WCADA was reexpressed."
+The reexpression of the NHSL1A1-SWMut may only partially increase the SD of the lamellipodial retraction speed from 3.4 ± 0.4 µm/min to 3.7 ± 0.4 µm/min (Fig. 6D).  
+This suggests that the NHSL1A complex reduces the stability of lamellipodial protrusions via its WCA and maybe in part via its interaction with the Scar/WAVE complex.  
+"Taken together, the NHSL1A complex may cause lamellipodia to be faster and less stable.  "
+"27 bioRxiv preprint doi: https://doi.org/10.1101/2025.03.13.643034 this version posted March 13, 2025.  "
+"The copyright holder for this preprint (which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity."
+"It is made available under a CCBY-NCND 4.0 International license 28 bioRxiv preprint doi: https://doi.org/10.1101/2025.03.13.643034 this version posted March 13, 2025.  "
+"The copyright holder for this preprint (which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity."
+It is made available under a CCBY-NCND 4.0 International license Figure 6: The NHSL1A complex increases lamellipodial protrusion speed via the WCA domain and reduces stability of lamellipodial protrusions (A) Example stillimage from livecell imaging of knockout B16F1 expressing EGFP only as control migrating on laminin.  
+Cells were imaged at 160x magnification and livecell movies were then used to quantify the lamellipodial dynamics by segmentation and calculation of protrusion and retraction vectors (see methods).  
+"(B, C) Quantification of lamellipodial protrusion (B) and retraction (C) speed and (D, E) their respective standard deviation from livecell imaging of NHSL1 knockout B16F1 cells expressing EGFP only as control or EGFP tagged NHSL1A constructs migrating on laminin."
+Results are mean ± SEM (error bars).
+"The standard deviation of the protrusion or retraction speeds in (D, E) shows the fluctuations in the speed of the lamellipodial edges and hence serves as a proxy for the stability of lamellipodial protrusions.  "
+(B) 
+Oneway ANOVA test: NHSL1 knockout versus NHSL1 Rescue EGFPNHSL1-AWT: ns = 0.4827; NHSL1 knockout versus NHSL1 Rescue EGFP- NHSL1A-SWMut: ns = 0.8919; NHSL1 knockout versus NHSL1 Rescue EGFPNHSL1-A- SHDSW-Mut: ns = 0.2451; NHSL1 knockout versus NHSL1 Rescue EGFPNHSL-1A- WCADA: *P=0.03.  
+"n=21 (NHSL1 knockout EGFP only), 22 (NHSL1 knockout Rescue EGFPNHSL1-AWT), 29 (NHSL1 knockout Rescue EGFPNHSL1-ASW-Mut), 23 (NHSL1 knockout Rescue EGFPNHSL1-A- SHDSW-Mut) and 27 (NHSL1 knockout Rescue EGFP- NHSL1A-WCADA).  "
+(C) 
+Oneway ANOVA test: NHSL1 knockout versus NHSL1 knockout Rescue EGFPNHSL1-AWT: **P=0.003; NHSL1 knockout versus NHSL1 knockout Rescue EGFPNHSL1-ASW-Mut: ns=0.4493; NHSL1 knockout versus NHSL1 knockout Rescue EGFPNHSL1-A- SHDSW-Mut: ns = 0.9215; NHSL1 knockout versus NHSL1 knockout Rescue EGFPNHSL-1A-WCADA: ns = 0.6599.  
+"n=18 (NHSL1 knockout EGFP only), 21 (NHSL1 knockout Rescue EGFPNHSL1-AWT), 28 (NHSL1 knockout Rescue EGFP- NHSL1A-SWMut), 21 (NHSL1 knockout Rescue EGFPNHSL1-A- SHDSW-Mut) and 26 (NHSL1 knockout EGFPNHSL1-AWCA-DA).  "
+(D) 
+Oneway ANOVA test: NHSL1 knockout Rescue EGFPNHSL1-AWT vs NHSL1 knockout: ns = 0.1223; NHSL1 knockout Rescue EGFPNHSL1-AWT vs NHSL1 knockout Rescue EGFPNHSL1-ASW-Mut: ns = 0.4167; NHSL1 knockout Rescue EGFPNHSL1-AWT vs NHSL1 knockout Rescue EGFPNHSL1- A- SHDSW-Mut: ns = 0.9964; NHSL1 knockout Rescue EGFPNHSL1-AWT vs NHSL1 knockout Rescue EGFPNHSL-1A-WCADA: ns = 0.8728.
+Ns.
+= no significant difference.
+"n = 20 (NHSL1 knockout EGFP only), 21 (NHSL1 knockout Rescue EGFPNHSL1-AWT), 29 (NHSL1 knockout Rescue EGFPNHSL1-ASW-Mut), 22 (NHSL1 knockout Rescue EGFP- NHSL1A- SHDSW-Mut) and 25 (NHSL1 knockout Rescue EGFPNHSL1-AWCA-DA)."
+"(E) Oneway ANOVA test: NHSL1 knockout Rescue EGFPNHSL1-AWT vs NHSL1 knockout: *P=0.0404; NHSL1 knockout Rescue EGFPNHSL1-AWT vs NHSL1 knockout Rescue EGFPNHSL1-ASW-Mut: ns = 0.0933; NHSL1 knockout Rescue EGFPNHSL1-A1WT vs 29 bioRxiv preprint doi: https://doi.org/10.1101/2025.03.13.643034 this version posted March 13, 2025.  "
+"The copyright holder for this preprint (which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity."
+It is made available under a CCBY-NCND 4.0 International license NHSL1 knockout Rescue EGFPNHSL1-A- SHDSW-Mut: **P=0.0091; NHSL1 knockout Rescue EGFPNHSL1-AWT vs NHSL1 knockout Rescue EGFPNHSL-1A-WCADA: *P=0.0233.  
+Ns=no significant difference.  
+"n=20 (NHSL1 knockout EGFP only), 21 (NHSL1 knockout Rescue EGFPNHSL1-AWT), 28 (NHSL1 knockout Rescue EGFPNHSL1-ASW- Mut), 20 (NHSL1 knockout Rescue EGFPNHSL1-A- SHDSW-Mut) and 24 (NHSL1 knockout Rescue EGFPNHSL1-AWCA-DA).  "
+Results are from four independent biological experiments.  
+The NHSL1A complex may activate the Arp2/3 complex in the lamellipodium 
+"To investigate the underlying causes for NHSL1A complex function in lamellipodia dynamics and cell migration, we quantified the Arp3 intensity in the lamellipodium (Fig."
+"7A,B) as a readout for the Arp2/3 complex activity as this complex is activated at the very edge of lamellipodia and then incorporated into the growing, rearward flowing Factin branched network which it nucleates1.  "
+We quantified Arp3 intensity in the lamellipodium in NHSL1 knockout cells reexpressing EGFPtagged NHSL1A1 constructs.  
+We also quantified the cellular EGFP levels and used it to normalise the Arp3 intensity to the expression level of the rescue constructs on a cellby-cell basis.  
+We observed that lamellipodial Arp2/3 levels in NHSL1 knockout cells upon reexpression of wildtype NHSL1A1 increased by 20% but upon reexpression of NHSL1A1-SWMut decreased by 12% but these changes were not significant.
+"In contrast, the reexpression of NHSL1A1- SHDSW-Mut caused a significant reduction of 40% whereas reexpression of NHSL1A1-WCADA did not change Arp2/3 intensity in the lamellipodium (Fig. 7B).  "
+This suggests that the NHSL1A complex may promote Arp2/3 activation in the lamellipodium via the Scar/WAVE complex.  
+"This increased lamellipodial Arp2/3 mediated Factin nucleation may increase lamellipodia protrusion speed and consequently, increase cell migration speed.  "
+"30 bioRxiv preprint doi: https://doi.org/10.1101/2025.03.13.643034 this version posted March 13, 2025.  "
+"The copyright holder for this preprint (which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity."
+"It is made available under a CCBY-NCND 4.0 International license 31 bioRxiv preprint doi: https://doi.org/10.1101/2025.03.13.643034 this version posted March 13, 2025.  "
+"The copyright holder for this preprint (which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity."
+It is made available under a CCBY-NCND 4.0 International license Figure 7: The NHSL1A complex may increase Arp2/3 activity in the lamellipodium (A) Example of a B16F1 cell with an outline of the lamellipodium for measurement of Arp3 intensity.
+(B) Quantification of normalised Arp3 intensity in the lamellipodium; KruskalWallis test: NHSL1 knockout versus NHSL1 knockout Rescue EGFPNHSL1-A1WT: ns > 0.9999; NHSL1 knockout versus NHSL1 knockout Rescue EGFPNHSL1-A1SW-Mut: ns > 0.9999; NHSL1 knockout versus NHSL1 knockout Rescue EGFPNHSL1-A1- SHDSW-Mut: 
+*P = 0.0106; NHSL1 knockout versus NHSL1 knockout Rescue EGFPNHSL1-A1WCA-DA: ns > 0.9999; NHSL1 knockout Rescue EGFPNHSL1-A1WT versus NHSL1 knockout Rescue EGFPNHSL1-A1SW-Mut: ns > 0.9999; NHSL1 knockout Rescue EGFPNHSL1-A1WT versus NHSL1 knockout Rescue EGFPNHSL1-A1- SHDSW-Mut: **P = 0.0019; NHSL1 knockout Rescue EGFPNHSL1-A1WT versus NHSL1 knockout Rescue EGFPNHSL1-A1- WCADA: ns > 0.9999; NHSL1 knockout Rescue EGFPNHSL1-A1SW-Mut versus NHSL1 knockout Rescue EGFPNHSL1-A1- SHDSW-Mut: ns > 0.9999; NHSL1 knockout Rescue EGFPNHSL1-A1SW-Mut versus NHSL1 knockout Rescue EGFPNHSL1-A1WCA-DA: ns > 0.9999; NHSL1 knockout Rescue EGFPNHSL1-A1- SHDSW-Mut versus NHSL1 knockout Rescue EGFPNHSL1-A1WCA-DA: ns = 0.0666.  
+"Results are obtained from four independent biological experiments, and n = 32 (NHSL1 knockout), 22 (NHSL1 knockout Rescue EGFPNHSL1-A1WT), 15 (NHSL1 knockout Rescue EGFPNHSL1-A1SW-Mut), 26 (NHSL1 knockout Rescue EGFPNHSL1-A1- SHDSW-Mut) and 16 (NHSL1 knockout Rescue EGFPNHSL1-AWCA-DA).  "
+(C) Example images of B16F1 NHSL1 knockout cells reexpressing various EGFPNHSL1-A1 constructs or EGFP as control and stained for endogenous Arp3.  
+Representative images from four independent experiments.  
+Scale bar represents 10 µm.
+Inset is a magnified image of the white box and scale bar represents 2 µm.  
+Discussion We have shown here that an NHSL1A complex exists whose formation is mediated by the SHD domain of the NHSL1A isoforms.
+"Expression of only the NHSL1A1 isoform in panisoform NHSL1 knockout cells induced dynamic lamellipodia and aster like vesicular compartments from which vesicles appear to bud off, both locations at which NHSL1A1 resides.  "
+We identified a functional WCA domain in all NHSL1 isoforms whose interaction with the Arp2/3 complex is promoted by GSK3 phosphorylation.
+"Reexpression of NHSL1A1 with dominant active mutations in its WCA domain increased Arp2/3 interaction, lamellipodial protrusion but not retraction speed nor decreased lamellipodial stability suggesting that the 32 bioRxiv preprint doi: https://doi.org/10.1101/2025.03.13.643034 this version posted March 13, 2025.  "
+"The copyright holder for this preprint (which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity."
+It is made available under a CCBY-NCND 4.0 International license WCA domain of NHSL1 promotes productive lamellipodial protrusion.  
+"In agreement, re- expression of NHSL1A1 with dominant active mutations in its WCA domain increased migration speed but not the NHSL1 SHD on its own nor NHSL1A1 mutated in its Scar/WAVE complex binding sites suggesting that the NHSL1A complex functions to promote migration efficiency via both its WCA domain and the Scar/WAVE complex.  "
+Our study revealed that the SHD in NHSL1A proteins is fully functional and mediates the formation of a complex which resembles the Scar/WAVE complex but in which Scar/WAVE13 proteins are replaced by NHSL1A.  
+"In agreement, the SHD of the related NHS protein was found to bind to Scar/WAVE complex components21."
+While our study was underway Wang et al reported that the PPP2R1A subunit of the PP2A phosphatase specifically interacted with the NHSL1A1 isoform and components of the Scar/WAVE complex but not Scar/WAVE proteins 24.  
+This was surprising as NHSL1A1 has two Abi binding sites mediating interaction with the entire Scar/WAVE complex suggesting that the NHSL1Scar/WAVE complex interaction is tightly regulated.  
+"In addition, they found that the SHD of NHSL1A interacted with in vitro translated Scar/WAVE components24 which supports our findings."
+"Interestingly, knockout of the Scar/WAVE complex components Nap1 or CYFIP1/2 have been widely used to study the function of the Scar/WAVE complex15,41–46.  "
+In light of our findings that these also constitute components of an NHSL1A complex it is possible that the reported defects may be caused by the loss of the NHSL1A complex and/or combined loss of both complexes.  
+We found that the NHSL1A complex localises to the very edge of lamellipodia and to vesicles similarly to what we have previously shown for the NHSL1F1 isoform which does not harbour an SHD25.  
+NHSL1A1’s recruitment to lamellipodia depended on the SHD but not on the interaction with the Scar/WAVE complex suggesting both complexes are independently recruited.
+"However, its recruitment to vesicles does not depend on the SHD which is in agreement with our findings that fragment 1 and 3 of NHSL1F1 mediate vesicle localisation25.  "
+The NHSL1F1 isoform does not contain an SHD and yet localises to the leading edge presumably being recruited there by its two Rac binding sites25.  
+The NHSL1- A1 Scar/WAVE binding mutant displayed much weaker leading edge and vesicles localisation suggesting that its localisation at leading edge and vesicles is stabilised by its interaction with the Scar/WAVE complex but is not mediated by it.
+"Interestingly, we observed that this construct also localised to the tips of microspikes and filopodia suggesting that this interaction restricts it to lamellipodia and that the NHSL1A complex may have an additional, regulated unknown function at this location.  "
+"Because the Scar/WAVE proteins mediate the function of the Scar/WAVE complex via its Cterminal WCA domain by recruiting and activating the Arp2/3 complex, we 33 bioRxiv preprint doi: https://doi.org/10.1101/2025.03.13.643034 this version posted March 13, 2025.  "
+"The copyright holder for this preprint (which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity."
+It is made available under a CCBY-NCND 4.0 International license speculated that NHSL1 may have a similar function in the NHSL1A complex.  
+"Indeed, we discovered a functional WCA domain in all NHSL1 isoforms which mediates interaction with the Arp2/3 complex.  "
+The interaction between the NHSL1 WCA and the Arp2/3 complex is promoted by GSK3 phosphorylation.
+"It was previously unknown that GSK3 phosphorylation increases WCAArp2/3 interaction, but we found that GSK3 phosphorylation may also increase the Scar/WAVEWCA Arp2/3 interaction (Fig. 2BD).  "
+Fittingly we recently showed that GSK3 activity is required for lamellipodia formation47.  
+"It has been shown that two nucleation promotion factors with WCA domains have to be present for full activation of the Arp2/3 complex48,49.  "
+This raises the exciting possibility that the Scar/WAVEWCA and the NHSL1WCA cooperate to activate the Arp2/3 complex because the Scar/WAVE and NHSL1A complexes interact at the leading edge.  
+"We showed that reexpression of NHSL1A1 with phosphomimetic, dominantactive mutations in the WCA domain significantly increased lamellipodial protrusion speed but not retraction speed and also did not decrease lamellipodial stability suggesting that the WCA domain of NHSL1 promotes productive lamellipodial protrusion and thus cell migration efficiency.  "
+This also suggests that the NHSL1 WCA is partially functional but needs to be dephosphorylated like the Scar/WAVE2 WCA to activate the Arp2/3 complex.  
+Reexpression of wildtype NHSL1A1 also appeared to increase lamellipodial protrusion speed albeit to a lesser extent.
+"In agreement, knockdown of NHSL1b in zebrafish with a morpholino targeting the SHD containing exon 1 caused reduction in lamellipodial protrusion speed and persistence50.  "
+"In contrast, we previously showed that knockout of all NHSL1 isoforms, increased stability of lamellipodial protrusions without affecting protrusion speed while rescue with the NHSL1F1 isoform reduced lamellipodial protrusion stability25 suggesting that the NHSL1F1 isoform has a different function compared to the NHSL1A complex.  "
+"Similarly, we showed that knockout of all NHSL1 isoforms increased cell migration speed and persistence in 2D random cell migration assays25 and this has been confirmed with a knockdown in another cell line24.  "
+When we reexpressed wildtype NHSL1A1 in an NHSL1 knockout cell line this increased migration speed via the Scar/WAVE complex.
+"Also, reexpression of NHSL1A1 with a dominant active WCA mutation increased migration speed like wildtype but not reexpression of the NHSL1A SHD on its own suggesting that the complex functions to promote migration via both the Scar/WAVE complex and the WCA domain."
+Recently we reported that NHSL1 promotes Fast Endophilin Mediated Endocytosis (FEME) in cells and its interactions with EndophilinA2 and Ena/VASP proteins are required for this function51.  
+"Thus, NHSL1 function in endocytosis may contribute to its effect on SHDSW-Mut increased migration migration efficiency since reexpression of NHSL1A1- speed like wildtype NHSL1A.  34 bioRxiv preprint doi: https://doi.org/10.1101/2025.03.13.643034 this version posted March 13, 2025.  "
+"The copyright holder for this preprint (which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity."
+It is made available under a CCBY-NCND 4.0 International license We found that the NHSL1A complex is required for chemotaxis and NHSL1 knockout cells displayed a reduced migration speed during chemotaxis.  
+"In contrast, knockdown of all NHSL1 isoforms increased the ability of cells to migrate up a gradient of fibronectin showing that NHSL1 functions differently in chemotaxis versus haptotaxis24.  "
+Escot et al also observed a reduction in directional migration upon knockdown of the SHD containing isoform of NHSL1b in zebrafish with a reduced cell migration speed and persistence50 suggesting that this directed migration may be due to chemotaxis.  
+"Zebrafish NHSL1b was also required for a different type of directed migration, the facial branchiomotor (FBM) neuronal migration in a planarpolarised environment52."
+"As the Arp2/3 complex is not required for chemotaxis40,53, NHSL1 may control chemotaxis in an Arp2/3 complex independent manner either via an Arp2/3 complex independent Scar/WAVE complex function or via its role in endocytosis.  "
+"Taken together, this suggests that the regulation of actin nucleation by the Arp2/3 complex is much more complex than anticipated.  "
+"Methods Molecular Biology and Plasmids Fulllength human NHSL1A1 wildtype and NHSL1A1-SWMut cDNA was generated via HiFi cloning (NEB Hifi, New England Biolabs, Inc.)  by adding the Scar Homology Domain (SHD) sequence from exons and (Geneblock: CTTTAAAGGAACCAATTCAGTCGACTGGATCCGGACCGAATTCgccaccATGCCCTTCCA CCAgaGgAcCcTgGAGCCCGCgCGGCTGCGCCGGCCCGAGGCGGCgggGGCcgGGGCT GcGGgCgCGCCaCTCTTCCGCTCGCTGGAGCAGGTCAGCTCGCAtgCCCTGGgCTGCCT GCTgGCgCAGCTGGCCGACCTGTCGCGCTGCGCcGGGGACATcTTCGGcGAGCTCGAG GGCCAGGCGGCcGCGCTGGGcCACCGCACCGCCGcGcTGCACCGcCGCCTcGACGCC"
+CTGCAaGCCGCCGCtGCGCGcCTGGACCACCGcCGAGTGAAAATCCCGGTTTCCAACCT AGACTGCCCCGTGGCACCAGCAGGAGAATGTGTTCCTTCCCACCACAAGACCCCCCTG TGTTGAGGACCTGCACCGCCAAGCCAAGCTCAACCTCAAATCAGTACTGAGGGAATGC GATAAGTTGCGGCATGATGGCTACCGCAGTTCTCAGTACTACTCTCAGGGACCCACCTT TGCGGCCAACGCCAGCCCATTCTGTGATGATTACCAAGATGAAGATGAAGAAACAGAT CAAAAGTGTTCTCTGTCTTCATCAGAAGAAGAAAGATTTATTTCCATCAGGAGACCTAAA ACACCAGCCTCAAGTGACTTCTCCGACCTTAATACTCAGACGAACTGGACCAAGTCGCT TCCACTG) of NHSL1A to the 5’ end of NHSL1F1.  
+"To generate the SHD of NHSL1A1 alone, it was amplified from NHSL1A1 using 5’-primer: 35 bioRxiv preprint doi: https://doi.org/10.1101/2025.03.13.643034 this version posted March 13, 2025.  "
+"The copyright holder for this preprint (which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity."
+It is made available under a CCBY-NCND 4.0 International license cgGGATCCGCCACCATGCCATTTCACCAG and 3’-primer: cgGAATTCgcCTCGCGGAGAACGGATTTAAGG and cloned into the pENTR3C plasmid (Invitrogen) using restriction enzymebased cloning.  
+NHSL1A1 in which the SHD was deleted (exon 1 and first few bases of exon 2 removed) was generated by amplifying it from fulllength NHSL1F1-SWMut using cggGGATCCgccaccatgGTTGAGGACCTGCACCGCC and 5’-primer: 3’-primer: 
+cggTCTAGAcgACTCTCCTCGCTCAGAGAACC.  
+"Fulllength NHSL1A1 with a dominant active WCA domain was constructed by HiFi cloning a synthetic doublestranded DNA (Geneblock, IDT) incorporating phosphomimentic mutations within the WCA (ATCAATGTTTTTGTTGGAAGAGCTCAGAAAAACCAAGGGGACCGGTCCAATTACCAGG ATAAATCCCTATCAAGAAACATCTCTTTGAAGAAAGCAGCGAAGGCTGCCCTGCCAGCC TCGCGGACAGACTCCCTCCGCAGGATTCCCAAGAAGAGCAGCCAGTGCAACGGGCAG GTGCTCAACGAGAGCCTGATCGCCACACTCCAGCACTCGCTGCAGCTGAGCCTCCCAG GCAAAAGTGGCAGCGAACCCTCCCAGGAACCCTGCGAAGACTTGGAAGAGCCCTGGC TGCCCCGCTCCCGGAGCCAGAGCACAGTTAGTGCTGGCAGCAGCATGACTTCCGCCA"
+CCACCCCCAATGTCTACTCCCTGTGCGGGGCCACGCCATCGCAGAGTGACACAAGCA GCGTCAAGTCAGAGTACACGGACCCCTGGGGTTATTACATTGACTACACGGGCATGCA GGAAGATCCGGGGAACCCGGCAGGGGGCTGTTCAACCAGCAGTGGGGTGCCCACTG GGAACGGGCCAGTCCGCCATGTCCAAGAAGGGTCCAGAGCCACAATGCCCCAAGTGC CCGGTGGTTCAGTCAAACCAAAGATCATGTCACCAGAGAAGTCACACAGAGTCATTTCT CCATCCAGTGGGTATTCCAGCCAGTCGAATGCACCCACAGCACTCACCCCTGTGCCTG TGTTTT) using fulllength NHSL1A1 in pENTR3C as the backbone.
+"GSTtagged WCA wild- type and dominant active were generated by amplifying the WCA region of NHSL1A with primers (for wild type, 5’-primer:"
+"cggGgatccgccaccatgGTTGGAAGAGCTCAGAAAAACC and 3’-primer: cggTCTAGAcgCCAtcaACCTCCTCCTCCTCCCAGCCAGGGCTCTTCCAAG; for dominant active, 5’-primer: cggGgatccgccaccatgGTTGGAAGAGCTCAGAAAAACC and 3’- primer: cggTCTAGAcgCCAtcaACCTCCTCCTCCTCCCCAGGGCTCTTCCAAGTCTTC).  "
+GSTtagged WCA of WAVE2 was constructed by amplifying the region of Scar/WAVE2 with 5’-primer: cgcGGATCCgccaccatgagcgatgcccgtagcgacc and 3’-primer: cggTCTAGAccgCCTCCTCCTCCatcggaccagtcgtcctcatc.  
+The tagged Scar/WAVE complex components were described in25.  
+GSK3 cDNA was amplified and cloned into pENTR3c by restriction cloning.  
+"The following Gateway (Invitrogen)compatible mammalian expression plasmids were cloned by traditional restrictionbased cloning or Gibson assembly (NEB Hifi, New England Biolabs, Inc.): pCAGEGFP-DEST, pCAGDEST-EGFP, pDEST15, pCAG- EGFPDEST-IRESPuro, pRK5MycDEST, pCAGMyc-DEST, pCAGMyc-DESTIRES- BLAST, and pStreptagII-DEST.  "
+cDNAs in pENTR3C were transferred into these tagged mammalian expression vectors using the Gateway recombination method (Invitrogen).  
+"36 bioRxiv preprint doi: https://doi.org/10.1101/2025.03.13.643034 this version posted March 13, 2025.  "
+"The copyright holder for this preprint (which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity."
+"It is made available under a CCBY-NCND 4.0 International license Antibodies The NHSL1 rabbit polyclonal antibody recognising all NHSL1 isoforms (Eurogentec, #4457) has been described previously25.  "
+The NHSL1A SHD specific antibody was generated against a mixture of two peptides (Eurogentec): Human (aa6- 20: C+RTLEPARLRRPEAAG) and Mouse (aa620: C+RSVEPARLRRPDEAA).  
+"Commercial primary antibodies: EGFP (Roche; cat 11814460001: (mouse mAb IgG1k; mixture of clones 7.1 and 13.1)), Myc (9E10, Sigma), Abi1 (MBL, "
+"Clone 1B9, D1473), Scar/WAVE1 mAb (BD 612276), Arp3 (Cell Signaling 4738 or Abcam ab151289), Scar/WAVE2 rabbit mAb (D2C8, CST 3659), HSC70 (Santa Cruz sc7298)."
+Secondary antibodies: 
+"HRPanti-rabbit (7074S), HRPanti-mouse (7076S) (Cell Signaling Technology).  "
+"AlexaFluorPlus488-goat anti rabbit IgG (Invitrogen A32731), AlexaFluor488 goat anti mouse IgG (Invitrogen A11029), AlexaFluor568 goat anti mouse IgG (Invitrogen A11004), AlexaFluor568 goat anti rabbit IgG (Invitrogen A11036).  "
+Glutathione Stransferase (GST) and Streptag-II purification BL21(DE3)-RP bacteria (Stratagene) were transformed with a DNA construct of interest in heatshock treatment and colonies were grown on agar plates containing specific antibiotics.  
+"Single colonies were grown in LB medium, 200 ug/ml ampicillin, and 2% D- glucose until OD600 = 0.5."
+"Protein expression was induced by adding 0.1mM Isopropyl -d1 thiogalactopyranoside (IPTG) into the bacterial culture and incubated overnight at 18C. The culture was harvested at 8000 x g for 20 minutes at 4°C, resuspended in 10 ml icecold PBS with protease inhibitors (Roche tablets Mini without EDTA), and pulse sonicated on ice for 3 minutes at 15 Watts before it was centrifuged again at 18,000 x g for 20 minutes at 4°C."
+"The supernatant was incubated with Glutathione Sepharose™ 4 Fast Flow Media (GE Healthcare) or StreptactinXT (IBA Life Sciences, Germany) for 2 hours at 4°C, washed with cold PBS."
+Purity was assessed by a Coomassie staining of SDSPAGE gels.  
+"Cell cultures and transient transfection HEK293FT cells (Thermo Fisher Scientific R70007), B16F1 mouse melanoma cells (ATCC CRL6323), and the B16F1 NHSL1 knockout cell line25 were cultured in Dulbecco’s modified Eagle’s medium containing 1% penicillin/streptomycin, 2 mM Lglutamine and 10% fetal bovine serum (Gibco)."
+The B16F1 NHSL1 knockout cell line (clone 2) was generated and characterised as described previously by knocking in a stop codon into exon 2 common to all NHSL1 isoforms25.  
+HEK293FT cells were transiently transfected using PEI (Sigma 913375 or 408727: 2ug DNA in 100ul OptiMEM to 4ul 2mg/ml
+"PEI in 100ul OptiMEM, mixed, and incubated for 20 min at room temperature).  "
+"B16F1 cells were transfected with 37 bioRxiv preprint doi: https://doi.org/10.1101/2025.03.13.643034 this version posted March 13, 2025.  "
+"The copyright holder for this preprint (which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity."
+It is made available under a CCBY-NCND 4.0 International license XtremeGENE™ 360 transfection reagent (Roche) according to the manufacturer’s instructions and replaced with normal growth media after 4–6 hours.
+"For random migration and chemotaxis assays, B16F1 cells transfected with a bicistronic expression plasmid were selected with blasticidin for 48 hours before plating to ensure that all cells analysed were expressing the specific protein of interest."
+"All cells (B16F1, HEK 293FT) were maintained at 37°C in 10% CO2.  "
+"Immunoprecipitation, pulldown assay and Western blotting Cells were lysed with glutathione Stransferase (GST) buffer (50 mM TrisHCL, pH 7.4, 200 mM NaCl, 1% NP40, 2 mM MgCl2, 10% glycerol, 10 mM NaF, 1 mM Na3VO4, and complete mini tablets without EDTA (Roche))."
+"Lysates were incubated on ice for 15 minutes and centrifuged at 17,000 × g at 4°C for 10 minutes.  "
+Protein concentration was then determined using Precision Red Advanced Protein Assay (Cytoskeleton Inc.).  
+"For copulldown assays, the lysates were incubated with either GFPselector beads (Nano Tag Biotechnology) or Myctrap beads (Chromotek)."
+The beads were blocked with 1% BSA in GST buffer before incubating with lysates for 1–2 hours.  
+"Following this, the beads were washed in GST buffer three times before boiling in 1x gel sample buffer (5x sample buffer: 200 mM TrisHCl pH6.8, 5% w/v SDS, 25% v/v glycerol, 233 mM DTT, 0.075% (w/v) bromophenol blue) for 5 minutes.  "
+"The beads were separated on SDSPAGE gels (10x buffer: 250mM TrisBase,1.92M Glycine,1%(w/v) SDS) and transferred onto ImmobilonP membranes (EMD Millipore)."
+"Western blotting was performed by transferring at 100 V, 350 mA, 50 W for 1.5 hours before blocking in 5% (w/v) "
+"BSA or 5% (w/v) milk in 1X TBST (diluted from 10x TBST: 200 mM Tris (pH7.6), 1.54 M NaCl, 1% (v/v) Tween20) overnight.  "
+"The blots were then incubated with the indicated primary antibodies for 1 hour followed by HRP conjugated secondary antibodies (Cell Signalling Technology) for 1 hour at room temperature with three washes of TBST, TBST+0.5 M NaCl and TBST+0.5% (v/v) Triton X- 100 (TX100).  "
+Blots were developed with Clarity Western ECL Substrate (BioRad Laboratories) using a BioRad Imager and ImageLab software.  
+Blots were quantified using the ImageLab software by measuring pixel intensity of the desired protein bands and normalising them to their corresponding cell lysate pixel intensity.  
+"Livecell imaging and quantification of lamellipodial dynamics B16F1 cells were plated in DMEM, high glucose, 2 mM glutamine, no phenol red (Gibco) onto a 35 mm glassbottom µDish (Ibidi) coated with 25 µg/mL laminin (L2020, Sigma) or 10 µg/ml fibronectin (Sigma; F1141) 3–4 hours before imaging.  "
+"An IX81 microscope (Olympus) with a Solent Scientific incubation chamber, filter wheels (Sutter), an ASIXY stage, CascadeII 512B camera (Photometrics), and 4× UPlanFL 0.13, 10× UPlanFL 38 bioRxiv preprint doi: https://doi.org/10.1101/2025.03.13.643034 this version posted March 13, 2025.  "
+"The copyright holder for this preprint (which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity."
+"It is made available under a CCBY-NCND 4.0 International license 0.30, 60x"
+"PlanApochromat NA 1.45, or 100× UPlanApochromat S NA 1.4 objective lenses controlled by Meta Morph software was used for live imaging."
+"Images were taken every 10 seconds for 10 minutes at 100x or 160x magnifications using a 1.6x intermediate magnification lens (Olympus IX81), and equal exposure times were used for all cells imaged within the same condition for a given experiment.  "
+"Each movie was subjected to pre-processing using FIJI (ImageJ), which included denoising, background removal and normalised contrast enhancement."
+Denoising was carried out using the PureDenoise plugin from the Bioimaging Group (BIG) at EPFL (available from https://bigwww.epfl.ch/algorithms/denoise/) which implements a mixed PoissonGaussian noise model.
+Automatic global noise estimation was implemented with 10 cycle spins and 3 adjacent frames used to estimate each frame.
+"After processing, the movies were analysed using a MatLab script kindly provided by Andrew Jamieson and Gaudenz Danuser "
+"(UT Southwestern, USA) and available at: https://github.com/DanuserLab/WindowingProtrusion.  "
+The lamellipodial protrusion speed and lamellipodial stability (standard deviation of the lamellipodial speed) of randomly migrating B16F1 cells plated on laminin were quantified by automatically segmenting the cell outline in each frame of the movies and calculating protrusion vectors at each pixel along the cell edge.  
+The standard deviation of the lamellipodial speed shows the fluctuation of speeds along the edge and serves as a measure for the stability of lamellipodial protrusions.  
+"Random migration assay and quantification B16F1 cells were plated onto 25ug/ml laminincoated 4well µSlide (Ibidi) in DMEM, high glucose, no glutamine, no phenol red (Gibco, Thermo Fisher) for 2–3 hours before imaging for 16 hours every 5 minutes."
+"Cells were manually tracked by their nuclear position using the Manual Tracking plugin (FIJI), and the cell track coordinates were imported into (cid:0) (G.  Dunn, T. Mathematica for analysis using the Chemotaxis Analysis Notebook v1.6 Pallett, R. Marsh, King’s College London, UK).  "
+Speed measurements from tracking data are susceptible to positional error (due to manual tracking) 
+As well as biological noise (from cell morphology changes or nuclear repositioning).
+"To address the former, we estimated the positional error by tracking the same cell multiple times (each time blinded to the previous track) and then calculated the time interval (as an integer multiple of the frame interval) over which this error fell to at least 10% of the average displacement measurement (this value was 10 min, or 2 frames)."
+"Biological noise can be estimated from looking at the peak of the directionality ratio, which corresponded to approximately 20 min (or 4 frames)."
+"We selected the smallest multiple for which these conditions were met (i.e. 20 min) to avoid undersampling the instantaneous 39 bioRxiv preprint doi: https://doi.org/10.1101/2025.03.13.643034 this version posted March 13, 2025.  "
+"The copyright holder for this preprint (which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity."
+It is made available under a CCBY-NCND 4.0 International license path length.  
+Instantaneous cell speed is the displacement over the usable time interval; the Mean Track Speed (MTS) is then the average cell speed over the whole track length.  
+The directionality ratio over time and mean square displacement were calculated using Microsoft Excel macros provided in54 and were run according to the instructions provided.  
+The directionality ratio was normalised between 0 (corresponding to the expected directionality ratio for a pure random walk over that time interval) and 1 (corresponding to a straight line).  
+"The alpha values (which characterise the motion as described in the main text) are calculated from the gradient of the loglog transform of the MSD, determined in this case by fitting a straightline to the transformed data (from a time interval of 20 min up to 120 min) using (linear) unweighted leastsquares regression.  "
+"The lower interval of 20 min was chosen to match the interval used in the calculation of MTS, which avoids fitting the positional error and biological noise."
+The upper interval of 120 min was chosen conservatively to avoid fitting to longer time intervals for which the loglog plot deviates from a straight line.  
+"Microfluidics chemotaxis assay Microfluidics device preparation: The pattern for the chemotaxis chamber was fabricated on silicon wafers using a photolithography process by TE connectivity (microLiquid, Spain), and the silicon wafer was exposed to silane overnight."
+Polydimethylsiloxane (PDMS) made from SYLGARD™ 184 Silicone Elastomer Kit (Dow Corning) was then poured on the wafer and cured overnight at 37°C.  
+"Using forceps and a razor blade, individual PDMS devices were cut from the wafer and stored in a clean dish.  "
+Holes were punched with Rapid Core 0.75 (WellTech) to create ports on the inlets and outlets of the source and sink channels and the cell chamber.  
+"The devices were washed with 70% ethanol and blowdried, while a 35 mm µDish (Ibidi) was washed with deionised water and 70% ethanol and blowdried."
+Both the PDMS device and the dish were then exposed to oxygen plasma for 2 minutes.  
+The PDMS device was then immediately placed into contact with the dish bottom to ensure an irreversible bond was formed.  
+"Chemotaxis assay: B16F1 cells in DMEM, high glucose, HEPES, 2mM Glutamine, no phenol red (Gibco; 21063029) were loaded onto the cell chamber of the PDMS device using a gel loading pipette tip."
+"The outlet port of both source and sink channels were connected to an Eppendorf tube via a PEEK tubing (1579 Tube, Peek, NAT 1/32 x 0.0025 x 5FT, WO: 704609)"
+(IDEX Health and Sciences).
+"100 µl Hamilton glass syringes (81020,1710TLL 100 µl SYR) were connected to 27 ½ gauge needles connected to PEEK tubings.  "
+"The source syringe and tubing were filled with serumfree DMEM containing 100ng/mL hepatocyte growth factor (HGF) with 10µg/mL Dextran, Oregon Green™ 488 (Thermo Fisher Scientific) to visualise the chemotactic gradient."
+"The sink syringe and tubing were filled with serumfree 40 bioRxiv preprint doi: https://doi.org/10.1101/2025.03.13.643034 this version posted March 13, 2025.  "
+"The copyright holder for this preprint (which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity."
+It is made available under a CCBY-NCND 4.0 International license DMEM.  
+"The tubings were then inserted into the inlets of source and sink channels respectively, and the syringes were placed and secured on a World Precision Instruments Microfluidics Double syringe pump (NE4002X-BS) before turning the pump on at a flow rate of 20 nL/min"
+".  A stable chemotactic gradient was then visually confirmed after 1 hour by measuring the fluorescence intensity of the Oregon Green labelled dextran along a straight line, drawn from the top to bottom of the cell chamber in the Metamorph software.  "
+Directional migration acquisition and analysis: Chemotaxis assays were performed on an IX81 Olympus microscope (see above) at 10x magnification using MetaMorph imaging software.  
+Images were taken every 10 minutes for 16 hours.  
+Cells were manually tracked using the FIJI (ImageJ) software Manual Tracking plugin.  
+The tracks were then analysed using the ImageJ Chemotaxis and Migration Tool (Ibidi: https://ibidi.com/chemotaxis- analysis/171chemotaxis-andmigration-tool.html).
+Forward migration index in the direction of the chemotactic gradient (yFMI) and speed were extracted with this tool alongside rose diagrams to show the direction of cell migration.  
+Statistical analyses Sample data were tested for normal distribution by D’AgostinoPearson and Shapiro-
+Wilk normality tests.
+"Based on the normality test results, the sample size, variance equality, and reasonable expectation of a normal distribution, statistical analysis was performed in Prism v710 (GraphPad Software) using Student’s ttest, Oneway ANOVA or non-parametric Kruskal–Wallis test with appropriate corrections (e.g. Welch’s correction for unequal variance) and posthoc tests (see figure legends in each case).  "
+P values < 0.05 were considered significant.  
+Acknowledgments 
+"We thank Andrew Jamieson and Gaudenz Danuser (UT Southwestern, USA) for providing the Windowing MATLAB script and R. Marsh, King’s College London, UK for help with Mathematica.  "
+S.J. was supported by a Malaysian Public Service Department (PSD) studentship.  
+T.P. was supported by an Engineering and Physical Sciences Research Council (EPSRC) studentship.  
+"This work was supported by grants from the Biotechnology and Biological Science Research Council (BBSRC), UK (BB/N000226/1; BB/R015953/1) (M.K.)  And from the National Institute of Health (NIH), United States (R35 GM130312/GM/NIGMS) (J.B.).  "
+Declaration of interests: The authors declare no competing interests.  
+"41 bioRxiv preprint doi: https://doi.org/10.1101/2025.03.13.643034 this version posted March 13, 2025.  "
+"The copyright holder for this preprint (which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity."
+It is made available under a CCBY-NCND 4.0 International license Supplemental movie legends: Supplemental movie 1: EGFPcontrol does not localise lamellipodia 
+This movie shows that EGFP expressed as control together with LifeAct- mScarletI in B16F1 cells plated on laminin does not localise to the edge of protruding lamellipodia.  
+The LifeActmScarlet-I serves as a marker for Factin.  
+Representative movie shown from three independent biological repeats.  
+Cells were imaged every 10 seconds for the indicated times in minutes and seconds by widefield timelapse video microscopy using an IX 81 microscope (Olympus).
+Scale bar: 20 mm.  
+Supplemental movie 2: EGFPNHSL1-A1 localise to the edge of lamellipodia and vesicles This movie shows that EGFPNHSL1-A1WT expressed together with LifeAct- mScarletI in B16F1 cells plated on laminin localises to the edge of protruding lamellipodia and to vesicles.  
+The LifeActmScarlet-I serves as a marker for Factin.  
+Representative movie shown from three independent biological repeats.  
+Cells were imaged every 10 seconds for the indicated times in minutes and seconds by widefield timelapse video microscopy using an IX 81 microscope (Olympus).
+Scale bar: 20 mm.  
+Supplemental movie 3: EGFPNHSL1-A1 in addition localise to Factin-rich “aster” structures from which vesicles appear to bud off This movie shows that in around half of cells EGFPNHSL1-A1WT expressed together with LifeActmScarlet-I in B16F1 cells plated on laminin localises to Factin- rich “aster” structures from which vesicles appear to bud off in addition to its lamellipodia localisation .  
+The LifeActmScarlet-I serves as a marker for Factin.  
+Representative movie shown from three independent biological repeats.  
+Cells were imaged every 10 seconds for the indicated times in minutes and seconds by widefield timelapse video microscopy using an IX 81 microscope (Olympus).
+Scale bar: 20 mm.  
+Supplemental movie 4: EGFPNHSL1-A1SW-Mut localise weakly to lamellipodia and some vesicles but in addition to the tips of microspikes and filopodia This movie shows that EGFPNHSL1-A1SW-Mut expressed together with LifeActmScarlet-I in B16F1 cells plated on laminin localises weakly to the edge of lamellipodia and some vesicles.  
+"In addition, in contrast to NHSL1A1-WT, it also localises to the tips of miscrospikes and filopodia.  "
+The LifeActmScarlet-I serves as a marker for Factin.  
+Representative movie shown from three independent biological repeats.  
+"Cells were imaged every 10 seconds for the indicated times in minutes and 42 bioRxiv preprint doi: https://doi.org/10.1101/2025.03.13.643034 this version posted March 13, 2025.  "
+"The copyright holder for this preprint (which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity."
+It is made available under a CCBY-NCND 4.0 International license seconds by widefield timelapse video microscopy using an IX 81 microscope (Olympus).
+Scale bar: 20 mm.  
+"Supplemental movie 5: EGFPNHSL1-A- SHDSW-Mut localises to the cytoplasm and weakly to some vesicles This movie shows that EGFPNHSL1-A- SHDSW-Mut expressed together with LifeActmScarlet-I in B16F1 cells plated on laminin localises to the cytoplasm and weakly to some vesicles, but it does not localise to the edge of lamellipodia."
+The LifeAct- mScarletI serves as a marker for Factin.  
+Representative movie shown from three independent biological repeats.  
+Cells were imaged every 10 seconds for the indicated times in minutes and seconds by widefield timelapse video microscopy using an IX 81 microscope (Olympus).
+Scale bar: 20 mm.  
+Supplemental movie 6: EGFPNHSL1-A1WCA-DA localise to the edge of lamellipodia and vesicles This movie shows that EGFPNHSL1-A1WCA-DA expressed together with LifeActmScarlet-I in B16F1 cells plated on laminin localises to the edge of lamellipodia and in addition to Factin-rich “aster” structures from which vesicles appear to bud off in addition to its lamellipodia localisation.
+The LifeActmScarlet-I serves as a marker for F- actin.  
+Representative movie shown from three independent biological repeats.  
+Cells were imaged every 10 seconds for the indicated times in minutes and seconds by wide- field timelapse video microscopy using an IX 81 microscope (Olympus).
+Scale bar: 20 mm.  References: 1.  
+"Krause, M., and Gautreau, A. (2014)."
+Steering cell migration: lamellipodium dynamics and the regulation of directional persistence.
+Nat.
+Rev. Mol.
+"Cell Biol. 15, 577–590.  "
+10.1038/nrm3861.  
+"2.  SenGupta, S., Parent, C.A., and Bear, J.E. (2021)."
+The principles of directed cell migration.
+Nat.
+Rev. Mol.
+Cell Biol.
+10.1038/s41580021-003666.  
+3.  
+"Bieling, P., and Rottner, K. (2023)."
+From WRC to Arp2/3: Collective molecular mechanisms of branched actin network assembly.
+Curr.
+Opin.
+"Cell Biol. 80, 102156.  "
+10.1016/j.ceb.2023.102156.  
+4.  
+"Schaks, M., Giannone, G., and Rottner, K. (2019)."
+Actin dynamics in cell migration.  
+Essays Biochem.
+"63, 483–495."
+10.1042/EBC20190015.  
+"43 bioRxiv preprint doi: https://doi.org/10.1101/2025.03.13.643034 this version posted March 13, 2025.  "
+"The copyright holder for this preprint (which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity."
+It is made available under a CCBY-NCND 4.0 International license 5.  
+"Buracco, S., Claydon, S., and Insall, R. (2019)."
+Control of actin dynamics during cell motility
+[version 1; peer review: 3 approved].
+"F1000Research 8, 1–10.  "
+10.12688/f1000research.18669.1.  
+6.  
+"Lappalainen, P., Kotila, T., Jégou, A., and RometLemonne, G. (2022)."
+Biochemical and mechanical regulation of actin dynamics.
+Nat.
+Rev. Mol.
+Cell Biol.
+0123456789.  
+10.1038/s41580022-005084.  
+7.  
+"Campellone, K.G., and Welch, M.D. (2010)."
+A nucleator arms race: cellular control of actin assembly.
+"Nat Rev Mol Cell Biol 11, 237–251. nrm2867"
+[pii]10.1038/nrm2867.  
+8.  
+"Marchand, J.B., Kaiser, D.A., Pollard, T.D., and Higgs, H.N. (2001)."
+Interaction of WASP/Scar proteins with actin and vertebrate Arp2/3 complex.
+"Nat Cell Biol 3, 7682.  "
+9.  
+"Panchal, S.C., Kaiser, D.A., Torres, E., Pollard, T.D., and Rosen, M.K. (2003)."
+A conserved amphipathic helix in WASP/Scar proteins is essential for activation of Arp2/3 complex.
+Nat.
+Struct.
+Mol.
+Biol.
+"10, 591–598. 10.1038/nsb952.  "
+10.  
+"Cory, G.O.C., Cramer, R., Blanchoin, L., and Ridley, A.J. (2003)."
+Phosphorylation of the WASPVCA domain increases its affinity for the Arp2/3 complex and enhances actin polymerization by WASP.
+Mol.
+"Cell 11, 1229–1239."
+10.1016/S1097- 2765(03)001722.  
+11.  
+"Pocha, S.M., and Cory, G.O. (2009)."
+WAVE2 is regulated by multiple phosphorylation events within its VCA domain.
+Cell Motil.
+"Cytoskeleton 66, 36–47. 10.1002/cm.20323.  12.  "
+"Ura, S., Pollitt, A.Y., Veltman, D.M., Morrice, N.A., MacHesky, L.M., and Insall, R.H. (2012)."
+Pseudopod growth and evolution during cell movement is controlled through SCAR/WAVE dephosphorylation.
+Curr.
+Biol.
+"22, 553–561."
+10.1016/j.cub.2012.02.020.  
+13.  
+"Lebensohn, A.M., and Kirschner, M.W. (2009)."
+Activation of the WAVE Complex by Coincident Signals Controls Actin Assembly.
+Mol.
+"Cell 36, 512–524.  10.1016/j.molcel.2009.10.024.  14.  "
+"Chen, Z., Borek, D., Padrick, S.B., Gomez, T.S., Metlagel, Z., Ismail, A.M., Umetani, J., Billadeau, D.D., Otwinowski, Z., and Rosen, M.K. (2010)."
+Structure and control of the actin regulatory WAVE complex.
+"Nature 468, 533–538."
+nature09623 [pii] 10.1038/nature09623.  
+15.  
+"Schaks, M., Singh, S.P., Kage, F., Thomason, P., Klünemann, T., Steffen, A., Blankenfeldt, W., Stradal, T.E., Insall, R.H., and Rottner, K. (2018)."
+Distinct Interaction Sites of Rac GTPase with WAVE Regulatory Complex Have Nonredundant Functions in Vivo.
+Curr.
+"Biol., 3674–3684."
+10.1016/J.CUB.2018.10.002.  
+16.  
+"Chen, B., Chou, H., Brautigam, C.A., Xing, W., Yang, S., Henry, L., Doolittle, L.K., Walz, T., and Rosen, M.K. (2017)."
+Rac1 GTPase activates the WAVE regulatory complex through two distinct binding sites.
+"Elife 6, 1–22. 10.7554/eLife.29795.  "
+17.  
+"Swaney, K.F., and Li, R. (2016)."
+"Function and regulation of the Arp2/3 complex during 44 bioRxiv preprint doi: https://doi.org/10.1101/2025.03.13.643034 this version posted March 13, 2025.  "
+"The copyright holder for this preprint (which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity."
+It is made available under a CCBY-NCND 4.0 International license cell migration in diverse environments.
+Curr.
+Opin.
+Cell Biol.
+"42, 63–72.  "
+10.1016/j.ceb.2016.04.005.  18.  
+"Walpole, I.R., Hockey, A., and Nicoll, A. (1990)."
+The NanceHoran syndrome.
+"J Med Genet 27, 632–634.  19.  "
+"Brooks, S.P., Ebenezer, N.D., Poopalasundaram, S., Lehmann, O.J., Moore, A.T., and Hardcastle, A.J. (2004)."
+Identification of the gene for NanceHoran syndrome (NHS).
+J. Med.
+Genet.
+"41, 768–771. 10.1136/jmg.2004.022517.  "
+20.  
+"Burdon, K.P., McKay, J.D., Sale, M.M., RussellEggitt, I.M., Mackey, D.A., Wirth, M.G., Elder, J.E., Nicoll, A., Clarke, M.P., FitzGerald, L.M., et al. (2003)."
+"Mutations in a novel gene, NHS, cause the pleiotropic effects of NanceHoran syndrome, including severe congenital cataract, dental anomalies, and mental retardation."
+"Am J Hum Genet 73, 1120–1130.  "
+21.  
+"Brooks, S.P., Coccia, M., Tang, H.R., Kanuga, N., Machesky, L.M., Bailly, M., Cheetham, M.E., and Hardcastle, A.J. (2010)."
+The NanceHoran syndrome protein encodes a functional WAVE homology domain (WHD) and is important for co-ordinating actin remodelling and maintaining cell morphology.
+"Hum Mol Genet 19, 2421–2432."
+ddq125 [pii] 10.1093/hmg/ddq125.  
+22.  
+"Liu, Y.-Z., Yang, H., Cao, J., Jiang, Y.-Y., Hao, J.-J., Xu, X., Cai, Y., and Wang, M.-R.  (2016)."
+KIAA1522 is a novel prognostic biomarker in patients with nonsmall cell lung cancer.
+Sci.
+"Rep. 6, 24786."
+10.1038/srep24786.  
+23.  
+"He, C., Guo, J., Tian, W., and Wong, C.C.L.L. (2021)."
+Proteogenomics Integrating Novel Junction Peptide Identification Strategy Discovers Three Novel Protein Isoforms of Human NHSL1 and EEF1B2.
+J. Proteome Res. 10.1021/acs.jproteome.1c00373.  
+24.  
+"Wang, Y., Chiappetta, G., Guérois, R., Liu, Y., Romero, S., Boesch, D.J., Krause, M., Dessalles, C.A., Babataheri, A., Barakat, A.I., et al. (2023)."
+PPP2R1A regulates migration persistence through the NHSL1containing WAVE Shell Complex.
+Nat.  
+Commun.
+"14, 3541."
+10.1038/s41467023-39276w.  
+25.  
+"Law, A.-L., Jalal, S., Pallett, T., Mosis, F., Guni, A., Brayford, S., Yolland, L., Marcotti, S., Levitt, J.A., Poland, S.P., et al. (2021)."
+NanceHoran Syndromelike 1 protein negatively regulates Scar/WAVEArp2/3 activity and inhibits lamellipodia stability and cell migration.
+Nat.
+Commun.
+"12, 5687."
+10.1038/s41467021-259166.  
+26.  
+"DamianoGuercio, J., Kurzawa, L., Mueller, J., Dimchev, G., Schaks, M., Nemethova, M., Pokrant, T., Brühmann, S., Linkner, J., Blanchoin, L., et al. (2020)."
+"Loss of ENA/VASP interferes with lamellipodium architecture, motility and integrindependent adhesion."
+"Elife 9, 1–31."
+10.7554/eLife.55351.  
+27.  
+"Kage, F., Winterhoff, M., Dimchev, V., Mueller, J., Thalheim, T., Freise, A., Brühmann, S., Kollasser, J., Block, J., Dimchev, G., et al. (2017)."
+"FMNL formins boost 45 bioRxiv preprint doi: https://doi.org/10.1101/2025.03.13.643034 this version posted March 13, 2025.  "
+"The copyright holder for this preprint (which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity."
+It is made available under a CCBY-NCND 4.0 International license lamellipodial force generation.
+Nat.
+Commun.
+"8, 14832."
+10.1038/ncomms14832.  
+28.  
+"Buracco, S., Döring, H., Engelbart, S., Singh, S.P., Paschke, P., Whitelaw, J., Thomason, P.A., Paul, N.R., Tweedy, L., Lilla, S., et al. (2024)."
+Scar/WAVE drives actin protrusions independently of its VCA domain using prolinerich domains.
+Curr.  
+Biol.
+"34, 4436–4451."
+10.1016/j.cub.2024.08.013.  
+29.  
+"Rottner, K., and Schaks, M. (2019)."
+Assembling actin filaments for protrusion.
+Curr.  
+Opin.
+Cell Biol.
+"56, 53–63."
+10.1016/j.ceb.2018.09.004.  
+30.  
+"Welch, M.D., Rosenblatt, J., Skoble, J., Portnoy, D.A., and Mitchison, T.J. (1998).  "
+Interaction of human Arp2/3 complex and the Listeria monocytognes ActA protein in actin filament nucleation.
+Science (80-. .
+"281, 105–108.  "
+10.1126/science.281.5373.105.  
+31.  
+"Skoble, J., Portnoy, D.A., and Welch, M.D. (2000)."
+Three regions within ActA promote Arp2/3 complexmediated actin nucleation and Listeria monocytogenes motility.
+"J Cell Biol 150, 52738.  "
+32.  
+"Pistor, S., Grobe, L., Sechi, A.S., Domann, E., Gerstel, B., Machesky, L.M., Chakraborty, T., and Wehland, J. (2000)."
+Mutations of arginine residues within the 146KKRRK-150 motif of the ActA protein of Listeria monocytogenes abolish intracellular motility by interfering with the recruitment of the Arp2/3 complex.
+"J Cell Sci 113, 327787.  "
+33.  
+"May, R.C., Hall, M.E., Higgs, H.N., Pollard, T.D., Chakraborty, T., Wehland, J., Machesky, L.M., and Sechi, A.S. (1999)."
+The Arp2/3 complex is essential for the actinbased motility of Listeria monocytogenes.
+"Curr Biol 9, 759–762.  "
+34.  
+"Ura, S., Pollitt, A.Y., Veltman, D.M., Morrice, N.A., MacHesky, L.M., and Insall, R.H. (2012)."
+Suppl to: Pseudopod growth and evolution during cell movement is controlled through SCAR/WAVE dephosphorylation.
+Curr.
+Biol.
+"22, 553–561.  "
+10.1016/j.cub.2012.02.020.  
+35.  
+"Chong, R., Swiss, R., Briones, G., Stone, K.L., Gulcicek, E.E., and Agaisse, H. (2009)."
+Regulatory Mimicry in Listeria monocytogenes ActinBased Motility.
+"Cell Host Microbe 6, 268–278."
+10.1016/j.chom.2009.08.006.  
+36.  
+"Chong, R., Squires, R., Swiss, R., and Agaisse, H. (2011)."
+Rnai screen reveals host cell kinases specifically involved in listeria monocytogenes spread from cell to cell.  
+PLoS
+One 6. 10.1371/journal.pone.0023399.  
+37.  
+"Hornbeck, P. V., Zhang, B., Murray, B., Kornhauser, J.M., Latham, V., and Skrzypek, E. (2015)."
+"PhosphoSitePlus, 2014: Mutations, PTMs and recalibrations."
+"Nucleic Acids Res. 43, D512–D520."
+10.1093/nar/gku1267.  
+38.  
+"Dieterich, P., Klages, R., Preuss, R., and Schwab, A. (2008)."
+Anomalous dynamics of cell migration.
+Proc.
+Natl.
+Acad.
+Sci.
+"U. S. A. 105, 459–463.  "
+"46 bioRxiv preprint doi: https://doi.org/10.1101/2025.03.13.643034 this version posted March 13, 2025.  "
+"The copyright holder for this preprint (which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity."
+It is made available under a CCBY-NCND 4.0 International license 10.1073/pnas.0707603105.  39.  
+"Loosley, A.J., O’Brien, X.M., Reichner, J.S., and Tang, J.X. (2015)."
+Describing directional cell migration with a characteristic directionality time.
+PLoS
+"One 10, 1–18.  10.1371/journal.pone.0127425.  40.  "
+"Wu, C., Asokan, S.B., Berginski, M.E., Haynes, E.M., Sharpless, N.E., Griffith, J.D., Gomez, S.M., and Bear, J.E. (2012)."
+Arp2/3 is critical for lamellipodia and response to extracellular matrix cues but is dispensable for chemotaxis.
+"Cell 148, 973–987.  "
+10.1016/j.cell.2011.12.034.  
+41.  
+"Steffen, A., Rottner, K., Ehinger, J., Innocenti, M., Scita, G., Wehland, J., and Stradal, T.E. (2004)."
+Sra1 and Nap1 link Rac to actin assembly driving lamellipodia formation.  
+"Embo J 23, 749–759.  "
+42.  
+"Whitelaw, J.A., Swaminathan, K., Kage, F., and Machesky, L.M. (2020)."
+The WAVE Regulatory Complex Is Required to Balance Protrusion and Adhesion in Migration.  
+"Cells 9, 1635."
+10.3390/cells9071635.  43.  
+"Swaminathan, K., Campbell, A., Papalazarou, V., JaberHijazi, F., Nixon, C., McGhee, E., Strathdee, D., Sansom, O.J., and Machesky, L.M. (2020)."
+The RAC1 target NCKAP1 plays a crucial role in progression of BRAF/PTEN -driven melanoma in mice.
+J. Invest.
+"Dermatol., 106192."
+10.1016/j.jid.2020.06.029.  
+44.  
+"Weiner, O.D., Rentel, M.C., Ott, A., Brown, G.E., Jedrychowski, M., Yaffe, M.B., Gygi, S.P., Cantley, L.C., Bourne, H.R., and Kirschner, M.W. (2006)."
+"Hem1 complexes are essential for Rac activation, actin polymerization, and myosin regulation during neutrophil chemotaxis."
+"PLoS Biol 4, e38."
+05PLBI-RA0515R3 [pii]10.1371/journal.pbio.0040038.  45.  
+"Polesskaya, A., Boutillon, A., Yang, S., Wang, Y., Romero, S., Molinie, N., Rocques, N., Fokin, A., Guérois, R., Bièche, I., et al. (2021)."
+CYFIP2containing WAVE complexes inhibit cell migration by a competition mechanism 2021.
+bioRxiv.  
+10.1101/2020.07.02.184655v2.  
+46.  
+"Kage, F., Döring, H., Mietkowska, M., Schaks, M., Grüner, F., Stahnke, S., Steffen, A., Müsken, M., Stradal, T.E.B., and Rottner, K. (2022)."
+Lamellipodialike actin networks in cells lacking WAVE regulatory complex.
+J. Cell Sci. 135.  10.1242/jcs.260364.  47.  
+"Dobson, L., Barrell, W.B., Seraj, Z., Lynham, S., Wu, S., Krause, M., and Liu, K.J. (2023)."
+GSK3 and lamellipodin balance lamellipodial protrusions and focal adhesion maturation in mouse neural crest migration.
+"Cell Rep. 42, 113030.  "
+10.1016/j.celrep.2023.113030.  
+48.  
+"Padrick, S.B., Doolittle, L.K., Brautigam, C.A., King, D.S., and Rosen, M.K. (2011).  "
+Arp2/3 complex is bound and activated by two WASP proteins.
+Proc.
+Natl.
+Acad.
+"Sci.  47 bioRxiv preprint doi: https://doi.org/10.1101/2025.03.13.643034 this version posted March 13, 2025.  "
+"The copyright holder for this preprint (which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity."
+"It is made available under a CCBY-NCND 4.0 International license U. S. A. 108, 472–479."
+10.1073/pnas.1100236108.  49.  
+"Zimmet, A., Van Eeuwen, T., Boczkowska, M., Rebowski, G., Murakami, K., and Dominguez, R. (2020)."
+CryoEM structure of NPFbound human Arp2/3 complex and activation mechanism.
+Sci.
+"Adv. 6, eaaz7651. 10.1126/sciadv.aaz7651.  "
+50.  
+"Escot, S., Mellottee, L., David, N.B., Polytechnique, E., and Paris, P. De (2024).  "
+NanceHoran-Syndromelike 1b controls mesodermal cell migration by regulating protrusion and actin dynamics during zebrafish.
+1–32.  
+51.  
+"Cope, J.F.W., Law, A.-L., Juma, S., and Krause, M. (2024)."
+NanceHoran Syndrome-
+Like 1 interacts with endophilin and Ena/VASP proteins to promote fast endophilin- mediated endocytosis.
+bioRixv.
+10.1101/2024.10.23.619882.  
+52.  
+"Walsh, G.S., Grant, P.K., Morgan, J. a, and Moens, C.B. (2011)."
+Planar polarity pathway and NanceHoran syndromelike 1b have essential cellautonomous functions in neuronal migration.
+"Development 138, 3033–3042. 10.1242/dev.063842.  53.  "
+"Wu, C., Haynes, E.M., Asokan, S.B., Simon, J.M., Sharpless, N.E., Baldwin, A.S., Davis, I.J., Johnson, G.L., and Bear, J.E. (2013)."
+"Loss of Arp2/3 induces an NF- B- dependent, nonautonomous effect on chemotactic signaling."
+J. Cell Biol.
+"203, 907– 916."
+10.1083/jcb.201306032.  
+54.  
+"Gorelik, R., and Gautreau, A. (2014)."
+Quantitative and unbiased analysis of directional persistence in cell migration.
+Nat.
+Protoc.
+"9, 1931–1943. 10.1038/nprot.2014.131.  "
+55.  
+"Zhang, C., Zheng, W., Mortuza, S.M., Li, Y., and Zhang, Y. (2020)."
+DeepMSA: Constructing deep multiple sequence alignment to improve contact prediction and foldrecognition for distanthomology proteins.
+"Bioinformatics 36, 2105–2112.  10.1093/bioinformatics/btz863.  "
+48
