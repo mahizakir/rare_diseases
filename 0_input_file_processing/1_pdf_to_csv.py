@@ -212,10 +212,18 @@ def process_pdfs(pdf_folder_path, disease_name):
 
             output_file = os.path.join(output_directory, pdf_name + ".csv")
             
+            # with open(output_file, "w", newline="") as csvfile:
+            #     writer = csv.writer(csvfile, escapechar='\\')
+            #     for s in list_processed_sentences:
+            #         writer.writerow([s])
             with open(output_file, "w", newline="") as csvfile:
                 writer = csv.writer(csvfile, escapechar='\\')
-                for s in list_processed_sentences:
-                    writer.writerow([s])
+                # Group sentences in chunks of 3
+                for i in range(0, len(list_processed_sentences), 3):
+                    chunk = list_processed_sentences[i:i+3]
+                    combined = " ".join(chunk)
+                    writer.writerow([combined])
+
 
             print(f"Processed: {pdf_file}")
 
@@ -223,8 +231,8 @@ def process_pdfs(pdf_folder_path, disease_name):
             print(f"Failed to process {pdf_file}: {e}")
             continue  # Ensure the loop continues even if an error occurs
 
-# disease = "pachydermoperiostosis" "Endocrine-cerebro-osteodysplasia syndrome" "Mabry syndrome" "Zimmermann-Laband syndrome"
-disease = "Bilateral adrenal hemorrhage" #"Nelson syndrome"#"Nance-Horan syndrome" #"Adenine phosphoribosyltransferase deficiency" #"Acral persistent papular mucinosis" #"Zimmermann-Laband syndrome"
+disease = #"Zimmermann-Laband syndrome"#"Adenine phosphoribosyltransferase deficiency"# "pachydermoperiostosis" #"Endocrine-cerebro-osteodysplasia syndrome" "Mabry syndrome" "Zimmermann-Laband syndrome"
+#disease = #"Endocrine-cerebro-osteodysplasia syndrome" #"Nance-Horan syndrome" #"GNE myopathy" #"Mabry syndrome" #"Bilateral adrenal hemorrhage" #"Nelson syndrome"#"Nance-Horan syndrome" #"Adenine phosphoribosyltransferase deficiency" #"Acral persistent papular mucinosis" #"Zimmermann-Laband syndrome"
 pdf_folder = f"../data/{disease}/{disease}_pdfs"
 process_pdfs(pdf_folder, disease)
 

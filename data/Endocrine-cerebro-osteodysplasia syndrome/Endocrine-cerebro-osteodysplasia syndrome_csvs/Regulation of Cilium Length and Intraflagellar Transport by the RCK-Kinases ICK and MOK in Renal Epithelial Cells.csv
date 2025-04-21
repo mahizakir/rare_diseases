@@ -1,277 +1,93 @@
-"Regulation of Cilium Length and Intraflagellar Transport by the RCKKinases ICK and MOK in Renal Epithelial Cells Joost R. Broekhuis1, Kristen J. Verhey2, Gert Jansen1* 1 Department of Cell Biology, Erasmus MC, Rotterdam, the Netherlands, 2 Department of Cell and Developmental Biology, University of Michigan Medical School, Ann Arbor, Michigan, United States of America Abstract Primary cilia are important sensory organelles."
-"They exist in a wide variety of lengths, which could reflect different cellspecific functions."
-"How cilium length is regulated is unclear, but it probably involves intraflagellar transport (IFT), which transports protein complexes along the ciliary axoneme."
-"Studies in various organisms have identified the small, conserved family of roscross hybridizing kinases (RCK) as regulators of cilium length."
-"Here we show that Intestinal Cell Kinase (ICK) and MAPK/MAK/MRK overlapping kinase (MOK), two members of this family, localize to cilia of mouse renal epithelial (IMCD3) cells and negatively regulate cilium length."
-"To analyze the effects of ICK and MOK on the IFT machinery, we set up live imaging of five fluorescently tagged IFT proteins: KIF3B, a subunit of kinesinII, the main anterograde IFT motor, complex A protein IFT43, complex B protein IFT20, BBSome protein BBS8 and homodimeric kinesin KIF17, whose function in mammalian cilia is unclear."
-"Interestingly, all five proteins moved at, 0.45 mm/s in anterograde and retrograde direction, suggesting they are all transported by the same machinery."
-"Moreover, GFP tagged ICK and MOK moved at similar velocities as the IFT proteins, suggesting they are part of, or transported by the IFT machinery."
-"Indeed, loss- or gainof-function of ICK affected IFT speeds: knockdown increased anterograde velocities, whereas overexpression reduced retrograde speed."
-"In contrast, MOK knockdown or overexpression did not affect IFT speeds."
-"Finally, we found that the effects of ICK or MOK knockdown on cilium length and IFT are suppressed by rapamycin treatment, suggesting that these effects require the mTORC1 pathway."
-Our results confirm the importance of RCK kinases as regulators of cilium length and IFT.
-"However, whereas some of our results suggest a direct correlation between cilium length and IFT speed, other results indicate that cilium length can be modulated independent of IFT speed."
-"Citation: Broekhuis JR, Verhey KJ, Jansen G (2014)"
-Regulation of Cilium Length and Intraflagellar Transport by the RCKKinases ICK and MOK in Renal Epithelial Cells.
-PLoS
-ONE 9(9): e108470.
-"Doi:10.1371/journal.pone.0108470 Editor: Knut Stieger, JustusLiebig-University Giessen, Germany Received May 28, 2014; Accepted August 25, 2014;"
-"Published September 22, 2014, This is an openaccess article, free of all copyright, and may be freely reproduced, distributed, transmitted, modified, built upon, or otherwise used by anyone for any lawful purpose."
-The work is made available under the Creative Commons CC0 public domain dedication.
-Data Availability: The authors confirm that all data underlying the findings are fully available without restriction.
-All relevant data are within the paper and its Supporting Information files.
-Funding:
-"This work was funded by the Dutch Kidney Foundation (http://www.nierstichting.nl, C06.2199 to GJ) and the National Institutes of Health (http://www. nih.gov, RO1 GM070862 to KJV)."
-"The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript."
-Competing Interests: The authors have declared that no competing interests exist.
-*
-Email: g.jansen@erasmusmc.nl
-"Introduction Primary cilia are microtubulebased protrusions that can be found on the surface of almost all vertebrate cells, and function as sensory organelles."
-"Defects in cilia function, structure or length have been associated with many genetic diseases, collectively called ciliopathies."
-"The assembly and maintenance of primary cilia depends on intraflagellar transport (IFT), a microtubulebased transport system that involves kinesin motor proteins (kinesinII and KIF17/OSM3) which mediate anterograde transport (to the tip of the cilium), dynein motor complexes (cytoplasmic dynein 2), which mediate retrograde transport (back to the cell body), and adaptor complexes (complex A, complex B, and the BBSome)."
-"A wide variety in cilia lengths and morphologies exist, most likely to better support cilium function in specific tissues."
-"Although several signaling molecules have been shown to modulate cilium length, how this is achieved mechanistically is not understood."
-"The most plausible explanation is provided by the balance point model, in which cilium length is determined by a balance between cilium assembly and disassembly rates."
-"The assembly rate is dependent on the availability of axonemal tubulin and other structural components, supplemented by anterograde IFT and probably the pool of these proteins at the base of the cilium."
-In both anterograde and retrograde IFT are accompanied by changes in cilium length.
-"How cilium disassembly is regulated is unclear, since it seems independent of retrograde IFT."
-"Indeed, changes The family of ros crosshybridizing kinases (RCKs) is characterized by a MAP kinaselike ThrXaa-Tyr (TXY) motif in their activation loop, and an overall structure similar to CDKs."
-"In Chlamydomonas (lf4), Leishmania (LmxMPK9), C. elegans (dyf5), and mouse (Mak and Ick) RCKs have been identified that negatively regulate cilium length."
-Emerging evidence suggests that regulation of cilium length may be manifest by RCKinduced changes in IFT.
-"In C. elegans, dyf5 lossof-function abolishes the coordination between the anterograde motors kinesinII and OSM3, such that the IFT complex travels with kinesinII."
-"In addition, kinesinII can move into the distal segment in dyf5 mutant animals."
-A more direct correlation between a change in IFT and cilium length was observed in recent studies in Chlamydomonas where lf4 lossof-function cells displayed an increased injection of IFT particles which correlates with increased PLOS ONE | www.plosone.org
-September 2014
-"| Volume 9 | Issue 9 | e108470 flagellar assembly and length, and in mice where ICK was found to phosphorylate the kinesinII subunit KIF3A and deletion of Ick affected the localization of IFT proteins in cilia."
-"In mammals, the RCK family contains three members: MAK or RCK (male germ cellassociated kinase, ros crosshybridizing kinase), ICK or MRK (intestinal cell kinase, MAKrelated kinase) and RAGE, MOK or STK30 (renal tumor antigen, MAPK/ MAK/MRK overlapping kinase, serine threonine kinase 30)."
-MAK localizes to the connecting cilium and outersegment axoneme in photoreceptor cells.
-"In retina of Mak knockout mice cilia are elongated, IFT markers mislocalized, and photoreceptors degenerate over time."
-"In line with these observations, mutations in MAK have been found in patients with Retinitis Pigmentosa."
-"Recently, it was shown that ICK localizes to primary cilia, inhibits ciliogenesis and regulates cilium length."
-"Ick, knockout mice show multiple developmental defects, correlating with ciliary and Shh signaling defects."
-"ICK, has been associated with endocrinecerebro-osteodysplasia (ECO), a lethal recessive disorder with ciliopathylike symptoms We set out to investigate the roles of RCK kinases in regulating cilium length in renal epithelial cells."
-"We found that mouse inner medullary collecting duct cells (IMCD3) express two of the three RCKs, ICK and MOK, which localize to cilia and negatively regulate cilium length."
-"To analyze the effects of ICK and MOK on the IFT machinery, we set up live imaging of five fluorescently tagged IFT proteins: kinesinII subunit KIF3B, complex A protein IFT43, complex B protein IFT20, BBSome protein BBS8 and kinesin KIF17."
-"All five proteins moved at, 0.45 mm/s in anterograde and retrograde direction, suggesting they are all transported by the same machinery."
-"GFP tagged ICK and MOK also moved at approximately 0.45 mm/ s, suggesting they are part of, or transported by the IFT machinery."
-"Interestingly, whereas loss- or gainof-function of ICK affected IFT speeds, MOK knockdown or overexpression did not."
-"Finally, we found that the effects of ICK or MOK knockdown on cilium length and IFT depend on mTORC1 signaling."
-"Regulation of Cilium Length and IFT by ICK and MOK Materials and Methods Cell culture and transfections IMCD3 cells (CRL2123, ATCC) were grown in DMEM/ F10 medium supplemented with 10% FCS, penicillin (100 U/ ml) and streptomycin (100 mg/ml)."
-"For transient transfections IMCD3 cells, at 60% confluency, were transfected with FuGENE 6 (Roche), and serum starved for 48 hours to induce ciliogenesis."
-"To generate clonal IMCD3 cell lines, cells were transfected with linearized constructs."
-"After 48 hours, G418 (500 mg/ml) was used to select transfected cells."
-"After two weeks, viable GFPpositive cells were selected on a FACS Aria II cell sorter (BectonDickinson)."
-Individual cells were seeded in a 96well plate and cultured to confirm the GFPconstruct expression levels and subcellular localization by fluorescence microscopy.
-"Constructs IFT43YFP was a gift from Heleen Arts, and IFT20GFP was a gift from Greg Pazour."
-"GFPICK was generated by PCR amplification of the ICK open reading frame (ORF) from mouse ICK cDNA clone (IMAGE 4224269) and subcloning into Clontech pEGFPC1, using EcoRI and KpnI restriction sites engineered into the PCR primers."
-GFPMOK was generated by amplification of the MOK ORF from mouse MOK cDNA clone (a gift from Yoshihiko Miyata) and subcloning into pEGFPC1 using SalI and SacII.
-"Kinasedead GFPICK and MOK were generated using sitedirected mutagenesis to change Lys 33 and 35, respectively, to Meet."
-GFPBBS8 was generated by amplification of the BBS8 ORF from mouse BBS8 cDNA clone (IMAGE 4527657) and subcloning into pEGFPC1 using KpnI and ApaI. CFPcentrin-2 was generated by amplification of the centrin2 ORF from IMCD3 cDNA and subcloning into pECFPN1 using KpnI and BamHI.
-The coding sequence of mouse KIF3B (IMAGE clone 8862410) was subcloned into the pmCitC1 vector (equivalent to pEGFPC1 except that EGFP was replaced by mCitrine) using XhoI and EcoRI restriction sites.
-All constructs were confirmed by sequencing.
-"The mCitKIF3B construct contained a single mutation (Val 34 to Ala) which does not change the motility of KIF3B (KJV, unpublished)."
-KIF17mCit has been described previously.
-ICKsh #01 (target sequence: Figure 1.
-"ICK, and MOK localize to the primary cilium."
-"IMCD3 cells expressing (A) GFPICK and CFPcentrin-2, or (B) GFPMOK and CFPcentrin- 2, serumstarved for 48 hours and immunostained for acetylated tubulin (acTub)."
-Insets show enlargements of the region containing the cilium.
-Scale bars 10 mm. doi:10.1371/journal.pone.0108470.g001 PLOS ONE | www.plosone.org
-September 2014
-"| Volume 9 | Issue 9 | e108470 Regulation of Cilium Length and IFT by ICK and MOK ICK (Gift from Zheng Fu; Western blot (WB), 1:500), rabbit polyclonal antiMOK (Cosmo Bio Co., Ltd.; WB, 1:1,000), and antibodies: antiactin (Millipore; WB, 1:5,000)."
-"Secondary alexa594conjugated antimouse (Invitrogen; IF, 1:1,000), HRPconjugated antirabbit (Dako; WB, 1:5,000), and HRPconjugated antimouse (Amersham; WB, 1:10,000)."
-"Immunofluorescence and microscopy IMCD3 cells were fixed with 4% PFA, permeabilized with 0.15% Triton X100 in PBS, and blocked with blocking buffer (1% BSA and 0.05% Tween20 in 1x PBS) for 45 minutes at room temperature (RT)."
-"Cells were incubated with primary antibodies (in blocking buffer) for 1 hour at RT, and washed three times with PBS tween (0.05% Tween20 in 1x PBS)."
-"Cells were incubated with fluorescentconjugated secondary antibodies (in blocking buffer) for 45 minutes at RT, and washed three times with PBS tween."
-After the washing steps the cells were washed with 70% ethanol for 1 minute and 100% ethanol for 1 minute.
-"The samples were airdried and mounted on a microscope slide with mounting solution (20 mM Tris HCl pH 8, 0.2 M DABCO, 90% glycerol)."
-Subcellular localization studies and cilia length measurements were performed using a Zeiss Imager Z1 microscope with a 63x (NA 1.4) objective.
-"IFT speed measurements Clonal IMCD3 cells stably expressing mCitKIF3B, IFT43YFP, GFPBBS8, IFT20GFP, KIF17mCit, GFPICK or GFPMOK were grown on 18 mm cover slips."
-Prior to analysis glass slides were inversed onto a 24 mm cover slip and placed in a livecell imaging chamber.
-"Timelapse movies were acquired on a spinningdisc microscope (CSUX1-A1; Yokogawa) equipped with 10061.49 NA oil objective (Nikon) and an EMCCD camera (QuantEM 512SC; Roper Scientific), installed on an inverted research microscope (Eclipse TiE; Nikon), and controlled with MetaMorph 7.5 software (Molecular Devices)."
-"To determine the IFT particles’ velocities, kymographs were generated in ImageJ with the Kymograph plugin, written by J. Rietdorf."
-"Retroviral expression Thirdgeneration lentiviruses were packaged in HEK293T cells by transient cotransfection, with Lipofectamine 2000 (Invitrogen), of pMDg/RRE, pRSVREV, pMD.9, and pLKO.1puro containing nontarget control shRNA, ICKsh #01, ICKsh #02, MOKsh #01, or MOKsh #02."
-IMCD3 cells growing at 40% confluency were transduced with lentiviruses.
-"Fortyeight hours after transduction, cells were serumstarved for 48 hours in the presence of 5 mg/ml puromycin and harvested for protein extraction or used for microscopy."
-"Western Blot Analysis IMCD3 cells were harvested in lysis buffer (50 mM Tris pH 6.8, 5 mM EDTA, 5% glycerol, 2% SDS, 1% bmercapto- ethanol, and Protease Inhibitor Cocktail (Roche))."
-"Lysates were centrifuged at 13,200 rpm for 1 minute at 4uC."
-"Supernatants were collected, and 1x Laemmli loading buffer was added."
-Protein samples were separated using SDSPAGE and transferred to a nitrocellulose transfer membrane (Whatman).
-"Membranes were probed with primary antibodies, washed three times with PBST (0.25% Tween20 in 1x PBS), probed with HRPconjugated secondary antibodies, washed three times with PBST, and exposed to chemiluminescence reagent (Amersham)."
-Chemiluminescence was detected with Alliance 2.7 (UVItec).
-"Figure 2. ICK, and MOK control cilium length."
-(A) Immunoblot of cell lysates of IMCD3 cells transduced with shRNA constructs targeting ICK and MOK.
-Actin was used as loading control.
-(B) Average length of primary cilia of IMCD3 cells depleted of ICK.
-(C) Average length of primary cilia of IMCD3 cells depleted of MOK.
-"(D) Average length of primary cilia of IMCD3 cells depleted of ICK and MOK, combining ICKsh #01 and MOKsh #01 or ICKsh #02 and MOKsh #02."
-"(E) Immunofluorescence images of IMCD3 cells expressing control shRNA, ICKsh #01, or MOKsh #01 stained with antiacetylated tubulin."
-Scale bar 10 mm.
-"(F) Average length of primary cilia of IMCD3 cells overexpressing GFPC1, wild type (wt) or kinasedead (kd) GFPICK, or GFPMOK."
-"(G) Immunofluorescence images of IMCD3 cells expressing GFPC1, wt or kd GFPICK, or GFPMOK stained with antiacetylated tubulin."
-Scale bar 1 mm.
-Numbers in the red bars indicate number of cilia measured.
-Data were obtained in at least 2 independent experiments.
-"Statistically significant differences (p,0.001) compared to control cells are indicated with a black asterisk."
-"Error bars indicate SD. doi:10.1371/journal.pone.0108470.g002 ICKsh #02 (CCAGTCACAACCACGAGGCGGTGTAA), GAAATTGACACAATTT),"
-"MOKsh #01 (CTGGTTCTCTTGCACTAATAT), MOKsh #02 (GCCGGAGAATATCCTAGTAAA) and control shRNA were obtained from the TRC lentivirusbased shRNA library (Sigma)."
-"Antibodies Primary antibodies: mouse monoclonal antiacetylated tubulin (Sigma; immunofluorescence (IF), 1:1,000), rabbit polyclonal anti- PLOS ONE | www.plosone.org"
-September 2014
-| Volume 9 | Issue 9 | e108470 Regulation of Cilium Length and IFT by ICK and MOK Figure 3.
-Live imaging of fluorescently tagged components of the IFT machinery.
-"(A) Fluorescence images of the cilia of IMCD3 cells expressing mCitKIF3B, IFT43YFP, GFPBBS8, IFT20GFP, and KIF17mCit."
-The basal body is indicated with an arrowhead.
-Scale bar 1 mm. (B) Representative kymograph of IFT43YFP in cilia of control cells.
-The basal body (b.b.) and the distal tip (d.t.) of the cilium are indicated.
-"In the corresponding drawing, anterograde trajectories are shown in red and retrograde trajectories are shown in blue."
-(C) Average anterograde and retrograde velocities of IFT components in control cells.
-Error bars indicate SD.
-Numbers in the bars indicate number of particles analyzed.
-"Doi:10.1371/journal.pone.0108470.g003 Statistical analysis P values were derived from oneway ANOVA analysis, followed by a Bonferroni posthoc test, using SPSS."
-"Results ICK and MOK localize to cilia RTPCR analysis of dividing or serumstarved IMCD3 cells showed expression of ICK and MOK, but not of MAK in these cells (Figure S1)."
-"To investigate whether ICK and MOK localize to the cilium, we expressed N- and Cterminal GFPfusion constructs of ICK and MOK in IMCD3 cells."
-"GFPICK, GFPMOK and Cterminally tagged ICK and MOK localized to the primary cilium in serumstarved IMCD3 cells (Figure 1A and B and data not shown)."
-"In addition, we observed two spots at the ciliary base, which colocalized with the centrosomal marker centrin2 (Figure 1A and B)."
-"ICK, and MOK also localized to the nucleus, in line with previous observations."
-"ICK, and MOK regulate cilium length To determine whether ICK and/or MOK regulate cilium length, we reduced ICK and MOK levels in IMCD3 cells."
-"Knockdown of ICK using two nonoverlapping lentiviral shRNA’s, ICKsh #01 and ICKsh #02, effectively reduced ICK expression (Figure 2A)."
-"Measurement of cilium length showed that cilia of IMCD3 cells depleted of ICK were, 60% longer than those of control cells (Figure 2B and E)."
-"Two independent lentiviral shRNA’s, MOKsh #01 and MOKsh #02, that reduced MOK expression resulted in a40% elongation of cilium length (Figure 2A, C and E)."
-"Knockdown of both ICK and MOK did not result in an additional increase of cilium length, but yielded cilia with a length comparable to that after knockdown of only ICK (Figure 2D)."
-Neither knockdown of ICK nor MOK affected the percentage of IMCD3 cells that formed cilia after 48 hours of serum starvation (Figure S2).
-"In addition, we analyzed the effect of overexpression of Nterminal GFPfusions of wild type and kinasedead (kd) ICK and MOK, on cilium length."
-"To generate kinasedead mutant lysine in the ATPbinding constructs, we replaced an essential pocket at position 33 in ICK and position 35 in MOK by methionine."
-"IMCD3 cells transfected with GFPICK had, 40% shorter cilia compared to cells transfected with GFP (Figure 2F and 2G), whereas overexpression of kinasedead GFPICK did not affect cilium length (Figure 2F and G), indicating that kinase activity of ICK is necessary for its negative regulation of cilium length."
-Overexpression of wild type or kinasedead GFPMOK did not affect cilium length (Figure 2F and G).
-"Taken together, our data indicate that ICK and MOK negatively regulate cilium length in IMCD3 cells and that this regulation by ICK requires its kinase function."
-Live imaging of five IFT proteins including KIF3B and KIF17 suggests they are transported by the same machinery To determine whether elongation of cilium length caused by depletion of ICK and MOK is also accompanied by changes in IFT we set up live imaging of several IFT proteins.
-"Thus far, only IFT20 and IFT88 have been shown to undergo IFT in mammalian cells."
-"To visualize at least one component of each IFT subcomplex, we generated clonal stably expressing fluorescent protein fusions of the kinesinII subunit mCitKIF3B, the complex A protein IFT43YFP, the complex B protein IFT20GFP and the BBSome subunit GFPBBS8."
-"In C. elegans, IFT is mediated by an additional kinesin, OSM3."
-"KIF17, the vertebrate homologue of OSM3, localizes to cilia, but its function in IFT is not entirely understood."
-"Using immunofluorescence, we confirmed that KIF17 is expressed in IMCD3 cells and localizes to primary cilia (Figure S3)."
-"Therefore, we also generated a clonal line stably expressing KIF17mCit."
-"Lines All five IFT markers localized to primary cilia (Figure 3A), and moved in both anterograde and retrograde directions along the axoneme (Figure 3B and Movies S1 to S5)."
-"In IMCD3 cells expressing a control shRNA, all five IFT markers moved at the same speeds; 0.40–0.45 mm/s in the anterograde direction and 0.39–0.46 mm/s in the retrograde direction, suggesting that all five proteins are transported by the same machinery (Figure 3B and PLOS ONE | www.plosone.org"
-September 2014
-| Volume 9 | Issue 9 | e108470 Regulation of Cilium Length and IFT by ICK and MOK Figure 4.
-Depletion of ICK results in increased anterograde IFT velocity.
-"(A) Average anterograde velocities of IFT components in control cells, and cells depleted of ICK or MOK using two independent shRNA constructs for each."
-"Statistically significant differences (p,0.001) compared to the velocity of the same IFT component in control cells are indicated with a black asterisk."
-"(B) Average retrograde velocities of IFT components in control cells, and cells depleted of ICK and MOK."
-(C) Representative kymograph of IFT43YFP in cells depleted of ICK.
-The basal body (b.b.) and the distal tip (d.t.) of the cilium are indicated.
-"In the corresponding, drawing anterograde trajectories are shown in red and retrograde trajectories are shown in blue."
-Error bars indicate SD.
-Numbers in the bars indicate number of particles analyzed.
-Doi:10.1371/journal.pone.0108470.g004 C).
-These speeds are in agreement with previously reported speeds of mammalian IFT proteins which vary between 0.3–0.7 mm/s in anterograde and retrograde directions.
-"ICK, regulates IFT speeds To analyze whether ICK or MOK regulate IFT, we reduced the expression of ICK in the clonal lines expressing each of the five IFT markers."
-"The average anterograde velocities of all tested IFT markers were significantly increased by approximately, 35% in cells depleted of ICK (Figure 4A and C)."
-"In contrast, retrograde velocities were not affected (Figure 4B and C)."
-Depletion of MOK did not affect anterograde or retrograde IFT velocities (Figure 4A and B).
-"In addition, we analyzed the effect of overexpression of ICK or MOK on IFT."
-"Since we observed GFPtagged ICK and MOK in cilia, we surmised that these proteins are transported by the IFT machinery."
-"We generated stable IMCD3 cell lines expressing GFP tagged ICK, MOK or kinase dead versions of these proteins and indeed found that these GFPtagged proteins move inside the cilium in anterograde and retrograde directions (Figure 5A and B, Movie S6 and S7)."
-"In the anterograde direction, GFPICK and GFPMOK and kinasedead versions of these proteins moved PLOS ONE | www.plosone.org"
-September 2014
-| Volume 9 | Issue 9 | e108470 Regulation of Cilium Length and IFT by ICK and MOK combined with ICK depletion but not MOK depletion (Figure 6A and B).
-"These data suggest that ICK and the cAMP pathway independently regulate cilium length, whereas MOK and forskolin affect the same pathway."
-We thus tested if ICK depletion and forskolin treatment have additive effects on IFT speeds.
-"Surprisingly, depletion of ICK and treatment with forskolin at the same time did not result in additive effects on the anterograde IFT velocity of IFT20GFP (Figure 6C)."
-"This suggests that although ICK and cAMP act in the same pathway to regulate IFT, they have separable functions in regulating cilium length."
-The effects of ICK and MOK on cilium length and IFT require mTORC1 signaling Cilium length and function are also regulated by the mTOR pathway.
-"mTOR exists in at least two molecular complexes, mTORC1 and mTORC2, which are defined by the presence of either Raptor (mTORC1) or Rictor (mTORC2)."
-Treatment of C. reinhardtii cells and zebrafish embryos with the mTORC1 inhibitor rapamycin resulted in shorter cilia.
-"Interestingly, ICK has been shown to phosphorylate Raptor at Thr908, and thus likely modulates mTORC1 activity."
-"Since both mutation of this Thr to a nonphosphorylatable Ala or to a phosphomimic Glu impaired mTORC1 activity, it is not clear whether ICK activates or inactivates mTORC1."
-"To investigate whether ICK and/or MOK interact with the mTORC1 pathway in the regulation of cilium length, we treated control cells, and cells expressing ICKsh #01 or MOKsh #01 with rapamycin."
-"In contrast to the previously reported shortening of cilia, rapamycin treatment of control cells had no effect on cilium length (Figure 6D and E)."
-"However, rapamycin treatment completely suppressed the effect of ICK or MOK depletion on cilium length (Figure 6D and E)."
-Rapamycin treatment also suppressed the effect of ICK depletion on the anterograde IFT velocity of IFT20GFP (Figure 6F).
-"Our data suggest that the effects of depletion of ICK and MOK on cilium length and of ICK on IFT require mTORC1 activity, which is in line with ICK acting as a mTORC1 inhibitor."
-Discussion
-"Here we show that mouse renal epithelial (IMCD3) cells express two members of the small family of RCK kinases, ICK and MOK."
-"In agreement with previous reports, we found that ICK and MOK localize to the cilium, the ciliary base and the nucleus, and that they negatively regulate cilium length."
-"The strongest effects on cilium length were obtained by ICK knock down, which increased cilium length, or overexpression, which decreased cilium length."
-Our work extends the previous findings by examining the mechanisms of RCK function in ciliary length control.
-"We show that both GFPtagged ICK and MOK move inside cilia at speeds comparable to those of the IFT machinery, suggesting they are transported by, or part of the IFT machinery."
-Transport of RCKs by the IFT complex would enable tight control of IFT during ciliary length control.
-"Indeed, we found that ICK regulates IFT speed: ICK knock down increased anterograde speed, whereas ICK overexpression reduced retrograde IFT speed."
-These findings are consistent with the balance point model as an increase in IFT speed should result in increased delivery of IFT particles to the cilium tip.
-"Unfortunately, it proved to be impossible to accurately and reproducibly measure the number of IFT particles arriving at the tip or their size in our current imaging setup."
-Our results also suggest that retrograde transport can play a role in regulation of Figure 5.
-Overexpression of ICK results in decreased retrograde IFT velocity.
-(A) Representative example of kymograph of GFPICK in IMCD3 cells.
-The basal body (b.b.) and the distal tip (d.t.) of the cilium are indicated.
-"In the corresponding drawing anterograde trajectories are shown in red, and retrograde trajectories are shown in blue."
-(B) Representative example of kymograph of GFPMOK in IMCD3 cells.
-The basal body (b.b.) and the distal tip (d.t.) of the cilium are indicated.
-"In the corresponding drawing anterograde trajectories are shown in red, and retrograde trajectories are shown in blue."
-(C) Average anterograde velocities of wt or kd GFPICK or GFPMOK.
-(D) Average retrograde velocities of wt or kd GFPICK or GFPMOK.
-"The velocity of GFPICK is statistically significantly different (p,0.001) from those of GFPICKkd and wt or kd GFPMOK (indicated with a black asterisk)."
-Error bars indicate SD.
-Numbers in the bars indicate number of particles analyzed.
-"Doi:10.1371/journal.pone.0108470.g005 on average at 0.45–0.47 mm/s, similar to fluorescently tagged components of the IFT machinery (Figure 5C)."
-"In the retrograde direction, three of the four constructs moved at a speed similar to the IFT machinery, on average between 0.45 and 0.49 mm/s (Figure 5D)."
-"Interestingly, wild type GFPICK moved significantly slower in the retrograde direction, at 0.3660.05 mm/s (mean 6 sd, p,0.001 compared to GFPICKkd, GFPMOK or GFPMOKkd)."
-"These results suggest that both ICK and MOK are part of, or transported by the IFT machinery."
-"In addition, overexpression of ICK reduces retrograde IFT speed."
-"ICK, and MOK interact with cAMP signaling in the regulation of cilium length and IFT Previous studies have shown that cilium length and IFT can be regulated by several signaling molecules, including cAMP levels and the mTOR pathway."
-"To analyze how cAMP signaling relates to the ciliary functions of ICK and MOK, we treated control cells and cells depleted of ICK or MOK with forskolin, resulting in increased cAMP, and measured cilium length and IFT velocities."
-"Increased cAMP resulted in increased cilium length and anterograde velocity of IFT particles (Figure 6A and B), consistent with previous work."
-"Interestingly, forskolin treatment resulted in additive changes in cilium length when PLOS ONE | www.plosone.org"
-September 2014
-"| Volume 9 | Issue 9 | e108470 Regulation of Cilium Length and IFT by ICK and MOK ICKsh #01, or MOKsh #01, untreated or treated with 100 mM forskolin (Fsk) for 24 hours."
-Figure 6.
-Cilium length regulation by ICK and MOK interacts with cAMP and mTORC1 signaling.
-"(A) Average lengths of primary cilia of (B) IMCD3 cells expressing a control shRNA, Immunofluorescence images of IMCD3 cells expressing a control shRNA, ICKsh #01, or MOKsh #01, untreated or forskolintreated, stained with antiacetylated tubulin."
-"(C) Average anterograde velocity of IFT20GFP in IMCD3 control cells, and cells depleted of ICK, untreated and forskolintreated."
-"(D) Average lengths of primary cilia of IMCD3 cells expressing a control shRNA, ICKsh #01, or MOKsh #01, untreated or treated with 0.5 mM rapamycin (rapa) for 24 hours."
-"(E) Immunofluorescence images of IMCD3 cells expressing a control shRNA, ICKsh #01, or MOKsh #01, untreated or rapamycintreated, stained with antiacetylated tubulin."
-"(F) Average anterograde velocity of IFT20GFP in IMCD3 control cells, and cells depleted of ICK, untreated and rapamycintreated."
-"Statistically significant differences (p,0.001) compared to untreated cells are indicated with a black asterisk, and compared to the control shRNA are indicated with a red asterisk."
-Error bars indicate SD.
-Numbers in the bars indicate number of cilia (A and D) or particles (C and F) analyzed.
-"Scale bar, 10 mm. doi:10.1371/journal.pone.0108470.g006 cilium length, consistent with effects of inactivation of the dynein heavy chain in Chlamydomonas."
-"Although a change in IFT can be associated with a change in cilium length, several lines of evidence indicate that regulation of cilium length does not necessarily involve changes in IFT speed and can be achieved by other mechanisms."
-"First, knockdown of MOK affects cilium length, but does not affect IFT speeds."
-"Second, knockdown of ICK and addition of forskolin work together to regulate IFT, but each has its own additional functions in regulating cilium length."
-"We show that the regulation of cilium length by ICK requires its kinase function, as overexpression of a kinase dead mutant version of ICK did not affect cilium length."
-The kinase function of ICK likely impacts mTORC1 as the effect of knockdown of ICK on cilium length or IFT required mTORC1 signaling.
-This is consistent with an earlier report showing that ICK modulates mTORC1 activity.
-"Since the mTORC1 complex directly regulates protein synthesis in mammals and the level of soluble tubulin positively regulates cilia length, ICK and MOK could act as negative regulators of cilium length by suppressing the synthesis of ciliary tubulin via inhibition of mTORC1."
-"Another possibility of how ICK might control IFT is by direct phosphorylation of the kinesinII subunit KIF3A, which seems to affect cilium formation and function in cultured mammalian cells and in zebrafish."
-Our live imaging of IFT components provides the first direct demonstration that the kinesin2 motors move with speeds compatible with IFT in mammalian cells.
-"Indeed, we found that all five components of the IFT machinery tested, the kinesinII subunit KIF3B, homodimeric kinesin KIF17, complex A protein IFT43, complex B protein IFT20 and BBSome protein BBS8, move at the same speeds in anterograde and retrograde directions, and that the anterograde speeds of all proteins are affected to a similar extent upon knockdown of ICK."
-"These findings strongly suggest that in IMCD3 cells, all five components of the IFT machinery tested are transported by the same machinery, including the two kinesins, kinesinII and KIF17."
-"The exact functions of the two kinesins in the cilia of IMCD3 cells, for example whether they coordinate their motility as shown in C. elegans, remain to be determined."
-Further analysis of the mammalian IFT machinery is required to decipher the composition of the IFT complexes.
-"In conclusion, both ICK and MOK modulate cilium length and add to the complexity required to achieve the variety in lengths PLOS ONE | www.plosone.org"
-September 2014
-| Volume 9 | Issue 9 | e108470 and morphologies of cilia that are probably necessary for different cellspecific functions.
-Inappropriate elongation of cilia hinders the biological processes in which cilia function.
-"Not surprisingly, several ciliopathies are associated with defects in cilia length control."
-"For example, MAK, negative regulator of cilia length and close relative of ICK and MOK, has been linked to the retinaIn addition, specific ciliopathy retinitis pigmentosa."
-Recently generated Ick knockout mice show developmental defects that resemble those observed in the human syndrome endocrinecerebro-osteodysplasia.
-"Also, Juvenile Cystic Kidney Disease and Meckel–Gruber Syndrome have been linked to the long cilia phenotype."
-Further research is necessary to gain more insight in the signal transduction pathways that regulate cilium length as well as the role of IFT in achieving these differences in cilium length.
-Supporting Information Figure S1 ICK and MOK are expressed in IMCD3 cells.
-"MAK, ICK, and MOK expression in dividing (S) or serumstarved (G0)"
-IMCD3 cells visualized by RTPCR.
-(TIF) Figure S2 Knock down of ICK or MOK does not affect cilia formation.
-Percentage of ciliated cells in IMCD3 cells depleted of ICK or MOK.
-"Numbers indicate numbers of cells analyzed, error bars represent SD."
-"These results are based on 15 pictures of transfected cells, from one experiment."
-(TIF)
-"IMCD3 cells, Figure S3 Endogenous KIF17 localizes to cilia of IMCDserum-starved for 48 hours, were 3 cells."
-Immunostained for KIF17 and acetylated tubulin.
-Insets show enlargements of the region containing the cilium.
-Scale bars 10 mm. (TIF)
-Movie S1 mCitKIF3B motility in a cilium.
-"Timelapse video of an IMCD3 cell expressing mCitKIF3B. The video displays 20 frames per second for, 6 seconds (original video, 36 seconds)."
-Scale bar 1 mm.
-(AVI)
-Movie S2 IFT43YFP motility in a cilium.
-Timelapse video of an IMCD3 cell expressing IFT43YFP.
+"Regulation of Cilium Length and Intraflagellar Transport by the RCKKinases ICK and MOK in Renal Epithelial Cells Joost R. Broekhuis1, Kristen J. Verhey2, Gert Jansen1* 1 Department of Cell Biology, Erasmus MC, Rotterdam, the Netherlands, 2 Department of Cell and Developmental Biology, University of Michigan Medical School, Ann Arbor, Michigan, United States of America Abstract Primary cilia are important sensory organelles. They exist in a wide variety of lengths, which could reflect different cellspecific functions. How cilium length is regulated is unclear, but it probably involves intraflagellar transport (IFT), which transports protein complexes along the ciliary axoneme."
+"Studies in various organisms have identified the small, conserved family of roscross hybridizing kinases (RCK) as regulators of cilium length. Here we show that Intestinal Cell Kinase (ICK) and MAPK/MAK/MRK overlapping kinase (MOK), two members of this family, localize to cilia of mouse renal epithelial (IMCD3) cells and negatively regulate cilium length. To analyze the effects of ICK and MOK on the IFT machinery, we set up live imaging of five fluorescently tagged IFT proteins: KIF3B, a subunit of kinesinII, the main anterograde IFT motor, complex A protein IFT43, complex B protein IFT20, BBSome protein BBS8 and homodimeric kinesin KIF17, whose function in mammalian cilia is unclear."
+"Interestingly, all five proteins moved at, 0.45 mm/s in anterograde and retrograde direction, suggesting they are all transported by the same machinery. Moreover, GFP tagged ICK and MOK moved at similar velocities as the IFT proteins, suggesting they are part of, or transported by the IFT machinery. Indeed, loss- or gainof-function of ICK affected IFT speeds: knockdown increased anterograde velocities, whereas overexpression reduced retrograde speed."
+"In contrast, MOK knockdown or overexpression did not affect IFT speeds. Finally, we found that the effects of ICK or MOK knockdown on cilium length and IFT are suppressed by rapamycin treatment, suggesting that these effects require the mTORC1 pathway. Our results confirm the importance of RCK kinases as regulators of cilium length and IFT."
+"However, whereas some of our results suggest a direct correlation between cilium length and IFT speed, other results indicate that cilium length can be modulated independent of IFT speed. Citation: Broekhuis JR, Verhey KJ, Jansen G (2014) Regulation of Cilium Length and Intraflagellar Transport by the RCKKinases ICK and MOK in Renal Epithelial Cells."
+"PLoS ONE 9(9): e108470. Doi:10.1371/journal.pone.0108470 Editor: Knut Stieger, JustusLiebig-University Giessen, Germany Received May 28, 2014; Accepted August 25, 2014;"
+"Published September 22, 2014, This is an openaccess article, free of all copyright, and may be freely reproduced, distributed, transmitted, modified, built upon, or otherwise used by anyone for any lawful purpose. The work is made available under the Creative Commons CC0 public domain dedication. Data Availability: The authors confirm that all data underlying the findings are fully available without restriction."
+"All relevant data are within the paper and its Supporting Information files. Funding: This work was funded by the Dutch Kidney Foundation (http://www.nierstichting.nl, C06.2199 to GJ) and the National Institutes of Health (http://www. nih.gov, RO1 GM070862 to KJV)."
+"The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript. Competing Interests: The authors have declared that no competing interests exist. *"
+"Email: g.jansen@erasmusmc.nl Introduction Primary cilia are microtubulebased protrusions that can be found on the surface of almost all vertebrate cells, and function as sensory organelles. Defects in cilia function, structure or length have been associated with many genetic diseases, collectively called ciliopathies."
+"The assembly and maintenance of primary cilia depends on intraflagellar transport (IFT), a microtubulebased transport system that involves kinesin motor proteins (kinesinII and KIF17/OSM3) which mediate anterograde transport (to the tip of the cilium), dynein motor complexes (cytoplasmic dynein 2), which mediate retrograde transport (back to the cell body), and adaptor complexes (complex A, complex B, and the BBSome). A wide variety in cilia lengths and morphologies exist, most likely to better support cilium function in specific tissues. Although several signaling molecules have been shown to modulate cilium length, how this is achieved mechanistically is not understood."
+"The most plausible explanation is provided by the balance point model, in which cilium length is determined by a balance between cilium assembly and disassembly rates. The assembly rate is dependent on the availability of axonemal tubulin and other structural components, supplemented by anterograde IFT and probably the pool of these proteins at the base of the cilium. In both anterograde and retrograde IFT are accompanied by changes in cilium length."
+"How cilium disassembly is regulated is unclear, since it seems independent of retrograde IFT. Indeed, changes The family of ros crosshybridizing kinases (RCKs) is characterized by a MAP kinaselike ThrXaa-Tyr (TXY) motif in their activation loop, and an overall structure similar to CDKs. In Chlamydomonas (lf4), Leishmania (LmxMPK9), C. elegans (dyf5), and mouse (Mak and Ick) RCKs have been identified that negatively regulate cilium length."
+"Emerging evidence suggests that regulation of cilium length may be manifest by RCKinduced changes in IFT. In C. elegans, dyf5 lossof-function abolishes the coordination between the anterograde motors kinesinII and OSM3, such that the IFT complex travels with kinesinII. In addition, kinesinII can move into the distal segment in dyf5 mutant animals."
+"A more direct correlation between a change in IFT and cilium length was observed in recent studies in Chlamydomonas where lf4 lossof-function cells displayed an increased injection of IFT particles which correlates with increased PLOS ONE | www.plosone.org September 2014 | Volume 9 | Issue 9 | e108470 flagellar assembly and length, and in mice where ICK was found to phosphorylate the kinesinII subunit KIF3A and deletion of Ick affected the localization of IFT proteins in cilia."
+"In mammals, the RCK family contains three members: MAK or RCK (male germ cellassociated kinase, ros crosshybridizing kinase), ICK or MRK (intestinal cell kinase, MAKrelated kinase) and RAGE, MOK or STK30 (renal tumor antigen, MAPK/ MAK/MRK overlapping kinase, serine threonine kinase 30). MAK localizes to the connecting cilium and outersegment axoneme in photoreceptor cells. In retina of Mak knockout mice cilia are elongated, IFT markers mislocalized, and photoreceptors degenerate over time."
+"In line with these observations, mutations in MAK have been found in patients with Retinitis Pigmentosa. Recently, it was shown that ICK localizes to primary cilia, inhibits ciliogenesis and regulates cilium length. Ick, knockout mice show multiple developmental defects, correlating with ciliary and Shh signaling defects."
+"ICK, has been associated with endocrinecerebro-osteodysplasia (ECO), a lethal recessive disorder with ciliopathylike symptoms We set out to investigate the roles of RCK kinases in regulating cilium length in renal epithelial cells. We found that mouse inner medullary collecting duct cells (IMCD3) express two of the three RCKs, ICK and MOK, which localize to cilia and negatively regulate cilium length. To analyze the effects of ICK and MOK on the IFT machinery, we set up live imaging of five fluorescently tagged IFT proteins: kinesinII subunit KIF3B, complex A protein IFT43, complex B protein IFT20, BBSome protein BBS8 and kinesin KIF17."
+"All five proteins moved at, 0.45 mm/s in anterograde and retrograde direction, suggesting they are all transported by the same machinery. GFP tagged ICK and MOK also moved at approximately 0.45 mm/ s, suggesting they are part of, or transported by the IFT machinery. Interestingly, whereas loss- or gainof-function of ICK affected IFT speeds, MOK knockdown or overexpression did not."
+"Finally, we found that the effects of ICK or MOK knockdown on cilium length and IFT depend on mTORC1 signaling. Regulation of Cilium Length and IFT by ICK and MOK Materials and Methods Cell culture and transfections IMCD3 cells (CRL2123, ATCC) were grown in DMEM/ F10 medium supplemented with 10% FCS, penicillin (100 U/ ml) and streptomycin (100 mg/ml). For transient transfections IMCD3 cells, at 60% confluency, were transfected with FuGENE 6 (Roche), and serum starved for 48 hours to induce ciliogenesis."
+"To generate clonal IMCD3 cell lines, cells were transfected with linearized constructs. After 48 hours, G418 (500 mg/ml) was used to select transfected cells. After two weeks, viable GFPpositive cells were selected on a FACS Aria II cell sorter (BectonDickinson)."
+"Individual cells were seeded in a 96well plate and cultured to confirm the GFPconstruct expression levels and subcellular localization by fluorescence microscopy. Constructs IFT43YFP was a gift from Heleen Arts, and IFT20GFP was a gift from Greg Pazour. GFPICK was generated by PCR amplification of the ICK open reading frame (ORF) from mouse ICK cDNA clone (IMAGE 4224269) and subcloning into Clontech pEGFPC1, using EcoRI and KpnI restriction sites engineered into the PCR primers."
+"GFPMOK was generated by amplification of the MOK ORF from mouse MOK cDNA clone (a gift from Yoshihiko Miyata) and subcloning into pEGFPC1 using SalI and SacII. Kinasedead GFPICK and MOK were generated using sitedirected mutagenesis to change Lys 33 and 35, respectively, to Meet. GFPBBS8 was generated by amplification of the BBS8 ORF from mouse BBS8 cDNA clone (IMAGE 4527657) and subcloning into pEGFPC1 using KpnI and ApaI. CFPcentrin-2 was generated by amplification of the centrin2 ORF from IMCD3 cDNA and subcloning into pECFPN1 using KpnI and BamHI."
+"The coding sequence of mouse KIF3B (IMAGE clone 8862410) was subcloned into the pmCitC1 vector (equivalent to pEGFPC1 except that EGFP was replaced by mCitrine) using XhoI and EcoRI restriction sites. All constructs were confirmed by sequencing. The mCitKIF3B construct contained a single mutation (Val 34 to Ala) which does not change the motility of KIF3B (KJV, unpublished)."
+"KIF17mCit has been described previously. ICKsh #01 (target sequence: Figure 1. ICK, and MOK localize to the primary cilium."
+"IMCD3 cells expressing (A) GFPICK and CFPcentrin-2, or (B) GFPMOK and CFPcentrin- 2, serumstarved for 48 hours and immunostained for acetylated tubulin (acTub). Insets show enlargements of the region containing the cilium. Scale bars 10 mm. doi:10.1371/journal.pone.0108470.g001 PLOS ONE | www.plosone.org"
+"September 2014 | Volume 9 | Issue 9 | e108470 Regulation of Cilium Length and IFT by ICK and MOK ICK (Gift from Zheng Fu; Western blot (WB), 1:500), rabbit polyclonal antiMOK (Cosmo Bio Co., Ltd.; WB, 1:1,000), and antibodies: antiactin (Millipore; WB, 1:5,000). Secondary alexa594conjugated antimouse (Invitrogen; IF, 1:1,000), HRPconjugated antirabbit (Dako; WB, 1:5,000), and HRPconjugated antimouse (Amersham; WB, 1:10,000)."
+"Immunofluorescence and microscopy IMCD3 cells were fixed with 4% PFA, permeabilized with 0.15% Triton X100 in PBS, and blocked with blocking buffer (1% BSA and 0.05% Tween20 in 1x PBS) for 45 minutes at room temperature (RT). Cells were incubated with primary antibodies (in blocking buffer) for 1 hour at RT, and washed three times with PBS tween (0.05% Tween20 in 1x PBS). Cells were incubated with fluorescentconjugated secondary antibodies (in blocking buffer) for 45 minutes at RT, and washed three times with PBS tween."
+"After the washing steps the cells were washed with 70% ethanol for 1 minute and 100% ethanol for 1 minute. The samples were airdried and mounted on a microscope slide with mounting solution (20 mM Tris HCl pH 8, 0.2 M DABCO, 90% glycerol). Subcellular localization studies and cilia length measurements were performed using a Zeiss Imager Z1 microscope with a 63x (NA 1.4) objective."
+"IFT speed measurements Clonal IMCD3 cells stably expressing mCitKIF3B, IFT43YFP, GFPBBS8, IFT20GFP, KIF17mCit, GFPICK or GFPMOK were grown on 18 mm cover slips. Prior to analysis glass slides were inversed onto a 24 mm cover slip and placed in a livecell imaging chamber. Timelapse movies were acquired on a spinningdisc microscope (CSUX1-A1; Yokogawa) equipped with 10061.49 NA oil objective (Nikon) and an EMCCD camera (QuantEM 512SC; Roper Scientific), installed on an inverted research microscope (Eclipse TiE; Nikon), and controlled with MetaMorph 7.5 software (Molecular Devices)."
+"To determine the IFT particles’ velocities, kymographs were generated in ImageJ with the Kymograph plugin, written by J. Rietdorf. Retroviral expression Thirdgeneration lentiviruses were packaged in HEK293T cells by transient cotransfection, with Lipofectamine 2000 (Invitrogen), of pMDg/RRE, pRSVREV, pMD.9, and pLKO.1puro containing nontarget control shRNA, ICKsh #01, ICKsh #02, MOKsh #01, or MOKsh #02. IMCD3 cells growing at 40% confluency were transduced with lentiviruses."
+"Fortyeight hours after transduction, cells were serumstarved for 48 hours in the presence of 5 mg/ml puromycin and harvested for protein extraction or used for microscopy. Western Blot Analysis IMCD3 cells were harvested in lysis buffer (50 mM Tris pH 6.8, 5 mM EDTA, 5% glycerol, 2% SDS, 1% bmercapto- ethanol, and Protease Inhibitor Cocktail (Roche)). Lysates were centrifuged at 13,200 rpm for 1 minute at 4uC."
+"Supernatants were collected, and 1x Laemmli loading buffer was added. Protein samples were separated using SDSPAGE and transferred to a nitrocellulose transfer membrane (Whatman). Membranes were probed with primary antibodies, washed three times with PBST (0.25% Tween20 in 1x PBS), probed with HRPconjugated secondary antibodies, washed three times with PBST, and exposed to chemiluminescence reagent (Amersham)."
+"Chemiluminescence was detected with Alliance 2.7 (UVItec). Figure 2. ICK, and MOK control cilium length. (A) Immunoblot of cell lysates of IMCD3 cells transduced with shRNA constructs targeting ICK and MOK."
+Actin was used as loading control. (B) Average length of primary cilia of IMCD3 cells depleted of ICK. (C) Average length of primary cilia of IMCD3 cells depleted of MOK.
+"(D) Average length of primary cilia of IMCD3 cells depleted of ICK and MOK, combining ICKsh #01 and MOKsh #01 or ICKsh #02 and MOKsh #02. (E) Immunofluorescence images of IMCD3 cells expressing control shRNA, ICKsh #01, or MOKsh #01 stained with antiacetylated tubulin. Scale bar 10 mm."
+"(F) Average length of primary cilia of IMCD3 cells overexpressing GFPC1, wild type (wt) or kinasedead (kd) GFPICK, or GFPMOK. (G) Immunofluorescence images of IMCD3 cells expressing GFPC1, wt or kd GFPICK, or GFPMOK stained with antiacetylated tubulin. Scale bar 1 mm."
+"Numbers in the red bars indicate number of cilia measured. Data were obtained in at least 2 independent experiments. Statistically significant differences (p,0.001) compared to control cells are indicated with a black asterisk."
+"Error bars indicate SD. doi:10.1371/journal.pone.0108470.g002 ICKsh #02 (CCAGTCACAACCACGAGGCGGTGTAA), GAAATTGACACAATTT), MOKsh #01 (CTGGTTCTCTTGCACTAATAT), MOKsh #02 (GCCGGAGAATATCCTAGTAAA) and control shRNA were obtained from the TRC lentivirusbased shRNA library (Sigma). Antibodies Primary antibodies: mouse monoclonal antiacetylated tubulin (Sigma; immunofluorescence (IF), 1:1,000), rabbit polyclonal anti- PLOS ONE | www.plosone.org"
+September 2014 | Volume 9 | Issue 9 | e108470 Regulation of Cilium Length and IFT by ICK and MOK Figure 3. Live imaging of fluorescently tagged components of the IFT machinery.
+"(A) Fluorescence images of the cilia of IMCD3 cells expressing mCitKIF3B, IFT43YFP, GFPBBS8, IFT20GFP, and KIF17mCit. The basal body is indicated with an arrowhead. Scale bar 1 mm. (B) Representative kymograph of IFT43YFP in cilia of control cells."
+"The basal body (b.b.) and the distal tip (d.t.) of the cilium are indicated. In the corresponding drawing, anterograde trajectories are shown in red and retrograde trajectories are shown in blue. (C) Average anterograde and retrograde velocities of IFT components in control cells."
+"Error bars indicate SD. Numbers in the bars indicate number of particles analyzed. Doi:10.1371/journal.pone.0108470.g003 Statistical analysis P values were derived from oneway ANOVA analysis, followed by a Bonferroni posthoc test, using SPSS."
+"Results ICK and MOK localize to cilia RTPCR analysis of dividing or serumstarved IMCD3 cells showed expression of ICK and MOK, but not of MAK in these cells (Figure S1). To investigate whether ICK and MOK localize to the cilium, we expressed N- and Cterminal GFPfusion constructs of ICK and MOK in IMCD3 cells. GFPICK, GFPMOK and Cterminally tagged ICK and MOK localized to the primary cilium in serumstarved IMCD3 cells (Figure 1A and B and data not shown)."
+"In addition, we observed two spots at the ciliary base, which colocalized with the centrosomal marker centrin2 (Figure 1A and B). ICK, and MOK also localized to the nucleus, in line with previous observations. ICK, and MOK regulate cilium length To determine whether ICK and/or MOK regulate cilium length, we reduced ICK and MOK levels in IMCD3 cells."
+"Knockdown of ICK using two nonoverlapping lentiviral shRNA’s, ICKsh #01 and ICKsh #02, effectively reduced ICK expression (Figure 2A). Measurement of cilium length showed that cilia of IMCD3 cells depleted of ICK were, 60% longer than those of control cells (Figure 2B and E). Two independent lentiviral shRNA’s, MOKsh #01 and MOKsh #02, that reduced MOK expression resulted in a40% elongation of cilium length (Figure 2A, C and E)."
+"Knockdown of both ICK and MOK did not result in an additional increase of cilium length, but yielded cilia with a length comparable to that after knockdown of only ICK (Figure 2D). Neither knockdown of ICK nor MOK affected the percentage of IMCD3 cells that formed cilia after 48 hours of serum starvation (Figure S2). In addition, we analyzed the effect of overexpression of Nterminal GFPfusions of wild type and kinasedead (kd) ICK and MOK, on cilium length."
+"To generate kinasedead mutant lysine in the ATPbinding constructs, we replaced an essential pocket at position 33 in ICK and position 35 in MOK by methionine. IMCD3 cells transfected with GFPICK had, 40% shorter cilia compared to cells transfected with GFP (Figure 2F and 2G), whereas overexpression of kinasedead GFPICK did not affect cilium length (Figure 2F and G), indicating that kinase activity of ICK is necessary for its negative regulation of cilium length. Overexpression of wild type or kinasedead GFPMOK did not affect cilium length (Figure 2F and G)."
+"Taken together, our data indicate that ICK and MOK negatively regulate cilium length in IMCD3 cells and that this regulation by ICK requires its kinase function. Live imaging of five IFT proteins including KIF3B and KIF17 suggests they are transported by the same machinery To determine whether elongation of cilium length caused by depletion of ICK and MOK is also accompanied by changes in IFT we set up live imaging of several IFT proteins. Thus far, only IFT20 and IFT88 have been shown to undergo IFT in mammalian cells."
+"To visualize at least one component of each IFT subcomplex, we generated clonal stably expressing fluorescent protein fusions of the kinesinII subunit mCitKIF3B, the complex A protein IFT43YFP, the complex B protein IFT20GFP and the BBSome subunit GFPBBS8. In C. elegans, IFT is mediated by an additional kinesin, OSM3. KIF17, the vertebrate homologue of OSM3, localizes to cilia, but its function in IFT is not entirely understood."
+"Using immunofluorescence, we confirmed that KIF17 is expressed in IMCD3 cells and localizes to primary cilia (Figure S3). Therefore, we also generated a clonal line stably expressing KIF17mCit. Lines All five IFT markers localized to primary cilia (Figure 3A), and moved in both anterograde and retrograde directions along the axoneme (Figure 3B and Movies S1 to S5)."
+"In IMCD3 cells expressing a control shRNA, all five IFT markers moved at the same speeds; 0.40–0.45 mm/s in the anterograde direction and 0.39–0.46 mm/s in the retrograde direction, suggesting that all five proteins are transported by the same machinery (Figure 3B and PLOS ONE | www.plosone.org September 2014 | Volume 9 | Issue 9 | e108470 Regulation of Cilium Length and IFT by ICK and MOK Figure 4."
+"Depletion of ICK results in increased anterograde IFT velocity. (A) Average anterograde velocities of IFT components in control cells, and cells depleted of ICK or MOK using two independent shRNA constructs for each. Statistically significant differences (p,0.001) compared to the velocity of the same IFT component in control cells are indicated with a black asterisk."
+"(B) Average retrograde velocities of IFT components in control cells, and cells depleted of ICK and MOK. (C) Representative kymograph of IFT43YFP in cells depleted of ICK. The basal body (b.b.) and the distal tip (d.t.) of the cilium are indicated."
+"In the corresponding, drawing anterograde trajectories are shown in red and retrograde trajectories are shown in blue. Error bars indicate SD. Numbers in the bars indicate number of particles analyzed."
+"Doi:10.1371/journal.pone.0108470.g004 C). These speeds are in agreement with previously reported speeds of mammalian IFT proteins which vary between 0.3–0.7 mm/s in anterograde and retrograde directions. ICK, regulates IFT speeds To analyze whether ICK or MOK regulate IFT, we reduced the expression of ICK in the clonal lines expressing each of the five IFT markers."
+"The average anterograde velocities of all tested IFT markers were significantly increased by approximately, 35% in cells depleted of ICK (Figure 4A and C). In contrast, retrograde velocities were not affected (Figure 4B and C). Depletion of MOK did not affect anterograde or retrograde IFT velocities (Figure 4A and B)."
+"In addition, we analyzed the effect of overexpression of ICK or MOK on IFT. Since we observed GFPtagged ICK and MOK in cilia, we surmised that these proteins are transported by the IFT machinery. We generated stable IMCD3 cell lines expressing GFP tagged ICK, MOK or kinase dead versions of these proteins and indeed found that these GFPtagged proteins move inside the cilium in anterograde and retrograde directions (Figure 5A and B, Movie S6 and S7)."
+"In the anterograde direction, GFPICK and GFPMOK and kinasedead versions of these proteins moved PLOS ONE | www.plosone.org September 2014 | Volume 9 | Issue 9 | e108470 Regulation of Cilium Length and IFT by ICK and MOK combined with ICK depletion but not MOK depletion (Figure 6A and B)."
+"These data suggest that ICK and the cAMP pathway independently regulate cilium length, whereas MOK and forskolin affect the same pathway. We thus tested if ICK depletion and forskolin treatment have additive effects on IFT speeds. Surprisingly, depletion of ICK and treatment with forskolin at the same time did not result in additive effects on the anterograde IFT velocity of IFT20GFP (Figure 6C)."
+"This suggests that although ICK and cAMP act in the same pathway to regulate IFT, they have separable functions in regulating cilium length. The effects of ICK and MOK on cilium length and IFT require mTORC1 signaling Cilium length and function are also regulated by the mTOR pathway. mTOR exists in at least two molecular complexes, mTORC1 and mTORC2, which are defined by the presence of either Raptor (mTORC1) or Rictor (mTORC2)."
+"Treatment of C. reinhardtii cells and zebrafish embryos with the mTORC1 inhibitor rapamycin resulted in shorter cilia. Interestingly, ICK has been shown to phosphorylate Raptor at Thr908, and thus likely modulates mTORC1 activity. Since both mutation of this Thr to a nonphosphorylatable Ala or to a phosphomimic Glu impaired mTORC1 activity, it is not clear whether ICK activates or inactivates mTORC1."
+"To investigate whether ICK and/or MOK interact with the mTORC1 pathway in the regulation of cilium length, we treated control cells, and cells expressing ICKsh #01 or MOKsh #01 with rapamycin. In contrast to the previously reported shortening of cilia, rapamycin treatment of control cells had no effect on cilium length (Figure 6D and E). However, rapamycin treatment completely suppressed the effect of ICK or MOK depletion on cilium length (Figure 6D and E)."
+"Rapamycin treatment also suppressed the effect of ICK depletion on the anterograde IFT velocity of IFT20GFP (Figure 6F). Our data suggest that the effects of depletion of ICK and MOK on cilium length and of ICK on IFT require mTORC1 activity, which is in line with ICK acting as a mTORC1 inhibitor. Discussion"
+"Here we show that mouse renal epithelial (IMCD3) cells express two members of the small family of RCK kinases, ICK and MOK. In agreement with previous reports, we found that ICK and MOK localize to the cilium, the ciliary base and the nucleus, and that they negatively regulate cilium length. The strongest effects on cilium length were obtained by ICK knock down, which increased cilium length, or overexpression, which decreased cilium length."
+"Our work extends the previous findings by examining the mechanisms of RCK function in ciliary length control. We show that both GFPtagged ICK and MOK move inside cilia at speeds comparable to those of the IFT machinery, suggesting they are transported by, or part of the IFT machinery. Transport of RCKs by the IFT complex would enable tight control of IFT during ciliary length control."
+"Indeed, we found that ICK regulates IFT speed: ICK knock down increased anterograde speed, whereas ICK overexpression reduced retrograde IFT speed. These findings are consistent with the balance point model as an increase in IFT speed should result in increased delivery of IFT particles to the cilium tip. Unfortunately, it proved to be impossible to accurately and reproducibly measure the number of IFT particles arriving at the tip or their size in our current imaging setup."
+Our results also suggest that retrograde transport can play a role in regulation of Figure 5. Overexpression of ICK results in decreased retrograde IFT velocity. (A) Representative example of kymograph of GFPICK in IMCD3 cells.
+"The basal body (b.b.) and the distal tip (d.t.) of the cilium are indicated. In the corresponding drawing anterograde trajectories are shown in red, and retrograde trajectories are shown in blue. (B) Representative example of kymograph of GFPMOK in IMCD3 cells."
+"The basal body (b.b.) and the distal tip (d.t.) of the cilium are indicated. In the corresponding drawing anterograde trajectories are shown in red, and retrograde trajectories are shown in blue. (C) Average anterograde velocities of wt or kd GFPICK or GFPMOK."
+"(D) Average retrograde velocities of wt or kd GFPICK or GFPMOK. The velocity of GFPICK is statistically significantly different (p,0.001) from those of GFPICKkd and wt or kd GFPMOK (indicated with a black asterisk). Error bars indicate SD."
+"Numbers in the bars indicate number of particles analyzed. Doi:10.1371/journal.pone.0108470.g005 on average at 0.45–0.47 mm/s, similar to fluorescently tagged components of the IFT machinery (Figure 5C). In the retrograde direction, three of the four constructs moved at a speed similar to the IFT machinery, on average between 0.45 and 0.49 mm/s (Figure 5D)."
+"Interestingly, wild type GFPICK moved significantly slower in the retrograde direction, at 0.3660.05 mm/s (mean 6 sd, p,0.001 compared to GFPICKkd, GFPMOK or GFPMOKkd). These results suggest that both ICK and MOK are part of, or transported by the IFT machinery. In addition, overexpression of ICK reduces retrograde IFT speed."
+"ICK, and MOK interact with cAMP signaling in the regulation of cilium length and IFT Previous studies have shown that cilium length and IFT can be regulated by several signaling molecules, including cAMP levels and the mTOR pathway. To analyze how cAMP signaling relates to the ciliary functions of ICK and MOK, we treated control cells and cells depleted of ICK or MOK with forskolin, resulting in increased cAMP, and measured cilium length and IFT velocities. Increased cAMP resulted in increased cilium length and anterograde velocity of IFT particles (Figure 6A and B), consistent with previous work."
+"Interestingly, forskolin treatment resulted in additive changes in cilium length when PLOS ONE | www.plosone.org September 2014 | Volume 9 | Issue 9 | e108470 Regulation of Cilium Length and IFT by ICK and MOK ICKsh #01, or MOKsh #01, untreated or treated with 100 mM forskolin (Fsk) for 24 hours."
+"Figure 6. Cilium length regulation by ICK and MOK interacts with cAMP and mTORC1 signaling. (A) Average lengths of primary cilia of (B) IMCD3 cells expressing a control shRNA, Immunofluorescence images of IMCD3 cells expressing a control shRNA, ICKsh #01, or MOKsh #01, untreated or forskolintreated, stained with antiacetylated tubulin."
+"(C) Average anterograde velocity of IFT20GFP in IMCD3 control cells, and cells depleted of ICK, untreated and forskolintreated. (D) Average lengths of primary cilia of IMCD3 cells expressing a control shRNA, ICKsh #01, or MOKsh #01, untreated or treated with 0.5 mM rapamycin (rapa) for 24 hours. (E) Immunofluorescence images of IMCD3 cells expressing a control shRNA, ICKsh #01, or MOKsh #01, untreated or rapamycintreated, stained with antiacetylated tubulin."
+"(F) Average anterograde velocity of IFT20GFP in IMCD3 control cells, and cells depleted of ICK, untreated and rapamycintreated. Statistically significant differences (p,0.001) compared to untreated cells are indicated with a black asterisk, and compared to the control shRNA are indicated with a red asterisk. Error bars indicate SD."
+"Numbers in the bars indicate number of cilia (A and D) or particles (C and F) analyzed. Scale bar, 10 mm. doi:10.1371/journal.pone.0108470.g006 cilium length, consistent with effects of inactivation of the dynein heavy chain in Chlamydomonas. Although a change in IFT can be associated with a change in cilium length, several lines of evidence indicate that regulation of cilium length does not necessarily involve changes in IFT speed and can be achieved by other mechanisms."
+"First, knockdown of MOK affects cilium length, but does not affect IFT speeds. Second, knockdown of ICK and addition of forskolin work together to regulate IFT, but each has its own additional functions in regulating cilium length. We show that the regulation of cilium length by ICK requires its kinase function, as overexpression of a kinase dead mutant version of ICK did not affect cilium length."
+"The kinase function of ICK likely impacts mTORC1 as the effect of knockdown of ICK on cilium length or IFT required mTORC1 signaling. This is consistent with an earlier report showing that ICK modulates mTORC1 activity. Since the mTORC1 complex directly regulates protein synthesis in mammals and the level of soluble tubulin positively regulates cilia length, ICK and MOK could act as negative regulators of cilium length by suppressing the synthesis of ciliary tubulin via inhibition of mTORC1."
+"Another possibility of how ICK might control IFT is by direct phosphorylation of the kinesinII subunit KIF3A, which seems to affect cilium formation and function in cultured mammalian cells and in zebrafish. Our live imaging of IFT components provides the first direct demonstration that the kinesin2 motors move with speeds compatible with IFT in mammalian cells. Indeed, we found that all five components of the IFT machinery tested, the kinesinII subunit KIF3B, homodimeric kinesin KIF17, complex A protein IFT43, complex B protein IFT20 and BBSome protein BBS8, move at the same speeds in anterograde and retrograde directions, and that the anterograde speeds of all proteins are affected to a similar extent upon knockdown of ICK."
+"These findings strongly suggest that in IMCD3 cells, all five components of the IFT machinery tested are transported by the same machinery, including the two kinesins, kinesinII and KIF17. The exact functions of the two kinesins in the cilia of IMCD3 cells, for example whether they coordinate their motility as shown in C. elegans, remain to be determined. Further analysis of the mammalian IFT machinery is required to decipher the composition of the IFT complexes."
+"In conclusion, both ICK and MOK modulate cilium length and add to the complexity required to achieve the variety in lengths PLOS ONE | www.plosone.org September 2014 | Volume 9 | Issue 9 | e108470 and morphologies of cilia that are probably necessary for different cellspecific functions."
+"Inappropriate elongation of cilia hinders the biological processes in which cilia function. Not surprisingly, several ciliopathies are associated with defects in cilia length control. For example, MAK, negative regulator of cilia length and close relative of ICK and MOK, has been linked to the retinaIn addition, specific ciliopathy retinitis pigmentosa."
+"Recently generated Ick knockout mice show developmental defects that resemble those observed in the human syndrome endocrinecerebro-osteodysplasia. Also, Juvenile Cystic Kidney Disease and Meckel–Gruber Syndrome have been linked to the long cilia phenotype. Further research is necessary to gain more insight in the signal transduction pathways that regulate cilium length as well as the role of IFT in achieving these differences in cilium length."
+"Supporting Information Figure S1 ICK and MOK are expressed in IMCD3 cells. MAK, ICK, and MOK expression in dividing (S) or serumstarved (G0) IMCD3 cells visualized by RTPCR."
+"(TIF) Figure S2 Knock down of ICK or MOK does not affect cilia formation. Percentage of ciliated cells in IMCD3 cells depleted of ICK or MOK. Numbers indicate numbers of cells analyzed, error bars represent SD."
+"These results are based on 15 pictures of transfected cells, from one experiment. (TIF) IMCD3 cells, Figure S3 Endogenous KIF17 localizes to cilia of IMCDserum-starved for 48 hours, were 3 cells."
+Immunostained for KIF17 and acetylated tubulin. Insets show enlargements of the region containing the cilium. Scale bars 10 mm. (TIF)
+"Movie S1 mCitKIF3B motility in a cilium. Timelapse video of an IMCD3 cell expressing mCitKIF3B. The video displays 20 frames per second for, 6 seconds (original video, 36 seconds). Scale bar 1 mm."
+(AVI) Movie S2 IFT43YFP motility in a cilium. Timelapse video of an IMCD3 cell expressing IFT43YFP.
 The video

@@ -1,593 +1,198 @@
-"Article https://doi.org/10.1038/s41467023-39276w PPP2R1A regulates migration persistence through the NHSL1containing WAVE Shell Complex Received: 14 June 2022 Accepted: 6 June 2023 Check for updates Yanan Wang1, Giovanni Chiappetta2,7, Raphaël Guérois Stéphane Romero 1,7, Daniel J. Boesch4, Matthias Krause 5, Claire A. Dessalles6, Avin Babataheri6, Abdul I. Barakat Joelle Vinh 2, Anna Polesskaya 1 & Alexis M. Gautreau 1 3,7, Yijun Liu4,7, 6, Baoyu Chen 4, The RAC1WAVE-Arp2/3 signaling pathway generates branched actin networks that power lamellipodium protrusion of migrating cells."
-"Feedback is thought to control protrusion lifetime and migration persistence, but its molecular circuitry remains elusive."
-"Here, we identify PPP2R1A by proteomics as a protein differentially associated with the WAVE complex subunit ABI1 when RAC1 is activated and downstream generation of branched actin is blocked."
-"PPP2R1A is found to associate at the lamellipodial edge with an alternative form of WAVE complex, the WAVE Shell Complex, that contains NHSL1 instead of the Arp2/3 activating subunit WAVE, as in the canonical WAVE Regulatory Complex."
-PPP2R1A is required for persistence in random and directed migration assays and for RAC1dependent actin polymerization in cell extracts.
-PPP2R1A requirement is abolished by NHSL1 depletion.
-"PPP2R1A mutations found in tumors impair WAVE Shell Complex binding and migration regulation, suggesting that the coupling of PPP2R1A to the WAVE Shell Complex is essential to its function."
-"Cell migration is a critical process for animal cells, especially in the embryo, but also in the adult."
-"For example, immune cells constantly patrol the organism to ﬁght infections."
-Nucleation of branched actin by the Arp2/3 complex fuels membrane protrusions called lamellipodia.
-This type of cell migration is characterized by its persistence that can be seen even in random migration and measured by the time during which direction is maintained once it is established1.
-Arp2/3mediated persistence also favors directed migration towards higher concentrations of extracellular matrix proteins in a process called haptotaxis2.
-The WAVE proteins activate Arp2/3 at the cell cortex and in membrane protrusions3.
-"WAVE proteins are embedded in a stable multiprotein complex containing four other subunits, CYFIP, NCKAP, ABI, and BRK1."
-"This stable complex has been puriﬁed from various sources and its exact composition differ depending on the paralogous subunits expressed4,5."
-"Most importantly, native and reconstituted recombinant WAVE complexes were shown to keep inactive the otherwise constitutively active WAVE protein6,7."
-"Therefore, this stable complex is commonly referred to as the WAVE regulatory Complex (WRC)."
-"GTPbound RAC1 activates the WRC through an allosteric mechanism8,9."
-"The WCA domain of WAVE that binds and activates Arp2/3 is masked within the WRC, but becomes exposed upon RAC1mediated activation10–12."
-"The RAC1WAVE-Arp2/3 pathway is critical for 1Laboratory of Structural Biology of the Cell (BIOC), CNRS UMR7654, École Polytechnique, Institut Polytechnique de Paris, 91120 Palaiseau, France."
-"2Biological Mass Spectrometry and Proteomics (SMBP), ESPCI Paris, Université PSL, LPC CNRS UMR8249, 75005 Paris, France."
-"3Université ParisSaclay, CEA, CNRS, Institute for Integrative Biology of the Cell (I2BC), 91198 Gifsur-Yvette, France."
-"4Roy J. Carver Department of Biochemistry, Biophysics and Molecular Biology, Iowa State University, Ames, IA 50011, USA."
-"5Randall Centre for Cell and Molecular Biophysics, King’s College London, New Hunt’s House, Guy’s Campus, London SE1 1UL, UK."
-"6LadHyX, École Polytechnique, Institut Polytechnique de Paris, 91120 Palaiseau, France."
-"7These authors contributed equally: Giovanni Chiappetta, Raphaël Guérois, Yijun Liu, Stéphane Romero."
-Email: anna.polesskaya@polytechnique.edu; alexis.gautreau@polytechnique.edu Nature Communications | (2023)
-14:3541 Article https://doi.org/10.1038/s41467023-39276w development and normal adult life but is also involved in cancer13–15.
-"Genes encoding subunits of the WAVE and Arp2/3 complexes are overexpressed in a variety of cancers, and this overexpression is associated with high tumor grade and poor patient prognosis16."
-Cell migration is ﬁnely regulated at all molecular levels.
-"Each positive component required to generate cortical branched actin, RAC1, WRC, and Arp2/3, appears to be counteracted by inhibitory proteins, CYRI17,18, NHSL119, and ARPIN20,21, respectively."
-"NHSL1 belongs to the family of NanceHoran Syndrome (NHS) proteins, which contain a Nterminal WAVE Homology Domain (WHD), as in WAVE proteins22."
-"The WHD is the main structural domain that embeds WAVE proteins in the WRC8,11, raising the possibility that WRC might contain NHS family proteins instead of WAVE proteins at some point in their life cycle."
-"This intriguing possibility, however, has never been reported to date."
-"Instead, NHSL1 has been shown to interact with the WRC through the Cterminal SH3 domain of the WRC subunit ABI119."
-"Regulatory circuits of cell migration involve feedback and feedforward loops23,24."
-"ARPIN was shown to inhibit Arp2/3 only when RAC1 signaling was on, rendering lamellipodia unstable once they were formed instead of preventing their formation20."
-Positive feedback that sustains membrane protrusion at the front is thought to be responsible for the persistence of cell migration.
-"Indeed, signaling pathways are not linear, and actin polymerization activate WRC further in space and time in propagating waves25,26 and promotes WRC turnover27."
-"Biochemical signaling in feedback is constrained by cell mechanics and in particular membrane tension, which appears as a central component to sustain lamellipodial protrusion at the leading edge28,29."
-"Feedback signaling is so challenging to dissect that mathematical modeling, computational simulations and machine learning are often required to interpret complex observations that would not ﬁt into simple and linear models30,31."
-Here we used criteria of feedback signaling to uncover a molecular machine that regulates migration persistence.
-"Using differential proteomics, we identiﬁed the PPP2R1A protein as a migration regulator."
-"PPP2R1A is a wellcharacterized scaffold subunit of the PP2A complex, an abundant and heterogeneous phosphatase that regulates several signaling pathways32."
-"PP2A phosphatase activity has previously been connected to cell migration and tumor cell invasion33–35, but we found no evidence that the precise role of PPP2R1A in regulating migration persistence depends on PP2A phosphatase activity."
-The control of migration persistence by PPP2R1A rather depended on its interaction with the NHSL1containing WAVE Shell Complex (WSC).
-"PPP2R1A is mutated in various cancers, particularly gynecologic cancers36, and frequent tumorassociated mutations of PPP2R1A were found impair its interaction with the WSC."
-"Results Identiﬁcation of PPP2R1A as a regulator of migration persistence To identify partners of WRC, we used proteomics after tandem afﬁnity puriﬁcation (TAP) of the ABI1 subunit."
-We reasoned that partners differentially associated with ABI1 when RAC1 is activated and when Arp2/ 3 is inhibited would be good candidates to regulate migration persistence and feedback signaling.
-"As a model system, we used the human mammary epithelial cell line MCF10A, which is immortalized but not transformed."
-"We thus isolated stable cell lines expressing FLAGGFP ABI1 from both parental cells and a genomeedited derivative, where the Q61L mutation affects one allele of RAC1 and renders the RAC1 GTPase deﬁcient and hence constitutively active (Supplementary Fig.1)."
-MCF10A cells expressing RAC1 Q61L showed more persistent migration than parental cells37.
-We treated cells with the Arp2/3 inhibitory compound CK666 to modulate the binding of potential WRC partners involved in signaling feedback from branched actin.
-The CK666 treatment did not impact RAC1 activation levels compared to controls (Supplementary Fig.1).
-"After the two successive FLAG and GFP immunoprecipitations (Fig. 1a), we identiﬁed by mass spectrometry proteins speciﬁcally associated with ABI1, but not with FLAGGFP control (Supplementary Table 1)."
-We performed labelfree quantiﬁcation of 3 biological replicates and calculated in all four conditions the relative abundance of associated proteins after normalization by the amount of the ABI1 bait protein retrieved in each condition (see Supplementary Methods).
-The WRC subunits did not vary considerably in the different conditions (Fig.1b).
-"Among the hits, we recognized several described functional partners of the WRC such as the NanceHoran Syndrome family proteins NHS and NHSL119,22, IRSp53, encoded by BAIAP238, and lamellipodin, encoded by RAPH1, which was 3fold more associated with WRC when RAC1 was activated, as previously reported39."
-"Our attention was drawn to PPP2R1A, a scaffold subunit of the PP2A phosphatase complex, which showed variations in the twofold range when RAC1 was activated and when CK666 was applied to cells."
-The amount of PPP2R1A associated with ABI1 decreased when RAC1 was constitutively activated (Fig.1b).
-"Surprisingly, CK666 induced opposite PPP2R1A variations in parental and RAC1 Q61L cells."
-"Catalytic subunits of the same PP2A phosphatase complex, encoded by the two paralogous genes, PPP2CA and PPP2CB, were also detected in the list of ABI1 partners, but interestingly, these subunits did not show the same variations as PPP2R1A when CK666 was applied to cells."
-We depleted PPP2R1A from MCF10A cells using siRNA pools and tested cells in a 2D random migration assay.
-"Lamellipodia appeared less developed in PPP2R1Adepleted cells, which, as a result, were less spread than control cells (Supplementary Movie 1)."
-PPP2R1Adepleted cells did not maintain the direction of migration over time as well as controls (Fig. 1c).
-We analyzed RAC1 activation and levels in control and PPP2R1Adepleted cells (Supplementary Fig. 1).
-"PPP2R1A depletion was associated with a tendency to decrease RAC1 activity and a slight, but signiﬁcant, downregulation of RAC1 levels."
-"Strikingly, the decrease in migration persistence upon PPP2R1A depletion was not signiﬁcant when the same assay was performed using MCF10A cells expressing RAC1 Q61L (Fig."
-1d and Supplementary Movie 2).
-"This was surprising given that migration persistence is increased in MCF10A RAC1 Q61L37, but was in agreement with our observation that PPP2R1A interacted less with ABI1 when RAC1 is constitutively active."
-We then isolated a stable MCF10A cell line that expresses FLAGGFP PPP2R1A.
-"The overexpression of tagged PPP2R1A was moderate, estimated by densitometry of PPP2R1A Western blots to be in the order of twofold (1.96 ± 0.32, mean ± sem of three triplicates, P < 0.05, ttest), with a concomitant decrease in endogenous PPP2R1A (Fig.1e)."
-"PPP2R1A overexpression had no effect on levels of RAC1, WAVE2, or WRC (Supplementary Fig."
-"1 and Supplementary Fig.2), but was sufﬁcient to increase migration persistence in the assay (Fig."
-1e and Supplementary Movie 3).
-The loss- and gainof-function experiments in MCF10A cells thus indicate that migration persistence depends on PPP2R1A levels.
-"To validate our ﬁndings in another cell system, we used the invasive breast cancer cell line MDAMB-231 that we embedded in 3D collagen gels."
-PPP2R1A depletion dramatically decreased migration persistence in this setting as well (Fig.
-1f and Supplementary Movie 4).
-"Overexpression of PPP2R1A, however, did not affect migration persistence in either MDAMB-231 cells, or in MCF10A cells expressing RAC1 Q61L (Supplementary Fig. 2)."
-"Migration persistence of cells expressing constitutively active RAC1 Q61L thus appears independent of PPP2R1A levels, unlike parental MCF10A. Other parameters of cell migration necessary for a complete description of cell trajectories, such as cell speed and Mean Square Displacement (MSD), were also altered in some of these genetic perturbations, but inconsistently (Supplementary Fig. 2), as previously reported20,37, conﬁrming that migration persistence, but not these other parameters, appears as the primary target of the RAC1WAVE-Arp2/3 pathway23."
-Nature Communications | (2023) 14:3541 
-Article https://doi.org/10.1038/s41467023-39276w FLAGGFP ABI1 CK666 MCF10A CTRL RAC1 Q61L WRC subunits WRC partners PP2A Log 10 MCF10A + CK666 / MCF10A RAC1 Q61L + CK666 / RAC1 Q61L RAC1 Q61L / MCF10A 0.4 0.2 -0.2 -0.4 0.4 0.2 -0.2 -0.4 0.4 0.2 -0.2 -0.4 C Y
-FIP 1 W A V E 1
-N C K A P 1 W A V E 3 W A V E 2 La m ellipodin IR S p53 B R K 1
-N H S L1 A BI1 P P P 2 R 1 A N H S P 2
-A c si CTRL si PPP2R1A 600 300 -300 -600 -600
--300
-300 600 -300 300 600 si CTRL si PPP2R1A 600 300 -300 -600 1.0 0.8 0.6 0.4 0.2 1.0 0.8 0.6 0.4 0.2 MCF10A si CTRL si PPP2R1A 10 20 30 40 50 Time interval (min) **** P <0.0001 MCF10A RAC1 Q61L si CTRL si PPP2R1A
-n.s. P = 0.15 10 20 30 40 50 -600 -300 300 600 -300 300 600 Time interval (min) Silver staining kDa 130 95 72 55 43 34 26 17 11 MCF10A si CTRL si PPP2R1A GAPDH MCF10A RAC1 Q61L si CTRL si PPP2R1A GAPDH kDa 50 50 kDa 50 50 FLAGGFP PPP2R1A MCF10A FLAGGFP PPP2R1A FLAGGFP PPP2R1A Endogenous PPP2R1A WB PPP2R1A kDa 115 80 70 50 GAPDH 600 300
--300 -600 -600 -300 300 600
--300 300 600 si CTRL si PPP2R1A MDAMB-231 si CTRL si PPP2R1A GAPDH kDa 50 50 1000 500 -500 -1000 -1000
--500 500 1000 -500 500 1000 1.0 0.8 0.6 0.4 0.2 10 MCF10A ** P = 0.0062 FLAGGFP PPP2R1A FLAGGFP 50 20 40 Time interval (min) 30 1.0 0.8 0.6 0.4 0.2 MDAMB-231 (3D) si CTRL si PPP2R1A 100 **** P <0.0001 20 40 60 80 Time interval (min) PPP2R1A interacts with the NHSL1containing WAVE Shell Complex
-"To decipher how PPP2R1A regulated migration of MCF10A and MDAMB-231 cells, we characterized its partners by proteomics."
-We puriﬁed FLAGGFP PPP2R1A by TAP (Fig. 2a) and identiﬁed its partners by mass spectrometry (Supplementary Table 2).
-"As expected, we detected in MCF10A and MDAMB-231 cells the catalytic phosphatase subunit and numerous regulatory subunits of PP2A complexes (PPP2R1B, PPP2R2D, PPP2R3B, PPP2R5A, PPP2R5B, PPP2R5C, PPP2R5D, and PPP2R5E) and its larger STRIPAK derivatives (STRN, STRIP2, STRN4, MOB4)."
-"PPP2R3C was detected associated with PPP2R1A in MCF10A, but not MDAMB- 231 cells."
-We expected to ﬁnd the whole WRC in line with the TAP puriﬁcation of ABI1.
-"However, we detected only 4 of the 5 subunits of the WRC (Fig. 2b), namely CYFIP1, NCKAP1, ABI1, and BRK1."
-BRK1 was Nature Communications | (2023) 14:3541 Article https://doi.org/10.1038/s41467023-39276w Fig.
-1 | Identiﬁcation of PPP2R1A as an ABI1 partner that regulates migration persistence.
-A MCF10A parental cells or genomeedited MCF10A cells where a RAC1 allele encodes the active RAC1 Q61L mutant form were stably transfected with plasmids expressing FLAGGFP or FLAGGFP ABI1.
-Cells were treated or not with 100 µM CK666 for 16 h in order to block the polymerization of branched actin and thus the suspected feedback loop that mediates migration persistence.
-FLAGGFP proteins were then puriﬁed by Tandem Afﬁnity Puriﬁcation and associated proteins were revealed by silver staining of SDS–PAGE gels.
-B Labelfree quantiﬁcation of selected proteins identiﬁed by mass spectrometry to be associated with ABI1.
-"3 biological repeats, mean ± sem of the log10 of fold changes are plotted."
-C MCF10A cells were transfected with pools of control (CTRL) or PPP2R1A siRNAs and analyzed by Western blots with PPP2R1A and GAPDH antibodies.
-Cell trajectories and migration persistence extracted from 2D migration of single MCF10A cells transfected with indicated siRNAs.
-"Tracking 7.5 h, n = 17 cells."
-d
-Same experiment as in c with MCF10A RAC1 Q61L cells.
-"Tracking 6 h, n = 18 cells."
-E MCF10A cells were stably transfected with plasmids expressing FLAGGFP or FLAGGFP PPP2R1A. Migration was analyzed as in c.
-"Tracking 10 h, n = 37 cells."
-F Same experiment as in c with MDAMB-231 cells analyzed in 3D collagen type I gels.
-"Tracking 12 h, n = 25 cells."
-"Most cell trajectories upon PPP2R1A depletion are so short that they cannot be well distinguished, because they overlap in the center of the graph."
-Trajectory plots are labeled in µm.
-"Three biological repeats of each experiment yielded similar results, only one is displayed."
-Data are shown as mean ± SEM.
-Statistical signiﬁcance was calculated with custommade R programs and P values are indicated.
-**P < 0.01; ****P < 0.0001; n.s. not signiﬁcant.
-Source data are provided as a Source Data ﬁle.
-"Only detected in MCF10A and not in MDAMB-231 cells, but this is likely because BRK1 generates only a few tryptic peptides from its short sequence of 75 aminoacids."
-"Surprisingly, the 3 WAVE proteins were absent from the TAP puriﬁcation from both cell lines."
-"We searched for NHS family proteins, which were reported to contain a Nterminal WAVE homology domain (WHD) similar to that responsible for WAVE incorporation into WRC8,22, and found NHSL1 in the TAP puriﬁcation from both cell lines."
-We validated the presence of NHSL1 and all WRC subunits except WAVE by western blots (Fig. 2c).
-"We never detected any WAVE protein in TAP puriﬁcation of PPP2R1A. When NHSL1 was depleted from cells using siRNAs, PPP2R1A immunoprecipitation did not retrieve WRC subunits, but still retrieved the PP2A catalytic subunit (Fig. 2d)."
-"This result suggests that NHSL1 is the subunit of this alternative complex that is recognized by PPP2R1A. To examine the composition of the alternative complex devoid of WAVE, we performed TAP to select for the presence of both PPP2R1A and the WRC subunit BRK1."
-We performed sequential FLAG - PC immunoprecipitations from the stable MCF10A cell line expressing both FLAGGFP PPP2R1A and PCHA BRK1.
-We indeed retrieved the WRC without WAVE but containing NHSL1 instead (Fig. 2e and Supplementary Table 3).
-"This TAP puriﬁcation of both PPP2R1A and BRK1 did not completely exclude PP2A subunits, since it also contained a subset of the subunits found in TAP of PPP2R1A alone, namely PPP2CA, PPP2R2A, PPP2R5D, PPP2R5E, and STRN."
-This result suggests that PPP2R1A can bind to this alternative WRC while being part of PP2A complexes.
-"To our knowledge, a physiological form of WRC without a WAVE subunit and containing an NHS family protein instead, has never been previously reported."
-NHSL1 was recently reported interacting with the complete canonical WRC through the ABI1 SH3 domain19.
-"PPP2R1A thus does not bind to all pools of NHSL1 molecules, but appears to select a speciﬁc conformation of NHSL1, where NHSL1 fully replaces WAVE within its complex."
-"We call this alternative to WRC, the NHSL1containing WAVE Shell Complex (WSC), to emphasize that this multiprotein complex, which normally embeds the WAVE subunit and regulates its activity, has lost its Arp2/3activating WAVE subunit."
-"To obtain a structural model of the WSC, we used the AlphaFold2 program40–42."
-"We were able to generate a highconﬁdence structural model (see Supplementary Methods) where NHSL1 interacted with the CYFIP1, NCKAP1, BRK1, and ABI2 subunits (Fig.2f)."
-"Core to this interaction is the WAVE homology domain (WHD, residues 30–90) that forms a triple coiled coil with BRK1 and ABI2 (Supplementary Fig. 3), as the Nterminal helix of the WAVE1 subunit in the case of the WRC8,43."
-"Unlike WAVE1 in the WRC, no other region of NHSL1, beyond the proline 97, is predicted to interact with WSC subunits."
-NHSL1 interactions within WSC appear less extensive than WAVE interactions within WRC.
-"Using in vitro translation with 35Smethionine, we were able to reconstitute the WSC, as we had previously reconstituted the WRC5."
-"The Nterminal fragment of NHSL1, containing the WHD, retrieves CYFIP1, NCKAP1, ABI1, and BRK1, but excludes WAVE2 (Fig. 3a)."
-"In contrast, the Cterminal fragment of NHSL1, containing ABI1 SH3 binding sites, can interact with the WRC containing WAVE2, as previously reported19."
-"Competition experiments using simultaneous translation of WAVE and NHSL1 WHD were consistent with structural predictions, since WAVE2 can displace NHSL1 WHD from the ‘shell’ composed of CYFIP1, NCKAP1, ABI1, and BRK1 (Fig.3b)."
-"The NHSL1 WHD, however, in line with the is unable to displace WAVE2, AlphaFold2 structural model where NHSL1 exhibited a smaller interaction surface within the WSC than WAVE within the WRC."
-"We then used a method designed to purify recombinant WRC, based on the expression of various subunits in bacteria and insect cells to purify the WSC44."
-It was indeed sufﬁcient to replace WAVE1 Nterminus by a fragment of NHSL1 containing its WHD to purify a WSC (Fig. 3c) that behaved like the WRC in gel ﬁltration (Fig. 3d).
-Direct observation of reconstituted WSC and WRC by electron microscopy after negative staining showed that the two complexes had similar sizes and shapes (Fig. 3e).
-"To obtain an estimate of the amount of WSC in the cell, we analyzed exponentially growing MCF10A cells, because we found that starvation downregulates WSC (Supplementary Fig. 4)."
-The distribution of WSC and WRC subunits were analyzed by ultracentrifugation along sucrose gradients.
-PPP2R1A overlapped with the catalytic phosphatase subunit of the PP2A complex (Supplementary Fig. 5).
-NHSL1 was in between WRC and PP2A complexes.
-We obtained PPP2R1A and NHSL1 KO MCF10A cell lines using CRISPR/Cas9 (Supplementary Fig. 5).
-"Importantly, the distribution of none of these subunits was altered upon depletion of PPP2R1A or of NHSL1 (Supplementary Fig. 5), suggesting that the WSC is not an abundant complex."
-"In an attempt to evaluate the relative amount of WSC compared to that of WRC, we performed sequential immunoprecipitations to distinguish WSC from WRC after a ﬁrst selection of BRK1containing complexes."
-We estimated that the WSC is 7 to 8 times less abundant than the WRC (Supplementary Fig. 4).
-"We also examined phosphosites when PPP2R1A was depleted or not, but found no differentially phosphorylated site on the WSC, on the WRC or on RAC1 itself (Supplementary Fig."
-6 and Supplementary Table 4).
-We then sought to examine PPP2R1A localization and used for this purpose B16F1 cells that develop prominent lamellipodia.
-Cells were transfected with GFPNHSL1 and mScarletPPP2R1A. PPP2R1A was colocalized with NHSL1 at the lamellipodial edge (Fig.
-4a and Supplementary Movie 5).
-"NHSL1 was strongly enriched at the lamellipodial edge, as previously described19, whereas PPP2R1A extended far beyond, in the entire width of the lamellipodium (Fig. 4b)."
-Arp2/3 is incorporated into branched actin networks and extends backwards through the actin retrograde ﬂow.
-We thus examined the colocalization of mScarletPPP2R1A with the GFPtagged Arp2/3 subunit ARPC1B.
-Both proteins colocalized in the width of lamellipodia (Fig.
-"4c and Supplementary Movie 6), but ARPC1B distribution declined steeply away from the edge, whereas PPP2R1A did not exhibit such a gradient (Fig. 4d)."
-These analyses suggest that PPP2R1A is a lamellipodial protein that is likely to interact with WSC at the cell edge.
-"To examine PPP2R1A dynamics, we performed Fluorescence Recovery After Photobleaching (FRAP) in the lamellipodia of B16F1 cells."
-"A fraction of GFPPPP2R1A was immobile, but the major fraction in the majority of cases recovered fast with a t1/2 of less than a second Nature Communications | (2023) 14:3541 https://doi.org/10.1038/s41467023-39276w"
-"Article MCF10A MDAMB-231 FLAGGFP PPP2R1A * FLAGGFP PPP2R1A * FLAGGFP MCF10A Input IP GFP FLAGGFP PPP2R1A FLAGGFP PPP2R1A NHSL1 CYFIP1 NCKAP1 WAVE1 WAVE2 WAVE3 ABI1 BRK1 GAPDH kDa 115 80 205 120 120 85 65 85 65 85 65 50 10 50 NHSL1 CYFIP1 NCKAP1 FLAGGFP PPP2R1A ABI1 *PP2Ac WAVE Shell Complex (WSC) NHSL1 ABI1 FLAGGFP PPP2R1A PCHA BRK1 Silver staining CYFIP1 NCKAP1 PC elution PCHA BRK1 kDa 185 MCF10A Input IP GFP kDa 115 80 205 120 120 85 65 50 10 30 50 115 80 70 50 30 25 15 10 WAVE Shell Complex (WSC) WAVE Regulatory Complex ABI2 NHSL1 (1123) ABI2 WAVE1 BRK1 kDa 116.3 97.4 66.3 55.4 36,5 31 21,5 14.4 Silver staining si CTRL si NHSL1 FLAGGFP PPP2R1A NHSL1 CYFIP1 NCKAP1 WAVE2 ABI1 BRK1 PP2Ac GAPDH BRK1 CYFIP1 NCKAP1 CYFIP1 NCKAP1 Fig."
-2 | PPP2R1A interacts with the WAVE Shell Complex (WSC) that contains NHSL1 instead of WAVE proteins.
-A MCF10A or MDAMB-231 cells stably expressing FLAGGFP or FLAGGFP PPP2R1A were subjected to FLAGGFP Tandem Afﬁnity Puriﬁcation and puriﬁed proteins were resolved by SDS–PAGE and silver stained.
-The same samples were used for mass spectrometry and Western blots.
-Three biological repeats with similar results.
-B Labelfree quantiﬁcation (LFQ) of proteins identiﬁed by mass spectrometry.
-"In both cell lines, NHSL1 is present at the expense of WAVE subunits."
-"Log10 of LFQ values, mean ± sem of three biological repeats."
-C GFP immunoprecipitates were analyzed by Western blots with the indicated antibodies.
-Three biological repeats with similar results.
-D PPP2R1A associates with the WSC through NHSL1.
-MCF10A cells expressing FLAGGFP PPP2R1A were transfected with pools of siRNAs targeting NHSL1 or nontargeting siRNAs (CTRL).
-GFP immunoprecipitates were analyzed by western blots.
-Three biological repeats with similar results.
-e
-A MCF10A cell line stably transfected with two plasmids expressing FLAGGFP PPP2R1A and PCHA BRK1 was subjected to FLAGPC Tandem Afﬁnity Puriﬁcation to purify the WSC.
-WSC composition was analyzed by mass spectrometry.
-Silver stained SDS–PAGE of puriﬁed WSC.
-The identity of WSC subunits and the lack of WAVE2 was conﬁrmed using Western blots.
-3 biological repeats with similar results.
-F Comparison of the structural model of the WSC obtained using AlphaFold2 with the Xray crystal structure WAVE Regulatory Complex (PDB:3P8C [https://www.wwpdb.org/pdb?id=pdb_00003p8c]).
-"The WSC was composed of NHSL1 (1123) in purple, CYFIP1 in green, NCKAP1 in cyan, BRK1 in yellow and ABI2 (1–160) in salmon."
-(Fig.
-5a–c and Supplementary Movie 7).
-The recovery was not different at the lamellipodial edge or in the width of the lamellipodium.
-"PPP2R1A recovery was homogenous throughout the lamellipodium width, unlike that of Arp2/3, which exhibits a retrograde ﬂow45."
-"When GFPNHSL1 and mScarletPPP2R1A were simultaneously photobleached, their recovery time at the lamellipodial edge was not different (Fig."
-"5d, e and Supplementary Movie 8)."
-These FRAP results are compatible with PPP2R1A transiently interacting with actin ﬁlaments in the width of lamellipodia and with NHSL1 at the lamellipodial edge.
-The requirement of PPP2R1A in cell migration and actin polymerization depends on the presence of NHSL1 was previously described as a negative regulator of cell
-It was thus surprising to ﬁnd PPP2R1A and NHSL1 migration19.
-Nature Communications | (2023) 14:3541 
-Article CYFIP1 NCKAP1 ABI1 BRK1 WAVE2 HANHSL1 FL HANHSL1 (1123) HANHSL1 (1241639)
-NHSL1 FL NHSL1 (1241639) CYFIP1 NCKAP1 WAVE2 ABI1 NHSL1 (1123) BRK1 Input + + + + + + + + + + + + ++ + - + + IP HA + + + + + + + + + + + + ++ + - + + 35 S autoradiography kDa 190 115 80 70 50 30 25 15 10 https://doi.org/10.1038/s41467023-39276w CYFIP1 NCKAP1 ABI1 BRK1 HANHSL1 (1123) WAVE2 Input + + + + + + + + + + + + ++ + + IP HA + + + + + + + + + + + + ++ + + CYFIP1 NCKAP1 WAVE2 ABI1 HANHSL1 (1123) BRK1 CYFIP1 NCKAP1 ABI1 BRK1 HAWAVE2 GFPNHSL1 (1123) kDa 190 115 80 70 50 30 25 15 10 CYFIP1 NCKAP1 HAWAVE2 ABI1 GFPNHSL1 (1123) BRK1 Input + + + + + + + + + + + + ++ + + IP HA + + + + + + + + + + + + ++ + + kDa 190 115 80 70 50 30 25 15 10 35 S autoradiography 35 S autoradiography kDa 150 100 75 50 37 25 20 15 10 Coomassie W S W R CYFIP1 NCKAP1 WAVE1(1230) ABI2 (1158) NHSL1 (28172)
-BRK1 Negative staining EM WSC 30 20 10 WRC WSC Vo Gel filtration 10 Elution volume (mL) 12 6602 4676 6249 4781 6495 80 40 20 14 4205 3882 4353 3717 3133 2712 2362 2340 2219 2054 20 nm 1068 976 1369 1119 1491 1100 20 nm 200 nm WRC 200 nm biochemically associated.
-"We have knocked down either PPP2R1A, or NHSL1, as well as both proteins simultaneously in order to study epistasis."
-"In line with previous ﬁndings, NHSL1 depletion strongly promoted migration persistence in random migration of single MCF10A cells."
-The decline of migration persistence upon PPP2R1A depletion was abolished by NHSL1 depletion (Fig.
-6a and Supplementary Movie 9).
-"Despite their opposite effects, neither of the two migration regulators appears to take over."
-"The simultaneous depletion of both regulators does not signiﬁcantly affect migration persistence compared to controls, as if the signaling circuit containing the PPP2R1A and NHSL1 was simply dispensable in this random migration assay."
-We then examined directional migration in a gradient of ﬁbronectin to further challenge cells.
-This haptotactic assay was previously shown to depend on Arp2/3 activity2.
-PPP2R1Adepleted cells were Nature Communications | (2023) 14:3541 Article https://doi.org/10.1038/s41467023-39276w Fig.
-3 | Reconstitution of the WAVE Shell Complex (WSC).
-"A In vitro translation of plasmids encoding subunits encoding the WRC with NHSL1 full length (FL) or indicated fragments in an untagged form or tagged with HA or GFP, as indicated."
-"Immunoprecipitation targeting the HA tag pulls down the WSC since the HA tagged NHSL1 Nterminal fragment (1–123), containing the WHD, excludes WAVE2."
-"In contrast, the NHSL1 Cterminal fragment (124–1639) associates with the WRC containing WAVE2."
-b
-Competition experiments using in vitro translation.
-"WAVE2 displaces NHSL1 WHD for binding the shell subunits CYFIP1, NCKAP1, ABI1, and BRK1, but NHSL1 WHD does not displace WAVE2."
-C Reconstitution of recombinant WSC and WRC.
-"Coomassieblue stained SDS–PAGE gel, where each lane contains 3 pmol of puriﬁed complex."
-D Gel ﬁltration chromatography of recombinant WSC and WRC using a 24 ml Superdex 200 column.
-Vo void volume.
-"Recombinant complexes are pure, assembled and do not aggregate."
-e
-Electron microscopy of recombinant WSC and WRC after negative staining.
-"Representative raw micrographs, 2D class averages and number of particles used to derive the class averages are shown."
-"Note the very similar shapes of the two complexes, particularly on the ﬁrst three class averages that were selected to display similar orientations."
-"Experiments were performed once in a and e for the WSC, twice in e for the WRC and three times in c and d with similar results."
-mScarletPPP2R1A GFPNHSL1 mScarletPPP2R1A GFPARPC1B 10 μm 10 μm Merge Kymograph Merge mScarletPPP2R1A Kymograph mScarletPPP2R1A GFPNHSL1 Merge 3 μm 2 min mScarletPPP2R1A GFPNHSL1 10μm GFPARPC1B
-Merge 3 μm 1 min mScarletPPP2R1A GFPARPC1B 10 μm -4 -2 Distance (μm) -4
--2
-Distance (μm) Fig.
-4 | PPP2R1A colocalizes with branched actin in the width of the lamellipodium and colocalizes with NHSL1 at the lamellipodium edge.
-A B16F1 cells were transiently transfected with mScarletPPP2R1A and GFPNHSL1.
-A kymograph was drawn along the line shown on the merge.
-B Overlap of PPP2R1A and NHSL1 over multiple radial line scans registered to the cell edge.
-"Data are shown as mean ± SD, n = 13 line scans."
-C B16F1 cells were transiently transfected with mScarletPPP2R1A and the Arp2/3 subunit GFPARPC1B. A kymograph was drawn along the line shown on the merge.
-D Overlap of PPP2R1A and ARPC1B over multiple radial line scans registered to the cell edge.
-"Data are shown as mean ± SD, n = 15 line scans."
-Source data are provided as a Source Data ﬁle.
-Strongly impaired in their ability to migrate toward higher concentrations of ﬁbronectin (Fig.
-6b and Supplementary Movie 10).
-"In contrast, depletion of the migration inhibitor NHSL1 rendered cells slightly, but signiﬁcantly, more efﬁcient at directed migration."
-"In this assay, as in random migration, simultaneous depletion of PPP2R1A and NHSL1 abolished the effects of each single depletion."
-"In two different cell migration assays, PPP2R1A and NHSL1 thus depend on each other."
-"To establish that the effects of the PPP2R1ANHSL1 signaling circuit were due to actin polymerization, we set up an in vitro reconstitution assay of actin polymerization in extracts prepared from MCF10A cells."
-Actin polymerization at the surface of glutathione beads was monitored by the incorporation of ﬂuorescent actin.
-GTPbound RAC1 Q61L was able to trigger the polymerization of actin structures from the surface of the beads (Fig. 7a).
-"These structures were discrete ﬁbers, not the dense meshwork observed around beads displaying CDC42 Q61L (Supplementary Fig. 7)."
-"These actin structures, however, were composed of branched actin, since their formation was impaired by the CK666 compound, as measured by their total ﬂuorescence and length."
-"These actin structures depended on the WRC, as shown using extracts prepared from NCKAP1depleted cells, and did not depend on the CDC42 effector NWASP, since they were not inhibited by the NWASP inhibitory compound wiskostatin46 (Supplementary Fig. 7)."
-Extracts prepared from PPP2R1Adepleted cells did not support actin polymerization from RAC1 Q61L displaying beads (Fig. 7b).
-Yet the extracts prepared from NHSL1depleted cells and those prepared from cells simultaneously depleted of PPP2R1A and NHSL1 were as Nature Communications | (2023) 14:3541 
-Article https://doi.org/10.1038/s41467023-39276w 10μm 1.2 1.0 0.8 0.6 0.4 0.2 -5 -3.2 s GFPPPP2R1A +0.4 s +3.2 s 10 μm 2 s 1 μm FRAP Lamellipodial recovery Leading edge recovery GFPPPP2R1A 1.2 1.0 0.8 0.6 0.4 0.2 -5 Immobile fractions 2.0 1.5 1.0 0.5 t1/2 (s) 1.0 0.8 0.6 0.4 0.2 GFPPPP2R1A Lamellipodium Leading edge 10 Time (s) -5.7 s 0 s +29.9 s 10 s 2 μm 10 s 2 μm P = 0.0684 1.0 0.8 0.6 0.4 0.2 15 mScarletPPP2R1A GFPNHSL1 P = 0.3186 10 10 15 20 Time (s) PPP2R1A NHSL1 PPP2R1A NHSL1 Fig.
-5 | FRAP of PPP2R1A and NHSL1.
-A B16F1 cells transfected with GFPPPP2R1A were subjected to photobleaching in the red area at time 0.
-"Kymographs built from the yellow rectangle showing the recovery, with ﬁltering for the width of the lamellipodium or the lamellipodial edge."
-B FRAP quantiﬁcation.
-c
-Quantiﬁcation of the time of half recovery and of the immobile fraction in the width of lamellipodia.
-"Mean ± sem, n = 16 from three independent experiments."
-D B16F1 cells were cotransfected with plasmids encoding GFPNHSL1 and mScarletPPP2R1A.
-The two ﬂuorescent proteins were subjected to simultaneous photobleaching in the red area at time 0.
-Kymographs built from the yellow rectangle show the recovery of the lamellipodial edge.
-E FRAP quantiﬁcation.
-F Quantiﬁcation of the time of half recovery and of the immobile fraction of both ﬂuorophores.
-Student’s t test.
-"Mean ± sem, n = 13 from three independent experiments."
-Statistical signiﬁcance was calculated with twotailed Mann–Whitney test and P values are indicated.
-Source data are provided as a Source Data ﬁle.
-Nature Communications | (2023) 14:3541 
-Article MCF10A si CTRL si NHSL1 si PPP2R1A NHSL1 PPP2R1A GAPDH 1.0 0.8 0.6 0.4 0.2 20 40 80 Time interval (min) 60 https://doi.org/10.1038/s41467023-39276w si CTRL si PPP2R1A si NHSL1 si PPP2R1A & NHSL1 kDa 205 70 50 si NHSL1 **** P <0.0001 **** P <0.0001 si CTRL si PPP2R1A & NHSL1 si PPP2R1A ** P = 0.0016 n.s.
-P = 0.26 P = 0.048 100 600 300 -300 -600 600 300 -300 -600 MCF10A si CTRL si NHSL1 si PPP2R1A NHSL1 PPP2R1A GAPDH kDa 205 70 50 n.s. P = 0.746 **** P <0.0001 P = 0.0121 **** P <0.0001 **** P <0.0001 0.5 -0.5 siRNA -600 -300 300 600 -300 300 600 300 200 100 -100 -200 -300 300 200 100 -100 -200 -300
-Si CTRL si PPP2R1A si NHSL1 si PPP2R1A & NHSL1 CTRL PPP2R1A
-NHSL1 PPP2R1A & NHSL1 -300 -200 -100 100 200 300 -300 -200 -100 100 200 300 Fig. 6 | PPP2R1A depends on NHSL1 to regulate cell migration.
-"MCF10A cells were transfected with pools of siRNAs targeting PPP2R1A, NHSL1 or both."
-Nontargeting siRNAs were transfected as controls (CTRL).
-Western blots were used to validate depletion.
-"A 2D cell trajectories and migration persistence of single MCF10A cells transfected with indicated siRNAs, Tracking 6 h, n = 23 cells."
-"Three biological repeats with similar results, only one is displayed."
-Data are shown as mean ± SEM.
-Statistical signiﬁcance was calculated with custommade R programs and P values are indicated.
-B Haptotaxis of MCF10A cells along a gradient of ﬁbronectin.
-Cell trajectories of MCF10A cells transfected with indicated siRNAs.
-Three biological repeats with similar results.
-"Tracking 8 h, n = 81 cells."
-Mean ± 95% conﬁdence intervals of Forward Motility Index are plotted.
-Trajectory plots are labeled in µm.
-Statistical signiﬁcance was calculated with ordinary oneway ANOVA with post hoc Tukey’s multiple comparison test and P values are indicated.
-*P < 0.05; **P < 0.01; ****P < 0.0001.
-Source data are provided as a Source Data ﬁle.
-Competent as wild type extracts in supporting actin polymerization.
-NHSL1 was detected associated with GSTRAC1 Q61L beads (Supplementary Fig.
-"8), in line with the fact that both CYFIP1 and NHSL1 harbor binding sites for active RAC19,19."
-We were struck by the fact that RAC1 Q61L suppressed the effect of PPP2R1A depletion in cell migration but not in the in vitro assay.
-"However, we ﬁgured that the NSC23766 inhibitor that prevents RAC1 activation by guanine exchange factors blocked actin polymerization in a dosedependent manner (Fig. 7c), suggesting that endogenous RAC1 activity was required for actin polymerization downstream of RAC1 Q61L. This result was conﬁrmed using siRNAmediated depletion of RAC1 from cell extracts (Fig. 7d)."
-"Together these observations corroborate the positive feedback loop hypothesis, since constitutively active RAC1 activates endogenous RAC1, and show the importance of PPP2R1A when this positive feedback is required."
-"Interestingly, three independent phosphatase inhibitors that blocked PP2A activity were inactive in the in vitro assay, reinforcing the suggestion that the role of PPP2R1A in regulating migration persistence and actin polymerization does not rely on PP2A phosphatase activity."
-Nature Communications | (2023) 14:3541 Article https://doi.org/10.1038/s41467023-39276w 15 10 GST CTRL CK666 si NCKAP1 GST CTRL si PPP2R1A si NHSL1 si PPP2R1A & NHSL1 GSTRAC1 Q61L GSTRAC1 Q61L 20 μm **** P <0.0001 *P = 0.012 GST CTRL CK666 si NCKAP1 GSTRAC1 Q61L 600 400 200 **** P <0.0001 P = 0.0133 GST CTRL CK666 si NCKAP1 GSTRAC1 Q61L 20μm n.s. P >0.9999 n.s. P >0.9999 **** P <0.0001 15 10 siRNA C T R L C T R L P P P 2 R 1 A N H S L1 P P P 2 R 1 A & N H S L1 n.s. P >0.9999 n.s. P >0.9999 **** P <0.0001 800 600 400 200 siRNA C T R L C T R L P P P 2 R 1 A N H S L1 P P P 2 R 1 A & N H S L1 GSTRAC1 Q61L GST GSTRAC1 Q61L GST GSTRAC1 Q61L CTRL 50 μM 100 μM Okadaic Acid (OA) Calyculin A (CalA) 
-Cantharidin (CAN) CTRL siRAC1 #1 siRAC1 #2 NSC23766 PP2A phosphatase inhibitors GSTRAC1 Q61L 15 10 20μm n.s. P >0.9999
-n.s. P >0.9999
-n.s. P = 0.6791 **** P <0.0001 **** P <0.0001 CTRL 50 μM 100 μM OA CalA CAN 800 600 400 200 n.s. P >0.9999
-n.s. P = 0.4002 n.s. P >0.9999 **** P <0.0001 **** P <0.0001 CTRL 50 μM 100 μM OA CalA CAN NSC23766 PP2A phosphatase inhibitors NSC23766 PP2A phosphatase inhibitors 20μm 15 10 800 600 400 200 **** P <0.0001 **** P <0.0001 siCTRL siRAC1 #1 siRAC1 #2 **** P <0.0001 **** P <0.0001 siCTRL siRAC1 #1 siRAC1 #2 Fig.
-7 | WSCdependent polymerization of branched actin in cellfree extracts.
-Beads coated with GST or GSTRAC1 Q61L were incubated with extracts of MCF10A cells.
-Rhodaminelabeled actin structures polymerized on the beads were examined by ﬂuorescent microscopy and quantiﬁed by average ﬂuorescence intensity and total structure length.
-All drug treatments were for 1 h and were controlled with DMSO.
-Three biological repeats with similar results for all experiments.
-n corresponds to the total number of beads used for quantiﬁcation from all three experiments.
-Data are shown as mean ± SEM.
-a cell were treated with 200 µM CK666 or depleted from NCKAP1 before preparation of extracts.
-"n = 41 for ﬂuorescence intensity, n = 19 for structure length."
-"B Extracts were prepared from MCF10A cells depleted of PPP2R1A, NHSL1 or both with siRNAs."
-n
-"= 58 for ﬂuorescence intensity, n = 29 for structure length."
-"C Extracts were prepared from MCF10A cells treated with the NSC23766 inhibitor of RAC1 activation or with the phosphatase inhibitors reported to inactivate PP2A phosphatase activity, okadaic acid (OA, 30 nM), calyculin A (CalA, 10 nM), or cantharidin (CAN, 10 µM)."
-"n = 62 for ﬂuorescence intensity, n = 40 for structure length."
-D Extracts were prepared from MCF10A cells depleted of RAC1 with siRNAs.
-n
-"= 52 for ﬂuorescence intensity, n = 40 for structure length."
-Statistical signiﬁcance was calculated with KruskalWallis test with post hoc Dunn’s multiple comparison test (a–c) or twotailed unpaired ttest (d) and P values are indicated.
-*P < 0.05; ****P < 0.0001.
-Source data are provided as a Source Data ﬁle.
-"Uncoupling PPP2R1A from WSC impairs migration persistence To uncouple PPP2R1A from WSC, we mapped PPP2R1A binding sites in NHSL1."
-NHSL1 was divided in four fragments excluding the WHD.
-"Upon transient transfection of 293T cells with GFP fusion of NHSL1 fragments, we found that the 4th fragment at the Cterminus of NHSL1 retrieved a large amount of PPP2R1A upon GFP immunoprecipitation (Fig. 8a)."
-"The 2nd fragment of NHSL1 that contains the two previously reported binding sites for the SH3 domain of ABI119 also retrieved PPP2R1A, but to a much lesser extent than the 4th fragment."
-The AlphaFold2 software predicted with high conﬁdence three motifs in fragment 4 that interact with the PPP2R1A scaffold or regulatory subunits retrieved in the WSC TAP (Fig. 8b).
-"The ﬁrst two motifs recognize the ﬁrst HEAT repeat of PPP2R1A, but with different binding and probably mutually exclusive modes."
-"The third motif of NHSL1 fragment 4 corresponds to a previously described consensus motif for binding regulatory subunits of the B56 family, such as PPP2R5D and PPP2R5E47."
-"Upstream of the consensus motif, binding is reinforced by a long stretch of 25 residues containing two successive proline residues (Supplementary Fig."
-8).
-We isolated MCF10A cells that stably express NHSL1 fragment 4.
-Migration persistence was dramatically decreased in these cells compared to controls (Fig.
-"8c, Supplementary Fig. 9, and Supplementary Movie 11), suggesting that coupling PPP2R1A to the WSC is critical to regulate cell migration."
-"To obtain further evidence of this point, we investigated the activity of mutated PPP2R1A. PPP2R1A is frequently mutated in tumors, especially in gynecologic cancers48."
-"We then isolated stable transfectants from the PPP2R1A KO cell line that expressed FLAGGFP PPP2R1A fusion proteins, either wild type or harboring the frequent cancerassociated mutations, P179R, R183W, or W257C. GFP immunoprecipitations showed that the three mutations strongly impair binding to the WSC, but not to the PP2A catalytic subunit (Fig. 9a)."
-"In the 2D cell migration assay, PPP2R1A KO MCF10A cells displayed reduced migration persistence, like PPP2R1A knockeddown cells."
-Reduced persistence was associated with decreased RAC1 levels and activity (Supplementary Fig. 1).
-"Whereas wildtype PPP2R1A rescued the phenotype, mutated forms of PPP2R1A were unable to restore persistence (Fig."
-9b and Supplementary Movie 12).
-This experiment conﬁrms that the interaction of PPP2R1A with the WSC is important for migration persistence.
-We then differentiated acini from the stable rescued cell lines at the surface of Matrigel.
-"PPP2R1A KO MCF10A cells were impaired in their ability to differentiate hollow acini with correct cell polarity, a hallmark of cell transformation (Fig. 9c)."
-The multicellular structures formed instead were also less regularly spherical than controls.
-"These phenotypes were rescued by wild type PPP2R1A, but not with the derivatives harboring a mutation."
-These results conﬁrm that the tumorassociated mutations are lossof-function mutations and suggest that the interaction of PPP2R1A with the WSC might be important to prevent cancer progression.
-Nature Communications | (2023) 14:3541 10 Article NHSL1 full length WHD ABI1 SH3 domain binding sites NHSL1 fragments HEK 293T Input IP GFP CTRL GFP
-NHSL1 FL GFP PPP2R1A βactin kDa 205 120 85 65 50 30 70 50 50 https://doi.org/10.1038/s41467023-39276w NHSL1 fragment 4 Motifs 1 2 3 PPP2R1A PPP2R5D PPP2R5E Nter motif 1 Nter motif 2 Cter motif 3 300 200 100 -100 -200 300 200 100 -100 -200
--300 GFP CTRL GFP
-NHSL1 F4 -200 200 1.0 0.8 0.6 0.4 0.2 MCF10A CTRL NHSL1 F4 **** P <0.0001 20 40 60 80 100 Time interval (min) Fig.
-8 | The Cterminal fragment 4 of NHSL1 that binds to PPP2R1A is dominantnegative towards migration persistence.
-A Scheme of NHSL1 FL and fragments.
-WHD: WAVE homology domain.
-HEK 293 T cells were transiently transfected with GFPNHSL1 FL or NHSL1 fragments.
-Transfected cells were subjected to GFP immunoprecipitation.
-Western blots with the indicated antibodies.
-"Three biological repeats of the same experiment with similar results, only one is displayed."
-B Prediction of three structural motifs that recognize the scaffolding subunit PPP2R1A or the regulatory subunit PPP2R5D of the PP2A complex using AlphaFold2.
-Cartoon representations of the complexes between PPP2R1A (gray) and motif 1(P1380SRPDDH1410 of NHSL1 in violet or motif 2 (A1430SPEPS1490 of NHSL1 in violet).
-Motif 3 (S1522LSEPV1569 of NHSL1 in violet) interacts with PPP2R5D (wheat) and PPP2R5E (wheat).
-"C Cell trajectories, migration persistence, cell speed and MSD were extracted from 2D random migration of MCF10A cells stably expressing GFPNHSL1 fragment 4."
-"Tracking 7.5 h, n = 23 cells."
-Trajectory plots are labeled in µm.
-"Two biological repeats of the same experiment with similar results, only one is displayed."
-Data are shown as mean ± SEM.
-Statistical signiﬁcance was calculated with custommade R programs and P values are indicated.
-****P < 0.0001.
-Source data are provided as a Source Data ﬁle.
-Discussion
-"In this study, we uncovered a regulator of migration persistence, PPP2R1A, using differential proteomics when RAC1 was activated and when the formation of its downstream product, branched actin, was impaired."
-"PPP2R1A is a subunit of the PP2A phosphatase complex, but we found no evidence that PP2A phosphatase activity was involved in PPP2R1Adependent regulation of migration persistence: (i) in differential proteomics, levels of catalytic subunits retrieved in ABI1 TAP did not vary as those of PPP2R1A; (ii) we were unable to identify a site on the RAC1/WRC/WSC machinery, whose phosphorylation would depend on PPP2R1A; (iii) PPP2R1Adependent actin polymerization downstream of RAC1, reconstituted in a bead assay, did not require PP2A phosphatase activity in the cell extract."
-It is thus possible that the function of PPP2R1A in regulating migration persistence is independent of the PP2A complex.
-"In line with this idea, a largescale proteomics-based quantiﬁcation of protein abundance has previously revealed that PPP2R1A was almost one order of magnitude more abundant than PP2A catalytic and regulatory subunits with which it associates49."
-"Yet there is no mutual exclusivity of PPP2R1A interaction with the WSC and assembly of PP2A complexes, since we detected PP2A catalytic and regulatory subunits when we selected the WSC by TAP."
-"The Atype scaffold subunit PPP2R1A is composed of 15 HEAT repeats, onto which the catalytic C subunit and one of the various B regulatory subunits assemble to form the ABC holoenzyme of PP2A32."
-"PPP2R1A is mutated in various cancers, particularly often in endometrial cancers (up to 20% in some subtypes)36."
-Tumorassociated PPP2R1A substitutions fall into hotspots.
-"Most point mutations cluster in HEAT repeats 5 and 7, where they have been shown to impair the interaction with B regulatory subunits to a varying extent depending on the mutation and the B subunit considered50,51."
-"The 3 mutations of PPP2R1A, P179R, and R183W in HEAT repeat 5 and W257C in HEAT repeat 7, strongly impaired the interaction with the WSC."
-This result highlights the importance of the indirect binding mode of PPP2R1A to NHSL1 through NHSL1 motif 3 and B regulatory subunits47.
-"The ﬁrst two motifs of NHSL1 that directly bind to PPP2R1A might contribute to an avidity effect, involving simultaneous direct and indirect interactions, required for a strong interaction of the WSC with PPP2R1A. One of the 3 mutations we study here in the breast cell line MCF10A, R183W, has been detected in 7% of mammary carcinomas52."
-Using a PPP2R1A knockout cell line we examined the rescue provided by wild type or mutated forms.
-We unambiguously showed that these tumorassociated mutations inactivate PPP2R1A with respect to migration persistence and to the differentiation of polarized acini in Matrigel.
-"Impairing cell polarity in acini for cancer progression53,54."
-"On the contrary, one can expect at least some persistence of tumor cell migration to be required for tissue invasion and metastasis formation."
-"PPP2R1A is an atypical tumor suppressor gene, since only one of the two alleles is mutated in tumors, which is classical of oncogenes."
-"Haploinsufﬁciency and dominant negative effects are thought to account for PPP2R1A inactivation in tumors50,55."
-Is clearly relevant
-"The here uncovered WSC, where NHSL1 replaces the WAVE subunit, is an alternative form of WAVE complex that was suspected, based on the presence of a WAVE homology domain (WHD) in NanceHoran Syndrome family proteins22, but was not previously reported."
-"Now that we have identiﬁed the NHSL1containing WSC, it would be interesting to know whether other proteins of the family, such as NHS and NHSL2, can form similar WAVE shell complexes."
-"The question is difﬁcult to address, since it took the identiﬁcation of another protein, PPP2R1A, to isolate the NHSL1containing WSC from other NHSL1 conformations bound to the WRC."
-"It was previously reported19, and has been conﬁrmed here, that NHSL1 can bind to the WAVE containing WRC Nature Communications | (2023)"
-14:3541 11 Article MCF10A PPP2R1A KO Input IP GFP https://doi.org/10.1038/s41467023-39276w FLAGGFP PPP2R1A FLAGGFP NHSL1 CYFIP1 NCKAP1 WAVE2 ABI1 BRK1 PP2Ac βactin GG FLA FLAGGFP PPP2R1A P179R
-R183W
-W257C GG FLA FLAGGFP PPP2R1A P179R
-R183W
-W257C kDa 115 80 70 50 30 205 120 120 85 65 50 10 30 50 30 400 200 -200 400 200 -200 -400 MCF10A PPP2R1A KO + WT KO + P179R KO + R183W KO +
-W257C -200 200 400 -200 200 400 -200 200 400 1.0 0.8 0.6 0.4 0.2 -0.2 **** P <0.0001 MCF10A KO + WT KO +
-P179R KO + R183W KO + W257C
-n.s. P = 0.076 **** P = 0.016
-n.s. P = 0.45 n.s.
-P = 0.93 n.s. P = 0.61 20 40 60 80 100 Time interval (min) MCF10A PPPP2R1A KO + WT KO + P179R KO + R183W KO + W257C
-50μm 100 50 F10A n.s. P = 0.564 **** P <0.0001 **** P <0.0001 **** P <0.0001 **** P <0.0001 O + W257C P2R1A K O + W O + P179R O + R183W 1.2 0.9 0.6
-0.3 F10A n.s. P = 0.585 **** P <0.0001 *** P = 0.0003 **** P <0.0001 **** P <0.0001 P2R1A K O + W O + P179R O + R183W
-O + W257C Fig.
-9 | Effects of tumorassociated mutations of PPP2R1A. A Impairment of WSC interaction.
-"PPP2R1A knockout MCF10A cells stably transfected with plasmids expressing GFPtagged WT or mutant forms of PPP2R1A from tumors of patients were subjected to GFP immunoprecipitation and immunoprecipitates were analyzed by western blots with antibodies that recognize WRC, WSC, and the catalytic subunit of the PP2A phosphatase complex."
-Three biological repeats with similar results.
-B Impairment of migration persistence.
-"2D cell trajectories and migration persistence of MCF10A parental cells, KO, and rescue derivatives."
-"Three biological repeats with similar results, only one is displayed."
-"Tracking 8 h, n = 19 cells."
-Data are shown as mean ± SEM.
-Statistical signiﬁcance was calculated with custommade R programs and P values are indicated.
-C Impairment of epithelial morphogenesis.
-"MCF10A parental cells, PPP2R1A KO and rescue derivatives were seeded onto Matrigel and grown for 3 weeks."
-"Acini were ﬁxed and stained with DAPI (blue), phalloidin (green) and antibodies targeting the apical Golgi marker GM130 (red)."
-Multicellular structures were observed using confocal microscopy.
-Three biological repeats with similar results.
-Acini with altered polarity or no lumen were scored as abnormal.
-"Roundness of acini outlines, based on central confocal sections."
-Quantiﬁcation of the three biological repeats.
-n = 23 acini.
-Data are shown as mean ± SEM.
-Statistical signiﬁcance was calculated with Kruskal–Wallis test with post hoc Dunn’s multiple comparison test (left) or ordinary oneway ANOVA with post hoc Tukey’s multiple comparison test (right) and P values are indicated.
-*P < 0.05; **P < 0.01; ***P < 0.001; ****P < 0.0001.
-Source data are provided as a Source Data ﬁle.
-"Nature Communications | (2023) 14:3541 12 Article https://doi.org/10.1038/s41467023-39276w through its Cterminus, which is recognized by the ABI1 SH3 domain."
-"A particularly striking observation is that PPP2R1A is required for migration persistence, whereas NHSL1 inhibits persistence."
-"Importantly, each protein depends on the other to perform its function."
-PPP2R1A might suppress the negative role of NHSL1 in the WSC.
-"It can also be that the NHSL1containing WSC has a positive regulatory role, whereas the other NHSL1 pool inhibits the WRC."
-The identiﬁcation of the WSC raises several questions.
-Does the WSC correspond to an intermediate in the WRC life cycle?
-"If so, at which stage?"
-During WRC assembly or during the activation of an already assembled WRC?
-Is it possible that the NHSL1containing WSC is just a parallel assembly alternative to the WRC?
-"Control PPP2R1A WSC Our main ﬁndings that PPP2R1A regulates migration persistence through its ability to interact with the NHSL1containing WSC appears counterintuitive, because the WSC does not contain WAVE and thus cannot directly activate Arp2/3."
-"Nonetheless, the data suggests that the PPP2R1AWSC interaction can contribute to WRC activation."
-"That would be in addition to the wellestablished primary mechanism, which has been reconstituted in vitro without PPP2R1A and NHSL1: active RAC1 activates the WRC through a conformational change that exposes the Arp2/3 activating WCA domain of WAVE9,12."
-"Freeing WAVE from the WRC that maintains it inactive6,7 would be another way to expose its Arp2/3activating WCA motif."
-"WAVE proteins were reported to be degraded by proteasomes upon cell activation and ubiquitylated on a speciﬁc lysine residue in their WHD56,57."
-But these reports do not demonstrate that this is a free form of WAVE that is degraded after and NHSL1 subunits in the shell complex are technically challenging to detect in the cell.
-Future work should be devoted to this question if we want to reﬁne our understanding of the molecular mechanisms by which PPP2R1A coupling to the NHSL1containing WSC contributes to migration persistence.
-Between WAVE activation.
-"Exchange events Migration persistence depends on positive feedback23, which is manifested in propagating waves of branched actin polymerization25."
-Positive feedback has been observed at multiple molecular levels.
-The simple fact that the product of the Arp2/3 reaction is an actin ﬁlament that can in turn become the substrate of another Arp2/3dependent branching reaction is positive feedback referred to as an autocatalytic reaction58.
-"The WRC turns over at the lamellipodium edge due to elongation of actin ﬁlaments that it contributes to generating27,59."
-Coronin1A decorates lamellipodial actin and further activates RAC1 via its association with ArhGEF760.
-"Similarly, we found PPP2R1A in the width of the lamellipodium, ideally localized to sense lamellipodial actin, whereas PPP2R1A association with the WSC is likely to take place at the lamellipodium edge, where NHSL1 is localized and turns over with similar kinetics as PPP2R1A. The interaction of PPP2R1A with WSC would thus be where Arp2/3 generates branched actin (Fig.10)."
-"Many observations converge on a potential implication of PPP2R1A in a positive feedback loop: (i) we initially focused on PPP2R1A, among the many ABI1 partners, because its interaction with the WSC was regulated by branched actin; (ii) PPP2R1A depletion by knockdown and knockout decreases RAC1 activity and levels; (iii) PPP2R1A is dispensable for migration persistence when RAC1 is constitutively activated by the Q61L mutation; and (iv) the requirement for PPP2R1A in the polymerization of branched actin is associated with positive feedback where RAC1 Q61L immobilized at the surface of beads activates endogenous RAC1 from the extract."
-"All of this evidence points to a possible role for PPP2R1A, and the WSC it associates with, in the positive feedback that sustains directional migration through continuous actin polymerization at the leading edge."
-"Future work should aim to ﬁnd ways to dissect, at the molecular level, the complex circuitry that mediates feedback and persistence."
-Uncoupling PPP2R1A from the WSC Fig.
-"10 | Model. PPP2R1A, localized throughout the lamellipodium width, interacts with the WSC at the lamellipodial edge to mediate migration persistence."
-"When PPP2R1A is uncoupled from the WSC using the fragment 4 of NHSL1 or tumorassociated mutations, migration persistence decreases."
-"Methods Cells and drugs MCF10A cells were grown in DMEM/F12 medium supplemented with 5% horse serum, 20 ng/mL epidermal growth factor, 10 µg/mL insulin, 100 ng/mL cholera toxin, 500 ng/mL hydrocortisone, and 100 U/mL penicillin/streptomycin."
-"MDAMB-231, HEK 293 T and B16F1 cells were grown in DMEM medium with 10% FBS and 100 U/mL penicillin/ streptomycin."
-Medium and supplements were from Life Technologies and Sigma.
-Cells were incubated at 37 °C in 5% CO2. B16F1
-(CRL6323) and HEK 293 T (CRL3216) cells were from ATCC.
-"MCF10A and MDAMB-231 cell lines were from the collection of breast cell lines organized by Thierry Dubois (Institut Curie, Paris)."
-"MCF10A RAC1 Q61L cell line was bought from Horizon Discovery Ltd. (Cambridge, UK)."
-"CK666, NSC23766 and wiskostatin were purchased from Merck."
-"The three PP2A inhibitors, okadaic acid sodium salt, CalyculinA and Cantharidin, were purchased from Santa Cruz Biotechnology."
-Plasmids and in vitro translation The following plasmids were built using a building block method:61 MXS AAVS1L SA2A Puro bGHpA EF1FLAG GFP Blue2 Sv40pA AAVS1R (control) MXS AAVS1L SA2A Puro bGHpA EF1 FLAG GFP ABI1 Sv40pA AAVS1R MXS AAVS1L SA2A Puro bGHpA EF1 FLAG GFP PPP2R1A Sv40pA AAVS1R MXS AAVS1L SA2A Puro bGHpA EF1 FLAG GFP
-ARPC1B Sv40pA AAVS1R MXS PGK Blasti bGHpA CAG PC HA Blue2 Sv40pA (control) MXS PGK Blasti bGHpA CAG PC HA BRK1 Sv40pA MXS PGK ZeoM bGHpA EF1Flag mScarlet PPP2R1A SV40pA The plasmid pCAGEGFP-NHSL1IRES-Puro encodes a GFP fusion protein with FL NHSL1 (11639) including the WHD domain.
-"FL NHSL1 Nature Communications | (2023) 14:3541 13 Article https://doi.org/10.1038/s41467023-39276w (NVSEA…LSEES) corresponds to the isoform X6 (XP_047275069.1) with 7 substitutions T440I, A449V, T891A, G1082E, A1123T, P1329S, and S1466N. The fragments 1 (MVVFI…KSRDH), 2 (LISRH…EGSGT), 3 (MKKLD…VEPAE), isoform X19 correspond and (XP_047275073.1) with 7 substitutions T363I, A372V, T814A, G1005E, A1046T, P1252S, and S1389N and were expressed as GFP fusion proteins from the same plasmid as the fulllength NHSL1."
-The MBP - NHSL1 (28–172) fusion protein with a TEV cleavage site between the two proteins was expressed from a modiﬁed pMALc2X (New England Biolabs).
-"The two For in vitro translation, ORFs were subcloned into pCS2 or pCS2HA, and expressed from the SP6 promoter in the TnT® Quick Coupled Transcription/Translation System (Promega L2080) in the presence of 35SMet (PerkinElmer NEG709A005MC), as described previously5,43."
-"Stable cell lines Stable transfections of MCF10A and MDAMB-231 cells were performed using Lipofectamine 3000 (Invitrogen) with the plasmids encoding FLAGGFP, FLAGGFP ABI1, FLAGGFP PPP2R1A, GFP NHSL1 Fragment 4."
-"To obtain stable integration at the AAVS1 site, cells were cotransfected with two TALEN constructs (Addgene #59025 and 59026) inducing a double strand break at the AAVS1 locus62."
-Cells were selected with 1 µg/mL puromycin (Invivogen) and pooled.
-Stable MCF10A double cell line was obtained by transfecting cells stably expressing FLAGGFP PPP2R1A with PCHA BRK1 or PCHA Blue2.
-Cells were then selected with 10 µg/ml of Blasticidin (Invivogen).
-Single clones were expanded and analyzed by Western blot.
-Knockdown and knockout MCF10A and MDAMB-231 knockdown cells were obtained by transfecting 20 nM siRNAs with Lipofectamine RNAiMAX (Invitrogen).
-"siRNAs were Dharmacon ONTARGET SMART Pools (L010259-000010 for PPP2R1A, L032698-000010 for NHSL1, L010640-000010 for NCKAP1) or Sigma siRNAs CCTTTGTACGCTTTGCTCA and GCCACTACAACAGAATTTT to target RAC1."
-Cells were analyzed after 3 days.
-Lines were generated with CRISPR/ MCF10A knockout cell Cas9 system.
-The following gRNAs were used: PPP2R1A 5′-CATAGACGAACTCCGCAATG3′ NHSL1 5′-TCGGCTTTCCTCATCTAGGT3′ nontargeting 5′-AAAUGUGAGAUCAGAGUAAU3′.
-"Cells were transfected with gRNA, tracrRNA, and Cas9 protein by Lipofectamine CRISPRMAX™ (all reagents from ThermoFischer Scientiﬁc)."
-"After 2 days, cells were diluted at 0.8 cells/well in 96well plates."
-Single clones were expanded and analyzed by western blot.
-The positive clones were conﬁrmed by sequencing.
-"Antibodies The antibodies used were: antiPPP2R1A (Bethyl Laboratories, A300962A, 1:2000); antiNHSL1 (SigmaAldrich, HPA029967, 1:1000); antiPP2Ac (Bethyl Laboratories, A300732A, 1:3000); antiGFP (Roche, 11814460001, 1:1000); antiNCKAP1 (Bethyl Laboratories, A305178A, 1:3000); antiWAVE1 (R&D Systems, AF5514, 1:1000); antiWAVE3 (R&D Systems, AF5515, 1:1000); antiphospho-WAVE2 Ser308 (Millipore, 071511, 1:1000); antiRAC1 (BD Biosciences, #610651, 1:500); antiphospho-RAC1 Ser 71 (Cell Signaling Technology, #2461 T, 1:1000); antiGAPDH (Thermo Fisher Scientific, AM4300, 1:4000); antiβ-actin (Thermo Fisher Scientific, AM4302, 1:4000); and antiGM130 (#610823, BD Biosciences, 1:100)."
-"Homemade CYFIP1, ABI1, WAVE2 antibodies and BRK1 antibody were described previously5,43."
-"Western blots Cells were lysed in XBNP40 buffer (50 mM HEPES, 50 mM KCl, 1%NP40, 10 mM EDTA, pH 7.7) supplemented with protease inhibitor (Roche), the lysates were clariﬁed by centrifugation at 13,000 rpm for 15 min and subjected to SDS–PAGE using NuPAGE 412% BisTris or 3–8% TrisAcetate gels (Life Technologies)."
-"Pieces of nitrocellulose membranes were cut and incubated with different primary antibodies, HRP conjugated secondary antibodies (Sigma) and developed with SuperSignal™ West Femto Substrate (Thermo Fisher Scientific) and ChemiDoc imaging system (BIORAD)."
-Densitometry of Western blots was performed with ImageJ. Uncropped images are provided in the source data ﬁle.
-"Immunoprecipitations and tandem afﬁnity puriﬁcation of the WSC Cells stably expressing FLAGGFP ABI1 or FLAGGFP PPP2R1A were lysed with XBNP40 buffer (50 mM HEPES, 50 mM KCl, 1% NP40, 10 mM EDTA, pH 7.7) supplemented with protease inhibitors at 4 °C for 30 min."
-The phosphatase inhibitor cocktail PhosSTOP (Roche) was added for phosphosite analysis.
-"The lysates were clariﬁed by centrifugation at 13,000 rpm for 15 min. Clariﬁed cell extracts were incubated with FLAGM2 beads (Sigma) at 4 °C for 4 h. FLAGM2 beads were washed with XBNP40 buffer and eluted with 0.5 mg/ml FLAG peptide (Sigma) in XB (50 mM HEPES, 50 mM KCl, 10 mM EDTA, pH 7.7) overnight at 4 °C."
-FLAG elutions were collected and incubated with GFPtrap beads (Chromotek) at 4 °C for 1 h.
-The GFPtrap beads were washed with XBNP40 buffer.
-"20% of the beads were subjected to SDS–PAGE for Western blot or silver staining (SilverQuest Silver Staining Kit, Thermo Fisher Scientific)."
-"In all, 80% of the beads were analyzed by mass spectrometry."
-"In vitro translation reactions of 50 μl were diluted with 450 μl of XB buffer (20 mM Hepes, 100 mM KCl, 1 mM MgCl2, 0.1 mM EDTA, pH 7.7) and 10 μl of beads coupled to an antiHA mAb (Merck, A2095) were added."
-The mixture was incubated for 2 h at 4 °C.
-Then the beads were washed four times with 1 ml of XB buffer and resuspended in SDS loading buffer.
-"SDS–PAGE gels were incubated with gel drying buffer (15% methanol and 5% glycerol) for 1 h, then dried."
-Autoradiography was revealed with a Typhoon imager FLA 7000 (GE Healthcare).
-"To purify the WSC, MCF10A cells stably expressing FLAGGFP PPP2R1A and PCHA BRK1 were lysed with XBNP40 buffer (50 mM HEPES, 50 mM KCl, 1% NP40, 10 mM EDTA, pH 7.7) supplemented with protease inhibitors at 4 °C for 1 h, then the lysates were clariﬁed by centrifugation at 13,000 rpm for 15 min. Cell extracts were incubated with FLAGM2 beads (Sigma) overnight at 4 °C."
-"FLAGM2 beads were washed with XBNP40 buffer, and eluted with 0.5 mg/ml FLAG peptide (Sigma) in FLAGelution buffer (50 mM HEPES, 50 mM KCl, 1 mM CaCl2, pH 7.7)."
-"FLAG elutions were incubated with PC beads (AntiProtein C Afﬁnity Matrix, Sigma) overnight at 4 °C."
-"PC beads were washed and eluted with EGTAcontaining elution buffer (50 mM HEPES, 50 mM KCl, 10 mM EGTA, pH 7.7) overnight."
-PC elutions were subjected to SDS–PAGE and mass spectrometry.
-"Puriﬁcation of recombinant proteins and complexes GST and GST fusion proteins with RAC1 WT, RAC1 Q61L, CDC42 Q61L and the RAC1 binding domain of PAK1 were expressed in and puriﬁed from E. coli BL21."
-"After 3 hours induction at 37 °C with 1 mM IPTG, cells were resuspended and lysed in lysis buffer (50 mM TrisHCl, 100 mM NaCl, 2.5 mM CaCl2, 10 mM MgCl2, 1% Triton X100, 5% glycerol, 0.5 mg/ ml lysozyme, 10 μg/ml DNAseI, 1 mM DTT, pH 8.0, protease inhibitors) at 4 °C for 1 h."
-The lysates were clariﬁed by centrifugation at full speed in a tabletop centrifuge for 30 min.
-The supernatants were incubated with Glutathione Sepharose beads (GE healthcare) at 4 °C for 3 h.
-"The beads were washed with TBS buffer (50 mM Tris, 100 mM NaCl, 2.5 mM CaCl2, 5 mM MgCl2, 1 mM DTT, pH 8.0), then the bound proteins were eluted with GST elution buffer (50 mM TrisHCl, 5 mM MgCl2, 10 mM glutathione, pH 8.0)."
-"The elutions were dialyzed in buffer (50 mM Tris, 5 mM MgCl2, 20% glycerol, pH 8.0) and kept at −80 °C until use."
-"To purify the recombinant WSC, the protocol for recombinant WRC was followed44."
-"Brieﬂy, CYFIP1 and NCKAP1 were individually expressed as His tagged fusion proteins in insect cells and a dimer Nature Communications | (2023) 14:3541 14 Article https://doi.org/10.1038/s41467023-39276w reconstituted; BRK1, ABI1 (1158), and WAVE1 (1230) or NHSL1 (28172) were individually expressed as MBPfusion proteins in E.coli and a trimer reconstituted."
-Reconstituted pentamers were puriﬁed on a SOURCE 15Q (Cytiva) anion exchange column and polished on a Superdex 200 (Cytiva) gel ﬁltration column.
-"For electron microscopy examination, puriﬁed WSC and WRC were diluted to 24 and 33 ng/µl, respectively, in 10 mM Hepes pH 7.0, 100 mM NaCl, 2 mM MgCl2, 2 mM DTT and 10 % glycerol and 3 µl was then applied to freshly glow discharged carboncoated 200 mesh copper support EM grids (EMS)."
-"After 1 min incubation, the sample was blotted and immediately replaced with the stain solution containing 2% uranyl acetate, which was blotted and replaced twice."
-"The grids were imaged on a JEOL 2100 STEM using a Gatan One View 4 K digital camera at 200 keV, 80 ×900 magniﬁcation to collect 132 WSC and 194 WRC micrographs at 2 s (~25 e−/Å 2) exposure with a pixel size of 1.85 Å."
-The micrographs were processed with cryoSPARC63 to obtain 2D class averages.
-GST pulldown and RAC1 activation assay MCF10A cell extracts were prepared with XBNP40 buffer as described above.
-"20 μg puriﬁed GST fusion proteins were incubated with 20 μl Glutathione Sepharose beads (GE healthcare) in 500 μl incubation buffer (50 mM TrisHCl, 100 mM NaCl, 2.5 mM CaCl2, 10 mM MgCl2, 1% Triton X100, 5% glycerol, 1 mM DTT, pH 8.0) at 4 °C for 1 h."
-The precoated beads were washed and incubated with 1 ml MCF10A cell extract at 4 °C for 1 h.
-The beads were washed with XBNP40 buffer and subjected to Western blot.
-"RAC1 activation was also measured by ELISA (GLISA kit BK128 from Cytosketon, Inc.) according to the manufacturer’s instructions."
-"Actin polymerization in cellfree extracts MCF10A cells were lysed either by nitrogen cavitation (Parr instruments, 500 Psi for 20 minutes) in buffer (50 mM HEPES, 50 mM NaCl, 5 mM MgCl2, 0.1 mM EDTA, 1 mM DTT, pH 7.7, protease inhibitor), or with NP40 containing buffer (50 mM HEPES, 50 mM KCl, 5 mM MgCl2, 1% NP40, pH 7.7, protease inhibitor) at 4 °C for 30 min."
-"The NP40 containing extract supported RAC1 Q61Linduced actin polymerization, whereas extract obtained by nitrogen cavitation supported CDC42 Q61Linduced actin polymerization."
-"The extracts were clariﬁed by centrifugation at full speed in a tabletop centrifuge for 15 min. 10 μl clariﬁed cell extract was supplemented with 2 μl energy mix (20 mM ATP, 150 mM creatine phosphate, 20 mM MgCl2, 2 mM EGTA) and 0.75 μl rhodamineactin (1 mg/ml, Cytoskeleton, Inc.)."
-"The mixture was centrifuged 5 min at 13,000 rpm."
-"To trigger the reaction, 1 μl Glutathione Sepharose beads bound to 2 μg GSTRAC1 Q61L or GSTCDC42 Q61L were added to a 10 μl reaction mix."
-"After 1 h incubation at room temperature, the reaction was squashed in between a coverslip and the microscope slide."
-The coverslip was sealed with melted VALAP (VaselineLanoline-Parafﬁn).
-The beads were observed under an inverted microscope (Olympus IX83) with 60x oil objective.
-Fluorescence intensity and structure length on the surface of the beads were measured using ImageJ. Migration and videomicroscopy Random cell migration assays were performed in µSlide eightwell ibidi dishes.
-"For 2D migration assays, cells were seeded on the dishes coated with 20 μg/ml Fibronectin (Sigma)."
-"For 3D migration assays, cells were sandwiched between two layers of 2 mg/ml collagen (rat tail collagen type I, Corning)."
-"After seeding cells for 24 h, videomicroscopy was performed on an inverted Axio Observer microscope (Zeiss) equipped with a Pecon Zeiss incubator XL multi S1 RED LS (Heating Unit XL S, Temp module, CO2 module, Heating Insert PS and CO2 cover), a deﬁnite focus module and a Hamamatsu camera C10600 OrcaR2."
-"Images were acquired every 5 or 10 min for 24 h with ×10 objective for 2D migration, and every 10 min for 48 h with ×20 objective for 3D migration."
-Individual cells were tracked by ImageJ softwareManual Tracking plugin.
-DiPer software was used to analyze the cell migration parameters64.
-Fibronectin gradients were prepared with PRIMO photopatterning system (Alvéole).
-35 mm ibidi dishes with glass bottom were treated with plasma for 1 min. PDMS stencils (Alvéole) with three 3 × 3 mm wells were stacked on each plasmatreated dish immediately.
-PDMS stencil wells were coated with PLLg-PEG for 1 h and rinsed three times with PBS.
-Then photoinitiator (PLPP) (Alvéole) was added to the PDMS stencil wells for micropatterning.
-"LEONARDO photopatterning software was used to design the micropatterns (width 645 μm, height 1031 μm with 100% to 0% grayscale gradient)."
-"The dishes with PDMS stencils were placed onto the microscope holder (Nikon ECLIPSE Ti2) with PRIMO module, and the patterns were projected to the surface at a UV dose of 1500 mg/mm2."
-PDMS stencil wells were rinsed three times with PBS and coated with 50 μg/ml Fibronectin/FibrinogenAlexa647 (Invitrogen) for 30 min at 37 °C.
-The Fibronectin/FibrinogenAlexa647 were only adsorbed on the previously illuminated areas.
-"After rinsing the wells three times with PBS, MCF10A cells were seeded in the coated PDMS stencil wells."
-Cells were washed once with medium after adhering for 2 h.
-"After 24 h, videomicroscopy was performed on an inverted Axio Observer microscope (Zeiss) with the 10x objective."
-Images were acquired every 10 min for 24 h. Individual cells were tracked by ImageJ softwareManual Tracking plugin.
-The tracks obtained were analyzed by the chemotaxis tool (Ibidi) to extract the FMI values and cell trajectory plots.
-The FMI values were plotted by GraphPad Prism software as mean ±95% conﬁdence intervals.
-B16F1 cells were transiently transfected with GFP and mScarlet plasmids and analyzed by videomicroscopy after 2 days.
-"Videos were acquired using a confocal laser scanning microscope (TCS SP8, Leica) equipped with a high NA oil immersion objective (HC PL APO 63×/ 1.40, Leica), a white light laser (WLL, Leica) and controlled by the LasX software."
-Images were taken every 10 s for ~5–10 min. Kymographs were drawn using Multi Kymograph tool in ImageJ.
-"To analyze the localization of proteins, radial line scans were performed and analyzed as described20."
-Fluorescence recovery after photobleaching B16F1 cells were transiently transfected with GFP and mScarlet plasmids and analyzed by FRAP after 1 day of expression.
-"Videos were acquired using an inverted Eclipse TiE (Nikon) equipped with a CSUX1-A1 Nipkow Spinning Disk confocal system (Yokogawa), a 100x APO TIRF oil immersion objective (NA: 1.49, Nikon), a 488 nm, 150 mW (Vortran) and 561 nm, 100 mW (Coherent) lasers, a Quad bandpass 440/40 nm, 521/20 nm, 607/34 nm, 700/45 nm dichroic mirror (Semrock), a Prime 95B sCMOS camera (Photometrics) and an iLas 2 modules (GATACA Systems)."
-The setup was controlled by MetaMorph software version 7.7 (Molecular Devices).
-"For single FRAP experiments, images were acquired at a video streaming rate of 200 ms for ~10–20 s."
-"For dual FRAP experiments, images were acquired at a frame rate between 1.1 and 1.4 s for about 3040 s. Since FRAP experiments were performed in extending lamellipodium of migrating cells, the photobleached ROIs moved forward."
-We used kymographs to obtain the proﬁle of ﬂuorescence recovery in the moving ROI.
-Kymographs were drawn using the Multi Kymograph tool in ImageJ.
-"We manually draw on kymographs a line that followed the cell edge, and whose thickness covered the whole photobleached lamellipodium or the leading edge."
-"The line was used to reslice kymograph images along the y-axis (time), allowing quantiﬁcation over time of the recovered ﬂuorescence intensity in the photobleached ROI, which moves forward during cell migration."
-The ﬂuorescence intensity is normalized by the average ﬂuorescence intensity in the ROI before photobleaching.
-"Nature Communications | (2023) 14:3541 15 Article https://doi.org/10.1038/s41467023-39276w 3D acini Single cells were seeded on a 1mm-thick solidiﬁed layer of Matrigel (growth factor reduced, Thermo Fisher Scientific, #CB40230C) in the eightwell glass chamber (Merck, #PEZGS0816) and grown for 3 weeks in MCF10A medium with 1% horse serum, 5 ng/mL EGF and 2% Matrigel."
-"Then the acini were ﬁxed and stained with the indicated antibody, Alexa Fluor™ 555 Phalloidin (A34055, Thermo Fisher Scientific) and DAPI."
-"Images were acquired using a confocal laser scanning microscope (TCS SP8, Leica) equipped with a high NA oil immersion objective (HC PL APO 63 × / 1.40, Leica), a white light laser (WLL, Leica) and controlled by the LasX software."
-Statistics Migration persistence for individual cells is evaluated based on the exponential decay and plateau ﬁt according to Eq.
-(1).
-P = 1 (cid:1) b Þ (cid:3) e(cid:1)t a + b ð1Þ
-"Where, P is the migration persistence, b is plateaued value, t is the time interval and an is the decay constant."
-"Then the related statistical analysis was conducted through custommade R programs, as previously described65."
-"For other statistical analysis, GraphPad Prism software and Microsoft Excel were used."
-The Shapiro–Wilk normality test was performed.
-Twotailed unpaired ttest was used for parametric data and Mann–Whitney test was used for non-parametric data.
-ANOVA followed by post hoc Tukey’s multiple comparison test was used for parametric data and Kruskal–Wallis test followed by post hoc Dunn’s multiple comparison test was used for non-parametric data.
-"Four levels of signiﬁcance were distinguished: *P < 0.05, **P < 0.01, ***P < 0.001, ****P < 0.0001."
-Reporting summary Further information on research design is available in the Nature Portfolio Reporting Summary linked to this article.
-Data availability Raw ﬁles of the LCMSMS analyses have been deposited in PRIDE with the accession number PXD031584.
-"Files with the reference number 170414 refer to the TAP puriﬁcation of FLAGGFP-ABI1, 181220 to the TAP puriﬁcation of FLAGGFP-PPP2R1A, 210415 to the TAP puriﬁcation of the WSC and 200120 to the identiﬁcation of phosphosites in the TAP puriﬁcation of FLAGGFP-ABI1."
-"The structural models of (i) the Wave Shell Complex (WSC) composed of NHSL1(195), CYFIP1, NCKAP1, BRK1 and ABI2(1160), (ii) the NHSL1(13821410)-PPP2R1A complex, (iii) the NHSL1(14301490)- PPP2R1A complex, and (iv) NHSL1(15221569)-PPP2R5D(80530) complex, are available in ModelArchive [modelarchive.org] with the accession codes maagzek, mane9d4, masx8ix and marop1i, respectively."
-Source data are provided with this paper.
+"Article https://doi.org/10.1038/s41467023-39276w PPP2R1A regulates migration persistence through the NHSL1containing WAVE Shell Complex Received: 14 June 2022 Accepted: 6 June 2023 Check for updates Yanan Wang1, Giovanni Chiappetta2,7, Raphaël Guérois Stéphane Romero 1,7, Daniel J. Boesch4, Matthias Krause 5, Claire A. Dessalles6, Avin Babataheri6, Abdul I. Barakat Joelle Vinh 2, Anna Polesskaya 1 & Alexis M. Gautreau 1 3,7, Yijun Liu4,7, 6, Baoyu Chen 4, The RAC1WAVE-Arp2/3 signaling pathway generates branched actin networks that power lamellipodium protrusion of migrating cells. Feedback is thought to control protrusion lifetime and migration persistence, but its molecular circuitry remains elusive. Here, we identify PPP2R1A by proteomics as a protein differentially associated with the WAVE complex subunit ABI1 when RAC1 is activated and downstream generation of branched actin is blocked."
+"PPP2R1A is found to associate at the lamellipodial edge with an alternative form of WAVE complex, the WAVE Shell Complex, that contains NHSL1 instead of the Arp2/3 activating subunit WAVE, as in the canonical WAVE Regulatory Complex. PPP2R1A is required for persistence in random and directed migration assays and for RAC1dependent actin polymerization in cell extracts. PPP2R1A requirement is abolished by NHSL1 depletion."
+"PPP2R1A mutations found in tumors impair WAVE Shell Complex binding and migration regulation, suggesting that the coupling of PPP2R1A to the WAVE Shell Complex is essential to its function. Cell migration is a critical process for animal cells, especially in the embryo, but also in the adult. For example, immune cells constantly patrol the organism to ﬁght infections."
+Nucleation of branched actin by the Arp2/3 complex fuels membrane protrusions called lamellipodia. This type of cell migration is characterized by its persistence that can be seen even in random migration and measured by the time during which direction is maintained once it is established1. Arp2/3mediated persistence also favors directed migration towards higher concentrations of extracellular matrix proteins in a process called haptotaxis2.
+"The WAVE proteins activate Arp2/3 at the cell cortex and in membrane protrusions3. WAVE proteins are embedded in a stable multiprotein complex containing four other subunits, CYFIP, NCKAP, ABI, and BRK1. This stable complex has been puriﬁed from various sources and its exact composition differ depending on the paralogous subunits expressed4,5."
+"Most importantly, native and reconstituted recombinant WAVE complexes were shown to keep inactive the otherwise constitutively active WAVE protein6,7. Therefore, this stable complex is commonly referred to as the WAVE regulatory Complex (WRC). GTPbound RAC1 activates the WRC through an allosteric mechanism8,9."
+"The WCA domain of WAVE that binds and activates Arp2/3 is masked within the WRC, but becomes exposed upon RAC1mediated activation10–12. The RAC1WAVE-Arp2/3 pathway is critical for 1Laboratory of Structural Biology of the Cell (BIOC), CNRS UMR7654, École Polytechnique, Institut Polytechnique de Paris, 91120 Palaiseau, France. 2Biological Mass Spectrometry and Proteomics (SMBP), ESPCI Paris, Université PSL, LPC CNRS UMR8249, 75005 Paris, France."
+"3Université ParisSaclay, CEA, CNRS, Institute for Integrative Biology of the Cell (I2BC), 91198 Gifsur-Yvette, France. 4Roy J. Carver Department of Biochemistry, Biophysics and Molecular Biology, Iowa State University, Ames, IA 50011, USA. 5Randall Centre for Cell and Molecular Biophysics, King’s College London, New Hunt’s House, Guy’s Campus, London SE1 1UL, UK."
+"6LadHyX, École Polytechnique, Institut Polytechnique de Paris, 91120 Palaiseau, France. 7These authors contributed equally: Giovanni Chiappetta, Raphaël Guérois, Yijun Liu, Stéphane Romero. Email: anna.polesskaya@polytechnique.edu; alexis.gautreau@polytechnique.edu Nature Communications | (2023)"
+"14:3541 Article https://doi.org/10.1038/s41467023-39276w development and normal adult life but is also involved in cancer13–15. Genes encoding subunits of the WAVE and Arp2/3 complexes are overexpressed in a variety of cancers, and this overexpression is associated with high tumor grade and poor patient prognosis16. Cell migration is ﬁnely regulated at all molecular levels."
+"Each positive component required to generate cortical branched actin, RAC1, WRC, and Arp2/3, appears to be counteracted by inhibitory proteins, CYRI17,18, NHSL119, and ARPIN20,21, respectively. NHSL1 belongs to the family of NanceHoran Syndrome (NHS) proteins, which contain a Nterminal WAVE Homology Domain (WHD), as in WAVE proteins22. The WHD is the main structural domain that embeds WAVE proteins in the WRC8,11, raising the possibility that WRC might contain NHS family proteins instead of WAVE proteins at some point in their life cycle."
+"This intriguing possibility, however, has never been reported to date. Instead, NHSL1 has been shown to interact with the WRC through the Cterminal SH3 domain of the WRC subunit ABI119. Regulatory circuits of cell migration involve feedback and feedforward loops23,24."
+"ARPIN was shown to inhibit Arp2/3 only when RAC1 signaling was on, rendering lamellipodia unstable once they were formed instead of preventing their formation20. Positive feedback that sustains membrane protrusion at the front is thought to be responsible for the persistence of cell migration. Indeed, signaling pathways are not linear, and actin polymerization activate WRC further in space and time in propagating waves25,26 and promotes WRC turnover27."
+"Biochemical signaling in feedback is constrained by cell mechanics and in particular membrane tension, which appears as a central component to sustain lamellipodial protrusion at the leading edge28,29. Feedback signaling is so challenging to dissect that mathematical modeling, computational simulations and machine learning are often required to interpret complex observations that would not ﬁt into simple and linear models30,31. Here we used criteria of feedback signaling to uncover a molecular machine that regulates migration persistence."
+"Using differential proteomics, we identiﬁed the PPP2R1A protein as a migration regulator. PPP2R1A is a wellcharacterized scaffold subunit of the PP2A complex, an abundant and heterogeneous phosphatase that regulates several signaling pathways32. PP2A phosphatase activity has previously been connected to cell migration and tumor cell invasion33–35, but we found no evidence that the precise role of PPP2R1A in regulating migration persistence depends on PP2A phosphatase activity."
+"The control of migration persistence by PPP2R1A rather depended on its interaction with the NHSL1containing WAVE Shell Complex (WSC). PPP2R1A is mutated in various cancers, particularly gynecologic cancers36, and frequent tumorassociated mutations of PPP2R1A were found impair its interaction with the WSC. Results Identiﬁcation of PPP2R1A as a regulator of migration persistence To identify partners of WRC, we used proteomics after tandem afﬁnity puriﬁcation (TAP) of the ABI1 subunit."
+"We reasoned that partners differentially associated with ABI1 when RAC1 is activated and when Arp2/ 3 is inhibited would be good candidates to regulate migration persistence and feedback signaling. As a model system, we used the human mammary epithelial cell line MCF10A, which is immortalized but not transformed. We thus isolated stable cell lines expressing FLAGGFP ABI1 from both parental cells and a genomeedited derivative, where the Q61L mutation affects one allele of RAC1 and renders the RAC1 GTPase deﬁcient and hence constitutively active (Supplementary Fig.1)."
+MCF10A cells expressing RAC1 Q61L showed more persistent migration than parental cells37. We treated cells with the Arp2/3 inhibitory compound CK666 to modulate the binding of potential WRC partners involved in signaling feedback from branched actin. The CK666 treatment did not impact RAC1 activation levels compared to controls (Supplementary Fig.1).
+"After the two successive FLAG and GFP immunoprecipitations (Fig. 1a), we identiﬁed by mass spectrometry proteins speciﬁcally associated with ABI1, but not with FLAGGFP control (Supplementary Table 1). We performed labelfree quantiﬁcation of 3 biological replicates and calculated in all four conditions the relative abundance of associated proteins after normalization by the amount of the ABI1 bait protein retrieved in each condition (see Supplementary Methods). The WRC subunits did not vary considerably in the different conditions (Fig.1b)."
+"Among the hits, we recognized several described functional partners of the WRC such as the NanceHoran Syndrome family proteins NHS and NHSL119,22, IRSp53, encoded by BAIAP238, and lamellipodin, encoded by RAPH1, which was 3fold more associated with WRC when RAC1 was activated, as previously reported39. Our attention was drawn to PPP2R1A, a scaffold subunit of the PP2A phosphatase complex, which showed variations in the twofold range when RAC1 was activated and when CK666 was applied to cells. The amount of PPP2R1A associated with ABI1 decreased when RAC1 was constitutively activated (Fig.1b)."
+"Surprisingly, CK666 induced opposite PPP2R1A variations in parental and RAC1 Q61L cells. Catalytic subunits of the same PP2A phosphatase complex, encoded by the two paralogous genes, PPP2CA and PPP2CB, were also detected in the list of ABI1 partners, but interestingly, these subunits did not show the same variations as PPP2R1A when CK666 was applied to cells. We depleted PPP2R1A from MCF10A cells using siRNA pools and tested cells in a 2D random migration assay."
+"Lamellipodia appeared less developed in PPP2R1Adepleted cells, which, as a result, were less spread than control cells (Supplementary Movie 1). PPP2R1Adepleted cells did not maintain the direction of migration over time as well as controls (Fig. 1c). We analyzed RAC1 activation and levels in control and PPP2R1Adepleted cells (Supplementary Fig. 1)."
+"PPP2R1A depletion was associated with a tendency to decrease RAC1 activity and a slight, but signiﬁcant, downregulation of RAC1 levels. Strikingly, the decrease in migration persistence upon PPP2R1A depletion was not signiﬁcant when the same assay was performed using MCF10A cells expressing RAC1 Q61L (Fig. 1d and Supplementary Movie 2)."
+"This was surprising given that migration persistence is increased in MCF10A RAC1 Q61L37, but was in agreement with our observation that PPP2R1A interacted less with ABI1 when RAC1 is constitutively active. We then isolated a stable MCF10A cell line that expresses FLAGGFP PPP2R1A. The overexpression of tagged PPP2R1A was moderate, estimated by densitometry of PPP2R1A Western blots to be in the order of twofold (1.96 ± 0.32, mean ± sem of three triplicates, P < 0.05, ttest), with a concomitant decrease in endogenous PPP2R1A (Fig.1e)."
+"PPP2R1A overexpression had no effect on levels of RAC1, WAVE2, or WRC (Supplementary Fig. 1 and Supplementary Fig.2), but was sufﬁcient to increase migration persistence in the assay (Fig. 1e and Supplementary Movie 3)."
+"The loss- and gainof-function experiments in MCF10A cells thus indicate that migration persistence depends on PPP2R1A levels. To validate our ﬁndings in another cell system, we used the invasive breast cancer cell line MDAMB-231 that we embedded in 3D collagen gels. PPP2R1A depletion dramatically decreased migration persistence in this setting as well (Fig."
+"1f and Supplementary Movie 4). Overexpression of PPP2R1A, however, did not affect migration persistence in either MDAMB-231 cells, or in MCF10A cells expressing RAC1 Q61L (Supplementary Fig. 2). Migration persistence of cells expressing constitutively active RAC1 Q61L thus appears independent of PPP2R1A levels, unlike parental MCF10A. Other parameters of cell migration necessary for a complete description of cell trajectories, such as cell speed and Mean Square Displacement (MSD), were also altered in some of these genetic perturbations, but inconsistently (Supplementary Fig. 2), as previously reported20,37, conﬁrming that migration persistence, but not these other parameters, appears as the primary target of the RAC1WAVE-Arp2/3 pathway23."
+Nature Communications | (2023) 14:3541  Article https://doi.org/10.1038/s41467023-39276w FLAGGFP ABI1 CK666 MCF10A CTRL RAC1 Q61L WRC subunits WRC partners PP2A Log 10 MCF10A + CK666 / MCF10A RAC1 Q61L + CK666 / RAC1 Q61L RAC1 Q61L / MCF10A 0.4 0.2 -0.2 -0.4 0.4 0.2 -0.2 -0.4 0.4 0.2 -0.2 -0.4 C Y FIP 1 W A V E 1
+N C K A P 1 W A V E 3 W A V E 2 La m ellipodin IR S p53 B R K 1 N H S L1 A BI1 P P P 2 R 1 A N H S P 2 A c si CTRL si PPP2R1A 600 300 -300 -600 -600
+-300 300 600 -300 300 600 si CTRL si PPP2R1A 600 300 -300 -600 1.0 0.8 0.6 0.4 0.2 1.0 0.8 0.6 0.4 0.2 MCF10A si CTRL si PPP2R1A 10 20 30 40 50 Time interval (min) **** P <0.0001 MCF10A RAC1 Q61L si CTRL si PPP2R1A n.s. P = 0.15 10 20 30 40 50 -600 -300 300 600 -300 300 600 Time interval (min) Silver staining kDa 130 95 72 55 43 34 26 17 11 MCF10A si CTRL si PPP2R1A GAPDH MCF10A RAC1 Q61L si CTRL si PPP2R1A GAPDH kDa 50 50 kDa 50 50 FLAGGFP PPP2R1A MCF10A FLAGGFP PPP2R1A FLAGGFP PPP2R1A Endogenous PPP2R1A WB PPP2R1A kDa 115 80 70 50 GAPDH 600 300
+-300 -600 -600 -300 300 600 -300 300 600 si CTRL si PPP2R1A MDAMB-231 si CTRL si PPP2R1A GAPDH kDa 50 50 1000 500 -500 -1000 -1000 -500 500 1000 -500 500 1000 1.0 0.8 0.6 0.4 0.2 10 MCF10A ** P = 0.0062 FLAGGFP PPP2R1A FLAGGFP 50 20 40 Time interval (min) 30 1.0 0.8 0.6 0.4 0.2 MDAMB-231 (3D) si CTRL si PPP2R1A 100 **** P <0.0001 20 40 60 80 Time interval (min) PPP2R1A interacts with the NHSL1containing WAVE Shell Complex
+"To decipher how PPP2R1A regulated migration of MCF10A and MDAMB-231 cells, we characterized its partners by proteomics. We puriﬁed FLAGGFP PPP2R1A by TAP (Fig. 2a) and identiﬁed its partners by mass spectrometry (Supplementary Table 2). As expected, we detected in MCF10A and MDAMB-231 cells the catalytic phosphatase subunit and numerous regulatory subunits of PP2A complexes (PPP2R1B, PPP2R2D, PPP2R3B, PPP2R5A, PPP2R5B, PPP2R5C, PPP2R5D, and PPP2R5E) and its larger STRIPAK derivatives (STRN, STRIP2, STRN4, MOB4)."
+"PPP2R3C was detected associated with PPP2R1A in MCF10A, but not MDAMB- 231 cells. We expected to ﬁnd the whole WRC in line with the TAP puriﬁcation of ABI1. However, we detected only 4 of the 5 subunits of the WRC (Fig. 2b), namely CYFIP1, NCKAP1, ABI1, and BRK1."
+BRK1 was Nature Communications | (2023) 14:3541 Article https://doi.org/10.1038/s41467023-39276w Fig. 1 | Identiﬁcation of PPP2R1A as an ABI1 partner that regulates migration persistence. A MCF10A parental cells or genomeedited MCF10A cells where a RAC1 allele encodes the active RAC1 Q61L mutant form were stably transfected with plasmids expressing FLAGGFP or FLAGGFP ABI1.
+Cells were treated or not with 100 µM CK666 for 16 h in order to block the polymerization of branched actin and thus the suspected feedback loop that mediates migration persistence. FLAGGFP proteins were then puriﬁed by Tandem Afﬁnity Puriﬁcation and associated proteins were revealed by silver staining of SDS–PAGE gels. B Labelfree quantiﬁcation of selected proteins identiﬁed by mass spectrometry to be associated with ABI1.
+"3 biological repeats, mean ± sem of the log10 of fold changes are plotted. C MCF10A cells were transfected with pools of control (CTRL) or PPP2R1A siRNAs and analyzed by Western blots with PPP2R1A and GAPDH antibodies. Cell trajectories and migration persistence extracted from 2D migration of single MCF10A cells transfected with indicated siRNAs."
+"Tracking 7.5 h, n = 17 cells. d Same experiment as in c with MCF10A RAC1 Q61L cells."
+"Tracking 6 h, n = 18 cells. E MCF10A cells were stably transfected with plasmids expressing FLAGGFP or FLAGGFP PPP2R1A. Migration was analyzed as in c. Tracking 10 h, n = 37 cells."
+"F Same experiment as in c with MDAMB-231 cells analyzed in 3D collagen type I gels. Tracking 12 h, n = 25 cells. Most cell trajectories upon PPP2R1A depletion are so short that they cannot be well distinguished, because they overlap in the center of the graph."
+"Trajectory plots are labeled in µm. Three biological repeats of each experiment yielded similar results, only one is displayed. Data are shown as mean ± SEM."
+Statistical signiﬁcance was calculated with custommade R programs and P values are indicated. **P < 0.01; ****P < 0.0001; n.s. not signiﬁcant. Source data are provided as a Source Data ﬁle.
+"Only detected in MCF10A and not in MDAMB-231 cells, but this is likely because BRK1 generates only a few tryptic peptides from its short sequence of 75 aminoacids. Surprisingly, the 3 WAVE proteins were absent from the TAP puriﬁcation from both cell lines. We searched for NHS family proteins, which were reported to contain a Nterminal WAVE homology domain (WHD) similar to that responsible for WAVE incorporation into WRC8,22, and found NHSL1 in the TAP puriﬁcation from both cell lines."
+"We validated the presence of NHSL1 and all WRC subunits except WAVE by western blots (Fig. 2c). We never detected any WAVE protein in TAP puriﬁcation of PPP2R1A. When NHSL1 was depleted from cells using siRNAs, PPP2R1A immunoprecipitation did not retrieve WRC subunits, but still retrieved the PP2A catalytic subunit (Fig. 2d). This result suggests that NHSL1 is the subunit of this alternative complex that is recognized by PPP2R1A. To examine the composition of the alternative complex devoid of WAVE, we performed TAP to select for the presence of both PPP2R1A and the WRC subunit BRK1."
+"We performed sequential FLAG - PC immunoprecipitations from the stable MCF10A cell line expressing both FLAGGFP PPP2R1A and PCHA BRK1. We indeed retrieved the WRC without WAVE but containing NHSL1 instead (Fig. 2e and Supplementary Table 3). This TAP puriﬁcation of both PPP2R1A and BRK1 did not completely exclude PP2A subunits, since it also contained a subset of the subunits found in TAP of PPP2R1A alone, namely PPP2CA, PPP2R2A, PPP2R5D, PPP2R5E, and STRN."
+"This result suggests that PPP2R1A can bind to this alternative WRC while being part of PP2A complexes. To our knowledge, a physiological form of WRC without a WAVE subunit and containing an NHS family protein instead, has never been previously reported. NHSL1 was recently reported interacting with the complete canonical WRC through the ABI1 SH3 domain19."
+"PPP2R1A thus does not bind to all pools of NHSL1 molecules, but appears to select a speciﬁc conformation of NHSL1, where NHSL1 fully replaces WAVE within its complex. We call this alternative to WRC, the NHSL1containing WAVE Shell Complex (WSC), to emphasize that this multiprotein complex, which normally embeds the WAVE subunit and regulates its activity, has lost its Arp2/3activating WAVE subunit. To obtain a structural model of the WSC, we used the AlphaFold2 program40–42."
+"We were able to generate a highconﬁdence structural model (see Supplementary Methods) where NHSL1 interacted with the CYFIP1, NCKAP1, BRK1, and ABI2 subunits (Fig.2f). Core to this interaction is the WAVE homology domain (WHD, residues 30–90) that forms a triple coiled coil with BRK1 and ABI2 (Supplementary Fig. 3), as the Nterminal helix of the WAVE1 subunit in the case of the WRC8,43. Unlike WAVE1 in the WRC, no other region of NHSL1, beyond the proline 97, is predicted to interact with WSC subunits."
+"NHSL1 interactions within WSC appear less extensive than WAVE interactions within WRC. Using in vitro translation with 35Smethionine, we were able to reconstitute the WSC, as we had previously reconstituted the WRC5. The Nterminal fragment of NHSL1, containing the WHD, retrieves CYFIP1, NCKAP1, ABI1, and BRK1, but excludes WAVE2 (Fig. 3a)."
+"In contrast, the Cterminal fragment of NHSL1, containing ABI1 SH3 binding sites, can interact with the WRC containing WAVE2, as previously reported19. Competition experiments using simultaneous translation of WAVE and NHSL1 WHD were consistent with structural predictions, since WAVE2 can displace NHSL1 WHD from the ‘shell’ composed of CYFIP1, NCKAP1, ABI1, and BRK1 (Fig.3b). The NHSL1 WHD, however, in line with the is unable to displace WAVE2, AlphaFold2 structural model where NHSL1 exhibited a smaller interaction surface within the WSC than WAVE within the WRC."
+"We then used a method designed to purify recombinant WRC, based on the expression of various subunits in bacteria and insect cells to purify the WSC44. It was indeed sufﬁcient to replace WAVE1 Nterminus by a fragment of NHSL1 containing its WHD to purify a WSC (Fig. 3c) that behaved like the WRC in gel ﬁltration (Fig. 3d). Direct observation of reconstituted WSC and WRC by electron microscopy after negative staining showed that the two complexes had similar sizes and shapes (Fig. 3e)."
+"To obtain an estimate of the amount of WSC in the cell, we analyzed exponentially growing MCF10A cells, because we found that starvation downregulates WSC (Supplementary Fig. 4). The distribution of WSC and WRC subunits were analyzed by ultracentrifugation along sucrose gradients. PPP2R1A overlapped with the catalytic phosphatase subunit of the PP2A complex (Supplementary Fig. 5)."
+"NHSL1 was in between WRC and PP2A complexes. We obtained PPP2R1A and NHSL1 KO MCF10A cell lines using CRISPR/Cas9 (Supplementary Fig. 5). Importantly, the distribution of none of these subunits was altered upon depletion of PPP2R1A or of NHSL1 (Supplementary Fig. 5), suggesting that the WSC is not an abundant complex."
+"In an attempt to evaluate the relative amount of WSC compared to that of WRC, we performed sequential immunoprecipitations to distinguish WSC from WRC after a ﬁrst selection of BRK1containing complexes. We estimated that the WSC is 7 to 8 times less abundant than the WRC (Supplementary Fig. 4). We also examined phosphosites when PPP2R1A was depleted or not, but found no differentially phosphorylated site on the WSC, on the WRC or on RAC1 itself (Supplementary Fig."
+6 and Supplementary Table 4). We then sought to examine PPP2R1A localization and used for this purpose B16F1 cells that develop prominent lamellipodia. Cells were transfected with GFPNHSL1 and mScarletPPP2R1A. PPP2R1A was colocalized with NHSL1 at the lamellipodial edge (Fig.
+"4a and Supplementary Movie 5). NHSL1 was strongly enriched at the lamellipodial edge, as previously described19, whereas PPP2R1A extended far beyond, in the entire width of the lamellipodium (Fig. 4b). Arp2/3 is incorporated into branched actin networks and extends backwards through the actin retrograde ﬂow."
+"We thus examined the colocalization of mScarletPPP2R1A with the GFPtagged Arp2/3 subunit ARPC1B. Both proteins colocalized in the width of lamellipodia (Fig. 4c and Supplementary Movie 6), but ARPC1B distribution declined steeply away from the edge, whereas PPP2R1A did not exhibit such a gradient (Fig. 4d)."
+"These analyses suggest that PPP2R1A is a lamellipodial protein that is likely to interact with WSC at the cell edge. To examine PPP2R1A dynamics, we performed Fluorescence Recovery After Photobleaching (FRAP) in the lamellipodia of B16F1 cells. A fraction of GFPPPP2R1A was immobile, but the major fraction in the majority of cases recovered fast with a t1/2 of less than a second Nature Communications | (2023) 14:3541 https://doi.org/10.1038/s41467023-39276w"
+"Article MCF10A MDAMB-231 FLAGGFP PPP2R1A * FLAGGFP PPP2R1A * FLAGGFP MCF10A Input IP GFP FLAGGFP PPP2R1A FLAGGFP PPP2R1A NHSL1 CYFIP1 NCKAP1 WAVE1 WAVE2 WAVE3 ABI1 BRK1 GAPDH kDa 115 80 205 120 120 85 65 85 65 85 65 50 10 50 NHSL1 CYFIP1 NCKAP1 FLAGGFP PPP2R1A ABI1 *PP2Ac WAVE Shell Complex (WSC) NHSL1 ABI1 FLAGGFP PPP2R1A PCHA BRK1 Silver staining CYFIP1 NCKAP1 PC elution PCHA BRK1 kDa 185 MCF10A Input IP GFP kDa 115 80 205 120 120 85 65 50 10 30 50 115 80 70 50 30 25 15 10 WAVE Shell Complex (WSC) WAVE Regulatory Complex ABI2 NHSL1 (1123) ABI2 WAVE1 BRK1 kDa 116.3 97.4 66.3 55.4 36,5 31 21,5 14.4 Silver staining si CTRL si NHSL1 FLAGGFP PPP2R1A NHSL1 CYFIP1 NCKAP1 WAVE2 ABI1 BRK1 PP2Ac GAPDH BRK1 CYFIP1 NCKAP1 CYFIP1 NCKAP1 Fig. 2 | PPP2R1A interacts with the WAVE Shell Complex (WSC) that contains NHSL1 instead of WAVE proteins. A MCF10A or MDAMB-231 cells stably expressing FLAGGFP or FLAGGFP PPP2R1A were subjected to FLAGGFP Tandem Afﬁnity Puriﬁcation and puriﬁed proteins were resolved by SDS–PAGE and silver stained."
+The same samples were used for mass spectrometry and Western blots. Three biological repeats with similar results. B Labelfree quantiﬁcation (LFQ) of proteins identiﬁed by mass spectrometry.
+"In both cell lines, NHSL1 is present at the expense of WAVE subunits. Log10 of LFQ values, mean ± sem of three biological repeats. C GFP immunoprecipitates were analyzed by Western blots with the indicated antibodies."
+Three biological repeats with similar results. D PPP2R1A associates with the WSC through NHSL1. MCF10A cells expressing FLAGGFP PPP2R1A were transfected with pools of siRNAs targeting NHSL1 or nontargeting siRNAs (CTRL).
+GFP immunoprecipitates were analyzed by western blots. Three biological repeats with similar results. e
+A MCF10A cell line stably transfected with two plasmids expressing FLAGGFP PPP2R1A and PCHA BRK1 was subjected to FLAGPC Tandem Afﬁnity Puriﬁcation to purify the WSC. WSC composition was analyzed by mass spectrometry. Silver stained SDS–PAGE of puriﬁed WSC.
+The identity of WSC subunits and the lack of WAVE2 was conﬁrmed using Western blots. 3 biological repeats with similar results. F Comparison of the structural model of the WSC obtained using AlphaFold2 with the Xray crystal structure WAVE Regulatory Complex (PDB:3P8C [https://www.wwpdb.org/pdb?id=pdb_00003p8c]).
+"The WSC was composed of NHSL1 (1123) in purple, CYFIP1 in green, NCKAP1 in cyan, BRK1 in yellow and ABI2 (1–160) in salmon. (Fig. 5a–c and Supplementary Movie 7)."
+"The recovery was not different at the lamellipodial edge or in the width of the lamellipodium. PPP2R1A recovery was homogenous throughout the lamellipodium width, unlike that of Arp2/3, which exhibits a retrograde ﬂow45. When GFPNHSL1 and mScarletPPP2R1A were simultaneously photobleached, their recovery time at the lamellipodial edge was not different (Fig."
+"5d, e and Supplementary Movie 8). These FRAP results are compatible with PPP2R1A transiently interacting with actin ﬁlaments in the width of lamellipodia and with NHSL1 at the lamellipodial edge. The requirement of PPP2R1A in cell migration and actin polymerization depends on the presence of NHSL1 was previously described as a negative regulator of cell"
+It was thus surprising to ﬁnd PPP2R1A and NHSL1 migration19. Nature Communications | (2023) 14:3541  Article CYFIP1 NCKAP1 ABI1 BRK1 WAVE2 HANHSL1 FL HANHSL1 (1123) HANHSL1 (1241639)
+"NHSL1 FL NHSL1 (1241639) CYFIP1 NCKAP1 WAVE2 ABI1 NHSL1 (1123) BRK1 Input + + + + + + + + + + + + ++ + - + + IP HA + + + + + + + + + + + + ++ + - + + 35 S autoradiography kDa 190 115 80 70 50 30 25 15 10 https://doi.org/10.1038/s41467023-39276w CYFIP1 NCKAP1 ABI1 BRK1 HANHSL1 (1123) WAVE2 Input + + + + + + + + + + + + ++ + + IP HA + + + + + + + + + + + + ++ + + CYFIP1 NCKAP1 WAVE2 ABI1 HANHSL1 (1123) BRK1 CYFIP1 NCKAP1 ABI1 BRK1 HAWAVE2 GFPNHSL1 (1123) kDa 190 115 80 70 50 30 25 15 10 CYFIP1 NCKAP1 HAWAVE2 ABI1 GFPNHSL1 (1123) BRK1 Input + + + + + + + + + + + + ++ + + IP HA + + + + + + + + + + + + ++ + + kDa 190 115 80 70 50 30 25 15 10 35 S autoradiography 35 S autoradiography kDa 150 100 75 50 37 25 20 15 10 Coomassie W S W R CYFIP1 NCKAP1 WAVE1(1230) ABI2 (1158) NHSL1 (28172) BRK1 Negative staining EM WSC 30 20 10 WRC WSC Vo Gel filtration 10 Elution volume (mL) 12 6602 4676 6249 4781 6495 80 40 20 14 4205 3882 4353 3717 3133 2712 2362 2340 2219 2054 20 nm 1068 976 1369 1119 1491 1100 20 nm 200 nm WRC 200 nm biochemically associated. We have knocked down either PPP2R1A, or NHSL1, as well as both proteins simultaneously in order to study epistasis."
+"In line with previous ﬁndings, NHSL1 depletion strongly promoted migration persistence in random migration of single MCF10A cells. The decline of migration persistence upon PPP2R1A depletion was abolished by NHSL1 depletion (Fig. 6a and Supplementary Movie 9)."
+"Despite their opposite effects, neither of the two migration regulators appears to take over. The simultaneous depletion of both regulators does not signiﬁcantly affect migration persistence compared to controls, as if the signaling circuit containing the PPP2R1A and NHSL1 was simply dispensable in this random migration assay. We then examined directional migration in a gradient of ﬁbronectin to further challenge cells."
+This haptotactic assay was previously shown to depend on Arp2/3 activity2. PPP2R1Adepleted cells were Nature Communications | (2023) 14:3541 Article https://doi.org/10.1038/s41467023-39276w Fig. 3 | Reconstitution of the WAVE Shell Complex (WSC).
+"A In vitro translation of plasmids encoding subunits encoding the WRC with NHSL1 full length (FL) or indicated fragments in an untagged form or tagged with HA or GFP, as indicated. Immunoprecipitation targeting the HA tag pulls down the WSC since the HA tagged NHSL1 Nterminal fragment (1–123), containing the WHD, excludes WAVE2. In contrast, the NHSL1 Cterminal fragment (124–1639) associates with the WRC containing WAVE2."
+"b Competition experiments using in vitro translation. WAVE2 displaces NHSL1 WHD for binding the shell subunits CYFIP1, NCKAP1, ABI1, and BRK1, but NHSL1 WHD does not displace WAVE2."
+"C Reconstitution of recombinant WSC and WRC. Coomassieblue stained SDS–PAGE gel, where each lane contains 3 pmol of puriﬁed complex. D Gel ﬁltration chromatography of recombinant WSC and WRC using a 24 ml Superdex 200 column."
+"Vo void volume. Recombinant complexes are pure, assembled and do not aggregate. e"
+"Electron microscopy of recombinant WSC and WRC after negative staining. Representative raw micrographs, 2D class averages and number of particles used to derive the class averages are shown. Note the very similar shapes of the two complexes, particularly on the ﬁrst three class averages that were selected to display similar orientations."
+"Experiments were performed once in a and e for the WSC, twice in e for the WRC and three times in c and d with similar results. mScarletPPP2R1A GFPNHSL1 mScarletPPP2R1A GFPARPC1B 10 μm 10 μm Merge Kymograph Merge mScarletPPP2R1A Kymograph mScarletPPP2R1A GFPNHSL1 Merge 3 μm 2 min mScarletPPP2R1A GFPNHSL1 10μm GFPARPC1B Merge 3 μm 1 min mScarletPPP2R1A GFPARPC1B 10 μm -4 -2 Distance (μm) -4"
+-2 Distance (μm) Fig. 4 | PPP2R1A colocalizes with branched actin in the width of the lamellipodium and colocalizes with NHSL1 at the lamellipodium edge.
+A B16F1 cells were transiently transfected with mScarletPPP2R1A and GFPNHSL1. A kymograph was drawn along the line shown on the merge. B Overlap of PPP2R1A and NHSL1 over multiple radial line scans registered to the cell edge.
+"Data are shown as mean ± SD, n = 13 line scans. C B16F1 cells were transiently transfected with mScarletPPP2R1A and the Arp2/3 subunit GFPARPC1B. A kymograph was drawn along the line shown on the merge. D Overlap of PPP2R1A and ARPC1B over multiple radial line scans registered to the cell edge."
+"Data are shown as mean ± SD, n = 15 line scans. Source data are provided as a Source Data ﬁle. Strongly impaired in their ability to migrate toward higher concentrations of ﬁbronectin (Fig."
+"6b and Supplementary Movie 10). In contrast, depletion of the migration inhibitor NHSL1 rendered cells slightly, but signiﬁcantly, more efﬁcient at directed migration. In this assay, as in random migration, simultaneous depletion of PPP2R1A and NHSL1 abolished the effects of each single depletion."
+"In two different cell migration assays, PPP2R1A and NHSL1 thus depend on each other. To establish that the effects of the PPP2R1ANHSL1 signaling circuit were due to actin polymerization, we set up an in vitro reconstitution assay of actin polymerization in extracts prepared from MCF10A cells. Actin polymerization at the surface of glutathione beads was monitored by the incorporation of ﬂuorescent actin."
+"GTPbound RAC1 Q61L was able to trigger the polymerization of actin structures from the surface of the beads (Fig. 7a). These structures were discrete ﬁbers, not the dense meshwork observed around beads displaying CDC42 Q61L (Supplementary Fig. 7). These actin structures, however, were composed of branched actin, since their formation was impaired by the CK666 compound, as measured by their total ﬂuorescence and length."
+"These actin structures depended on the WRC, as shown using extracts prepared from NCKAP1depleted cells, and did not depend on the CDC42 effector NWASP, since they were not inhibited by the NWASP inhibitory compound wiskostatin46 (Supplementary Fig. 7). Extracts prepared from PPP2R1Adepleted cells did not support actin polymerization from RAC1 Q61L displaying beads (Fig. 7b). Yet the extracts prepared from NHSL1depleted cells and those prepared from cells simultaneously depleted of PPP2R1A and NHSL1 were as Nature Communications | (2023) 14:3541 "
+Article https://doi.org/10.1038/s41467023-39276w 10μm 1.2 1.0 0.8 0.6 0.4 0.2 -5 -3.2 s GFPPPP2R1A +0.4 s +3.2 s 10 μm 2 s 1 μm FRAP Lamellipodial recovery Leading edge recovery GFPPPP2R1A 1.2 1.0 0.8 0.6 0.4 0.2 -5 Immobile fractions 2.0 1.5 1.0 0.5 t1/2 (s) 1.0 0.8 0.6 0.4 0.2 GFPPPP2R1A Lamellipodium Leading edge 10 Time (s) -5.7 s 0 s +29.9 s 10 s 2 μm 10 s 2 μm P = 0.0684 1.0 0.8 0.6 0.4 0.2 15 mScarletPPP2R1A GFPNHSL1 P = 0.3186 10 10 15 20 Time (s) PPP2R1A NHSL1 PPP2R1A NHSL1 Fig. 5 | FRAP of PPP2R1A and NHSL1. A B16F1 cells transfected with GFPPPP2R1A were subjected to photobleaching in the red area at time 0.
+"Kymographs built from the yellow rectangle showing the recovery, with ﬁltering for the width of the lamellipodium or the lamellipodial edge. B FRAP quantiﬁcation. c"
+"Quantiﬁcation of the time of half recovery and of the immobile fraction in the width of lamellipodia. Mean ± sem, n = 16 from three independent experiments. D B16F1 cells were cotransfected with plasmids encoding GFPNHSL1 and mScarletPPP2R1A."
+The two ﬂuorescent proteins were subjected to simultaneous photobleaching in the red area at time 0. Kymographs built from the yellow rectangle show the recovery of the lamellipodial edge. E FRAP quantiﬁcation.
+"F Quantiﬁcation of the time of half recovery and of the immobile fraction of both ﬂuorophores. Student’s t test. Mean ± sem, n = 13 from three independent experiments."
+Statistical signiﬁcance was calculated with twotailed Mann–Whitney test and P values are indicated. Source data are provided as a Source Data ﬁle. Nature Communications | (2023) 14:3541 
+Article MCF10A si CTRL si NHSL1 si PPP2R1A NHSL1 PPP2R1A GAPDH 1.0 0.8 0.6 0.4 0.2 20 40 80 Time interval (min) 60 https://doi.org/10.1038/s41467023-39276w si CTRL si PPP2R1A si NHSL1 si PPP2R1A & NHSL1 kDa 205 70 50 si NHSL1 **** P <0.0001 **** P <0.0001 si CTRL si PPP2R1A & NHSL1 si PPP2R1A ** P = 0.0016 n.s. P = 0.26 P = 0.048 100 600 300 -300 -600 600 300 -300 -600 MCF10A si CTRL si NHSL1 si PPP2R1A NHSL1 PPP2R1A GAPDH kDa 205 70 50 n.s. P = 0.746 **** P <0.0001 P = 0.0121 **** P <0.0001 **** P <0.0001 0.5 -0.5 siRNA -600 -300 300 600 -300 300 600 300 200 100 -100 -200 -300 300 200 100 -100 -200 -300 Si CTRL si PPP2R1A si NHSL1 si PPP2R1A & NHSL1 CTRL PPP2R1A
+"NHSL1 PPP2R1A & NHSL1 -300 -200 -100 100 200 300 -300 -200 -100 100 200 300 Fig. 6 | PPP2R1A depends on NHSL1 to regulate cell migration. MCF10A cells were transfected with pools of siRNAs targeting PPP2R1A, NHSL1 or both. Nontargeting siRNAs were transfected as controls (CTRL)."
+"Western blots were used to validate depletion. A 2D cell trajectories and migration persistence of single MCF10A cells transfected with indicated siRNAs, Tracking 6 h, n = 23 cells. Three biological repeats with similar results, only one is displayed."
+Data are shown as mean ± SEM. Statistical signiﬁcance was calculated with custommade R programs and P values are indicated. B Haptotaxis of MCF10A cells along a gradient of ﬁbronectin.
+"Cell trajectories of MCF10A cells transfected with indicated siRNAs. Three biological repeats with similar results. Tracking 8 h, n = 81 cells."
+Mean ± 95% conﬁdence intervals of Forward Motility Index are plotted. Trajectory plots are labeled in µm. Statistical signiﬁcance was calculated with ordinary oneway ANOVA with post hoc Tukey’s multiple comparison test and P values are indicated.
+*P < 0.05; **P < 0.01; ****P < 0.0001. Source data are provided as a Source Data ﬁle. Competent as wild type extracts in supporting actin polymerization.
+"NHSL1 was detected associated with GSTRAC1 Q61L beads (Supplementary Fig. 8), in line with the fact that both CYFIP1 and NHSL1 harbor binding sites for active RAC19,19. We were struck by the fact that RAC1 Q61L suppressed the effect of PPP2R1A depletion in cell migration but not in the in vitro assay."
+"However, we ﬁgured that the NSC23766 inhibitor that prevents RAC1 activation by guanine exchange factors blocked actin polymerization in a dosedependent manner (Fig. 7c), suggesting that endogenous RAC1 activity was required for actin polymerization downstream of RAC1 Q61L. This result was conﬁrmed using siRNAmediated depletion of RAC1 from cell extracts (Fig. 7d). Together these observations corroborate the positive feedback loop hypothesis, since constitutively active RAC1 activates endogenous RAC1, and show the importance of PPP2R1A when this positive feedback is required. Interestingly, three independent phosphatase inhibitors that blocked PP2A activity were inactive in the in vitro assay, reinforcing the suggestion that the role of PPP2R1A in regulating migration persistence and actin polymerization does not rely on PP2A phosphatase activity."
+Nature Communications | (2023) 14:3541 Article https://doi.org/10.1038/s41467023-39276w 15 10 GST CTRL CK666 si NCKAP1 GST CTRL si PPP2R1A si NHSL1 si PPP2R1A & NHSL1 GSTRAC1 Q61L GSTRAC1 Q61L 20 μm **** P <0.0001 *P = 0.012 GST CTRL CK666 si NCKAP1 GSTRAC1 Q61L 600 400 200 **** P <0.0001 P = 0.0133 GST CTRL CK666 si NCKAP1 GSTRAC1 Q61L 20μm n.s. P >0.9999 n.s. P >0.9999 **** P <0.0001 15 10 siRNA C T R L C T R L P P P 2 R 1 A N H S L1 P P P 2 R 1 A & N H S L1 n.s. P >0.9999 n.s. P >0.9999 **** P <0.0001 800 600 400 200 siRNA C T R L C T R L P P P 2 R 1 A N H S L1 P P P 2 R 1 A & N H S L1 GSTRAC1 Q61L GST GSTRAC1 Q61L GST GSTRAC1 Q61L CTRL 50 μM 100 μM Okadaic Acid (OA) Calyculin A (CalA)  Cantharidin (CAN) CTRL siRAC1 #1 siRAC1 #2 NSC23766 PP2A phosphatase inhibitors GSTRAC1 Q61L 15 10 20μm n.s. P >0.9999 n.s. P >0.9999
+n.s. P = 0.6791 **** P <0.0001 **** P <0.0001 CTRL 50 μM 100 μM OA CalA CAN 800 600 400 200 n.s. P >0.9999 n.s. P = 0.4002 n.s. P >0.9999 **** P <0.0001 **** P <0.0001 CTRL 50 μM 100 μM OA CalA CAN NSC23766 PP2A phosphatase inhibitors NSC23766 PP2A phosphatase inhibitors 20μm 15 10 800 600 400 200 **** P <0.0001 **** P <0.0001 siCTRL siRAC1 #1 siRAC1 #2 **** P <0.0001 **** P <0.0001 siCTRL siRAC1 #1 siRAC1 #2 Fig. 7 | WSCdependent polymerization of branched actin in cellfree extracts.
+Beads coated with GST or GSTRAC1 Q61L were incubated with extracts of MCF10A cells. Rhodaminelabeled actin structures polymerized on the beads were examined by ﬂuorescent microscopy and quantiﬁed by average ﬂuorescence intensity and total structure length. All drug treatments were for 1 h and were controlled with DMSO.
+Three biological repeats with similar results for all experiments. n corresponds to the total number of beads used for quantiﬁcation from all three experiments. Data are shown as mean ± SEM.
+"a cell were treated with 200 µM CK666 or depleted from NCKAP1 before preparation of extracts. n = 41 for ﬂuorescence intensity, n = 19 for structure length. B Extracts were prepared from MCF10A cells depleted of PPP2R1A, NHSL1 or both with siRNAs."
+"n = 58 for ﬂuorescence intensity, n = 29 for structure length. C Extracts were prepared from MCF10A cells treated with the NSC23766 inhibitor of RAC1 activation or with the phosphatase inhibitors reported to inactivate PP2A phosphatase activity, okadaic acid (OA, 30 nM), calyculin A (CalA, 10 nM), or cantharidin (CAN, 10 µM)."
+"n = 62 for ﬂuorescence intensity, n = 40 for structure length. D Extracts were prepared from MCF10A cells depleted of RAC1 with siRNAs. n"
+"= 52 for ﬂuorescence intensity, n = 40 for structure length. Statistical signiﬁcance was calculated with KruskalWallis test with post hoc Dunn’s multiple comparison test (a–c) or twotailed unpaired ttest (d) and P values are indicated. *P < 0.05; ****P < 0.0001."
+"Source data are provided as a Source Data ﬁle. Uncoupling PPP2R1A from WSC impairs migration persistence To uncouple PPP2R1A from WSC, we mapped PPP2R1A binding sites in NHSL1. NHSL1 was divided in four fragments excluding the WHD."
+"Upon transient transfection of 293T cells with GFP fusion of NHSL1 fragments, we found that the 4th fragment at the Cterminus of NHSL1 retrieved a large amount of PPP2R1A upon GFP immunoprecipitation (Fig. 8a). The 2nd fragment of NHSL1 that contains the two previously reported binding sites for the SH3 domain of ABI119 also retrieved PPP2R1A, but to a much lesser extent than the 4th fragment. The AlphaFold2 software predicted with high conﬁdence three motifs in fragment 4 that interact with the PPP2R1A scaffold or regulatory subunits retrieved in the WSC TAP (Fig. 8b)."
+"The ﬁrst two motifs recognize the ﬁrst HEAT repeat of PPP2R1A, but with different binding and probably mutually exclusive modes. The third motif of NHSL1 fragment 4 corresponds to a previously described consensus motif for binding regulatory subunits of the B56 family, such as PPP2R5D and PPP2R5E47. Upstream of the consensus motif, binding is reinforced by a long stretch of 25 residues containing two successive proline residues (Supplementary Fig."
+8). We isolated MCF10A cells that stably express NHSL1 fragment 4. Migration persistence was dramatically decreased in these cells compared to controls (Fig.
+"8c, Supplementary Fig. 9, and Supplementary Movie 11), suggesting that coupling PPP2R1A to the WSC is critical to regulate cell migration. To obtain further evidence of this point, we investigated the activity of mutated PPP2R1A. PPP2R1A is frequently mutated in tumors, especially in gynecologic cancers48. We then isolated stable transfectants from the PPP2R1A KO cell line that expressed FLAGGFP PPP2R1A fusion proteins, either wild type or harboring the frequent cancerassociated mutations, P179R, R183W, or W257C. GFP immunoprecipitations showed that the three mutations strongly impair binding to the WSC, but not to the PP2A catalytic subunit (Fig. 9a)."
+"In the 2D cell migration assay, PPP2R1A KO MCF10A cells displayed reduced migration persistence, like PPP2R1A knockeddown cells. Reduced persistence was associated with decreased RAC1 levels and activity (Supplementary Fig. 1). Whereas wildtype PPP2R1A rescued the phenotype, mutated forms of PPP2R1A were unable to restore persistence (Fig."
+9b and Supplementary Movie 12). This experiment conﬁrms that the interaction of PPP2R1A with the WSC is important for migration persistence. We then differentiated acini from the stable rescued cell lines at the surface of Matrigel.
+"PPP2R1A KO MCF10A cells were impaired in their ability to differentiate hollow acini with correct cell polarity, a hallmark of cell transformation (Fig. 9c). The multicellular structures formed instead were also less regularly spherical than controls. These phenotypes were rescued by wild type PPP2R1A, but not with the derivatives harboring a mutation."
+These results conﬁrm that the tumorassociated mutations are lossof-function mutations and suggest that the interaction of PPP2R1A with the WSC might be important to prevent cancer progression. Nature Communications | (2023) 14:3541 10 Article NHSL1 full length WHD ABI1 SH3 domain binding sites NHSL1 fragments HEK 293T Input IP GFP CTRL GFP NHSL1 FL GFP PPP2R1A βactin kDa 205 120 85 65 50 30 70 50 50 https://doi.org/10.1038/s41467023-39276w NHSL1 fragment 4 Motifs 1 2 3 PPP2R1A PPP2R5D PPP2R5E Nter motif 1 Nter motif 2 Cter motif 3 300 200 100 -100 -200 300 200 100 -100 -200
+-300 GFP CTRL GFP NHSL1 F4 -200 200 1.0 0.8 0.6 0.4 0.2 MCF10A CTRL NHSL1 F4 **** P <0.0001 20 40 60 80 100 Time interval (min) Fig. 8 | The Cterminal fragment 4 of NHSL1 that binds to PPP2R1A is dominantnegative towards migration persistence.
+A Scheme of NHSL1 FL and fragments. WHD: WAVE homology domain. HEK 293 T cells were transiently transfected with GFPNHSL1 FL or NHSL1 fragments.
+"Transfected cells were subjected to GFP immunoprecipitation. Western blots with the indicated antibodies. Three biological repeats of the same experiment with similar results, only one is displayed."
+B Prediction of three structural motifs that recognize the scaffolding subunit PPP2R1A or the regulatory subunit PPP2R5D of the PP2A complex using AlphaFold2. Cartoon representations of the complexes between PPP2R1A (gray) and motif 1(P1380SRPDDH1410 of NHSL1 in violet or motif 2 (A1430SPEPS1490 of NHSL1 in violet). Motif 3 (S1522LSEPV1569 of NHSL1 in violet) interacts with PPP2R5D (wheat) and PPP2R5E (wheat).
+"C Cell trajectories, migration persistence, cell speed and MSD were extracted from 2D random migration of MCF10A cells stably expressing GFPNHSL1 fragment 4. Tracking 7.5 h, n = 23 cells. Trajectory plots are labeled in µm."
+"Two biological repeats of the same experiment with similar results, only one is displayed. Data are shown as mean ± SEM. Statistical signiﬁcance was calculated with custommade R programs and P values are indicated."
+****P < 0.0001. Source data are provided as a Source Data ﬁle. Discussion
+"In this study, we uncovered a regulator of migration persistence, PPP2R1A, using differential proteomics when RAC1 was activated and when the formation of its downstream product, branched actin, was impaired. PPP2R1A is a subunit of the PP2A phosphatase complex, but we found no evidence that PP2A phosphatase activity was involved in PPP2R1Adependent regulation of migration persistence: (i) in differential proteomics, levels of catalytic subunits retrieved in ABI1 TAP did not vary as those of PPP2R1A; (ii) we were unable to identify a site on the RAC1/WRC/WSC machinery, whose phosphorylation would depend on PPP2R1A; (iii) PPP2R1Adependent actin polymerization downstream of RAC1, reconstituted in a bead assay, did not require PP2A phosphatase activity in the cell extract. It is thus possible that the function of PPP2R1A in regulating migration persistence is independent of the PP2A complex."
+"In line with this idea, a largescale proteomics-based quantiﬁcation of protein abundance has previously revealed that PPP2R1A was almost one order of magnitude more abundant than PP2A catalytic and regulatory subunits with which it associates49. Yet there is no mutual exclusivity of PPP2R1A interaction with the WSC and assembly of PP2A complexes, since we detected PP2A catalytic and regulatory subunits when we selected the WSC by TAP. The Atype scaffold subunit PPP2R1A is composed of 15 HEAT repeats, onto which the catalytic C subunit and one of the various B regulatory subunits assemble to form the ABC holoenzyme of PP2A32."
+"PPP2R1A is mutated in various cancers, particularly often in endometrial cancers (up to 20% in some subtypes)36. Tumorassociated PPP2R1A substitutions fall into hotspots. Most point mutations cluster in HEAT repeats 5 and 7, where they have been shown to impair the interaction with B regulatory subunits to a varying extent depending on the mutation and the B subunit considered50,51."
+"The 3 mutations of PPP2R1A, P179R, and R183W in HEAT repeat 5 and W257C in HEAT repeat 7, strongly impaired the interaction with the WSC. This result highlights the importance of the indirect binding mode of PPP2R1A to NHSL1 through NHSL1 motif 3 and B regulatory subunits47. The ﬁrst two motifs of NHSL1 that directly bind to PPP2R1A might contribute to an avidity effect, involving simultaneous direct and indirect interactions, required for a strong interaction of the WSC with PPP2R1A. One of the 3 mutations we study here in the breast cell line MCF10A, R183W, has been detected in 7% of mammary carcinomas52."
+"Using a PPP2R1A knockout cell line we examined the rescue provided by wild type or mutated forms. We unambiguously showed that these tumorassociated mutations inactivate PPP2R1A with respect to migration persistence and to the differentiation of polarized acini in Matrigel. Impairing cell polarity in acini for cancer progression53,54."
+"On the contrary, one can expect at least some persistence of tumor cell migration to be required for tissue invasion and metastasis formation. PPP2R1A is an atypical tumor suppressor gene, since only one of the two alleles is mutated in tumors, which is classical of oncogenes. Haploinsufﬁciency and dominant negative effects are thought to account for PPP2R1A inactivation in tumors50,55."
+"Is clearly relevant The here uncovered WSC, where NHSL1 replaces the WAVE subunit, is an alternative form of WAVE complex that was suspected, based on the presence of a WAVE homology domain (WHD) in NanceHoran Syndrome family proteins22, but was not previously reported. Now that we have identiﬁed the NHSL1containing WSC, it would be interesting to know whether other proteins of the family, such as NHS and NHSL2, can form similar WAVE shell complexes."
+"The question is difﬁcult to address, since it took the identiﬁcation of another protein, PPP2R1A, to isolate the NHSL1containing WSC from other NHSL1 conformations bound to the WRC. It was previously reported19, and has been conﬁrmed here, that NHSL1 can bind to the WAVE containing WRC Nature Communications | (2023) 14:3541 11 Article MCF10A PPP2R1A KO Input IP GFP https://doi.org/10.1038/s41467023-39276w FLAGGFP PPP2R1A FLAGGFP NHSL1 CYFIP1 NCKAP1 WAVE2 ABI1 BRK1 PP2Ac βactin GG FLA FLAGGFP PPP2R1A P179R"
+R183W W257C GG FLA FLAGGFP PPP2R1A P179R R183W
+W257C kDa 115 80 70 50 30 205 120 120 85 65 50 10 30 50 30 400 200 -200 400 200 -200 -400 MCF10A PPP2R1A KO + WT KO + P179R KO + R183W KO + W257C -200 200 400 -200 200 400 -200 200 400 1.0 0.8 0.6 0.4 0.2 -0.2 **** P <0.0001 MCF10A KO + WT KO + P179R KO + R183W KO + W257C
+n.s. P = 0.076 **** P = 0.016 n.s. P = 0.45 n.s. P = 0.93 n.s. P = 0.61 20 40 60 80 100 Time interval (min) MCF10A PPPP2R1A KO + WT KO + P179R KO + R183W KO + W257C
+50μm 100 50 F10A n.s. P = 0.564 **** P <0.0001 **** P <0.0001 **** P <0.0001 **** P <0.0001 O + W257C P2R1A K O + W O + P179R O + R183W 1.2 0.9 0.6 0.3 F10A n.s. P = 0.585 **** P <0.0001 *** P = 0.0003 **** P <0.0001 **** P <0.0001 P2R1A K O + W O + P179R O + R183W O + W257C Fig.
+"9 | Effects of tumorassociated mutations of PPP2R1A. A Impairment of WSC interaction. PPP2R1A knockout MCF10A cells stably transfected with plasmids expressing GFPtagged WT or mutant forms of PPP2R1A from tumors of patients were subjected to GFP immunoprecipitation and immunoprecipitates were analyzed by western blots with antibodies that recognize WRC, WSC, and the catalytic subunit of the PP2A phosphatase complex. Three biological repeats with similar results."
+"B Impairment of migration persistence. 2D cell trajectories and migration persistence of MCF10A parental cells, KO, and rescue derivatives. Three biological repeats with similar results, only one is displayed."
+"Tracking 8 h, n = 19 cells. Data are shown as mean ± SEM. Statistical signiﬁcance was calculated with custommade R programs and P values are indicated."
+"C Impairment of epithelial morphogenesis. MCF10A parental cells, PPP2R1A KO and rescue derivatives were seeded onto Matrigel and grown for 3 weeks. Acini were ﬁxed and stained with DAPI (blue), phalloidin (green) and antibodies targeting the apical Golgi marker GM130 (red)."
+Multicellular structures were observed using confocal microscopy. Three biological repeats with similar results. Acini with altered polarity or no lumen were scored as abnormal.
+"Roundness of acini outlines, based on central confocal sections. Quantiﬁcation of the three biological repeats. n = 23 acini."
+Data are shown as mean ± SEM. Statistical signiﬁcance was calculated with Kruskal–Wallis test with post hoc Dunn’s multiple comparison test (left) or ordinary oneway ANOVA with post hoc Tukey’s multiple comparison test (right) and P values are indicated. *P < 0.05; **P < 0.01; ***P < 0.001; ****P < 0.0001.
+"Source data are provided as a Source Data ﬁle. Nature Communications | (2023) 14:3541 12 Article https://doi.org/10.1038/s41467023-39276w through its Cterminus, which is recognized by the ABI1 SH3 domain. A particularly striking observation is that PPP2R1A is required for migration persistence, whereas NHSL1 inhibits persistence."
+"Importantly, each protein depends on the other to perform its function. PPP2R1A might suppress the negative role of NHSL1 in the WSC. It can also be that the NHSL1containing WSC has a positive regulatory role, whereas the other NHSL1 pool inhibits the WRC."
+"The identiﬁcation of the WSC raises several questions. Does the WSC correspond to an intermediate in the WRC life cycle? If so, at which stage?"
+"During WRC assembly or during the activation of an already assembled WRC? Is it possible that the NHSL1containing WSC is just a parallel assembly alternative to the WRC? Control PPP2R1A WSC Our main ﬁndings that PPP2R1A regulates migration persistence through its ability to interact with the NHSL1containing WSC appears counterintuitive, because the WSC does not contain WAVE and thus cannot directly activate Arp2/3."
+"Nonetheless, the data suggests that the PPP2R1AWSC interaction can contribute to WRC activation. That would be in addition to the wellestablished primary mechanism, which has been reconstituted in vitro without PPP2R1A and NHSL1: active RAC1 activates the WRC through a conformational change that exposes the Arp2/3 activating WCA domain of WAVE9,12. Freeing WAVE from the WRC that maintains it inactive6,7 would be another way to expose its Arp2/3activating WCA motif."
+"WAVE proteins were reported to be degraded by proteasomes upon cell activation and ubiquitylated on a speciﬁc lysine residue in their WHD56,57. But these reports do not demonstrate that this is a free form of WAVE that is degraded after and NHSL1 subunits in the shell complex are technically challenging to detect in the cell. Future work should be devoted to this question if we want to reﬁne our understanding of the molecular mechanisms by which PPP2R1A coupling to the NHSL1containing WSC contributes to migration persistence."
+"Between WAVE activation. Exchange events Migration persistence depends on positive feedback23, which is manifested in propagating waves of branched actin polymerization25. Positive feedback has been observed at multiple molecular levels."
+"The simple fact that the product of the Arp2/3 reaction is an actin ﬁlament that can in turn become the substrate of another Arp2/3dependent branching reaction is positive feedback referred to as an autocatalytic reaction58. The WRC turns over at the lamellipodium edge due to elongation of actin ﬁlaments that it contributes to generating27,59. Coronin1A decorates lamellipodial actin and further activates RAC1 via its association with ArhGEF760."
+"Similarly, we found PPP2R1A in the width of the lamellipodium, ideally localized to sense lamellipodial actin, whereas PPP2R1A association with the WSC is likely to take place at the lamellipodium edge, where NHSL1 is localized and turns over with similar kinetics as PPP2R1A. The interaction of PPP2R1A with WSC would thus be where Arp2/3 generates branched actin (Fig.10). Many observations converge on a potential implication of PPP2R1A in a positive feedback loop: (i) we initially focused on PPP2R1A, among the many ABI1 partners, because its interaction with the WSC was regulated by branched actin; (ii) PPP2R1A depletion by knockdown and knockout decreases RAC1 activity and levels; (iii) PPP2R1A is dispensable for migration persistence when RAC1 is constitutively activated by the Q61L mutation; and (iv) the requirement for PPP2R1A in the polymerization of branched actin is associated with positive feedback where RAC1 Q61L immobilized at the surface of beads activates endogenous RAC1 from the extract. All of this evidence points to a possible role for PPP2R1A, and the WSC it associates with, in the positive feedback that sustains directional migration through continuous actin polymerization at the leading edge."
+"Future work should aim to ﬁnd ways to dissect, at the molecular level, the complex circuitry that mediates feedback and persistence. Uncoupling PPP2R1A from the WSC Fig. 10 | Model. PPP2R1A, localized throughout the lamellipodium width, interacts with the WSC at the lamellipodial edge to mediate migration persistence."
+"When PPP2R1A is uncoupled from the WSC using the fragment 4 of NHSL1 or tumorassociated mutations, migration persistence decreases. Methods Cells and drugs MCF10A cells were grown in DMEM/F12 medium supplemented with 5% horse serum, 20 ng/mL epidermal growth factor, 10 µg/mL insulin, 100 ng/mL cholera toxin, 500 ng/mL hydrocortisone, and 100 U/mL penicillin/streptomycin. MDAMB-231, HEK 293 T and B16F1 cells were grown in DMEM medium with 10% FBS and 100 U/mL penicillin/ streptomycin."
+Medium and supplements were from Life Technologies and Sigma. Cells were incubated at 37 °C in 5% CO2. B16F1 (CRL6323) and HEK 293 T (CRL3216) cells were from ATCC.
+"MCF10A and MDAMB-231 cell lines were from the collection of breast cell lines organized by Thierry Dubois (Institut Curie, Paris). MCF10A RAC1 Q61L cell line was bought from Horizon Discovery Ltd. (Cambridge, UK). CK666, NSC23766 and wiskostatin were purchased from Merck."
+"The three PP2A inhibitors, okadaic acid sodium salt, CalyculinA and Cantharidin, were purchased from Santa Cruz Biotechnology. Plasmids and in vitro translation The following plasmids were built using a building block method:61 MXS AAVS1L SA2A Puro bGHpA EF1FLAG GFP Blue2 Sv40pA AAVS1R (control) MXS AAVS1L SA2A Puro bGHpA EF1 FLAG GFP ABI1 Sv40pA AAVS1R MXS AAVS1L SA2A Puro bGHpA EF1 FLAG GFP PPP2R1A Sv40pA AAVS1R MXS AAVS1L SA2A Puro bGHpA EF1 FLAG GFP ARPC1B Sv40pA AAVS1R MXS PGK Blasti bGHpA CAG PC HA Blue2 Sv40pA (control) MXS PGK Blasti bGHpA CAG PC HA BRK1 Sv40pA MXS PGK ZeoM bGHpA EF1Flag mScarlet PPP2R1A SV40pA The plasmid pCAGEGFP-NHSL1IRES-Puro encodes a GFP fusion protein with FL NHSL1 (11639) including the WHD domain."
+"FL NHSL1 Nature Communications | (2023) 14:3541 13 Article https://doi.org/10.1038/s41467023-39276w (NVSEA…LSEES) corresponds to the isoform X6 (XP_047275069.1) with 7 substitutions T440I, A449V, T891A, G1082E, A1123T, P1329S, and S1466N. The fragments 1 (MVVFI…KSRDH), 2 (LISRH…EGSGT), 3 (MKKLD…VEPAE), isoform X19 correspond and (XP_047275073.1) with 7 substitutions T363I, A372V, T814A, G1005E, A1046T, P1252S, and S1389N and were expressed as GFP fusion proteins from the same plasmid as the fulllength NHSL1. The MBP - NHSL1 (28–172) fusion protein with a TEV cleavage site between the two proteins was expressed from a modiﬁed pMALc2X (New England Biolabs). The two For in vitro translation, ORFs were subcloned into pCS2 or pCS2HA, and expressed from the SP6 promoter in the TnT® Quick Coupled Transcription/Translation System (Promega L2080) in the presence of 35SMet (PerkinElmer NEG709A005MC), as described previously5,43."
+"Stable cell lines Stable transfections of MCF10A and MDAMB-231 cells were performed using Lipofectamine 3000 (Invitrogen) with the plasmids encoding FLAGGFP, FLAGGFP ABI1, FLAGGFP PPP2R1A, GFP NHSL1 Fragment 4. To obtain stable integration at the AAVS1 site, cells were cotransfected with two TALEN constructs (Addgene #59025 and 59026) inducing a double strand break at the AAVS1 locus62. Cells were selected with 1 µg/mL puromycin (Invivogen) and pooled."
+Stable MCF10A double cell line was obtained by transfecting cells stably expressing FLAGGFP PPP2R1A with PCHA BRK1 or PCHA Blue2. Cells were then selected with 10 µg/ml of Blasticidin (Invivogen). Single clones were expanded and analyzed by Western blot.
+"Knockdown and knockout MCF10A and MDAMB-231 knockdown cells were obtained by transfecting 20 nM siRNAs with Lipofectamine RNAiMAX (Invitrogen). siRNAs were Dharmacon ONTARGET SMART Pools (L010259-000010 for PPP2R1A, L032698-000010 for NHSL1, L010640-000010 for NCKAP1) or Sigma siRNAs CCTTTGTACGCTTTGCTCA and GCCACTACAACAGAATTTT to target RAC1. Cells were analyzed after 3 days."
+"Lines were generated with CRISPR/ MCF10A knockout cell Cas9 system. The following gRNAs were used: PPP2R1A 5′-CATAGACGAACTCCGCAATG3′ NHSL1 5′-TCGGCTTTCCTCATCTAGGT3′ nontargeting 5′-AAAUGUGAGAUCAGAGUAAU3′. Cells were transfected with gRNA, tracrRNA, and Cas9 protein by Lipofectamine CRISPRMAX™ (all reagents from ThermoFischer Scientiﬁc)."
+"After 2 days, cells were diluted at 0.8 cells/well in 96well plates. Single clones were expanded and analyzed by western blot. The positive clones were conﬁrmed by sequencing."
+"Antibodies The antibodies used were: antiPPP2R1A (Bethyl Laboratories, A300962A, 1:2000); antiNHSL1 (SigmaAldrich, HPA029967, 1:1000); antiPP2Ac (Bethyl Laboratories, A300732A, 1:3000); antiGFP (Roche, 11814460001, 1:1000); antiNCKAP1 (Bethyl Laboratories, A305178A, 1:3000); antiWAVE1 (R&D Systems, AF5514, 1:1000); antiWAVE3 (R&D Systems, AF5515, 1:1000); antiphospho-WAVE2 Ser308 (Millipore, 071511, 1:1000); antiRAC1 (BD Biosciences, #610651, 1:500); antiphospho-RAC1 Ser 71 (Cell Signaling Technology, #2461 T, 1:1000); antiGAPDH (Thermo Fisher Scientific, AM4300, 1:4000); antiβ-actin (Thermo Fisher Scientific, AM4302, 1:4000); and antiGM130 (#610823, BD Biosciences, 1:100). Homemade CYFIP1, ABI1, WAVE2 antibodies and BRK1 antibody were described previously5,43. Western blots Cells were lysed in XBNP40 buffer (50 mM HEPES, 50 mM KCl, 1%NP40, 10 mM EDTA, pH 7.7) supplemented with protease inhibitor (Roche), the lysates were clariﬁed by centrifugation at 13,000 rpm for 15 min and subjected to SDS–PAGE using NuPAGE 412% BisTris or 3–8% TrisAcetate gels (Life Technologies)."
+"Pieces of nitrocellulose membranes were cut and incubated with different primary antibodies, HRP conjugated secondary antibodies (Sigma) and developed with SuperSignal™ West Femto Substrate (Thermo Fisher Scientific) and ChemiDoc imaging system (BIORAD). Densitometry of Western blots was performed with ImageJ. Uncropped images are provided in the source data ﬁle. Immunoprecipitations and tandem afﬁnity puriﬁcation of the WSC Cells stably expressing FLAGGFP ABI1 or FLAGGFP PPP2R1A were lysed with XBNP40 buffer (50 mM HEPES, 50 mM KCl, 1% NP40, 10 mM EDTA, pH 7.7) supplemented with protease inhibitors at 4 °C for 30 min."
+"The phosphatase inhibitor cocktail PhosSTOP (Roche) was added for phosphosite analysis. The lysates were clariﬁed by centrifugation at 13,000 rpm for 15 min. Clariﬁed cell extracts were incubated with FLAGM2 beads (Sigma) at 4 °C for 4 h. FLAGM2 beads were washed with XBNP40 buffer and eluted with 0.5 mg/ml FLAG peptide (Sigma) in XB (50 mM HEPES, 50 mM KCl, 10 mM EDTA, pH 7.7) overnight at 4 °C. FLAG elutions were collected and incubated with GFPtrap beads (Chromotek) at 4 °C for 1 h."
+"The GFPtrap beads were washed with XBNP40 buffer. 20% of the beads were subjected to SDS–PAGE for Western blot or silver staining (SilverQuest Silver Staining Kit, Thermo Fisher Scientific). In all, 80% of the beads were analyzed by mass spectrometry."
+"In vitro translation reactions of 50 μl were diluted with 450 μl of XB buffer (20 mM Hepes, 100 mM KCl, 1 mM MgCl2, 0.1 mM EDTA, pH 7.7) and 10 μl of beads coupled to an antiHA mAb (Merck, A2095) were added. The mixture was incubated for 2 h at 4 °C. Then the beads were washed four times with 1 ml of XB buffer and resuspended in SDS loading buffer."
+"SDS–PAGE gels were incubated with gel drying buffer (15% methanol and 5% glycerol) for 1 h, then dried. Autoradiography was revealed with a Typhoon imager FLA 7000 (GE Healthcare). To purify the WSC, MCF10A cells stably expressing FLAGGFP PPP2R1A and PCHA BRK1 were lysed with XBNP40 buffer (50 mM HEPES, 50 mM KCl, 1% NP40, 10 mM EDTA, pH 7.7) supplemented with protease inhibitors at 4 °C for 1 h, then the lysates were clariﬁed by centrifugation at 13,000 rpm for 15 min. Cell extracts were incubated with FLAGM2 beads (Sigma) overnight at 4 °C."
+"FLAGM2 beads were washed with XBNP40 buffer, and eluted with 0.5 mg/ml FLAG peptide (Sigma) in FLAGelution buffer (50 mM HEPES, 50 mM KCl, 1 mM CaCl2, pH 7.7). FLAG elutions were incubated with PC beads (AntiProtein C Afﬁnity Matrix, Sigma) overnight at 4 °C. PC beads were washed and eluted with EGTAcontaining elution buffer (50 mM HEPES, 50 mM KCl, 10 mM EGTA, pH 7.7) overnight."
+"PC elutions were subjected to SDS–PAGE and mass spectrometry. Puriﬁcation of recombinant proteins and complexes GST and GST fusion proteins with RAC1 WT, RAC1 Q61L, CDC42 Q61L and the RAC1 binding domain of PAK1 were expressed in and puriﬁed from E. coli BL21. After 3 hours induction at 37 °C with 1 mM IPTG, cells were resuspended and lysed in lysis buffer (50 mM TrisHCl, 100 mM NaCl, 2.5 mM CaCl2, 10 mM MgCl2, 1% Triton X100, 5% glycerol, 0.5 mg/ ml lysozyme, 10 μg/ml DNAseI, 1 mM DTT, pH 8.0, protease inhibitors) at 4 °C for 1 h."
+"The lysates were clariﬁed by centrifugation at full speed in a tabletop centrifuge for 30 min. The supernatants were incubated with Glutathione Sepharose beads (GE healthcare) at 4 °C for 3 h. The beads were washed with TBS buffer (50 mM Tris, 100 mM NaCl, 2.5 mM CaCl2, 5 mM MgCl2, 1 mM DTT, pH 8.0), then the bound proteins were eluted with GST elution buffer (50 mM TrisHCl, 5 mM MgCl2, 10 mM glutathione, pH 8.0)."
+"The elutions were dialyzed in buffer (50 mM Tris, 5 mM MgCl2, 20% glycerol, pH 8.0) and kept at −80 °C until use. To purify the recombinant WSC, the protocol for recombinant WRC was followed44. Brieﬂy, CYFIP1 and NCKAP1 were individually expressed as His tagged fusion proteins in insect cells and a dimer Nature Communications | (2023) 14:3541 14 Article https://doi.org/10.1038/s41467023-39276w reconstituted; BRK1, ABI1 (1158), and WAVE1 (1230) or NHSL1 (28172) were individually expressed as MBPfusion proteins in E.coli and a trimer reconstituted."
+"Reconstituted pentamers were puriﬁed on a SOURCE 15Q (Cytiva) anion exchange column and polished on a Superdex 200 (Cytiva) gel ﬁltration column. For electron microscopy examination, puriﬁed WSC and WRC were diluted to 24 and 33 ng/µl, respectively, in 10 mM Hepes pH 7.0, 100 mM NaCl, 2 mM MgCl2, 2 mM DTT and 10 % glycerol and 3 µl was then applied to freshly glow discharged carboncoated 200 mesh copper support EM grids (EMS). After 1 min incubation, the sample was blotted and immediately replaced with the stain solution containing 2% uranyl acetate, which was blotted and replaced twice."
+"The grids were imaged on a JEOL 2100 STEM using a Gatan One View 4 K digital camera at 200 keV, 80 ×900 magniﬁcation to collect 132 WSC and 194 WRC micrographs at 2 s (~25 e−/Å 2) exposure with a pixel size of 1.85 Å. The micrographs were processed with cryoSPARC63 to obtain 2D class averages. GST pulldown and RAC1 activation assay MCF10A cell extracts were prepared with XBNP40 buffer as described above."
+"20 μg puriﬁed GST fusion proteins were incubated with 20 μl Glutathione Sepharose beads (GE healthcare) in 500 μl incubation buffer (50 mM TrisHCl, 100 mM NaCl, 2.5 mM CaCl2, 10 mM MgCl2, 1% Triton X100, 5% glycerol, 1 mM DTT, pH 8.0) at 4 °C for 1 h. The precoated beads were washed and incubated with 1 ml MCF10A cell extract at 4 °C for 1 h. The beads were washed with XBNP40 buffer and subjected to Western blot."
+"RAC1 activation was also measured by ELISA (GLISA kit BK128 from Cytosketon, Inc.) according to the manufacturer’s instructions. Actin polymerization in cellfree extracts MCF10A cells were lysed either by nitrogen cavitation (Parr instruments, 500 Psi for 20 minutes) in buffer (50 mM HEPES, 50 mM NaCl, 5 mM MgCl2, 0.1 mM EDTA, 1 mM DTT, pH 7.7, protease inhibitor), or with NP40 containing buffer (50 mM HEPES, 50 mM KCl, 5 mM MgCl2, 1% NP40, pH 7.7, protease inhibitor) at 4 °C for 30 min. The NP40 containing extract supported RAC1 Q61Linduced actin polymerization, whereas extract obtained by nitrogen cavitation supported CDC42 Q61Linduced actin polymerization."
+"The extracts were clariﬁed by centrifugation at full speed in a tabletop centrifuge for 15 min. 10 μl clariﬁed cell extract was supplemented with 2 μl energy mix (20 mM ATP, 150 mM creatine phosphate, 20 mM MgCl2, 2 mM EGTA) and 0.75 μl rhodamineactin (1 mg/ml, Cytoskeleton, Inc.). The mixture was centrifuged 5 min at 13,000 rpm. To trigger the reaction, 1 μl Glutathione Sepharose beads bound to 2 μg GSTRAC1 Q61L or GSTCDC42 Q61L were added to a 10 μl reaction mix."
+"After 1 h incubation at room temperature, the reaction was squashed in between a coverslip and the microscope slide. The coverslip was sealed with melted VALAP (VaselineLanoline-Parafﬁn). The beads were observed under an inverted microscope (Olympus IX83) with 60x oil objective."
+"Fluorescence intensity and structure length on the surface of the beads were measured using ImageJ. Migration and videomicroscopy Random cell migration assays were performed in µSlide eightwell ibidi dishes. For 2D migration assays, cells were seeded on the dishes coated with 20 μg/ml Fibronectin (Sigma). For 3D migration assays, cells were sandwiched between two layers of 2 mg/ml collagen (rat tail collagen type I, Corning)."
+"After seeding cells for 24 h, videomicroscopy was performed on an inverted Axio Observer microscope (Zeiss) equipped with a Pecon Zeiss incubator XL multi S1 RED LS (Heating Unit XL S, Temp module, CO2 module, Heating Insert PS and CO2 cover), a deﬁnite focus module and a Hamamatsu camera C10600 OrcaR2. Images were acquired every 5 or 10 min for 24 h with ×10 objective for 2D migration, and every 10 min for 48 h with ×20 objective for 3D migration. Individual cells were tracked by ImageJ softwareManual Tracking plugin."
+DiPer software was used to analyze the cell migration parameters64. Fibronectin gradients were prepared with PRIMO photopatterning system (Alvéole). 35 mm ibidi dishes with glass bottom were treated with plasma for 1 min. PDMS stencils (Alvéole) with three 3 × 3 mm wells were stacked on each plasmatreated dish immediately.
+"PDMS stencil wells were coated with PLLg-PEG for 1 h and rinsed three times with PBS. Then photoinitiator (PLPP) (Alvéole) was added to the PDMS stencil wells for micropatterning. LEONARDO photopatterning software was used to design the micropatterns (width 645 μm, height 1031 μm with 100% to 0% grayscale gradient)."
+"The dishes with PDMS stencils were placed onto the microscope holder (Nikon ECLIPSE Ti2) with PRIMO module, and the patterns were projected to the surface at a UV dose of 1500 mg/mm2. PDMS stencil wells were rinsed three times with PBS and coated with 50 μg/ml Fibronectin/FibrinogenAlexa647 (Invitrogen) for 30 min at 37 °C. The Fibronectin/FibrinogenAlexa647 were only adsorbed on the previously illuminated areas."
+"After rinsing the wells three times with PBS, MCF10A cells were seeded in the coated PDMS stencil wells. Cells were washed once with medium after adhering for 2 h. After 24 h, videomicroscopy was performed on an inverted Axio Observer microscope (Zeiss) with the 10x objective."
+Images were acquired every 10 min for 24 h. Individual cells were tracked by ImageJ softwareManual Tracking plugin. The tracks obtained were analyzed by the chemotaxis tool (Ibidi) to extract the FMI values and cell trajectory plots. The FMI values were plotted by GraphPad Prism software as mean ±95% conﬁdence intervals.
+"B16F1 cells were transiently transfected with GFP and mScarlet plasmids and analyzed by videomicroscopy after 2 days. Videos were acquired using a confocal laser scanning microscope (TCS SP8, Leica) equipped with a high NA oil immersion objective (HC PL APO 63×/ 1.40, Leica), a white light laser (WLL, Leica) and controlled by the LasX software. Images were taken every 10 s for ~5–10 min. Kymographs were drawn using Multi Kymograph tool in ImageJ."
+"To analyze the localization of proteins, radial line scans were performed and analyzed as described20. Fluorescence recovery after photobleaching B16F1 cells were transiently transfected with GFP and mScarlet plasmids and analyzed by FRAP after 1 day of expression. Videos were acquired using an inverted Eclipse TiE (Nikon) equipped with a CSUX1-A1 Nipkow Spinning Disk confocal system (Yokogawa), a 100x APO TIRF oil immersion objective (NA: 1.49, Nikon), a 488 nm, 150 mW (Vortran) and 561 nm, 100 mW (Coherent) lasers, a Quad bandpass 440/40 nm, 521/20 nm, 607/34 nm, 700/45 nm dichroic mirror (Semrock), a Prime 95B sCMOS camera (Photometrics) and an iLas 2 modules (GATACA Systems)."
+"The setup was controlled by MetaMorph software version 7.7 (Molecular Devices). For single FRAP experiments, images were acquired at a video streaming rate of 200 ms for ~10–20 s. For dual FRAP experiments, images were acquired at a frame rate between 1.1 and 1.4 s for about 3040 s. Since FRAP experiments were performed in extending lamellipodium of migrating cells, the photobleached ROIs moved forward."
+"We used kymographs to obtain the proﬁle of ﬂuorescence recovery in the moving ROI. Kymographs were drawn using the Multi Kymograph tool in ImageJ. We manually draw on kymographs a line that followed the cell edge, and whose thickness covered the whole photobleached lamellipodium or the leading edge."
+"The line was used to reslice kymograph images along the y-axis (time), allowing quantiﬁcation over time of the recovered ﬂuorescence intensity in the photobleached ROI, which moves forward during cell migration. The ﬂuorescence intensity is normalized by the average ﬂuorescence intensity in the ROI before photobleaching. Nature Communications | (2023) 14:3541 15 Article https://doi.org/10.1038/s41467023-39276w 3D acini Single cells were seeded on a 1mm-thick solidiﬁed layer of Matrigel (growth factor reduced, Thermo Fisher Scientific, #CB40230C) in the eightwell glass chamber (Merck, #PEZGS0816) and grown for 3 weeks in MCF10A medium with 1% horse serum, 5 ng/mL EGF and 2% Matrigel."
+"Then the acini were ﬁxed and stained with the indicated antibody, Alexa Fluor™ 555 Phalloidin (A34055, Thermo Fisher Scientific) and DAPI. Images were acquired using a confocal laser scanning microscope (TCS SP8, Leica) equipped with a high NA oil immersion objective (HC PL APO 63 × / 1.40, Leica), a white light laser (WLL, Leica) and controlled by the LasX software. Statistics Migration persistence for individual cells is evaluated based on the exponential decay and plateau ﬁt according to Eq."
+"(1). P = 1 (cid:1) b Þ (cid:3) e(cid:1)t a + b ð1Þ Where, P is the migration persistence, b is plateaued value, t is the time interval and an is the decay constant."
+"Then the related statistical analysis was conducted through custommade R programs, as previously described65. For other statistical analysis, GraphPad Prism software and Microsoft Excel were used. The Shapiro–Wilk normality test was performed."
+"Twotailed unpaired ttest was used for parametric data and Mann–Whitney test was used for non-parametric data. ANOVA followed by post hoc Tukey’s multiple comparison test was used for parametric data and Kruskal–Wallis test followed by post hoc Dunn’s multiple comparison test was used for non-parametric data. Four levels of signiﬁcance were distinguished: *P < 0.05, **P < 0.01, ***P < 0.001, ****P < 0.0001."
+"Reporting summary Further information on research design is available in the Nature Portfolio Reporting Summary linked to this article. Data availability Raw ﬁles of the LCMSMS analyses have been deposited in PRIDE with the accession number PXD031584. Files with the reference number 170414 refer to the TAP puriﬁcation of FLAGGFP-ABI1, 181220 to the TAP puriﬁcation of FLAGGFP-PPP2R1A, 210415 to the TAP puriﬁcation of the WSC and 200120 to the identiﬁcation of phosphosites in the TAP puriﬁcation of FLAGGFP-ABI1."
+"The structural models of (i) the Wave Shell Complex (WSC) composed of NHSL1(195), CYFIP1, NCKAP1, BRK1 and ABI2(1160), (ii) the NHSL1(13821410)-PPP2R1A complex, (iii) the NHSL1(14301490)- PPP2R1A complex, and (iv) NHSL1(15221569)-PPP2R5D(80530) complex, are available in ModelArchive [modelarchive.org] with the accession codes maagzek, mane9d4, masx8ix and marop1i, respectively. Source data are provided with this paper."

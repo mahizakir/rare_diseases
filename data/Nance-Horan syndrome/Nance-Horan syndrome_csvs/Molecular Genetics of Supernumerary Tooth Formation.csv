@@ -1,971 +1,324 @@
-NIH Public Access Author Manuscript Genesis.
-Author manuscript; available in PMC 2011 October 6.
-Published in final edited form as: Genesis.
-2011 April ; 49(4): 261–277. Doi:10.1002/dvg.20715.
-"Molecular Genetics of Supernumerary Tooth Formation XiuPing Wang* and Jiabing Fan Department of Developmental Biology, Harvard School of Dental Medicine, Harvard University, Boston, Massachusetts 02115"
-"Summary Despite advances in the knowledge of tooth morphogenesis and differentiation, relatively little is known about the aetiology and molecular mechanisms underlying supernumerary tooth formation."
-"A few supernumerary teeth may be a common developmental dental anomaly, while multiple supernumerary teeth usually have a genetic component, and they are sometimes thought to represent a partial third dentition in humans."
-"Mice, which are commonly used for studying tooth development, only exhibit one dentition, with very few mouse models exhibiting supernumerary teeth similar to those in humans."
-"Inactivation of Apc or forced activation of Wnt/β(catenin signalling results in multiple supernumerary tooth formation in both humans and in mice, but the key genes in these pathways are not very clear."
-"Analysis of other model systems with continuous tooth replacement or secondary tooth formation, such as fish, snake, lizard, and ferret, is providing insights into the molecular and cellular mechanisms underlying succesional tooth development, and will assist in the studies on supernumerary tooth formation in humans."
-"This information, together with the advances in stem cell biology and tissue engineering, will pave ways for the tooth regeneration and tooth bioengineering."
-"Keywords supernumerary teeth; cleidocranial dysplasia; familiar adenomatous polyposis; Runx2; Apc; tooth development; tooth replacement; successional tooth INTRODUCTION Teeth are vertebrate specific organs that are mainly used for processing of food, defense, and in humans also for speech production."
-"During tooth development, the dental epithelium and the underlying neural crest derived ectomesenchyme interact reciprocally and sequentially for the initiation, morphogenesis, and cell differentiation of the teeth (Bei, 2009; Jernvall and SalazarCiudad, 2007; Tummers and Thesleff, 2009)."
-"While some nonmammal species have multirowed dentition and replace their teeth regularly throughout the lifetime, mammalian vertebrates exhibit one row of teeth and only renew their teeth once, or in some rodents, without any replacement (Jarvinen et al., 2009; Koussoulakou et al., 2009; Mikkola, 2009; Tummers and Thesleff, 2009)."
-Humans have two sets of dentitions.
-"There are 20 teeth in the deciduous (primary) dentition, with one central incisor, one lateral incisor, one canine, and two premolars in each quadrant of the jaw."
-"There are 32 teeth in the permanent dentition, with one central incisor, one lateral incisor, one canine, two premolars, and three molars in each quadrant of the jaw."
-"Supernumerary teeth, or hyperdontia, refer to the teeth that form in addition to the normal dental formula (Cobourne © 2011 WileyLiss, Inc."
-"*Correspondence to: Dr. XiuPing Wang, Department of Developmental Biology, Harvard School of Dental Medicine, Boston, MA 02115."
-xiuping_wang@hsdm.harvard.edu.
-"Wang and Fan Page 2 and Sharpe, 2010; D'souza and Klein, 2007;"
-"Fleming et al., 2010; Gunduz and Muglali, 2007; YagueGarcia et al., 2009)."
-"They may occur in any region of the dental arch, in the maxilla or in the mandible, singly or in multiples, unilaterally or bilaterally, erupted or unerupted."
-"They can be associated with a syndrome, or they can be found in nonsyndromic patients (Diaz et al., 2009;"
-"FerresPadro et al., 2009; Garvey et al., 1999; Leco Berrocal et al., 2007; Liu et al., 2007)."
-"Prevalence and Types of Supernumerary Teeth in Humans The reported prevalence of supernumerary teeth ranges from 0.2% to 0.8% in the deciduous dentition, and ranges from 0.5% to 5.3% in the permanent dentition with geographic variations (Brook, 1974; Fardi et al., 2010; FerresPadro et al., 2009; Leco Berrocal et al., 2007; Mckibben and Brearley, 1971; Rajab and Hamdan, 2002; Stellzig et al., 1997; YagueGarcia et al., 2009; Yusof, 1990)."
-The incidence of supernumerary teeth is usually higher in males than in females.
-"The reported male to female ratio was between 1.18:1 to 4.5:1 (Brook, 1984; Fernandez Montenegro et al., 2006; FerresPadro et al., 2009; Leco Berrocal et al., 2007; Liu, D. G. et al., 2007;"
-"Patchett et al., 2001; Rajab and Hamdan, 2002; SalcidoGarcia et al., 2004; Yassin and Hamori, 2009; Yusof, 1990)."
-Supernumerary teeth are usually found to be single and unilateral.
-"The most common supernumerary teeth are mesiodens, which occur between the maxillary central incisors (Hyun et al., 2009)."
-"More rarely, they can be located in the premolar and distomolar regions, and appear as supernumerary premolars or supernumerary fourth and fifth molars (Bodin et al., 1978; Ersin et al., 2004; Fernandez Montenegro et al., 2006; FerresPadro et al., 2009; Grimanis et al., 1991; Kaya et al., 2010; Kokten et al., 2003; Leco Berrocal et al., 2007; Liu, 1995; Mason et al., 2000; Rajab and Hamdan, 2002; Saarenmaa, 1951; SalcidoGarcia et al., 2004; Yassin and Hamori, 2009)."
-"Supernumerary premolars constitute proximately 10% of the total supernumerary cases, and almost 75% of those are in the mandible (Hyun et al., 2008; Kawashita and Saito, 2010)."
-"It was reported that 76%–86% nonsyndromic cases have only one supernumerary tooth, and 12%–23% cases have two supernumerary teeth (Diaz et al., 2009; Fernandez Montenegro et al., 2006; Rajab and Hamdan, 2002)."
-"Only 1% of nonsyndromic cases have multiple supernumerary teeth, which occur most frequently in the mandibular premolar area, followed by the molar and the anterior regions, respectively (Batra et al., 2005;"
-"Diaz et al., 2009; Hyun et al., 2008; Inchingolo et al., 2010; Orhan et al., 2006; YagueGarcia et al., 2009; Yusof, 1990)."
-"Supernumerary teeth in the deciduous dentition are usually normal or conical shaped, whereas supernumerary teeth in the permanent dentition can exhibit various shapes."
-"They may have normal morphology or may be rudimentary and miniature with little or no resemblance to the other teeth (Batra et al., 2005)."
-"Based on their morphology, supernumerary teeth are classified into four types, including conical type, tuberculate type, supplemental teeth, and odontomas (Garvey et al., 1999)."
-The most common supernumerary teeth are small conical pegshaped with root development at the similar stage or ahead of that of adjacent teeth.
-They usually develop in the anterior maxilla as mesiodens.
-Tuberculate supernumerary teeth are large barrelshaped with multiple cusps or tubercles.
-Their root development is delayed compared to that of adjacent teeth.
-"They are mostly found unerupted in the palatal aspect of the maxillary central incisors, and this can cause the impaction of permanent maxillary incisors (Backman and Wahlin, 2001; Foster and Taylor, 1969; Liu, 1995; Mitchell and Bennett, 1992; Rajab and Hamdan, 2002; Yassin and Hamori, 2009)."
-"Supplemental teeth are duplications of teeth in the normal dentition with essentially normal size and shape, and they are usually found at the end of a tooth series."
-"The most common supplemental tooth is the permanent maxillary lateral incisor, but supplemental premolars and molars were also reported."
-The majority of supernumerary teeth found in the primary dentition are of the supplemental type.
-They usually erupt with normal morphology Genesis.
-Author manuscript; available in PMC 2011 October 6.
-"Wang and Fan Page 3 and alignment, and often appear as a supplemental lateral upper incisor (FerresPadro et al., 2009;"
-"Garvey et al., 1999)."
-"This may cause underreported and low prevalence of supernumerary teeth in the primary dentition (Fleming et al., 2010)."
-There are special cases exhibiting permanent supernumerary teeth developing as supplemental teeth and forming after the permanent teeth.
-"These are thought to represent a third dentition, best known as manifestations of cleidocranial dysplasia (see later)."
-"Odontoma was listed as the fourth category of supernumerary teeth (Garvey et al., 1999; Howard, 1967)."
-"Odontoma contains a mass of dental tissues (enamel, dentin, cementum, pulp tissue), and is usually considered to be a hamartomatous (benign and local with disorganized mass) malformation rather than a neoplasm."
-There is no gender predilection in the occurrence of odontomas.
-"On the basis of their gross and radiographic features, odontomas are further subclassified into compound and complex types (FerresPadro et al., 2009; Rajab and Hamdan, 2002; Yassin and Hamori, 2009)."
-"Compound odontomas contain some rudimentary toothlike structures and are commonly found in the anterior maxilla, whereas complex odontomas contain totally disorganized mass of dental tissues and are often found in the premolar and molar regions (Garvey et al., 1999; Tozoglu et al., 2010)."
-"Rarely, an odontoma can erupt into the oral cavity (SerraSerra et al., 2009; Tozoglu et al., 2010)."
-Some supernumerary teeth are just impacted in the jaw with no obvious adverse effects.
-"They were usually identified incidentally during radiographic examinations for some other reasons (Inchingolo et al., 2010; Kawashita and Saito, 2010; Rajab and Hamdan, 2002; YagueGarcia et al., 2009)."
-"However, the development of some supernumerary teeth can cause a broad range of complications, including retained or delayed eruption of permanent teeth, diastemas, displacement, rotation, crowding, root resorption, periodontal lesions, or pulp necrosis of adjacent teeth."
-"They can also cause dentigerous (odontogenic) cyst, and the presence of unerupted supernumerary teeth may compromise tooth implantation as well as alveolar bone grafting in patients with cleft palate (Diaz et al., 2009;"
-"FerresPadro et al., 2009; Garvey et al., 1999; Giancotti et al., 2002; Hyun et al., 2009; Yassin and Hamori, 2009)."
-"Etiology of Supernumerary Teeth in Humans Most supernumerary teeth are isolated cases, although some may be familial inherited and some may be syndrome associated events (Batra et al., 2005; Diaz et al., 2009)."
-The etiology of supernumerary teeth is still uncertain.
-"A number of theories have been postulated to try to explain their presence, including atavism (evolutionary throwback), tooth germ dichotomy, hyperactivity of the dental lamina, and genetic and environmental factors (Primosch, 1981; Saarenmaa, 1951)."
-The atavism or phylogenetic theory suggested that the occurrence of supernumerary teeth is a regression to the extinct ancestral tissues or anthropoids.
-"This theory is based on the phenomena that ancestor mammals have more teeth with three incisors, one canine, four premolars, and three molars in each quadrant of the jaw (Babu et al., 1998; Osborne, 1978; Smith, 1969)."
-The teeth of common modern mammals belong to these four tooth families.
-"It is generally thought that during evolution, the total number of teeth per dentition decreased (from polyodonty to oligodonty) and the generations of teeth were also reduced (from polyphyodonty to diphyodonty or monophyodonty); whereas the morphology of teeth became more complex (from homodonty to heterodonty)."
-"Over the course of evolution, the teeth in placental mammals tend to disappear in an order that is opposite to the order of their eruption (Koussoulakou et al., 2009)."
-"The tooth germ dichotomy theory proposed that during early tooth development, the dental lamina was divided into two parts of equal or different size, thus giving rise to two teeth with similar size, or one normal tooth and one dysmorphic tooth (Garvey et al., 1999; Liu, Genesis."
-Author manuscript; available in PMC 2011 October 6.
-"Wang and Fan Page 4 1995; Taylor, 1972)."
-"Munne et al. analyzed in detail mouse incisor development and found that the large incisor placodes form through the fusion of multiple small placodes, and the balance between activator and inhibitor molecules regulates the size of the placodes."
-"Small disturbances in the balance of these signals could cause disintegration or splitting of the placode and thus the formation of two or three small incisors (Munne et al., 2010)."
-"Hovorakova et al. analyzed the development of deciduous upper lateral incisor in human embryos using serial sections and computeraided 3D reconstructions, and found that deciduous upper lateral incisors originate from the fusion of two dental epithelial thickenings, which were separated by a groove at the formal fusion site of the medial nasal and maxillary processes."
-"Later, these two dental epithelial thickenings fused together and formed a continuous dental lamina, from which the deciduous upper lateral incisor develops (Hovorakova et al., 2006)."
-Any disturbance causing cleft or incomplete fusion of the dental epithelial thickenings can result in the formation of supernumerary teeth.
-"This may explain why the supernumerary upper lateral incisor often appears in the deciduous dentition, and in the conditions of cleft palate and cleft lip (FerresPadro et al., 2009)."
-"Hyperactivity of the dental lamina is another widely accepted theory (Diaz et al., 2009; Foley and Del Rio, 1970; Garvey et al., 1999; Hattab et al., 1994; Liu, 1995; Primosch, 1981; Rajab and Hamdan, 2002; Saarenmaa, 1951; Zilberman et al., 1992)."
-"Primary dental lamina (odontogenic band) is the thickening of oral ectoderm forming during the initiation stage of deciduous teeth, and it gives rise to the deciduous dentition."
-"During the cap or bell stage of deciduous tooth development, successional dental lamina forms from the lingual or posterior aspect of deciduous tooth enamel organ."
-"It later elongates under the oral epithelium and buds into the jaw mesenchyme forming the successional (permanent) tooth or the posterior molar teeth (Jarvinen et al., 2009 and references therein)."
-"Once the crown of the permanent tooth has formed, the dental lamina undergoes programmed cell death and degenerates."
-"Residues of undegenerated dental lamina epithelial cells may cause eruption cysts (Cohen, 1984), while overproliferation or prolonged survival of dental lamina epithelial cells may cause supernumerary tooth formation (Cohen, 1984;"
-"Diaz et al., 2009; Jarvinen et al., 2009)."
-Heredity is also believed to be an important factor.
-"Supernumerary teeth occur more commonly in the relatives of affected patients than in the general population (Babu et al., 1998; Becker et al., 1982; Gallas and Garcia, 2000; Mercuri and O'neill, 1980;"
-"Rubin et al., 1981; Winter, 1969)."
-"They can be transmitted as an autosomal recessive or autosomal dominant trait with incomplete penetrance, or may be associated with the X chromosome (Batra et al., 2005; Brook, 1984; Cadenat et al., 1977; Garvey et al., 1999; Primosch, 1981)."
-"There are also reports that supernumerary teeth are sometimes associated with polydactyly and extra nipples (Hyun et al., 2008;"
-"Kantor et al., 1988)."
-The etiology of odontomas is still unknown.
-"It is usually thought to be hereditary or due to a disturbance during tooth development triggered by trauma or infection (Tozoglu et al., 2010)."
-Human Syndromes Associated With Supernumerary Teeth
-"A few supernumerary teeth may be a common developmental dental anomaly (Acikgoz et al., 2006; Hyun et al., 2008)."
-"However, multiple supernumerary teeth are rare."
-"Although there are some reports of multiple supernumerary teeth without any systemic conditions or associated syndromes (Diaz et al., 2009; Hyun et al., 2008; Inchingolo et al., 2010; Orhan et al., 2006; YagueGarcia et al., 2009), in most cases, multiple supernumerary teeth are associated with other conditions or defects such as cleft palate and cleft lip, or with variable syndromes."
-Supernumerary teeth in cleft plate and cleft lip may be caused by the splitting of tooth germs in the cleft regions.
-"Syndromes exhibiting supernumerary teeth include cleidocranial dysplasia (Atasu et al., 1996; Cooper et al., 2001; Quack et al., 1999; Yoshida et al., 2002), familial adenomatous polyposis (including Gardner's syndrome)"
-Genesis.
-Author manuscript; available in PMC 2011 October 6.
-"Wang and Fan Page 5 (Mcfarland et al., 1968), EhlersDanlos syndrome (Ferreira et al., 2008; Majorana and Facchetti, 1992; Melamed et al., 1994; Premalatha et al., 2010), NanceHoran syndrome (Bixler et al., 1984; Hibbert, 2005; Van Dorp and Delleman, 1979; Walpole et al., 1990), Fabry syndrome (Brindley et al., 1975; Regattieri and Parker, 1973), Chondroectodermal dysplasia (Ellisvan Creveld syndrome)(Garvey et al., 1999; Prabhu et al., 1978), Trichorhino phalangic syndrome (Giedion, 1966; Kantaputra et al., 2008), and Robinow syndrome (Mazzeu et al., 2007)."
-The inheritance and genetics of these syndromes are summarized in Table 1.
-Here we will review in detail the supernumerary teeth in cleidocranial dysplasia and familial adenomatous polyposis.
-"Supernumerary Teeth in Cleidocranial Dysplasia (CCD, MIM 119600) is a rare autosomal dominant disorder characterized by general bone dysplasia, patent cranial sutures and fontanelles, hypoplastic clavicles, short stature, and dental abnormalities, including retention of deciduous teeth, delayed or failure of eruption of permanent teeth, as well as variable numbers of supernumerary teeth along with dental crowding and malocclusion (Fig. 1; (Atasu et al., 1996; Becker et al., 1997a; Becker et al., 1997b; Cooper et al., 2001; D'alessandro et al., 2010; Jensen and Kreiborg, 1990; Kreiborg et al., 1999; Quack et al., 1999; Suda et al., 2010; Yoshida et al., 2002)."
-CCD is present at a frequency of one in one million individuals.
-"It affects all ethnic groups, and males and females are affected equally."
-"Genetic studies mapped CCD to chromosomal 6p21, and heterozygous mutations (haploinsufficiency) in RUNX2 (CBFA1) gene has been identified to be responsible for the development of CCD in both humans and mice (Ducy et al., 1997; Komori et al., 1997; Mundlos et al., 1997; Otto et al., 1997)."
-"RUNX2 is a key transcription factor involved in osteoblast differentiation and skeletal morphogenesis (Ducy et al., 1997; Komori et al., 1997)."
-"RUNX2 spans a region over 220 kb on chromosome 6p21, and contains nine exons that can be alternatively spliced (Geoffroy et al., 1998)."
-"RUNX2 gene can be transcribed from two distantly located promoters leading to the production of two major mRNA transcripts with different 5′-UTR and 5′ coding sequences (Li and Xiao, 2007)."
-"Approximately 60–70% clinically confirmed CCD patients exhibit mutations in RUNX2 gene, including insertion, deletion, nonsense, and missense variants."
-"Most of them were located in the runt domain and were predicted to abolish DNA binding and alter the transactivation activity of RUNX2 (Lee et al., 1997; Mundlos et al., 1997; Otto et al., 2002; Otto et al., 1997)."
-"Deletion of the entire RUNX2 gene and/or its contiguous genes have also been described, and this accounts for ~13% of CCD individuals who have normal results on sequence analysis (ElGharbawy et al., 2010;"
-"Izumi et al., 2006; Lee, M. T. et al., 2008; Otto et al., 2002; Quack et al., 1999)."
-RUNX2 mutation is so far the only known molecular etiology for CCD.
-"There are still many CCD patients without any detectable mutations in RUNX2, and this would indicate a genetic heterogeneity such as mutations in genes interacting with or regulating RUNX2, or due to some other unidentified mechanisms (Lee et al., 2008)."
-"Mutations in RUNX2 have a high penetrance and extreme variability, ranging from isolated dental anomalies to fully manifesting disease with poorly ossified cranium and absence of clavicles (Golan et al., 2000; MendozaLondono and Lee, 1993)."
-The phenotype may vary greatly among individuals even in the same family with the same mutation.
-Haploinsufficiency for RUNX2 gene is usually associated with classic CCD.
-"There are some exceptions, including the 90insC and Thr200Ala mutations, which are associated with mild CCD, isolated dental anomalies, and significant intrafamilial variability, suggesting that haploinsufficiency of the gene product is quite sensitive to the modulation by other modifier genes, and hypomorphic/neomorphic effects and genetic modifiers may alter the clinical expressivity of these mutations (Bourdeau et al., 2001; Zhou et al., 1999)."
-Genesis.
-Author manuscript; available in PMC 2011 October 6.
-"Wang and Fan Page 6 Up to 94% of CCD patients exhibit dental anomalies including supernumerary teeth (Golan et al., 2003)."
-"However, no clear genotypephenotype correlation has been established (Otto et al., 2002)."
-"Although Yoshida reported a significant correlation between the number of supernumerary teeth and the degree of short stature (Yoshida et al., 2002), most other studies suggested that the correlation between the genotype and supernumerary tooth formation is very low."
-"Individuals with CCD having identical RUNX2 gene mutations showed a wide variation in the supernumerary tooth formation, and many of the supernumerary teeth occurred asymmetrically in the maxilla and the mandible, implying that the number and position of supernumerary teeth are not solely governed by RUNX2 mutation."
-"Other nongenetic factors, such as epigenetic factors, modifier genes, copy number variations, as well as environmental factors, may also be involved in the formation of supernumerary teeth in CCD (Ryoo et al., 2010; Suda et al., 2007; Suda et al., 2010)."
-"In CCD patients, the formation of primary and permanent teeth was normal (although with problems in shedding of primary teeth and eruption of permanent teeth), and the morphology of supernumerary teeth usually resembles their normal counterparts."
-"However, the development of supernumerary teeth is delayed a couple of years compared to the normal permanent teeth."
-"It was hypothesized that the dental lamina for both primary and permanent dentition is normal, but does not resolve completely thus resulting in the formation of supernumerary teeth (Jensen and Kreiborg, 1990;"
-"Lukinmaa et al., 1995)."
-Radiographic examination of tooth development in individual CCD patients over several years indicated that the supernumerary teeth in fact developed in sequence next to the corresponding permanent teeth.
-"Therefore, supernumerary teeth in CCD are thought to arise from the permanent teeth, and they may represent a part of the third dentition (Jensen and Kreiborg, 1990)."
-"RUNX2 heterozygous mutant mice mostly phenocopied the skeletal defects of CCD in humans, but with no supernumerary tooth formation (Otto et al., 1997)."
-"In line with this, the RUNX2 homozygous null mutant mice have no bone."
-"However, the tooth development in RUNX2 null mutants is arrested at the late bud stage (D'souza et al., 1999)."
-"This may be because mice only have one dentition, and they are not good model for studying successional or de novo supernumerary tooth formation."
-"During mouse tooth development, RUNX2 is expressed in the dental mesenchyme mediating epithelial Fgf signals into the dental mesenchyme."
-"Mesenchymal Fgf signaling then sends back to the dental epithelium, regulating the transition of tooth bud to cap stage (Aberg et al., 2004)."
-"Notably, in Runx2 homozygous and heterozygous mouse upper molars, a prominent epithelial bud regularly presents."
-"This epithelial bud protrudes lingually with active Shh signaling, and it may represent the extension of dental lamina for the successional tooth formation in mice."
-"Hence, although Runx2 is required for primary tooth development, it prevents the growth of dental lamina and the successional tooth formation (Wang et al., 2005)."
-"Supernumerary Teeth in Familial Adenomatous Polyposis Familial adenomatous polyposis (FAP, MIM 175100), also named as adenomatous polyposis of the colon (APC), is an autosomal dominant hereditary disorder characterized by the development of hundreds to thousands precancerous colorectal adenomatous polyps, some of which, without colectomy, will inevitably develop into cancer."
-"In addition to colorectal neoplasm, these individuals can develop variable extracolonic lesions, including upper gastrointestinal polyposis, osteomas, congenital hypertrophy of the retinal pigment epithelium, soft tissue tumors, desmoids tumors, and dental anomalies (Boffano et al., 2010;"
-"ChimenosKustner et al., 2005; Fader et al., 1962; Gardner and Richards, 1953; Half et al., 2009; Mcfarland et al., 1968; Ramaglia et al., 2007; Wijn et al., 2007)."
-"Dental abnormalities include impacted teeth, congenital absence of one or more teeth, supernumerary teeth, dentigerous cysts associated with the crown of unerupted tooth, and odontomas (Chimenos- Genesis."
-Author manuscript; available in PMC 2011 October 6.
-"Wang and Fan Page 7 Kustner et al., 2005; Half et al., 2009; Wijn et al., 2007)."
-"Tooth extraction may be difficult due to root anomalies and almost complete absence of periodontal space caused by the extensive hypercementosis (excessive cementum formation on the roots)(Ramaglia et al., 2007)."
-"Gardner syndrome is a variant of FAP characterized by multiple adenomas of the colon and rectum typical of FAP together with osteomas and soft tissue tumors (epidermoid cysts, fibromas, desmoids tumors)(Gardner and Richards, 1953; Ramaglia et al., 2007)."
-"Supernumerary teeth and odontomas were originally described as a part of Gardner syndrome, but they can also occur in FAP patients with or without other extracolonic lesions (Fonseca et al., 2007; Ramaglia et al., 2007; Wijn et al., 2007)."
-"The oral and maxillofacial manifestations can show up many years before the occurrence of intestinal polyposis, and these may lead to the early diagnosis of FAP (Boffano et al., 2010; Fonseca et al., 2007)."
-"FAP and Gardner syndrome are caused by germline mutations in the APC gene (CruzCorrea and Giardiello, 2002; Okamoto et al., 1990; Wijn et al., 2007)."
-"APC is located on chromosome 5q21q22, and it can be alternatively spliced in multiple coding and noncoding regions."
-The main transcript has 15 exons with 8532 base pairs that code for 2843 amino acids resulting in a 311.8 kd protein.
-"The exon 15 is the largest coding regions (6,500 bp) and comprises over threequarters of the coding region of the gene (Groden et al., 1991;"
-"Kinzler et al., 1991)."
-"APC is a tumor suppressor gene involved in the downregulation of free intracellular βcatenin, the major signal transducer of canonical Wnt signaling pathway, as well as a central component of the Ecadherin adhesion complex (Groden et al., 1991; Heinen, 2010)."
-"In addition, the APC protein may also play roles in chromosomal stability, regulation of cell migration up the colonic crypt and cell adhesion through association with Ecadherin, regulation of cell polarity through association with GSK3β, and other functions associated with microtubule bundles (Clevers, 2006; Heinen, 2010; Phelps et al., 2009)."
-"Inactivation of APC would lead to stabilization and accumulation of the protooncogene βcatenin, dysregulation of the cell cycle, and chromosomal instability (Wijn et al., 2007)."
-Many germline mutations have been identified in the APC gene.
-"Most of the mutations are located in the 5′ region of the gene and cause a premature truncation of the APC protein, usually through single aminoacid substitutions or frameshifts (Friedl et al., 2001; Heinen, 2010)."
-"Mutation analysis in large samples of FAP patients has revealed consistent correlations between the site of APC mutation and clinical manifestations encompassing both colonic lesions and some extracolonic features (Caspari et al., 1994; Caspari et al., 1995; Friedl et al., 2001; Heinen, 2010; Nieuwenhuis and Vasen, 2007; Ramaglia et al., 2007; Wallis et al., 1999)."
-"Approximately 11%–27% patients have supernumerary teeth, but so far no specific codon mutation of the APC gene was found to correlate with supernumerary teeth and/or odontomas."
-"There are wide familial and regional variations in oral manifestations in patients with FAP (Sondergaard et al., 1987; Wijn et al., 2007)."
-"It was reported that in pedigrees with mutations 3′ of codon 1444, the mean number of abnormalities on dental panoramic radiographs is three to five times higher than in those with mutations between codon 1 and 1444 (Davies et al., 1995)."
-"Correlations seems to exist between dental abnormalities and the number and type of osteomas, with the highest incidence of supernumerary teeth and odontomas is found in FAP patients with three or more osteomas (Kubo et al., 1989; Wijn et al., 2007; Wolf et al., 1986)."
-"No correlation was found between dental abnormalities and colonic adenomas (Takeuchi et al., 1993)."
-"Supernumerary teeth in patients with FAP are often small peg shaped and are mainly located in the alveolar bone between the teeth or attached to follicle of an impacted tooth (Ida et al., 1981; ChimenosKustner et al., 2005; Davies et al., 1995; Half et al., 2009; Kubo et al., 1989; Thakker et al., 1995; Wijn et al., 2007)."
-"Common sites of supernumerary unerupted teeth are in the anterior regions and around canines, similar to nonFAP populations (Ida et al., 1981; Kubo et al., 1989)."
-"The reported prevalence of odontomas in patients with FAP was between 9.4% and 83.3%, with similar distribution in the mandible and in the maxilla Genesis."
-Author manuscript; available in PMC 2011 October 6.
-"Wang and Fan Page 8 (Wijn et al., 2007)."
-"They are often located in the incisalpremolar area and can be multiple (ChimenosKustner et al., 2005; Half et al., 2009; Ida et al., 1981; Wijn et al., 2007)."
-"Some mouse strains with genetically modified Apc gene have been established, and heterozygous Apc mutant mice showed gastrointestinal and other tumor predisposition phenotypes similar to human patients with FAP (Fodde et al., 1994;"
-"Moser et al., 1995; Oshima et al., 1995; Smits et al., 1997)."
-"Apc homozygous mutant mouse embryos died early before or during grastrulation stage (Ishikawa et al., 2003; Oshima et al., 1995)."
-"Conditional knockout of Apc gene (Apccko/cko) under the control of human keratin 14 (K14) promoter, which drives gene expression to the basal cells of epidermis and oral and dental epithelium, resulted in aberrant development of several epithelial derived organs, including hair follicle, thymus, and supernumerary teeth (Kuraguchi et al., 2006)."
-"Most of the supernumerary teeth were simple unicuspid cones, while some multicuspid teeth were also observed in both molar and incisor regions."
-"Some supernumerary teeth exhibit welldifferentiated ameloblasts and odontoblasts with enamel and dentin matrix depositions, as well as blood supply and innervations (see Fig. 2)."
-"Some supernumerary teeth even start to form roots, indicating that these supernumerary teeth may function as natural teeth (Wang et al., 2009)."
-Two different K14Cre mouse lines were used to delineate the role of Apc in tooth development.
-"The K14Cre1Amc mice exhibited uniform Cre recombinase activity throughout the oral and dental epithelium, whereas K14Cre8Brn mice showed a mosaic pattern of Cre activity in the oral and dental epithelial cells (Dassule et al., 2000; Jonkers et al., 2001; Wang et al., 2009)."
-The K14Cre1Amc;Apccko/cko mice exhibit severe defects in ectodermal derived organs and died shortly after birth with numerous irregular epithelial buds protruding from the oral epithelium into the jaw mesenchyme.
-"This phenotype is very similar to the mice with constitutive activation of βcatenin in embryonic oral epithelium under the K14 promoter (K14Cre; βcateninΔex3f/+) (Jarvinen et al., 2006; Liu, F. et al., 2008)."
-"The K14Cre; βcateninΔex3f/+ mice also died at birth and their irregular oral epithelial buddings, when transplanted under the kidney capsule of immune deficiency mice, can further develop into many small teeth."
-"In the K14Cre1Amc;Apccko/cko mice, the expression of both βcatenin transcripts (Ctnnb1) and βcatenin protein were dramatically upregulated in the oral epithelium."
-Genetic deletion of βcatenin (Ctnnb1cko/cko) in the oral epithelium of Apc lossof-function (K14Cre1Amc;Apccko/cko) mice suppressed the formation of supernumerary teeth.
-"Although Apc may have other functions during development, these data formally proved that the induction of supernumerary teeth by Apc lossof-function was through activation of Wnt/β(catenin signaling (Wang et al., 2009)."
-"The K14Cre8Brn;Apccko/cko mice with mosaic deletion of Apc in the epidermis and oral epithelium can survive after birth, though all mutant mice died before postnatal 19 days (Kuraguchi et al., 2006)."
-"This anyway provided a longer time window for studying the development of supernumerary teeth (Wang et al., 2009)."
-"In the K14Cre8Brn;Apccko/cko mice, a lot of supernumerary teeth formed from multiple regions of the jaw, on both labial and lingual aspects of the principle molar and incisor teeth, or directly derived from oral epithelium."
-"Supernumerary tooth germs can even form on the Hertwig's epithelial root sheath in the developing root, as well as in the vestibular lamina, a temporal oral epithelial invagination that in wild type mice will eventually undergo apoptosis forming the space between the gingiva and the inner cheek."
-"Notably, adult oral tissues, especially young adult tissues, are still responsive to loss of Apc or activation of Wnt/β(catenin signaling, and are able to form new teeth (Wang et al., 2009)."
-"In the old adult mice, supernumerary teeth can be induced on both labial and lingual sides of the incisors, which contain adult stem cells supporting the continuous growth of mouse incisors (Liu et al., 2010; Wang et al., 2009)."
-"In the young mice, supernumerary tooth germs Genesis."
-Author manuscript; available in PMC 2011 October 6. 
-Wang and Fan Page 9 were induced in multiple regions of the jaw in both incisor and molar regions.
-"They can form directly from the oral epithelium, in the dental lamina connecting the developing molar or incisor tooth germs to the oral epithelium, in the tooth crown regions, as well as in the elongating and furcation area of the developing root (Wang et al., 2009)."
-These data indicate that young mice retain odontogenic potential in multiple regions of the jaw.
-"In humans, the development of permanent teeth starts during the embryonic and fetal periods, and then continues for many years after birth into adolescence."
-"In particular, the third molars start to develop after birth, and it was reported that the onset of mandibular third molar formation ranges from 5.86 to 14.66 years old (Bolanos et al., 2003)."
-"Children and adolescents thus retain dental lamina epithelial cells in their jaw, and this holds great promises for biological tooth regenerations and tooth repairs."
-"Interestingly, Msx1, which is required for endogenous tooth development, is dispensable for supernumerary tooth formation in mice with the loss of function of Apc in the oral and dental epithelium (Wang et al., 2009)."
-"In the developing teeth of wild type mice, Msx1 is expressed in the dental mesenchyme and forms a positive feedback loop with Bmp4 regulating the development of tooth bud into the cap stage (Bei et al., 2000; Chen et al., 1996; Maas and Bei, 1997)."
-"Synergistic interaction between Msx1 and Pax9 is also crucial for lower incisor development (Nakatomi et al., 2010)."
-"In Msx1 null mutant mice, tooth development is arrested at the bud stage (Chen et al., 1996; Satokata and Maas, 1994)."
-"However, deletion of Msx1 in K14Cre8Brn;Apccko/cko mice had no effect on the formation of supernumerary teeth."
-"Both Bmp4 and Fgf3, which are downregulated in Msx1 deficient mouse tooth germs, were expressed in the mesenhcyme of supernumerary teeth in K14Cre8Brn;Apccko/cko;Msx1–/– mice, and Bmp4 was also expressed in the epithelium of these supernumerary teeth."
-"These data indicate that Apc lossof-function can bypass the mesenchymal Msx1Bmp4 feedback loop that is normally required for endogenous tooth development (Wang et al., 2009)."
-"Mutations in MSX1 in humans cause tooth agenesis (Vastardis et al., 1996)."
-These results provide possibilities in the future to use the human MSX1 deficient oral tissues to generate supernumerary teeth for the treatment of their missing teeth.
-"Another interesting finding was that only a small subset of Apc deficient cells was able to recruit surrounding wild type oral epithelial cells, and induce adjacent wild type mesenchymal cells to form new teeth."
-"Some wild type epithelial cells adjacent to the Apc deficient cells can also be induced to express high levels of βcatenin protein in the nucleus, suggesting that Apc deficient cells can function in a noncell autonomous manner, and both Apc deficient cells and surrounding wild type epithelial cells participate in the formation of enamel not signaling center in supernumerary tooth germs as well as the whole supernumerary tooth formation (Wang et al., 2009)."
-"Fgf8 was shown to be a direct target gene of Wnt/βcatenin signaling, and Wnt/βcatenin signaling regulates and maintains Fgf8 expression in the oral epithelium (Wang et al., 2009)."
-"Fgf8 is one of the earliest molecules expressed during the initiation stage of tooth development (Kettunen et al., 1998)."
-"However, Fgf8 itself cannot induce new tooth formation in vitro, suggesting that other Wnt target genes are also involved in the initiation of supernumerary tooth formation (Wang et al., 2009)."
-Various Model Systems For Studying Supernumerary Tooth Formation Mice have been used for a long time as the predominant model for studying tooth development.
-"However, mouse dentition is highly reduced with only one incisor and three molars, separated by a toothless diastema region, in each quadrant of the jaw."
-"In addition, mice have only a single primary dentition and their teeth are not replaced."
-"Therefore, the mice may not be an optimal model for studying tooth replacement and supernumerary tooth formation (Huysseune and Thesleff, 2004)."
-Most of reported mouse supernumerary teeth are Genesis.
-Author manuscript; available in PMC 2011 October 6.
-Wang and Fan Page 10 located in the diastema region in front of the first molars.
-This is not a de novo tooth formation but the rescue of vestigial tooth rudiments.
-"During early stages of tooth development, many transient vestigial dental buds develop in the diastema area."
-"Some of them can develop into bud stage, but later regress and disappear by apoptosis, or merge with the mesial crown of the first molar tooth (Peterkova et al., 2002, 2005, 2009; Prochazka et al., 2010; Viriot et al., 2002; Witter et al., 2005)."
-Major signaling pathways regulating tooth development are also expressed in these vestigial dental buds.
-"Modulation of these signals can rescue these vestigial tooth rudiments to develop into supernumerary diastema teeth (Tummers and Thesleff, 2009)."
-"A number of mutant mouse stains have been reported exhibiting supernumerary diastema teeth, including mice with overexpression of Eda or Edar (Kangas et al., 2004; Mustonen et al., 2003; Pispa et al., 2004; Tucker et al., 2004), Tabby mice with mutation of Eda (Charles et al., 2009; Peterkova et al., 2005), Sprouty2 or Sprouty4 null mutant mice affecting Fgf signaling (Klein et al., 2006), hypomorphic Polaris mice and Wnt1Cre; Polaris conditional mutant mice affecting Shh signaling (Ohazama et al., 2009; Zhang et al., 2003), Pax6 mutant mice (Kaufman et al., 1995), and Gas1 null mutant mice (Ohazama et al., 2009)."
-"Sostdc1 (Ectodin/Wise/USAG1) null mutant mice and Lrp4 (a receptor that suppresses Wnt signaling) hypomorphic mice present supernumerary teeth in both incisors and molar regions (Ahn et al., 2010; Kassai et al., 2005; MurashimaSuginami et al., 2007; Ohazama et al., 2008)."
-It was shown that Sostdc1 suppresses the survival of the diastema or incisor vestigial buds by serving as an inhibitor of Lrp5and Lrp6dependent Wnt signaling.
-"Inactivation of Sostdc1 leads to elevated Wnt signaling and, increased proliferation and continuous development of vestigial tooth buds to form supernumerary teeth (Ahn et al., 2010)."
-"Lrp4 was also shown to inhibit canonical Wnt signaling by binding to Sostdc1 and loss of function of Lrp4 may lead to elevated Wnt signaling (Ohazama et al., 2008)."
-"Transgenic Mice With De Novo Supernumerary Tooth Formation De novo supernumerary teeth arising directly from the primary tooth germs or dental lamina have been reported in Apc lossof-function or βbcatenin gainof-function mice (as discussed in the previous section), and in the Sp6 (Epiprofin) deficient mice."
-"Sp6 is a zincfinger transcription factor that is mainly expressed in epithelial cells in the developing teeth, hair follicles, limb buds, as well as in the adult lungs (Nakamura et al., 2004;"
-"Talamillo et al., 2010)."
-"The Sp6 gene generates two different transcripts, termed Sp6 and Epiprofin, which differ in the first exon but ultimately code for the same Sp6 protein (Hertveldt et al., 2007)."
-"During mouse tooth development, Sp6 is expressed in the dental epithelium during early stage of tooth development, and later in the inner dental epithelium of the enamel organ and also in the differentiated odontoblasts (Nakamura et al., 2004)."
-"Sp6 deficient mice initially had delayed tooth development, but later developed multiple supernumerary teeth in both incisor and molar regions."
-"At early stage, Sp6 mutant mouse dental epithelium showed reduced cell proliferation and differentiation, as well as compromised enamel not signaling center."
-"Starting from E16.5 bell stage, multiple nonproliferating enamel knotlike structures formed ectopically in the enamel organ of primary tooth germs, and then further grew and branches into the jaw mesenchyme, eventually developing into supernumerary teeth (JimenezRojo et al., 2010; Nakamura et al., 2008)."
-"So far, no human supernumerary teeth have been reported to be associated with the SP6 gene."
-Mammals only have one row of teeth in each jaw.
-"Interestingly, in Osr2 null mutant mouse embryos, supernumerary tooth germs were found developing directly from the oral epithelium lingual to their molar tooth germs (Zhang et al., 2009)."
-"This was, however, different from the successional (replacement) or supernumerary tooth formation in all the vertebrates reported, but may be similar to the formation of a second tooth row in multirowed fish (Mikkola, 2009; Zhang et al., 2009)."
-"In the developing mouse tooth germs, Genesis."
-Author manuscript; available in PMC 2011 October 6.
-Wang and Fan Page 11 Osr2 is expressed in the molar mesenchyme in a lingualto-buccal gradient that is complementary to the expression pattern of Bmp4.
-"In Osr2 null mutant embryos, expression of several odontogenic factors, including Pitx2, Shh, Msx1, and Lef1, was upregulated or expanded."
-"Deletion of Msx1, a feedback activator of Bmp4, in the Osr2 mutant mice prevented the formation of supernumerary teeth, suggesting that expansion of the odontogenic field in Osr2 mutant embryos required Msx1, and antagonistic interactions between Osr2 and Msx1 pattern the tooth morphogenetic field (Zhang et al., 2009)."
-"Current Models for Studying Successional Tooth Formation It has been suggested that in humans a “third dentition,” with one or more supernumerary teeth, can occur in addition to the permanent dentition, and supernumerary teeth are sometimes thought to represent a partial postpermanent dentition (Jensen and Kreiborg, 1990; MurashimaSuginami et al., 2007; Ooe, 1969)."
-"Analysis of successional tooth formation may help with understanding the molecular genetics of supernumerary tooth formation, and will also provide information of the behaviors and regulations of dental stem cells."
-"As mice are not good model for studying tooth replacement, some other models have been established to analyze successional tooth formation, including reptiles, fish, lizard, and snake, which replace their teeth continuously throughout life, as well as some mammals with secondary teeth, such as ferret (Berkovitz and Moore, 1975; Fraser et al., 2004, 2006a,b; Handrigan et al., 2010; Handrigan and Richman, 2010a,b; Jarvinen et al., 2009; Osborn, 1978)."
-"Detailed histological analysis on the tooth replacement of these models indicate that the successional teeth are initiated from the dental lamina epithelium, which grows from the lingual side of the deciduous tooth enamel organ, and it later elongates and buds into the jaw mesenchyme forming the successional tooth."
-"Jarvinen et al. showed that in ferret, Sostdc1 is expressed in the elongating successional dental lamina at the interface between the lamina and the deciduous tooth, as well as the buccal side of the dental lamina, suggesting that Sostdc1 may play a role in defining the identity of the dental lamina (Jarvinen et al., 2009)."
-"Handrigan et al. analyzed successional tooth formation in snake and in lizard, and proposed that dental epithelial stem cells are responsible for the formation of succcessional lamina, and Wnt signaling may regulate the stem cell fate in these cells (Handrigan et al., 2010)."
-"Maintenance or reactivation of a competent dental lamina is thus pivotal for the replacement tooth and supernumerary formation (Jarvinen et al., 2009; Tummers and Thesleff, 2009)."
-CONCLUDING REMARKS Multiple supernumerary teeth may have genetic components in their etiology and represent partial of the third dentition in humans.
-Research in recent years has taught us much about the molecular mechanisms underlying tooth morphogenesis and differentiation.
-"However, relatively little is known about the initiation of tooth formation, the genetic control of successional teeth, as well as the mechanisms underlying supernumerary tooth formation."
-The supernumerary teeth generated in Apc lossof-function or βcatenion gainof-function mice are in line with the tooth phenotypes observed in human FAP.
-"This information, although exciting and informative, leave many critical questions concerning induction of supernumerary teeth unanswered."
-"Since Apc is a tumor suppressor gene and β(catenion is a protooncogene, further studies are needed to identify the genes, cytokines, or small molecules, to activate Wnt/βcatenin signaling and to stimulate new tooth formation in vitro and/or in vivo."
-"Better understanding of the role of Wnt/βcatenion, Apc, and Runx2 in the formation of supernumerary teeth, together with detailed analysis of successional tooth formation in various model systems, will provide fundamental insights into the molecular genetics of supernumerary teeth in humans and will also assist in tooth regeneration and tooth engineering in the clinic."
-Genesis.
-Author manuscript; available in PMC 2011 October 6.
-"Wang and Fan LITERATURE CITED Page 12 Aberg T, Wang XP, Kim JH, Yamashiro T, Bei M, Rice R, Ryoo HM, Thesleff I. Runx2 mediates FGF signaling from epithelium to mesenchyme during tooth morphogenesis."
-Dev Biol.
-2004; 270:76–93.
-[PubMed: 15136142]
-"Acikgoz A, Acikgoz G, Tunga U, Otan F. Characteristics and prevalence of nonsyndrome multiple supernumerary teeth: A retrospective study."
-Dentomaxillofac Radiol.
-2006; 35:185–190.
-[PubMed: 16618853]
-"Ahn Y, Sanderson BW, Klein OD, Krumlauf R. Inhibition of Wnt signaling by Wise (Sostdc1) and negative feedback from Shh controls tooth number and patterning."
-Development.
-2010; 137:3221– 3231.
-"[PubMed: 20724449] Atasu M, Dumlu A, Ozbayrak S. Multiple supernumerary teeth in association with cleidocranial dysplasia."
-J Clin Pediatr Dent.
-1996; 21:85–91.
-"[PubMed: 9161213] Babu V, Nagesh KS, Diwakar NR."
-A rare case of hereditary multiple impacted normal and supernumerary teeth.
-J Clin Pediatr Dent. 1998; 23:59–61.
-"[PubMed: 10023236] Backman B, Wahlin YB."
-Variations in number and morphology of permanent teeth in 7year-old Swedish children.
-Int J Paediatr Dent. 2001; 11:11–17.
-"[PubMed: 11309867] Batra P, Duggal R, Parkash H. Nonsyndromic multiple supernumerary teeth transmitted as an autosomal dominant trait."
-J Oral Pathol Med. 2005; 34:621–625.
-"[PubMed: 16202084] Becker A, Bimstein E, Shteyer A. Interdisciplinary treatment of multiple unerupted supernumerary teeth."
-Report of a case.
-Am J Orthod. 1982; 81:417–422.
-[PubMed: 6960728]
-"Becker A, Lustmann J, Shteyer A. Cleidocranial dysplasia, Part 1."
-General principles of the orthodontic and surgical treatment modality.
-Am J Orthod Dentofacial Orthop. 1997a; 111:28–33.
-"[PubMed: 9009920] Becker A, Shteyer A, Bimstein E, Lustmann J. Cleidocranial dysplasia, Part 2."
-Treatment protocol for the orthodontic and surgical modality.
-Am J Orthod Dentofacial Orthop. 1997b; 111:173–183.
-[PubMed: 9057617]
-Bei M. Molecular genetics of tooth development.
-Curr Opin Genet Dev. 2009; 19:504–510.
-"[PubMed: 19875280] Bei M, Kratochwil K, Maas RL."
-BMP4 rescues a noncell-autonomous function of Msx1 in tooth development.
-Development. 2000; 127:4711–4718.
-"[PubMed: 11023873] Berkovitz BK, Moore MH."
-Tooth replacement in the upper jaw of the rainbow trout (Salmo gairdneri).
-J Exp Zool.
-1975; 193:221–234.
-"[PubMed: 1176903] Bixler D, Higgins M, Hartsfield J Jr."
-The NanceHoran syndrome: a rare Xlinked oculardental trait with expression in heterozygous females.
-Clin Genet. 1984; 26:30–35.
-[PubMed: 6467651]
-"Bodin I, Julin P, Thomsson M. Hyperodontia."
-"I. Frequency and distribution of supernumerary teeth among 21,609 patients."
-Dentomaxillofac Radiol.
-1978;
-7:15–17.
-"[PubMed: 291550] Boffano P, Bosco GF, Gerbino G."
-The surgical management of oral and maxillofacial manifestations of Gardner syndrome.
-J Oral Maxillofac Surg. 2010; 68:2549–2554.
-"[PubMed: 20594634] Bolanos MV, Moussa H, Manrique MC, Bolanos MJ."
-Radiographic evaluation of third molar development in Spanish children and young people.
-Forensic Sci Int. 2003; 133:212–219.
-"[PubMed: 12787654] Bourdeau A, Faughnan ME, McDonald ML, Paterson AD, Wanless IR, Letarte M. Potential role of modifier genes influencing transforming growth factorbeta1 levels in the development of vascular defects in endoglin heterozygous mice with hereditary hemorrhagic telangiectasia."
-Am J Pathol.
-2001; 158:2011–2020.
-"[PubMed: 11395379] Brindley HP, Archard HO, Alling CC, Jurgens PE, Jurgens EH."
-Case 11.
-Part 2.
-Angiokeratoma corporis diffusum (Fabry's disease).
-J Oral Surg. 1975; 33:199–205.
-[PubMed: 163304] Brook AH.
-"Dental anomalies of number, form and size: Their prevalence in British schoolchildren."
-J Int Assoc Dent Child.
-1974; 5:37–53.
-[PubMed: 4535299] Brook AH.
-A unifying aetiological explanation for anomalies of human tooth number and size.
-Arch Oral Biol.
-1984;
-29:373–378.
-"[PubMed: 6611147] Cadenat H, Combelles R, Fabert G, Clouet M. Mesiodens and heredity."
-Rev Stomatol Chir Maxillofac.
-1977; 78:341–346.
-[PubMed: 270798] Genesis.
-Author manuscript; available in PMC 2011 October 6.
-"Wang and Fan Page 13 Caspari R, Friedl W, Mandl M, Moslein G, Kadmon M, Knapp M, Jacobasch KH, Ecker KW, KreisslerHaag D, Timmermanns G, et al."
-Familial adenomatous polyposis: Mutation at codon 1309 and early onset of colon cancer.
-Lancet. 1994; 343:629–632.
-"[PubMed: 7906810] Caspari R, Olschwang S, Friedl W, Mandl M, Boisson C, Boker T, Augustin A, Kadmon M, Moslein G, Thomas G, et al."
-Familial adenomatous polyposis: desmoid tumours and lack of ophthalmic lesions (CHRPE) associated with APC mutations beyond codon 1444.
-Hum Mol Genet.
-1995; 4:337–340.
-"[PubMed: 7795585] Charles C, Pantalacci S, Tafforeau P, Headon D, Laudet V, Viriot L. Distinct impacts of Eda and Edar loss of function on the mouse dentition."
-PLoS
-One. 2009; 4:e4985.
-"[PubMed: 19340299] Chen Y, Bei M, Woo I, Satokata I, Maas R. Msx1 controls inductive signaling in mammalian tooth morphogenesis."
-Development.
-1996; 122:3035–3044.
-[PubMed: 8898217]
-"ChimenosKustner E, Pascual M, Blanco I, Finestres F. Hereditary familial polyposis and Gardner's syndrome: Contribution of the odontostomatology examination in its diagnosis and a case description."
-Med
-Oral Patol Oral Cir Bucal. 2005; 10:402–409.
-[PubMed: 16264375]
-Clevers H. Colon cancer—Understanding how NSAIDs work.
-N Engl J Med. 2006; 354:761–763.
-"[PubMed: 16481647] Cobourne MT, Sharpe PT."
-Making up the numbers: The molecular control of mammalian dental formula.
-Semin Cell Dev Biol.
-2010; 21:314–324.
-[PubMed: 20080198] Cohen RL.
-Clinical perspectives on premature tooth eruption and cyst formation in neonates.
-Pediatr Dermatol.
-1984; 1:301–306.
-"[PubMed: 6387671] Cooper SC, Flaitz CM, Johnston DA, Lee B, Hecht JT."
-A natural history of cleidocranial dysplasia.
-Am J Med Genet. 2001; 104:1–6.
-"[PubMed: 11746020] CruzCorrea M, Giardiello FM."
-Diagnosis and management of hereditary colon cancer.
-Gastroenterol Clin North Am. 2002; 31:537–549. x.
-"[PubMed: 12134617] D'Alessandro G, Tagariello T, Piana G. Cleidocranial dysplasia: Etiology and stomatognathic and craniofacial abnormalities."
-Minerva Stomatol. 2010; 59:117–127.
-[PubMed: 20357738]
-"D'Souza RN, Aberg T, Gaikwad J, Cavender A, Owen M, Karsenty G, Thesleff I. Cbfa1 is required for epithelialmesenchymal interactions regulating tooth development in mice."
-Development.
-1999; 126:2911–2920.
-"[PubMed: 10357935] D'Souza RN, Klein OD."
-Unraveling the molecular mechanisms that lead to supernumerary teeth in mice and men: current concepts and novel approaches.
-Cells Tissues Organs.
-2007;
-186:60–69.
-[PubMed: 17627119]
-"Dassule HR, Lewis P, Bei M, Maas R, McMahon AP."
-Sonic hedgehog regulates growth and morphogenesis of the tooth.
-Development. 2000; 127:4775–4785.
-"[PubMed: 11044393] Davies DR, Armstrong JG, Thakker N, Horner K, Guy SP, Clancy T, Sloan P, Blair V, Dodd C, Warnes TW, et al."
-Severe Gardner syndrome in families with mutations restricted to a specific region of the APC gene.
-Am J Hum Genet.
-1995; 57:1151–1158.
-"[PubMed: 7485167] Diaz A, Orozco J, Fonseca M. Multiple hyperodontia: Report of a case with 17 supernumerary teeth with non-syndromic association."
-Med
-Oral Patol Oral Cir Bucal.
-2009; 14:E229–E231.
-"[PubMed: 19218904] Ducy P, Zhang R, Geoffroy V, Ridall AL, Karsenty G. Osf2/Cbfa1: a transcriptional activator of osteoblast differentiation."
-Cell.
-1997; 89:747–754.
-"[PubMed: 9182762] ElGharbawy AH, Peeden JN Jr, Lachman RS, Graham JM Jr, Moore SR, Rimoin DL."
-Severe cleidocranial dysplasia and hypophosphatasia in a child with microdeletion of the Cterminal region of RUNX2.
-Am J Med Genet A. 2010; 152A:169–174.
-"[PubMed: 20014132] Ersin NK, Candan U, Alpoz AR, Akay C. Mesiodens in primary, mixed and permanent dentitions: A clinical and radiographic study."
-J Clin Pediatr Dent.
-2004; 28:295–298.
-"[PubMed: 15366615] Fader M, Kline SN, Spatz SS, Zubrow HJ."
-"Gardner's syndrome (intestinal polyposis, osteomas, sebaceous cysts) and a new dental discovery."
-Oral Surg Oral Med Oral Pathol.
-1962; 15:153–172.
-"[PubMed: 13891268] Fardi A, KondylidouSidira A, Bachour Z, Parisis N, Tsirlis A. Incidence of impacted and supernumerary teetha radiographic study in a North Greek population."
-Med
-Oral Patol Oral Cir Bucal.
-2011; 16:e56–61.
-[PubMed: 20711166] Genesis.
-Author manuscript; available in PMC 2011 October 6.
-"Wang and Fan Page 14 Fernandez Montenegro P, Valmaseda Castellon E, Berini Aytes L, Gay Escoda C. Retrospective study of 145 supernumerary teeth."
-Med
-Oral Patol Oral Cir Bucal.
-2006; 11:E339–E344.
-"[PubMed: 16816819] Ferreira O Jr, Cardoso CL, Capelozza AL, Yaedu RY, da Costa AR."
-Odontogenic keratocyst and multiple supernumerary teeth in a patient with EhlersDanlos syndrome—A case report and review of the literature.
-Quintessence Int. 2008; 39:251–256.
-[PubMed: 18618041]
-"FerresPadro E, PratsArmengol J, FerresAmat E. A descriptive study of 113 unerupted supernumerary teeth in 79 pediatric patients in Barcelona."
-Med
-Oral Patol Oral Cir Bucal.
-2009; 14:E146–E152.
-[PubMed: 19242396]
-"Fleming PS, Xavier GM, DiBiase AT, Cobourne MT."
-Revisiting the supernumerary: The epidemiological and molecular basis of extra teeth.
-Br Dent J. 2010; 208:25–30.
-"[PubMed: 20057458] Fodde R, Edelmann W, Yang K, van Leeuwen C, Carlson C, Renault B, Breukel C, Alt E, Lipkin M, Khan PM, et al."
-A targeted chaintermination mutation in the mouse Apc gene results in multiple intestinal tumors.
-Proc Natl Acad Sci USA. 1994; 91:8969–8973.
-"[PubMed: 8090754] Foley MF, Del Rio CE."
-Supernumerary teeth.
-Report of a case.
-Oral Surg Oral Med Oral Pathol.
-1970; 30:60–63.
-"[PubMed: 5269806] Fonseca LC, Kodama NK, Nunes FC, Maciel PH, Fonseca FA, Roitberg M, de Oliveira JX, Cavalcanti MG."
-Radiographic assessment of Gardner's syndrome.
-Dentomaxillofac Radiol.
-2007; 36:121– 124.
-"[PubMed: 17403893] Foster TD, Taylor GS."
-Characteristics of supernumerery teeth in the upper central incisor region.
-Dent Pract Dent Rec. 1969; 20:8–12.
-[PubMed: 5258920]
-"Fraser GJ, Berkovitz BK, Graham A, Smith MM."
-Gene deployment for tooth replacement in the rainbow trout (Oncorhynchus mykiss): A developmental model for evolution of the osteichthyan dentition.
-Evol Dev. 2006a; 8:446–457.
-[PubMed: 16925680]
-"Fraser GJ, Graham A, Smith MM."
-Conserved deployment of genes during odontogenesis across osteichthyans.
-Proc Biol Sci. 2004; 271:2311–2317.
-[PubMed: 15556883]
-"Fraser GJ, Graham A, Smith MM."
-Developmental and evolutionary origins of the vertebrate dentition: Molecular controls for spatiotemporal organisation of tooth sites in osteichthyans.
-J Exp Zool B Mol Dev Evol. 2006b; 306:183–203.
-"[PubMed: 16496402] Friedl W, Caspari R, Sengteller M, Uhlhaas S, Lamberti C, Jungck M, Kadmon M, Wolf M, Fahnenstich J, Gebert J, Moslein G, Mangold E, Propping P. Can APC mutation analysis contribute to therapeutic decisions in familial adenomatous polyposis?"
-Experience from 680 FAP families.
-Gut. 2001; 48:515–521.
-[PubMed: 11247896]
-"Gallas MM, Garcia A. Retention of permanent incisors by mesiodens: A family affair."
-Br Dent J. 2000; 188:63–64.
-[PubMed: 10689766]
-"Gardner EJ, Richards RC."
-Multiple cutaneous and subcutaneous lesions occurring simultaneously with hereditary polyposis and osteomatosis.
-Am J Hum Genet.
-1953;
-5:139–147.
-"[PubMed: 13065261] Garvey MT, Barry HJ, Blake M. Supernumerary teeth—An overview of classification, diagnosis and management."
-J Can Dent Assoc. 1999; 65:612–616.
-"[PubMed: 10658390] Geoffroy V, Corral DA, Zhou L, Lee B, Karsenty G. Genomic organization, expression of the human CBFA1 gene, and evidence for an alternative splicing event affecting protein function."
-Mamm Genome.
-1998; 9:54–57.
-[PubMed: 9434946]
-"Giancotti A, Grazzini F, De Dominicis F, Romanini G, Arcuri C. Multidisciplinary evaluation and clinical management of mesiodens."
-J Clin Pediatr Dent. 2002; 26:233–237.
-[PubMed: 11990044] Giedion A. Trichorhino-phalangeal syndrome.
-Helv Paediatr Acta. 1966; 21:475–485.
-[PubMed: 5991804]
-"Golan I, Baumert U, Hrala BP, Mussig D. Dentomaxillofacial variability of cleidocranial dysplasia: Clinicoradiological presentation and systematic review."
-Dentomaxillofac Radiol.
-2003; 32:347– 354.
-[PubMed: 15070835]
-"Golan I, Preising M, Wagener H, Baumert U, Niederdellmann H, Lorenz B, Mussig D. A novel missense mutation of the CBFA1 gene in a family with cleidocranial dysplasia (CCD) and variable expressivity."
-J Craniofac Genet Dev Biol. 2000; 20:113–120.
-[PubMed: 11321595] Genesis.
-Author manuscript; available in PMC 2011 October 6.
-"Wang and Fan Page 15 Grimanis GA, Kyriakides AT, Spyropoulos ND."
-A survey on supernumerary molars.
-Quintessence Int.
-1991; 22:989–995.
-[PubMed: 1813917]
-"Groden J, Thliveris A, Samowitz W, Carlson M, Gelbert L, Albertsen H, Joslyn G, Stevens J, Spirio L, Robertson M, et al. Identification and characterization of the familial adenomatous polyposis coli gene."
-Cell. 1991; 66:589–600.
-"[PubMed: 1651174] Gunduz K, Muglali M. Nonsyndrome multiple supernumerary teeth: A case report."
-J Contemp Dent Pract.
-2007; 8:81–87.
-[PubMed: 17486191]
-"Half E, Bercovich D, Rozen P. Familial adenomatous polyposis."
-Orphanet J Rare This. 2009; 4:22.
-"[PubMed: 19822006] Handrigan GR, Leung KJ, Richman JM."
-Identification of putative dental epithelial stem cells in a lizard with lifelong tooth replacement.
-Development.
-2010; 137:3545–3549.
-"[PubMed: 20876646] Handrigan GR, Richman JM."
-"Autocrine and paracrine Shh signaling are necessary for tooth morphogenesis, but not tooth replacement in snakes and lizards (Squamata)."
-Dev Biol. 2010a; 337:171–186.
-"[PubMed: 19850027] Handrigan GR, Richman JM."
-"A network of Wnt, hedgehog and BMP signaling pathways regulates tooth replacement in snakes."
-Dev Biol. 2010b; 348:130–141.
-[PubMed: 20849841]
-"Hattab FN, Yassin OM, Rawashdeh MA."
-Supernumerary teeth: report of three cases and review of the literature.
-ASDC J Dent Child.
-1994;
-61:382–393.
-[PubMed: 7897011] Heinen CD.
-Genotype to phenotype: Analyzing the effects of inherited mutations in colorectal cancer families.
-Mutat Res. 2010; 693:32–45.
-"[PubMed: 19766128] Hertveldt V, De Mees C, Scohy S, Van Vooren P, Szpirer J, Szpirer C."
-The Sp6 locus uses several promoters and generates sense and antisense transcripts.
-Biochimie.
-2007; 89:1381–1387.
-[PubMed: 17624655]
-Hibbert S. A previously unreported association between NanceHoran syndrome and spontaneous dental abscesses.
-Oral Surg Oral Med
-Oral Pathol Oral Radiol Endod. 2005; 99:207–211.
-"[PubMed: 15660094] Hovorakova M, Lesot H, Peterkova R, Peterka M. Origin of the deciduous upper lateral incisor and its clinical aspects."
-J Dent Res. 2006; 85:167–171.
-[PubMed: 16434736] Howard RD.
-The unerupted incisor.
-A study of the postoperative eruptive history of incisors delayed in their eruption by supernumerary teeth.
-Dent Pract Dent Rec. 1967; 17:332–341.
-[PubMed: 5228619]
-"Huysseune A, Thesleff I. Continuous tooth replacement: The possible involvement of epithelial stem cells."
-Bioessays.
-2004; 26:665–671.
-"[PubMed: 15170864] Hyun HK, Lee SJ, Ahn BD, Lee ZH, Heo MS, Seo BM, Kim JW."
-Nonsyndromic multiple mandibular supernumerary premolars.
-J Oral Maxillofac Surg. 2008; 66:1366–1369.
-"[PubMed: 18571018] Hyun HK, Lee SJ, Lee SH, Hahn SH, Kim JW."
-Clinical characteristics and complications associated with mesiodentes.
-J Oral Maxillofac Surg. 2009; 67:2639–2643.
-[PubMed: 19925984]
-"Ida M, Nakamura T, Utsunomiya J. Osteomatous changes and tooth abnormalities found in the jaw of patients with adenomatosis coli."
-Oral Surg Oral Med Oral Pathol.
-1981; 52:2–11.
-"[PubMed: 6944672] Inchingolo F, Tatullo M, Abenavoli FM, Marrelli M, Inchingolo AD, Gentile M, Inchingolo AM, Dipalma G. Nonsyndromic multiple supernumerary teeth in a family unit with a normal karyotype: Case report."
-Int J Med Sci. 2010; 7:378–384.
-"[PubMed: 21060725] Ishikawa TO, Tamai Y, Li Q, Oshima M, Taketo MM. Requirement for tumor suppressor Apc in the morphogenesis of anterior and ventral mouse embryo."
-Dev Biol. 2003; 253:230–246.
-"[PubMed: 12645927] Izumi K, Yahagi N, Fujii Y, Higuchi M, Kosaki R, Naito Y, Nishimura G, Hosokai N, Takahashi T, Kosaki K. Cleidocranial dysplasia plus vascular anomalies with 6p21.2 microdeletion spanning RUNX2 and VEGF."
-Am J Med Genet A. 2006; 140:398–401.
-"[PubMed: 16419134] Jarvinen E, SalazarCiudad I, Birchmeier W, Taketo MM, Jernvall J, Thesleff I. Continuous tooth generation in mouse is induced by activated epithelial Wnt/betacatenin signaling."
-Proc Natl Acad Sci USA.
-2006; 103:18627–18632.
-[PubMed: 17121988] Genesis.
-Author manuscript; available in PMC 2011 October 6.
-"Wang and Fan Page 16 Jarvinen E, Tummers M, Thesleff I."
-The role of the dental lamina in mammalian tooth replacement.
-J Exp Zool B Mol Dev Evol. 2009; 312B:281–291.
-[PubMed: 19137538]
-"Jensen BL, Kreiborg S. Development of the dentition in cleidocranial dysplasia."
-J Oral Pathol Med.
-1990; 19:89–93.
-"[PubMed: 2341976] Jernvall J, SalazarCiudad I."
-The economy of tinkering mammalian teeth.
-Novartis Found Symp. 2007; 284:207–216.
-Discussion 216–224.
-[PubMed: 17710855]
-"JimenezRojo L, Ibarretxe G, Aurrekoetxea M, de Vega S, Nakamura T, Yamada Y, Unda F. Epiprofin/Sp6: A new player in the regulation of tooth development."
-Histol Histopathol.
-2010; 25:1621–1630.
-"[PubMed: 20886441] Jonkers J, Meuwissen R, van der Gulden H, Peterse H, van der Valk M, Berns A. Synergistic tumor suppressor activity of BRCA2 and p53 in a conditional mouse model for breast cancer."
-Nat Genet. 2001; 29:418–425.
-"[PubMed: 11694875] Kangas AT, Evans AR, Thesleff I, Jernvall J. Nonindependence of mammalian dental characters."
-Nature.
-2004; 432:211–214.
-"[PubMed: 15538367] Kantaputra P, Miletich I, Ludecke HJ, Suzuki EY, Praphanphoj V, Shivdasani R, Wuelling M, Vortkamp A, Napierala D, Sharpe PT."
-Trichorhino-phalangeal syndrome with supernumerary teeth.
-J Dent Res. 2008; 87:1027–1031.
-"[PubMed: 18946009] Kantor ML, Bailey CS, Burkes EJ Jr. Duplication of the premolar dentition."
-Oral Surg Oral Med Oral Pathol.
-1988;
-66:62–64.
-"[PubMed: 3165516] Kassai Y, Munne P, Hotta Y, Penttila E, Kavanagh K, Ohbayashi N, Takada S, Thesleff I, Jernvall J, Itoh N. Regulation of mammalian tooth cusp patterning by ectodin."
-Science. 2005; 309:2067– 2070.
-"[PubMed: 16179481] Kaufman MH, Chang HH, Shaw JP."
-Craniofacial abnormalities in homozygous Small eye (Sey/Sey) embryos and newborn mice.
-J Anat. 1995; 186:607–617.
-Part 3.
-"[PubMed: 7559133] Kawashita Y, Saito T. Nonsyndromic multiple mandibular supernumerary premolars: A case report."
-J Dent Child (Chic).
-2010; 77:99–101.
-"[PubMed: 20819405] Kettunen P, Karavanova I, Thesleff I. Responsiveness of developing dental tissues to fibroblast growth factors: Expression of splicing alternatives of FGFR1, –2, –3, and of FGFR4; and stimulation of cell proliferation by FGF2, –4, –8, and –9."
-Dev Genet.
-1998; 22:374–385.
-"[PubMed: 9664689] Kinzler KW, Nilbert MC, Su LK, Vogelstein B, Bryan TM, Levy DB, Smith KJ, Preisinger AC, Hedge P, McKechnie D, et al."
-Identification of FAP locus genes from chromosome 5q21.
-Science.
-1991; 253:661–665.
-"[PubMed: 1651562] Klein OD, Minowada G, Peterkova R, Kangas A, Yu BD, Lesot H, Peterka M, Jernvall J, Martin GR."
-Sprouty genes control diastema tooth development via bidirectional antagonism of epithelialmesenchymal FGF signaling.
-Dev Cell. 2006; 11:181–190.
-"[PubMed: 16890158] Kokten G, Balcioglu H, Buyukertan M. Supernumerary fourth and fifth molars: A report of two cases."
-J Contemp Dent Pract.
-2003; 4:67–76.
-"[PubMed: 14625596] Komori T, Yagi H, Nomura S, Yamaguchi A, Sasaki K, Deguchi K, Shimizu Y, Bronson RT, Gao YH, Inada M, Sato M, Okamoto R, Kitamura Y, Yoshiki S, Kishimoto T. Targeted disruption of Cbfa1 results in a complete lack of bone formation owing to maturational arrest of osteoblasts."
-Cell.
-1997; 89:755–764.
-"[PubMed: 9182763] Koussoulakou DS, Margaritis LH, Koussoulakos SL."
-"A curriculum vitae of teeth: Evolution, generation, regeneration."
-Int J Biol Sci. 2009; 5:226–243.
-[PubMed: 19266065]
-"Kreiborg S, Jensen BL, Larsen P, Schleidt DT, Darvann T. Anomalies of craniofacial skeleton and teeth in cleidocranial dysplasia."
-J Craniofac Genet Dev Biol. 1999; 19:75–79.
-"[PubMed: 10416150] Kubo K, Miyatani H, Takenoshita Y, Abe K, Oka M, Iida M, Itoh H. Widespread radiopacity of jaw bones in familial adenomatosis coli."
-J Craniomaxillofac Surg. 1989; 17:350–353.
-"[PubMed: 2592575] Kuraguchi M, Wang XP, Bronson RT, Rothenberg R, OheneBaah NY, Lund JJ, Kucherlapati M, Maas RL, Kucherlapati R. Adenomatous polyposis coli (APC) is required for normal development of skin and thymus."
-PLoS Genet.
-2006; 2:e146.
-[PubMed: 17002498] Genesis.
-Author manuscript; available in PMC 2011 October 6.
-"Wang and Fan Page 17 Leco Berrocal MI, Martin Morales JF, Martinez Gonzalez JM."
-An observational study of the frequency of supernumerary teeth in a population of 2000 patients.
-Med
-Oral Patol Oral Cir Bucal.
-2007; 12:E134–E138.
-"[PubMed: 17322802] Lee B, Thirunavukkarasu K, Zhou L, Pastore L, Baldini A, Hecht J, Geoffroy V, Ducy P, Karsenty G. Missense mutations abolishing DNA binding of the osteoblastspecific transcription factor OSF2/ CBFA1 in cleidocranial dysplasia."
-Nat Genet.
-1997; 16:307–310.
-"[PubMed: 9207800] Lee MT, Tsai AC, Chou CH, Sun FM, Huang LC, Yen P, Lin CC, Liu CY, Wu JY, Chen YT, Tsai FJ."
-Intragenic microdeletion of RUNX2 is a novel mechanism for cleidocranial dysplasia.
-Genomic Med. 2008; 2:45–49.
-"[PubMed: 18696259] Li YL, Xiao ZS."
-Advances in Runx2 regulation and its isoforms.
-Med Hypotheses.
-2007; 68:169–175.
-"[PubMed: 16901655] Liu DG, Zhang WL, Zhang ZY, Wu YT, Ma XC."
-Threedimensional evaluations of supernumerary teeth using conebeam computed tomography for 487 cases.
-Oral Surg Oral Med
-Oral Pathol Oral Radiol Endod.
-2007; 103:403–411.
-"[PubMed: 17321454] Liu F, Chu EY, Watt B, Zhang Y, Gallant NM, Andl T, Yang SH, Lu MM, Piccolo S, SchmidtUllrich R, Taketo MM, Morrisey EE, Atit R, Dlugosz AA, Millar SE."
-Wnt/betacatenin signaling directs multiple stages of tooth morphogenesis.
-Dev Biol. 2008; 313:210–224.
-"[PubMed: 18022614] Liu F, Dangaria S, Andl T, Zhang Y, Wright AC, DamekPoprawa M, Piccolo S, Nagy A, Taketo MM, Diekwisch TG, Akintoye SO, Millar SE. betaCatenin initiates tooth neogenesis in adult rodent incisors."
-J Dent Res. 2010; 89:909–914.
-[PubMed: 20530729] Liu JF.
-Characteristics of premaxillary supernumerary teeth: A survey of 112 cases.
-ASDC J Dent Child.
-1995; 62:262–265.
-[PubMed: 7593884]
-"Lukinmaa PL, Jensen BL, Thesleff I, Andreasen JO, Kreiborg S. Histological observations of teeth and peridental tissues in cleidocranial dysplasia imply increased activity of odontogenic epithelium and abnormal bone remodeling."
-J Craniofac Genet Dev Biol. 1995; 15:212–221.
-"[PubMed: 8719350] Maas R, Bei M."
-The genetic control of early tooth development.
-Crit Rev Oral Biol Med.
-1997; 8:4– 39.
-"[PubMed: 9063623] Majorana A, Facchetti F."
-The orodental findings in the EhlersDanlos syndrome.
-A report of 2 clinical cases.
-Minerva Stomatol. 1992; 41:127–133.
-"[PubMed: 1508122] Mason C, Azam N, Holt RD, Rule DC."
-A retrospective study of unerupted maxillary incisors associated with supernumerary teeth.
-Br J Oral Maxillofac Surg. 2000; 38:62–65.
-[PubMed: 10783451]
-"Mazzeu JF, Pardono E, ViannaMorgante AM, RichieriCosta A, Ae Kim C, Brunoni D, Martelli L, de Andrade CE, Colin G, Otto PA."
-Clinical characterization of autosomal dominant and recessive variants of Robinow syndrome.
-Am J Med Genet A. 2007; 143:320–325.
-"[PubMed: 17256787] McFarland PH Jr. Scheetz WL, Knisley RE."
-Gardner's syndrome: Report of two families.
-J Oral Surg. 1968; 26:632–638.
-"[PubMed: 5245178] McKibben DR, Brearley LJ."
-Radiographic determination of the prevalence of selected dental anomalies in children.
-ASDC J Dent Child.
-1971; 28:390–398.
-[PubMed: 4940914]
-"Melamed Y, Barkai G, Frydman M. Multiple supernumerary teeth (MSNT) and EhlersDanlos syndrome (EDS): A case report."
-J Oral Pathol Med. 1994; 23:88–91.
-"[PubMed: 8164160] Mercuri LG, O'Neill R. Multiple impacted and supernumerary teeth in sisters."
-Oral Surg Oral Med Oral Pathol.
-1980; 50:293.
-[PubMed: 6965030] Mikkola ML.
-Controlling the number of tooth rows.
-Sci Signal. 2009; 2:e53.
-"Mitchell L, Bennett TG."
-Supernumerary teeth causing delayed eruption–a retrospective study.
-Br J Orthod. 1992; 19:41–46.
-"[PubMed: 1562577] Moser AR, Luongo C, Gould KA, McNeley MK, Shoemaker AR, Dove WF."
-ApcMin: A mouse model for intestinal and mammary tumorigenesis.
-Eur J Cancer A. 1995; 31:1061–1064.
-"[PubMed: 7576992] Mundlos S, Otto F, Mundlos C, Mulliken JB, Aylsworth AS, Albright S, Lindhout D, Cole WG, Henn W, Knoll JH, Owen MJ, Mertelsmann R, Zabel BU, Olsen BR."
-Mutations involving the transcription factor CBFA1 cause cleidocranial dysplasia.
-Cell.
-1997; 89:773–779.
-[PubMed: 9182765] Genesis.
-Author manuscript; available in PMC 2011 October 6.
-"Wang and Fan Page 18 Munne PM, Felszeghy S, Jussila M, Suomalainen M, Thesleff I, Jernvall J. Splitting placodes: Effects of bone morphogenetic protein and Activin on the patterning and identity of mouse incisors."
-Evol Dev. 2010; 12:383–392.
-"[PubMed: 20618434] MurashimaSuginami A, Takahashi K, Kawabata T, Sakata T, Tsukamoto H, Sugai M, Yanagita M, Shimizu A, Sakurai T, Slavkin HC, Bessho K. Rudiment incisors survive and erupt as supernumerary teeth as a result of USAG1 abrogation."
-Biochem Biophys Res Commun.
-2007; 359:549–555.
-"[PubMed: 17555714] Mustonen T, Pispa J, Mikkola ML, Pummila M, Kangas AT, Pakkasjarvi L, Jaatinen R, Thesleff I. Stimulation of ectodermal organ development by EctodysplasinA1."
-Dev Biol. 2003; 259:123– 136.
-"[PubMed: 12812793] Nakamura T, de Vega S, Fukumoto S, Jimenez L, Unda F, Yamada Y. Transcription factor epiprofin is essential for tooth morphogenesis by regulating epithelial cell fate and tooth number."
-J Biol Chem.
-2008; 283:4825–4833.
-"[PubMed: 18156176] Nakamura T, Unda F, deVega S, Vilaxa A, Fukumoto S, Yamada KM, Yamada Y."
-"The Kruppellike factor epiprofin is expressed by epithelium of developing teeth, hair follicles, and limb buds and promotes cell proliferation."
-J Biol Chem.
-2004; 279:626–634.
-"[PubMed: 14551215] Nakatomi M, Wang XP, Key D, Lund JJ, TurbeDoan A, Kist R, Aw A, Chen Y, Maas RL, Peters H. Genetic interactions between Pax9 and Msx1 regulate lip development and several stages of tooth morphogenesis."
-Dev Biol.
-2010; 340:438–449.
-"[PubMed: 20123092] Nieuwenhuis MH, Vasen HF. Correlations between mutation site in APC and phenotype of familial adenomatous polyposis (FAP): A review of the literature."
-Crit Rev Oncol Hematol.
-2007;
-61:153–161.
-"[PubMed: 17064931] Osborne, JW."
-Morphognetic gradients: Fields versus clones.
-"In: Butler, PM.; Joysey, KA., editors."
-"Development, function and evolution."
-Academic Press; London: 1978.
-p. 171201.
-"Ohazama A, Haycraft CJ, Seppala M, Blackburn J, Ghafoor S, Cobourne M, Martinelli DC, Fan CM, Peterkova R, Lesot H, Yoder BK, Sharpe PT."
-Primary cilia regulate Shh activity in the control of molar tooth number.
-Development.
-2009; 136:897–903.
-"[PubMed: 19211681] Ohazama A, Johnson EB, Ota MS, Choi HY, Porntaveetus T, Oommen S, Itoh N, Eto K, GritliLinde A, Herz J, Sharpe PT."
-Lrp4 modulates extracellular integration of cell signaling pathways in development.
-PLoS
-One. 2008; 3:e4092.
-"[PubMed: 19116665] Okamoto M, Sato C, Kohno Y, Mori T, Iwama T, Tonomura A, Miki Y, Utsunomiya J, Nakamura Y, White R, et al."
-Molecular nature of chromosome 5q loss in colorectal tumors and desmoids from patients with familial adenomatous polyposis.
-Hum Genet.
-1990; 85:595–599.
-[PubMed: 2172153] Ooe T. Epithelial anlagen of human third dentition and their migrations in the mandible and maxilla.
-Okajimas Folia Anat Jpn. 1969; 46:243–251.
-"[PubMed: 5395639] Orhan AI, Ozer L, Orhan K. Familial occurrence of nonsyndromal multiple supernumerary teeth."
-A rare condition.
-Angle Orthod.
-2006; 76:891–897.
-"[PubMed: 17029528] Oshima M, Oshima H, Kitagawa K, Kobayashi M, Itakura C, Taketo M. Loss of Apc heterozygosity and abnormal tissue building in nascent intestinal polyps in mice carrying a truncated Apc gene."
-Proc Natl Acad Sci USA. 1995; 92:4482–4486.
-"[PubMed: 7753829] Otto F, Kanegane H, Mundlos S. Mutations in the RUNX2 gene in patients with cleidocranial dysplasia."
-Hum Mutat. 2002; 19:209–216.
-"[PubMed: 11857736] Otto F, Thornell AP, Crompton T, Denzel A, Gilmour KC, Rosewell IR, Stamp GW, Beddington RS, Mundlos S, Olsen BR, Selby PB, Owen MJ. Cbfa1, a candidate gene for cleidocranial dysplasia syndrome, is essential for osteoblast differentiation and bone development."
-Cell.
-1997; 89:765– 771.
-[PubMed: 9182764]
-"Patchett CL, Crawford PJ, Cameron AC, Stephens CD."
-The management of supernumerary teeth in childhood—A retrospective study of practice in Bristol Dental Hospital.
-"England and Westmead Dental Hospital, Sydney, Australia."
-Int J Paediatr Dent. 2001; 11:259–265.
-"[PubMed: 11570441] Peterkova R, Churava S, Lesot H, Rothova M, Prochazka J, Peterka M, Klein OD."
-Revitalization of a diastemal tooth primordium in Spry2 null mice results from increased proliferation and decreased apoptosis.
-J Exp Zool B Mol Dev Evol B. 2009; 312:292–308.
-Genesis.
-Author manuscript; available in PMC 2011 October 6.
-"Wang and Fan Page 19 Peterkova R, Lesot H, Viriot L, Peterka M."
-The supernumerary cheek tooth in tabby/EDA micea reminiscence of the premolar in mouse ancestors.
-Arch Oral Biol. 2005; 50:219–225.
-"[PubMed: 15721153] Peterkova R, Peterka M, Viriot L, Lesot H. Development of the vestigial tooth primordia as part of mouse odontogenesis."
-Connect Tissue Res. 2002; 43:120–128.
-[PubMed: 12489147]
-"Phelps RA, Broadbent TJ, Stafforini DM, Jones DA."
-New perspectives on APC control of cell fate and proliferation in colorectal cancer.
-Cell Cycle. 2009; 8:2549–2556.
-"[PubMed: 19597346] Pispa J, Mustonen T, Mikkola ML, Kangas AT, Koppinen P, Lukinmaa PL, Jernvall J, Thesleff I. Tooth patterning and enamel formation can be manipulated by misexpression of TNF receptor Edar."
-Dev Dyn. 2004; 231:432–440.
-"[PubMed: 15366021] Prabhu SR, Daftary DK, Dholakia HM."
-Chondroectodermal dysplasia (Ellisvan Creveld syndrome): report of two cases.
-J Oral Surg. 1978; 36:631–637.
-"[PubMed: 277659] Premalatha S, Sarveswari KN, Lahiri K. ReverseNamaskar: a new sign in EhlersDanlos syndrome: A family pedigree study of four generations."
-Indian J Dermatol. 2010; 55:86–91.
-[PubMed: 20418985] Primosch RE.
-Anterior supernumerary teeth—Assessment and surgical intervention in children.
-Pediatr Dent. 1981; 3:204–215.
-"[PubMed: 6945564] Prochazka J, Pantalacci S, Churava S, Rothova M, Lambert A, Lesot H, Klein O, Peterka M, Laudet V, Peterkova R. Patterning by heritage in mouse molar row development."
-Proc Natl Acad Sci USA. 2010; 107:15497–15502.
-[PubMed: 20709958]
-"Quack I, Vonderstrass B, Stock M, Aylsworth AS, Becker A, Brueton L, Lee PJ, Majewski F, Mulliken JB, Suri M, Zenker M, Mundlos S, Otto F. Mutation analysis of core binding factor A1 in patients with cleidocranial dysplasia."
-Am J Hum Genet.
-1999; 65:1268–1278.
-[PubMed: 10521292]
-"Rajab LD, Hamdan MA."
-Supernumerary teeth: Review of the literature and a survey of 152 cases.
-Int J Paediatr Dent. 2002; 12:244–254.
-"[PubMed: 12121534] Ramaglia L, Morgese F, Filippella M, Colao A. Oral and maxillofacial manifestations of Gardner's syndrome associated with growth hormone deficiency: Case report and literature review."
-Oral Surg Oral Med
-Oral Pathol Oral Radiol Endod.
-2007; 103:e30–34.
-"[PubMed: 17449294] Regattieri LR, Parker JL."
-Supernumerary teeth associated with FabryAnderson's syndrome.
-Oral Surg Oral Med Oral Pathol.
-1973; 35:432–433.
-[PubMed: 4510614]
-"Rubin MM, Nevins A, Berg M,"
-Borden B.
-"A comparison of identical twins in relation to three dental anomalies: Multiple supernumerary teeth, juvenile periodontosis, and zero caries incidence."
-Oral Surg Oral Med Oral Pathol.
-1981; 52:391–394.
-"[PubMed: 6946362] Ryoo HM, Kang HY, Lee SK, Lee KE, Kim JW."
-RUNX2 mutations in cleidocranial dysplasia patients.
-Oral This. 2010; 16:55–60.
-[PubMed: 19744171]
-Saarenmaa L.
-The origin of supernumerary teeth.
-Acta Odontol Scand.
-1951; 9:293–303.
-"[PubMed: 14877538] SalcidoGarcia JF, LedesmaMontes C, HernandezFlores F, Perez D, GarcesOrtiz M. Frequency of supernumerary teeth in Mexican population."
-Med
-Oral Patol Oral Cir Bucal.
-2004; 9:407–409.
-403–406.
-"[PubMed: 15580117] Satokata I, Maas R. Msx1 deficient mice exhibit cleft palate and abnormalities of craniofacial and tooth development."
-Nat Genet. 1994; 6:348–356.
-"[PubMed: 7914451] SerraSerra G, BeriniAytes L, GayEscoda C. Erupted odontomas: A report of three cases and review of the literature."
-Med
-Oral Patol Oral Cir Bucal.
-2009; 14:E299–E303.
-[PubMed: 19300370] Smith JD.
-Hyperdontia: Report of case.
-J Am Dent Assoc.
-1969; 79:1191–1192.
-"[PubMed: 5259147] Smits R, Kartheuser A, JagmohanChangur S, Leblanc V, Breukel C, de Vries A, van Kranen H, van Krieken JH, Williamson S, Edelmann W, Kucherlapati R, Khan Pm, Fodde R. Loss of Apc and the entire chromosome 18 but absence of mutations at the Ras and Tp53 genes in intestinal tumors from Apc1638N, a mouse model for Apcdriven carcinogenesis."
-Carcinogenesis.
-1997; 18:321–327.
-"[PubMed: 9054624] Sondergaard JO, Bulow S, Jarvinen H, Wolf J, Witt IN, Tetens G. Dental anomalies in familial adenomatous polyposis coli."
-Acta Odontol Scand.
-1987; 45:61–63.
-[PubMed: 3031923] Genesis.
-Author manuscript; available in PMC 2011 October 6.
-"Wang and Fan Page 20 Stellzig A, Basdra EK, Komposch G. Mesiodentes: Incidence, morphology, etiology."
-J Orofac Orthop.
-1997; 58:144–153.
-[PubMed: 9200890]
-"Suda N, Hamada T, Hattori M, Torii C, Kosaki K, Moriyama K. Diversity of supernumerary tooth formation in siblings with cleidocranial dysplasia having identical mutation in RUNX2: Possible involvement of nongenetic or epigenetic regulation."
-Orthod Craniofac Res. 2007; 10:222–225.
-"[PubMed: 17973689] Suda N, Hattori M, Kosaki K, Banshodani A, Kozai K, Tanimoto K, Moriyama K. Correlation between genotype and supernumerary tooth formation in cleidocranial dysplasia."
-Orthod Craniofac Res. 2010; 13:197–202.
-[PubMed: 21040462]
-"Takeuchi T, Takenoshita Y, Kubo K, Iida M. Natural course of jaw lesions in patients with familial adenomatosis coli (Gardner's syndrome)."
-Int J Oral Maxillofac Surg. 1993; 22:226–230.
-"[PubMed: 8409564] Talamillo A, Delgado I, Nakamura T, deVega S, Yoshitomi Y, Unda F, Birchmeier W, Yamada Y, Ros MA."
-"Role of Epiprofin, a zincfinger transcription factor, in limb development."
-Dev Biol.
-2010; 337:363–374.
-[PubMed: 19913006] Taylor GS.
-Characteristics of supernumerary teeth in the primary and permanent dentition.
-Dent Pract Dent Rec. 1972; 22:203–208.
-"[PubMed: 4506832] Thakker N, Davies R, Horner K, Armstrong J, Clancy T, Guy S, Harris R, Sloan P, Evans G."
-The dental phenotype in familial adenomatous polyposis: diagnostic application of a weighted scoring system for changes on dental panoramic radiographs.
-J Med Genet.
-1995;
-32:458–464.
-"[PubMed: 7666398] Tozoglu S, Yildirim U, Buyukkurt MC."
-An erupted complex odontoma.
-N Y State Dent J. 2010; 76:52–53.
-"[PubMed: 21053644] Tucker AS, Headon DJ, Courtney JM, Overbeek P, Sharpe PT."
-The activation level of the TNF family receptor.
-"Edar, determines cusp number and tooth number during tooth development."
-Dev Biol.
-2004; 268:185–194.
-"[PubMed: 15031115] Tummers M, Thesleff I."
-The importance of signal pathway modulation in all aspects of tooth development.
-J Exp Zool B Mol Dev Evol. 2009; 312B:309–319.
-"[PubMed: 19156667] van Dorp DB, Delleman JW."
-"A family with Xchromosomal recessive congenital cataract, microphthalmia, a peculiar form of the ear and dental anomalies."
-J Pediatr Ophthalmol Strabismus.
-1979; 16:166–171.
-[PubMed: 458526]
-"Vastardis H, Karimbux N, Guthua SW, Seidman JG, Seidman CE."
-A human MSX1 homeodomain missense mutation causes selective tooth agenesis.
-Nat Genet.
-1996; 13:417–421.
-"[PubMed: 8696335] Viriot L, Peterkova R, Peterka M, Lesot H. Evolutionary implications of the occurrence of two vestigial tooth germs during early odontogenesis in the mouse lower jaw."
-Connect Tissue Res. 2002; 43:129–133.
-"[PubMed: 12489148] Wallis YL, Morton DG, McKeown CM, Macdonald F. Molecular analysis of the APC gene in 205 families: extended genotypephenotype correlations in FAP and evidence for the role of APC amino acid changes in colorectal cancer predisposition."
-J Med Genet. 1999; 36:14–20.
-[PubMed: 9950360]
-"Walpole IR, Hockey A, Nicoll A. The NanceHoran syndrome."
-J Med Genet.
-1990; 27:632–634.
-"[PubMed: 2246772] Wang XP, Aberg T, James MJ, Levanon D, Groner Y, Thesleff I. Runx2 (Cbfa1) inhibits Shh signaling in the lower but not upper molars of mouse embryos and prevents the budding of putative successional teeth."
-J Dent Res. 2005; 84:138–143.
-"[PubMed: 15668330] Wang XP, O'Connell DJ, Lund JJ, Saadi I, Kuraguchi M, TurbeDoan A, Cavallesco R, Kim H, Park PJ, Harada H, Kucherlapati R, Maas RL."
-Apc inhibition of Wnt signaling regulates supernumerary tooth formation during embryogenesis and throughout adulthood.
-Development. 2009; 136:1939–1949.
-[PubMed: 19429790]
-"Wijn MA, Keller JJ, Giardiello FM, Brand HS."
-Oral and maxillofacial manifestations of familial adenomatous polyposis.
-Oral This. 2007; 13:360–365.
-[PubMed: 17577321] Winter GB.
-"Hereditary and idiopathic anomalies of tooth number, structure and form."
-Dent Clin North Am. 1969; 13:355–373.
-[PubMed: 5251329] Genesis.
-Author manuscript; available in PMC 2011 October 6. 
-"Wang and Fan Page 21 Witter K, Lesot H, Peterka M, Vonesch JL, Misek I, Peterkova R. Origin and developmental fate of vestigial tooth primordia in the upper diastema of the field vole (Microtus agrestis."
-Rodentia).
-Arch Oral Biol. 2005; 50:401–409.
-"[PubMed: 15748693] Wolf J, Jarvinen HJ, Hietanen J. Gardner's dentomaxillary stigmas in patients with familial adenomatosis coli."
-Br J Oral Maxillofac Surg. 1986; 24:410–416.
-[PubMed: 3024698]
-"YagueGarcia J, BeriniAytes L, GayEscoda C. Multiple supernumerary teeth not associated with complex syndromes: A retrospective study."
-Med
-Oral Patol Oral Cir Bucal.
-2009;
-14:E331– E336.
-[PubMed: 19300360]
-"Yassin OM, Hamori E. Characteristics, clinical features and treatment of supernumerary teeth."
-J Clin Pediatr Dent. 2009; 33:247–250.
-"[PubMed: 19476099] Yoshida T, Kanegane H, Osato M, Yanagida M, Miyawaki T, Ito Y, Shigesada K. Functional analysis of RUNX2 mutations in Japanese patients with cleidocranial dysplasia demonstrates novel genotypephenotype correlations."
-Am J Hum Genet.
-2002;
-71:724–738.
-[PubMed: 12196916]
-Yusof WZ.
-Nonsyndrome multiple supernumerary teeth: Literature review.
-J Can Dent Assoc.
-1990; 56:147–149.
-"[PubMed: 2407326] Zhang Q, Murcia NS, Chittenden LR, Richards WG, Michaud EJ, Woychik RP, Yoder BK."
-Loss of the Tg737 protein results in skeletal patterning defects.
-Dev Dyn. 2003; 227:78–90.
-[PubMed: 12701101]
-"Zhang Z, Lan Y, Chai Y, Jiang R. Antagonistic actions of Msx1 and Osr2 pattern mammalian teeth into a single row."
-Science. 2009; 323:1232–1234.
-[PubMed: 19251632]
-"Zhou G, Chen Y, Zhou L, Thirunavukkarasu K, Hecht J, Chitayat D, Gelb BD, Pirinen S, Berry SA, Greenberg CR, Karsenty G, Lee B. CBFA1 mutation analysis and functional correlation with phenotypic variability in cleidocranial dysplasia."
-Hum Mol Genet. 1999; 8:2311–2316.
-"[PubMed: 10545612] Zilberman Y, Malron M, Shteyer A. Assessment of 100 children in Jerusalem with supernumerary teeth in the premaxillary region."
-ASDC J Dent Child.
-1992; 59:44–47.
-[PubMed: 1537940] Genesis.
-Author manuscript; available in PMC 2011 October 6. 
-Wang and Fan Page 22 FIG.
-1.
-Panoramic radiograph showing multiple impacted supernumerary teeth in the nineyear-old male with cleidocranial dysplasia.
-Orthodontic alignment is required to keep sufficient space in the dental arch for further treatment.
-"(Courtesy of Bonnie L. Padwa, DMD, MD, Children's Hospital Boston, Harvard Medical School)."
-Genesis.
-Author manuscript; available in PMC 2011 October 6. 
-Wang and Fan Page 23 FIG.
-2.
-K14Cre8Brn;Apccko/cko mice exhibit multiple mineralized supernumerary teeth.
-"A, B: 3D reconstruction of MicroCT pictures in P13 mice."
-"Wild type mice (A) have one incisor and three molars in each quadrant of the oral cavity, whereas K14Cre8Brn;Apccko/cko mice (B) exhibit multiple mineralized supernumerary teeth around the incisor and molar teeth."
-C:
-"Some of the supernumerary teeth have well differentiated ameloblasts and odontoblasts, and Hertwig's epithelial root sheath starting to form roots (arrows)."
-"D, dentin; E, enamel."
-D:
-Hematoxylin and eosin staining of supernumerary teeth (asterisk) in K14Cre8Brn;Apccko/cko mice.
-E: Neurofilament staining shows neural innervations inside the dental pulp and protruding into the dentin tubules of these supernumerary teeth.
-Genesis.
-Author manuscript; available in PMC 2011 October 6. 
-Wang and Fan Page 24 Human Syndromes Associated With Supernumerary Teeth Table 1 Syndrome Genetics Gene
+NIH Public Access Author Manuscript Genesis. Author manuscript; available in PMC 2011 October 6. Published in final edited form as: Genesis.
+"2011 April ; 49(4): 261–277. Doi:10.1002/dvg.20715. Molecular Genetics of Supernumerary Tooth Formation XiuPing Wang* and Jiabing Fan Department of Developmental Biology, Harvard School of Dental Medicine, Harvard University, Boston, Massachusetts 02115 Summary Despite advances in the knowledge of tooth morphogenesis and differentiation, relatively little is known about the aetiology and molecular mechanisms underlying supernumerary tooth formation."
+"A few supernumerary teeth may be a common developmental dental anomaly, while multiple supernumerary teeth usually have a genetic component, and they are sometimes thought to represent a partial third dentition in humans. Mice, which are commonly used for studying tooth development, only exhibit one dentition, with very few mouse models exhibiting supernumerary teeth similar to those in humans. Inactivation of Apc or forced activation of Wnt/β(catenin signalling results in multiple supernumerary tooth formation in both humans and in mice, but the key genes in these pathways are not very clear."
+"Analysis of other model systems with continuous tooth replacement or secondary tooth formation, such as fish, snake, lizard, and ferret, is providing insights into the molecular and cellular mechanisms underlying succesional tooth development, and will assist in the studies on supernumerary tooth formation in humans. This information, together with the advances in stem cell biology and tissue engineering, will pave ways for the tooth regeneration and tooth bioengineering. Keywords supernumerary teeth; cleidocranial dysplasia; familiar adenomatous polyposis; Runx2; Apc; tooth development; tooth replacement; successional tooth INTRODUCTION Teeth are vertebrate specific organs that are mainly used for processing of food, defense, and in humans also for speech production."
+"During tooth development, the dental epithelium and the underlying neural crest derived ectomesenchyme interact reciprocally and sequentially for the initiation, morphogenesis, and cell differentiation of the teeth (Bei, 2009; Jernvall and SalazarCiudad, 2007; Tummers and Thesleff, 2009). While some nonmammal species have multirowed dentition and replace their teeth regularly throughout the lifetime, mammalian vertebrates exhibit one row of teeth and only renew their teeth once, or in some rodents, without any replacement (Jarvinen et al., 2009; Koussoulakou et al., 2009; Mikkola, 2009; Tummers and Thesleff, 2009). Humans have two sets of dentitions."
+"There are 20 teeth in the deciduous (primary) dentition, with one central incisor, one lateral incisor, one canine, and two premolars in each quadrant of the jaw. There are 32 teeth in the permanent dentition, with one central incisor, one lateral incisor, one canine, two premolars, and three molars in each quadrant of the jaw. Supernumerary teeth, or hyperdontia, refer to the teeth that form in addition to the normal dental formula (Cobourne © 2011 WileyLiss, Inc."
+"*Correspondence to: Dr. XiuPing Wang, Department of Developmental Biology, Harvard School of Dental Medicine, Boston, MA 02115. xiuping_wang@hsdm.harvard.edu. Wang and Fan Page 2 and Sharpe, 2010; D'souza and Klein, 2007;"
+"Fleming et al., 2010; Gunduz and Muglali, 2007; YagueGarcia et al., 2009). They may occur in any region of the dental arch, in the maxilla or in the mandible, singly or in multiples, unilaterally or bilaterally, erupted or unerupted. They can be associated with a syndrome, or they can be found in nonsyndromic patients (Diaz et al., 2009;"
+"FerresPadro et al., 2009; Garvey et al., 1999; Leco Berrocal et al., 2007; Liu et al., 2007). Prevalence and Types of Supernumerary Teeth in Humans The reported prevalence of supernumerary teeth ranges from 0.2% to 0.8% in the deciduous dentition, and ranges from 0.5% to 5.3% in the permanent dentition with geographic variations (Brook, 1974; Fardi et al., 2010; FerresPadro et al., 2009; Leco Berrocal et al., 2007; Mckibben and Brearley, 1971; Rajab and Hamdan, 2002; Stellzig et al., 1997; YagueGarcia et al., 2009; Yusof, 1990). The incidence of supernumerary teeth is usually higher in males than in females."
+"The reported male to female ratio was between 1.18:1 to 4.5:1 (Brook, 1984; Fernandez Montenegro et al., 2006; FerresPadro et al., 2009; Leco Berrocal et al., 2007; Liu, D. G. et al., 2007; Patchett et al., 2001; Rajab and Hamdan, 2002; SalcidoGarcia et al., 2004; Yassin and Hamori, 2009; Yusof, 1990). Supernumerary teeth are usually found to be single and unilateral."
+"The most common supernumerary teeth are mesiodens, which occur between the maxillary central incisors (Hyun et al., 2009). More rarely, they can be located in the premolar and distomolar regions, and appear as supernumerary premolars or supernumerary fourth and fifth molars (Bodin et al., 1978; Ersin et al., 2004; Fernandez Montenegro et al., 2006; FerresPadro et al., 2009; Grimanis et al., 1991; Kaya et al., 2010; Kokten et al., 2003; Leco Berrocal et al., 2007; Liu, 1995; Mason et al., 2000; Rajab and Hamdan, 2002; Saarenmaa, 1951; SalcidoGarcia et al., 2004; Yassin and Hamori, 2009). Supernumerary premolars constitute proximately 10% of the total supernumerary cases, and almost 75% of those are in the mandible (Hyun et al., 2008; Kawashita and Saito, 2010)."
+"It was reported that 76%–86% nonsyndromic cases have only one supernumerary tooth, and 12%–23% cases have two supernumerary teeth (Diaz et al., 2009; Fernandez Montenegro et al., 2006; Rajab and Hamdan, 2002). Only 1% of nonsyndromic cases have multiple supernumerary teeth, which occur most frequently in the mandibular premolar area, followed by the molar and the anterior regions, respectively (Batra et al., 2005; Diaz et al., 2009; Hyun et al., 2008; Inchingolo et al., 2010; Orhan et al., 2006; YagueGarcia et al., 2009; Yusof, 1990)."
+"Supernumerary teeth in the deciduous dentition are usually normal or conical shaped, whereas supernumerary teeth in the permanent dentition can exhibit various shapes. They may have normal morphology or may be rudimentary and miniature with little or no resemblance to the other teeth (Batra et al., 2005). Based on their morphology, supernumerary teeth are classified into four types, including conical type, tuberculate type, supplemental teeth, and odontomas (Garvey et al., 1999)."
+The most common supernumerary teeth are small conical pegshaped with root development at the similar stage or ahead of that of adjacent teeth. They usually develop in the anterior maxilla as mesiodens. Tuberculate supernumerary teeth are large barrelshaped with multiple cusps or tubercles.
+"Their root development is delayed compared to that of adjacent teeth. They are mostly found unerupted in the palatal aspect of the maxillary central incisors, and this can cause the impaction of permanent maxillary incisors (Backman and Wahlin, 2001; Foster and Taylor, 1969; Liu, 1995; Mitchell and Bennett, 1992; Rajab and Hamdan, 2002; Yassin and Hamori, 2009). Supplemental teeth are duplications of teeth in the normal dentition with essentially normal size and shape, and they are usually found at the end of a tooth series."
+"The most common supplemental tooth is the permanent maxillary lateral incisor, but supplemental premolars and molars were also reported. The majority of supernumerary teeth found in the primary dentition are of the supplemental type. They usually erupt with normal morphology Genesis."
+"Author manuscript; available in PMC 2011 October 6. Wang and Fan Page 3 and alignment, and often appear as a supplemental lateral upper incisor (FerresPadro et al., 2009; Garvey et al., 1999)."
+"This may cause underreported and low prevalence of supernumerary teeth in the primary dentition (Fleming et al., 2010). There are special cases exhibiting permanent supernumerary teeth developing as supplemental teeth and forming after the permanent teeth. These are thought to represent a third dentition, best known as manifestations of cleidocranial dysplasia (see later)."
+"Odontoma was listed as the fourth category of supernumerary teeth (Garvey et al., 1999; Howard, 1967). Odontoma contains a mass of dental tissues (enamel, dentin, cementum, pulp tissue), and is usually considered to be a hamartomatous (benign and local with disorganized mass) malformation rather than a neoplasm. There is no gender predilection in the occurrence of odontomas."
+"On the basis of their gross and radiographic features, odontomas are further subclassified into compound and complex types (FerresPadro et al., 2009; Rajab and Hamdan, 2002; Yassin and Hamori, 2009). Compound odontomas contain some rudimentary toothlike structures and are commonly found in the anterior maxilla, whereas complex odontomas contain totally disorganized mass of dental tissues and are often found in the premolar and molar regions (Garvey et al., 1999; Tozoglu et al., 2010). Rarely, an odontoma can erupt into the oral cavity (SerraSerra et al., 2009; Tozoglu et al., 2010)."
+"Some supernumerary teeth are just impacted in the jaw with no obvious adverse effects. They were usually identified incidentally during radiographic examinations for some other reasons (Inchingolo et al., 2010; Kawashita and Saito, 2010; Rajab and Hamdan, 2002; YagueGarcia et al., 2009). However, the development of some supernumerary teeth can cause a broad range of complications, including retained or delayed eruption of permanent teeth, diastemas, displacement, rotation, crowding, root resorption, periodontal lesions, or pulp necrosis of adjacent teeth."
+"They can also cause dentigerous (odontogenic) cyst, and the presence of unerupted supernumerary teeth may compromise tooth implantation as well as alveolar bone grafting in patients with cleft palate (Diaz et al., 2009; FerresPadro et al., 2009; Garvey et al., 1999; Giancotti et al., 2002; Hyun et al., 2009; Yassin and Hamori, 2009). Etiology of Supernumerary Teeth in Humans Most supernumerary teeth are isolated cases, although some may be familial inherited and some may be syndrome associated events (Batra et al., 2005; Diaz et al., 2009)."
+"The etiology of supernumerary teeth is still uncertain. A number of theories have been postulated to try to explain their presence, including atavism (evolutionary throwback), tooth germ dichotomy, hyperactivity of the dental lamina, and genetic and environmental factors (Primosch, 1981; Saarenmaa, 1951). The atavism or phylogenetic theory suggested that the occurrence of supernumerary teeth is a regression to the extinct ancestral tissues or anthropoids."
+"This theory is based on the phenomena that ancestor mammals have more teeth with three incisors, one canine, four premolars, and three molars in each quadrant of the jaw (Babu et al., 1998; Osborne, 1978; Smith, 1969). The teeth of common modern mammals belong to these four tooth families. It is generally thought that during evolution, the total number of teeth per dentition decreased (from polyodonty to oligodonty) and the generations of teeth were also reduced (from polyphyodonty to diphyodonty or monophyodonty); whereas the morphology of teeth became more complex (from homodonty to heterodonty)."
+"Over the course of evolution, the teeth in placental mammals tend to disappear in an order that is opposite to the order of their eruption (Koussoulakou et al., 2009). The tooth germ dichotomy theory proposed that during early tooth development, the dental lamina was divided into two parts of equal or different size, thus giving rise to two teeth with similar size, or one normal tooth and one dysmorphic tooth (Garvey et al., 1999; Liu, Genesis. Author manuscript; available in PMC 2011 October 6."
+"Wang and Fan Page 4 1995; Taylor, 1972). Munne et al. analyzed in detail mouse incisor development and found that the large incisor placodes form through the fusion of multiple small placodes, and the balance between activator and inhibitor molecules regulates the size of the placodes. Small disturbances in the balance of these signals could cause disintegration or splitting of the placode and thus the formation of two or three small incisors (Munne et al., 2010)."
+"Hovorakova et al. analyzed the development of deciduous upper lateral incisor in human embryos using serial sections and computeraided 3D reconstructions, and found that deciduous upper lateral incisors originate from the fusion of two dental epithelial thickenings, which were separated by a groove at the formal fusion site of the medial nasal and maxillary processes. Later, these two dental epithelial thickenings fused together and formed a continuous dental lamina, from which the deciduous upper lateral incisor develops (Hovorakova et al., 2006). Any disturbance causing cleft or incomplete fusion of the dental epithelial thickenings can result in the formation of supernumerary teeth."
+"This may explain why the supernumerary upper lateral incisor often appears in the deciduous dentition, and in the conditions of cleft palate and cleft lip (FerresPadro et al., 2009). Hyperactivity of the dental lamina is another widely accepted theory (Diaz et al., 2009; Foley and Del Rio, 1970; Garvey et al., 1999; Hattab et al., 1994; Liu, 1995; Primosch, 1981; Rajab and Hamdan, 2002; Saarenmaa, 1951; Zilberman et al., 1992). Primary dental lamina (odontogenic band) is the thickening of oral ectoderm forming during the initiation stage of deciduous teeth, and it gives rise to the deciduous dentition."
+"During the cap or bell stage of deciduous tooth development, successional dental lamina forms from the lingual or posterior aspect of deciduous tooth enamel organ. It later elongates under the oral epithelium and buds into the jaw mesenchyme forming the successional (permanent) tooth or the posterior molar teeth (Jarvinen et al., 2009 and references therein). Once the crown of the permanent tooth has formed, the dental lamina undergoes programmed cell death and degenerates."
+"Residues of undegenerated dental lamina epithelial cells may cause eruption cysts (Cohen, 1984), while overproliferation or prolonged survival of dental lamina epithelial cells may cause supernumerary tooth formation (Cohen, 1984; Diaz et al., 2009; Jarvinen et al., 2009). Heredity is also believed to be an important factor."
+"Supernumerary teeth occur more commonly in the relatives of affected patients than in the general population (Babu et al., 1998; Becker et al., 1982; Gallas and Garcia, 2000; Mercuri and O'neill, 1980; Rubin et al., 1981; Winter, 1969). They can be transmitted as an autosomal recessive or autosomal dominant trait with incomplete penetrance, or may be associated with the X chromosome (Batra et al., 2005; Brook, 1984; Cadenat et al., 1977; Garvey et al., 1999; Primosch, 1981)."
+"There are also reports that supernumerary teeth are sometimes associated with polydactyly and extra nipples (Hyun et al., 2008; Kantor et al., 1988). The etiology of odontomas is still unknown."
+"It is usually thought to be hereditary or due to a disturbance during tooth development triggered by trauma or infection (Tozoglu et al., 2010). Human Syndromes Associated With Supernumerary Teeth A few supernumerary teeth may be a common developmental dental anomaly (Acikgoz et al., 2006; Hyun et al., 2008)."
+"However, multiple supernumerary teeth are rare. Although there are some reports of multiple supernumerary teeth without any systemic conditions or associated syndromes (Diaz et al., 2009; Hyun et al., 2008; Inchingolo et al., 2010; Orhan et al., 2006; YagueGarcia et al., 2009), in most cases, multiple supernumerary teeth are associated with other conditions or defects such as cleft palate and cleft lip, or with variable syndromes. Supernumerary teeth in cleft plate and cleft lip may be caused by the splitting of tooth germs in the cleft regions."
+"Syndromes exhibiting supernumerary teeth include cleidocranial dysplasia (Atasu et al., 1996; Cooper et al., 2001; Quack et al., 1999; Yoshida et al., 2002), familial adenomatous polyposis (including Gardner's syndrome) Genesis. Author manuscript; available in PMC 2011 October 6."
+"Wang and Fan Page 5 (Mcfarland et al., 1968), EhlersDanlos syndrome (Ferreira et al., 2008; Majorana and Facchetti, 1992; Melamed et al., 1994; Premalatha et al., 2010), NanceHoran syndrome (Bixler et al., 1984; Hibbert, 2005; Van Dorp and Delleman, 1979; Walpole et al., 1990), Fabry syndrome (Brindley et al., 1975; Regattieri and Parker, 1973), Chondroectodermal dysplasia (Ellisvan Creveld syndrome)(Garvey et al., 1999; Prabhu et al., 1978), Trichorhino phalangic syndrome (Giedion, 1966; Kantaputra et al., 2008), and Robinow syndrome (Mazzeu et al., 2007). The inheritance and genetics of these syndromes are summarized in Table 1. Here we will review in detail the supernumerary teeth in cleidocranial dysplasia and familial adenomatous polyposis."
+"Supernumerary Teeth in Cleidocranial Dysplasia (CCD, MIM 119600) is a rare autosomal dominant disorder characterized by general bone dysplasia, patent cranial sutures and fontanelles, hypoplastic clavicles, short stature, and dental abnormalities, including retention of deciduous teeth, delayed or failure of eruption of permanent teeth, as well as variable numbers of supernumerary teeth along with dental crowding and malocclusion (Fig. 1; (Atasu et al., 1996; Becker et al., 1997a; Becker et al., 1997b; Cooper et al., 2001; D'alessandro et al., 2010; Jensen and Kreiborg, 1990; Kreiborg et al., 1999; Quack et al., 1999; Suda et al., 2010; Yoshida et al., 2002). CCD is present at a frequency of one in one million individuals. It affects all ethnic groups, and males and females are affected equally."
+"Genetic studies mapped CCD to chromosomal 6p21, and heterozygous mutations (haploinsufficiency) in RUNX2 (CBFA1) gene has been identified to be responsible for the development of CCD in both humans and mice (Ducy et al., 1997; Komori et al., 1997; Mundlos et al., 1997; Otto et al., 1997). RUNX2 is a key transcription factor involved in osteoblast differentiation and skeletal morphogenesis (Ducy et al., 1997; Komori et al., 1997). RUNX2 spans a region over 220 kb on chromosome 6p21, and contains nine exons that can be alternatively spliced (Geoffroy et al., 1998)."
+"RUNX2 gene can be transcribed from two distantly located promoters leading to the production of two major mRNA transcripts with different 5′-UTR and 5′ coding sequences (Li and Xiao, 2007). Approximately 60–70% clinically confirmed CCD patients exhibit mutations in RUNX2 gene, including insertion, deletion, nonsense, and missense variants. Most of them were located in the runt domain and were predicted to abolish DNA binding and alter the transactivation activity of RUNX2 (Lee et al., 1997; Mundlos et al., 1997; Otto et al., 2002; Otto et al., 1997)."
+"Deletion of the entire RUNX2 gene and/or its contiguous genes have also been described, and this accounts for ~13% of CCD individuals who have normal results on sequence analysis (ElGharbawy et al., 2010; Izumi et al., 2006; Lee, M. T. et al., 2008; Otto et al., 2002; Quack et al., 1999). RUNX2 mutation is so far the only known molecular etiology for CCD."
+"There are still many CCD patients without any detectable mutations in RUNX2, and this would indicate a genetic heterogeneity such as mutations in genes interacting with or regulating RUNX2, or due to some other unidentified mechanisms (Lee et al., 2008). Mutations in RUNX2 have a high penetrance and extreme variability, ranging from isolated dental anomalies to fully manifesting disease with poorly ossified cranium and absence of clavicles (Golan et al., 2000; MendozaLondono and Lee, 1993). The phenotype may vary greatly among individuals even in the same family with the same mutation."
+"Haploinsufficiency for RUNX2 gene is usually associated with classic CCD. There are some exceptions, including the 90insC and Thr200Ala mutations, which are associated with mild CCD, isolated dental anomalies, and significant intrafamilial variability, suggesting that haploinsufficiency of the gene product is quite sensitive to the modulation by other modifier genes, and hypomorphic/neomorphic effects and genetic modifiers may alter the clinical expressivity of these mutations (Bourdeau et al., 2001; Zhou et al., 1999). Genesis."
+"Author manuscript; available in PMC 2011 October 6. Wang and Fan Page 6 Up to 94% of CCD patients exhibit dental anomalies including supernumerary teeth (Golan et al., 2003). However, no clear genotypephenotype correlation has been established (Otto et al., 2002)."
+"Although Yoshida reported a significant correlation between the number of supernumerary teeth and the degree of short stature (Yoshida et al., 2002), most other studies suggested that the correlation between the genotype and supernumerary tooth formation is very low. Individuals with CCD having identical RUNX2 gene mutations showed a wide variation in the supernumerary tooth formation, and many of the supernumerary teeth occurred asymmetrically in the maxilla and the mandible, implying that the number and position of supernumerary teeth are not solely governed by RUNX2 mutation. Other nongenetic factors, such as epigenetic factors, modifier genes, copy number variations, as well as environmental factors, may also be involved in the formation of supernumerary teeth in CCD (Ryoo et al., 2010; Suda et al., 2007; Suda et al., 2010)."
+"In CCD patients, the formation of primary and permanent teeth was normal (although with problems in shedding of primary teeth and eruption of permanent teeth), and the morphology of supernumerary teeth usually resembles their normal counterparts. However, the development of supernumerary teeth is delayed a couple of years compared to the normal permanent teeth. It was hypothesized that the dental lamina for both primary and permanent dentition is normal, but does not resolve completely thus resulting in the formation of supernumerary teeth (Jensen and Kreiborg, 1990;"
+"Lukinmaa et al., 1995). Radiographic examination of tooth development in individual CCD patients over several years indicated that the supernumerary teeth in fact developed in sequence next to the corresponding permanent teeth. Therefore, supernumerary teeth in CCD are thought to arise from the permanent teeth, and they may represent a part of the third dentition (Jensen and Kreiborg, 1990)."
+"RUNX2 heterozygous mutant mice mostly phenocopied the skeletal defects of CCD in humans, but with no supernumerary tooth formation (Otto et al., 1997). In line with this, the RUNX2 homozygous null mutant mice have no bone. However, the tooth development in RUNX2 null mutants is arrested at the late bud stage (D'souza et al., 1999)."
+"This may be because mice only have one dentition, and they are not good model for studying successional or de novo supernumerary tooth formation. During mouse tooth development, RUNX2 is expressed in the dental mesenchyme mediating epithelial Fgf signals into the dental mesenchyme. Mesenchymal Fgf signaling then sends back to the dental epithelium, regulating the transition of tooth bud to cap stage (Aberg et al., 2004)."
+"Notably, in Runx2 homozygous and heterozygous mouse upper molars, a prominent epithelial bud regularly presents. This epithelial bud protrudes lingually with active Shh signaling, and it may represent the extension of dental lamina for the successional tooth formation in mice. Hence, although Runx2 is required for primary tooth development, it prevents the growth of dental lamina and the successional tooth formation (Wang et al., 2005)."
+"Supernumerary Teeth in Familial Adenomatous Polyposis Familial adenomatous polyposis (FAP, MIM 175100), also named as adenomatous polyposis of the colon (APC), is an autosomal dominant hereditary disorder characterized by the development of hundreds to thousands precancerous colorectal adenomatous polyps, some of which, without colectomy, will inevitably develop into cancer. In addition to colorectal neoplasm, these individuals can develop variable extracolonic lesions, including upper gastrointestinal polyposis, osteomas, congenital hypertrophy of the retinal pigment epithelium, soft tissue tumors, desmoids tumors, and dental anomalies (Boffano et al., 2010; ChimenosKustner et al., 2005; Fader et al., 1962; Gardner and Richards, 1953; Half et al., 2009; Mcfarland et al., 1968; Ramaglia et al., 2007; Wijn et al., 2007)."
+"Dental abnormalities include impacted teeth, congenital absence of one or more teeth, supernumerary teeth, dentigerous cysts associated with the crown of unerupted tooth, and odontomas (Chimenos- Genesis. Author manuscript; available in PMC 2011 October 6. Wang and Fan Page 7 Kustner et al., 2005; Half et al., 2009; Wijn et al., 2007)."
+"Tooth extraction may be difficult due to root anomalies and almost complete absence of periodontal space caused by the extensive hypercementosis (excessive cementum formation on the roots)(Ramaglia et al., 2007). Gardner syndrome is a variant of FAP characterized by multiple adenomas of the colon and rectum typical of FAP together with osteomas and soft tissue tumors (epidermoid cysts, fibromas, desmoids tumors)(Gardner and Richards, 1953; Ramaglia et al., 2007). Supernumerary teeth and odontomas were originally described as a part of Gardner syndrome, but they can also occur in FAP patients with or without other extracolonic lesions (Fonseca et al., 2007; Ramaglia et al., 2007; Wijn et al., 2007)."
+"The oral and maxillofacial manifestations can show up many years before the occurrence of intestinal polyposis, and these may lead to the early diagnosis of FAP (Boffano et al., 2010; Fonseca et al., 2007). FAP and Gardner syndrome are caused by germline mutations in the APC gene (CruzCorrea and Giardiello, 2002; Okamoto et al., 1990; Wijn et al., 2007). APC is located on chromosome 5q21q22, and it can be alternatively spliced in multiple coding and noncoding regions."
+"The main transcript has 15 exons with 8532 base pairs that code for 2843 amino acids resulting in a 311.8 kd protein. The exon 15 is the largest coding regions (6,500 bp) and comprises over threequarters of the coding region of the gene (Groden et al., 1991; Kinzler et al., 1991)."
+"APC is a tumor suppressor gene involved in the downregulation of free intracellular βcatenin, the major signal transducer of canonical Wnt signaling pathway, as well as a central component of the Ecadherin adhesion complex (Groden et al., 1991; Heinen, 2010). In addition, the APC protein may also play roles in chromosomal stability, regulation of cell migration up the colonic crypt and cell adhesion through association with Ecadherin, regulation of cell polarity through association with GSK3β, and other functions associated with microtubule bundles (Clevers, 2006; Heinen, 2010; Phelps et al., 2009). Inactivation of APC would lead to stabilization and accumulation of the protooncogene βcatenin, dysregulation of the cell cycle, and chromosomal instability (Wijn et al., 2007)."
+"Many germline mutations have been identified in the APC gene. Most of the mutations are located in the 5′ region of the gene and cause a premature truncation of the APC protein, usually through single aminoacid substitutions or frameshifts (Friedl et al., 2001; Heinen, 2010). Mutation analysis in large samples of FAP patients has revealed consistent correlations between the site of APC mutation and clinical manifestations encompassing both colonic lesions and some extracolonic features (Caspari et al., 1994; Caspari et al., 1995; Friedl et al., 2001; Heinen, 2010; Nieuwenhuis and Vasen, 2007; Ramaglia et al., 2007; Wallis et al., 1999)."
+"Approximately 11%–27% patients have supernumerary teeth, but so far no specific codon mutation of the APC gene was found to correlate with supernumerary teeth and/or odontomas. There are wide familial and regional variations in oral manifestations in patients with FAP (Sondergaard et al., 1987; Wijn et al., 2007). It was reported that in pedigrees with mutations 3′ of codon 1444, the mean number of abnormalities on dental panoramic radiographs is three to five times higher than in those with mutations between codon 1 and 1444 (Davies et al., 1995)."
+"Correlations seems to exist between dental abnormalities and the number and type of osteomas, with the highest incidence of supernumerary teeth and odontomas is found in FAP patients with three or more osteomas (Kubo et al., 1989; Wijn et al., 2007; Wolf et al., 1986). No correlation was found between dental abnormalities and colonic adenomas (Takeuchi et al., 1993). Supernumerary teeth in patients with FAP are often small peg shaped and are mainly located in the alveolar bone between the teeth or attached to follicle of an impacted tooth (Ida et al., 1981; ChimenosKustner et al., 2005; Davies et al., 1995; Half et al., 2009; Kubo et al., 1989; Thakker et al., 1995; Wijn et al., 2007)."
+"Common sites of supernumerary unerupted teeth are in the anterior regions and around canines, similar to nonFAP populations (Ida et al., 1981; Kubo et al., 1989). The reported prevalence of odontomas in patients with FAP was between 9.4% and 83.3%, with similar distribution in the mandible and in the maxilla Genesis. Author manuscript; available in PMC 2011 October 6."
+"Wang and Fan Page 8 (Wijn et al., 2007). They are often located in the incisalpremolar area and can be multiple (ChimenosKustner et al., 2005; Half et al., 2009; Ida et al., 1981; Wijn et al., 2007). Some mouse strains with genetically modified Apc gene have been established, and heterozygous Apc mutant mice showed gastrointestinal and other tumor predisposition phenotypes similar to human patients with FAP (Fodde et al., 1994;"
+"Moser et al., 1995; Oshima et al., 1995; Smits et al., 1997). Apc homozygous mutant mouse embryos died early before or during grastrulation stage (Ishikawa et al., 2003; Oshima et al., 1995). Conditional knockout of Apc gene (Apccko/cko) under the control of human keratin 14 (K14) promoter, which drives gene expression to the basal cells of epidermis and oral and dental epithelium, resulted in aberrant development of several epithelial derived organs, including hair follicle, thymus, and supernumerary teeth (Kuraguchi et al., 2006)."
+"Most of the supernumerary teeth were simple unicuspid cones, while some multicuspid teeth were also observed in both molar and incisor regions. Some supernumerary teeth exhibit welldifferentiated ameloblasts and odontoblasts with enamel and dentin matrix depositions, as well as blood supply and innervations (see Fig. 2). Some supernumerary teeth even start to form roots, indicating that these supernumerary teeth may function as natural teeth (Wang et al., 2009)."
+"Two different K14Cre mouse lines were used to delineate the role of Apc in tooth development. The K14Cre1Amc mice exhibited uniform Cre recombinase activity throughout the oral and dental epithelium, whereas K14Cre8Brn mice showed a mosaic pattern of Cre activity in the oral and dental epithelial cells (Dassule et al., 2000; Jonkers et al., 2001; Wang et al., 2009). The K14Cre1Amc;Apccko/cko mice exhibit severe defects in ectodermal derived organs and died shortly after birth with numerous irregular epithelial buds protruding from the oral epithelium into the jaw mesenchyme."
+"This phenotype is very similar to the mice with constitutive activation of βcatenin in embryonic oral epithelium under the K14 promoter (K14Cre; βcateninΔex3f/+) (Jarvinen et al., 2006; Liu, F. et al., 2008). The K14Cre; βcateninΔex3f/+ mice also died at birth and their irregular oral epithelial buddings, when transplanted under the kidney capsule of immune deficiency mice, can further develop into many small teeth. In the K14Cre1Amc;Apccko/cko mice, the expression of both βcatenin transcripts (Ctnnb1) and βcatenin protein were dramatically upregulated in the oral epithelium."
+"Genetic deletion of βcatenin (Ctnnb1cko/cko) in the oral epithelium of Apc lossof-function (K14Cre1Amc;Apccko/cko) mice suppressed the formation of supernumerary teeth. Although Apc may have other functions during development, these data formally proved that the induction of supernumerary teeth by Apc lossof-function was through activation of Wnt/β(catenin signaling (Wang et al., 2009). The K14Cre8Brn;Apccko/cko mice with mosaic deletion of Apc in the epidermis and oral epithelium can survive after birth, though all mutant mice died before postnatal 19 days (Kuraguchi et al., 2006)."
+"This anyway provided a longer time window for studying the development of supernumerary teeth (Wang et al., 2009). In the K14Cre8Brn;Apccko/cko mice, a lot of supernumerary teeth formed from multiple regions of the jaw, on both labial and lingual aspects of the principle molar and incisor teeth, or directly derived from oral epithelium. Supernumerary tooth germs can even form on the Hertwig's epithelial root sheath in the developing root, as well as in the vestibular lamina, a temporal oral epithelial invagination that in wild type mice will eventually undergo apoptosis forming the space between the gingiva and the inner cheek."
+"Notably, adult oral tissues, especially young adult tissues, are still responsive to loss of Apc or activation of Wnt/β(catenin signaling, and are able to form new teeth (Wang et al., 2009). In the old adult mice, supernumerary teeth can be induced on both labial and lingual sides of the incisors, which contain adult stem cells supporting the continuous growth of mouse incisors (Liu et al., 2010; Wang et al., 2009). In the young mice, supernumerary tooth germs Genesis."
+"Author manuscript; available in PMC 2011 October 6.  Wang and Fan Page 9 were induced in multiple regions of the jaw in both incisor and molar regions. They can form directly from the oral epithelium, in the dental lamina connecting the developing molar or incisor tooth germs to the oral epithelium, in the tooth crown regions, as well as in the elongating and furcation area of the developing root (Wang et al., 2009)."
+"These data indicate that young mice retain odontogenic potential in multiple regions of the jaw. In humans, the development of permanent teeth starts during the embryonic and fetal periods, and then continues for many years after birth into adolescence. In particular, the third molars start to develop after birth, and it was reported that the onset of mandibular third molar formation ranges from 5.86 to 14.66 years old (Bolanos et al., 2003)."
+"Children and adolescents thus retain dental lamina epithelial cells in their jaw, and this holds great promises for biological tooth regenerations and tooth repairs. Interestingly, Msx1, which is required for endogenous tooth development, is dispensable for supernumerary tooth formation in mice with the loss of function of Apc in the oral and dental epithelium (Wang et al., 2009). In the developing teeth of wild type mice, Msx1 is expressed in the dental mesenchyme and forms a positive feedback loop with Bmp4 regulating the development of tooth bud into the cap stage (Bei et al., 2000; Chen et al., 1996; Maas and Bei, 1997)."
+"Synergistic interaction between Msx1 and Pax9 is also crucial for lower incisor development (Nakatomi et al., 2010). In Msx1 null mutant mice, tooth development is arrested at the bud stage (Chen et al., 1996; Satokata and Maas, 1994). However, deletion of Msx1 in K14Cre8Brn;Apccko/cko mice had no effect on the formation of supernumerary teeth."
+"Both Bmp4 and Fgf3, which are downregulated in Msx1 deficient mouse tooth germs, were expressed in the mesenhcyme of supernumerary teeth in K14Cre8Brn;Apccko/cko;Msx1–/– mice, and Bmp4 was also expressed in the epithelium of these supernumerary teeth. These data indicate that Apc lossof-function can bypass the mesenchymal Msx1Bmp4 feedback loop that is normally required for endogenous tooth development (Wang et al., 2009). Mutations in MSX1 in humans cause tooth agenesis (Vastardis et al., 1996)."
+"These results provide possibilities in the future to use the human MSX1 deficient oral tissues to generate supernumerary teeth for the treatment of their missing teeth. Another interesting finding was that only a small subset of Apc deficient cells was able to recruit surrounding wild type oral epithelial cells, and induce adjacent wild type mesenchymal cells to form new teeth. Some wild type epithelial cells adjacent to the Apc deficient cells can also be induced to express high levels of βcatenin protein in the nucleus, suggesting that Apc deficient cells can function in a noncell autonomous manner, and both Apc deficient cells and surrounding wild type epithelial cells participate in the formation of enamel not signaling center in supernumerary tooth germs as well as the whole supernumerary tooth formation (Wang et al., 2009)."
+"Fgf8 was shown to be a direct target gene of Wnt/βcatenin signaling, and Wnt/βcatenin signaling regulates and maintains Fgf8 expression in the oral epithelium (Wang et al., 2009). Fgf8 is one of the earliest molecules expressed during the initiation stage of tooth development (Kettunen et al., 1998). However, Fgf8 itself cannot induce new tooth formation in vitro, suggesting that other Wnt target genes are also involved in the initiation of supernumerary tooth formation (Wang et al., 2009)."
+"Various Model Systems For Studying Supernumerary Tooth Formation Mice have been used for a long time as the predominant model for studying tooth development. However, mouse dentition is highly reduced with only one incisor and three molars, separated by a toothless diastema region, in each quadrant of the jaw. In addition, mice have only a single primary dentition and their teeth are not replaced."
+"Therefore, the mice may not be an optimal model for studying tooth replacement and supernumerary tooth formation (Huysseune and Thesleff, 2004). Most of reported mouse supernumerary teeth are Genesis. Author manuscript; available in PMC 2011 October 6."
+"Wang and Fan Page 10 located in the diastema region in front of the first molars. This is not a de novo tooth formation but the rescue of vestigial tooth rudiments. During early stages of tooth development, many transient vestigial dental buds develop in the diastema area."
+"Some of them can develop into bud stage, but later regress and disappear by apoptosis, or merge with the mesial crown of the first molar tooth (Peterkova et al., 2002, 2005, 2009; Prochazka et al., 2010; Viriot et al., 2002; Witter et al., 2005). Major signaling pathways regulating tooth development are also expressed in these vestigial dental buds. Modulation of these signals can rescue these vestigial tooth rudiments to develop into supernumerary diastema teeth (Tummers and Thesleff, 2009)."
+"A number of mutant mouse stains have been reported exhibiting supernumerary diastema teeth, including mice with overexpression of Eda or Edar (Kangas et al., 2004; Mustonen et al., 2003; Pispa et al., 2004; Tucker et al., 2004), Tabby mice with mutation of Eda (Charles et al., 2009; Peterkova et al., 2005), Sprouty2 or Sprouty4 null mutant mice affecting Fgf signaling (Klein et al., 2006), hypomorphic Polaris mice and Wnt1Cre; Polaris conditional mutant mice affecting Shh signaling (Ohazama et al., 2009; Zhang et al., 2003), Pax6 mutant mice (Kaufman et al., 1995), and Gas1 null mutant mice (Ohazama et al., 2009). Sostdc1 (Ectodin/Wise/USAG1) null mutant mice and Lrp4 (a receptor that suppresses Wnt signaling) hypomorphic mice present supernumerary teeth in both incisors and molar regions (Ahn et al., 2010; Kassai et al., 2005; MurashimaSuginami et al., 2007; Ohazama et al., 2008). It was shown that Sostdc1 suppresses the survival of the diastema or incisor vestigial buds by serving as an inhibitor of Lrp5and Lrp6dependent Wnt signaling."
+"Inactivation of Sostdc1 leads to elevated Wnt signaling and, increased proliferation and continuous development of vestigial tooth buds to form supernumerary teeth (Ahn et al., 2010). Lrp4 was also shown to inhibit canonical Wnt signaling by binding to Sostdc1 and loss of function of Lrp4 may lead to elevated Wnt signaling (Ohazama et al., 2008). Transgenic Mice With De Novo Supernumerary Tooth Formation De novo supernumerary teeth arising directly from the primary tooth germs or dental lamina have been reported in Apc lossof-function or βbcatenin gainof-function mice (as discussed in the previous section), and in the Sp6 (Epiprofin) deficient mice."
+"Sp6 is a zincfinger transcription factor that is mainly expressed in epithelial cells in the developing teeth, hair follicles, limb buds, as well as in the adult lungs (Nakamura et al., 2004; Talamillo et al., 2010). The Sp6 gene generates two different transcripts, termed Sp6 and Epiprofin, which differ in the first exon but ultimately code for the same Sp6 protein (Hertveldt et al., 2007)."
+"During mouse tooth development, Sp6 is expressed in the dental epithelium during early stage of tooth development, and later in the inner dental epithelium of the enamel organ and also in the differentiated odontoblasts (Nakamura et al., 2004). Sp6 deficient mice initially had delayed tooth development, but later developed multiple supernumerary teeth in both incisor and molar regions. At early stage, Sp6 mutant mouse dental epithelium showed reduced cell proliferation and differentiation, as well as compromised enamel not signaling center."
+"Starting from E16.5 bell stage, multiple nonproliferating enamel knotlike structures formed ectopically in the enamel organ of primary tooth germs, and then further grew and branches into the jaw mesenchyme, eventually developing into supernumerary teeth (JimenezRojo et al., 2010; Nakamura et al., 2008). So far, no human supernumerary teeth have been reported to be associated with the SP6 gene. Mammals only have one row of teeth in each jaw."
+"Interestingly, in Osr2 null mutant mouse embryos, supernumerary tooth germs were found developing directly from the oral epithelium lingual to their molar tooth germs (Zhang et al., 2009). This was, however, different from the successional (replacement) or supernumerary tooth formation in all the vertebrates reported, but may be similar to the formation of a second tooth row in multirowed fish (Mikkola, 2009; Zhang et al., 2009). In the developing mouse tooth germs, Genesis."
+"Author manuscript; available in PMC 2011 October 6. Wang and Fan Page 11 Osr2 is expressed in the molar mesenchyme in a lingualto-buccal gradient that is complementary to the expression pattern of Bmp4. In Osr2 null mutant embryos, expression of several odontogenic factors, including Pitx2, Shh, Msx1, and Lef1, was upregulated or expanded."
+"Deletion of Msx1, a feedback activator of Bmp4, in the Osr2 mutant mice prevented the formation of supernumerary teeth, suggesting that expansion of the odontogenic field in Osr2 mutant embryos required Msx1, and antagonistic interactions between Osr2 and Msx1 pattern the tooth morphogenetic field (Zhang et al., 2009). Current Models for Studying Successional Tooth Formation It has been suggested that in humans a “third dentition,” with one or more supernumerary teeth, can occur in addition to the permanent dentition, and supernumerary teeth are sometimes thought to represent a partial postpermanent dentition (Jensen and Kreiborg, 1990; MurashimaSuginami et al., 2007; Ooe, 1969). Analysis of successional tooth formation may help with understanding the molecular genetics of supernumerary tooth formation, and will also provide information of the behaviors and regulations of dental stem cells."
+"As mice are not good model for studying tooth replacement, some other models have been established to analyze successional tooth formation, including reptiles, fish, lizard, and snake, which replace their teeth continuously throughout life, as well as some mammals with secondary teeth, such as ferret (Berkovitz and Moore, 1975; Fraser et al., 2004, 2006a,b; Handrigan et al., 2010; Handrigan and Richman, 2010a,b; Jarvinen et al., 2009; Osborn, 1978). Detailed histological analysis on the tooth replacement of these models indicate that the successional teeth are initiated from the dental lamina epithelium, which grows from the lingual side of the deciduous tooth enamel organ, and it later elongates and buds into the jaw mesenchyme forming the successional tooth. Jarvinen et al. showed that in ferret, Sostdc1 is expressed in the elongating successional dental lamina at the interface between the lamina and the deciduous tooth, as well as the buccal side of the dental lamina, suggesting that Sostdc1 may play a role in defining the identity of the dental lamina (Jarvinen et al., 2009)."
+"Handrigan et al. analyzed successional tooth formation in snake and in lizard, and proposed that dental epithelial stem cells are responsible for the formation of succcessional lamina, and Wnt signaling may regulate the stem cell fate in these cells (Handrigan et al., 2010). Maintenance or reactivation of a competent dental lamina is thus pivotal for the replacement tooth and supernumerary formation (Jarvinen et al., 2009; Tummers and Thesleff, 2009). CONCLUDING REMARKS Multiple supernumerary teeth may have genetic components in their etiology and represent partial of the third dentition in humans."
+"Research in recent years has taught us much about the molecular mechanisms underlying tooth morphogenesis and differentiation. However, relatively little is known about the initiation of tooth formation, the genetic control of successional teeth, as well as the mechanisms underlying supernumerary tooth formation. The supernumerary teeth generated in Apc lossof-function or βcatenion gainof-function mice are in line with the tooth phenotypes observed in human FAP."
+"This information, although exciting and informative, leave many critical questions concerning induction of supernumerary teeth unanswered. Since Apc is a tumor suppressor gene and β(catenion is a protooncogene, further studies are needed to identify the genes, cytokines, or small molecules, to activate Wnt/βcatenin signaling and to stimulate new tooth formation in vitro and/or in vivo. Better understanding of the role of Wnt/βcatenion, Apc, and Runx2 in the formation of supernumerary teeth, together with detailed analysis of successional tooth formation in various model systems, will provide fundamental insights into the molecular genetics of supernumerary teeth in humans and will also assist in tooth regeneration and tooth engineering in the clinic."
+"Genesis. Author manuscript; available in PMC 2011 October 6. Wang and Fan LITERATURE CITED Page 12 Aberg T, Wang XP, Kim JH, Yamashiro T, Bei M, Rice R, Ryoo HM, Thesleff I. Runx2 mediates FGF signaling from epithelium to mesenchyme during tooth morphogenesis."
+Dev Biol. 2004; 270:76–93. [PubMed: 15136142]
+"Acikgoz A, Acikgoz G, Tunga U, Otan F. Characteristics and prevalence of nonsyndrome multiple supernumerary teeth: A retrospective study. Dentomaxillofac Radiol. 2006; 35:185–190."
+"[PubMed: 16618853] Ahn Y, Sanderson BW, Klein OD, Krumlauf R. Inhibition of Wnt signaling by Wise (Sostdc1) and negative feedback from Shh controls tooth number and patterning. Development."
+"2010; 137:3221– 3231. [PubMed: 20724449] Atasu M, Dumlu A, Ozbayrak S. Multiple supernumerary teeth in association with cleidocranial dysplasia. J Clin Pediatr Dent."
+"1996; 21:85–91. [PubMed: 9161213] Babu V, Nagesh KS, Diwakar NR. A rare case of hereditary multiple impacted normal and supernumerary teeth."
+"J Clin Pediatr Dent. 1998; 23:59–61. [PubMed: 10023236] Backman B, Wahlin YB. Variations in number and morphology of permanent teeth in 7year-old Swedish children."
+"Int J Paediatr Dent. 2001; 11:11–17. [PubMed: 11309867] Batra P, Duggal R, Parkash H. Nonsyndromic multiple supernumerary teeth transmitted as an autosomal dominant trait. J Oral Pathol Med. 2005; 34:621–625."
+"[PubMed: 16202084] Becker A, Bimstein E, Shteyer A. Interdisciplinary treatment of multiple unerupted supernumerary teeth. Report of a case. Am J Orthod. 1982; 81:417–422."
+"[PubMed: 6960728] Becker A, Lustmann J, Shteyer A. Cleidocranial dysplasia, Part 1. General principles of the orthodontic and surgical treatment modality."
+"Am J Orthod Dentofacial Orthop. 1997a; 111:28–33. [PubMed: 9009920] Becker A, Shteyer A, Bimstein E, Lustmann J. Cleidocranial dysplasia, Part 2. Treatment protocol for the orthodontic and surgical modality."
+Am J Orthod Dentofacial Orthop. 1997b; 111:173–183. [PubMed: 9057617] Bei M. Molecular genetics of tooth development.
+"Curr Opin Genet Dev. 2009; 19:504–510. [PubMed: 19875280] Bei M, Kratochwil K, Maas RL. BMP4 rescues a noncell-autonomous function of Msx1 in tooth development."
+"Development. 2000; 127:4711–4718. [PubMed: 11023873] Berkovitz BK, Moore MH. Tooth replacement in the upper jaw of the rainbow trout (Salmo gairdneri)."
+"J Exp Zool. 1975; 193:221–234. [PubMed: 1176903] Bixler D, Higgins M, Hartsfield J Jr."
+The NanceHoran syndrome: a rare Xlinked oculardental trait with expression in heterozygous females. Clin Genet. 1984; 26:30–35. [PubMed: 6467651]
+"Bodin I, Julin P, Thomsson M. Hyperodontia. I. Frequency and distribution of supernumerary teeth among 21,609 patients. Dentomaxillofac Radiol."
+"1978; 7:15–17. [PubMed: 291550] Boffano P, Bosco GF, Gerbino G."
+"The surgical management of oral and maxillofacial manifestations of Gardner syndrome. J Oral Maxillofac Surg. 2010; 68:2549–2554. [PubMed: 20594634] Bolanos MV, Moussa H, Manrique MC, Bolanos MJ."
+"Radiographic evaluation of third molar development in Spanish children and young people. Forensic Sci Int. 2003; 133:212–219. [PubMed: 12787654] Bourdeau A, Faughnan ME, McDonald ML, Paterson AD, Wanless IR, Letarte M. Potential role of modifier genes influencing transforming growth factorbeta1 levels in the development of vascular defects in endoglin heterozygous mice with hereditary hemorrhagic telangiectasia."
+"Am J Pathol. 2001; 158:2011–2020. [PubMed: 11395379] Brindley HP, Archard HO, Alling CC, Jurgens PE, Jurgens EH."
+Case 11. Part 2. Angiokeratoma corporis diffusum (Fabry's disease).
+"J Oral Surg. 1975; 33:199–205. [PubMed: 163304] Brook AH. Dental anomalies of number, form and size: Their prevalence in British schoolchildren."
+J Int Assoc Dent Child. 1974; 5:37–53. [PubMed: 4535299] Brook AH.
+A unifying aetiological explanation for anomalies of human tooth number and size. Arch Oral Biol. 1984;
+"29:373–378. [PubMed: 6611147] Cadenat H, Combelles R, Fabert G, Clouet M. Mesiodens and heredity. Rev Stomatol Chir Maxillofac."
+1977; 78:341–346. [PubMed: 270798] Genesis. Author manuscript; available in PMC 2011 October 6.
+"Wang and Fan Page 13 Caspari R, Friedl W, Mandl M, Moslein G, Kadmon M, Knapp M, Jacobasch KH, Ecker KW, KreisslerHaag D, Timmermanns G, et al. Familial adenomatous polyposis: Mutation at codon 1309 and early onset of colon cancer. Lancet. 1994; 343:629–632."
+"[PubMed: 7906810] Caspari R, Olschwang S, Friedl W, Mandl M, Boisson C, Boker T, Augustin A, Kadmon M, Moslein G, Thomas G, et al. Familial adenomatous polyposis: desmoid tumours and lack of ophthalmic lesions (CHRPE) associated with APC mutations beyond codon 1444. Hum Mol Genet."
+"1995; 4:337–340. [PubMed: 7795585] Charles C, Pantalacci S, Tafforeau P, Headon D, Laudet V, Viriot L. Distinct impacts of Eda and Edar loss of function on the mouse dentition. PLoS"
+"One. 2009; 4:e4985. [PubMed: 19340299] Chen Y, Bei M, Woo I, Satokata I, Maas R. Msx1 controls inductive signaling in mammalian tooth morphogenesis. Development."
+"1996; 122:3035–3044. [PubMed: 8898217] ChimenosKustner E, Pascual M, Blanco I, Finestres F. Hereditary familial polyposis and Gardner's syndrome: Contribution of the odontostomatology examination in its diagnosis and a case description."
+Med Oral Patol Oral Cir Bucal. 2005; 10:402–409. [PubMed: 16264375]
+"Clevers H. Colon cancer—Understanding how NSAIDs work. N Engl J Med. 2006; 354:761–763. [PubMed: 16481647] Cobourne MT, Sharpe PT."
+Making up the numbers: The molecular control of mammalian dental formula. Semin Cell Dev Biol. 2010; 21:314–324.
+[PubMed: 20080198] Cohen RL. Clinical perspectives on premature tooth eruption and cyst formation in neonates. Pediatr Dermatol.
+"1984; 1:301–306. [PubMed: 6387671] Cooper SC, Flaitz CM, Johnston DA, Lee B, Hecht JT. A natural history of cleidocranial dysplasia."
+"Am J Med Genet. 2001; 104:1–6. [PubMed: 11746020] CruzCorrea M, Giardiello FM. Diagnosis and management of hereditary colon cancer."
+"Gastroenterol Clin North Am. 2002; 31:537–549. x. [PubMed: 12134617] D'Alessandro G, Tagariello T, Piana G. Cleidocranial dysplasia: Etiology and stomatognathic and craniofacial abnormalities. Minerva Stomatol. 2010; 59:117–127."
+"[PubMed: 20357738] D'Souza RN, Aberg T, Gaikwad J, Cavender A, Owen M, Karsenty G, Thesleff I. Cbfa1 is required for epithelialmesenchymal interactions regulating tooth development in mice. Development."
+"1999; 126:2911–2920. [PubMed: 10357935] D'Souza RN, Klein OD. Unraveling the molecular mechanisms that lead to supernumerary teeth in mice and men: current concepts and novel approaches."
+Cells Tissues Organs. 2007; 186:60–69.
+"[PubMed: 17627119] Dassule HR, Lewis P, Bei M, Maas R, McMahon AP. Sonic hedgehog regulates growth and morphogenesis of the tooth."
+"Development. 2000; 127:4775–4785. [PubMed: 11044393] Davies DR, Armstrong JG, Thakker N, Horner K, Guy SP, Clancy T, Sloan P, Blair V, Dodd C, Warnes TW, et al. Severe Gardner syndrome in families with mutations restricted to a specific region of the APC gene."
+"Am J Hum Genet. 1995; 57:1151–1158. [PubMed: 7485167] Diaz A, Orozco J, Fonseca M. Multiple hyperodontia: Report of a case with 17 supernumerary teeth with non-syndromic association."
+Med Oral Patol Oral Cir Bucal. 2009; 14:E229–E231.
+"[PubMed: 19218904] Ducy P, Zhang R, Geoffroy V, Ridall AL, Karsenty G. Osf2/Cbfa1: a transcriptional activator of osteoblast differentiation. Cell. 1997; 89:747–754."
+"[PubMed: 9182762] ElGharbawy AH, Peeden JN Jr, Lachman RS, Graham JM Jr, Moore SR, Rimoin DL. Severe cleidocranial dysplasia and hypophosphatasia in a child with microdeletion of the Cterminal region of RUNX2. Am J Med Genet A. 2010; 152A:169–174."
+"[PubMed: 20014132] Ersin NK, Candan U, Alpoz AR, Akay C. Mesiodens in primary, mixed and permanent dentitions: A clinical and radiographic study. J Clin Pediatr Dent. 2004; 28:295–298."
+"[PubMed: 15366615] Fader M, Kline SN, Spatz SS, Zubrow HJ. Gardner's syndrome (intestinal polyposis, osteomas, sebaceous cysts) and a new dental discovery. Oral Surg Oral Med Oral Pathol."
+"1962; 15:153–172. [PubMed: 13891268] Fardi A, KondylidouSidira A, Bachour Z, Parisis N, Tsirlis A. Incidence of impacted and supernumerary teetha radiographic study in a North Greek population. Med"
+Oral Patol Oral Cir Bucal. 2011; 16:e56–61. [PubMed: 20711166] Genesis.
+"Author manuscript; available in PMC 2011 October 6. Wang and Fan Page 14 Fernandez Montenegro P, Valmaseda Castellon E, Berini Aytes L, Gay Escoda C. Retrospective study of 145 supernumerary teeth. Med"
+"Oral Patol Oral Cir Bucal. 2006; 11:E339–E344. [PubMed: 16816819] Ferreira O Jr, Cardoso CL, Capelozza AL, Yaedu RY, da Costa AR."
+Odontogenic keratocyst and multiple supernumerary teeth in a patient with EhlersDanlos syndrome—A case report and review of the literature. Quintessence Int. 2008; 39:251–256. [PubMed: 18618041]
+"FerresPadro E, PratsArmengol J, FerresAmat E. A descriptive study of 113 unerupted supernumerary teeth in 79 pediatric patients in Barcelona. Med Oral Patol Oral Cir Bucal."
+"2009; 14:E146–E152. [PubMed: 19242396] Fleming PS, Xavier GM, DiBiase AT, Cobourne MT."
+"Revisiting the supernumerary: The epidemiological and molecular basis of extra teeth. Br Dent J. 2010; 208:25–30. [PubMed: 20057458] Fodde R, Edelmann W, Yang K, van Leeuwen C, Carlson C, Renault B, Breukel C, Alt E, Lipkin M, Khan PM, et al."
+"A targeted chaintermination mutation in the mouse Apc gene results in multiple intestinal tumors. Proc Natl Acad Sci USA. 1994; 91:8969–8973. [PubMed: 8090754] Foley MF, Del Rio CE."
+Supernumerary teeth. Report of a case. Oral Surg Oral Med Oral Pathol.
+"1970; 30:60–63. [PubMed: 5269806] Fonseca LC, Kodama NK, Nunes FC, Maciel PH, Fonseca FA, Roitberg M, de Oliveira JX, Cavalcanti MG. Radiographic assessment of Gardner's syndrome."
+"Dentomaxillofac Radiol. 2007; 36:121– 124. [PubMed: 17403893] Foster TD, Taylor GS."
+Characteristics of supernumerery teeth in the upper central incisor region. Dent Pract Dent Rec. 1969; 20:8–12. [PubMed: 5258920]
+"Fraser GJ, Berkovitz BK, Graham A, Smith MM. Gene deployment for tooth replacement in the rainbow trout (Oncorhynchus mykiss): A developmental model for evolution of the osteichthyan dentition. Evol Dev. 2006a; 8:446–457."
+"[PubMed: 16925680] Fraser GJ, Graham A, Smith MM. Conserved deployment of genes during odontogenesis across osteichthyans."
+"Proc Biol Sci. 2004; 271:2311–2317. [PubMed: 15556883] Fraser GJ, Graham A, Smith MM."
+"Developmental and evolutionary origins of the vertebrate dentition: Molecular controls for spatiotemporal organisation of tooth sites in osteichthyans. J Exp Zool B Mol Dev Evol. 2006b; 306:183–203. [PubMed: 16496402] Friedl W, Caspari R, Sengteller M, Uhlhaas S, Lamberti C, Jungck M, Kadmon M, Wolf M, Fahnenstich J, Gebert J, Moslein G, Mangold E, Propping P. Can APC mutation analysis contribute to therapeutic decisions in familial adenomatous polyposis?"
+Experience from 680 FAP families. Gut. 2001; 48:515–521. [PubMed: 11247896]
+"Gallas MM, Garcia A. Retention of permanent incisors by mesiodens: A family affair. Br Dent J. 2000; 188:63–64. [PubMed: 10689766]"
+"Gardner EJ, Richards RC. Multiple cutaneous and subcutaneous lesions occurring simultaneously with hereditary polyposis and osteomatosis. Am J Hum Genet."
+"1953; 5:139–147. [PubMed: 13065261] Garvey MT, Barry HJ, Blake M. Supernumerary teeth—An overview of classification, diagnosis and management."
+"J Can Dent Assoc. 1999; 65:612–616. [PubMed: 10658390] Geoffroy V, Corral DA, Zhou L, Lee B, Karsenty G. Genomic organization, expression of the human CBFA1 gene, and evidence for an alternative splicing event affecting protein function. Mamm Genome."
+"1998; 9:54–57. [PubMed: 9434946] Giancotti A, Grazzini F, De Dominicis F, Romanini G, Arcuri C. Multidisciplinary evaluation and clinical management of mesiodens."
+J Clin Pediatr Dent. 2002; 26:233–237. [PubMed: 11990044] Giedion A. Trichorhino-phalangeal syndrome. Helv Paediatr Acta. 1966; 21:475–485.
+"[PubMed: 5991804] Golan I, Baumert U, Hrala BP, Mussig D. Dentomaxillofacial variability of cleidocranial dysplasia: Clinicoradiological presentation and systematic review. Dentomaxillofac Radiol."
+"2003; 32:347– 354. [PubMed: 15070835] Golan I, Preising M, Wagener H, Baumert U, Niederdellmann H, Lorenz B, Mussig D. A novel missense mutation of the CBFA1 gene in a family with cleidocranial dysplasia (CCD) and variable expressivity."
+J Craniofac Genet Dev Biol. 2000; 20:113–120. [PubMed: 11321595] Genesis. Author manuscript; available in PMC 2011 October 6.
+"Wang and Fan Page 15 Grimanis GA, Kyriakides AT, Spyropoulos ND. A survey on supernumerary molars. Quintessence Int."
+"1991; 22:989–995. [PubMed: 1813917] Groden J, Thliveris A, Samowitz W, Carlson M, Gelbert L, Albertsen H, Joslyn G, Stevens J, Spirio L, Robertson M, et al. Identification and characterization of the familial adenomatous polyposis coli gene."
+"Cell. 1991; 66:589–600. [PubMed: 1651174] Gunduz K, Muglali M. Nonsyndrome multiple supernumerary teeth: A case report. J Contemp Dent Pract."
+"2007; 8:81–87. [PubMed: 17486191] Half E, Bercovich D, Rozen P. Familial adenomatous polyposis."
+"Orphanet J Rare This. 2009; 4:22. [PubMed: 19822006] Handrigan GR, Leung KJ, Richman JM. Identification of putative dental epithelial stem cells in a lizard with lifelong tooth replacement."
+"Development. 2010; 137:3545–3549. [PubMed: 20876646] Handrigan GR, Richman JM."
+"Autocrine and paracrine Shh signaling are necessary for tooth morphogenesis, but not tooth replacement in snakes and lizards (Squamata). Dev Biol. 2010a; 337:171–186. [PubMed: 19850027] Handrigan GR, Richman JM."
+"A network of Wnt, hedgehog and BMP signaling pathways regulates tooth replacement in snakes. Dev Biol. 2010b; 348:130–141. [PubMed: 20849841]"
+"Hattab FN, Yassin OM, Rawashdeh MA. Supernumerary teeth: report of three cases and review of the literature. ASDC J Dent Child."
+1994; 61:382–393. [PubMed: 7897011] Heinen CD.
+"Genotype to phenotype: Analyzing the effects of inherited mutations in colorectal cancer families. Mutat Res. 2010; 693:32–45. [PubMed: 19766128] Hertveldt V, De Mees C, Scohy S, Van Vooren P, Szpirer J, Szpirer C."
+The Sp6 locus uses several promoters and generates sense and antisense transcripts. Biochimie. 2007; 89:1381–1387.
+[PubMed: 17624655] Hibbert S. A previously unreported association between NanceHoran syndrome and spontaneous dental abscesses. Oral Surg Oral Med
+"Oral Pathol Oral Radiol Endod. 2005; 99:207–211. [PubMed: 15660094] Hovorakova M, Lesot H, Peterkova R, Peterka M. Origin of the deciduous upper lateral incisor and its clinical aspects. J Dent Res. 2006; 85:167–171."
+[PubMed: 16434736] Howard RD. The unerupted incisor. A study of the postoperative eruptive history of incisors delayed in their eruption by supernumerary teeth.
+"Dent Pract Dent Rec. 1967; 17:332–341. [PubMed: 5228619] Huysseune A, Thesleff I. Continuous tooth replacement: The possible involvement of epithelial stem cells."
+"Bioessays. 2004; 26:665–671. [PubMed: 15170864] Hyun HK, Lee SJ, Ahn BD, Lee ZH, Heo MS, Seo BM, Kim JW."
+"Nonsyndromic multiple mandibular supernumerary premolars. J Oral Maxillofac Surg. 2008; 66:1366–1369. [PubMed: 18571018] Hyun HK, Lee SJ, Lee SH, Hahn SH, Kim JW."
+Clinical characteristics and complications associated with mesiodentes. J Oral Maxillofac Surg. 2009; 67:2639–2643. [PubMed: 19925984]
+"Ida M, Nakamura T, Utsunomiya J. Osteomatous changes and tooth abnormalities found in the jaw of patients with adenomatosis coli. Oral Surg Oral Med Oral Pathol. 1981; 52:2–11."
+"[PubMed: 6944672] Inchingolo F, Tatullo M, Abenavoli FM, Marrelli M, Inchingolo AD, Gentile M, Inchingolo AM, Dipalma G. Nonsyndromic multiple supernumerary teeth in a family unit with a normal karyotype: Case report. Int J Med Sci. 2010; 7:378–384. [PubMed: 21060725] Ishikawa TO, Tamai Y, Li Q, Oshima M, Taketo MM. Requirement for tumor suppressor Apc in the morphogenesis of anterior and ventral mouse embryo."
+"Dev Biol. 2003; 253:230–246. [PubMed: 12645927] Izumi K, Yahagi N, Fujii Y, Higuchi M, Kosaki R, Naito Y, Nishimura G, Hosokai N, Takahashi T, Kosaki K. Cleidocranial dysplasia plus vascular anomalies with 6p21.2 microdeletion spanning RUNX2 and VEGF. Am J Med Genet A. 2006; 140:398–401."
+"[PubMed: 16419134] Jarvinen E, SalazarCiudad I, Birchmeier W, Taketo MM, Jernvall J, Thesleff I. Continuous tooth generation in mouse is induced by activated epithelial Wnt/betacatenin signaling. Proc Natl Acad Sci USA. 2006; 103:18627–18632."
+"[PubMed: 17121988] Genesis. Author manuscript; available in PMC 2011 October 6. Wang and Fan Page 16 Jarvinen E, Tummers M, Thesleff I."
+The role of the dental lamina in mammalian tooth replacement. J Exp Zool B Mol Dev Evol. 2009; 312B:281–291. [PubMed: 19137538]
+"Jensen BL, Kreiborg S. Development of the dentition in cleidocranial dysplasia. J Oral Pathol Med. 1990; 19:89–93."
+"[PubMed: 2341976] Jernvall J, SalazarCiudad I. The economy of tinkering mammalian teeth. Novartis Found Symp. 2007; 284:207–216."
+"Discussion 216–224. [PubMed: 17710855] JimenezRojo L, Ibarretxe G, Aurrekoetxea M, de Vega S, Nakamura T, Yamada Y, Unda F. Epiprofin/Sp6: A new player in the regulation of tooth development."
+"Histol Histopathol. 2010; 25:1621–1630. [PubMed: 20886441] Jonkers J, Meuwissen R, van der Gulden H, Peterse H, van der Valk M, Berns A. Synergistic tumor suppressor activity of BRCA2 and p53 in a conditional mouse model for breast cancer."
+"Nat Genet. 2001; 29:418–425. [PubMed: 11694875] Kangas AT, Evans AR, Thesleff I, Jernvall J. Nonindependence of mammalian dental characters. Nature."
+"2004; 432:211–214. [PubMed: 15538367] Kantaputra P, Miletich I, Ludecke HJ, Suzuki EY, Praphanphoj V, Shivdasani R, Wuelling M, Vortkamp A, Napierala D, Sharpe PT. Trichorhino-phalangeal syndrome with supernumerary teeth."
+"J Dent Res. 2008; 87:1027–1031. [PubMed: 18946009] Kantor ML, Bailey CS, Burkes EJ Jr. Duplication of the premolar dentition. Oral Surg Oral Med Oral Pathol."
+"1988; 66:62–64. [PubMed: 3165516] Kassai Y, Munne P, Hotta Y, Penttila E, Kavanagh K, Ohbayashi N, Takada S, Thesleff I, Jernvall J, Itoh N. Regulation of mammalian tooth cusp patterning by ectodin."
+"Science. 2005; 309:2067– 2070. [PubMed: 16179481] Kaufman MH, Chang HH, Shaw JP. Craniofacial abnormalities in homozygous Small eye (Sey/Sey) embryos and newborn mice."
+"J Anat. 1995; 186:607–617. Part 3. [PubMed: 7559133] Kawashita Y, Saito T. Nonsyndromic multiple mandibular supernumerary premolars: A case report."
+"J Dent Child (Chic). 2010; 77:99–101. [PubMed: 20819405] Kettunen P, Karavanova I, Thesleff I. Responsiveness of developing dental tissues to fibroblast growth factors: Expression of splicing alternatives of FGFR1, –2, –3, and of FGFR4; and stimulation of cell proliferation by FGF2, –4, –8, and –9."
+"Dev Genet. 1998; 22:374–385. [PubMed: 9664689] Kinzler KW, Nilbert MC, Su LK, Vogelstein B, Bryan TM, Levy DB, Smith KJ, Preisinger AC, Hedge P, McKechnie D, et al."
+Identification of FAP locus genes from chromosome 5q21. Science. 1991; 253:661–665.
+"[PubMed: 1651562] Klein OD, Minowada G, Peterkova R, Kangas A, Yu BD, Lesot H, Peterka M, Jernvall J, Martin GR. Sprouty genes control diastema tooth development via bidirectional antagonism of epithelialmesenchymal FGF signaling. Dev Cell. 2006; 11:181–190."
+"[PubMed: 16890158] Kokten G, Balcioglu H, Buyukertan M. Supernumerary fourth and fifth molars: A report of two cases. J Contemp Dent Pract. 2003; 4:67–76."
+"[PubMed: 14625596] Komori T, Yagi H, Nomura S, Yamaguchi A, Sasaki K, Deguchi K, Shimizu Y, Bronson RT, Gao YH, Inada M, Sato M, Okamoto R, Kitamura Y, Yoshiki S, Kishimoto T. Targeted disruption of Cbfa1 results in a complete lack of bone formation owing to maturational arrest of osteoblasts. Cell. 1997; 89:755–764."
+"[PubMed: 9182763] Koussoulakou DS, Margaritis LH, Koussoulakos SL. A curriculum vitae of teeth: Evolution, generation, regeneration. Int J Biol Sci. 2009; 5:226–243."
+"[PubMed: 19266065] Kreiborg S, Jensen BL, Larsen P, Schleidt DT, Darvann T. Anomalies of craniofacial skeleton and teeth in cleidocranial dysplasia. J Craniofac Genet Dev Biol. 1999; 19:75–79."
+"[PubMed: 10416150] Kubo K, Miyatani H, Takenoshita Y, Abe K, Oka M, Iida M, Itoh H. Widespread radiopacity of jaw bones in familial adenomatosis coli. J Craniomaxillofac Surg. 1989; 17:350–353. [PubMed: 2592575] Kuraguchi M, Wang XP, Bronson RT, Rothenberg R, OheneBaah NY, Lund JJ, Kucherlapati M, Maas RL, Kucherlapati R. Adenomatous polyposis coli (APC) is required for normal development of skin and thymus."
+PLoS Genet. 2006; 2:e146. [PubMed: 17002498] Genesis.
+"Author manuscript; available in PMC 2011 October 6. Wang and Fan Page 17 Leco Berrocal MI, Martin Morales JF, Martinez Gonzalez JM. An observational study of the frequency of supernumerary teeth in a population of 2000 patients."
+Med Oral Patol Oral Cir Bucal. 2007; 12:E134–E138.
+"[PubMed: 17322802] Lee B, Thirunavukkarasu K, Zhou L, Pastore L, Baldini A, Hecht J, Geoffroy V, Ducy P, Karsenty G. Missense mutations abolishing DNA binding of the osteoblastspecific transcription factor OSF2/ CBFA1 in cleidocranial dysplasia. Nat Genet. 1997; 16:307–310."
+"[PubMed: 9207800] Lee MT, Tsai AC, Chou CH, Sun FM, Huang LC, Yen P, Lin CC, Liu CY, Wu JY, Chen YT, Tsai FJ. Intragenic microdeletion of RUNX2 is a novel mechanism for cleidocranial dysplasia. Genomic Med. 2008; 2:45–49."
+"[PubMed: 18696259] Li YL, Xiao ZS. Advances in Runx2 regulation and its isoforms. Med Hypotheses."
+"2007; 68:169–175. [PubMed: 16901655] Liu DG, Zhang WL, Zhang ZY, Wu YT, Ma XC. Threedimensional evaluations of supernumerary teeth using conebeam computed tomography for 487 cases."
+Oral Surg Oral Med Oral Pathol Oral Radiol Endod. 2007; 103:403–411.
+"[PubMed: 17321454] Liu F, Chu EY, Watt B, Zhang Y, Gallant NM, Andl T, Yang SH, Lu MM, Piccolo S, SchmidtUllrich R, Taketo MM, Morrisey EE, Atit R, Dlugosz AA, Millar SE. Wnt/betacatenin signaling directs multiple stages of tooth morphogenesis. Dev Biol. 2008; 313:210–224."
+"[PubMed: 18022614] Liu F, Dangaria S, Andl T, Zhang Y, Wright AC, DamekPoprawa M, Piccolo S, Nagy A, Taketo MM, Diekwisch TG, Akintoye SO, Millar SE. betaCatenin initiates tooth neogenesis in adult rodent incisors. J Dent Res. 2010; 89:909–914. [PubMed: 20530729] Liu JF."
+Characteristics of premaxillary supernumerary teeth: A survey of 112 cases. ASDC J Dent Child. 1995; 62:262–265.
+"[PubMed: 7593884] Lukinmaa PL, Jensen BL, Thesleff I, Andreasen JO, Kreiborg S. Histological observations of teeth and peridental tissues in cleidocranial dysplasia imply increased activity of odontogenic epithelium and abnormal bone remodeling. J Craniofac Genet Dev Biol. 1995; 15:212–221."
+"[PubMed: 8719350] Maas R, Bei M. The genetic control of early tooth development. Crit Rev Oral Biol Med."
+"1997; 8:4– 39. [PubMed: 9063623] Majorana A, Facchetti F. The orodental findings in the EhlersDanlos syndrome."
+"A report of 2 clinical cases. Minerva Stomatol. 1992; 41:127–133. [PubMed: 1508122] Mason C, Azam N, Holt RD, Rule DC."
+A retrospective study of unerupted maxillary incisors associated with supernumerary teeth. Br J Oral Maxillofac Surg. 2000; 38:62–65. [PubMed: 10783451]
+"Mazzeu JF, Pardono E, ViannaMorgante AM, RichieriCosta A, Ae Kim C, Brunoni D, Martelli L, de Andrade CE, Colin G, Otto PA. Clinical characterization of autosomal dominant and recessive variants of Robinow syndrome. Am J Med Genet A. 2007; 143:320–325."
+"[PubMed: 17256787] McFarland PH Jr. Scheetz WL, Knisley RE. Gardner's syndrome: Report of two families. J Oral Surg. 1968; 26:632–638."
+"[PubMed: 5245178] McKibben DR, Brearley LJ. Radiographic determination of the prevalence of selected dental anomalies in children. ASDC J Dent Child."
+"1971; 28:390–398. [PubMed: 4940914] Melamed Y, Barkai G, Frydman M. Multiple supernumerary teeth (MSNT) and EhlersDanlos syndrome (EDS): A case report."
+"J Oral Pathol Med. 1994; 23:88–91. [PubMed: 8164160] Mercuri LG, O'Neill R. Multiple impacted and supernumerary teeth in sisters. Oral Surg Oral Med Oral Pathol."
+1980; 50:293. [PubMed: 6965030] Mikkola ML. Controlling the number of tooth rows.
+"Sci Signal. 2009; 2:e53. Mitchell L, Bennett TG. Supernumerary teeth causing delayed eruption–a retrospective study."
+"Br J Orthod. 1992; 19:41–46. [PubMed: 1562577] Moser AR, Luongo C, Gould KA, McNeley MK, Shoemaker AR, Dove WF. ApcMin: A mouse model for intestinal and mammary tumorigenesis."
+"Eur J Cancer A. 1995; 31:1061–1064. [PubMed: 7576992] Mundlos S, Otto F, Mundlos C, Mulliken JB, Aylsworth AS, Albright S, Lindhout D, Cole WG, Henn W, Knoll JH, Owen MJ, Mertelsmann R, Zabel BU, Olsen BR. Mutations involving the transcription factor CBFA1 cause cleidocranial dysplasia."
+Cell. 1997; 89:773–779. [PubMed: 9182765] Genesis.
+"Author manuscript; available in PMC 2011 October 6. Wang and Fan Page 18 Munne PM, Felszeghy S, Jussila M, Suomalainen M, Thesleff I, Jernvall J. Splitting placodes: Effects of bone morphogenetic protein and Activin on the patterning and identity of mouse incisors. Evol Dev. 2010; 12:383–392."
+"[PubMed: 20618434] MurashimaSuginami A, Takahashi K, Kawabata T, Sakata T, Tsukamoto H, Sugai M, Yanagita M, Shimizu A, Sakurai T, Slavkin HC, Bessho K. Rudiment incisors survive and erupt as supernumerary teeth as a result of USAG1 abrogation. Biochem Biophys Res Commun. 2007; 359:549–555."
+"[PubMed: 17555714] Mustonen T, Pispa J, Mikkola ML, Pummila M, Kangas AT, Pakkasjarvi L, Jaatinen R, Thesleff I. Stimulation of ectodermal organ development by EctodysplasinA1. Dev Biol. 2003; 259:123– 136. [PubMed: 12812793] Nakamura T, de Vega S, Fukumoto S, Jimenez L, Unda F, Yamada Y. Transcription factor epiprofin is essential for tooth morphogenesis by regulating epithelial cell fate and tooth number."
+"J Biol Chem. 2008; 283:4825–4833. [PubMed: 18156176] Nakamura T, Unda F, deVega S, Vilaxa A, Fukumoto S, Yamada KM, Yamada Y."
+"The Kruppellike factor epiprofin is expressed by epithelium of developing teeth, hair follicles, and limb buds and promotes cell proliferation. J Biol Chem. 2004; 279:626–634."
+"[PubMed: 14551215] Nakatomi M, Wang XP, Key D, Lund JJ, TurbeDoan A, Kist R, Aw A, Chen Y, Maas RL, Peters H. Genetic interactions between Pax9 and Msx1 regulate lip development and several stages of tooth morphogenesis. Dev Biol. 2010; 340:438–449."
+"[PubMed: 20123092] Nieuwenhuis MH, Vasen HF. Correlations between mutation site in APC and phenotype of familial adenomatous polyposis (FAP): A review of the literature. Crit Rev Oncol Hematol. 2007;"
+"61:153–161. [PubMed: 17064931] Osborne, JW. Morphognetic gradients: Fields versus clones."
+"In: Butler, PM.; Joysey, KA., editors. Development, function and evolution. Academic Press; London: 1978."
+"p. 171201. Ohazama A, Haycraft CJ, Seppala M, Blackburn J, Ghafoor S, Cobourne M, Martinelli DC, Fan CM, Peterkova R, Lesot H, Yoder BK, Sharpe PT. Primary cilia regulate Shh activity in the control of molar tooth number."
+"Development. 2009; 136:897–903. [PubMed: 19211681] Ohazama A, Johnson EB, Ota MS, Choi HY, Porntaveetus T, Oommen S, Itoh N, Eto K, GritliLinde A, Herz J, Sharpe PT."
+Lrp4 modulates extracellular integration of cell signaling pathways in development. PLoS One. 2008; 3:e4092.
+"[PubMed: 19116665] Okamoto M, Sato C, Kohno Y, Mori T, Iwama T, Tonomura A, Miki Y, Utsunomiya J, Nakamura Y, White R, et al. Molecular nature of chromosome 5q loss in colorectal tumors and desmoids from patients with familial adenomatous polyposis. Hum Genet."
+1990; 85:595–599. [PubMed: 2172153] Ooe T. Epithelial anlagen of human third dentition and their migrations in the mandible and maxilla. Okajimas Folia Anat Jpn. 1969; 46:243–251.
+"[PubMed: 5395639] Orhan AI, Ozer L, Orhan K. Familial occurrence of nonsyndromal multiple supernumerary teeth. A rare condition. Angle Orthod."
+"2006; 76:891–897. [PubMed: 17029528] Oshima M, Oshima H, Kitagawa K, Kobayashi M, Itakura C, Taketo M. Loss of Apc heterozygosity and abnormal tissue building in nascent intestinal polyps in mice carrying a truncated Apc gene. Proc Natl Acad Sci USA. 1995; 92:4482–4486."
+"[PubMed: 7753829] Otto F, Kanegane H, Mundlos S. Mutations in the RUNX2 gene in patients with cleidocranial dysplasia. Hum Mutat. 2002; 19:209–216. [PubMed: 11857736] Otto F, Thornell AP, Crompton T, Denzel A, Gilmour KC, Rosewell IR, Stamp GW, Beddington RS, Mundlos S, Olsen BR, Selby PB, Owen MJ. Cbfa1, a candidate gene for cleidocranial dysplasia syndrome, is essential for osteoblast differentiation and bone development."
+Cell. 1997; 89:765– 771. [PubMed: 9182764]
+"Patchett CL, Crawford PJ, Cameron AC, Stephens CD. The management of supernumerary teeth in childhood—A retrospective study of practice in Bristol Dental Hospital. England and Westmead Dental Hospital, Sydney, Australia."
+"Int J Paediatr Dent. 2001; 11:259–265. [PubMed: 11570441] Peterkova R, Churava S, Lesot H, Rothova M, Prochazka J, Peterka M, Klein OD. Revitalization of a diastemal tooth primordium in Spry2 null mice results from increased proliferation and decreased apoptosis."
+J Exp Zool B Mol Dev Evol B. 2009; 312:292–308. Genesis. Author manuscript; available in PMC 2011 October 6.
+"Wang and Fan Page 19 Peterkova R, Lesot H, Viriot L, Peterka M. The supernumerary cheek tooth in tabby/EDA micea reminiscence of the premolar in mouse ancestors. Arch Oral Biol. 2005; 50:219–225."
+"[PubMed: 15721153] Peterkova R, Peterka M, Viriot L, Lesot H. Development of the vestigial tooth primordia as part of mouse odontogenesis. Connect Tissue Res. 2002; 43:120–128. [PubMed: 12489147]"
+"Phelps RA, Broadbent TJ, Stafforini DM, Jones DA. New perspectives on APC control of cell fate and proliferation in colorectal cancer. Cell Cycle. 2009; 8:2549–2556."
+"[PubMed: 19597346] Pispa J, Mustonen T, Mikkola ML, Kangas AT, Koppinen P, Lukinmaa PL, Jernvall J, Thesleff I. Tooth patterning and enamel formation can be manipulated by misexpression of TNF receptor Edar. Dev Dyn. 2004; 231:432–440. [PubMed: 15366021] Prabhu SR, Daftary DK, Dholakia HM."
+"Chondroectodermal dysplasia (Ellisvan Creveld syndrome): report of two cases. J Oral Surg. 1978; 36:631–637. [PubMed: 277659] Premalatha S, Sarveswari KN, Lahiri K. ReverseNamaskar: a new sign in EhlersDanlos syndrome: A family pedigree study of four generations."
+Indian J Dermatol. 2010; 55:86–91. [PubMed: 20418985] Primosch RE. Anterior supernumerary teeth—Assessment and surgical intervention in children.
+"Pediatr Dent. 1981; 3:204–215. [PubMed: 6945564] Prochazka J, Pantalacci S, Churava S, Rothova M, Lambert A, Lesot H, Klein O, Peterka M, Laudet V, Peterkova R. Patterning by heritage in mouse molar row development. Proc Natl Acad Sci USA. 2010; 107:15497–15502."
+"[PubMed: 20709958] Quack I, Vonderstrass B, Stock M, Aylsworth AS, Becker A, Brueton L, Lee PJ, Majewski F, Mulliken JB, Suri M, Zenker M, Mundlos S, Otto F. Mutation analysis of core binding factor A1 in patients with cleidocranial dysplasia. Am J Hum Genet."
+"1999; 65:1268–1278. [PubMed: 10521292] Rajab LD, Hamdan MA."
+"Supernumerary teeth: Review of the literature and a survey of 152 cases. Int J Paediatr Dent. 2002; 12:244–254. [PubMed: 12121534] Ramaglia L, Morgese F, Filippella M, Colao A. Oral and maxillofacial manifestations of Gardner's syndrome associated with growth hormone deficiency: Case report and literature review."
+Oral Surg Oral Med Oral Pathol Oral Radiol Endod. 2007; 103:e30–34.
+"[PubMed: 17449294] Regattieri LR, Parker JL. Supernumerary teeth associated with FabryAnderson's syndrome. Oral Surg Oral Med Oral Pathol."
+"1973; 35:432–433. [PubMed: 4510614] Rubin MM, Nevins A, Berg M,"
+"Borden B. A comparison of identical twins in relation to three dental anomalies: Multiple supernumerary teeth, juvenile periodontosis, and zero caries incidence. Oral Surg Oral Med Oral Pathol."
+"1981; 52:391–394. [PubMed: 6946362] Ryoo HM, Kang HY, Lee SK, Lee KE, Kim JW. RUNX2 mutations in cleidocranial dysplasia patients."
+Oral This. 2010; 16:55–60. [PubMed: 19744171] Saarenmaa L.
+The origin of supernumerary teeth. Acta Odontol Scand. 1951; 9:293–303.
+"[PubMed: 14877538] SalcidoGarcia JF, LedesmaMontes C, HernandezFlores F, Perez D, GarcesOrtiz M. Frequency of supernumerary teeth in Mexican population. Med Oral Patol Oral Cir Bucal."
+"2004; 9:407–409. 403–406. [PubMed: 15580117] Satokata I, Maas R. Msx1 deficient mice exhibit cleft palate and abnormalities of craniofacial and tooth development."
+"Nat Genet. 1994; 6:348–356. [PubMed: 7914451] SerraSerra G, BeriniAytes L, GayEscoda C. Erupted odontomas: A report of three cases and review of the literature. Med"
+Oral Patol Oral Cir Bucal. 2009; 14:E299–E303. [PubMed: 19300370] Smith JD.
+Hyperdontia: Report of case. J Am Dent Assoc. 1969; 79:1191–1192.
+"[PubMed: 5259147] Smits R, Kartheuser A, JagmohanChangur S, Leblanc V, Breukel C, de Vries A, van Kranen H, van Krieken JH, Williamson S, Edelmann W, Kucherlapati R, Khan Pm, Fodde R. Loss of Apc and the entire chromosome 18 but absence of mutations at the Ras and Tp53 genes in intestinal tumors from Apc1638N, a mouse model for Apcdriven carcinogenesis. Carcinogenesis. 1997; 18:321–327."
+"[PubMed: 9054624] Sondergaard JO, Bulow S, Jarvinen H, Wolf J, Witt IN, Tetens G. Dental anomalies in familial adenomatous polyposis coli. Acta Odontol Scand. 1987; 45:61–63."
+"[PubMed: 3031923] Genesis. Author manuscript; available in PMC 2011 October 6. Wang and Fan Page 20 Stellzig A, Basdra EK, Komposch G. Mesiodentes: Incidence, morphology, etiology."
+J Orofac Orthop. 1997; 58:144–153. [PubMed: 9200890]
+"Suda N, Hamada T, Hattori M, Torii C, Kosaki K, Moriyama K. Diversity of supernumerary tooth formation in siblings with cleidocranial dysplasia having identical mutation in RUNX2: Possible involvement of nongenetic or epigenetic regulation. Orthod Craniofac Res. 2007; 10:222–225. [PubMed: 17973689] Suda N, Hattori M, Kosaki K, Banshodani A, Kozai K, Tanimoto K, Moriyama K. Correlation between genotype and supernumerary tooth formation in cleidocranial dysplasia."
+"Orthod Craniofac Res. 2010; 13:197–202. [PubMed: 21040462] Takeuchi T, Takenoshita Y, Kubo K, Iida M. Natural course of jaw lesions in patients with familial adenomatosis coli (Gardner's syndrome)."
+"Int J Oral Maxillofac Surg. 1993; 22:226–230. [PubMed: 8409564] Talamillo A, Delgado I, Nakamura T, deVega S, Yoshitomi Y, Unda F, Birchmeier W, Yamada Y, Ros MA. Role of Epiprofin, a zincfinger transcription factor, in limb development."
+Dev Biol. 2010; 337:363–374. [PubMed: 19913006] Taylor GS.
+"Characteristics of supernumerary teeth in the primary and permanent dentition. Dent Pract Dent Rec. 1972; 22:203–208. [PubMed: 4506832] Thakker N, Davies R, Horner K, Armstrong J, Clancy T, Guy S, Harris R, Sloan P, Evans G."
+The dental phenotype in familial adenomatous polyposis: diagnostic application of a weighted scoring system for changes on dental panoramic radiographs. J Med Genet. 1995;
+"32:458–464. [PubMed: 7666398] Tozoglu S, Yildirim U, Buyukkurt MC. An erupted complex odontoma."
+"N Y State Dent J. 2010; 76:52–53. [PubMed: 21053644] Tucker AS, Headon DJ, Courtney JM, Overbeek P, Sharpe PT. The activation level of the TNF family receptor."
+"Edar, determines cusp number and tooth number during tooth development. Dev Biol. 2004; 268:185–194."
+"[PubMed: 15031115] Tummers M, Thesleff I. The importance of signal pathway modulation in all aspects of tooth development. J Exp Zool B Mol Dev Evol. 2009; 312B:309–319."
+"[PubMed: 19156667] van Dorp DB, Delleman JW. A family with Xchromosomal recessive congenital cataract, microphthalmia, a peculiar form of the ear and dental anomalies. J Pediatr Ophthalmol Strabismus."
+"1979; 16:166–171. [PubMed: 458526] Vastardis H, Karimbux N, Guthua SW, Seidman JG, Seidman CE."
+A human MSX1 homeodomain missense mutation causes selective tooth agenesis. Nat Genet. 1996; 13:417–421.
+"[PubMed: 8696335] Viriot L, Peterkova R, Peterka M, Lesot H. Evolutionary implications of the occurrence of two vestigial tooth germs during early odontogenesis in the mouse lower jaw. Connect Tissue Res. 2002; 43:129–133. [PubMed: 12489148] Wallis YL, Morton DG, McKeown CM, Macdonald F. Molecular analysis of the APC gene in 205 families: extended genotypephenotype correlations in FAP and evidence for the role of APC amino acid changes in colorectal cancer predisposition."
+"J Med Genet. 1999; 36:14–20. [PubMed: 9950360] Walpole IR, Hockey A, Nicoll A. The NanceHoran syndrome."
+"J Med Genet. 1990; 27:632–634. [PubMed: 2246772] Wang XP, Aberg T, James MJ, Levanon D, Groner Y, Thesleff I. Runx2 (Cbfa1) inhibits Shh signaling in the lower but not upper molars of mouse embryos and prevents the budding of putative successional teeth."
+"J Dent Res. 2005; 84:138–143. [PubMed: 15668330] Wang XP, O'Connell DJ, Lund JJ, Saadi I, Kuraguchi M, TurbeDoan A, Cavallesco R, Kim H, Park PJ, Harada H, Kucherlapati R, Maas RL. Apc inhibition of Wnt signaling regulates supernumerary tooth formation during embryogenesis and throughout adulthood."
+"Development. 2009; 136:1939–1949. [PubMed: 19429790] Wijn MA, Keller JJ, Giardiello FM, Brand HS."
+Oral and maxillofacial manifestations of familial adenomatous polyposis. Oral This. 2007; 13:360–365. [PubMed: 17577321] Winter GB.
+"Hereditary and idiopathic anomalies of tooth number, structure and form. Dent Clin North Am. 1969; 13:355–373. [PubMed: 5251329] Genesis."
+"Author manuscript; available in PMC 2011 October 6.  Wang and Fan Page 21 Witter K, Lesot H, Peterka M, Vonesch JL, Misek I, Peterkova R. Origin and developmental fate of vestigial tooth primordia in the upper diastema of the field vole (Microtus agrestis. Rodentia)."
+"Arch Oral Biol. 2005; 50:401–409. [PubMed: 15748693] Wolf J, Jarvinen HJ, Hietanen J. Gardner's dentomaxillary stigmas in patients with familial adenomatosis coli. Br J Oral Maxillofac Surg. 1986; 24:410–416."
+"[PubMed: 3024698] YagueGarcia J, BeriniAytes L, GayEscoda C. Multiple supernumerary teeth not associated with complex syndromes: A retrospective study. Med"
+Oral Patol Oral Cir Bucal. 2009; 14:E331– E336.
+"[PubMed: 19300360] Yassin OM, Hamori E. Characteristics, clinical features and treatment of supernumerary teeth. J Clin Pediatr Dent. 2009; 33:247–250."
+"[PubMed: 19476099] Yoshida T, Kanegane H, Osato M, Yanagida M, Miyawaki T, Ito Y, Shigesada K. Functional analysis of RUNX2 mutations in Japanese patients with cleidocranial dysplasia demonstrates novel genotypephenotype correlations. Am J Hum Genet. 2002;"
+71:724–738. [PubMed: 12196916] Yusof WZ.
+Nonsyndrome multiple supernumerary teeth: Literature review. J Can Dent Assoc. 1990; 56:147–149.
+"[PubMed: 2407326] Zhang Q, Murcia NS, Chittenden LR, Richards WG, Michaud EJ, Woychik RP, Yoder BK. Loss of the Tg737 protein results in skeletal patterning defects. Dev Dyn. 2003; 227:78–90."
+"[PubMed: 12701101] Zhang Z, Lan Y, Chai Y, Jiang R. Antagonistic actions of Msx1 and Osr2 pattern mammalian teeth into a single row. Science. 2009; 323:1232–1234."
+"[PubMed: 19251632] Zhou G, Chen Y, Zhou L, Thirunavukkarasu K, Hecht J, Chitayat D, Gelb BD, Pirinen S, Berry SA, Greenberg CR, Karsenty G, Lee B. CBFA1 mutation analysis and functional correlation with phenotypic variability in cleidocranial dysplasia. Hum Mol Genet. 1999; 8:2311–2316."
+"[PubMed: 10545612] Zilberman Y, Malron M, Shteyer A. Assessment of 100 children in Jerusalem with supernumerary teeth in the premaxillary region. ASDC J Dent Child. 1992; 59:44–47."
+[PubMed: 1537940] Genesis. Author manuscript; available in PMC 2011 October 6.  Wang and Fan Page 22 FIG.
+1. Panoramic radiograph showing multiple impacted supernumerary teeth in the nineyear-old male with cleidocranial dysplasia. Orthodontic alignment is required to keep sufficient space in the dental arch for further treatment.
+"(Courtesy of Bonnie L. Padwa, DMD, MD, Children's Hospital Boston, Harvard Medical School). Genesis. Author manuscript; available in PMC 2011 October 6. "
+Wang and Fan Page 23 FIG. 2. K14Cre8Brn;Apccko/cko mice exhibit multiple mineralized supernumerary teeth.
+"A, B: 3D reconstruction of MicroCT pictures in P13 mice. Wild type mice (A) have one incisor and three molars in each quadrant of the oral cavity, whereas K14Cre8Brn;Apccko/cko mice (B) exhibit multiple mineralized supernumerary teeth around the incisor and molar teeth. C:"
+"Some of the supernumerary teeth have well differentiated ameloblasts and odontoblasts, and Hertwig's epithelial root sheath starting to form roots (arrows). D, dentin; E, enamel. D:"
+Hematoxylin and eosin staining of supernumerary teeth (asterisk) in K14Cre8Brn;Apccko/cko mice. E: Neurofilament staining shows neural innervations inside the dental pulp and protruding into the dentin tubules of these supernumerary teeth. Genesis.
+Author manuscript; available in PMC 2011 October 6.  Wang and Fan Page 24 Human Syndromes Associated With Supernumerary Teeth Table 1 Syndrome Genetics Gene

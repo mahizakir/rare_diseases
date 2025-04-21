@@ -1,322 +1,108 @@
-"Article Fine Breakpoint Mapping by Genome Sequencing Reveals the First Large X Inversion Disrupting the NHS Gene in a Patient with Syndromic Cataracts, Raluca Oancea Ionescu 3 Alejandra Damián 1,2 María José TrujilloTiebas 1,2, María Carmen CotareloPérez 3 Lorena de la Fuente 1,2,5, Raquel Romero 1,2, Gonzalo NúñezMoreno 1,5 Carmen Ayuso 1,2 and Marta Cortón 1,2,*, Marta Rodríguez de Alba 1,2, Alejandra Tamayo 1,2,, Olga Pérez Rodríguez 4, Cristina Villaverde 1,2,, Pablo Mínguez 1,2,5 1 Department of Genetics & Genomics, Instituto de Investigación SanitariaFundación Jiménez Díaz University Hospital, Universidad Autónoma de Madrid (IISFJD, UAM), 28040 Madrid, Spain; alejandra.damian@quironsalud.es (A.D.); mrodrigueza@fjd.es (M.R.d.A.); alejandra.tamayo@quironsalud.es (A.T.); mjtrujillo@fjd.es (M.J.T.-T); cvillaverde@fjd.es (C.V.); lorena.fuente@quironsalud.es (L.d.l.F.); raquel.romerof@quironsalud.es (R.R.); gonzalo.nunezm@quironsalud.es (G.N.-M);"
-"pablo.minguez@quironsalud.es (P.M.); cayuso@fjd.es (C.A.) 2 Centre for Biomedical Network Research on Rare Diseases (CIBERER), 28290 Madrid, Spain 3 Department of Medical Genetics, University Hospital Clínico San Carlos, 28040 Madrid, Spain; raluca.oancea@salud.madrid.org (R.O.I.); mariacarmen.cotarelo@salud.madrid.org (M.C.C.P.) 4 Department of Pediatrics, University Hospital Clínico San Carlos, 28040 Madrid, Spain; oprodriguez@salud.madrid.org Bioinformatics Unit, Instituto de Investigación SanitariaFundación Jiménez Díaz University Hospital, Universidad Autónoma de Madrid (IISFJD, UAM), 28040, Madrid, Spain * Correspondence: mcorton@fjd.es"
-Abstract: Inversions are structural variants that are generally balanced.
-"However, they could lead to gene disruptions or have positional effects leading to diseases."
-"Mutations in the NHS gene cause NanceHoran syndrome, a Xlinked disorder characterised by congenital cataracts and dental anomalies."
-"Here, we aimed to characterise a balanced pericentric inversion X(p22q27), maternally inherited, in a child with syndromic bilateral cataracts by breakpoint mapping using wholegenome sequencing (WGS)."
-"30× Illumina pairedend WGS was performed in the proband, and breakpoints were conﬁrmed by Sanger sequencing."
-"EdU assays, and FISH analysis were used to assess skewed Xinactivation patterns."
-RNA expression of involved genes in the breakpoint boundaries was evaluated by dropletdigital PCR.
-"We deﬁned the breakpoint position of the inversion at Xp22.13, with a 15 bp deletion, disrupting the unusually large intron 1 of the canonical NHS isoform, and also perturbing topologicallyassociated domains (TADs)."
-"Moreover, a microhomology region of 5 bp was found on both sides."
-"RNA analysis conﬁrmed null and reduced NHS expression in the proband and his unaffected mother, respectively."
-"In conclusion, we report the ﬁrst chromosomal inversion disrupting NHS, ﬁnemapped by WGS."
-Our data expand the clinical spectrum and the pathogenic mechanisms underlying the NHS defects.
-"Keywords: congenital cataract; pericentric X inversion; NHS; NanceHoran syndrome; structural variation (SV); wholegenome sequencing (WGS); chromosomal rearrangement; topologically associated domains (TADs); position effects Citation: Damián, A.; Ionescu, R.O.; Rodríguez de Alba, M.; Tamayo, A.; TrujilloTiebas, M.J.; CotareloPérez, M.C.; Pérez Rodríguez, O.; Villaverde, C.; de la Fuente, L.; Romero, R.; et al."
-Fine Breakpoint Mapping by Genome Sequencing Reveals the First Large X Inversion Disrupting the NHS Gene in a Patient with Syndromic Cataracts.
-Int.
-J. Mol.
-"Sci. 2021, 22, 12713."
-https:// doi.org/10.3390/ijms222312713 Academic Editor:
-Murat Dogru Received:
-29 September 2021 Accepted: 19 November 2021
-Published: 24 November 2021 Publisher’s Note: MDPI stays neutral with regard to jurisdictional claims in published maps and institutional afﬁl- iations.
-Copyright: © 2021 by the authors.
-"Licensee MDPI, Basel, Switzerland."
-This article is an open access article 1.
-Introduction distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https:// creativecommons.org/licenses/by/ 4.0/).
-Chromosomal structural variations (SVs) are a predominant cause of rare diseases.
-"SVs can be deﬁned as genetic changes in the chromosome structure or DNA dosage, typically involving DNA segments that are larger than 1 kb."
-Unbalanced rearrangements such as deletions or duplications are usually referred to as copy number variations (CNVs) Int.
-J. Mol.
-"Sci. 2021, 22, 12713."
-https://doi.org/10.3390/ijms222312713 https://www.mdpi.com/journal/ijms International Journal of Molecular Sciences(cid:1)(cid:2)(cid:3)(cid:1)(cid:4)(cid:5)(cid:6)(cid:7)(cid:8)(cid:1)(cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:7)Int.
-J. Mol.
-"Sci. 2021, 22, 12713 2 of 15 that imply quantity changes in the genomic dosage."
-"Balanced rearrangements such as copynumber neutral insertions, inversions, or reciprocal translocations do not lead to any apparent loss or gain of genetic material."
-"An inversion arises when there are two breaks within the same chromosome, and the central DNA segment between both breaks rejoins in a reverse direction."
-"As a result, the orientation of the genomic fragment is changed."
-"Inversions emerge from different processes of DNA recombination, reparation, or replication."
-These mechanisms often involve loops and crossovers between highly identical inverted genomic repeats at both breakpoint’s sides.
-"Pericentric inversions, whereby the inverted region within both chromosome arms includes the centromere, are the most common cytogenetically visible rearrangements in humans."
-"Frequent pericentric inversions reported in chromosomes 1, 2, 3, 5, 9, 10, and 16 involve only heterochromatic DNA."
-"In particular, a pericentric inversion of chromosome 9 is found with a frequency of 1–2% in the general human population."
-"In general, inversions have been traditionally considered neutral and usually appear to have no apparent phenotypic consequences of from fertility effects due to an increased risk for miscarriages."
-"Excluding these common cytogenetically characterised polymorphisms, current knowledge about the possible clinical consequences of other rare chromosomal inversions has been largely overlooked."
-"However, growing evidence has revealed an underestimated role of inversions in disease development by directly affecting gene expression in different ways."
-Inversion breakpoints can lead to gene disruptions on their linear structure or alter the 3D structure of the implicated regions through positional effects.
-Chromatin folding is organised in the nucleus with a 3D genome structure into topologically associating domains (TADs).
-"Therefore, inversions disrupting TADs might separate genes from their regulatory elements or provide new regulatory sequences in a different regulatory domain, leading to gene deregulations with phenotypic consequences."
-Accurate breakpoint determination is essential to unveil the pathogenic mechanisms underlying balanced inversions in patients with rare developmental diseases.
-"Unfortunately, ﬁnemapping of SVs at singlenucleotide resolution is challenging in routine clinical procedures and, accordingly, is rarely performed."
-"Generally, their detection relies on standard cytogenetics techniques that have several drawbacks."
-Karyotyping is limited to the detection of rearrangements involving more than 5–10 Mb.
-"Fluorescence in situ hybridisation (FISH) could reach higher resolutions of up to 100 kb, but is limited to the targeted probes used."
-"Alternative molecular approaches based on array comparative genome hybridisation (arrayCGH) efﬁciently detect subchromosomal CNVs of around ~20–200 kb, but balanced SVs remain undetectable."
-"The increasing use of exome sequencing to identify causal variants has not improved the characterisation of these balanced SVs due to its inability to detect breakpoints, usually located in noncoding regions."
-"Therefore, the actual contribution of inversions and other balanced SVs as diseasecausing variants is currently underestimated."
-Recent breakthroughs in genomic sequencing raised new approaches to characterise the exact breakpoint positions for SVs at a reasonable cost.
-"Indeed, different studies on large cohorts of patients carrying balanced SVs showed the advantage of conducting shortread wholegenome sequencing (WGS) to detect efficiently chromosomal rearrangements."
-This work aimed to pinpoint a balanced pericentric inversion in chromosome X found in a boy suffering from a syndromic form of congenital cataracts.
-"After his cytogenetic detection, this maternally inherited inversion was initially considered nonpathogenic and noncausal, and other genetic causes were further discarded."
-"Using WGS, we established that this Xinversion transcriptionally disrupts the gene responsible for the NanceHoran syndrome (NHS), a rare Xlinked syndromic disorder mainly characterised by a variable expressivity of congenital cataracts, dental anomalies, and other features."
-"Then, shortread WGS, gene expression, and Xinactivation analysis were applied to decipher the contribution of this X inversion in the phenotypic expression of cataracts and other clinical features in this family. Int."
-J. Mol.
-"Sci. 2021, 22, 12713 3 of 15 2. Results 2.1."
-Clinical Features
-"The index case (II:1, Figure 1a) is a 10year-old male who presented bilateral congenital cataracts at birth."
-He was the ﬁrst child of a healthy nonconsanguineous couple of Colombian ancestry with no familial history of congenital cataracts or other genetic disorders.
-His mother (I:2) was asymptomatic by the time her son was diagnosed with congenital cataracts.
-"In addition, the boy also presented dysmorphic features, developmental motor delay, Chiari malformation, hypercalcemia, ventricular septal defect, and seizures at the ﬁrst year of age."
-"Later on, the boy started to have dental pains at the age of eight."
-"After an orthopantomography (Figure 1b), supernumerary teeth and other dental anomalies were observed in the index case."
-A summary of the clinical features of the patient is shown in Table A1.
-Figure 1. (a) Familiar pedigree of the index case with syndromic bilateral cataracts including dental anomalies and supernumerary teeth in orthopantomography (b).
-"Black boxes denote affected male boy, dotted circle, carrier healthy mother, clear boxes, unaffected father."
-"(c–g) Karyotyping and FISH analysis revealed a large and balanced pericentric inversion X(p22q27) in the index case (d, f) and his mother (e, g)."
-"Xp/Yp, Xq/Yq, and CEP X probe (locus DxZ1) are shown in green, red, and blue, respectively."
-Yellow or black asterisks show the Xinverted chromosome.
-2.2.
-"Genetic Analysis Karyotyping in the index case identiﬁed a balanced pericentric inversion on the X chromosome, 46 Y, inv(X)(p22q27), maternally inherited (Figure 1c–e)."
-This ﬁnding was Int.
-J. Mol.
-"Sci. 2021, 22, 12713 4 of 15 conﬁrmed by ﬂuorescence in situ hybridisation (FISH) (Figure 1f–g)."
-"No gain or loss of genetic material was detected by using a highresolution 180 K array CGH; thus, it was deﬁned as a copynumber neutral inversion."
-"Subsequent analysis of singlenucleotide variants (SNVs) and CNVs was performed by clinical exome sequencing of a 243gene virtual panel associated with ocular developmental diseases (ODDs), which includes 63 genes related to pediatric cataracts."
-No pathogenic variants were found that could explain the patient’s phenotype.
-"The index case was subjected to a pairedend WGS analysis with an average coverage of 30X. As reflected in Figure 2a, a 128 Mb pericentric inversion on Xp22.13q27.3 was correctly called that changes the chromosomal position of the NHS locus, involved in a Xlinked rare syndromic form of congenital cataracts, the NanceHoran syndrome (MIM #302350)."
-Figure 2.
-Fine mapping of the balanced pericentric large inversion Inv (X)(p22.13q27.3) by whole genome sequencing.
-"(a) Integrative Genomics Viewer (IGV) screenshot of the genomic regions containing the proximal JX1 breakpoint at Xp22.13, disrupting the intron 1 of NHS, and the distal JX2 breakpoint at an intergenic region of Xq27.3 of the 128Mb inversion identiﬁed in the index case."
-"Gene, read coverage, and alignment tracks are shown from top to bottom."
-Reads are grouped and coloured by pair orientation.
-Normal leftright (LR) paired reads are coloured in grey.
-Discordant reads with unexpected Int.
-J. Mol.
-"Sci. 2021, 22, 12713 5 of 15 pair orientation indicating a structural variant are coloured in green representing read pairs with leftleft (LL) pair orientation, and in blue, read pairs with rightright (RR) pair orientation."
-A 15bp deletion was identiﬁed in the proximal breakpoint.
-"(b) Schematic representation of the rearrangement on the Xchromosome, ﬁne mapping of breakpoints and disruption of the canonical NHSA isoform by the inversion in JX1."
-"The colour of the chromosome blocks indicates the inverted sequence on the Xp arm (green), and the inverted sequence on the Xq arm (purple)."
-The vertical lines highlight the JX1 and JX2 breakpoint junctions.
-© Fine mapping of breakpoint junctions by Sanger sequencing.
-"The background colours correspond to the scheme shown in (b), deleted 15bp sequence in JX1 is coloured in black, and the 5bp microhomology sequence in JX1 and JX2 is in dark blue."
-The precise position of the breakpoints at the nucleotide level resolution was also ﬁnemapped (Figure 2b–c).
-"The ﬁrst breakpoint at Xp22.13, and hereafter referred to as JX1, was located at chrX:g.17569147, disrupting the NHS gene in the middle of the intron 1 of the main transcriptional isoform NHSA (NM_198270.4) (Figure 2b)."
-"In addition to the inversion, a small deletion of 15 nucleotides at chrX:g.1756912417569141 (hg38) was found in the JX1 junction."
-"The second breakpoint, at Xq27.3, hereafter referred to as JX2, was located at chrX:g.145602476."
-"This breakpoint position does not disrupt any genes, and it is within an intergenic region."
-"Furthermore, Sanger sequencing of the PCRampliﬁed speciﬁc fragment junctions conﬁrmed both breakpoints involving JX1 and JX2 and the 15bp deletion (Figure 2c)."
-Analysis of the nucleotide sequence of both junctions revealed a common region of microhomology of 5 bp TTATA.
-"The index case and her mother were shown to be hemizygous and heterozygous carriers, respectively, for this rearranged SV. 2.3."
-"Correlation Phenotype—Genotype Classical NanceHoran syndrome is a Xlinked disorder, mainly characterised by the association of congenital bilateral cataracts, dental anomalies, and dysmorphic features, as summarised in Table A1."
-This syndrome shows high penetrance but variable expressivity among males and females carrying NHS mutations.
-"In the family under study, a complete presentation of the classical NanceHoran syndrome is found only in the index case, who shows additional minor signs previously reported in this syndrome."
-Our patient has a slight global developmental delay (45% visual disability and 10% cognitive and motor impairment).
-The developmental delay has been reported only in onethird of the male patients suffering from NanceHoran syndrome.
-Congenital cardiac malformations are rarely presented in some NHS patients.
-Our patient also has an unusual presentation of infantile seizures at the ﬁrst year of age.
-We hypothesised if the inversion would inﬂuence the phenotype with a possible transcriptional dysregulation of the NHS gene or other nearby genes.
-"First, using publicly available HiC data from the lymphocyte cell line GM12878, the analysis of the threedimensional (3D)-genome map at both breakpoint junctions, showed the disruption of TADs in the Xp22.13 locus."
-"In this position, the interactions between regulatory elements located on the side of the proximal JX1 breakpoint junction and nearest regions are disrupted (Figure A1)."
-"Here, the NHS gene, which spans 360.5 kb on chromosome Xp22.13, is alternatively spliced in at least described ﬁve isoforms (NHS1A, A–D)."
-"Of them, the NHSA transcript that contains an alternative exon 1 and an unusual large intron 1 of around 30 kb, is disrupted by the distal breakpoint of the X inversion in our patient (Figures 2b and A1)."
-"However, the transcriptional regulation of the other NHS isoforms that are not intersected by the breakpoint, may also be potentially affected due to disruption of TADs."
-"Additionally, CDKL5, a gene associated with developmental and epileptic encephalopathy (MIM #300672), is located ~0.7"
-"Mb apart from the JX1 breakpoint, thus seems a good candidate to contribute to the phenotype of the patient."
-"In the JX2 junction on the locus Xq27.3, the breakpoint has no consequence on regulatory elements (data not shown)."
-"2.4. Transcriptional Analysis To delve into the possibility of transcriptional deregulations caused by the inversion at the JX1 breakpoint, we have assessed the relative mRNA expression in blood of the isoforms NHSA, NHS1A, NHSB, NHSC, and NHSD, as well as the nearby CDKL5 gene for the Int."
-J. Mol.
-"Sci. 2021, 22, 12713 6 of 15 index patient and his mother and compared them with sexmatched healthy controls."
-"Droplet digital PCR (ddPCR)-based gene expression analysis showed null expression normalised ratios of NHS (mean foldchange (FC) = 0.003, pvalue < 0.005) in the index case and a half downregulation in his mother (FC = 0.5, pvalue < 0.005) compared with healthy female and male controls, respectively (Figure 3a)."
-"By contrast, no evidence of differential expression was observed for CDKL5 (Figure 3b)."
-Figure 3.
-Functional characterisation of the inversion.
-"(a, b) Boxplots represent the relative mRNA expression of NHS (a) and CDKL5 (b) in blood for the index case and his mother compared to 3 males and 4 females healthy controls."
-Expression of the housekeeping UB2DE2 gene was used for setting the relative expression.
-The experiment was performed in triplicates.
-Boxplot indicates median values and whiskers range of variation.
-** = p < 0.01 (Wilcoxon test).
-CXX: Female controls; (c–d) Xchromosome inactivation pattern by EdU incorporation assay in CXY: male controls.
-Lymphocyte cultures from the mother.
-Xchromosomes marked in total full green ﬂuorescence reﬂect late replication associated with Xchromosome inactivation (yellow arrows).
-The X chromosome weakly banding labelled in green indicates active Xchromosomes (white arrows).
-Metaphases from the mother show: (c) inactive inverted Xchromosome (InvXi) and active wild type Xchromosome (wtXa) and (d) inactive wild type Xchromosome (wtXi) and active inverted Xchromosome (InvXa).
-Note: Edu incorporation was labelled with Alexa Fluor488 and counterstained with DAPI.
-The Xcentromeres were marked in blue in Cyan blue (CEPX probe) and the Xq telomeres in red (Telvysion Xq/Yq probe).
-2.5.
-"XChromosome Inactivation (XCI) Analysis To further understand the differential expression of the Xinversion, the possible existence of nonrandom patterns of Xchromosome inactivation (XCI) in the mother was investigated."
-"A HUMARA assay, based on analysis of methylated sequences of the Andro- Int."
-J. Mol.
-"Sci. 2021, 22, 12713 7 of 15 gen Receptor genes at Xq11.2, was uninformative due to homozygosity for the short tandem repeats (STRs) analysed."
-We then used an alternative method to detect late replication of inactive Xchromosomes based on the ﬂuorescent EdU (5ethynyl-2(cid:48)-deoxyuridine) incorporation on blood cell cultures.
-"After counting a total of 279 metaphases, we observed a similar XCI pattern for the inverted and the wildtype Xchromosomes: an XCI ratio of 0.58 (162/279) for inactive inverted versus active wildtype Xchromosomes and an XCI ratio of 0.42 (117/279) for inactive wildtype versus active inverted Xchromosomes (Figure 3c)."
-"The conﬁdence interval was between 0.53–0.63, below the upper limit of 0.70, indicating random inactivation and no skewed pattern."
-"Thus, this assay indicated that only 58% of the mother’s blood cells had inactivation of the inverted Xchromosome (Figure 3c–d), so it was considered nonskewed."
-"In brief, both X chromosomes are randomly inactivated, and no skewing is found in the mother."
-3.
-Discussion We present here the ﬁrst large novel X pericentric inversion associated with the disruption of the NHS gene that is causing the NanceHoran syndrome.
-"Balanced SVs, in which no apparent gain or loss of chromatin is involved, are undetected by the most molecular approaches that are now widely implemented in routine genetic diagnosis."
-"Exome sequencing only targets exons; thus, 99% of genomic regions remain unscreened."
-"ArrayCGH only detects CNVs using targeted approaches; thus, balanced SVs cannot be resolved."
-"In addition, when identiﬁed through classical Gbanded chromosome analysis, balanced inversions are traditionally considered likely benign, therefore dismissed as disease causes."
-"With the advent of WGS approaches, there is increasing evidence that some SVs can cause disease phenotypes due to gene disruption, cryptic copynumber imbalance, or gene dysregulation by positional effects."
-"Pairedend WGS mapping of SVs using the algorithm of readpair orientation has been efﬁciently used in detecting breakpoints in highly repetitive regions such as centromeric regions, segmental duplications, and short arms."
-"Using this strategy, we successfully identiﬁed breakpoints at a basepair resolution of a large balanced inversion, ﬁrst characterised as inv(X)(p22q27) in a male patient suffering from a syndromic form of congenital cataracts; thus, providing a more precise clinical interpretation for this SVs."
-"Breakpoint positions were efﬁciently detected, corresponding to a simple inversion rearrangement with two chromosome arms breaks."
-Several mechanisms could be involved in creating chromosomal inversions as nonallelic homologous recombination (NAHR).
-"However, they can also be originated by nonhomologous end joining (NHEJ) or replicationbased mechanisms mediated by microhomology, such as fork stalling and template switching (FoSTeS), and microhomologymediated breakinduced replication (MMBIR)."
-"At the junctions of the two genomic segments that contributed to the X inversion, a sequence of microhomology of ﬁve identical nucleotides, TTATA, and a small deletion of 15 nucleotides in the proximal breakpoint was found."
-This pattern of microhomology with deletions of >10 nucleotides is highly indicative of the implication of MMBIR as the mechanism responsible for the formation of this inversion.
-Only the proximal breakpoint disrupting the NHS gene seemed to contribute to the patient’s phenotype.
-"This junction lies on the NHSA RNA isoform, where exon 1 is taken apart for the rest of the 3(cid:48) NHSassociated exons."
-NHSA is considered the main responsible for the pathogenesis.
-"Also, this particularly large alternative intron 1 of 30 kb seemed to be part of the regulatory machinery of NHS."
-"Inversions and other SVs can also disrupt TADs on the 3D chromatin, which are more prone to interact with each other."
-The disruption of TAD boundary integrity can contribute to the transcriptional dysregulation of nearby genes.
-"Our analysis also revealed that the inversion could disrupt the integrity of TADs and regulatory elements located on the proximal JX1 junction, potentially affecting the gene regulation of NHS and other genes."
-"The NHS gene, highly conserved across vertebrate Int."
-J. Mol.
-"Sci. 2021, 22, 12713 8 of 15 species, regulates actin remodeling and cell morphology during development in the midbrain, retina, lens and tooth."
-Previous studies have shown that this ubiquitously expressed gene is completely absent in the blood samples of NanceHoran patients.
-"Gene expression assays conﬁrmed the total lack of expression for the major isoform NHSA in the boy, supporting a loss of NHS function caused by the Xinversion here described."
-"Besides, alternative NHS B–D transcripts, harbouring an alternative exon/intron1, were silenced in the hemizygous patient, although these isoforms remain intact in the inverted segment."
-"Thus, notyet-deﬁned regulatory transcriptional elements located in the large intron 1 of the NHS gene seem necessary for expressing the three alternative isoforms NHS B–D. Therefore, our ﬁndings support the hypothesis that positional effects are seemingly involved in the pathogenesis of this inversion through the physical separation of regulatory elements of the NHS gene."
-"NanceHoran syndrome is a rare Xlinked disorder whose prevalence remains unknown, as no more than 50 families have been reported to date."
-"The mutational database HGMD (last accession on 31 July 2021) has described 73 NHS mutations, mainly lossof-function variants and CNVs: 20 nonsense, 8 missense, four splicing mutations, one regulatory variant, and 38 small and gross indels."
-"Nevertheless, few complex rearrangements involving the NHS locus have also been described, including intragenic chromosomal rearrangements and a balanced translocation X;1 that disrupts NHS."
-"Clinical ﬁndings described in our patient were bilateral cataracts, dental anomalies, dysmorphic features, and developmental delay, typically present in the classical Nance Horan phenotype."
-"However, some grades of variable expressivity have been reported for other uncommon symptoms only reported in a few patients (Table A1)."
-"Signiﬁcant variability in terms of intellectual disability has been described, which suggests a possible modulation effect of other genetic factors."
-"Our patienthas a developmental delay and other very infrequent features for this syndrome, such as cardiac anomalies and an unusual presentation of seizures."
-Other patients with contiguous gene deletions affecting the NHS gene also present atypical NanceHoran syndrome.
-"Moreover, the implication of a possible role of ﬂanking genes on NHS expressivity in patients with CNVs has been also speculated."
-"For instance, a hemizygous de novo 2.8Mb microdeletion Xp22.2–Xp22.13 was described, including the CDKL5 and NHS genes, both contributing to the associated phenotypic presentation of severe encephalopathy, congenital cataracts, and tetralogy of Fallot in a 10month-old boy."
-"To delve deeper into the potential role of the ﬂanking genes of the Xinversion breakpoints that could be transcriptionally modulated by positional effects, gene expression analysis was carried out."
-"This analysis was critical to clarify the potential contribution of the nearby gene CDKL5, which is the main responsible for atypical Rett syndrome with earlyonset seizures."
-"A positional effect also potentially leading to CDKL5 deregulation, was thought to explain the atypical neurological features observed in our patient."
-"However, the CDKL5 expression in blood was similar in both carriers of this X inversion compared with a sexmatched control group, which seems to discard its implication in the phenotypic presentation of our patient."
-We assessed other potential contributors to the patient phenotype on both proximal and distal breakpoints.
-"However, the potential effect on the phenotype of other nearby genes to the breakpoints, is even less evident."
-None of them has been associated with a human phenotype or OMIM disease.
-"On Xp22.13, SCLM1 is likely involved in spermatogenesis, with a potential role in azoospermia, SCLM2 seem to participate in embryonic development and RAI2 is a retinoic acidinduced gene that may play a role in cardiogenesis, for which a potential implication on cardiac anomalies in NanceHoran syndrome has been previously speculated."
-"On Xq27.3, the breakpoint is situated in an intergenic region between SPANXN1 and SLITRK2, around 350 kb and 220 kb away from the junction, respectively."
-SPANXN1 play a role in spermiogenesis and SLITRK2 may modulate neurite activity.
-"In addition, the gene expression of all these potentially affected genes could not be assessed in our patient because preliminary Int."
-J. Mol.
-"Sci. 2021, 22, 12713 9 of 15 analysis showed very low or no levels in blood."
-"Therefore, the contribution of these genes to our patient’s phenotype remains unclear."
-Variable disease expressivity in female carriers has been reported in Xlinked disorders such as the NanceHoran syndrome.
-"Usually, this is caused by skewed inactivation of an X chromosome carrying SVs or other genetic defects."
-X chromosome inactivation usually occurs randomly in each female cell to turn off one of the two copies of the X chromosome.
-Preferential inactivation of the aberrant X chromosome generally impairs the phenotypic expression.
-"This syndrome is fully expressed in males, although heterozygous carrier females may develop certain features, usually milder cataracts in their 40s."
-"In the family here presented, the mother did neither present congenital cataracts nor additional symptoms."
-"However, after the diagnosis of NanceHoran syndrome in her son, a recent ophthalmic revision in the 3rd decade of life showed subclinical light lens opacities."
-"To investigate if the phenotypic variability in this family could be related to any X chromosome’s skewed inactivation, the X inactivation patterns were measured in the carrier mother."
-The traditional HUMARA method for XCI analysis was not informative due to the homozygosity of the studied STRs in this locus.
-"Thus, an alternative strategy for XCI was performed based on the EdU incorporation into proliferating cells."
-"Since EdU is a labelled nucleoside analogue of thymidine, its incorporation during DNA synthesis can reveal replicationassociated active and inactive regions on the X chromosomes."
-This assay showed random XCI in the carrier mother in blood with no differences of inactivation in the inverted and the wildtype X chromosome.
-"Considering all the data, the observed random inactivation of one X chromosome in the carrier mother could explain the half downregulation of the transcriptional NHS levels."
-"To conclude, in this work, we describe the ﬁrst large balanced pericentric inversion inv(X)(p22.13q27.3) as the cause of syndromic cataracts in a boy with an overlapping presentation of classical NanceHoran syndrome."
-"First, short pairedend WGS allowed us to efﬁciently characterise the breakpoint junctions at a nucleotide level, revealing the disruption of the linear structure of the main NHS isoform in an alternative intron 1."
-"Moreover, the genomic 3D structure of the NHS gene is also altered, implicating TADs and potential regulatory elements."
-Further expression analysis conﬁrmed the complete lack of NHS expression.
-"Therefore, a positional effect seems also to be involved in the pathogenesis of the NanceHoran syndrome through silencing other NHS transcripts whose coding regions are not affected by the inverted sequences."
-"Thus, our ﬁndings expand the mutational mechanisms and phenotypic spectrum underlying this syndrome."
-"Finally, this work points out the importance of breakpoint ﬁnemapping of copynumber neutral rearrangements to improve diagnostic yield in undiagnosed Mendelian disorders."
-4. Materials and Methods 4.1.
-"Cytogenetic Analysis Karyotyping and FISH analysis were performed on the boy and his mother using commercial FISH probes (CEPX & Telvysion Xp/Yp, Xq/Yq, Abbott Molecular, Des Plaines, IL, USA) following standard procedures."
-"A 5ethynyl-2(cid:48)-deoxyuridine (Edu) incorporation assay was designed to assess the Xinactivation pattern (ClickiT™ EdU Cell Proliferation Kit for Imaging, Alexa Fluor™ 488 dye, Invitrogen, Waltham, MA, USA)."
-"Lymphocytes from heparinised peripheral blood were ﬁrst treated with 10 µM EdU for a total of 4 h at 37 ◦C, and then, incubated with 0.1ml of ColcemidTM (Gibco, Waltham, MA, USA) for 90 min, at 37 ◦C, followed by 0.56% KCl treatment for 8 min, at 37 ◦C, and ﬁnally treated with Carnoy ﬁxative (3:1 methanol: acetic acid)."
-EdUtreated chromosomes were dropped onto clean glass slides.
-"According to the manufacturer’s protocol, the FISH assay was performed using CEPX & Telvysion Xq/Yq probes (Abbott Molecular)."
-The slides were denatured at 73 ◦C for 5 min and incubated at 37 ◦C for 24 h. EdU incorporation was detected by a coppercatalysed reaction between the alkyne group of EdU and the azide group of Alexa Fluor® 488 dye.
-"Finally, the chromosomes were counterstained with DAPI (Abbott Molecular)."
-The metaphases were Int.
-J. Mol.
-"Sci. 2021, 22, 12713 10 of 15 analysed under an ﬂuorescence microscope, and images were captured using the ISIS program (MetaSystems Hard & Software, Altlussheim, Germany)."
-A total of 200 metaphases were analysed.
-Statistical analysis was performed to assess the ratio of X inactivation.
-4.2.
-Molecular Analysis Genomic DNA was isolated from whole peripheral blood using an automated DNA extractor.
-"ArrayCGH was performed using a previously custom design to target 150 ODDrelated genes (SurePrint G3 4 × 180 k CGH array, Agilent Technologies, Santa Clara, CA, USA), including 19,165 probes for the X chromosome."
-ArrayCGH was analysed using the Agilent CytoGenomics software v.2.7 with default analysis methods.
-"For clinical exome sequencing, coding exons of 4813 known genes associated with inherited diseases were captured using the commercial TruSightOne Sequencing Panel kit (Illumina, San Diego, CA, USA)."
-Pairedend (2 × 150) libraries were sequenced in an Illumina NextSeq500 platform.
-"Bioinformatic analyses were performed using the Illumina BaseSpace and Variant Studio software, respectively."
-"Variants were prioritised by a subpanel of 143 ODDs genes, including 63 cataractassociated genes."
-"For WGS, the library was prepared from 1 µg of genomic DNA using the NEB Next®"
-"Ultra™ DNA Library Prep Kit (New England Biolab, Ipswich, MA, USA) and sequenced by pairedend (2 × 150 bp) in an Illumina Novaseq6000 platform at 30× coverage."
-Raw sequencing reads were aligned to the GRCh38/hg38 assembly using the BWAv0.7.15 with default parameters.
-Split reads at the potential proximal Xp22 and distal Xq27 breakpoints junctions of the inversion were visualised on the genome reference using the Integrative Genomics Viewer (IGV) to identify discordant pairedreads with unexpected pair orientation.
-"The sequences ﬂanking the exact breakpoints were compared for similarities to each other and to repeat elements using UCSC BLAT and RepeatMasker, respectively."
-"TADs that could be potentially disrupted on the inversion boundaries were searched on previous HiC data (GM12878 cells Rao_2014_raw), available on 3D Genome Browser (http://3dgenome.fsm.northwestern.edu/view.php; last accession on 25 May 2021) using GeneHancer Regulatory Elements and ENCODE Gene Interactions and Integrated Regulation tracks."
-Breakpoint junctions were validated by PCR and subsequently by Sanger sequencing using speciﬁc ﬂanking primers for the proximal JX1 junction on Xp22.13 and the distal JX2 on Xq27.3 (Table A2).
-4.3.
-"RNA Expression Analysis Total RNA from whole peripheral blood of the index patient, his mother, and seven healthy controls (four females and three males) was isolated with the NucleoSpin RNA Blood kit (MachereyNagel, Allentown, PA, USA)."
-"RTPCR was conducted using random primers with the SuperScript™ IV Reverse Transcriptase (Invitrogen) to synthesise fulllength cDNA. cDNA was ﬂuorometrically quantiﬁed in a Qubit™ Flex Fluorometer with the dsDNA HS Assay Kit (Thermo Fisher Scientific, Waltham, MA, USA)."
-"Relative expression analysis was performed in triplicate by ddPCR using the QX200 ddPCR EvaGreen® Supermix (BioRad, Hercules, CA, USA) according to manufacturer’s protocol, and speciﬁc primers (Table A2) for NHS, CDKL5 and four endogenous gene housekeeping controls (GAPDH, RPS18, UB2DE2, and ACTB)."
-"Following droplet generation using Oil for EvaGreen® into the QX200 Droplet Generator, emulsion PCR was ampliﬁed on a C1000 Touch Thermal Cycler (BioRad) under the following conditions: 95 ◦C for 10 min, 40 cycles of PCR at 94 ◦C for 30 s, and 57 ◦C for 1 min, and a ﬁnal step at 98 ◦C for 10 min. ddPCR data were analysed with the Quantasoft v1.7.4 software (BioRad) using absolute quantiﬁcation settings."
-"Ratios of the absolute quantity of cDNA per sample (expressed as copies/µL) were normalised using the two more homogeneous housekeeping genes, RPS18 and UB2DE2, between all samples."
-The nonparametric Wilcoxon signedrank test was used to assess the statistical signiﬁcance between different ratios of the groups. 
-Int.
-J. Mol.
-"Sci. 2021, 22, 12713 11 of 15 Author Contributions: Conceptualisation, A.D. and M.C.; Methodology, A.D., M.R.d.A., R.O.I., O.P.R., C.V., R.O.I. and M.C.C.-P.; Software, L.d.l.F., R.R. and G.N.-M.; Validation, A.D., A.T. and M.R.d.A.; Formal Analysis, A.D., M.R.d.A., M.J.T.-T., L.d.l.F., R.R., G.N.-M. And M.C.; Investigation, A.D. and M.C.; Resources, C.A., P.M. and M.C.; Writing—original draft, A.D. and M.C.; Writing— review & editing, all authors; Visualisation, A.D., M.R.d.A., L.d.l.F., R.R. and G.N.-M.; project administration: M.C.; Supervision: P.M. and M.C.; Funding acquisition: M.C."
-All authors have read and agreed to the published version of the manuscript.
-Funding:
-"This research was funded by the Instituto de Salud Carlos III (ISCIII) of the Spanish Ministry of Health (FIS; PI17/00164 and PI20/00851), Centro de Investigación Biomédica en Red en Enfermedades Raras (CIBERER, 06/07/0036), IISFJD BioBank (PT20/00141), Comunidad de Madrid (CAM, RAREGenomics Project, B2017/BMD3721), Ramón Areces Foundation, ONCE and the University Chair UAMIIS-FJD of Genomic Medicine."
-"A.D. is supported by a PhD fellowship from ISCIII (FI18/00123), L.d."
-"F was supported by ISCIII (CA18/00017), R.R. is supported by a postdoctoral fellowship of the Comunidad de Madrid (2019T2/BMD13714) and G.N.-M. By a contract of the Comunidad de Madrid (PEJ2020-AI/BMD18610)."
-"P.M. and M.C. are supported by a Miguel Servet program contract from ISCIII (CP16/00116 and CPII17/00006, respectively)."
-"Institutional Review Board Statement: The study was conducted according to the guidelines of the Declaration of Helsinki and approved by the Ethics Research Committee of the University Hospital Fundación Jimenez Díaz (PICO15_18_FJD, approved on 31 January 2018)."
-Informed Consent Statement: Written informed consent was obtained from all participants or their legal guardians to participate and publish the clinical data and images.
-Data Availability Statement: All data relevant to the study are included in the article.
-Acknowledgments: The authors want to thank the participants for consenting to use their data for the study.
-"We thank Ignacio Mahillo for statistical support, Francisco Martínez for structural variants advice and technicians of the Genetics Department of FJD for their technical support in cytogenetics and clinical exome sequencing protocols and Sara Arias and Almudena Bretón for graphic illustration support."
-Conﬂicts of Interest: The authors declare no conﬂict of interest.
-Appendix A Figure A1.
-Cont. 
-Int.
-J. Mol.
-"Sci. 2021, 22, 12713 12 of 15 Figure A1."
-Threedimensional (3D)-genome map at the Xp22.13.
-Public HiC data from a BLymphocyte cell line (GM12878) was used.
-"Breakpoint disrupts TADs boundaries, and gene interactions between regulatory elements on the NHS gene (in blue box)."
-Table A1.
-Clinical features of the index case correlated to mayor and minor signs of the NanceHoran syndrome.
-Clinical Symptoms Index Case Mayor signs in 80–99% of NHS patients Cataract Long face Mandibular prognathia Microcornea Nystagmus Prominent nasal bridge Prominent nose Visual loss Increased number of teeth Intellectual disability Protruding ear Short metacarpal Strabismus Behavioral abnormality Glaucoma Microphthalmia Retinal detachment Signs in 30–79% of NHS patients
-Yes
-No
-Yes
-Yes
-Yes
-Yes
-Yes
-Yes
-Yes
-Yes
-Yes
-No
-Yes
-No
-No
-"No, No Int."
-J. Mol.
-"Sci. 2021, 22, 12713 13 of 15 Clinical Symptoms Intellectual disability, moderate Mulberry molar Screwdrivershaped incisors Table A1."
-Cont.
-Minor signs in < 4% of NHS patients Additional minor symptoms Autism Broad ﬁnger Developmental cataract Diastema Macrotia Narrow face Posterior Ysutural cataract Short phalanx of ﬁnger Supernumerary maxillary incisor Xlinked dominant inheritance Abnormal heart morphology Abnormality of the urogenital system Seizures Index Case
-Yes Unknown
-"No, No"
-No
-Yes
-No
-Yes No Unknown
-No
-Yes
-Yes
-Yes
-"Yes, Yes Primers JX1_DNA_F JX1_DNA_R JX2_DNA_F JX2_DNA_R NHS_RNA_F NHS_RNA_R CDKL5_RNA_F CDKL5_RNA_R GAPDH_RNA_F GAPDH_RNA_R RPS18_RNA_F RPS18_RNA_R ACTB_RNA_F ACTB_RNA_R UBE2D2_RNA_F UBE2D2_RNA_R Table A2."
-PCR and RTPCR primers.
-Gene Exons Size (BP) Sequence (5(cid:48)–3(cid:48))
+"Article Fine Breakpoint Mapping by Genome Sequencing Reveals the First Large X Inversion Disrupting the NHS Gene in a Patient with Syndromic Cataracts, Raluca Oancea Ionescu 3 Alejandra Damián 1,2 María José TrujilloTiebas 1,2, María Carmen CotareloPérez 3 Lorena de la Fuente 1,2,5, Raquel Romero 1,2, Gonzalo NúñezMoreno 1,5 Carmen Ayuso 1,2 and Marta Cortón 1,2,*, Marta Rodríguez de Alba 1,2, Alejandra Tamayo 1,2,, Olga Pérez Rodríguez 4, Cristina Villaverde 1,2,, Pablo Mínguez 1,2,5 1 Department of Genetics & Genomics, Instituto de Investigación SanitariaFundación Jiménez Díaz University Hospital, Universidad Autónoma de Madrid (IISFJD, UAM), 28040 Madrid, Spain; alejandra.damian@quironsalud.es (A.D.); mrodrigueza@fjd.es (M.R.d.A.); alejandra.tamayo@quironsalud.es (A.T.); mjtrujillo@fjd.es (M.J.T.-T); cvillaverde@fjd.es (C.V.); lorena.fuente@quironsalud.es (L.d.l.F.); raquel.romerof@quironsalud.es (R.R.); gonzalo.nunezm@quironsalud.es (G.N.-M); pablo.minguez@quironsalud.es (P.M.); cayuso@fjd.es (C.A.) 2 Centre for Biomedical Network Research on Rare Diseases (CIBERER), 28290 Madrid, Spain 3 Department of Medical Genetics, University Hospital Clínico San Carlos, 28040 Madrid, Spain; raluca.oancea@salud.madrid.org (R.O.I.); mariacarmen.cotarelo@salud.madrid.org (M.C.C.P.) 4 Department of Pediatrics, University Hospital Clínico San Carlos, 28040 Madrid, Spain; oprodriguez@salud.madrid.org Bioinformatics Unit, Instituto de Investigación SanitariaFundación Jiménez Díaz University Hospital, Universidad Autónoma de Madrid (IISFJD, UAM), 28040, Madrid, Spain * Correspondence: mcorton@fjd.es Abstract: Inversions are structural variants that are generally balanced."
+"However, they could lead to gene disruptions or have positional effects leading to diseases. Mutations in the NHS gene cause NanceHoran syndrome, a Xlinked disorder characterised by congenital cataracts and dental anomalies. Here, we aimed to characterise a balanced pericentric inversion X(p22q27), maternally inherited, in a child with syndromic bilateral cataracts by breakpoint mapping using wholegenome sequencing (WGS)."
+"30× Illumina pairedend WGS was performed in the proband, and breakpoints were conﬁrmed by Sanger sequencing. EdU assays, and FISH analysis were used to assess skewed Xinactivation patterns. RNA expression of involved genes in the breakpoint boundaries was evaluated by dropletdigital PCR."
+"We deﬁned the breakpoint position of the inversion at Xp22.13, with a 15 bp deletion, disrupting the unusually large intron 1 of the canonical NHS isoform, and also perturbing topologicallyassociated domains (TADs). Moreover, a microhomology region of 5 bp was found on both sides. RNA analysis conﬁrmed null and reduced NHS expression in the proband and his unaffected mother, respectively."
+"In conclusion, we report the ﬁrst chromosomal inversion disrupting NHS, ﬁnemapped by WGS. Our data expand the clinical spectrum and the pathogenic mechanisms underlying the NHS defects. Keywords: congenital cataract; pericentric X inversion; NHS; NanceHoran syndrome; structural variation (SV); wholegenome sequencing (WGS); chromosomal rearrangement; topologically associated domains (TADs); position effects Citation: Damián, A.; Ionescu, R.O.; Rodríguez de Alba, M.; Tamayo, A.; TrujilloTiebas, M.J.; CotareloPérez, M.C.; Pérez Rodríguez, O.; Villaverde, C.; de la Fuente, L.; Romero, R.; et al."
+Fine Breakpoint Mapping by Genome Sequencing Reveals the First Large X Inversion Disrupting the NHS Gene in a Patient with Syndromic Cataracts. Int. J. Mol.
+"Sci. 2021, 22, 12713. https:// doi.org/10.3390/ijms222312713 Academic Editor: Murat Dogru Received:"
+29 September 2021 Accepted: 19 November 2021 Published: 24 November 2021 Publisher’s Note: MDPI stays neutral with regard to jurisdictional claims in published maps and institutional afﬁl- iations. Copyright: © 2021 by the authors.
+"Licensee MDPI, Basel, Switzerland. This article is an open access article 1. Introduction distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https:// creativecommons.org/licenses/by/ 4.0/)."
+"Chromosomal structural variations (SVs) are a predominant cause of rare diseases. SVs can be deﬁned as genetic changes in the chromosome structure or DNA dosage, typically involving DNA segments that are larger than 1 kb. Unbalanced rearrangements such as deletions or duplications are usually referred to as copy number variations (CNVs) Int."
+"J. Mol. Sci. 2021, 22, 12713. https://doi.org/10.3390/ijms222312713 https://www.mdpi.com/journal/ijms International Journal of Molecular Sciences(cid:1)(cid:2)(cid:3)(cid:1)(cid:4)(cid:5)(cid:6)(cid:7)(cid:8)(cid:1)(cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:7)Int."
+"J. Mol. Sci. 2021, 22, 12713 2 of 15 that imply quantity changes in the genomic dosage. Balanced rearrangements such as copynumber neutral insertions, inversions, or reciprocal translocations do not lead to any apparent loss or gain of genetic material."
+"An inversion arises when there are two breaks within the same chromosome, and the central DNA segment between both breaks rejoins in a reverse direction. As a result, the orientation of the genomic fragment is changed. Inversions emerge from different processes of DNA recombination, reparation, or replication."
+"These mechanisms often involve loops and crossovers between highly identical inverted genomic repeats at both breakpoint’s sides. Pericentric inversions, whereby the inverted region within both chromosome arms includes the centromere, are the most common cytogenetically visible rearrangements in humans. Frequent pericentric inversions reported in chromosomes 1, 2, 3, 5, 9, 10, and 16 involve only heterochromatic DNA."
+"In particular, a pericentric inversion of chromosome 9 is found with a frequency of 1–2% in the general human population. In general, inversions have been traditionally considered neutral and usually appear to have no apparent phenotypic consequences of from fertility effects due to an increased risk for miscarriages. Excluding these common cytogenetically characterised polymorphisms, current knowledge about the possible clinical consequences of other rare chromosomal inversions has been largely overlooked."
+"However, growing evidence has revealed an underestimated role of inversions in disease development by directly affecting gene expression in different ways. Inversion breakpoints can lead to gene disruptions on their linear structure or alter the 3D structure of the implicated regions through positional effects. Chromatin folding is organised in the nucleus with a 3D genome structure into topologically associating domains (TADs)."
+"Therefore, inversions disrupting TADs might separate genes from their regulatory elements or provide new regulatory sequences in a different regulatory domain, leading to gene deregulations with phenotypic consequences. Accurate breakpoint determination is essential to unveil the pathogenic mechanisms underlying balanced inversions in patients with rare developmental diseases. Unfortunately, ﬁnemapping of SVs at singlenucleotide resolution is challenging in routine clinical procedures and, accordingly, is rarely performed."
+"Generally, their detection relies on standard cytogenetics techniques that have several drawbacks. Karyotyping is limited to the detection of rearrangements involving more than 5–10 Mb. Fluorescence in situ hybridisation (FISH) could reach higher resolutions of up to 100 kb, but is limited to the targeted probes used."
+"Alternative molecular approaches based on array comparative genome hybridisation (arrayCGH) efﬁciently detect subchromosomal CNVs of around ~20–200 kb, but balanced SVs remain undetectable. The increasing use of exome sequencing to identify causal variants has not improved the characterisation of these balanced SVs due to its inability to detect breakpoints, usually located in noncoding regions. Therefore, the actual contribution of inversions and other balanced SVs as diseasecausing variants is currently underestimated."
+"Recent breakthroughs in genomic sequencing raised new approaches to characterise the exact breakpoint positions for SVs at a reasonable cost. Indeed, different studies on large cohorts of patients carrying balanced SVs showed the advantage of conducting shortread wholegenome sequencing (WGS) to detect efficiently chromosomal rearrangements. This work aimed to pinpoint a balanced pericentric inversion in chromosome X found in a boy suffering from a syndromic form of congenital cataracts."
+"After his cytogenetic detection, this maternally inherited inversion was initially considered nonpathogenic and noncausal, and other genetic causes were further discarded. Using WGS, we established that this Xinversion transcriptionally disrupts the gene responsible for the NanceHoran syndrome (NHS), a rare Xlinked syndromic disorder mainly characterised by a variable expressivity of congenital cataracts, dental anomalies, and other features. Then, shortread WGS, gene expression, and Xinactivation analysis were applied to decipher the contribution of this X inversion in the phenotypic expression of cataracts and other clinical features in this family. Int."
+"J. Mol. Sci. 2021, 22, 12713 3 of 15 2. Results 2.1. Clinical Features"
+"The index case (II:1, Figure 1a) is a 10year-old male who presented bilateral congenital cataracts at birth. He was the ﬁrst child of a healthy nonconsanguineous couple of Colombian ancestry with no familial history of congenital cataracts or other genetic disorders. His mother (I:2) was asymptomatic by the time her son was diagnosed with congenital cataracts."
+"In addition, the boy also presented dysmorphic features, developmental motor delay, Chiari malformation, hypercalcemia, ventricular septal defect, and seizures at the ﬁrst year of age. Later on, the boy started to have dental pains at the age of eight. After an orthopantomography (Figure 1b), supernumerary teeth and other dental anomalies were observed in the index case."
+"A summary of the clinical features of the patient is shown in Table A1. Figure 1. (a) Familiar pedigree of the index case with syndromic bilateral cataracts including dental anomalies and supernumerary teeth in orthopantomography (b). Black boxes denote affected male boy, dotted circle, carrier healthy mother, clear boxes, unaffected father."
+"(c–g) Karyotyping and FISH analysis revealed a large and balanced pericentric inversion X(p22q27) in the index case (d, f) and his mother (e, g). Xp/Yp, Xq/Yq, and CEP X probe (locus DxZ1) are shown in green, red, and blue, respectively. Yellow or black asterisks show the Xinverted chromosome."
+"2.2. Genetic Analysis Karyotyping in the index case identiﬁed a balanced pericentric inversion on the X chromosome, 46 Y, inv(X)(p22q27), maternally inherited (Figure 1c–e). This ﬁnding was Int."
+"J. Mol. Sci. 2021, 22, 12713 4 of 15 conﬁrmed by ﬂuorescence in situ hybridisation (FISH) (Figure 1f–g). No gain or loss of genetic material was detected by using a highresolution 180 K array CGH; thus, it was deﬁned as a copynumber neutral inversion."
+"Subsequent analysis of singlenucleotide variants (SNVs) and CNVs was performed by clinical exome sequencing of a 243gene virtual panel associated with ocular developmental diseases (ODDs), which includes 63 genes related to pediatric cataracts. No pathogenic variants were found that could explain the patient’s phenotype. The index case was subjected to a pairedend WGS analysis with an average coverage of 30X. As reflected in Figure 2a, a 128 Mb pericentric inversion on Xp22.13q27.3 was correctly called that changes the chromosomal position of the NHS locus, involved in a Xlinked rare syndromic form of congenital cataracts, the NanceHoran syndrome (MIM #302350)."
+"Figure 2. Fine mapping of the balanced pericentric large inversion Inv (X)(p22.13q27.3) by whole genome sequencing. (a) Integrative Genomics Viewer (IGV) screenshot of the genomic regions containing the proximal JX1 breakpoint at Xp22.13, disrupting the intron 1 of NHS, and the distal JX2 breakpoint at an intergenic region of Xq27.3 of the 128Mb inversion identiﬁed in the index case."
+"Gene, read coverage, and alignment tracks are shown from top to bottom. Reads are grouped and coloured by pair orientation. Normal leftright (LR) paired reads are coloured in grey."
+"Discordant reads with unexpected Int. J. Mol. Sci. 2021, 22, 12713 5 of 15 pair orientation indicating a structural variant are coloured in green representing read pairs with leftleft (LL) pair orientation, and in blue, read pairs with rightright (RR) pair orientation."
+"A 15bp deletion was identiﬁed in the proximal breakpoint. (b) Schematic representation of the rearrangement on the Xchromosome, ﬁne mapping of breakpoints and disruption of the canonical NHSA isoform by the inversion in JX1. The colour of the chromosome blocks indicates the inverted sequence on the Xp arm (green), and the inverted sequence on the Xq arm (purple)."
+"The vertical lines highlight the JX1 and JX2 breakpoint junctions. © Fine mapping of breakpoint junctions by Sanger sequencing. The background colours correspond to the scheme shown in (b), deleted 15bp sequence in JX1 is coloured in black, and the 5bp microhomology sequence in JX1 and JX2 is in dark blue."
+"The precise position of the breakpoints at the nucleotide level resolution was also ﬁnemapped (Figure 2b–c). The ﬁrst breakpoint at Xp22.13, and hereafter referred to as JX1, was located at chrX:g.17569147, disrupting the NHS gene in the middle of the intron 1 of the main transcriptional isoform NHSA (NM_198270.4) (Figure 2b). In addition to the inversion, a small deletion of 15 nucleotides at chrX:g.1756912417569141 (hg38) was found in the JX1 junction."
+"The second breakpoint, at Xq27.3, hereafter referred to as JX2, was located at chrX:g.145602476. This breakpoint position does not disrupt any genes, and it is within an intergenic region. Furthermore, Sanger sequencing of the PCRampliﬁed speciﬁc fragment junctions conﬁrmed both breakpoints involving JX1 and JX2 and the 15bp deletion (Figure 2c)."
+"Analysis of the nucleotide sequence of both junctions revealed a common region of microhomology of 5 bp TTATA. The index case and her mother were shown to be hemizygous and heterozygous carriers, respectively, for this rearranged SV. 2.3. Correlation Phenotype—Genotype Classical NanceHoran syndrome is a Xlinked disorder, mainly characterised by the association of congenital bilateral cataracts, dental anomalies, and dysmorphic features, as summarised in Table A1."
+"This syndrome shows high penetrance but variable expressivity among males and females carrying NHS mutations. In the family under study, a complete presentation of the classical NanceHoran syndrome is found only in the index case, who shows additional minor signs previously reported in this syndrome. Our patient has a slight global developmental delay (45% visual disability and 10% cognitive and motor impairment)."
+The developmental delay has been reported only in onethird of the male patients suffering from NanceHoran syndrome. Congenital cardiac malformations are rarely presented in some NHS patients. Our patient also has an unusual presentation of infantile seizures at the ﬁrst year of age.
+"We hypothesised if the inversion would inﬂuence the phenotype with a possible transcriptional dysregulation of the NHS gene or other nearby genes. First, using publicly available HiC data from the lymphocyte cell line GM12878, the analysis of the threedimensional (3D)-genome map at both breakpoint junctions, showed the disruption of TADs in the Xp22.13 locus. In this position, the interactions between regulatory elements located on the side of the proximal JX1 breakpoint junction and nearest regions are disrupted (Figure A1)."
+"Here, the NHS gene, which spans 360.5 kb on chromosome Xp22.13, is alternatively spliced in at least described ﬁve isoforms (NHS1A, A–D). Of them, the NHSA transcript that contains an alternative exon 1 and an unusual large intron 1 of around 30 kb, is disrupted by the distal breakpoint of the X inversion in our patient (Figures 2b and A1). However, the transcriptional regulation of the other NHS isoforms that are not intersected by the breakpoint, may also be potentially affected due to disruption of TADs."
+"Additionally, CDKL5, a gene associated with developmental and epileptic encephalopathy (MIM #300672), is located ~0.7 Mb apart from the JX1 breakpoint, thus seems a good candidate to contribute to the phenotype of the patient. In the JX2 junction on the locus Xq27.3, the breakpoint has no consequence on regulatory elements (data not shown)."
+"2.4. Transcriptional Analysis To delve into the possibility of transcriptional deregulations caused by the inversion at the JX1 breakpoint, we have assessed the relative mRNA expression in blood of the isoforms NHSA, NHS1A, NHSB, NHSC, and NHSD, as well as the nearby CDKL5 gene for the Int. J. Mol. Sci. 2021, 22, 12713 6 of 15 index patient and his mother and compared them with sexmatched healthy controls."
+"Droplet digital PCR (ddPCR)-based gene expression analysis showed null expression normalised ratios of NHS (mean foldchange (FC) = 0.003, pvalue < 0.005) in the index case and a half downregulation in his mother (FC = 0.5, pvalue < 0.005) compared with healthy female and male controls, respectively (Figure 3a). By contrast, no evidence of differential expression was observed for CDKL5 (Figure 3b). Figure 3."
+"Functional characterisation of the inversion. (a, b) Boxplots represent the relative mRNA expression of NHS (a) and CDKL5 (b) in blood for the index case and his mother compared to 3 males and 4 females healthy controls. Expression of the housekeeping UB2DE2 gene was used for setting the relative expression."
+The experiment was performed in triplicates. Boxplot indicates median values and whiskers range of variation. ** = p < 0.01 (Wilcoxon test).
+CXX: Female controls; (c–d) Xchromosome inactivation pattern by EdU incorporation assay in CXY: male controls. Lymphocyte cultures from the mother. Xchromosomes marked in total full green ﬂuorescence reﬂect late replication associated with Xchromosome inactivation (yellow arrows).
+The X chromosome weakly banding labelled in green indicates active Xchromosomes (white arrows). Metaphases from the mother show: (c) inactive inverted Xchromosome (InvXi) and active wild type Xchromosome (wtXa) and (d) inactive wild type Xchromosome (wtXi) and active inverted Xchromosome (InvXa). Note: Edu incorporation was labelled with Alexa Fluor488 and counterstained with DAPI.
+"The Xcentromeres were marked in blue in Cyan blue (CEPX probe) and the Xq telomeres in red (Telvysion Xq/Yq probe). 2.5. XChromosome Inactivation (XCI) Analysis To further understand the differential expression of the Xinversion, the possible existence of nonrandom patterns of Xchromosome inactivation (XCI) in the mother was investigated."
+"A HUMARA assay, based on analysis of methylated sequences of the Andro- Int. J. Mol. Sci. 2021, 22, 12713 7 of 15 gen Receptor genes at Xq11.2, was uninformative due to homozygosity for the short tandem repeats (STRs) analysed."
+"We then used an alternative method to detect late replication of inactive Xchromosomes based on the ﬂuorescent EdU (5ethynyl-2(cid:48)-deoxyuridine) incorporation on blood cell cultures. After counting a total of 279 metaphases, we observed a similar XCI pattern for the inverted and the wildtype Xchromosomes: an XCI ratio of 0.58 (162/279) for inactive inverted versus active wildtype Xchromosomes and an XCI ratio of 0.42 (117/279) for inactive wildtype versus active inverted Xchromosomes (Figure 3c). The conﬁdence interval was between 0.53–0.63, below the upper limit of 0.70, indicating random inactivation and no skewed pattern."
+"Thus, this assay indicated that only 58% of the mother’s blood cells had inactivation of the inverted Xchromosome (Figure 3c–d), so it was considered nonskewed. In brief, both X chromosomes are randomly inactivated, and no skewing is found in the mother. 3."
+"Discussion We present here the ﬁrst large novel X pericentric inversion associated with the disruption of the NHS gene that is causing the NanceHoran syndrome. Balanced SVs, in which no apparent gain or loss of chromatin is involved, are undetected by the most molecular approaches that are now widely implemented in routine genetic diagnosis. Exome sequencing only targets exons; thus, 99% of genomic regions remain unscreened."
+"ArrayCGH only detects CNVs using targeted approaches; thus, balanced SVs cannot be resolved. In addition, when identiﬁed through classical Gbanded chromosome analysis, balanced inversions are traditionally considered likely benign, therefore dismissed as disease causes. With the advent of WGS approaches, there is increasing evidence that some SVs can cause disease phenotypes due to gene disruption, cryptic copynumber imbalance, or gene dysregulation by positional effects."
+"Pairedend WGS mapping of SVs using the algorithm of readpair orientation has been efﬁciently used in detecting breakpoints in highly repetitive regions such as centromeric regions, segmental duplications, and short arms. Using this strategy, we successfully identiﬁed breakpoints at a basepair resolution of a large balanced inversion, ﬁrst characterised as inv(X)(p22q27) in a male patient suffering from a syndromic form of congenital cataracts; thus, providing a more precise clinical interpretation for this SVs. Breakpoint positions were efﬁciently detected, corresponding to a simple inversion rearrangement with two chromosome arms breaks."
+"Several mechanisms could be involved in creating chromosomal inversions as nonallelic homologous recombination (NAHR). However, they can also be originated by nonhomologous end joining (NHEJ) or replicationbased mechanisms mediated by microhomology, such as fork stalling and template switching (FoSTeS), and microhomologymediated breakinduced replication (MMBIR). At the junctions of the two genomic segments that contributed to the X inversion, a sequence of microhomology of ﬁve identical nucleotides, TTATA, and a small deletion of 15 nucleotides in the proximal breakpoint was found."
+"This pattern of microhomology with deletions of >10 nucleotides is highly indicative of the implication of MMBIR as the mechanism responsible for the formation of this inversion. Only the proximal breakpoint disrupting the NHS gene seemed to contribute to the patient’s phenotype. This junction lies on the NHSA RNA isoform, where exon 1 is taken apart for the rest of the 3(cid:48) NHSassociated exons."
+"NHSA is considered the main responsible for the pathogenesis. Also, this particularly large alternative intron 1 of 30 kb seemed to be part of the regulatory machinery of NHS. Inversions and other SVs can also disrupt TADs on the 3D chromatin, which are more prone to interact with each other."
+"The disruption of TAD boundary integrity can contribute to the transcriptional dysregulation of nearby genes. Our analysis also revealed that the inversion could disrupt the integrity of TADs and regulatory elements located on the proximal JX1 junction, potentially affecting the gene regulation of NHS and other genes. The NHS gene, highly conserved across vertebrate Int."
+"J. Mol. Sci. 2021, 22, 12713 8 of 15 species, regulates actin remodeling and cell morphology during development in the midbrain, retina, lens and tooth. Previous studies have shown that this ubiquitously expressed gene is completely absent in the blood samples of NanceHoran patients."
+"Gene expression assays conﬁrmed the total lack of expression for the major isoform NHSA in the boy, supporting a loss of NHS function caused by the Xinversion here described. Besides, alternative NHS B–D transcripts, harbouring an alternative exon/intron1, were silenced in the hemizygous patient, although these isoforms remain intact in the inverted segment. Thus, notyet-deﬁned regulatory transcriptional elements located in the large intron 1 of the NHS gene seem necessary for expressing the three alternative isoforms NHS B–D. Therefore, our ﬁndings support the hypothesis that positional effects are seemingly involved in the pathogenesis of this inversion through the physical separation of regulatory elements of the NHS gene."
+"NanceHoran syndrome is a rare Xlinked disorder whose prevalence remains unknown, as no more than 50 families have been reported to date. The mutational database HGMD (last accession on 31 July 2021) has described 73 NHS mutations, mainly lossof-function variants and CNVs: 20 nonsense, 8 missense, four splicing mutations, one regulatory variant, and 38 small and gross indels. Nevertheless, few complex rearrangements involving the NHS locus have also been described, including intragenic chromosomal rearrangements and a balanced translocation X;1 that disrupts NHS."
+"Clinical ﬁndings described in our patient were bilateral cataracts, dental anomalies, dysmorphic features, and developmental delay, typically present in the classical Nance Horan phenotype. However, some grades of variable expressivity have been reported for other uncommon symptoms only reported in a few patients (Table A1). Signiﬁcant variability in terms of intellectual disability has been described, which suggests a possible modulation effect of other genetic factors."
+"Our patienthas a developmental delay and other very infrequent features for this syndrome, such as cardiac anomalies and an unusual presentation of seizures. Other patients with contiguous gene deletions affecting the NHS gene also present atypical NanceHoran syndrome. Moreover, the implication of a possible role of ﬂanking genes on NHS expressivity in patients with CNVs has been also speculated."
+"For instance, a hemizygous de novo 2.8Mb microdeletion Xp22.2–Xp22.13 was described, including the CDKL5 and NHS genes, both contributing to the associated phenotypic presentation of severe encephalopathy, congenital cataracts, and tetralogy of Fallot in a 10month-old boy. To delve deeper into the potential role of the ﬂanking genes of the Xinversion breakpoints that could be transcriptionally modulated by positional effects, gene expression analysis was carried out. This analysis was critical to clarify the potential contribution of the nearby gene CDKL5, which is the main responsible for atypical Rett syndrome with earlyonset seizures."
+"A positional effect also potentially leading to CDKL5 deregulation, was thought to explain the atypical neurological features observed in our patient. However, the CDKL5 expression in blood was similar in both carriers of this X inversion compared with a sexmatched control group, which seems to discard its implication in the phenotypic presentation of our patient. We assessed other potential contributors to the patient phenotype on both proximal and distal breakpoints."
+"However, the potential effect on the phenotype of other nearby genes to the breakpoints, is even less evident. None of them has been associated with a human phenotype or OMIM disease. On Xp22.13, SCLM1 is likely involved in spermatogenesis, with a potential role in azoospermia, SCLM2 seem to participate in embryonic development and RAI2 is a retinoic acidinduced gene that may play a role in cardiogenesis, for which a potential implication on cardiac anomalies in NanceHoran syndrome has been previously speculated."
+"On Xq27.3, the breakpoint is situated in an intergenic region between SPANXN1 and SLITRK2, around 350 kb and 220 kb away from the junction, respectively. SPANXN1 play a role in spermiogenesis and SLITRK2 may modulate neurite activity. In addition, the gene expression of all these potentially affected genes could not be assessed in our patient because preliminary Int."
+"J. Mol. Sci. 2021, 22, 12713 9 of 15 analysis showed very low or no levels in blood. Therefore, the contribution of these genes to our patient’s phenotype remains unclear."
+"Variable disease expressivity in female carriers has been reported in Xlinked disorders such as the NanceHoran syndrome. Usually, this is caused by skewed inactivation of an X chromosome carrying SVs or other genetic defects. X chromosome inactivation usually occurs randomly in each female cell to turn off one of the two copies of the X chromosome."
+"Preferential inactivation of the aberrant X chromosome generally impairs the phenotypic expression. This syndrome is fully expressed in males, although heterozygous carrier females may develop certain features, usually milder cataracts in their 40s. In the family here presented, the mother did neither present congenital cataracts nor additional symptoms."
+"However, after the diagnosis of NanceHoran syndrome in her son, a recent ophthalmic revision in the 3rd decade of life showed subclinical light lens opacities. To investigate if the phenotypic variability in this family could be related to any X chromosome’s skewed inactivation, the X inactivation patterns were measured in the carrier mother. The traditional HUMARA method for XCI analysis was not informative due to the homozygosity of the studied STRs in this locus."
+"Thus, an alternative strategy for XCI was performed based on the EdU incorporation into proliferating cells. Since EdU is a labelled nucleoside analogue of thymidine, its incorporation during DNA synthesis can reveal replicationassociated active and inactive regions on the X chromosomes. This assay showed random XCI in the carrier mother in blood with no differences of inactivation in the inverted and the wildtype X chromosome."
+"Considering all the data, the observed random inactivation of one X chromosome in the carrier mother could explain the half downregulation of the transcriptional NHS levels. To conclude, in this work, we describe the ﬁrst large balanced pericentric inversion inv(X)(p22.13q27.3) as the cause of syndromic cataracts in a boy with an overlapping presentation of classical NanceHoran syndrome. First, short pairedend WGS allowed us to efﬁciently characterise the breakpoint junctions at a nucleotide level, revealing the disruption of the linear structure of the main NHS isoform in an alternative intron 1."
+"Moreover, the genomic 3D structure of the NHS gene is also altered, implicating TADs and potential regulatory elements. Further expression analysis conﬁrmed the complete lack of NHS expression. Therefore, a positional effect seems also to be involved in the pathogenesis of the NanceHoran syndrome through silencing other NHS transcripts whose coding regions are not affected by the inverted sequences."
+"Thus, our ﬁndings expand the mutational mechanisms and phenotypic spectrum underlying this syndrome. Finally, this work points out the importance of breakpoint ﬁnemapping of copynumber neutral rearrangements to improve diagnostic yield in undiagnosed Mendelian disorders. 4. Materials and Methods 4.1."
+"Cytogenetic Analysis Karyotyping and FISH analysis were performed on the boy and his mother using commercial FISH probes (CEPX & Telvysion Xp/Yp, Xq/Yq, Abbott Molecular, Des Plaines, IL, USA) following standard procedures. A 5ethynyl-2(cid:48)-deoxyuridine (Edu) incorporation assay was designed to assess the Xinactivation pattern (ClickiT™ EdU Cell Proliferation Kit for Imaging, Alexa Fluor™ 488 dye, Invitrogen, Waltham, MA, USA). Lymphocytes from heparinised peripheral blood were ﬁrst treated with 10 µM EdU for a total of 4 h at 37 ◦C, and then, incubated with 0.1ml of ColcemidTM (Gibco, Waltham, MA, USA) for 90 min, at 37 ◦C, followed by 0.56% KCl treatment for 8 min, at 37 ◦C, and ﬁnally treated with Carnoy ﬁxative (3:1 methanol: acetic acid)."
+"EdUtreated chromosomes were dropped onto clean glass slides. According to the manufacturer’s protocol, the FISH assay was performed using CEPX & Telvysion Xq/Yq probes (Abbott Molecular). The slides were denatured at 73 ◦C for 5 min and incubated at 37 ◦C for 24 h. EdU incorporation was detected by a coppercatalysed reaction between the alkyne group of EdU and the azide group of Alexa Fluor® 488 dye."
+"Finally, the chromosomes were counterstained with DAPI (Abbott Molecular). The metaphases were Int. J. Mol."
+"Sci. 2021, 22, 12713 10 of 15 analysed under an ﬂuorescence microscope, and images were captured using the ISIS program (MetaSystems Hard & Software, Altlussheim, Germany). A total of 200 metaphases were analysed. Statistical analysis was performed to assess the ratio of X inactivation."
+"4.2. Molecular Analysis Genomic DNA was isolated from whole peripheral blood using an automated DNA extractor. ArrayCGH was performed using a previously custom design to target 150 ODDrelated genes (SurePrint G3 4 × 180 k CGH array, Agilent Technologies, Santa Clara, CA, USA), including 19,165 probes for the X chromosome."
+"ArrayCGH was analysed using the Agilent CytoGenomics software v.2.7 with default analysis methods. For clinical exome sequencing, coding exons of 4813 known genes associated with inherited diseases were captured using the commercial TruSightOne Sequencing Panel kit (Illumina, San Diego, CA, USA). Pairedend (2 × 150) libraries were sequenced in an Illumina NextSeq500 platform."
+"Bioinformatic analyses were performed using the Illumina BaseSpace and Variant Studio software, respectively. Variants were prioritised by a subpanel of 143 ODDs genes, including 63 cataractassociated genes. For WGS, the library was prepared from 1 µg of genomic DNA using the NEB Next®"
+"Ultra™ DNA Library Prep Kit (New England Biolab, Ipswich, MA, USA) and sequenced by pairedend (2 × 150 bp) in an Illumina Novaseq6000 platform at 30× coverage. Raw sequencing reads were aligned to the GRCh38/hg38 assembly using the BWAv0.7.15 with default parameters. Split reads at the potential proximal Xp22 and distal Xq27 breakpoints junctions of the inversion were visualised on the genome reference using the Integrative Genomics Viewer (IGV) to identify discordant pairedreads with unexpected pair orientation."
+"The sequences ﬂanking the exact breakpoints were compared for similarities to each other and to repeat elements using UCSC BLAT and RepeatMasker, respectively. TADs that could be potentially disrupted on the inversion boundaries were searched on previous HiC data (GM12878 cells Rao_2014_raw), available on 3D Genome Browser (http://3dgenome.fsm.northwestern.edu/view.php; last accession on 25 May 2021) using GeneHancer Regulatory Elements and ENCODE Gene Interactions and Integrated Regulation tracks. Breakpoint junctions were validated by PCR and subsequently by Sanger sequencing using speciﬁc ﬂanking primers for the proximal JX1 junction on Xp22.13 and the distal JX2 on Xq27.3 (Table A2)."
+"4.3. RNA Expression Analysis Total RNA from whole peripheral blood of the index patient, his mother, and seven healthy controls (four females and three males) was isolated with the NucleoSpin RNA Blood kit (MachereyNagel, Allentown, PA, USA). RTPCR was conducted using random primers with the SuperScript™ IV Reverse Transcriptase (Invitrogen) to synthesise fulllength cDNA. cDNA was ﬂuorometrically quantiﬁed in a Qubit™ Flex Fluorometer with the dsDNA HS Assay Kit (Thermo Fisher Scientific, Waltham, MA, USA)."
+"Relative expression analysis was performed in triplicate by ddPCR using the QX200 ddPCR EvaGreen® Supermix (BioRad, Hercules, CA, USA) according to manufacturer’s protocol, and speciﬁc primers (Table A2) for NHS, CDKL5 and four endogenous gene housekeeping controls (GAPDH, RPS18, UB2DE2, and ACTB). Following droplet generation using Oil for EvaGreen® into the QX200 Droplet Generator, emulsion PCR was ampliﬁed on a C1000 Touch Thermal Cycler (BioRad) under the following conditions: 95 ◦C for 10 min, 40 cycles of PCR at 94 ◦C for 30 s, and 57 ◦C for 1 min, and a ﬁnal step at 98 ◦C for 10 min. ddPCR data were analysed with the Quantasoft v1.7.4 software (BioRad) using absolute quantiﬁcation settings. Ratios of the absolute quantity of cDNA per sample (expressed as copies/µL) were normalised using the two more homogeneous housekeeping genes, RPS18 and UB2DE2, between all samples."
+The nonparametric Wilcoxon signedrank test was used to assess the statistical signiﬁcance between different ratios of the groups.  Int. J. Mol.
+"Sci. 2021, 22, 12713 11 of 15 Author Contributions: Conceptualisation, A.D. and M.C.; Methodology, A.D., M.R.d.A., R.O.I., O.P.R., C.V., R.O.I. and M.C.C.-P.; Software, L.d.l.F., R.R. and G.N.-M.; Validation, A.D., A.T. and M.R.d.A.; Formal Analysis, A.D., M.R.d.A., M.J.T.-T., L.d.l.F., R.R., G.N.-M. And M.C.; Investigation, A.D. and M.C.; Resources, C.A., P.M. and M.C.; Writing—original draft, A.D. and M.C.; Writing— review & editing, all authors; Visualisation, A.D., M.R.d.A., L.d.l.F., R.R. and G.N.-M.; project administration: M.C.; Supervision: P.M. and M.C.; Funding acquisition: M.C. All authors have read and agreed to the published version of the manuscript. Funding:"
+"This research was funded by the Instituto de Salud Carlos III (ISCIII) of the Spanish Ministry of Health (FIS; PI17/00164 and PI20/00851), Centro de Investigación Biomédica en Red en Enfermedades Raras (CIBERER, 06/07/0036), IISFJD BioBank (PT20/00141), Comunidad de Madrid (CAM, RAREGenomics Project, B2017/BMD3721), Ramón Areces Foundation, ONCE and the University Chair UAMIIS-FJD of Genomic Medicine. A.D. is supported by a PhD fellowship from ISCIII (FI18/00123), L.d. F was supported by ISCIII (CA18/00017), R.R. is supported by a postdoctoral fellowship of the Comunidad de Madrid (2019T2/BMD13714) and G.N.-M. By a contract of the Comunidad de Madrid (PEJ2020-AI/BMD18610)."
+"P.M. and M.C. are supported by a Miguel Servet program contract from ISCIII (CP16/00116 and CPII17/00006, respectively). Institutional Review Board Statement: The study was conducted according to the guidelines of the Declaration of Helsinki and approved by the Ethics Research Committee of the University Hospital Fundación Jimenez Díaz (PICO15_18_FJD, approved on 31 January 2018). Informed Consent Statement: Written informed consent was obtained from all participants or their legal guardians to participate and publish the clinical data and images."
+"Data Availability Statement: All data relevant to the study are included in the article. Acknowledgments: The authors want to thank the participants for consenting to use their data for the study. We thank Ignacio Mahillo for statistical support, Francisco Martínez for structural variants advice and technicians of the Genetics Department of FJD for their technical support in cytogenetics and clinical exome sequencing protocols and Sara Arias and Almudena Bretón for graphic illustration support."
+Conﬂicts of Interest: The authors declare no conﬂict of interest. Appendix A Figure A1. Cont. 
+"Int. J. Mol. Sci. 2021, 22, 12713 12 of 15 Figure A1."
+"Threedimensional (3D)-genome map at the Xp22.13. Public HiC data from a BLymphocyte cell line (GM12878) was used. Breakpoint disrupts TADs boundaries, and gene interactions between regulatory elements on the NHS gene (in blue box)."
+Table A1. Clinical features of the index case correlated to mayor and minor signs of the NanceHoran syndrome. Clinical Symptoms Index Case Mayor signs in 80–99% of NHS patients Cataract Long face Mandibular prognathia Microcornea Nystagmus Prominent nasal bridge Prominent nose Visual loss Increased number of teeth Intellectual disability Protruding ear Short metacarpal Strabismus Behavioral abnormality Glaucoma Microphthalmia Retinal detachment Signs in 30–79% of NHS patients
+Yes No Yes
+Yes Yes Yes
+Yes Yes Yes
+Yes Yes No
+Yes No No
+"No, No Int. J. Mol. Sci. 2021, 22, 12713 13 of 15 Clinical Symptoms Intellectual disability, moderate Mulberry molar Screwdrivershaped incisors Table A1."
+Cont. Minor signs in < 4% of NHS patients Additional minor symptoms Autism Broad ﬁnger Developmental cataract Diastema Macrotia Narrow face Posterior Ysutural cataract Short phalanx of ﬁnger Supernumerary maxillary incisor Xlinked dominant inheritance Abnormal heart morphology Abnormality of the urogenital system Seizures Index Case Yes Unknown
+"No, No No Yes"
+No Yes No Unknown No
+Yes Yes Yes
+"Yes, Yes Primers JX1_DNA_F JX1_DNA_R JX2_DNA_F JX2_DNA_R NHS_RNA_F NHS_RNA_R CDKL5_RNA_F CDKL5_RNA_R GAPDH_RNA_F GAPDH_RNA_R RPS18_RNA_F RPS18_RNA_R ACTB_RNA_F ACTB_RNA_R UBE2D2_RNA_F UBE2D2_RNA_R Table A2. PCR and RTPCR primers. Gene Exons Size (BP) Sequence (5(cid:48)–3(cid:48))"
 JX1 fragment JX2 fragment NHS CDKL5 GADPH RPS18 ACTB UBE2D2 E6E7 E4E5 E8E9 E2–E3 E1–E2 E7–E8 454 542 99 101 203 130 110 120 GAGAAAATGCGGTGTTTGGT GGGAGATTTCAACACCCCACT AGGTGCTGGAGAGGATGTGG TTGAGGTTGCTTTGCTCTTG GAGACCCAAGGAAATGTGGA TGCTTCAGCTTGGGAGTCTT ACATGAAATTGTGGCGATCA GCTTGAGAGTCCGAAGCATT CGACCACTTTGTCAAGCTCA AGGGGAGATTCAGTGTGGTG GTTCCAGCATATTTTGCGAGT GTCAATGTCTGCTTTCCTCAAC ACAGAGCCTCGCCTTTG CCTTGCACATGCCGGAG GTACTCTTGTCCATCTGTTCTCTG CCATTCCCGAGCTATTCTGTT

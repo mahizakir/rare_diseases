@@ -1,368 +1,123 @@
-"Intestinal cell kinase, a protein associated with endocrinecerebro-osteodysplasia syndrome, is a key regulator of cilia length and Hedgehog signaling Heejung Moona,1, Jieun Songa,1, JeongOh Shinb, Hankyu Leea, HongKyung Kimb, Jonathan T. Eggenschwillerc, Jinwoong Bokb,2, and Hyuk Wan Koa,2 aCollege of Pharmacy, Dongguk UniversitySeoul, Goyang, 410820, Korea; bDepartment of Anatomy, BK21 Plus Project for Medical Science, Yonsei University College of Medicine, Seoul 120752, Korea; and cDepartment of Genetics, University of Georgia, Athens, GA 30606 Edited by Kathryn V. Anderson, SloanKettering Institute, New York, NY, and approved April 29, 2014 (received for review December 12, 2013)"
-"Endocrinecerebro-osteodysplasia (ECO) syndrome is a recessive genetic disorder associated with multiple congenital defects in endocrine, cerebral, and skeletal systems that is caused by a missense mutation in the mitogenactivated protein kinaselike intestinal cell kinase (ICK) gene."
-"In algae and invertebrates, ICK homologs are involved in flagellar formation and ciliogenesis, respectively."
-"However, it is not clear whether this role of ICK is conserved in mammals and how a lack of functional ICK results in the characteristic phenotypes of human ECO syndrome."
-"Here, we generated Ick knockout mice to elucidate the precise role of ICK in mammalian development and to examine the pathological mechanisms of ECO syndrome."
-"Ick, null mouse embryos displayed cleft palate, hydrocephalus, polydactyly, and delayed skeletal development, closely resembling ECO syndrome phenotypes."
-"In cultured cells, downregulation of Ick or overexpression of kinasedead or ECO syndrome mutant ICK resulted in an elongation of primary cilia and abnormal Sonic hedgehog (Shh) signaling."
-"Wildtype ICK proteins were generally localized in the proximal region of cilia near the basal bodies, whereas kinasedead ICK mutant proteins accumulated in the distal part of bulged ciliary tips."
-"Consistent with these observations in cultured cells, Ick knockout mouse embryos displayed elongated cilia and reduced Shh signaling during limb digit patterning."
-"Taken together, these results indicate that ICK plays a crucial role in controlling ciliary length and that ciliary defects caused by a lack of functional ICK leads to abnormal Shh signaling, resulting in congenital disorders such as ECO syndrome."
-"LF4 | MRK | Smoothened | Gli2 | ciliopathy Endocrinecerebro-osteodysplasia (ECO) syndrome is a rare multifaceted human genetic disorder associated with anomalies in endocrine, cerebral, and skeletal systems."
-"Six infants with ECO syndrome from a consanguineous Amish pedigree were observed to have multiple defects including hydrocephalus, holoprosencephaly, agenesis of the diencephalon, adrenal hypoplasia, and skeletal system defects such as cleft lip/palate, postaxial polydactyly, micromelia, hands with ulnar deviation, and bone underdevelopment (1)."
-"Genetic analysis of the infants with ECO syndrome revealed a missense mutation in a highly conserved Cterminal basic polar amino acid residue, Arg272, to neutral glutamine in the intestinal cell kinase (ICK) gene (1), which impairs the activation and subcellular localization of ICK in cultured cells."
-"How these abnormalities in ICK result in pathological ECO syndrome phenotypes, however, remains unknown."
-"ICK, which is highly expressed in intestinal crypt epithelium, shares sequence similarity with mitogenactivated protein kinase (MAPK) family proteins (2)."
-The catalytic activity of ICK is regulated by dual phosphorylation of a MAPKlike TDY motif in the activation T loop as well as the phosphorylation of Thr residues in the TDY motif by cellcycle–related kinase (CCRK) (3).
-"In the human kinome, ICK belongs to a poorly understood family of RCK kinases (the tyrosine kinase gene vros crosshybridizing kinase), which include male germcell–associated kinase (MAK) and MAPK/MAK/(MAKrelated kinase)MRKoverlapping kinase (MOK) (4)."
-All RCK family kinases are composed of a Nter- minal catalytic domain with a TDY motif and variable lengths of a Cterminal domain with unknown function.
-"In a study of the function of RCK family kinases, MAK was found to negatively regulate cilia length in photoreceptor cells by phosphorylating retinitis pigmentosa 1 (5)."
-"In lower organisms, physiological roles of RCK family kinases are relatively well studied."
-"It was shown that Long Flagellar 4 (LF4), the homolog of RCK kinases in Chlamydomonas, is localized in flagella, and null mutants of LF4 possess flagella that are twice as long as those in wild types (6)."
-"Furthermore, in Caenorhabditis elegans, disruption of the RCK homolog dyefilling defective 5 (dyf5) results in the elongation of neuronal cilia, whereas overexpression of DYF5 leads to the shortening of cilia (7)."
-"Although the physiological functions and downstream targets of RCK family kinases are not well understood in higher organisms, these studies suggest that the role of RCK family kinases in controlling ciliary length may be well conserved from singlecelled organisms to mammals."
-Primary cilia are microtubulebased organelles protruding from nearly all cells in the body.
-A recent forward genetic screening study in mice showed that primary cilia are strongly linked to Hedgehog (Hh) signaling during vertebrate development (8).
-The role of primary cilia as signaling centers has since been implicated for major cellular signaling pathways that are important for development and tissue homeostasis (9).
-"Out of the three Hh homologs identified in mammals, Sonic hedgehog (Shh) is the best characterized."
-"In the Significance Endocrinecerebro-osteodysplasia (ECO) syndrome, a human genetic disorder affecting multiple organs, is caused by a mutation in intestinal cell kinase (Ick) gene."
-"In algae and invertebrates, ICK homologs are known to be associated with ciliary formation."
-"However, it is unclear whether this role of ICK is conserved in mammals and whether clinical symptoms of ECO syndrome are caused by ciliary defects."
-"In this study, using in vivo and in vitro approaches, we found that abnormal ICK function indeed resulted in defective cilia, leading to abnormal Hedgehog signaling."
-"Our results suggest that the role of ICK in ciliogenesis may be highly conserved throughout evolution and that ECO syndrome may be categorized as a ciliopathy, an increasingly recognized class of human genetic disorders."
-"Author contributions: H.M., J.S., J.-O.S., H.L., H.-K.K., J.B., and H.W.K. designed research; H.M., J.S., J.-O.S., H.L., and H.-K.K. performed research; H.M., J.S., J.-O.S., H.L., H.-K.K., J.B., and H.W.K. analyzed data; and H.M., J.S., J.T.E., J.B., and H.W.K. wrote the paper."
-The authors declare no conflict of interest.
-This article is a PNAS Direct Submission.
-1H. M. and J.S. contributed equally to this work.
-2To whom correspondence may be addressed.
-Email: kohw@dongguk.edu or bokj@yuhs.ac.
-This article contains supporting information online at www.pnas.org/lookup/suppl/doi:10.
-1073/pnas.1323161111/-/DCSupplemental.
-"www.pnas.org/cgi/doi/10.1073/pnas.1323161111 PNAS | June 10, 2014 | vol."
-111
-| no.
-"23 | 8541–8546 absence of SHH protein, the Patched1 (Ptch1) transmembrane receptor, which resides in primary cilia, represses Shh signaling by inhibiting ciliary translocation of the transmembrane protein Smoothened (Smo), a master regulator of the Shhsignaling cascade."
-"When SHH protein binds to PTCH1, the repressive action of Ptch1 on Smo is relieved, resulting in the translocation of activated Smo into the ciliary membrane compartment (10, 11)."
-"Activated Smo then initiates an intracellular signaling cascade, leading to the activation of Gli transcription factors in the ciliary tip and the expression of Shhtarget genes."
-"Accumulating evidences indicate that posttranslational modifications of Gli occurring in primary cilia affect Gli metabolism and transcriptional activity (12, 13)."
-"Here, to elucidate the role of ICK in ECO syndrome, we generated Ick knockout mice that recapitulate most of the clinical symptoms of ECO syndrome."
-We observed that abnormally elongated cilia and compromised Shh signaling in both Ick knockout embryos and cultured cells treated with Ickspecific siRNAs or overexpressing kinasedead ICK mutants.
-Abnormal ciliary morphology and Shh signaling were also observed in cells overexpressing the ICK mutant protein (R272Q) identified in human ECO syndrome.
-"Whereas wildtype ICK was localized at the base of primary cilia, inactive forms of ICK accumulated at ciliary tips."
-"Our findings suggest that the role of ICK in the regulation of ciliogenesis is conserved across species and, furthermore, that aberrant ciliogenesis caused by a lack of functional ICK results in abnormal SHH signaling and developmental disorders such as ECO syndrome."
-Results Genetic Disruption of Ick Expression Causes Multiple Developmental Defects in Mice.
-"To generate a targeted mutation of the ICK gene, gene trapping of Ick with a βgalactosidase reporter tagged with an insertional cassette was conducted as a part of the International Knockout Mouse Consortium project (14)."
-"The Icktm1a(KOMP)Mbp allele (Icktm1a) contained an engrailed splicing acceptor sequence and a βgalactosidase reporter gene between exons 5 and 6, resulting in a truncated, nonfunctional fusion transcript of Ick."
-Reverse transcription PCR (RTPCR) analysis of RNA extracted from embryonic day 10.5 Icktm1a whole mouse embryos revealed a significant disruption of Ick mRNA transcription.
-"Using primers corresponding to exon 5 and neighboring exons or βgalactosidase, the homozygous Icktm1a/tm1a allele selectively amplified a truncated βgalactosidase hybrid transcript rather than the normal Ick transcript at the junction of exons 5 and 6 observed in wildtype and heterozygous embryos (Fig. 1A)."
-Quantitative realtime RTPCR analysis showed more than 90% reduction in Ick mRNA levels in homozygote Icktm1a/tm1a embryos compared with wild type (Fig.
-S1).
-Gross morphology of homozygous Icktm1a/tm1a mouse embryos appeared normal during early development.
-"However, multiple defects became obvious during later stages of gestation, such as peripheral edema, cleft palate, hydrocephalus, and preaxial polydactyly, which are characteristic clinical features observed in human ECO syndrome (Fig. 1 B–E) (1)."
-"We also observed defects in skeletal development that manifested as deviated ulnar formation, shorter limbs, and reduced bone mineralization (Fig."
-1E).
-Homozygous Icktm1a/tm1a mice generally displayed embryonic lethality at late stages of gestation with unknown cause.
-"Interestingly, these phenotypic abnormalities in Ick mutant mice and humans with ECO syndrome have features in common with other human genetic disorders collectively called ciliopathies, which are caused by inappropriate formation or maintenance of primary cilia (15)."
-These findings raise the possibility that ICK plays a role in the homeostatic control of ciliogenesis in mammals.
-"ICK, Regulates the Length of Primary Cilia in Cultured Cells."
-"Previous studies show that the amino acid sequence of ICK is similar to that of LF4, which is known to regulate flagella length in the Ick mutant mice have ECO syndromelike features."
-(A) RTPCR Fig.
-"1. analyses with RNAs from embryonic day (E) 10.5 embryos confirmed that, whereas normal transcripts spliced between exons 5 and 6 of the Ick gene were expressed in wild type, truncated Ick transcripts, fused with LacZ, were expressed in Icktm1a/tm1a homozygotes."
-(B) E15.5 Icktm1a/tm1a embryos showed extensive edema at the head and back (red arrowhead).
-"(Scale bars, 1.5 mm.)"
-"(C) Icktm1a/tm1a mutants exhibited cleft palates in the roof of the oral cavity (Left, asterisk)."
-"(Scale bars, 1 mm.)"
-Coronal sections further demonstrate the cleft palate in mutant embryos (Right).
-"(Scale bars, 300 μm.)"
-(D) Developing telencephalon in Icktm1a/tm1a embryos showed severely dilated ventricles.
-"(Scale bars, 300 μm.)"
-(E) E15.5 Icktm1a/tm1a forelimbs displayed polydactyly (Upper).
-"(Scale bars, 200 μm.)"
-"Additionally, alcian blue/alizarin red staining in E18.5 Icktm1a/tm1a embryos revealed delayed ossification in the digits and severely distorted and shortened long bones (Lower)."
-"(Scale bars, 500 μm.)"
-Unicellular organism Chlamydomonas reinhardtii (6).
-"As primary cilia and flagella share several structural and functional features, we asked whether the role of ICK in regulating flagella length is conserved in mammals."
-"To test this possibility, we overexpressed 3× Flagtagged wildtype or kinaseinactive forms [K33R or TDY mutant (mut)] of ICK in cultured cells and examined their effects on the formation of primary cilia (16)."
-"Ciliogenesis is dependent on cell cycle stage, with the formation of primary cilium induced by entering the G1/0 stage (17)."
-"To induce ciliogenesis, we replaced growth media with low serumcontaining media 1 d after transfection."
-"After 2 d in low serum media, transfected cells were fixed and immunostained with a ciliaspecific antibody (Arl13b)."
-"Interestingly, most cells overexpressing wildtype ICK displayed an absence of cilia or, less frequently, shorter cilia than those of nontransfected controls (Fig. 2 A and B)."
-"By contrast, primary cilia in cells overexpressing inactive forms of ICK (K33R or TDY mut) were significantly longer than those of nontransfected controls (Fig."
-2 A and B).
-"These results suggest that the role of ICK, a mammalian homolog of LF4, in regulating ciliary length is conserved from unicellular organisms to mammals."
-Specific Knockdown of Ick by siRNA Elongates Primary Cilia.
-"To examine the effect of endogenous ICK on ciliary length control, we generated Ickspecific siRNAs and checked their knockdown efficacy in cells stably transfected with ICK3FLAG-EGFP using Western blot analysis with FLAG antibody."
-"Ick, siRNA 2 but not 4 dramatically downregulated ICK expression (Fig. 2C)."
-"In cells treated with siRNA 2, primary cilia were significantly longer than those in cells treated with scrambled siRNA (CTRL) or siRNA 4 (Fig."
-2 D and E).
-"To exclude possible siRNA offtarget effects, we confirmed the results using two shRNAs targeting other regions of Ick sequence in tissue culture cells."
-"The resulting phenotypes obtained using these shRNAs were similar to those obtained using siRNA, indicating that the ciliary phenotypes are due to specific knockdown of ICK rather than offtarget effects 8542"
-"| www.pnas.org/cgi/doi/10.1073/pnas.1323161111 Moon et al. overexpressing wildtype or mutant ICK, indicating that aberrant ICK activity disrupts its regulation of ciliary length, which subsequently leads to abnormal Shh signaling."
-"Next, we examined the molecular mechanisms of abnormal Shh signaling caused by aberrant ICK activity."
-"As ciliary localization of Smo is a key step that activates the Shh transduction pathway, we examined whether the ciliary localization of Smo is disrupted by knockdown of ICK expression."
-Previous studies show that the binding of Shh to Ptch receptors relieves the blockade of Smo ciliary localization and Gli accumulation in ciliary tips (11).
-"In the present study, cells were stably transfected with SmoEGFP, leading to an even distribution of Smo across entire cilia (Fig. 4B)."
-"When Ick expression was knocked down with siRNA, cilia were abnormally elongated, and SmoEGFP was no longer evenly distributed but rather showed interrupted and balloonlike intermittent accumulation in elongated cilia (Fig."
-"4B, Left)."
-We also examined the subcellular localization of Gli transcription factors.
-"GLI2 proteins were normally localized at the ciliary tip, which is important for the activation of GLI proteins in response to Shh signaling (12, 18)."
-"However, downregulation of ICK by siRNA 2 caused Gli2 to accumulate in the axoneme of elongated cilia in punctate fashion (Fig."
-"4B, Right)."
-"Independent approaches, using Ick shRNA stable cell lines, also showed punctate accumulations of Gli2 along the ciliary axoneme (Fig. S2D)."
-These results suggest that Shh signaling is compromised by disrupted ICK activity due to the abnormal ciliary localization of SMO and GLI2 proteins.
-Ciliary Morphology and Shh Signaling Are Disrupted in Icktm1a/tm1a Embryos.
-We observed that normal ciliary formation and Shh signaling are compromised by abnormal ICK activity in cultured cells.
-"To confirm these findings in vivo, we examined Shh signaling and ciliary morphology in polydactyl Ick knockout mouse limbs."
-"Shh, signaling is known to play an important role in vertebrate digit patterning by establishing a posteriorto-anterior concentration gradient in the limb buds, which in turn sets up opposing gradients of Gli activators and Gli3 repressor that are critical for specification of digit identity (19)."
-"We found that compared with wildtype embryos, Ick knockout embryos exhibited decreased expression of Shhtarget genes such as Gli1 and Ptch1 in the posterior region of limb buds (Fig. 5A), indicating compromised Shh signaling."
-"Moreover, HoxD13, which is normally inhibited by Gli3 repressor in the anterior limb bud, ICK activity is required for its ciliary localization."
-To determine the Fig.
-"3. subcellular localization of WT or mutant (K33R or TDY mut) ICK in primary cilia, cultured cells were transfected with appropriate plasmids and immunostained with Arl13b (blue) and γtubulin (γTub, red) antibodies for cilia and basal bodies, respectively."
-Wildtype ICK was localized near the basal body of shortened cilia.
-"By contrast, inactive ICK mutants were localized at the distal tip of cilia, which displayed swollen morphology."
-"(Scale bars: 5 μm, Left; 1 μm, Right.)"
-Fig.
-"2. ICK, kinase activity levels determine the length of primary cilia."
-(A and B)
-FLAGtagged wildtype and kinaseinactive forms of ICK (K33R and TDY mut) were transfected into cultured cells.
-"(A) Cilia and transfected ICK were visualized by immunofluorescent staining with acetylated tubulin (acTub, green) and FLAG (red) antibodies, respectively."
-Overexpression of wildtype ICK either suppressed cilia formation or shortened ciliary length.
-"By contrast, overexpression of inactive ICK increased ciliary length."
-"(B) Quantification of ciliary length in CTRL (n = 56), K33R (n = 56), or TDY mut (n = 58) ICK overexpressing cells."
-(C) Western blot analysis showed that ICK protein levels were significantly decreased by Ick siRNA 2 compared with control siRNA or siRNA 4.
-(D and E) Primary cilia were stained by Arl13b antibody (green) to analyze cilia length (n = 14) (D) and morphology (E).
-Knockdown of ICK by siRNA 2 resulted in longer primary cilia than those observed after control siRNA or siRNA 4 treatment.
-Error bars reflect standard SEM and asterisk denotes statistical significance according to Student’s t tests in B and D (*P < 0.01).
-"(Scale bars in A and E, 5 μm.)"
-(Fig.
-S2 A and B).
-"These results are consistent with the elongation of cilia caused by overexpression of kinasedead ICK mutants, which presumably act as dominant negatives against endogenous ICK."
-"Furthermore, these findings confirm that overall levels of activity or expression of ICK are inversely correlated with the length of primary cilia in cultured cells."
-Localization of ICK to the Basal Body of Primary Cilia Is Dependent on Its Kinase Activity.
-We observed that ICK was normally localized to cilia but that this localization was compromised by kinasedead mutations of ICK.
-"To further determine the subcellular localization of ICK within cilia, we transfected ICKEGFP into cultured cells and analyzed ICKEGFP fluorescence using markers of cilia (Arl13b) and basal bodies (γtubulin)."
-"Wildtype ICKEGFP was generally observed near the basal body of cilia (Fig. 3, Upper two panels)."
-"By contrast, inactive mutant forms of ICK (K33R or TDY mut) were not observed at the base of cilia but instead exclusively localized at ciliary tips (Fig. 3, Lower two panels)."
-These results indicate that ICK is generally located at the base of cilia and that this localization is dependent on its kinase activity.
-Altering ICK Kinase Activity Disrupts Shh Signal Transduction.
-Accumulating evidence suggests that primary cilia play crucial roles in Shh signal transduction (9).
-"Therefore, we examined whether Shh signaling is compromised in cells with abnormal ciliary morphology caused by overexpression of wildtype or mutant ICK."
-Cells were transfected with a Gliluciferase reporter and wildtype or mutant ICK plasmids.
-"In control cells (i.e., no ICK overexpression), treatment with SHHNconditioned media significantly increased Gli reporter activity (Fig. 4A)."
-"However, this SHHNtreatment–induced Gli reporter activity was compromised in cells Moon et al."
-"PNAS | June 10, 2014 | vol."
-111
-| no. 23
-"| 8543 R272Q) were overexpressed in cultured cells, primary cilia were significantly elongated (Fig. 6 A and B), similar to the phenotypes induced by overexpression of kinasedead ICK mutants."
-We also observed that the overexpression of R272 mutant ICK compromised SHH signaling as assessed by Gli promoter activity (Fig. 6C).
-"Together, these results suggest that the ICK R272Q mutation identified in ECO syndrome causes multiple developmental defects, which result from abnormalities in ciliogenesis and SHH signaling during mammalian embryogenesis."
-"Discussion Primary cilia are key signaling centers that regulate a variety of signal transduction pathways, such as those for Hh and Wnt, that are important for animal development and homeostasis (9, 22)."
-"Aberrant ciliary structure or function in humans causes pleiotropic congenital disorders collectively known as ciliopathies, which exhibit variable degrees of abnormalities in many different bodily organs including the kidney, brain, limb, eye, ear, liver, and bone (15)."
-"Human genetic studies showed that ICK is mutated in a congenital disorder called ECO syndrome, which shares some clinical symptoms with ciliopathies (1)."
-"Interestingly, ICK homologs in Chlamydomonas and C. elegans are important for regulating ciliary formation and function, raising the possibility that ECO syndrome could also be categorized as a ciliopathy."
-"In the present study, by generating and analyzing an Ick knockout mouse, we provide in vivo evidence that abnormal ICK function results in aberrant ciliary morphology and Shh function, which leads to developmental defects resembling symptoms of ECO syndrome (Fig. 1 and Fig. S3)."
-"Using in vitro cell culture, we found that ciliary length is inversely correlated with levels of ICK kinase activity, and Shh signaling is affected by either too much or too little ICK activity, resulting in abnormal ciliary localization of key Shh signaling mediators such as Smo and Gli2."
-Our results demonstrate that the role of ICK in regulating ciliary length is conserved in mammals and suggest that the anomalies associated with ECO syndrome are caused by improper ciliogenesis and SHH signal transduction during fetal development.
-The present and previous studies suggest that the mechanisms regulating ciliary length might be well conserved throughout the animal kingdom.
-"In Chlamydomonas, four different mutated proteins cause abnormally elongated flagella, including LF2 and LF4 kinases that are homologs of vertebrate CCRK and MAK/ICK, respectively (23)."
-We previously showed that Ccrk knockdown in zebrafish results in abnormal ciliogenesis in kidney epithelial cells (24).
-"Similarly, depletion of Ccrk in cultured cells results in elongated cilia (25)."
-"In addition, a forward genetic screen of C. elegans identified dyf5 kinase, an ortholog of LF4, as a regulator of ciliary length and function (7)."
-"In humans, loss of MAK, a homolog of LF4 and paralog of ICK, results in elongated cilia in photoreceptor cells, causing retinitis pigmentosa (5, 26, 27)."
-"These results suggest that the control of ciliary length by LF2 (CCRK) and LF4 (MAK/ ICK) is well conserved from Chlamydomonas to mammals, and both kinases appear to maintain proper ciliary length by negatively regulating axoneme growth."
-"Interestingly, a recent study suggests that the control of ciliary length by CCRK is mediated by ICK (25)."
-"In fibroblast and glioblastoma cells, overexpression of ICK reduces the number of cilia in a CCRKdependent manner, whereas knockdown of ICK resulted in increased ciliary length comparable to CCRK depletion (25)."
-The threonine residue T157 of ICK appears to be a CCRK phosphorylation site required for the inhibitory function of ICK in ciliogenesis (25).
-"Consistent with the abnormal ciliary morphology, overexpression of ICK reduces Shh responsiveness in cultured cells (25)."
-These results suggest that CCRK acts as an upstream regulator of ICK in ciliary length control and Shh signal transduction.
-"RCK family kinases including ICK, MAK, and MOK are composed of a highly conserved Nterminal kinase catalytic domain with a variable noncatalytic Cterminal domain and show Fig. 4. ICK, regulates Smo and Gli2 localization in primary cilia."
-(A) Responsiveness to Shh was assayed in cultured cells using an 8 × 3′ GliBS luciferase reporter construct.
-Responsiveness to Shh was decreased in cells overexpressing any types of ICK proteins compared with nontransfected (CTRL) cells.
-Error bars = SEM.
-*P < 0.01 (Student’s t tests).
-(B)
-"In cells treated with control siRNA (CTRL), SmoEGFP fluorescence was evenly distributed across entire cilia, which were stained with acetylated tubulin (acTub) antibody."
-"By contrast, SmoEGFP was observed in a punctate pattern in elongated cilia in ICK siRNA 2 transfected cells (Right)."
-"In CTRL cells, endogenous GLI2 proteins were localized at the tip of primary cilia, whereas in Ick siRNA 2 transfected cells, GLI2 proteins showed additional sites of accumulation in the axoneme of elongated cilia (Right)."
-"(Scale bars, 2.5 μm.) was ectopically upregulated (Fig. 5A), suggesting that Gli3 repressor function is also affected by Ick loss of function."
-"To confirm that compromised Shh signaling is due to abnormal cilia morphology, we examined primary cilia in Ick knockout limb buds."
-We observed that primary cilia in Ick knockout limb buds were indeed significantly elongated compared with those in wildtype limb buds (Fig. 5 B and C).
-"Primary cilia are regarded as Shh signaling processing centers, not only for activation of GLI proteins upon SHHPTCH1 binding but also for proteasomedependent cleavage of Gli3 fulllength proteins to truncated repressor forms in the absence of SHH ligand (13, 18)."
-"Therefore, we examined whether Gli3 processing is affected in Ick mutant embryos."
-"We found that GLI3 fulllength proteins accumulated abnormally in Ick mutant limb buds and whole embryos compared with wildtype limb buds and embryos (Fig. 5D), indicating that Gli3 processing is affected by the lack of ICK function."
-"Several reports showed that genes regulating Shh signal transduction at the level of cilia could also regulate ciliary architecture (20, 21)."
-We thus examined the ultrastructure of cilia from Ick mutant embryos using electron microscopy (EM).
-Scanning EM showed that cilia from Ick mutant limb buds were significantly elongated compared with controls (Fig.
-"5E, Left)."
-"Longitudinal views of Ick mutant cilia from transSimilarly, mission EM showed longer axonemes than controls."
-"However, crosssection views of Ick mutant cilia at the level of basal body or axoneme were indistinguishable from controls (Fig."
-"5E, Right)."
-These results indicate that ICK function is mainly involved in ciliary length control rather than regulating ciliary architecture.
-The ICK Mutation Identified in Human ECO Syndrome Causes Elongated Cilia and Compromised SHH Responsiveness.
-"Finally, we examined outcomes of the ICK point mutation (R272Q) identified in human ECO syndrome (1)."
-When mutant versions of ICK (R272A or 8544 | www.pnas.org/cgi/doi/10.1073/pnas.1323161111 Moon et al. Fig. 5.
-"Ick, mutant embryos have defects in HH signaling and ciliogenesis."
-"(A) Expressions of Gli1, Ptch1, and Hoxd13, which were normally restricted to posterior regions of E10.5 wildtype limb buds, were decreased in the posterior regions and ectopically increased in the anterior regions of limb buds of Icktm1a/tm1a mutants (arrowheads)."
-(B and C) Frozen sections of E11.5 limb buds were stained with Arl13b (green) and γTub (red) antibodies.
-"Ciliary lengths in Icktm1a/tm1a mutants (3.35 ± 0.10 μm, n = 96) were ∼2.5fold longer than those in wild type (1.38 ± 0.06 μm, n = 54)."
-*P < 0.01 (unpaired Student’s t tests).
-(D) Gli3 processing was analyzed by Western blotting with antiGLI3 antibody for cell lysates from E9.5 wildtype (WT) or Ick mutant (m) whole embryos or limb buds.
-The antibody recognized fulllength [GLI3(FL)] and processed [GLI3®] forms of GLI3 protein.
-Extracts from Gli3 knockout embryos were used as a control.
-(E) Scanning electron microscopy (EM) showed that primary cilia in the limb ectoderm of Icktm1a/tm1a mutants were significantly longer compare with Ick controls.
-"(Scale bars: Left, 500 μm; Right, 300 μm.)"
-Transmission EM showed that ultrastructures of primary cilia in the limb mesenchyme of Icktm1a/tm1a mutants were indistinguishable from those of controls in both longitudinal and crosssection views.
-"(Scale bars: Left, 2 μm; Right, 0.5 μm.)"
-"+/+ was also differentially affected in different tissues of Icktm1a/tm1a embryos, consistent with its embryonic expression pattern (Fig. S4)."
-"Whereas cilia were abnormally elongated in the limb bud, ciliary formation was generally unaffected in the spinal neural tube."
-"Consistently, Shh signaling and organ development were mainly affected in tissues displaying abnormal ciliogenesis such as limbs but not in spinal neuroepithelium (Fig."
-S5).
-"These results suggest that although RCK family kinases play redundant roles in the control of ciliary length, their distinct expression patterns may give rise to specific functional deficits, leading to diverse tissuespecific ciliary defects when their functions are disrupted."
-What might be the molecular mechanisms by which ICK restricts ciliary growth in mammals?
-"In C. elegans, the loss of function of Dyf5 kinase, a homolog of MAK/ICK, results in the elongated cilia and the mislocalization of ciliary transport proteins such as IFTs and motor proteins such as kinesin within ciliary axonemes (7), indicating that DYF5 may control the ciliary transport system to ensure proper cilia length in nematodes."
-"In mammals, Mak null mice also show ciliary accumulation of IFTs, indicating that MAK may also control the ciliary length through regulating intraflagellar transport (5)."
-"In the present study, we observed that abnormal ICK function resulted in the mislocalization of key mediators for Shh signaling such as Smo and Gli2 within elongated cilia, indicative of abnormal transport of ciliary proteins."
-"Interestingly, when the kinase activity of ICK was compromised, the localization of ICK proteins shifted from the basal body to the tip of cilia, suggesting that ICK proteins themselves may be shuttling between ciliary bases and tips and kinase activity may be required for the retrograde transport of ICK to the base of cilia under normal conditions."
-"Because both the rate of protein flow in and out of cilia and cilia length are determined by the dynamic balance between anterograde and retrograde transport (29), it is possible that ICK maintains proper ciliary length by modulating IFT movement and ciliary transport machinery (9)."
-"Recently, a new long flagellar mutant, lf5, encoding a homolog of mammalian CDKL5 kinase, was identified in Chlamydomonas (30)."
-"Similar to ICK in mammals, unique spatiotemporal expression patterns throughout development (4, 28)."
-"Ick, is broadly expressed in the body with variable levels depending on the tissues (4, 28)."
-"In contrast, MAK and MOK show more restricted expression patterns, such that MAK is highly expressed in retina, prostate, stomach, and testis, whereas MOK is in brain, kidney, and liver (5, 28)."
-"Consistent with its localization, cilia are abnormally elongated in Mak null photoreceptor cells, which undergo progressive degeneration (5)."
-Ciliogenesis Fig.
-6.
-The ICK mutation identified in human ECO syndrome causes defects in ciliogenesis and HH signaling.
-ICK3FLAG mutant (R272Q and R272A) plasmids were transfected into cultured cells.
-"After transfection, cells were stained with fluorescent Arl13b (green) and FLAG (red) antibodies."
-(A and B) Ciliary length was increased by approximately twofold by overexpression of ICK mutant proteins.
-Transfected ICK mutant proteins were localized at the bulged tips of primary cilia.
-"(Scale bars, 5 μm.)"
-(C) SHH responsiveness was severely compromised by overexpression of wildtype or mutant forms of ICK in cultured cells treated with SHHNconditioned media.
-Error bars in B and C represent SEM.
-*P < 0.01; **P < 0.05 (Student’s t tests).
-"Moon et al. PNAS | June 10, 2014 | vol."
-111 | no. 23
-"| 8545 LF5 localizes to the proximal region of flagella, and mutations of lf5 results in abnormally elongated flagella."
-"Proximal localization of LF5, which is dependent on other LF proteins such as LF2 (CCRK in mammals), was suggested to be important for flagella length control (30)."
-"Consistently, two IFT core proteins, IFT74 and IFT81, were found be localized at the base of cilia, playing a critical role in ciliogenesis by modulating the transport of tubulin within the cilia (31)."
-Whether ICK maintains proper ciliary length by modulating IFT activities and ciliary transport machinery warrants further investigation.
-"Alternatively, ICK could also regulate ciliary length through the mammalian targetof-rapamycin (mTOR) signaling pathway."
-A recent study shows that mTOR signaling regulates ciliary length and function in zebrafish (32).
-"Specifically, rapamycin, an inhibitor of TOR complex 1 (mTORC1), shortens ciliary length, whereas activation of the mTOR pathway elongates cilia."
-"Furthermore, the role of mTORC1 in regulating ciliary length is mediated by the regulation of ciliary protein synthesis through activation of a ribosomal protein S6k1."
-"Recently, ICK was shown to act as an upstream regulator of the mTORC1 signaling pathway to promote cell proliferation and G1 cell cycle progression (3, 33)."
-"Thus, it would be worth investigating whether ICK influences ciliary length by the translational regulation of ciliary proteins through the mTORC1 signaling pathway."
-"In summary, using in vivo and in vitro approaches, we found evidence suggesting that the role of ICK in ciliogenesis may be highly conserved throughout evolution."
-"In mammals, ICK plays a critical role in controlling ciliary length and function, which are important for transducing signaling pathways such as Shh."
-"As lack of ICK activity severely disrupts normal development of multiple organs in mice, this may also be the mechanism underlying the clinical symptoms of human ECO syndrome."
-"These results suggest that ECO syndrome may be categorized as a ciliopathy, an increasingly recognized class of human genetic disorders."
-Materials and Methods All materials and methods used in this study are detailed in SI Materials and Methods.
-"This includes a detailed description of generation of Icktm1a/tm1a mice, cell culture, gene silencing, quantitative realtime RTPCR, immunoblotting, immunofluorescence staining, and measurement of cilia length, luciferase assay, histology and skeleton preparation, electron micrographs, and whole mount in situ hybridization."
-All antibodies and sequences used in this study are also listed in SI Materials and Methods.
-ACKNOWLEDGMENTS.
-We are very grateful to our laboratory members for critical comments on the manuscript and Drs.
-"Suzie J. Scales, Hiroshi Sasaki, Wendy Ingram, and Tamara Caspary for kindly providing GLI3 antibody and plasmid DNA reagents."
-"This research was supported by the Basic Science Research Program through the National Research Foundation of Korea (NRF) funded by the Ministry of Education, Science, and Technology, Grants 20100010803, 20080061888, NRF2012M3A9C1053532, and NRF2012R1A2A2A02014188 (to H.W.K.) and 2012R1A1A2041348 (to J.B.) and by the Bio and Medical Technology Development Program of the NRF, funded by the Ministry of Science, ICT, and Future Planning, Grant 2013072551 (to J.B.)."
-"1. Lahiry P, et al. (2009)"
-"A multiplex human syndrome implicates a key role for intestinal cell kinase in development of central nervous, skeletal, and endocrine systems."
-Am J Hum Genet 84(2):134–147.
-"2. Togawa K, Yan YX, Inomoto T, Slaugenhaupt S, Rustgi AK (2000) Intestinal cell kinase (ICK) localizes to the crypt region and requires a dual phosphorylation site found in map kinases."
-J Cell Physiol 183(1):129–139.
-"3. Fu Z, Kim J, Vidrich A, Sturgill TW, Cohn SM (2009)"
-"Intestinal cell kinase, a MAP kinaserelated kinase, regulates proliferation and G1 cell cycle progression of intestinal epithelial cells."
-Am J Physiol Gastrointest Liver Physiol 297(4):G632–G640.
-4.
-"Miyata Y, Nishida E (1999)"
-Distantly related cousins of MAP kinase: Biochemical properties and possible physiological functions.
-Biochem Biophys Res Commun 266(2): 291–295. 5.
-"Omori Y, et al. (2010) Negative regulation of ciliary length by ciliary male germ cellassociated kinase (Mak) is required for retinal photoreceptor survival."
-Proc Natl Acad Sci USA 107(52):22671–22676.
-17.
-"Tucker RW, Pardee AB, Fujiwara K (1979)"
-Centriole ciliation is related to quiescence and DNA synthesis in 3T3 cells.
-Cell 17(3):527–535.
-18.
-"Haycraft CJ, et al. (2005) Gli2 and Gli3 localize to cilia and require the intraflagellar transport protein polaris for processing and function."
-PLoS
-Genet 1(4):e53.
-19.
-"Wang B, Fallon JF, Beachy PA (2000) Hedgehogregulated processing of Gli3 produces an anterior/posterior repressor gradient in the developing vertebrate limb."
-Cell 100(4):423–434. 20.
-"Caspary T, Larkins CE, Anderson KV (2007)"
-The graded response to Sonic Hedgehog depends on cilia architecture.
-Dev Cell 12(5):767–778.
-21.
-"Lee JE, et al. (2012) CEP41 is mutated in Joubert syndrome and is required for tubulin glutamylation at the cilium."
-Nat Genet 44(2):193–199.
-22.
-"Eggenschwiler JT, Anderson KV (2007) Cilia and developmental signaling."
-Annu Rev Cell Dev Biol 23:345–373.
-23.
-"Wilson NF, Iyer JK, Buchheim JA, Meek W (2008)"
-Regulation of flagellar length in Chlamydomonas.
-Semin Cell Dev Biol 19(6):494–501.
-6.
-"Berman SA, Wilson NF, Haas NA, Lefebvre PA (2003)"
-A novel MAP kinase regulates 24.
-"Ko HW, et al. (2010) Broadminded links cell cyclerelated kinase to cilia assembly and flagellar length in Chlamydomonas."
-Curr Biol 13(13):1145–1149.
-Hedgehog signal transduction.
-Dev Cell 18(2):237–247.
-"7. Burghoorn J, et al. (2007) Mutation of the MAP kinase DYF5 affects docking and undocking of kinesin2 motors and reduces their speed in the cilia of Caenorhabditis elegans."
-Proc Natl Acad Sci USA 104(17):7157–7162. 8.
-"Huangfu D, et al. (2003)"
-Hedgehog signalling in the mouse requires intraflagellar transport proteins.
-Nature 426(6962):83–87.
-9.
-"Goetz SC, Anderson KV (2010)"
-The primary cilium: A signalling centre during verte- brate development.
-Nat Rev Genet 11(5):331–344.
-10.
-"Corbit KC, et al. (2005) Vertebrate Smoothened functions at the primary cilium."
-Na- ture 437(7061):1018–1021. 11.
-"Rohatgi R, Milenkovic L, Scott MP (2007) Patched1 regulates hedgehog signaling at the primary cilium."
-Science 317(5836):372–376.
-12.
-"Kim J, Kato M, Beachy PA (2009) Gli2 trafficking links Hedgehogdependent activation of Smoothened in the primary cilium to transcriptional activation in the nucleus."
-Proc Natl Acad Sci USA 106(51):21666–21671. 13.
-"Wen X, et al. (2010) Kinetics of hedgehogdependent fulllength Gli3 accumulation in primary cilia and subsequent degradation."
-Mol Cell Biol 30(8):1910–1922. 14.
-"Skarnes WC, et al. (2011)"
-A conditional knockout resource for the genomewide study of mouse gene function.
-Nature 474(7351):337–342. 15.
-"Hildebrandt F, Benzing T, Katsanis N (2011) Ciliopathies."
-N Engl J Med 364(16): 1533–1543.
-25.
-"Yang Y, Roine N, Mäkelä TP (2013) CCRK depletion inhibits glioblastoma cell pro- liferation in a ciliumdependent manner."
-EMBO Rep 14(8):741–747.
-26.
-"Ozgül RK, et al.; European Retinal Disease Consortium (2011)"
-"Exome sequencing and cisregulatory mapping identify mutations in MAK, a gene encoding a regulator of ciliary length, as a cause of retinitis pigmentosa."
-Am J Hum Genet 89(2):253–264.
-27.
-"Tucker BA, et al. (2011)"
-Exome sequencing and analysis of induced pluripotent stem cells identify the ciliarelated gene male germ cellassociated kinase (MAK) as a cause of retinitis pigmentosa.
-Proc Natl Acad Sci USA 108(34):E569–E576.
-28.
-"Chen T, Wu D, Moskaluk CA, Fu Z (2013) Distinct expression patterns of ICK/MAK/ MOK protein kinases in the intestine implicate functional diversity."
-PLoS
-ONE 8(11): e79359. 29.
-"Avasthi P, Marshall WF (2012) Stages of ciliogenesis and regulation of ciliary length."
-Differentiation 83(2):S30–S42. 30.
-"Tam LW, Ranum PT, Lefebvre PA (2013) CDKL5 regulates flagellar length and localizes to the base of the flagella in Chlamydomonas."
-Mol Biol Cell 24(5):588–600.
-31.
-"Bhogaraju S, et al. (2013)"
-Molecular basis of tubulin transport within the cilium by IFT74 and IFT81.
-Science 341(6149):1009–1012.
-32.
-"Yuan S, et al. (2012) Targetof-rapamycin complex 1 (Torc1) signaling modulates cilia size and function through protein synthesis regulation."
-Proc Natl Acad Sci USA 109(6): 2021–2026.
-16.
-"Fu Z, et al. (2005) Activation of a nuclear Cdc2related kinase within a mitogenac- tivated protein kinaselike TDY motif by autophosphorylation and cyclindependent protein kinaseactivating kinase."
-Mol Cell Biol 25(14):6047–6064.
-33.
-"Wu D, et al. (2012) Intestinal cell kinase (ICK) promotes activation of mTOR complex 1 (mTORC1) through phosphorylation of Raptor Thr908."
-J Biol Chem 287(15):12510– 12519.
-8546
-| www.pnas.org/cgi/doi/10.1073/pnas.1323161111 Moon et al.
+"Intestinal cell kinase, a protein associated with endocrinecerebro-osteodysplasia syndrome, is a key regulator of cilia length and Hedgehog signaling Heejung Moona,1, Jieun Songa,1, JeongOh Shinb, Hankyu Leea, HongKyung Kimb, Jonathan T. Eggenschwillerc, Jinwoong Bokb,2, and Hyuk Wan Koa,2 aCollege of Pharmacy, Dongguk UniversitySeoul, Goyang, 410820, Korea; bDepartment of Anatomy, BK21 Plus Project for Medical Science, Yonsei University College of Medicine, Seoul 120752, Korea; and cDepartment of Genetics, University of Georgia, Athens, GA 30606 Edited by Kathryn V. Anderson, SloanKettering Institute, New York, NY, and approved April 29, 2014 (received for review December 12, 2013) Endocrinecerebro-osteodysplasia (ECO) syndrome is a recessive genetic disorder associated with multiple congenital defects in endocrine, cerebral, and skeletal systems that is caused by a missense mutation in the mitogenactivated protein kinaselike intestinal cell kinase (ICK) gene. In algae and invertebrates, ICK homologs are involved in flagellar formation and ciliogenesis, respectively."
+"However, it is not clear whether this role of ICK is conserved in mammals and how a lack of functional ICK results in the characteristic phenotypes of human ECO syndrome. Here, we generated Ick knockout mice to elucidate the precise role of ICK in mammalian development and to examine the pathological mechanisms of ECO syndrome. Ick, null mouse embryos displayed cleft palate, hydrocephalus, polydactyly, and delayed skeletal development, closely resembling ECO syndrome phenotypes."
+"In cultured cells, downregulation of Ick or overexpression of kinasedead or ECO syndrome mutant ICK resulted in an elongation of primary cilia and abnormal Sonic hedgehog (Shh) signaling. Wildtype ICK proteins were generally localized in the proximal region of cilia near the basal bodies, whereas kinasedead ICK mutant proteins accumulated in the distal part of bulged ciliary tips. Consistent with these observations in cultured cells, Ick knockout mouse embryos displayed elongated cilia and reduced Shh signaling during limb digit patterning."
+"Taken together, these results indicate that ICK plays a crucial role in controlling ciliary length and that ciliary defects caused by a lack of functional ICK leads to abnormal Shh signaling, resulting in congenital disorders such as ECO syndrome. LF4 | MRK | Smoothened | Gli2 | ciliopathy Endocrinecerebro-osteodysplasia (ECO) syndrome is a rare multifaceted human genetic disorder associated with anomalies in endocrine, cerebral, and skeletal systems. Six infants with ECO syndrome from a consanguineous Amish pedigree were observed to have multiple defects including hydrocephalus, holoprosencephaly, agenesis of the diencephalon, adrenal hypoplasia, and skeletal system defects such as cleft lip/palate, postaxial polydactyly, micromelia, hands with ulnar deviation, and bone underdevelopment (1)."
+"Genetic analysis of the infants with ECO syndrome revealed a missense mutation in a highly conserved Cterminal basic polar amino acid residue, Arg272, to neutral glutamine in the intestinal cell kinase (ICK) gene (1), which impairs the activation and subcellular localization of ICK in cultured cells. How these abnormalities in ICK result in pathological ECO syndrome phenotypes, however, remains unknown. ICK, which is highly expressed in intestinal crypt epithelium, shares sequence similarity with mitogenactivated protein kinase (MAPK) family proteins (2)."
+"The catalytic activity of ICK is regulated by dual phosphorylation of a MAPKlike TDY motif in the activation T loop as well as the phosphorylation of Thr residues in the TDY motif by cellcycle–related kinase (CCRK) (3). In the human kinome, ICK belongs to a poorly understood family of RCK kinases (the tyrosine kinase gene vros crosshybridizing kinase), which include male germcell–associated kinase (MAK) and MAPK/MAK/(MAKrelated kinase)MRKoverlapping kinase (MOK) (4). All RCK family kinases are composed of a Nter- minal catalytic domain with a TDY motif and variable lengths of a Cterminal domain with unknown function."
+"In a study of the function of RCK family kinases, MAK was found to negatively regulate cilia length in photoreceptor cells by phosphorylating retinitis pigmentosa 1 (5). In lower organisms, physiological roles of RCK family kinases are relatively well studied. It was shown that Long Flagellar 4 (LF4), the homolog of RCK kinases in Chlamydomonas, is localized in flagella, and null mutants of LF4 possess flagella that are twice as long as those in wild types (6)."
+"Furthermore, in Caenorhabditis elegans, disruption of the RCK homolog dyefilling defective 5 (dyf5) results in the elongation of neuronal cilia, whereas overexpression of DYF5 leads to the shortening of cilia (7). Although the physiological functions and downstream targets of RCK family kinases are not well understood in higher organisms, these studies suggest that the role of RCK family kinases in controlling ciliary length may be well conserved from singlecelled organisms to mammals. Primary cilia are microtubulebased organelles protruding from nearly all cells in the body."
+"A recent forward genetic screening study in mice showed that primary cilia are strongly linked to Hedgehog (Hh) signaling during vertebrate development (8). The role of primary cilia as signaling centers has since been implicated for major cellular signaling pathways that are important for development and tissue homeostasis (9). Out of the three Hh homologs identified in mammals, Sonic hedgehog (Shh) is the best characterized."
+"In the Significance Endocrinecerebro-osteodysplasia (ECO) syndrome, a human genetic disorder affecting multiple organs, is caused by a mutation in intestinal cell kinase (Ick) gene. In algae and invertebrates, ICK homologs are known to be associated with ciliary formation. However, it is unclear whether this role of ICK is conserved in mammals and whether clinical symptoms of ECO syndrome are caused by ciliary defects."
+"In this study, using in vivo and in vitro approaches, we found that abnormal ICK function indeed resulted in defective cilia, leading to abnormal Hedgehog signaling. Our results suggest that the role of ICK in ciliogenesis may be highly conserved throughout evolution and that ECO syndrome may be categorized as a ciliopathy, an increasingly recognized class of human genetic disorders. Author contributions: H.M., J.S., J.-O.S., H.L., H.-K.K., J.B., and H.W.K. designed research; H.M., J.S., J.-O.S., H.L., and H.-K.K. performed research; H.M., J.S., J.-O.S., H.L., H.-K.K., J.B., and H.W.K. analyzed data; and H.M., J.S., J.T.E., J.B., and H.W.K. wrote the paper."
+The authors declare no conflict of interest. This article is a PNAS Direct Submission. 1H. M. and J.S. contributed equally to this work.
+2To whom correspondence may be addressed. Email: kohw@dongguk.edu or bokj@yuhs.ac. This article contains supporting information online at www.pnas.org/lookup/suppl/doi:10.
+"1073/pnas.1323161111/-/DCSupplemental. www.pnas.org/cgi/doi/10.1073/pnas.1323161111 PNAS | June 10, 2014 | vol. 111"
+"| no. 23 | 8541–8546 absence of SHH protein, the Patched1 (Ptch1) transmembrane receptor, which resides in primary cilia, represses Shh signaling by inhibiting ciliary translocation of the transmembrane protein Smoothened (Smo), a master regulator of the Shhsignaling cascade. When SHH protein binds to PTCH1, the repressive action of Ptch1 on Smo is relieved, resulting in the translocation of activated Smo into the ciliary membrane compartment (10, 11)."
+"Activated Smo then initiates an intracellular signaling cascade, leading to the activation of Gli transcription factors in the ciliary tip and the expression of Shhtarget genes. Accumulating evidences indicate that posttranslational modifications of Gli occurring in primary cilia affect Gli metabolism and transcriptional activity (12, 13). Here, to elucidate the role of ICK in ECO syndrome, we generated Ick knockout mice that recapitulate most of the clinical symptoms of ECO syndrome."
+"We observed that abnormally elongated cilia and compromised Shh signaling in both Ick knockout embryos and cultured cells treated with Ickspecific siRNAs or overexpressing kinasedead ICK mutants. Abnormal ciliary morphology and Shh signaling were also observed in cells overexpressing the ICK mutant protein (R272Q) identified in human ECO syndrome. Whereas wildtype ICK was localized at the base of primary cilia, inactive forms of ICK accumulated at ciliary tips."
+"Our findings suggest that the role of ICK in the regulation of ciliogenesis is conserved across species and, furthermore, that aberrant ciliogenesis caused by a lack of functional ICK results in abnormal SHH signaling and developmental disorders such as ECO syndrome. Results Genetic Disruption of Ick Expression Causes Multiple Developmental Defects in Mice. To generate a targeted mutation of the ICK gene, gene trapping of Ick with a βgalactosidase reporter tagged with an insertional cassette was conducted as a part of the International Knockout Mouse Consortium project (14)."
+"The Icktm1a(KOMP)Mbp allele (Icktm1a) contained an engrailed splicing acceptor sequence and a βgalactosidase reporter gene between exons 5 and 6, resulting in a truncated, nonfunctional fusion transcript of Ick. Reverse transcription PCR (RTPCR) analysis of RNA extracted from embryonic day 10.5 Icktm1a whole mouse embryos revealed a significant disruption of Ick mRNA transcription. Using primers corresponding to exon 5 and neighboring exons or βgalactosidase, the homozygous Icktm1a/tm1a allele selectively amplified a truncated βgalactosidase hybrid transcript rather than the normal Ick transcript at the junction of exons 5 and 6 observed in wildtype and heterozygous embryos (Fig. 1A)."
+Quantitative realtime RTPCR analysis showed more than 90% reduction in Ick mRNA levels in homozygote Icktm1a/tm1a embryos compared with wild type (Fig. S1). Gross morphology of homozygous Icktm1a/tm1a mouse embryos appeared normal during early development.
+"However, multiple defects became obvious during later stages of gestation, such as peripheral edema, cleft palate, hydrocephalus, and preaxial polydactyly, which are characteristic clinical features observed in human ECO syndrome (Fig. 1 B–E) (1). We also observed defects in skeletal development that manifested as deviated ulnar formation, shorter limbs, and reduced bone mineralization (Fig. 1E)."
+"Homozygous Icktm1a/tm1a mice generally displayed embryonic lethality at late stages of gestation with unknown cause. Interestingly, these phenotypic abnormalities in Ick mutant mice and humans with ECO syndrome have features in common with other human genetic disorders collectively called ciliopathies, which are caused by inappropriate formation or maintenance of primary cilia (15). These findings raise the possibility that ICK plays a role in the homeostatic control of ciliogenesis in mammals."
+"ICK, Regulates the Length of Primary Cilia in Cultured Cells. Previous studies show that the amino acid sequence of ICK is similar to that of LF4, which is known to regulate flagella length in the Ick mutant mice have ECO syndromelike features. (A) RTPCR Fig."
+"1. analyses with RNAs from embryonic day (E) 10.5 embryos confirmed that, whereas normal transcripts spliced between exons 5 and 6 of the Ick gene were expressed in wild type, truncated Ick transcripts, fused with LacZ, were expressed in Icktm1a/tm1a homozygotes. (B) E15.5 Icktm1a/tm1a embryos showed extensive edema at the head and back (red arrowhead). (Scale bars, 1.5 mm.)"
+"(C) Icktm1a/tm1a mutants exhibited cleft palates in the roof of the oral cavity (Left, asterisk). (Scale bars, 1 mm.) Coronal sections further demonstrate the cleft palate in mutant embryos (Right)."
+"(Scale bars, 300 μm.) (D) Developing telencephalon in Icktm1a/tm1a embryos showed severely dilated ventricles. (Scale bars, 300 μm.)"
+"(E) E15.5 Icktm1a/tm1a forelimbs displayed polydactyly (Upper). (Scale bars, 200 μm.) Additionally, alcian blue/alizarin red staining in E18.5 Icktm1a/tm1a embryos revealed delayed ossification in the digits and severely distorted and shortened long bones (Lower)."
+"(Scale bars, 500 μm.) Unicellular organism Chlamydomonas reinhardtii (6). As primary cilia and flagella share several structural and functional features, we asked whether the role of ICK in regulating flagella length is conserved in mammals."
+"To test this possibility, we overexpressed 3× Flagtagged wildtype or kinaseinactive forms [K33R or TDY mutant (mut)] of ICK in cultured cells and examined their effects on the formation of primary cilia (16). Ciliogenesis is dependent on cell cycle stage, with the formation of primary cilium induced by entering the G1/0 stage (17). To induce ciliogenesis, we replaced growth media with low serumcontaining media 1 d after transfection."
+"After 2 d in low serum media, transfected cells were fixed and immunostained with a ciliaspecific antibody (Arl13b). Interestingly, most cells overexpressing wildtype ICK displayed an absence of cilia or, less frequently, shorter cilia than those of nontransfected controls (Fig. 2 A and B). By contrast, primary cilia in cells overexpressing inactive forms of ICK (K33R or TDY mut) were significantly longer than those of nontransfected controls (Fig."
+"2 A and B). These results suggest that the role of ICK, a mammalian homolog of LF4, in regulating ciliary length is conserved from unicellular organisms to mammals. Specific Knockdown of Ick by siRNA Elongates Primary Cilia."
+"To examine the effect of endogenous ICK on ciliary length control, we generated Ickspecific siRNAs and checked their knockdown efficacy in cells stably transfected with ICK3FLAG-EGFP using Western blot analysis with FLAG antibody. Ick, siRNA 2 but not 4 dramatically downregulated ICK expression (Fig. 2C). In cells treated with siRNA 2, primary cilia were significantly longer than those in cells treated with scrambled siRNA (CTRL) or siRNA 4 (Fig."
+"2 D and E). To exclude possible siRNA offtarget effects, we confirmed the results using two shRNAs targeting other regions of Ick sequence in tissue culture cells. The resulting phenotypes obtained using these shRNAs were similar to those obtained using siRNA, indicating that the ciliary phenotypes are due to specific knockdown of ICK rather than offtarget effects 8542"
+"| www.pnas.org/cgi/doi/10.1073/pnas.1323161111 Moon et al. overexpressing wildtype or mutant ICK, indicating that aberrant ICK activity disrupts its regulation of ciliary length, which subsequently leads to abnormal Shh signaling. Next, we examined the molecular mechanisms of abnormal Shh signaling caused by aberrant ICK activity. As ciliary localization of Smo is a key step that activates the Shh transduction pathway, we examined whether the ciliary localization of Smo is disrupted by knockdown of ICK expression."
+"Previous studies show that the binding of Shh to Ptch receptors relieves the blockade of Smo ciliary localization and Gli accumulation in ciliary tips (11). In the present study, cells were stably transfected with SmoEGFP, leading to an even distribution of Smo across entire cilia (Fig. 4B). When Ick expression was knocked down with siRNA, cilia were abnormally elongated, and SmoEGFP was no longer evenly distributed but rather showed interrupted and balloonlike intermittent accumulation in elongated cilia (Fig."
+"4B, Left). We also examined the subcellular localization of Gli transcription factors. GLI2 proteins were normally localized at the ciliary tip, which is important for the activation of GLI proteins in response to Shh signaling (12, 18)."
+"However, downregulation of ICK by siRNA 2 caused Gli2 to accumulate in the axoneme of elongated cilia in punctate fashion (Fig. 4B, Right). Independent approaches, using Ick shRNA stable cell lines, also showed punctate accumulations of Gli2 along the ciliary axoneme (Fig. S2D)."
+These results suggest that Shh signaling is compromised by disrupted ICK activity due to the abnormal ciliary localization of SMO and GLI2 proteins. Ciliary Morphology and Shh Signaling Are Disrupted in Icktm1a/tm1a Embryos. We observed that normal ciliary formation and Shh signaling are compromised by abnormal ICK activity in cultured cells.
+"To confirm these findings in vivo, we examined Shh signaling and ciliary morphology in polydactyl Ick knockout mouse limbs. Shh, signaling is known to play an important role in vertebrate digit patterning by establishing a posteriorto-anterior concentration gradient in the limb buds, which in turn sets up opposing gradients of Gli activators and Gli3 repressor that are critical for specification of digit identity (19). We found that compared with wildtype embryos, Ick knockout embryos exhibited decreased expression of Shhtarget genes such as Gli1 and Ptch1 in the posterior region of limb buds (Fig. 5A), indicating compromised Shh signaling."
+"Moreover, HoxD13, which is normally inhibited by Gli3 repressor in the anterior limb bud, ICK activity is required for its ciliary localization. To determine the Fig. 3. subcellular localization of WT or mutant (K33R or TDY mut) ICK in primary cilia, cultured cells were transfected with appropriate plasmids and immunostained with Arl13b (blue) and γtubulin (γTub, red) antibodies for cilia and basal bodies, respectively."
+"Wildtype ICK was localized near the basal body of shortened cilia. By contrast, inactive ICK mutants were localized at the distal tip of cilia, which displayed swollen morphology. (Scale bars: 5 μm, Left; 1 μm, Right.)"
+"Fig. 2. ICK, kinase activity levels determine the length of primary cilia. (A and B)"
+"FLAGtagged wildtype and kinaseinactive forms of ICK (K33R and TDY mut) were transfected into cultured cells. (A) Cilia and transfected ICK were visualized by immunofluorescent staining with acetylated tubulin (acTub, green) and FLAG (red) antibodies, respectively. Overexpression of wildtype ICK either suppressed cilia formation or shortened ciliary length."
+"By contrast, overexpression of inactive ICK increased ciliary length. (B) Quantification of ciliary length in CTRL (n = 56), K33R (n = 56), or TDY mut (n = 58) ICK overexpressing cells. (C) Western blot analysis showed that ICK protein levels were significantly decreased by Ick siRNA 2 compared with control siRNA or siRNA 4."
+(D and E) Primary cilia were stained by Arl13b antibody (green) to analyze cilia length (n = 14) (D) and morphology (E). Knockdown of ICK by siRNA 2 resulted in longer primary cilia than those observed after control siRNA or siRNA 4 treatment. Error bars reflect standard SEM and asterisk denotes statistical significance according to Student’s t tests in B and D (*P < 0.01).
+"(Scale bars in A and E, 5 μm.) (Fig. S2 A and B)."
+"These results are consistent with the elongation of cilia caused by overexpression of kinasedead ICK mutants, which presumably act as dominant negatives against endogenous ICK. Furthermore, these findings confirm that overall levels of activity or expression of ICK are inversely correlated with the length of primary cilia in cultured cells. Localization of ICK to the Basal Body of Primary Cilia Is Dependent on Its Kinase Activity."
+"We observed that ICK was normally localized to cilia but that this localization was compromised by kinasedead mutations of ICK. To further determine the subcellular localization of ICK within cilia, we transfected ICKEGFP into cultured cells and analyzed ICKEGFP fluorescence using markers of cilia (Arl13b) and basal bodies (γtubulin). Wildtype ICKEGFP was generally observed near the basal body of cilia (Fig. 3, Upper two panels)."
+"By contrast, inactive mutant forms of ICK (K33R or TDY mut) were not observed at the base of cilia but instead exclusively localized at ciliary tips (Fig. 3, Lower two panels). These results indicate that ICK is generally located at the base of cilia and that this localization is dependent on its kinase activity. Altering ICK Kinase Activity Disrupts Shh Signal Transduction."
+"Accumulating evidence suggests that primary cilia play crucial roles in Shh signal transduction (9). Therefore, we examined whether Shh signaling is compromised in cells with abnormal ciliary morphology caused by overexpression of wildtype or mutant ICK. Cells were transfected with a Gliluciferase reporter and wildtype or mutant ICK plasmids."
+"In control cells (i.e., no ICK overexpression), treatment with SHHNconditioned media significantly increased Gli reporter activity (Fig. 4A). However, this SHHNtreatment–induced Gli reporter activity was compromised in cells Moon et al. PNAS | June 10, 2014 | vol."
+"111 | no. 23 | 8543 R272Q) were overexpressed in cultured cells, primary cilia were significantly elongated (Fig. 6 A and B), similar to the phenotypes induced by overexpression of kinasedead ICK mutants."
+"We also observed that the overexpression of R272 mutant ICK compromised SHH signaling as assessed by Gli promoter activity (Fig. 6C). Together, these results suggest that the ICK R272Q mutation identified in ECO syndrome causes multiple developmental defects, which result from abnormalities in ciliogenesis and SHH signaling during mammalian embryogenesis. Discussion Primary cilia are key signaling centers that regulate a variety of signal transduction pathways, such as those for Hh and Wnt, that are important for animal development and homeostasis (9, 22)."
+"Aberrant ciliary structure or function in humans causes pleiotropic congenital disorders collectively known as ciliopathies, which exhibit variable degrees of abnormalities in many different bodily organs including the kidney, brain, limb, eye, ear, liver, and bone (15). Human genetic studies showed that ICK is mutated in a congenital disorder called ECO syndrome, which shares some clinical symptoms with ciliopathies (1). Interestingly, ICK homologs in Chlamydomonas and C. elegans are important for regulating ciliary formation and function, raising the possibility that ECO syndrome could also be categorized as a ciliopathy."
+"In the present study, by generating and analyzing an Ick knockout mouse, we provide in vivo evidence that abnormal ICK function results in aberrant ciliary morphology and Shh function, which leads to developmental defects resembling symptoms of ECO syndrome (Fig. 1 and Fig. S3). Using in vitro cell culture, we found that ciliary length is inversely correlated with levels of ICK kinase activity, and Shh signaling is affected by either too much or too little ICK activity, resulting in abnormal ciliary localization of key Shh signaling mediators such as Smo and Gli2. Our results demonstrate that the role of ICK in regulating ciliary length is conserved in mammals and suggest that the anomalies associated with ECO syndrome are caused by improper ciliogenesis and SHH signal transduction during fetal development."
+"The present and previous studies suggest that the mechanisms regulating ciliary length might be well conserved throughout the animal kingdom. In Chlamydomonas, four different mutated proteins cause abnormally elongated flagella, including LF2 and LF4 kinases that are homologs of vertebrate CCRK and MAK/ICK, respectively (23). We previously showed that Ccrk knockdown in zebrafish results in abnormal ciliogenesis in kidney epithelial cells (24)."
+"Similarly, depletion of Ccrk in cultured cells results in elongated cilia (25). In addition, a forward genetic screen of C. elegans identified dyf5 kinase, an ortholog of LF4, as a regulator of ciliary length and function (7). In humans, loss of MAK, a homolog of LF4 and paralog of ICK, results in elongated cilia in photoreceptor cells, causing retinitis pigmentosa (5, 26, 27)."
+"These results suggest that the control of ciliary length by LF2 (CCRK) and LF4 (MAK/ ICK) is well conserved from Chlamydomonas to mammals, and both kinases appear to maintain proper ciliary length by negatively regulating axoneme growth. Interestingly, a recent study suggests that the control of ciliary length by CCRK is mediated by ICK (25). In fibroblast and glioblastoma cells, overexpression of ICK reduces the number of cilia in a CCRKdependent manner, whereas knockdown of ICK resulted in increased ciliary length comparable to CCRK depletion (25)."
+"The threonine residue T157 of ICK appears to be a CCRK phosphorylation site required for the inhibitory function of ICK in ciliogenesis (25). Consistent with the abnormal ciliary morphology, overexpression of ICK reduces Shh responsiveness in cultured cells (25). These results suggest that CCRK acts as an upstream regulator of ICK in ciliary length control and Shh signal transduction."
+"RCK family kinases including ICK, MAK, and MOK are composed of a highly conserved Nterminal kinase catalytic domain with a variable noncatalytic Cterminal domain and show Fig. 4. ICK, regulates Smo and Gli2 localization in primary cilia. (A) Responsiveness to Shh was assayed in cultured cells using an 8 × 3′ GliBS luciferase reporter construct. Responsiveness to Shh was decreased in cells overexpressing any types of ICK proteins compared with nontransfected (CTRL) cells."
+Error bars = SEM. *P < 0.01 (Student’s t tests). (B)
+"In cells treated with control siRNA (CTRL), SmoEGFP fluorescence was evenly distributed across entire cilia, which were stained with acetylated tubulin (acTub) antibody. By contrast, SmoEGFP was observed in a punctate pattern in elongated cilia in ICK siRNA 2 transfected cells (Right). In CTRL cells, endogenous GLI2 proteins were localized at the tip of primary cilia, whereas in Ick siRNA 2 transfected cells, GLI2 proteins showed additional sites of accumulation in the axoneme of elongated cilia (Right)."
+"(Scale bars, 2.5 μm.) was ectopically upregulated (Fig. 5A), suggesting that Gli3 repressor function is also affected by Ick loss of function. To confirm that compromised Shh signaling is due to abnormal cilia morphology, we examined primary cilia in Ick knockout limb buds. We observed that primary cilia in Ick knockout limb buds were indeed significantly elongated compared with those in wildtype limb buds (Fig. 5 B and C)."
+"Primary cilia are regarded as Shh signaling processing centers, not only for activation of GLI proteins upon SHHPTCH1 binding but also for proteasomedependent cleavage of Gli3 fulllength proteins to truncated repressor forms in the absence of SHH ligand (13, 18). Therefore, we examined whether Gli3 processing is affected in Ick mutant embryos. We found that GLI3 fulllength proteins accumulated abnormally in Ick mutant limb buds and whole embryos compared with wildtype limb buds and embryos (Fig. 5D), indicating that Gli3 processing is affected by the lack of ICK function."
+"Several reports showed that genes regulating Shh signal transduction at the level of cilia could also regulate ciliary architecture (20, 21). We thus examined the ultrastructure of cilia from Ick mutant embryos using electron microscopy (EM). Scanning EM showed that cilia from Ick mutant limb buds were significantly elongated compared with controls (Fig."
+"5E, Left). Longitudinal views of Ick mutant cilia from transSimilarly, mission EM showed longer axonemes than controls. However, crosssection views of Ick mutant cilia at the level of basal body or axoneme were indistinguishable from controls (Fig."
+"5E, Right). These results indicate that ICK function is mainly involved in ciliary length control rather than regulating ciliary architecture. The ICK Mutation Identified in Human ECO Syndrome Causes Elongated Cilia and Compromised SHH Responsiveness."
+"Finally, we examined outcomes of the ICK point mutation (R272Q) identified in human ECO syndrome (1). When mutant versions of ICK (R272A or 8544 | www.pnas.org/cgi/doi/10.1073/pnas.1323161111 Moon et al. Fig. 5. Ick, mutant embryos have defects in HH signaling and ciliogenesis."
+"(A) Expressions of Gli1, Ptch1, and Hoxd13, which were normally restricted to posterior regions of E10.5 wildtype limb buds, were decreased in the posterior regions and ectopically increased in the anterior regions of limb buds of Icktm1a/tm1a mutants (arrowheads). (B and C) Frozen sections of E11.5 limb buds were stained with Arl13b (green) and γTub (red) antibodies. Ciliary lengths in Icktm1a/tm1a mutants (3.35 ± 0.10 μm, n = 96) were ∼2.5fold longer than those in wild type (1.38 ± 0.06 μm, n = 54)."
+*P < 0.01 (unpaired Student’s t tests). (D) Gli3 processing was analyzed by Western blotting with antiGLI3 antibody for cell lysates from E9.5 wildtype (WT) or Ick mutant (m) whole embryos or limb buds. The antibody recognized fulllength [GLI3(FL)] and processed [GLI3®] forms of GLI3 protein.
+"Extracts from Gli3 knockout embryos were used as a control. (E) Scanning electron microscopy (EM) showed that primary cilia in the limb ectoderm of Icktm1a/tm1a mutants were significantly longer compare with Ick controls. (Scale bars: Left, 500 μm; Right, 300 μm.)"
+"Transmission EM showed that ultrastructures of primary cilia in the limb mesenchyme of Icktm1a/tm1a mutants were indistinguishable from those of controls in both longitudinal and crosssection views. (Scale bars: Left, 2 μm; Right, 0.5 μm.) +/+ was also differentially affected in different tissues of Icktm1a/tm1a embryos, consistent with its embryonic expression pattern (Fig. S4)."
+"Whereas cilia were abnormally elongated in the limb bud, ciliary formation was generally unaffected in the spinal neural tube. Consistently, Shh signaling and organ development were mainly affected in tissues displaying abnormal ciliogenesis such as limbs but not in spinal neuroepithelium (Fig. S5)."
+"These results suggest that although RCK family kinases play redundant roles in the control of ciliary length, their distinct expression patterns may give rise to specific functional deficits, leading to diverse tissuespecific ciliary defects when their functions are disrupted. What might be the molecular mechanisms by which ICK restricts ciliary growth in mammals? In C. elegans, the loss of function of Dyf5 kinase, a homolog of MAK/ICK, results in the elongated cilia and the mislocalization of ciliary transport proteins such as IFTs and motor proteins such as kinesin within ciliary axonemes (7), indicating that DYF5 may control the ciliary transport system to ensure proper cilia length in nematodes."
+"In mammals, Mak null mice also show ciliary accumulation of IFTs, indicating that MAK may also control the ciliary length through regulating intraflagellar transport (5). In the present study, we observed that abnormal ICK function resulted in the mislocalization of key mediators for Shh signaling such as Smo and Gli2 within elongated cilia, indicative of abnormal transport of ciliary proteins. Interestingly, when the kinase activity of ICK was compromised, the localization of ICK proteins shifted from the basal body to the tip of cilia, suggesting that ICK proteins themselves may be shuttling between ciliary bases and tips and kinase activity may be required for the retrograde transport of ICK to the base of cilia under normal conditions."
+"Because both the rate of protein flow in and out of cilia and cilia length are determined by the dynamic balance between anterograde and retrograde transport (29), it is possible that ICK maintains proper ciliary length by modulating IFT movement and ciliary transport machinery (9). Recently, a new long flagellar mutant, lf5, encoding a homolog of mammalian CDKL5 kinase, was identified in Chlamydomonas (30). Similar to ICK in mammals, unique spatiotemporal expression patterns throughout development (4, 28)."
+"Ick, is broadly expressed in the body with variable levels depending on the tissues (4, 28). In contrast, MAK and MOK show more restricted expression patterns, such that MAK is highly expressed in retina, prostate, stomach, and testis, whereas MOK is in brain, kidney, and liver (5, 28). Consistent with its localization, cilia are abnormally elongated in Mak null photoreceptor cells, which undergo progressive degeneration (5)."
+Ciliogenesis Fig. 6. The ICK mutation identified in human ECO syndrome causes defects in ciliogenesis and HH signaling.
+"ICK3FLAG mutant (R272Q and R272A) plasmids were transfected into cultured cells. After transfection, cells were stained with fluorescent Arl13b (green) and FLAG (red) antibodies. (A and B) Ciliary length was increased by approximately twofold by overexpression of ICK mutant proteins."
+"Transfected ICK mutant proteins were localized at the bulged tips of primary cilia. (Scale bars, 5 μm.) (C) SHH responsiveness was severely compromised by overexpression of wildtype or mutant forms of ICK in cultured cells treated with SHHNconditioned media."
+"Error bars in B and C represent SEM. *P < 0.01; **P < 0.05 (Student’s t tests). Moon et al. PNAS | June 10, 2014 | vol."
+"111 | no. 23 | 8545 LF5 localizes to the proximal region of flagella, and mutations of lf5 results in abnormally elongated flagella. Proximal localization of LF5, which is dependent on other LF proteins such as LF2 (CCRK in mammals), was suggested to be important for flagella length control (30)."
+"Consistently, two IFT core proteins, IFT74 and IFT81, were found be localized at the base of cilia, playing a critical role in ciliogenesis by modulating the transport of tubulin within the cilia (31). Whether ICK maintains proper ciliary length by modulating IFT activities and ciliary transport machinery warrants further investigation. Alternatively, ICK could also regulate ciliary length through the mammalian targetof-rapamycin (mTOR) signaling pathway."
+"A recent study shows that mTOR signaling regulates ciliary length and function in zebrafish (32). Specifically, rapamycin, an inhibitor of TOR complex 1 (mTORC1), shortens ciliary length, whereas activation of the mTOR pathway elongates cilia. Furthermore, the role of mTORC1 in regulating ciliary length is mediated by the regulation of ciliary protein synthesis through activation of a ribosomal protein S6k1."
+"Recently, ICK was shown to act as an upstream regulator of the mTORC1 signaling pathway to promote cell proliferation and G1 cell cycle progression (3, 33). Thus, it would be worth investigating whether ICK influences ciliary length by the translational regulation of ciliary proteins through the mTORC1 signaling pathway. In summary, using in vivo and in vitro approaches, we found evidence suggesting that the role of ICK in ciliogenesis may be highly conserved throughout evolution."
+"In mammals, ICK plays a critical role in controlling ciliary length and function, which are important for transducing signaling pathways such as Shh. As lack of ICK activity severely disrupts normal development of multiple organs in mice, this may also be the mechanism underlying the clinical symptoms of human ECO syndrome. These results suggest that ECO syndrome may be categorized as a ciliopathy, an increasingly recognized class of human genetic disorders."
+"Materials and Methods All materials and methods used in this study are detailed in SI Materials and Methods. This includes a detailed description of generation of Icktm1a/tm1a mice, cell culture, gene silencing, quantitative realtime RTPCR, immunoblotting, immunofluorescence staining, and measurement of cilia length, luciferase assay, histology and skeleton preparation, electron micrographs, and whole mount in situ hybridization. All antibodies and sequences used in this study are also listed in SI Materials and Methods."
+"ACKNOWLEDGMENTS. We are very grateful to our laboratory members for critical comments on the manuscript and Drs. Suzie J. Scales, Hiroshi Sasaki, Wendy Ingram, and Tamara Caspary for kindly providing GLI3 antibody and plasmid DNA reagents."
+"This research was supported by the Basic Science Research Program through the National Research Foundation of Korea (NRF) funded by the Ministry of Education, Science, and Technology, Grants 20100010803, 20080061888, NRF2012M3A9C1053532, and NRF2012R1A2A2A02014188 (to H.W.K.) and 2012R1A1A2041348 (to J.B.) and by the Bio and Medical Technology Development Program of the NRF, funded by the Ministry of Science, ICT, and Future Planning, Grant 2013072551 (to J.B.). 1. Lahiry P, et al. (2009) A multiplex human syndrome implicates a key role for intestinal cell kinase in development of central nervous, skeletal, and endocrine systems."
+"Am J Hum Genet 84(2):134–147. 2. Togawa K, Yan YX, Inomoto T, Slaugenhaupt S, Rustgi AK (2000) Intestinal cell kinase (ICK) localizes to the crypt region and requires a dual phosphorylation site found in map kinases. J Cell Physiol 183(1):129–139."
+"3. Fu Z, Kim J, Vidrich A, Sturgill TW, Cohn SM (2009) Intestinal cell kinase, a MAP kinaserelated kinase, regulates proliferation and G1 cell cycle progression of intestinal epithelial cells. Am J Physiol Gastrointest Liver Physiol 297(4):G632–G640."
+"4. Miyata Y, Nishida E (1999) Distantly related cousins of MAP kinase: Biochemical properties and possible physiological functions."
+"Biochem Biophys Res Commun 266(2): 291–295. 5. Omori Y, et al. (2010) Negative regulation of ciliary length by ciliary male germ cellassociated kinase (Mak) is required for retinal photoreceptor survival. Proc Natl Acad Sci USA 107(52):22671–22676."
+"17. Tucker RW, Pardee AB, Fujiwara K (1979) Centriole ciliation is related to quiescence and DNA synthesis in 3T3 cells."
+"Cell 17(3):527–535. 18. Haycraft CJ, et al. (2005) Gli2 and Gli3 localize to cilia and require the intraflagellar transport protein polaris for processing and function."
+PLoS Genet 1(4):e53. 19.
+"Wang B, Fallon JF, Beachy PA (2000) Hedgehogregulated processing of Gli3 produces an anterior/posterior repressor gradient in the developing vertebrate limb. Cell 100(4):423–434. 20. Caspary T, Larkins CE, Anderson KV (2007)"
+The graded response to Sonic Hedgehog depends on cilia architecture. Dev Cell 12(5):767–778. 21.
+"Lee JE, et al. (2012) CEP41 is mutated in Joubert syndrome and is required for tubulin glutamylation at the cilium. Nat Genet 44(2):193–199. 22."
+"Eggenschwiler JT, Anderson KV (2007) Cilia and developmental signaling. Annu Rev Cell Dev Biol 23:345–373. 23."
+"Wilson NF, Iyer JK, Buchheim JA, Meek W (2008) Regulation of flagellar length in Chlamydomonas. Semin Cell Dev Biol 19(6):494–501."
+"6. Berman SA, Wilson NF, Haas NA, Lefebvre PA (2003) A novel MAP kinase regulates 24."
+"Ko HW, et al. (2010) Broadminded links cell cyclerelated kinase to cilia assembly and flagellar length in Chlamydomonas. Curr Biol 13(13):1145–1149. Hedgehog signal transduction."
+"Dev Cell 18(2):237–247. 7. Burghoorn J, et al. (2007) Mutation of the MAP kinase DYF5 affects docking and undocking of kinesin2 motors and reduces their speed in the cilia of Caenorhabditis elegans. Proc Natl Acad Sci USA 104(17):7157–7162. 8."
+"Huangfu D, et al. (2003) Hedgehog signalling in the mouse requires intraflagellar transport proteins. Nature 426(6962):83–87."
+"9. Goetz SC, Anderson KV (2010) The primary cilium: A signalling centre during verte- brate development."
+"Nat Rev Genet 11(5):331–344. 10. Corbit KC, et al. (2005) Vertebrate Smoothened functions at the primary cilium."
+"Na- ture 437(7061):1018–1021. 11. Rohatgi R, Milenkovic L, Scott MP (2007) Patched1 regulates hedgehog signaling at the primary cilium. Science 317(5836):372–376."
+"12. Kim J, Kato M, Beachy PA (2009) Gli2 trafficking links Hedgehogdependent activation of Smoothened in the primary cilium to transcriptional activation in the nucleus. Proc Natl Acad Sci USA 106(51):21666–21671. 13."
+"Wen X, et al. (2010) Kinetics of hedgehogdependent fulllength Gli3 accumulation in primary cilia and subsequent degradation. Mol Cell Biol 30(8):1910–1922. 14. Skarnes WC, et al. (2011)"
+"A conditional knockout resource for the genomewide study of mouse gene function. Nature 474(7351):337–342. 15. Hildebrandt F, Benzing T, Katsanis N (2011) Ciliopathies."
+"N Engl J Med 364(16): 1533–1543. 25. Yang Y, Roine N, Mäkelä TP (2013) CCRK depletion inhibits glioblastoma cell pro- liferation in a ciliumdependent manner."
+"EMBO Rep 14(8):741–747. 26. Ozgül RK, et al.; European Retinal Disease Consortium (2011)"
+"Exome sequencing and cisregulatory mapping identify mutations in MAK, a gene encoding a regulator of ciliary length, as a cause of retinitis pigmentosa. Am J Hum Genet 89(2):253–264. 27."
+"Tucker BA, et al. (2011) Exome sequencing and analysis of induced pluripotent stem cells identify the ciliarelated gene male germ cellassociated kinase (MAK) as a cause of retinitis pigmentosa. Proc Natl Acad Sci USA 108(34):E569–E576."
+"28. Chen T, Wu D, Moskaluk CA, Fu Z (2013) Distinct expression patterns of ICK/MAK/ MOK protein kinases in the intestine implicate functional diversity. PLoS"
+"ONE 8(11): e79359. 29. Avasthi P, Marshall WF (2012) Stages of ciliogenesis and regulation of ciliary length. Differentiation 83(2):S30–S42. 30."
+"Tam LW, Ranum PT, Lefebvre PA (2013) CDKL5 regulates flagellar length and localizes to the base of the flagella in Chlamydomonas. Mol Biol Cell 24(5):588–600. 31."
+"Bhogaraju S, et al. (2013) Molecular basis of tubulin transport within the cilium by IFT74 and IFT81. Science 341(6149):1009–1012."
+"32. Yuan S, et al. (2012) Targetof-rapamycin complex 1 (Torc1) signaling modulates cilia size and function through protein synthesis regulation. Proc Natl Acad Sci USA 109(6): 2021–2026."
+"16. Fu Z, et al. (2005) Activation of a nuclear Cdc2related kinase within a mitogenac- tivated protein kinaselike TDY motif by autophosphorylation and cyclindependent protein kinaseactivating kinase. Mol Cell Biol 25(14):6047–6064."
+"33. Wu D, et al. (2012) Intestinal cell kinase (ICK) promotes activation of mTOR complex 1 (mTORC1) through phosphorylation of Raptor Thr908. J Biol Chem 287(15):12510– 12519."
+8546 | www.pnas.org/cgi/doi/10.1073/pnas.1323161111 Moon et al.

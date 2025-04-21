@@ -1,406 +1,136 @@
-"© The American Society of Gene & Cell Therapy original article Lentiviral Vector Induced Insertional Haploinsufficiency of Ebf1 Causes Murine Leukemia Dirk Heckl1, Adrian Schwarzer1, Reinhard Haemmerle1, Doris Steinemann2, Cornelia Rudolph2, Britta Skawran2, Sabine Knoess1, Johanna Krause1, Zhixiong Li1, Brigitte Schlegelberger2, Christopher Baum1 and Ute Modlich1 1Institute of Experimental Hematology, Hannover Medical School, Hannover, Germany; 2Institute of Cell and Molecular Pathology, Hannover Medical School, Hannover, Germany Integrating vectors developed on the basis of various retroviruses have demonstrated therapeutic potential following genetic modification of longlived hematopoietic stem and progenitor cells.  "
-"Lentiviral vectors (LV) are assumed to circumvent genotoxic events previously observed with γretroviral vectors, due to their integration bias to transcription units in comparison to the γretroviral preference for promoter regions and CpG islands.  "
-"However, recently several studies have revealed the potential for gene activation by LV insertions.  "
-"Here, we report a murine acute Blymphoblastic leukemia (BALL) triggered by insertional gene inactivation."
-"LV integration occurred into the 8th intron of Ebf1, a major regulator of Blymphopoiesis.  "
-"Various aberrant splice variants could be detected that involved splice donor and acceptor sites of the lentiviral construct, inducing downregulation of Ebf1 fulllength message.  "
-"The transcriptome signature was compatible with loss of this major determinant of Bcell differentiation, with partial acquisition of myeloid markers, including Csf1r (macrophage colony- stimulating factor (MCSF) receptor).  "
-"This was accompanied by receptor phosphorylation and STAT5 activation, both most likely contributing to leukemic progression.  "
-Our results highlight the risk of intragenic vector integration to initiate leukemia by inducing haploinsufficiency of a tumor suppressor gene.  
-We propose to address this risk in future vector design.
-Received 27 February 2012; accepted 27 February 2012; advance online publication 3 April 2012.
-"Doi:10.1038/mt.2012.59 IntroductIon Gene therapy with γretroviral vectors has shown its potential to treat inherited immunodeficiencies.1 However, safety concerns arose with the occurrence of severe adverse events, namely leukemias and myelodysplastic syndromes, after insertional activation of protooncogenes by the integrated vector.2–4 Selfinactivating lentiviral vectors (SINLVs), which lack viral enhancer elements and show a potentially safer, albeit more intragenic insertion pro file,5,6 are increasingly used in new clinical trials targeting longterm repopulating hematopoietic stem cells.7,8"
-"However, SINLVs still contain internal enhancers, promoters, polyadenylation signals, and splice sites.  "
-"These sequences could potentially interfere with the initiation and processing of cellular messenger RNAs (mRNAs), create truncated proteins with stimulatory or inhibitory functions, or lead to monoallelic inactivation of tumor suppressors."
-"A recent report revealed clonal dominance in a clinical trial to treat βthalassemia, mediated by deregulation of HMGA2 expression.7 "
-"In this case, intronic SINLV insertion disturbed correct mRNA splicing and eliminated a target site for a cellular microRNA, thus stabilizing the transcript and potentially leading to a gainof-function of HMGA2, a known regulator of primitive hematopoiesis.7,9 Aberrant splicing involved a splice site created by genetic rearrangement of a tandem repeat insulator sequence located in the lentiviral SIN long terminal repeat.7 Importantly, to date the dominant clone with activation of HMGA2 did not exceed ~5% of the total hematopoietic cells and has not been reported to trigger a malignant disease."
-"Furthermore, it was recently shown that intragenic LV insertions can induce expression of the growthhormone receptor (Ghr)10 or activate protooncogenes such as BRaf or Evi1.11,12 In the case of Ghr and BRaf, aberrant splicing was involved in gene activation.  "
-"In both of these cases, the insertions occurred and were selected in cells with preexisting genetic aberrations, formally questioning their role as potential tumorinducing events.  "
-Lentivirally induced downregulation of gene expression was demonstrated by gene expression analysis in single cell clones.13 
-"However, these analyses did not allow the study of functional consequences of reduced gene expression."
-Cell transformation caused by insertional inactivation of tumor suppressor genes is not only a theoretical concern.
-"Proofof-concept for such events has been obtained in animal studies using replicationcompetent γretroviruses.14–16 However, tumors induced by replicationcompetent retroviruses typically contain several insertions, complicating the distinction of inducer, progression, and bystander events."
-Although expected to occur with Correspondence:
-"Ute Modlich, Institute of Experimental Hematology, OE6960, Hannover Medical School, CarlNeuberg-Straße 1, 30625 Hannover, Germany."
-"Email: modlich.ute@mhhannover.de or Christopher Baum, Institute of Experimental Hematology, OE6960, Hannover Medical School, CarlNeuberg-Straße 1, 30625 Hannover, Germany."
-"Email: baum.christopher@mhhannover.de Molecular Therapy vol. 20 no. 6, 1187–1195 june 2012 1187 Lentiviral Vector Induced Murine Leukemia ©"
-"The American Society of Gene & Cell Therapy a frequency that still remains to be determined, inactivation of a tumor suppressor gene by a replicationdeficient integrating vector may only be functionally relevant if the second allele is lost or if haploinsufficiency disturbs clonal homeostasis."
-"In the context of the hematopoietic system, the importance of haploinsufficiency has recently been demonstrated in clinical studies and mouse models exploring the role of lossof-function of Early Bcell factor 1 (EBF1), a master transcription factor responsible for lineage specification of Bcell progenitor cells.17–20 In human acute Blymphoblastic leukemia (BALL), haploinsufficiency of the transcription factor EBF1 is found as a relatively common genetic lesion.21,22 In a murine model with germline inactivation of one Ebf1 allele, collaboration with STAT5 activation was shown to lead to a high penetrance of BALL.23 Here, we report a very similar constellation after LVinduced insertional inactivation of murine Ebf1."
-"This case was observed in the context of our prospective studies addressing the efficiency and safety of SINLVs containing human promoter fragments to restrict gene expression to the megakaryocytic lineage.24 We report the leukemia phenotype, genotype, and transcriptome, and the impact of the SINLV insertion on Ebf1 transcription and protein expression.  "
-"Our study highlights the relevance of prospective studies in nontumorprone murine models to detect rare complications of nontargeted vector insertions.25–28 Although the incidence of leukemogenic events triggered by haploinsufficiency remains to be established, this case underlines that vectors with a reduced potential of intragenic insertions and/or reduced interference with cellular splicing may increase the safety of untargeted gene addition strategies."
-"Results Monoclonal BAll originating from sInlV–transduced hematopoietic cells With the aim to characterize vectors designed for expression in the megakaryocytic lineage we transplanted CD45.2+ C57BL/6 mice with syngeneic CD45.1+ bone marrow (BM) cells transduced with a SINLV (RRL.PPT.GPIba.eGFP.pre)29 expressing enhanced green fluorescent protein (eGFP) from a human glycoproteinI- bα promoter (GPIba) fragment.30 Out of seven mice transplanted, one mouse presented with severe anemia (hematocrit = 26.4%), thrombocytopenia (89 × 103/µl), leukocytosis (179.3 × 103/µl), and splenomegaly (307 mg) 199 days after transplantation."
-"Due to signs of advanced disease, the animal was killed, and fresh tissues were collected for detailed investigation."
-"Histopathology revealed strong blast cell infiltrations in BM, spleen, liver, kidney, and lung (Figure 1a,b, Supplementary Figure S1).  "
-"Flow cytometry specified the cells as Bcell progenitors at the PreProB to PreB-cell stage expressing B220, CD43, and lacking IgM. CD19 was expressed on ~32% and CD11b on ~19% of the cells, indicating partial conversion to a myeloid phenotype (Figure 1c)."
-The markers CD45.1 and eGFP defined the cells as donor derived and vector transduced (Figure 1c).
-"Secondary transplantation of 2 × 106 or 5 × 105 primary cells induced leukocytosis and organ infiltrations in all (n = 6) or 1/3 (n = 3) of the recipients, respectively (Figure 1d).  "
-"Compared to the leukemia phenotype in the affected mouse, an increased percentage of cells expressing CD19, cKit, and IL7Ra was observed in secondary recipients (Supplementary Figure S2).  "
-"Southern blot analyses using three different restriction enzymes identified two independent SINLV insertions, with identical pattern and signal strength in the primary and secondary recipients, strongly arguing for monoclonality of leukemic Blymphoblasts (Figure 2a and Supplementary Figure S3)."
-"These data established the diagnosis of a transplantable, monoclonal BALL, manifesting 28 weeks after transplantation of SINLV–modified BM cells into lethally irradiated syngenic C57BL/6 mice."
-"Lentiviral insertion in Ebf1 as potential inducing mutation To determine which genes were affected by the lentiviral insertions, we performed ligationmediated PCR.  "
-"In addition to the internal control band obtained from the amplification of a vector sequence, we identified two prominent bands."
-Sequencing of the insertion sites revealed diagnostic junctions of vector long terminal repeat and murine genome sequences.
-"We thus mapped one insertion in the 1st intron of the NanceHoran Syndrome (Nhs) gene (Figure 2b, Supplementary Table S1)."
-"However, expression of Nhs mRNA could neither be detected in wildtype splenocytes nor in the leukemic cells (Supplementary Figure S4).  "
-The second integration was located in the 8th intron of the Ebf1 gene (Figure 2b and Supplementary Table S1).
-"To detect potential additional genetic lesions contributing to leukemogenesis, we searched for chromosomal aberrations (translocations, deletions, amplifications) by spectral karyotyping (Figure 3a) and comparative genome hybridization (array CGH, Figure 3b)."
-"While the karyotype was normal, the more sensitive CGH showed microdeletions in two regions located on chromosomes 6 and 12."
-"However, in both cases these regions are not known to contain functional genes."
-"Therefore, we focused on the functional consequences of the SINLV insertion in Ebf1."
-"Truncated transcripts and downregulation of ebf1 encodes a transcription factor that regulates Bcell development upstream of a whole network of transcriptional regulators and signaling molecules important for Bcell maturation, including Pax5.17 Haploinsufficiency of EBF1 is associated with human BALL, which can be recapitulated in a murine model.21–23 We thus further investigated a potential deregulation of Ebf1 after the SINLV integration and found a downregulation in leukemic cells, both on mRNA and protein level (Figure 4)."
-"As the integration event occurred almost in the center of intron 8, and in the same transcriptional orientation as the cellular gene, we examined aberrant splicing events involving the vector’s splice sites, including those of an intron contained in the GPIba promoter fragment, with a series of reverse transcriptionPCR reactions (Figure 4a).  "
-"Overall, the transcript was strongly downregulated (~80% reduced, Figure 4b), which was reflected in a strong reduction of protein levels (Figure 4c)."
-"Quantitative PCR revealed splicing from Ebf1 exon 8 into the SINLV and increased readthrough after Ebf1 exon8 (transcripts 1 and 2, Figure 4d)."
-The detected levels of misspliced mRNA of transcript 1 accounted for ~30% of the total Ebf1 mRNA in leukemic cells.
-Transcripts initiated from the vector that spliced into the downstream Ebf1 exons were detectable (Supplementary Figure S6) although at a very low level.
-"However, nonsense- mediated decay might have caused accelerated mRNA 1188 www.moleculartherapy.org vol."
-20 no. 6 june 2012 
-©
-The American Society of Gene & Cell Therapy Lentiviral Vector Induced Murine Leukemia 104 103 102 101 100 100 7 92 01 102 103 104 101 eGFP 104 103 102 101 100 100 CD43 104 103 102 101 100 100 IgM 104 103 102 101 100 100 18 75 60 101 102 103 104 293 104 101 102 103 92 4 103 104 101 102 100 101 102 103 104 1 4 19 76 CD11b 5 0 32 63 104 103 102 101 100 104 103 102 101 100 300 250 200 150 100 50 Prim ary Secondary 2 x 106 Secondary 5 x 105 CD19 ll7Ra 100 101 102 103 104 Figure 1 Acute Blymphoblastic leukemia.
-(a) Representative histology showing strong infiltration of leukemic cells in the liver.
-"(H&E staining, ×200).  "
-(b) Leukemic blasts from the bone marrow of the primary leukemia present with lymphoid and myeloid characteristics.
-Most blasts cells are larger and have typical myeloid (monocytic) cellular outlines and cytoplasm.
-"The nucleoli are larger and irregular, which are usually seen in lymphoblasts rather than in myeloblasts."
-"(MayGrünwald/Giemsa, ×1,000)."
-(c) Flow cytometry of primary leukemic BM cells indentified the leukemia as Blymphoblastic with expression of B220 and CD43 while lacking IgM expression.
-CD19 was expressed on ~32% of the cells while cKit and IL7Ra expression was almost absent.  
-Approximately 19% of the cells expressed the myelomonocytic marker CD11b.
-CD45.1 and GFP expression marked cells as donor derived and vector transduced.
-(d) BM cells of the primary mouse that developed Blymphoblastic leukemia were transplanted into lethally irradiated secondary recipient mice at two different doses: 2 × 106 and 5 × 105 BM cells.
-"All mice that received the high cell dose succumbed to leukemia 12–17 days after transplantation with high peripheral white blood cell counts, whereas only one of the recipients that were transplanted with the low dose of cells developed leukocytosis.  "
-"BM, bone marrow; eGFP, enhanced green fluorescent protein; H&E, hematoxylin and eosin; PB, peripheral blood."
-1 2 3 4 5 6 7 8 9 LMPCR < Ebf1 <
-IC < Nhs Figure 2 BAll consist of a clone with two insertion sites.
-"(a) Southern blot analysis of BM samples from different secondary recipients (lane 1–6) or control mice (7–9) digested with BsrGI (1, 2, 7), "
-"EcoNI (3, 4, 8) or NcoI (5, 6, 9) and probed for the vectorspecific posttranscrip- tional regulatory element (PRE)."
-(b) Ligationmediated PCR (LMPCR) on genomic DNA from the BM of a secondary recipient verified two vector integrations which were identified by sequencing to be in the Nhs gene and in the Ebf1 gene.
-"BM, bone marrow."
-Degradation.  
-"In support of this hypothesis no truncated EBF1 protein variants could be detected by immunoblot in leukemic samples, while expression of the putative transcript from a LV was welldetectable (Figure 4e)."
-"As a putative truncated EBF1 protein may still contain the DNAbinding domain encoded by exon 1–8 but lack the transactivation motif, and considering that the immunoblot may not be sensitive enough despite the choice of reasonable positive controls, we expressed two putative versions of the truncated EBF1 encoded by the transcripts 1 and 2 from SINLV containing a strong promoter derived from spleen focusforming virus.31 Both transcripts will result in a truncated EBF1 containing exons 1–8 (Supplementary Figure S5).  "
-Expression of the truncated protein was confirmed by immunoblot (Figure 4e).
-Lineagenegative BM cells were cultured in conditions that promote Bcell differentiation.  
-"However, no evidence was found that a putative truncated protein acts as a dominantnegative variant blocking Bcell differentiation (Figure 5)."
-"In support of these findings, the vector expressing truncated EBF1 did not induce leukemia in vivo (10 mice observed for 6 months, data not shown)."
-"Molecular evidence for ebf1 lossof-function connected to activation of stAt5 With confirmed downregulation of Ebf1 and potential involvement of aberrant mRNA processing, we next addressed Ebf1 target gene expression in leukemic cells."
-Gene expression microarrays comparing leukemic blasts to differentiation stage matched Bcell progenitors (CD19+CD43+) from C57BL/6 mice confirmed Molecular Therapy vol. 20 no.
-6 june 2012 1189 Lentiviral Vector Induced Murine Leukemia © The American Society of Gene & Cell Therapy −1 ii 10 11 12 13 14 15 16 17 18 19 X Y Chr 6: 6704827571736103 S erbp1 ll12rb2 T acstd2 ll23r xd 45a R m nd5a J mjd1a R nf103 C d8b1 V ps24 Krcc1
-C d8a 1700011 F 03 Rik J mijd1a Eif2ak3 T hns12 S m y d1 F abp1 R ee R pia 67.0Mb
-67.8Mb 68.6Mb 69.3Mb 70.1Mb 70.9Mb 71.7 Chr 12: 113303756117955963 G pr132 C dca4 Jag2 B C 022687
-A hnak2 4930427 A 07 Rik T m e m 121 T m rm 179 Sin a1 26102 Q 4 M 08
-Rik A 530016L24
-Rik A dssl1 Crip2 Mta1 P acs2
-T ex22 Btbd6 D 12 Ertd551e N capg2 W dr60 Zfp386 Vipr2 Ptpr 114.0Mb 114.8Mb 115.6Mb 116.4Mb 117.1Mb 117.9 A 530050 D 06 Rik X 7 E 04 Rik Kif26a 113.3Mb Figure 3 Analysis of the genomic stability.
-(a) No chromosomal aberrations were detected by spectral karyotyping (SKY).
-"Leukemic cell were grown in culture (IL7, Flt3L) for 2 days to induce proliferation and metaphases prepared."
-(b) Comparative genome hybridization (arrayCGH) analysis of leukemic cells.
-"Genomic profiles by means of high resolution arrayCGH (180 k): Cye3/Cy5 log2 ratios of fluorescence intensities of probes against their chromosomal localization along chromosomes 1–19 is shown, X: stacked plots of genomic DNA samples of the secondary mice one (brown), two (green), three (black), and the primary mouse (blue); pooled DNA from 10 female C57BL/6 spleen specimen served as reference leading to monosomal X in the male test samples."
-(i) Microdeletion within chromosomal region 6 in all four probes ranging from 67.847–70.677
-Mb containing no genes; (ii) microdeletion within chromosomal region 12 in all four probes ranging from 114.676–115.154 Mb containing no genes.
-Downregulation of Ebf1 and its target genes (Figure 6a).
-"One of the target genes that was found to be downregulated was Aiolos (Ikzf3), a tumor suppressor which is known to be frequently deleted and coincided with Ebf1 haploinsufficiency in BALL patients.21"
-We did not find Ikzf3 to be genetically deleted according to the CGH analysis (Supplementary Figure S7).
-As a known downstream target of Ebf120 the downregulation of Ikzf3 may therefore be caused by Ebf1 haploinsufficiency.
-"Gene expression data also provided further evidence for dedifferentiation to the myeloid lineage with upregulation of Csf1r (cFms), Runx2 and further genes associated with myeloid differentiation32 (Figure 6b)."
-Gene ontology analysis also identified cytokine receptor signaling target genes to be upregulated in leukemic cells.  
-Considering this transcriptome signature and the known leukemogenic collaboration of Ebf1 haploinsufficiency with STAT5 1190 www.moleculartherapy.org vol. 20 no. 6 june 2012 ©
-"The American Society of Gene & Cell Therapy Lentiviral Vector Induced Murine Leukemia Ebf1 E1 E2 E3 E4 E5 E6 E7 E8 E9 E10 E11 E12 E13 E14 E15 E16 E8 11,7kb SIN LTR RRE PPT GPIbα TSS eGFP PRE SIN LTR 12,2"
-kb
-E9 Vector transcript SD pA SD SA SD pA SA Wt transcript 1 Transcript 2 Transcript 3 Transcript 4 Transcript 5 0.6 0.4 0.2 0.10 0.08 0.06 0.04 0.02 0.00 (Stop) (Stop) (Stop) (Stop) nd nd nd nd w t s 1 s 2 s 3 s 4 s 5 w t s 1 s 2 s 3 s 4 s 5 Leukemia Ctrl 0.6 0.5 0.4 0.3 0.2 0.1 0.0 Leukemia Ctrl BM PB SP Ctrl WT Leu − fl tr 80 58 30 25 17 Ebf1 Actin 80 58 30 25 17 Ebf1 Ebf1tr Actin Figure 4 Posttranscriptional deregulation of Ebf1 following lentiviral vector insertion.
-(a) Schematic overview of the Ebf1 gene locus with the insense integrated SINLV in intron 8.
-"The SINLV harbors the exon (E) and intron (I) containing GPIba promoter, the eGFP reporter gene, the PRE, and splice donors (SD), and splice acceptors (SA) sites as indicated."
-Splice events can lead to alternative transcripts as indicated in the figure (transcripts 1–5) in addition to the wt and vector transcripts.
-A stop codon can occur due to frame shifts in transcript 2. (b) Ebf1 mRNA expression levels relative to actin in the BM from three independent leukemic mice (leukemia) and three independently FACSsorted CD19+CD43+ Bcell progenitor samples from wildtype mice BM (Ctrl).
-"(c) Immunoblot analysis of Ebf1 expression in leukemic samples from bone marrow (BM), spleen (SP), and peripheral blood (PB) of leukemic mice in comparison to wildtype CD19+CD43+ Bcell progenitors (Ctrl)."
-Actin was used as loading control.
-(d) Quantitative RTPCR detecting the different splice products of the Ebf1 locus with the inserted LV in comparison to the fulllength transcript.
-Readthrough transcripts into intron 8 (transcript 1) and fusion transcripts from exon 8 to the LV eGFP gene that result in a frame shift and early stop (transcript 2) are welldetectable.
-Splice products from the LV to the exon 9 (transcripts 3–5) could be amplified and sequences were verified (supplementary Figure s6) but the overall amount of transcripts was extremely low (percentage of transcript in correlation to the fulllength transcript is given).
-Results from three independent leukemic BM samples (leukemia) in comparison to pooled (n = 3) wildtype BM (Ctrl) (nd = not detected).
-(e) Immunoblot analysis of wildtype splenocytes (WT) and leukemic cells (Leu) does not show detectable amounts of truncated protein corresponding to the expected protein.
-"Immunoblot analysis of 293T cells transfected with lentiviral constructs expressing dTomato alone (−), fulllength Ebf1 (fl) or the truncated Ebf1 (tr) shows that the employed antibody was able to detect the truncated Ebf1 protein."
-"eGFP, enhanced green fluorescent protein; FACS, fluorescenceactivated cell sorting; LTR, long terminal repeat; mRNA, messenger RNA; pA, polyA; PRE, posttranscriptional regulatory element; RTPCR, reverse transcriptionPCR; SINLV, selfinactivating lentiviral vector."
-"Activation,23 we detected strong STAT5 activation in the murine BALL by immunoblot (Figure 6c)."
-"To identify the upstream events leading to STAT5 activation, we used phosphoproteome arrays of freshly harvested leukemic cells.  "
-We found that CSF1R was strongly activated in leukemic cells and also obtained a minor phosphorylation signal of PDGFRβ (Figure 6d).
-"We thus tested the response of leukemic cells to macrophage colonystimulating factor (MCSF) in vitro, Molecular Therapy vol."
-20 no. 6 june 2012 1191 Lentiviral Vector Induced Murine Leukemia ©
-The American Society of Gene & Cell Therapy 104 103 102 101 Ctrl 55.8 104 103 102 101 76.9 1.2 104 103 102 101 9.4 89.9 100 100 101 102 103 104 100 100 21.8 101 102 103 104 100 100 0.7 101 102 103 104 Ebf1tr1 104 103 102 101 100 62.2 104 103 102 101 100 75.3 1.5 22.7 104 103 102 101 100 7.63 91.54 0.8 100 101 102 103 104 100 101 102 103 104 100 101 102 103 104 104 103 102 101 100 66.4 100 101 102 103 104 104 103 102 101 100 77.5 1.6 20.0 100 101 102 103 104 104 103 102 101 100 9.2 90.0 0.8 100 101 102 103 104 Ebf1tr2 dTomato CD19 Figure 5 expression of a truncated ebf1 protein does not interfere with in vitro Bcell differentiation.
-"Lineage negative BM cells were transduced with a SINlentiviral vector expressing the truncated variants of Ebf1, Ebf1tr1 (RRL.PPT.SFFV. Ebf1tr1.IRES.dTomato.pre) or Ebf1tr2 (RRL.PPT.SFFV."
-"Ebf1tr2.IRES.dTomato.pre) which correspond to the truncations induced by readthrough or splicing to the GPIbaP splice acceptor, respectively."
-For detection by flow cytometry a dTomato was coexpressed from an IRES.
-"As control, cells were transduced with a vector expressing dTomato alone (RRL.PPT.SFFV.IRES.dTomato.pre)."
-"(i) Transgene expression as indicated by dTomato expression in a representative culture on day 7 of coculture on OP9 stromal cells, (ii) expression of Bcell markers B220 and CD19 after 7 days, and (iii) after 18 days was assessed by flow cytometry."
-Percentages of the distinct populations are indicated in corresponding quadrants.
-No differences in Bcell differentiation were seen in cells expressing the truncated EBF1 protein in comparison to control vectortransduced cells.
-"And noted strong activation of STAT5, ERK 1/2, and AKT in leukemic cells."
-These data revealed that CSF1R activation was nonautonomous and induced a strong signal response in the leukemic clone (Figure 6e).  
-"While the microarray supported that MCSF was not transcriptionally induced in the BALL cells, the induction of Csf1r might be a direct consequence of the lossof-function of the Bcell identity factor EBF1.  "
-"Indeed, the Blymphoblastic leukemia showed a partial myeloid expression profile based on both, surface phenotype (Figure 1c) and microarray analysis."
-"dIscussIon This study provides strong support for the potential induction of an acute leukemia by insertional gene inactivation, caused by the integration of an otherwise neutral lentiviral gene marking vector.  "
-"The analysis of the leukemic phenotype and underlying genetic lesions pointed to a crucial role of transcriptional downregulation of a known tumor suppressor gene, Ebf1, after intronic insertion of the LV."
-"Indeed, previous studies have shown that murine BALL can be induced by monoallelic germline inactivation of Ebf1,23 triggering a block of Bcell differentiation which in our case was associated with upregulation of myeloid growth factor receptors that may mediate growthpromoting signals in response to a supportive cytokine milieu.  "
-"As karyotype and CGH analyses did not uncover further leukemogenic events, the identification of additional leukemogenic mutations may require genomewide sequencing.  "
-"However, as lentiviral integration occurred in BM cells of wildtype C57BL/6 mice, additional leukemogenic mutations likely occurred after the insertion event, connected to the expansion of the leukemic clone."
-We would thus propose that this study can be interpreted as a proofof-concept for insertional haploinsufficiency caused by a replicationdeficient integrating gene vector as a tumorinitiating event.
-One remaining important question is why the second Ebf1 allele was unable to compensate the monoallelic loss of Ebf1 expression.
-"A potential positive feedback loop of EBF1 acting on its own promoter may have contributed to the substantial loss of expression detected at the RNA and protein level.33 Alternatively, antisense transcripts originating from the altered allele may be involved, although the transcription unit of the vector was in the transcriptional orientation of the allele, the leukemic clone may have undergone random transcriptional silencing or may even have acquired cryptic mutations of the second allele, confounding the selective advantage of transformed cells."
-1192 www.moleculartherapy.org vol. 20 no. 6 june 2012 ©
-The American Society of Gene & Cell Therapy Lentiviral Vector Induced Murine Leukemia ADAMTS7 CD72 ENPP6 BST1 KCNA5 GPR56 BCL7A RGS2 SIT1 CAMK2D P2RX3 SBK1 ASB2 LRMP STXBP1 IMPDH1 PLEKHG2 NEU1 CYFIP2 CMTM8 HES5 SPRED2 ATP8B3 ELL3 B3GNT2 PTP4A3 KLHL6 CPT1A UNC5A SMTN TRFR2 UCP2 VPREB1 TRP53INP PDE4A BLK GAS7 POLD4 PKIG ALDH3B1 MTERFD3 DTX1 ARHGEF10 RGS12 CBX2 CAMK2B CEACAM1 RASA4 PARP1 ZC3H12D
-TMEM108 TMPRSS4 NOTCH3 HIP1 PCK2 PTPRS SEMA7A FBP1 MYL4 ADAMTSL2 GPR97 GRHPR BCAT1 MEFV C3 TMEM38B FNDC3B
-FABP5 PRKAB2 MS4A3 CLDN15 MTUS1 STXBP6 RPS6KA2 TRPS1 PAPSS2 OXR1 ALDH1B1 ATP2B1 AGPS
-DPP4 UGP2 MET SPG21 SGPL1 IGSF6 HDC KLF4 BZRAP1 FCGR2B PGS1 EDEM1 UBE2W AP3S1 NNT OSTF1 UGDH SEPX1 PDE4D ZDHHC20 PDIA5 ACOT9 ACTR3 C1GALT1C1 LAMP2 CD48 TMEM55B TIAM1 PSAP WDR1 SGK3 HSP90B1 IDH1 DEPDC7 IDH2 H47 IGFBP4 MTM1 SLC35E3 NEIL3 TREM3 RAPH1 MAPKAPK2 GNG12 ZBTB8OS ALAS1 NIN MAPKAPK3 SDF2L1 ZNRF2 SORL1 CTSZ PLOD3 CX3CR1 CYBB CLEC7A
-EMR1 NUCB2 ITPR1 APP ERN1 CCBL2 CEBPD PDGFRB LPXN PLD4 CFP SEMA4A KMO CCL6 MLKL TEX2 PMAIP1 EVI5 CDS1 ID2 NRP1 FGR TMEM119 DIRC2 FCER1G LGALS3 CD33 CD163 CCR9 RUNX2 FGFR2 CSF1R PTPRO CCR2 High Low BM SP PB Ctrl pSTAT5 panSTAT5 23 CSF1R pSTAT5 STAT5 pAKT AKT pERK 1/2 ERK 1/2 Figure 6 downregulation of ebf1 target genes coincides with reactivation of myeloid genes and csf1r upregulation.
-(a) cDNAmicroarray CD43+ wildtype Bcell proanalysis performed on three independent leukemic BM samples in comparison to three independent samples of CD19 genitors (wt Bcells).
-"Gene set enrichment analysis (GSEA) shows downregulation of Ebf1 target genes17 in leukemic cells as compared to wildtype Bcell progenitors (NES = 1.55; P = 0.012, FDR <0.02)."
-"(b) GSEA analysis of myeloid lineagespecific genes32 shows strong enrichment of myeloid genes in leukemic cells (NES = −2.49; P < 0.001, FDR <0.001)."
-"(c) Phosphotyrosine immunoblot analysis detected activation of STAT5 (Tyr694) in leukemic cells from bone marrow (BM), spleen (SP), and peripheral blood (PB) in comparison to wildtype CD19+CD43+ Bcell progenitors (Ctrl)."
-(d) Strong phosphorylation of Csf1r (aka.
-MCsfr or cFms) and some minor activation of Pdgfrβ was found by phosphoreceptor-tyrosinekinase protein arrays.
-Both genes had been found upregulated in leukemic cells in the cDNAmicroarray analysis.
-Ctrl spots.
-"(e) Immunoblot analysis showing CSFR1, pSTAT5, STAT5, pERK 1/2, ERK 1/2, pAKT, and AKT expression/activation in leukemic cells grown on OP9 stromal cells with 20 ng/ml SCF, 20 ng/ml FLT3L, and 10 ng/ml IL7, starved for 3 hours, and stimulated with 40 ng/ml MCSF for 10 minutes after 3 hours starvation.  "
-"Loss of STAT5 phosphorylation upon starvation and regain after stimulation with MCSF shows liganddependency of upregulated CSF1R. FDR, false discovery rate; MCSF, macrophage colonystimulating factor; NES, normalized enrichment score."
-"Furthermore, recent studies of cytogenetically abnormal human BALL uncovered heterozygous deletions/mutations of EBF1 as a recurrent event,21,22 which, in line with mechanistic studies in heterozygous knockout mice,23 provide strong evidence for a role of Ebf1 in BALL as a haploinsufficient tumor suppressor.  "
-"However, the latter study used a transgenic mouse model in which lesions were present in all hematopoietic cells, thus providing multiple opportunities for accumulation of secondary genetic lesions contributing to leukemogenesis.  "
-"In contrast, our study suggested an insertional event in a single cell as the initiating event, leading to progressive clonal expansion with subsequent transformation."
-Molecular Therapy vol.
-20 no. 6 june 2012 1193 Lentiviral Vector Induced Murine Leukemia ©
-The American Society of Gene & Cell Therapy
-"While haploinsufficiency of a tumor suppressor is a noteworthy initiation mechanism of a leukemia, our observation raises concerns that vectors with a preferred intragenic integration profile may establish a new category of mutagenesis in gene therapy.  "
-"As transcript truncation by integrating gene vectors may also lead to the upregulation or gainof-function of protooncogenes,10,11 future vector design could tackle this problem by modification of the integration pattern."
-We and others therefore explore vector systems with a less biased integration pattern.34–36 Novel approaches for vector integration into bona fide “safe harbors” may also contribute to the prevention of this
-"Risk.37–40 However, it needs to be stressed that the magnitude and clinical relevance of the risk associated with insertional haploinsufficiency remains to be determined.  "
-"Depending on the target tissue of the genetic modification, the number and type of potential haploinsufficient tumor suppressors may vary, and some of the safeguarding mechanisms operating in human cells may prevent tumorigenesis on this basis."
-"To understand the frequency of these events and their contribution to clonal skewing in the longterm followup of patients receiving genemodified cells, and to define the most relevant vector sequences involved in alternative splicing with cellular genes, longitudinal “genomewide” studies will be of great importance."
-MAterIAls And Methods Animals.  
-"C57BL/6 (B6. Ly5.2) and C57BL/6 PeP3b (B6 SJL/Ly5.1) mice were obtained from The Jackson Laboratory (Bar Harbor, ME) and kept in the specified pathogenfree animal facilities of the Hannover Medical School, Germany."
-Animal experiments were approved by the local ethical committee and performed according to their guidelines.
-LVs and vector production.
-"The lentiviral backbone is the RRL SINLV with minor modifications.24,29,41"
-The 596 bp human GPIba promoter has been described30 spanning the region −288 to +308.
-BM cell purification and transduction.
-"Briefly, lineagemarker depleted (lin-) cells were isolated from complete BM by magnetic sorting using lineagespecific antibodies (Gr1, "
-"CD11b, CD45R/B220, CD3e, TER119; Miltenyi Biotech, Bergisch Gladbach, Germany).  "
-Before lentiviral transduction lin-
-"BM cells were prestimulated for 18 hours in StemSpan SFEM medium (StemCell Technologies, Grenoble, France), 10 ng/ml murine SCF, 20 ng/ml murine THPO, 10 ng/ml human FGF1, 20"
-"Ng/ml murine IGF2, 1% penicillin/streptomycin, 2 mmol/l glutamine, plated in wells precoated with 10 µg/cm2 Retronectin (TaKaRa, Otsu, Japan).  "
-For transduction concentrated viral supernatant was added.
-"PCR.  FACS sorted wildtype Bcell progenitors and leukemic cells were lysed in RLT lysis buffer and stored at −80 °C until processing with the RNeasy Micro Kit (Qiagen GmbH, Hilden, Germany).  "
-cDNA synthesis was performed using the QuantiTect reverse transcription kit (Qiagen GmbH).  
-Quantitative reverse transcriptionPCR was performed using SYBRGreen for detection (Qiagen GmbH).  
-Primers are summarized in Supplementary Table S2.
-LV integrations in leukemic cells were analyzed by ligationmediated PCR.
-See Supplementary Materials and Methods.
-Immunoblot analysis.
-"Cells were collected directly after stimulation and lysed in buffer containing phosphatase inhibitors (50 mmol/l HEPES, 150 mmol/l NaCl, 50 mmol/l NaF, 10 mmol/l Na4P2O7, 10% Glycerin, 1% NP40); 20–40 µg of protein samples, separated in SDSpolyacrylamide gels, were transferred to nitrocellulose membrane."
-"The ratanti-Ebf1 antibody has been described42 and was kindly provided by Matthias Kieslinger (Helmholtz Institute, Munich)."
-"Phosphoproteins were detected with antibodies against pSTAT5, pERK1/2, pAKT (all Cell Signaling Technologies, Boston, MA)."
-"For loading controls, blots were stripped and reprobed using Csf1r, Actin, panSTAT5 (Santa Cruz, Biotechnologies, Santa Cruz, CA), panERK1/2, antiAKT1 antibodies (Cell Signaling Technologies)."
-Genome analyses.
-Spectral karyotyping was performed as described previously (see Supplementary Materials and Methods).
-"ArrayCGH was performed using the Agilent Mouse Genome Microarray Kit 4x180k (Agilent Technologies, Santa Clara, CA), a high resolution 60mer oligonucleotidebased microarray with median overall probe spacing of about 10 kb, following the manufacturer’s instructions (see Supplementary Materials and Methods)."
-Antibody RTKarray.
-Single cell suspensions of spleen and BM of leukemic mice (>90% infiltration) and healthy controls were lysed in NP40 lysis buffer.
-"Mouse PhosphoReceptor Tyrosine Kinase Arrays (ARY014; R&D Systems, Minneapolis, MN) were loaded with lysate containing 1 mg of total protein and processed according to the manufacturer’s instructions."
-Microarray analysis.  
-"Total RNA was prepared from FACSsorted wildtype Bcell progenitors (CD19+, CD43+) and leukemic cells from bone marrow using the RNeasy Micro Kit (Qiagen GmbH)."
-Quality of RNA was assessed using the Agilent 2100 Bioanalyzer.  
-"RNA was amplified by the NuGen WTOvation Pico Kit succeeded by biotin labeling of fragmented amplified cDNA using the NuGen Ovation Biotin labeling system (NuGEN Technologies, San Carlos, CA) in triplicates.  "
-"Fragmented and labeled cDNA was hybridized to Affymetrix (San Jose, CA"
-" Mouse Genome 430 2.0 (MOE430_2) GeneChip arrays (45,101 probe sets).  "
-"Data was analyzed using R and Bioconductor.43 Data quality was assessed using the ArrayQualityMetrics package.44 Arrays were background corrected, normalized, and summarized employing the RMA algorithm.45 LIMMA46 was used to detect differentially expressed probe sets applying the BenjaminiHochberg step up multiple testing correction at a false discovery rate of <0.05.  "
-We used the Broad Institute GSEA software package47 for testing enrichment of gene sets.  
-"The Ebf1 target gene set was obtained from Treiber et al.17 The myeloid gene set was compiled from the literature, mainly from Ng and Georgopolous et al.32 comprising genes overexpressed in granulomonocyte progenitors relative to hematopoietic stem cells and common lymphoid progenitors."
-The Blymphoblastic suPPleMentArY MAterIAl Figure S1.  
-Histopathological analysis of leukemia.
-Figure S2.  
-Leukemia phenotype in secondary recipients.
-Figure S3.  
-Southern blot analysis of DNA isolated from different tissues and mice.
-Figure S4.  
-Expression of NanceHoran-Syndrome (Nhs) mRNA in leukemic cells.
-Figure S5.  
-Splice products that would result in a truncated EBF1 protein.
-Figure S6.  
-Verification of transcripts Figure S7.  
-Genomic Ikzf3 locus in the BALL is not altered.
-Table S1.  
-Position of the lentiviral insertion sites.
-Table S2.  
-Primer.
-Materials and Methods.
-AcKnoWledGMents
-"The authors thank RenaMareike Struß for her excellent technical assistance, Thomas Neumann for performing microarray experiments, Yang Ming for her help with the analysis of cytospins, Matthias Ballmaier from the cell sorting facility, and Joerg Fruehauf from the irradiation facility (all Hannover Medical School, Hannover, Germany)."
-"We thank Matthias Kieslinger (Helmholtz Institut, Munich, Germany) for providing the antiEBF1 antibody."
-"The research was financed by the grants of Deutsche Forschungsgemeinschaft (SFB 566, SPP1230, and Cluster of Excellence REBIRTH) and the European Union (FP7 integrated 1194 www.moleculartherapy.org vol. 20 no. 6 june 2012 "
-©
-The American Society of Gene & Cell Therapy Lentiviral Vector Induced Murine Leukemia project CELLPID).
-D.H. was supported by a stipend of the Hannover Biomedical Research School.  
-The authors declared no conflict of interest.
-reFerences 1.  
-"Qasim, W, Gaspar, HB and Thrasher, AJ (2009)."
-Progress and prospects: gene therapy for inherited immunodeficiencies.
-Gene Ther 16: 1285–1291.
-2.  
-"Stein, S, Ott, MG, SchultzeStrasser, S, Jauch, A, Burwinkel, B, Kinner, A et al. (2010)."
-Genomic instability and myelodysplasia with monosomy 7 consequent to EVI1 activation after gene therapy for chronic granulomatous disease.
-Nat Med 16: 198–204.
-3.  
-"Howe, SJ, Mansour, MR, Schwarzwaelder, K, Bartholomae, C, Hubank, M, Kempski, H et al. (2008)."
-Insertional mutagenesis combined with acquired somatic mutations causes leukemogenesis following gene therapy of SCIDX1 patients.
-J Clin Invest 118: 3143–3150.
-"4.  HaceinBey-Abina, S, Garrigue, A, Wang, GP, Soulier, J, Lim, A, Morillon, E et al. (2008)."
-Insertional oncogenesis in 4 patients after retrovirusmediated gene therapy of SCIDX1.
-J Clin Invest 118: 3132–3142.
-5.  
-"Mitchell, RS, Beitzel, BF, Schroder, AR, Shinn, P, Chen, H, Berry, CC et al. (2004).  "
-"Retroviral DNA integration: ASLV, HIV, and MLV show distinct target site preferences.  "
-PLoS Biol 2: E234.
-6.  
-"Schröder, AR, Shinn, P, Chen, H, Berry, C, Ecker, JR and Bushman, F (2002)."
-HIV1 integration in the human genome favors active genes and local hotspots.
-Cell 110: 521–529.
-7.  
-"CavazzanaCalvo, M, Payen, E, Negre, O, Wang, G, Hehir, K, Fusil, F et al. (2010).  "
-Transfusion independence and HMGA2 activation after gene therapy of human ßthalassaemia.
-Nature 467: 318–322. 8.  
-"Cartier, N, HaceinBey-Abina, S, Bartholomae, CC, Veres, G, Schmidt, M, Kutschera, I et al. (2009)."
-Hematopoietic stem cell gene therapy with a lentiviral vector in Xlinked adrenoleukodystrophy.
-Science 326: 818–823.
-"Ikeda, K, Mason, PJ and Bessler, M (2011)."
-3’UTRtruncated Hmga2 cDNA causes MPNlike hematopoiesis by conferring a clonal growth advantage at the level of HSC in mice.
-Blood 117: 5860–5869. 9.  10.  
-"Knight, S, Bokhoven, M, Collins, M and Takeuchi, Y (2010)."
-Effect of the internal promoter on insertional gene activation by lentiviral vectors with an intact HIV long terminal repeat.
-J Virol 84: 4856–4859. 11.  
-"Montini, E, Cesana, D, Schmidt, M, Sanvito, F, Bartholomae, CC, Ranzani, M et al. (2009)."
-The genotoxic potential of retroviral vectors is strongly modulated by vector design and integration site selection in a mouse model of HSC gene therapy.
-J Clin Invest 119: 964–975.
-12.  
-"Modlich, U, Navarro, S, Zychlinski, D, Maetzig, T, Knoess, S, Brugman, MH et al. (2009)."
-Insertional transformation of hematopoietic cells by selfinactivating lentiviral and gammaretroviral vectors.
-Mol Ther 17: 1919–1928. 13.  
-"Maruggi, G, Porcellini, S, Facchini, G, Perna, SK, Cattoglio, C, Sartori, D et al. (2009).  "
-Transcriptional enhancers induce insertional gene deregulation independently of the vector type and design.
-Mol Ther 17: 851–856.
-14.  
-"Beatty, J, Terry, A, MacDonald, J, Gault, E, Cevario, S, O’Brien, SJ et al. (2002)."
-Feline immunodeficiency virus integration in Bcell lymphoma identifies a candidate tumor suppressor gene on human chromosome 15q15.
-Cancer Res 62: 7175–7180. 15.  
-"Ben David, Y, Prideaux, VR, Chow, V, Benchimol, S and Bernstein, A (1988).  "
-Inactivation of the p53 oncogene by internal deletion or retroviral integration in erythroleukemic cell lines induced by Friend leukemia virus.
-Oncogene 3: 179–185. 16.  
-"BenDavid, Y, Lavigueur, A, Cheong, GY and Bernstein, A (1990)."
-Insertional inactivation of the p53 gene during friend leukemia: a new strategy for identifying tumor suppressor genes.
-New Biol 2: 1015–1023. 17.  
-"Treiber, T, Mandel, EM, Pott, S, Györy, I, Firner, S, Liu, ET al. (2010)."
-"Early B cell factor 1 regulates B cell gene networks by activation, repression, and transcription- independent poising of chromatin."
-Immunity 32: 714–725.
-18.  
-"Pongubala, JM, Northrup, DL, Lancki, DW, Medina, KL, Treiber, T, Bertolino, E et al. (2008)."
-Transcription factor EBF restricts alternative lineage options and promotes B cell fate commitment independently of Pax5.
-Nat Immunol 9: 203–215. 19.  
-"Lukin, K, Fields, S, Guerrettaz, L, Straign, D, Rodriguez, V, Zandi, S et al. (2011)."
-A dosedependent role for EBF1 in repressing nonB-cellspecific genes.
-Eur J Immunol 41: 1787–1793. 20.  
-"Lukin, K, Fields, S, Lopez, D, Cherrier, M, Ternyak, K, Ramírez, J et al. (2010).  "
-Compound haploinsufficiencies of Ebf1 and Runx1 genes impede B cell lineage progression.
-Proc Natl Acad Sci USA 107: 7869–7874. 21.  
-"Mullighan, CG, Goorha, S, Radtke, I, Miller, CB, CoustanSmith, E, Dalton, JD et al. (2007)."
-Genomewide analysis of genetic alterations in acute lymphoblastic leukaemia.
-Nature 446: 758–764. 22.  
-"Harvey, RC, Mullighan, CG, Wang, X, Dobbin, KK, Davidson, GS, Bedrick, EJ et al. (2010)."
-"Identification of novel cluster groups in pediatric highrisk Bprecursor acute lymphoblastic leukemia with gene expression profiling: correlation with genome- wide DNA copy number alterations, clinical characteristics, and outcome."
-Blood 116: 4874–4884. 23.  
-"HeltemesHarris, LM, Willette, MJ, Ramsey, LB, Qiu, YH, Neeley, ES, Zhang, N et al. (2011)."
-Ebf1 or Pax5 haploinsufficiency synergizes with STAT5 activation to initiate acute lymphoblastic leukemia.
-J Exp Med 208: 1135–1149. 24.  
-"Heckl, D, Wicke, DC, Brugman, MH, Meyer, J, Schambach, A, Büsche, G et al. (2011).  "
-Lentiviral gene transfer regenerates hematopoietic stem cells in a mouse model for Mpldeficient aplastic anemia.
-Blood 117: 3737–3747. 25.  
-"Li, Z, Düllmann, J, Schiedlmeier, B, Schmidt, M, von Kalle, C, Meyer, J et al. (2002).  "
-Murine leukemia induced by retroviral gene marking.
-Science 296: 497. 26.  
-"Modlich, U, Kustikova, OS, Schmidt, M, Rudolph, C, Meyer, J, Li, Z et al. (2005).  "
-Leukemias following retroviral transfer of multidrug resistance 1 (MDR1) are driven by combinatorial insertional mutagenesis.
-Blood 105: 4235–4246. 27.  
-"Kustikova, O, Fehse, B, Modlich, U, Yang, M, Düllmann, J, Kamino, K et al. (2005).  "
-Clonal dominance of hematopoietic stem cells triggered by retroviral gene marking.  
-Science 308: 1171–1174. 28.  
-"Modlich, U, Schambach, A, Brugman, MH, Wicke, DC, Knoess, S, Li, Z et al. (2008).  "
-Leukemia induction after a single retroviral vector insertion in Evi1 or Prdm16.  
-Leukemia 22: 1519–1528.
-29.  
-"Schambach, A, Bohne, J, Chandra, S, Will, E, Margison, GP, Williams, DA et al. (2006).  "
-Equal potency of gammaretroviral and lentiviral SIN vectors for expression of O6methylguanine-DNA methyltransferase in hematopoietic cells.
-Mol Ther 13: 391–400. 30.  
-"Hashimoto, Y and Ware, J (1995)."
-Identification of essential GATA and Ets binding motifs within the promoter of the platelet glycoprotein Ib alpha gene.
-J Biol Chem 270: 24532–24539. 31.  
-"Baum, C, HegewischBecker, S, Eckert, HG, Stocking, C and Ostertag, W (1995).  "
-Novel retroviral vectors for efficient expression of the multidrug resistance (mdr1) gene in early hematopoietic cells.
-J Virol 69:
-7541–7547. 32.  
-"Ng, SY, Yoshida, T, Zhang, J and Georgopoulos, K (2009)."
-Genomewide lineage- specific transcriptional networks underscore Ikarosdependent lymphoid priming in hematopoietic stem cells.
-Immunity 30: 493–507.
-33.  
-"Roessler, S, Györy, I, Imhof, S, Spivakov, M, Williams, RR, Busslinger, M et al. (2007).  "
-Distinct promoters mediate the regulation of Ebf1 gene expression by interleukin7 and Pax5.
-Mol Cell Biol 27: 579–594.
-34.  
-"Hu, J, Renaud, G, Gomes, TJ, Golmes, T, Ferris, A, Hendrie, PC et al. (2008)."
-Reduced genotoxicity of avian sarcoma leukosis virus vectors in rhesus longterm repopulating cells compared to standard murine retrovirus vectors.
-Mol Ther 16: 1617–1623. 35.  
-"Moldt, B, Miskey, C, Staunstrup, NH, GogolDöring, A, Bak, RO, Sharma, N et al. (2011)."
-Comparative genomic integration profiling of Sleeping Beauty transposons mobilized with high efficacy from integrasedefective lentiviral vectors in primary human cells.
-Mol Ther 19: 1499–1510. 36.  
-"Suerth, JD, Maetzig, T, Brugman, MH, Heinz, N, Appelt, JU, Kaufmann, KB et al. (2012)."
-Alpharetroviral Selfinactivating Vectors: Longterm Transgene Expression in Murine Hematopoietic Cells and Low Genotoxicity.
-Mol Ther (epub ahead of print).
-37.  
-"Sadelain, M, Papapetrou, EP and Bushman, FD (2012)."
-Safe harbours for the integration of new DNA in the human genome.
-Nat Rev Cancer 12: 51–58. 38.  
-"Mussolino, C, Morbitzer, R, Lütge, F, Dannemann, N, Lahaye, T and Cathomen, T (2011)."
-A novel TALE nuclease scaffold enables high genome editing activity in combination with low toxicity.
-Nucleic Acids Res 39: 9283–9293. 39.  
-"Boch, J, Scholze, H, Schornack, S, Landgraf, A, Hahn, S, Kay, S et al. (2009).  "
-Breaking the code of DNA binding specificity of TALtype III effectors.
-Science 326: 1509–1512. 40.  
-"Moscou, MJ and Bogdanove, AJ (2009)."
-A simple cipher governs DNA recognition by TAL effectors.
-Science 326: 1501.
-41.  
-"Dull, T, Zufferey, R, Kelly, M, Mandel, RJ, Nguyen, M, Trono, D et al. (1998)."
-A thirdgeneration lentivirus vector with a conditional packaging system.
-J Virol 72: 8463–8471.
-42.  
-"Kieslinger, M, Hiechinger, S, Dobreva, G, Consalez, GG and Grosschedl, R (2010).  "
-Early B cell factor 2 regulates hematopoietic stem cell homeostasis in a cellnonautonomous manner.
-Cell Stem Cell 7: 496–507. 43.  
-"Gentleman, RC, Carey, VJ, Bates, DM, Bolstad, B, Dettling, M, Dudoit, S et al. (2004)."
-Bioconductor: open software development for computational biology and bioinformatics.
-Genome Biol 5: R80. 44.  
-"Kauffmann, A, Gentleman, R and Huber, W (2009)."
-arrayQualityMetrics–a bioconductor package for quality assessment of microarray data.
-Bioinformatics 25: 415–416.
-45.  
-"Gautier, L, Cope, L, Bolstad, BM and Irizarry, RA (2004)."
-Affy–analysis of Affymetrix GeneChip data at the probe level.
-Bioinformatics 20: 307–315. 46.  
-"Smyth, G. (2005)."
-Limma: linear models for microarray data.
-"In: Gentleman, R, Carey, V, Dudoit, S, Irizarry, S and Huber, W (eds)."
-Bioinformatics and Computational Biology Solutions Using R and Bioconductor.
-Springer: New York.
-Pp.
-397–420.
-47.  
-"Subramanian, A, Tamayo, P, Mootha, VK, Mukherjee, S, Ebert, BL, Gillette, MA et al. (2005)."
-Gene set enrichment analysis: a knowledgebased approach for interpreting genomewide expression profiles.
-Proc Natl Acad Sci USA 102: 15545–15550.
-Molecular Therapy vol.
+"© The American Society of Gene & Cell Therapy original article Lentiviral Vector Induced Insertional Haploinsufficiency of Ebf1 Causes Murine Leukemia Dirk Heckl1, Adrian Schwarzer1, Reinhard Haemmerle1, Doris Steinemann2, Cornelia Rudolph2, Britta Skawran2, Sabine Knoess1, Johanna Krause1, Zhixiong Li1, Brigitte Schlegelberger2, Christopher Baum1 and Ute Modlich1 1Institute of Experimental Hematology, Hannover Medical School, Hannover, Germany; 2Institute of Cell and Molecular Pathology, Hannover Medical School, Hannover, Germany Integrating vectors developed on the basis of various retroviruses have demonstrated therapeutic potential following genetic modification of longlived hematopoietic stem and progenitor cells.   Lentiviral vectors (LV) are assumed to circumvent genotoxic events previously observed with γretroviral vectors, due to their integration bias to transcription units in comparison to the γretroviral preference for promoter regions and CpG islands.   However, recently several studies have revealed the potential for gene activation by LV insertions.  "
+"Here, we report a murine acute Blymphoblastic leukemia (BALL) triggered by insertional gene inactivation. LV integration occurred into the 8th intron of Ebf1, a major regulator of Blymphopoiesis.   Various aberrant splice variants could be detected that involved splice donor and acceptor sites of the lentiviral construct, inducing downregulation of Ebf1 fulllength message.  "
+"The transcriptome signature was compatible with loss of this major determinant of Bcell differentiation, with partial acquisition of myeloid markers, including Csf1r (macrophage colony- stimulating factor (MCSF) receptor).   This was accompanied by receptor phosphorylation and STAT5 activation, both most likely contributing to leukemic progression.   Our results highlight the risk of intragenic vector integration to initiate leukemia by inducing haploinsufficiency of a tumor suppressor gene.  "
+"We propose to address this risk in future vector design. Received 27 February 2012; accepted 27 February 2012; advance online publication 3 April 2012. Doi:10.1038/mt.2012.59 IntroductIon Gene therapy with γretroviral vectors has shown its potential to treat inherited immunodeficiencies.1 However, safety concerns arose with the occurrence of severe adverse events, namely leukemias and myelodysplastic syndromes, after insertional activation of protooncogenes by the integrated vector.2–4 Selfinactivating lentiviral vectors (SINLVs), which lack viral enhancer elements and show a potentially safer, albeit more intragenic insertion pro file,5,6 are increasingly used in new clinical trials targeting longterm repopulating hematopoietic stem cells.7,8"
+"However, SINLVs still contain internal enhancers, promoters, polyadenylation signals, and splice sites.   These sequences could potentially interfere with the initiation and processing of cellular messenger RNAs (mRNAs), create truncated proteins with stimulatory or inhibitory functions, or lead to monoallelic inactivation of tumor suppressors. A recent report revealed clonal dominance in a clinical trial to treat βthalassemia, mediated by deregulation of HMGA2 expression.7 "
+"In this case, intronic SINLV insertion disturbed correct mRNA splicing and eliminated a target site for a cellular microRNA, thus stabilizing the transcript and potentially leading to a gainof-function of HMGA2, a known regulator of primitive hematopoiesis.7,9 Aberrant splicing involved a splice site created by genetic rearrangement of a tandem repeat insulator sequence located in the lentiviral SIN long terminal repeat.7 Importantly, to date the dominant clone with activation of HMGA2 did not exceed ~5% of the total hematopoietic cells and has not been reported to trigger a malignant disease. Furthermore, it was recently shown that intragenic LV insertions can induce expression of the growthhormone receptor (Ghr)10 or activate protooncogenes such as BRaf or Evi1.11,12 In the case of Ghr and BRaf, aberrant splicing was involved in gene activation.   In both of these cases, the insertions occurred and were selected in cells with preexisting genetic aberrations, formally questioning their role as potential tumorinducing events.  "
+"Lentivirally induced downregulation of gene expression was demonstrated by gene expression analysis in single cell clones.13  However, these analyses did not allow the study of functional consequences of reduced gene expression. Cell transformation caused by insertional inactivation of tumor suppressor genes is not only a theoretical concern."
+"Proofof-concept for such events has been obtained in animal studies using replicationcompetent γretroviruses.14–16 However, tumors induced by replicationcompetent retroviruses typically contain several insertions, complicating the distinction of inducer, progression, and bystander events. Although expected to occur with Correspondence: Ute Modlich, Institute of Experimental Hematology, OE6960, Hannover Medical School, CarlNeuberg-Straße 1, 30625 Hannover, Germany."
+"Email: modlich.ute@mhhannover.de or Christopher Baum, Institute of Experimental Hematology, OE6960, Hannover Medical School, CarlNeuberg-Straße 1, 30625 Hannover, Germany. Email: baum.christopher@mhhannover.de Molecular Therapy vol. 20 no. 6, 1187–1195 june 2012 1187 Lentiviral Vector Induced Murine Leukemia © The American Society of Gene & Cell Therapy a frequency that still remains to be determined, inactivation of a tumor suppressor gene by a replicationdeficient integrating vector may only be functionally relevant if the second allele is lost or if haploinsufficiency disturbs clonal homeostasis."
+"In the context of the hematopoietic system, the importance of haploinsufficiency has recently been demonstrated in clinical studies and mouse models exploring the role of lossof-function of Early Bcell factor 1 (EBF1), a master transcription factor responsible for lineage specification of Bcell progenitor cells.17–20 In human acute Blymphoblastic leukemia (BALL), haploinsufficiency of the transcription factor EBF1 is found as a relatively common genetic lesion.21,22 In a murine model with germline inactivation of one Ebf1 allele, collaboration with STAT5 activation was shown to lead to a high penetrance of BALL.23 Here, we report a very similar constellation after LVinduced insertional inactivation of murine Ebf1. This case was observed in the context of our prospective studies addressing the efficiency and safety of SINLVs containing human promoter fragments to restrict gene expression to the megakaryocytic lineage.24 We report the leukemia phenotype, genotype, and transcriptome, and the impact of the SINLV insertion on Ebf1 transcription and protein expression.   Our study highlights the relevance of prospective studies in nontumorprone murine models to detect rare complications of nontargeted vector insertions.25–28 Although the incidence of leukemogenic events triggered by haploinsufficiency remains to be established, this case underlines that vectors with a reduced potential of intragenic insertions and/or reduced interference with cellular splicing may increase the safety of untargeted gene addition strategies."
+"Results Monoclonal BAll originating from sInlV–transduced hematopoietic cells With the aim to characterize vectors designed for expression in the megakaryocytic lineage we transplanted CD45.2+ C57BL/6 mice with syngeneic CD45.1+ bone marrow (BM) cells transduced with a SINLV (RRL.PPT.GPIba.eGFP.pre)29 expressing enhanced green fluorescent protein (eGFP) from a human glycoproteinI- bα promoter (GPIba) fragment.30 Out of seven mice transplanted, one mouse presented with severe anemia (hematocrit = 26.4%), thrombocytopenia (89 × 103/µl), leukocytosis (179.3 × 103/µl), and splenomegaly (307 mg) 199 days after transplantation. Due to signs of advanced disease, the animal was killed, and fresh tissues were collected for detailed investigation. Histopathology revealed strong blast cell infiltrations in BM, spleen, liver, kidney, and lung (Figure 1a,b, Supplementary Figure S1).  "
+"Flow cytometry specified the cells as Bcell progenitors at the PreProB to PreB-cell stage expressing B220, CD43, and lacking IgM. CD19 was expressed on ~32% and CD11b on ~19% of the cells, indicating partial conversion to a myeloid phenotype (Figure 1c). The markers CD45.1 and eGFP defined the cells as donor derived and vector transduced (Figure 1c). Secondary transplantation of 2 × 106 or 5 × 105 primary cells induced leukocytosis and organ infiltrations in all (n = 6) or 1/3 (n = 3) of the recipients, respectively (Figure 1d).  "
+"Compared to the leukemia phenotype in the affected mouse, an increased percentage of cells expressing CD19, cKit, and IL7Ra was observed in secondary recipients (Supplementary Figure S2).   Southern blot analyses using three different restriction enzymes identified two independent SINLV insertions, with identical pattern and signal strength in the primary and secondary recipients, strongly arguing for monoclonality of leukemic Blymphoblasts (Figure 2a and Supplementary Figure S3). These data established the diagnosis of a transplantable, monoclonal BALL, manifesting 28 weeks after transplantation of SINLV–modified BM cells into lethally irradiated syngenic C57BL/6 mice."
+"Lentiviral insertion in Ebf1 as potential inducing mutation To determine which genes were affected by the lentiviral insertions, we performed ligationmediated PCR.   In addition to the internal control band obtained from the amplification of a vector sequence, we identified two prominent bands. Sequencing of the insertion sites revealed diagnostic junctions of vector long terminal repeat and murine genome sequences."
+"We thus mapped one insertion in the 1st intron of the NanceHoran Syndrome (Nhs) gene (Figure 2b, Supplementary Table S1). However, expression of Nhs mRNA could neither be detected in wildtype splenocytes nor in the leukemic cells (Supplementary Figure S4).   The second integration was located in the 8th intron of the Ebf1 gene (Figure 2b and Supplementary Table S1)."
+"To detect potential additional genetic lesions contributing to leukemogenesis, we searched for chromosomal aberrations (translocations, deletions, amplifications) by spectral karyotyping (Figure 3a) and comparative genome hybridization (array CGH, Figure 3b). While the karyotype was normal, the more sensitive CGH showed microdeletions in two regions located on chromosomes 6 and 12. However, in both cases these regions are not known to contain functional genes."
+"Therefore, we focused on the functional consequences of the SINLV insertion in Ebf1. Truncated transcripts and downregulation of ebf1 encodes a transcription factor that regulates Bcell development upstream of a whole network of transcriptional regulators and signaling molecules important for Bcell maturation, including Pax5.17 Haploinsufficiency of EBF1 is associated with human BALL, which can be recapitulated in a murine model.21–23 We thus further investigated a potential deregulation of Ebf1 after the SINLV integration and found a downregulation in leukemic cells, both on mRNA and protein level (Figure 4). As the integration event occurred almost in the center of intron 8, and in the same transcriptional orientation as the cellular gene, we examined aberrant splicing events involving the vector’s splice sites, including those of an intron contained in the GPIba promoter fragment, with a series of reverse transcriptionPCR reactions (Figure 4a).  "
+"Overall, the transcript was strongly downregulated (~80% reduced, Figure 4b), which was reflected in a strong reduction of protein levels (Figure 4c). Quantitative PCR revealed splicing from Ebf1 exon 8 into the SINLV and increased readthrough after Ebf1 exon8 (transcripts 1 and 2, Figure 4d). The detected levels of misspliced mRNA of transcript 1 accounted for ~30% of the total Ebf1 mRNA in leukemic cells."
+"Transcripts initiated from the vector that spliced into the downstream Ebf1 exons were detectable (Supplementary Figure S6) although at a very low level. However, nonsense- mediated decay might have caused accelerated mRNA 1188 www.moleculartherapy.org vol. 20 no. 6 june 2012 "
+© The American Society of Gene & Cell Therapy Lentiviral Vector Induced Murine Leukemia 104 103 102 101 100 100 7 92 01 102 103 104 101 eGFP 104 103 102 101 100 100 CD43 104 103 102 101 100 100 IgM 104 103 102 101 100 100 18 75 60 101 102 103 104 293 104 101 102 103 92 4 103 104 101 102 100 101 102 103 104 1 4 19 76 CD11b 5 0 32 63 104 103 102 101 100 104 103 102 101 100 300 250 200 150 100 50 Prim ary Secondary 2 x 106 Secondary 5 x 105 CD19 ll7Ra 100 101 102 103 104 Figure 1 Acute Blymphoblastic leukemia. (a) Representative histology showing strong infiltration of leukemic cells in the liver.
+"(H&E staining, ×200).   (b) Leukemic blasts from the bone marrow of the primary leukemia present with lymphoid and myeloid characteristics. Most blasts cells are larger and have typical myeloid (monocytic) cellular outlines and cytoplasm."
+"The nucleoli are larger and irregular, which are usually seen in lymphoblasts rather than in myeloblasts. (MayGrünwald/Giemsa, ×1,000). (c) Flow cytometry of primary leukemic BM cells indentified the leukemia as Blymphoblastic with expression of B220 and CD43 while lacking IgM expression."
+CD19 was expressed on ~32% of the cells while cKit and IL7Ra expression was almost absent.   Approximately 19% of the cells expressed the myelomonocytic marker CD11b. CD45.1 and GFP expression marked cells as donor derived and vector transduced.
+"(d) BM cells of the primary mouse that developed Blymphoblastic leukemia were transplanted into lethally irradiated secondary recipient mice at two different doses: 2 × 106 and 5 × 105 BM cells. All mice that received the high cell dose succumbed to leukemia 12–17 days after transplantation with high peripheral white blood cell counts, whereas only one of the recipients that were transplanted with the low dose of cells developed leukocytosis.   BM, bone marrow; eGFP, enhanced green fluorescent protein; H&E, hematoxylin and eosin; PB, peripheral blood."
+"1 2 3 4 5 6 7 8 9 LMPCR < Ebf1 < IC < Nhs Figure 2 BAll consist of a clone with two insertion sites. (a) Southern blot analysis of BM samples from different secondary recipients (lane 1–6) or control mice (7–9) digested with BsrGI (1, 2, 7), "
+"EcoNI (3, 4, 8) or NcoI (5, 6, 9) and probed for the vectorspecific posttranscrip- tional regulatory element (PRE). (b) Ligationmediated PCR (LMPCR) on genomic DNA from the BM of a secondary recipient verified two vector integrations which were identified by sequencing to be in the Nhs gene and in the Ebf1 gene. BM, bone marrow."
+"Degradation.   In support of this hypothesis no truncated EBF1 protein variants could be detected by immunoblot in leukemic samples, while expression of the putative transcript from a LV was welldetectable (Figure 4e). As a putative truncated EBF1 protein may still contain the DNAbinding domain encoded by exon 1–8 but lack the transactivation motif, and considering that the immunoblot may not be sensitive enough despite the choice of reasonable positive controls, we expressed two putative versions of the truncated EBF1 encoded by the transcripts 1 and 2 from SINLV containing a strong promoter derived from spleen focusforming virus.31 Both transcripts will result in a truncated EBF1 containing exons 1–8 (Supplementary Figure S5).  "
+"Expression of the truncated protein was confirmed by immunoblot (Figure 4e). Lineagenegative BM cells were cultured in conditions that promote Bcell differentiation.   However, no evidence was found that a putative truncated protein acts as a dominantnegative variant blocking Bcell differentiation (Figure 5)."
+"In support of these findings, the vector expressing truncated EBF1 did not induce leukemia in vivo (10 mice observed for 6 months, data not shown). Molecular evidence for ebf1 lossof-function connected to activation of stAt5 With confirmed downregulation of Ebf1 and potential involvement of aberrant mRNA processing, we next addressed Ebf1 target gene expression in leukemic cells. Gene expression microarrays comparing leukemic blasts to differentiation stage matched Bcell progenitors (CD19+CD43+) from C57BL/6 mice confirmed Molecular Therapy vol. 20 no."
+6 june 2012 1189 Lentiviral Vector Induced Murine Leukemia © The American Society of Gene & Cell Therapy −1 ii 10 11 12 13 14 15 16 17 18 19 X Y Chr 6: 6704827571736103 S erbp1 ll12rb2 T acstd2 ll23r xd 45a R m nd5a J mjd1a R nf103 C d8b1 V ps24 Krcc1 C d8a 1700011 F 03 Rik J mijd1a Eif2ak3 T hns12 S m y d1 F abp1 R ee R pia 67.0Mb 67.8Mb 68.6Mb 69.3Mb 70.1Mb 70.9Mb 71.7 Chr 12: 113303756117955963 G pr132 C dca4 Jag2 B C 022687
+A hnak2 4930427 A 07 Rik T m e m 121 T m rm 179 Sin a1 26102 Q 4 M 08 Rik A 530016L24 Rik A dssl1 Crip2 Mta1 P acs2
+"T ex22 Btbd6 D 12 Ertd551e N capg2 W dr60 Zfp386 Vipr2 Ptpr 114.0Mb 114.8Mb 115.6Mb 116.4Mb 117.1Mb 117.9 A 530050 D 06 Rik X 7 E 04 Rik Kif26a 113.3Mb Figure 3 Analysis of the genomic stability. (a) No chromosomal aberrations were detected by spectral karyotyping (SKY). Leukemic cell were grown in culture (IL7, Flt3L) for 2 days to induce proliferation and metaphases prepared."
+"(b) Comparative genome hybridization (arrayCGH) analysis of leukemic cells. Genomic profiles by means of high resolution arrayCGH (180 k): Cye3/Cy5 log2 ratios of fluorescence intensities of probes against their chromosomal localization along chromosomes 1–19 is shown, X: stacked plots of genomic DNA samples of the secondary mice one (brown), two (green), three (black), and the primary mouse (blue); pooled DNA from 10 female C57BL/6 spleen specimen served as reference leading to monosomal X in the male test samples. (i) Microdeletion within chromosomal region 6 in all four probes ranging from 67.847–70.677"
+"Mb containing no genes; (ii) microdeletion within chromosomal region 12 in all four probes ranging from 114.676–115.154 Mb containing no genes. Downregulation of Ebf1 and its target genes (Figure 6a). One of the target genes that was found to be downregulated was Aiolos (Ikzf3), a tumor suppressor which is known to be frequently deleted and coincided with Ebf1 haploinsufficiency in BALL patients.21"
+"We did not find Ikzf3 to be genetically deleted according to the CGH analysis (Supplementary Figure S7). As a known downstream target of Ebf120 the downregulation of Ikzf3 may therefore be caused by Ebf1 haploinsufficiency. Gene expression data also provided further evidence for dedifferentiation to the myeloid lineage with upregulation of Csf1r (cFms), Runx2 and further genes associated with myeloid differentiation32 (Figure 6b)."
+"Gene ontology analysis also identified cytokine receptor signaling target genes to be upregulated in leukemic cells.   Considering this transcriptome signature and the known leukemogenic collaboration of Ebf1 haploinsufficiency with STAT5 1190 www.moleculartherapy.org vol. 20 no. 6 june 2012 © The American Society of Gene & Cell Therapy Lentiviral Vector Induced Murine Leukemia Ebf1 E1 E2 E3 E4 E5 E6 E7 E8 E9 E10 E11 E12 E13 E14 E15 E16 E8 11,7kb SIN LTR RRE PPT GPIbα TSS eGFP PRE SIN LTR 12,2"
+kb E9 Vector transcript SD pA SD SA SD pA SA Wt transcript 1 Transcript 2 Transcript 3 Transcript 4 Transcript 5 0.6 0.4 0.2 0.10 0.08 0.06 0.04 0.02 0.00 (Stop) (Stop) (Stop) (Stop) nd nd nd nd w t s 1 s 2 s 3 s 4 s 5 w t s 1 s 2 s 3 s 4 s 5 Leukemia Ctrl 0.6 0.5 0.4 0.3 0.2 0.1 0.0 Leukemia Ctrl BM PB SP Ctrl WT Leu − fl tr 80 58 30 25 17 Ebf1 Actin 80 58 30 25 17 Ebf1 Ebf1tr Actin Figure 4 Posttranscriptional deregulation of Ebf1 following lentiviral vector insertion. (a) Schematic overview of the Ebf1 gene locus with the insense integrated SINLV in intron 8.
+"The SINLV harbors the exon (E) and intron (I) containing GPIba promoter, the eGFP reporter gene, the PRE, and splice donors (SD), and splice acceptors (SA) sites as indicated. Splice events can lead to alternative transcripts as indicated in the figure (transcripts 1–5) in addition to the wt and vector transcripts. A stop codon can occur due to frame shifts in transcript 2. (b) Ebf1 mRNA expression levels relative to actin in the BM from three independent leukemic mice (leukemia) and three independently FACSsorted CD19+CD43+ Bcell progenitor samples from wildtype mice BM (Ctrl)."
+"(c) Immunoblot analysis of Ebf1 expression in leukemic samples from bone marrow (BM), spleen (SP), and peripheral blood (PB) of leukemic mice in comparison to wildtype CD19+CD43+ Bcell progenitors (Ctrl). Actin was used as loading control. (d) Quantitative RTPCR detecting the different splice products of the Ebf1 locus with the inserted LV in comparison to the fulllength transcript."
+Readthrough transcripts into intron 8 (transcript 1) and fusion transcripts from exon 8 to the LV eGFP gene that result in a frame shift and early stop (transcript 2) are welldetectable. Splice products from the LV to the exon 9 (transcripts 3–5) could be amplified and sequences were verified (supplementary Figure s6) but the overall amount of transcripts was extremely low (percentage of transcript in correlation to the fulllength transcript is given). Results from three independent leukemic BM samples (leukemia) in comparison to pooled (n = 3) wildtype BM (Ctrl) (nd = not detected).
+"(e) Immunoblot analysis of wildtype splenocytes (WT) and leukemic cells (Leu) does not show detectable amounts of truncated protein corresponding to the expected protein. Immunoblot analysis of 293T cells transfected with lentiviral constructs expressing dTomato alone (−), fulllength Ebf1 (fl) or the truncated Ebf1 (tr) shows that the employed antibody was able to detect the truncated Ebf1 protein. eGFP, enhanced green fluorescent protein; FACS, fluorescenceactivated cell sorting; LTR, long terminal repeat; mRNA, messenger RNA; pA, polyA; PRE, posttranscriptional regulatory element; RTPCR, reverse transcriptionPCR; SINLV, selfinactivating lentiviral vector."
+"Activation,23 we detected strong STAT5 activation in the murine BALL by immunoblot (Figure 6c). To identify the upstream events leading to STAT5 activation, we used phosphoproteome arrays of freshly harvested leukemic cells.   We found that CSF1R was strongly activated in leukemic cells and also obtained a minor phosphorylation signal of PDGFRβ (Figure 6d)."
+"We thus tested the response of leukemic cells to macrophage colonystimulating factor (MCSF) in vitro, Molecular Therapy vol. 20 no. 6 june 2012 1191 Lentiviral Vector Induced Murine Leukemia © The American Society of Gene & Cell Therapy 104 103 102 101 Ctrl 55.8 104 103 102 101 76.9 1.2 104 103 102 101 9.4 89.9 100 100 101 102 103 104 100 100 21.8 101 102 103 104 100 100 0.7 101 102 103 104 Ebf1tr1 104 103 102 101 100 62.2 104 103 102 101 100 75.3 1.5 22.7 104 103 102 101 100 7.63 91.54 0.8 100 101 102 103 104 100 101 102 103 104 100 101 102 103 104 104 103 102 101 100 66.4 100 101 102 103 104 104 103 102 101 100 77.5 1.6 20.0 100 101 102 103 104 104 103 102 101 100 9.2 90.0 0.8 100 101 102 103 104 Ebf1tr2 dTomato CD19 Figure 5 expression of a truncated ebf1 protein does not interfere with in vitro Bcell differentiation."
+"Lineage negative BM cells were transduced with a SINlentiviral vector expressing the truncated variants of Ebf1, Ebf1tr1 (RRL.PPT.SFFV. Ebf1tr1.IRES.dTomato.pre) or Ebf1tr2 (RRL.PPT.SFFV. Ebf1tr2.IRES.dTomato.pre) which correspond to the truncations induced by readthrough or splicing to the GPIbaP splice acceptor, respectively. For detection by flow cytometry a dTomato was coexpressed from an IRES."
+"As control, cells were transduced with a vector expressing dTomato alone (RRL.PPT.SFFV.IRES.dTomato.pre). (i) Transgene expression as indicated by dTomato expression in a representative culture on day 7 of coculture on OP9 stromal cells, (ii) expression of Bcell markers B220 and CD19 after 7 days, and (iii) after 18 days was assessed by flow cytometry. Percentages of the distinct populations are indicated in corresponding quadrants."
+"No differences in Bcell differentiation were seen in cells expressing the truncated EBF1 protein in comparison to control vectortransduced cells. And noted strong activation of STAT5, ERK 1/2, and AKT in leukemic cells. These data revealed that CSF1R activation was nonautonomous and induced a strong signal response in the leukemic clone (Figure 6e).  "
+"While the microarray supported that MCSF was not transcriptionally induced in the BALL cells, the induction of Csf1r might be a direct consequence of the lossof-function of the Bcell identity factor EBF1.   Indeed, the Blymphoblastic leukemia showed a partial myeloid expression profile based on both, surface phenotype (Figure 1c) and microarray analysis. dIscussIon This study provides strong support for the potential induction of an acute leukemia by insertional gene inactivation, caused by the integration of an otherwise neutral lentiviral gene marking vector.  "
+"The analysis of the leukemic phenotype and underlying genetic lesions pointed to a crucial role of transcriptional downregulation of a known tumor suppressor gene, Ebf1, after intronic insertion of the LV. Indeed, previous studies have shown that murine BALL can be induced by monoallelic germline inactivation of Ebf1,23 triggering a block of Bcell differentiation which in our case was associated with upregulation of myeloid growth factor receptors that may mediate growthpromoting signals in response to a supportive cytokine milieu.   As karyotype and CGH analyses did not uncover further leukemogenic events, the identification of additional leukemogenic mutations may require genomewide sequencing.  "
+"However, as lentiviral integration occurred in BM cells of wildtype C57BL/6 mice, additional leukemogenic mutations likely occurred after the insertion event, connected to the expansion of the leukemic clone. We would thus propose that this study can be interpreted as a proofof-concept for insertional haploinsufficiency caused by a replicationdeficient integrating gene vector as a tumorinitiating event. One remaining important question is why the second Ebf1 allele was unable to compensate the monoallelic loss of Ebf1 expression."
+"A potential positive feedback loop of EBF1 acting on its own promoter may have contributed to the substantial loss of expression detected at the RNA and protein level.33 Alternatively, antisense transcripts originating from the altered allele may be involved, although the transcription unit of the vector was in the transcriptional orientation of the allele, the leukemic clone may have undergone random transcriptional silencing or may even have acquired cryptic mutations of the second allele, confounding the selective advantage of transformed cells. 1192 www.moleculartherapy.org vol. 20 no. 6 june 2012 © The American Society of Gene & Cell Therapy Lentiviral Vector Induced Murine Leukemia ADAMTS7 CD72 ENPP6 BST1 KCNA5 GPR56 BCL7A RGS2 SIT1 CAMK2D P2RX3 SBK1 ASB2 LRMP STXBP1 IMPDH1 PLEKHG2 NEU1 CYFIP2 CMTM8 HES5 SPRED2 ATP8B3 ELL3 B3GNT2 PTP4A3 KLHL6 CPT1A UNC5A SMTN TRFR2 UCP2 VPREB1 TRP53INP PDE4A BLK GAS7 POLD4 PKIG ALDH3B1 MTERFD3 DTX1 ARHGEF10 RGS12 CBX2 CAMK2B CEACAM1 RASA4 PARP1 ZC3H12D"
+TMEM108 TMPRSS4 NOTCH3 HIP1 PCK2 PTPRS SEMA7A FBP1 MYL4 ADAMTSL2 GPR97 GRHPR BCAT1 MEFV C3 TMEM38B FNDC3B FABP5 PRKAB2 MS4A3 CLDN15 MTUS1 STXBP6 RPS6KA2 TRPS1 PAPSS2 OXR1 ALDH1B1 ATP2B1 AGPS DPP4 UGP2 MET SPG21 SGPL1 IGSF6 HDC KLF4 BZRAP1 FCGR2B PGS1 EDEM1 UBE2W AP3S1 NNT OSTF1 UGDH SEPX1 PDE4D ZDHHC20 PDIA5 ACOT9 ACTR3 C1GALT1C1 LAMP2 CD48 TMEM55B TIAM1 PSAP WDR1 SGK3 HSP90B1 IDH1 DEPDC7 IDH2 H47 IGFBP4 MTM1 SLC35E3 NEIL3 TREM3 RAPH1 MAPKAPK2 GNG12 ZBTB8OS ALAS1 NIN MAPKAPK3 SDF2L1 ZNRF2 SORL1 CTSZ PLOD3 CX3CR1 CYBB CLEC7A
+"EMR1 NUCB2 ITPR1 APP ERN1 CCBL2 CEBPD PDGFRB LPXN PLD4 CFP SEMA4A KMO CCL6 MLKL TEX2 PMAIP1 EVI5 CDS1 ID2 NRP1 FGR TMEM119 DIRC2 FCER1G LGALS3 CD33 CD163 CCR9 RUNX2 FGFR2 CSF1R PTPRO CCR2 High Low BM SP PB Ctrl pSTAT5 panSTAT5 23 CSF1R pSTAT5 STAT5 pAKT AKT pERK 1/2 ERK 1/2 Figure 6 downregulation of ebf1 target genes coincides with reactivation of myeloid genes and csf1r upregulation. (a) cDNAmicroarray CD43+ wildtype Bcell proanalysis performed on three independent leukemic BM samples in comparison to three independent samples of CD19 genitors (wt Bcells). Gene set enrichment analysis (GSEA) shows downregulation of Ebf1 target genes17 in leukemic cells as compared to wildtype Bcell progenitors (NES = 1.55; P = 0.012, FDR <0.02)."
+"(b) GSEA analysis of myeloid lineagespecific genes32 shows strong enrichment of myeloid genes in leukemic cells (NES = −2.49; P < 0.001, FDR <0.001). (c) Phosphotyrosine immunoblot analysis detected activation of STAT5 (Tyr694) in leukemic cells from bone marrow (BM), spleen (SP), and peripheral blood (PB) in comparison to wildtype CD19+CD43+ Bcell progenitors (Ctrl). (d) Strong phosphorylation of Csf1r (aka."
+MCsfr or cFms) and some minor activation of Pdgfrβ was found by phosphoreceptor-tyrosinekinase protein arrays. Both genes had been found upregulated in leukemic cells in the cDNAmicroarray analysis. Ctrl spots.
+"(e) Immunoblot analysis showing CSFR1, pSTAT5, STAT5, pERK 1/2, ERK 1/2, pAKT, and AKT expression/activation in leukemic cells grown on OP9 stromal cells with 20 ng/ml SCF, 20 ng/ml FLT3L, and 10 ng/ml IL7, starved for 3 hours, and stimulated with 40 ng/ml MCSF for 10 minutes after 3 hours starvation.   Loss of STAT5 phosphorylation upon starvation and regain after stimulation with MCSF shows liganddependency of upregulated CSF1R. FDR, false discovery rate; MCSF, macrophage colonystimulating factor; NES, normalized enrichment score. Furthermore, recent studies of cytogenetically abnormal human BALL uncovered heterozygous deletions/mutations of EBF1 as a recurrent event,21,22 which, in line with mechanistic studies in heterozygous knockout mice,23 provide strong evidence for a role of Ebf1 in BALL as a haploinsufficient tumor suppressor.  "
+"However, the latter study used a transgenic mouse model in which lesions were present in all hematopoietic cells, thus providing multiple opportunities for accumulation of secondary genetic lesions contributing to leukemogenesis.   In contrast, our study suggested an insertional event in a single cell as the initiating event, leading to progressive clonal expansion with subsequent transformation. Molecular Therapy vol."
+"20 no. 6 june 2012 1193 Lentiviral Vector Induced Murine Leukemia © The American Society of Gene & Cell Therapy While haploinsufficiency of a tumor suppressor is a noteworthy initiation mechanism of a leukemia, our observation raises concerns that vectors with a preferred intragenic integration profile may establish a new category of mutagenesis in gene therapy.  "
+"As transcript truncation by integrating gene vectors may also lead to the upregulation or gainof-function of protooncogenes,10,11 future vector design could tackle this problem by modification of the integration pattern. We and others therefore explore vector systems with a less biased integration pattern.34–36 Novel approaches for vector integration into bona fide “safe harbors” may also contribute to the prevention of this Risk.37–40 However, it needs to be stressed that the magnitude and clinical relevance of the risk associated with insertional haploinsufficiency remains to be determined.  "
+"Depending on the target tissue of the genetic modification, the number and type of potential haploinsufficient tumor suppressors may vary, and some of the safeguarding mechanisms operating in human cells may prevent tumorigenesis on this basis. To understand the frequency of these events and their contribution to clonal skewing in the longterm followup of patients receiving genemodified cells, and to define the most relevant vector sequences involved in alternative splicing with cellular genes, longitudinal “genomewide” studies will be of great importance. MAterIAls And Methods Animals.  "
+"C57BL/6 (B6. Ly5.2) and C57BL/6 PeP3b (B6 SJL/Ly5.1) mice were obtained from The Jackson Laboratory (Bar Harbor, ME) and kept in the specified pathogenfree animal facilities of the Hannover Medical School, Germany. Animal experiments were approved by the local ethical committee and performed according to their guidelines. LVs and vector production."
+"The lentiviral backbone is the RRL SINLV with minor modifications.24,29,41 The 596 bp human GPIba promoter has been described30 spanning the region −288 to +308. BM cell purification and transduction."
+"Briefly, lineagemarker depleted (lin-) cells were isolated from complete BM by magnetic sorting using lineagespecific antibodies (Gr1,  CD11b, CD45R/B220, CD3e, TER119; Miltenyi Biotech, Bergisch Gladbach, Germany).   Before lentiviral transduction lin-"
+"BM cells were prestimulated for 18 hours in StemSpan SFEM medium (StemCell Technologies, Grenoble, France), 10 ng/ml murine SCF, 20 ng/ml murine THPO, 10 ng/ml human FGF1, 20 Ng/ml murine IGF2, 1% penicillin/streptomycin, 2 mmol/l glutamine, plated in wells precoated with 10 µg/cm2 Retronectin (TaKaRa, Otsu, Japan).   For transduction concentrated viral supernatant was added."
+"PCR.  FACS sorted wildtype Bcell progenitors and leukemic cells were lysed in RLT lysis buffer and stored at −80 °C until processing with the RNeasy Micro Kit (Qiagen GmbH, Hilden, Germany).   cDNA synthesis was performed using the QuantiTect reverse transcription kit (Qiagen GmbH).   Quantitative reverse transcriptionPCR was performed using SYBRGreen for detection (Qiagen GmbH).  "
+Primers are summarized in Supplementary Table S2. LV integrations in leukemic cells were analyzed by ligationmediated PCR. See Supplementary Materials and Methods.
+"Immunoblot analysis. Cells were collected directly after stimulation and lysed in buffer containing phosphatase inhibitors (50 mmol/l HEPES, 150 mmol/l NaCl, 50 mmol/l NaF, 10 mmol/l Na4P2O7, 10% Glycerin, 1% NP40); 20–40 µg of protein samples, separated in SDSpolyacrylamide gels, were transferred to nitrocellulose membrane. The ratanti-Ebf1 antibody has been described42 and was kindly provided by Matthias Kieslinger (Helmholtz Institute, Munich)."
+"Phosphoproteins were detected with antibodies against pSTAT5, pERK1/2, pAKT (all Cell Signaling Technologies, Boston, MA). For loading controls, blots were stripped and reprobed using Csf1r, Actin, panSTAT5 (Santa Cruz, Biotechnologies, Santa Cruz, CA), panERK1/2, antiAKT1 antibodies (Cell Signaling Technologies). Genome analyses."
+"Spectral karyotyping was performed as described previously (see Supplementary Materials and Methods). ArrayCGH was performed using the Agilent Mouse Genome Microarray Kit 4x180k (Agilent Technologies, Santa Clara, CA), a high resolution 60mer oligonucleotidebased microarray with median overall probe spacing of about 10 kb, following the manufacturer’s instructions (see Supplementary Materials and Methods). Antibody RTKarray."
+"Single cell suspensions of spleen and BM of leukemic mice (>90% infiltration) and healthy controls were lysed in NP40 lysis buffer. Mouse PhosphoReceptor Tyrosine Kinase Arrays (ARY014; R&D Systems, Minneapolis, MN) were loaded with lysate containing 1 mg of total protein and processed according to the manufacturer’s instructions. Microarray analysis.  "
+"Total RNA was prepared from FACSsorted wildtype Bcell progenitors (CD19+, CD43+) and leukemic cells from bone marrow using the RNeasy Micro Kit (Qiagen GmbH). Quality of RNA was assessed using the Agilent 2100 Bioanalyzer.   RNA was amplified by the NuGen WTOvation Pico Kit succeeded by biotin labeling of fragmented amplified cDNA using the NuGen Ovation Biotin labeling system (NuGEN Technologies, San Carlos, CA) in triplicates.  "
+"Fragmented and labeled cDNA was hybridized to Affymetrix (San Jose, CA  Mouse Genome 430 2.0 (MOE430_2) GeneChip arrays (45,101 probe sets).   Data was analyzed using R and Bioconductor.43 Data quality was assessed using the ArrayQualityMetrics package.44 Arrays were background corrected, normalized, and summarized employing the RMA algorithm.45 LIMMA46 was used to detect differentially expressed probe sets applying the BenjaminiHochberg step up multiple testing correction at a false discovery rate of <0.05.  "
+"We used the Broad Institute GSEA software package47 for testing enrichment of gene sets.   The Ebf1 target gene set was obtained from Treiber et al.17 The myeloid gene set was compiled from the literature, mainly from Ng and Georgopolous et al.32 comprising genes overexpressed in granulomonocyte progenitors relative to hematopoietic stem cells and common lymphoid progenitors. The Blymphoblastic suPPleMentArY MAterIAl Figure S1.  "
+Histopathological analysis of leukemia. Figure S2.   Leukemia phenotype in secondary recipients.
+Figure S3.   Southern blot analysis of DNA isolated from different tissues and mice. Figure S4.  
+Expression of NanceHoran-Syndrome (Nhs) mRNA in leukemic cells. Figure S5.   Splice products that would result in a truncated EBF1 protein.
+Figure S6.   Verification of transcripts Figure S7.   Genomic Ikzf3 locus in the BALL is not altered.
+Table S1.   Position of the lentiviral insertion sites. Table S2.  
+Primer. Materials and Methods. AcKnoWledGMents
+"The authors thank RenaMareike Struß for her excellent technical assistance, Thomas Neumann for performing microarray experiments, Yang Ming for her help with the analysis of cytospins, Matthias Ballmaier from the cell sorting facility, and Joerg Fruehauf from the irradiation facility (all Hannover Medical School, Hannover, Germany). We thank Matthias Kieslinger (Helmholtz Institut, Munich, Germany) for providing the antiEBF1 antibody. The research was financed by the grants of Deutsche Forschungsgemeinschaft (SFB 566, SPP1230, and Cluster of Excellence REBIRTH) and the European Union (FP7 integrated 1194 www.moleculartherapy.org vol. 20 no. 6 june 2012 "
+© The American Society of Gene & Cell Therapy Lentiviral Vector Induced Murine Leukemia project CELLPID). D.H. was supported by a stipend of the Hannover Biomedical Research School.  
+"The authors declared no conflict of interest. reFerences 1.   Qasim, W, Gaspar, HB and Thrasher, AJ (2009)."
+Progress and prospects: gene therapy for inherited immunodeficiencies. Gene Ther 16: 1285–1291. 2.  
+"Stein, S, Ott, MG, SchultzeStrasser, S, Jauch, A, Burwinkel, B, Kinner, A et al. (2010). Genomic instability and myelodysplasia with monosomy 7 consequent to EVI1 activation after gene therapy for chronic granulomatous disease. Nat Med 16: 198–204."
+"3.   Howe, SJ, Mansour, MR, Schwarzwaelder, K, Bartholomae, C, Hubank, M, Kempski, H et al. (2008). Insertional mutagenesis combined with acquired somatic mutations causes leukemogenesis following gene therapy of SCIDX1 patients."
+"J Clin Invest 118: 3143–3150. 4.  HaceinBey-Abina, S, Garrigue, A, Wang, GP, Soulier, J, Lim, A, Morillon, E et al. (2008). Insertional oncogenesis in 4 patients after retrovirusmediated gene therapy of SCIDX1."
+"J Clin Invest 118: 3132–3142. 5.   Mitchell, RS, Beitzel, BF, Schroder, AR, Shinn, P, Chen, H, Berry, CC et al. (2004).  "
+"Retroviral DNA integration: ASLV, HIV, and MLV show distinct target site preferences.   PLoS Biol 2: E234. 6.  "
+"Schröder, AR, Shinn, P, Chen, H, Berry, C, Ecker, JR and Bushman, F (2002). HIV1 integration in the human genome favors active genes and local hotspots. Cell 110: 521–529."
+"7.   CavazzanaCalvo, M, Payen, E, Negre, O, Wang, G, Hehir, K, Fusil, F et al. (2010).   Transfusion independence and HMGA2 activation after gene therapy of human ßthalassaemia."
+"Nature 467: 318–322. 8.   Cartier, N, HaceinBey-Abina, S, Bartholomae, CC, Veres, G, Schmidt, M, Kutschera, I et al. (2009). Hematopoietic stem cell gene therapy with a lentiviral vector in Xlinked adrenoleukodystrophy."
+"Science 326: 818–823. Ikeda, K, Mason, PJ and Bessler, M (2011). 3’UTRtruncated Hmga2 cDNA causes MPNlike hematopoiesis by conferring a clonal growth advantage at the level of HSC in mice."
+"Blood 117: 5860–5869. 9.  10.   Knight, S, Bokhoven, M, Collins, M and Takeuchi, Y (2010). Effect of the internal promoter on insertional gene activation by lentiviral vectors with an intact HIV long terminal repeat."
+"J Virol 84: 4856–4859. 11.   Montini, E, Cesana, D, Schmidt, M, Sanvito, F, Bartholomae, CC, Ranzani, M et al. (2009). The genotoxic potential of retroviral vectors is strongly modulated by vector design and integration site selection in a mouse model of HSC gene therapy."
+"J Clin Invest 119: 964–975. 12.   Modlich, U, Navarro, S, Zychlinski, D, Maetzig, T, Knoess, S, Brugman, MH et al. (2009)."
+"Insertional transformation of hematopoietic cells by selfinactivating lentiviral and gammaretroviral vectors. Mol Ther 17: 1919–1928. 13.   Maruggi, G, Porcellini, S, Facchini, G, Perna, SK, Cattoglio, C, Sartori, D et al. (2009).  "
+Transcriptional enhancers induce insertional gene deregulation independently of the vector type and design. Mol Ther 17: 851–856. 14.  
+"Beatty, J, Terry, A, MacDonald, J, Gault, E, Cevario, S, O’Brien, SJ et al. (2002). Feline immunodeficiency virus integration in Bcell lymphoma identifies a candidate tumor suppressor gene on human chromosome 15q15. Cancer Res 62: 7175–7180. 15.  "
+"Ben David, Y, Prideaux, VR, Chow, V, Benchimol, S and Bernstein, A (1988).   Inactivation of the p53 oncogene by internal deletion or retroviral integration in erythroleukemic cell lines induced by Friend leukemia virus. Oncogene 3: 179–185. 16.  "
+"BenDavid, Y, Lavigueur, A, Cheong, GY and Bernstein, A (1990). Insertional inactivation of the p53 gene during friend leukemia: a new strategy for identifying tumor suppressor genes. New Biol 2: 1015–1023. 17.  "
+"Treiber, T, Mandel, EM, Pott, S, Györy, I, Firner, S, Liu, ET al. (2010). Early B cell factor 1 regulates B cell gene networks by activation, repression, and transcription- independent poising of chromatin. Immunity 32: 714–725."
+"18.   Pongubala, JM, Northrup, DL, Lancki, DW, Medina, KL, Treiber, T, Bertolino, E et al. (2008). Transcription factor EBF restricts alternative lineage options and promotes B cell fate commitment independently of Pax5."
+"Nat Immunol 9: 203–215. 19.   Lukin, K, Fields, S, Guerrettaz, L, Straign, D, Rodriguez, V, Zandi, S et al. (2011). A dosedependent role for EBF1 in repressing nonB-cellspecific genes."
+"Eur J Immunol 41: 1787–1793. 20.   Lukin, K, Fields, S, Lopez, D, Cherrier, M, Ternyak, K, Ramírez, J et al. (2010).   Compound haploinsufficiencies of Ebf1 and Runx1 genes impede B cell lineage progression."
+"Proc Natl Acad Sci USA 107: 7869–7874. 21.   Mullighan, CG, Goorha, S, Radtke, I, Miller, CB, CoustanSmith, E, Dalton, JD et al. (2007). Genomewide analysis of genetic alterations in acute lymphoblastic leukaemia."
+"Nature 446: 758–764. 22.   Harvey, RC, Mullighan, CG, Wang, X, Dobbin, KK, Davidson, GS, Bedrick, EJ et al. (2010). Identification of novel cluster groups in pediatric highrisk Bprecursor acute lymphoblastic leukemia with gene expression profiling: correlation with genome- wide DNA copy number alterations, clinical characteristics, and outcome."
+"Blood 116: 4874–4884. 23.   HeltemesHarris, LM, Willette, MJ, Ramsey, LB, Qiu, YH, Neeley, ES, Zhang, N et al. (2011). Ebf1 or Pax5 haploinsufficiency synergizes with STAT5 activation to initiate acute lymphoblastic leukemia."
+"J Exp Med 208: 1135–1149. 24.   Heckl, D, Wicke, DC, Brugman, MH, Meyer, J, Schambach, A, Büsche, G et al. (2011).   Lentiviral gene transfer regenerates hematopoietic stem cells in a mouse model for Mpldeficient aplastic anemia."
+"Blood 117: 3737–3747. 25.   Li, Z, Düllmann, J, Schiedlmeier, B, Schmidt, M, von Kalle, C, Meyer, J et al. (2002).   Murine leukemia induced by retroviral gene marking."
+"Science 296: 497. 26.   Modlich, U, Kustikova, OS, Schmidt, M, Rudolph, C, Meyer, J, Li, Z et al. (2005).   Leukemias following retroviral transfer of multidrug resistance 1 (MDR1) are driven by combinatorial insertional mutagenesis."
+"Blood 105: 4235–4246. 27.   Kustikova, O, Fehse, B, Modlich, U, Yang, M, Düllmann, J, Kamino, K et al. (2005).   Clonal dominance of hematopoietic stem cells triggered by retroviral gene marking.  "
+"Science 308: 1171–1174. 28.   Modlich, U, Schambach, A, Brugman, MH, Wicke, DC, Knoess, S, Li, Z et al. (2008).   Leukemia induction after a single retroviral vector insertion in Evi1 or Prdm16.  "
+"Leukemia 22: 1519–1528. 29.   Schambach, A, Bohne, J, Chandra, S, Will, E, Margison, GP, Williams, DA et al. (2006).  "
+"Equal potency of gammaretroviral and lentiviral SIN vectors for expression of O6methylguanine-DNA methyltransferase in hematopoietic cells. Mol Ther 13: 391–400. 30.   Hashimoto, Y and Ware, J (1995)."
+"Identification of essential GATA and Ets binding motifs within the promoter of the platelet glycoprotein Ib alpha gene. J Biol Chem 270: 24532–24539. 31.   Baum, C, HegewischBecker, S, Eckert, HG, Stocking, C and Ostertag, W (1995).  "
+Novel retroviral vectors for efficient expression of the multidrug resistance (mdr1) gene in early hematopoietic cells. J Virol 69: 7541–7547. 32.  
+"Ng, SY, Yoshida, T, Zhang, J and Georgopoulos, K (2009). Genomewide lineage- specific transcriptional networks underscore Ikarosdependent lymphoid priming in hematopoietic stem cells. Immunity 30: 493–507."
+"33.   Roessler, S, Györy, I, Imhof, S, Spivakov, M, Williams, RR, Busslinger, M et al. (2007).   Distinct promoters mediate the regulation of Ebf1 gene expression by interleukin7 and Pax5."
+"Mol Cell Biol 27: 579–594. 34.   Hu, J, Renaud, G, Gomes, TJ, Golmes, T, Ferris, A, Hendrie, PC et al. (2008)."
+"Reduced genotoxicity of avian sarcoma leukosis virus vectors in rhesus longterm repopulating cells compared to standard murine retrovirus vectors. Mol Ther 16: 1617–1623. 35.   Moldt, B, Miskey, C, Staunstrup, NH, GogolDöring, A, Bak, RO, Sharma, N et al. (2011)."
+"Comparative genomic integration profiling of Sleeping Beauty transposons mobilized with high efficacy from integrasedefective lentiviral vectors in primary human cells. Mol Ther 19: 1499–1510. 36.   Suerth, JD, Maetzig, T, Brugman, MH, Heinz, N, Appelt, JU, Kaufmann, KB et al. (2012)."
+Alpharetroviral Selfinactivating Vectors: Longterm Transgene Expression in Murine Hematopoietic Cells and Low Genotoxicity. Mol Ther (epub ahead of print). 37.  
+"Sadelain, M, Papapetrou, EP and Bushman, FD (2012). Safe harbours for the integration of new DNA in the human genome. Nat Rev Cancer 12: 51–58. 38.  "
+"Mussolino, C, Morbitzer, R, Lütge, F, Dannemann, N, Lahaye, T and Cathomen, T (2011). A novel TALE nuclease scaffold enables high genome editing activity in combination with low toxicity. Nucleic Acids Res 39: 9283–9293. 39.  "
+"Boch, J, Scholze, H, Schornack, S, Landgraf, A, Hahn, S, Kay, S et al. (2009).   Breaking the code of DNA binding specificity of TALtype III effectors. Science 326: 1509–1512. 40.  "
+"Moscou, MJ and Bogdanove, AJ (2009). A simple cipher governs DNA recognition by TAL effectors. Science 326: 1501."
+"41.   Dull, T, Zufferey, R, Kelly, M, Mandel, RJ, Nguyen, M, Trono, D et al. (1998). A thirdgeneration lentivirus vector with a conditional packaging system."
+"J Virol 72: 8463–8471. 42.   Kieslinger, M, Hiechinger, S, Dobreva, G, Consalez, GG and Grosschedl, R (2010).  "
+"Early B cell factor 2 regulates hematopoietic stem cell homeostasis in a cellnonautonomous manner. Cell Stem Cell 7: 496–507. 43.   Gentleman, RC, Carey, VJ, Bates, DM, Bolstad, B, Dettling, M, Dudoit, S et al. (2004)."
+"Bioconductor: open software development for computational biology and bioinformatics. Genome Biol 5: R80. 44.   Kauffmann, A, Gentleman, R and Huber, W (2009)."
+arrayQualityMetrics–a bioconductor package for quality assessment of microarray data. Bioinformatics 25: 415–416. 45.  
+"Gautier, L, Cope, L, Bolstad, BM and Irizarry, RA (2004). Affy–analysis of Affymetrix GeneChip data at the probe level. Bioinformatics 20: 307–315. 46.  "
+"Smyth, G. (2005). Limma: linear models for microarray data. In: Gentleman, R, Carey, V, Dudoit, S, Irizarry, S and Huber, W (eds)."
+Bioinformatics and Computational Biology Solutions Using R and Bioconductor. Springer: New York. Pp.
+"397–420. 47.   Subramanian, A, Tamayo, P, Mootha, VK, Mukherjee, S, Ebert, BL, Gillette, MA et al. (2005)."
+Gene set enrichment analysis: a knowledgebased approach for interpreting genomewide expression profiles. Proc Natl Acad Sci USA 102: 15545–15550. Molecular Therapy vol.
 20 no. 6 june 2012 1195

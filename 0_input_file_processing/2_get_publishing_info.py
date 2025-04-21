@@ -38,7 +38,7 @@ def search_article(partial_title):
 #     return gne_count, myopathy_count
 
 # Folder containing CSV files
-disease_name = "Bilateral adrenal hemorrhage" #"Nelson syndrome"
+disease_name = #"GNE myopathy"#"Bilateral adrenal hemorrhage" #"Nelson syndrome"
 #"Acral persistent papular mucinosis" #"Nance-Horan syndrome"#"Adenine phosphoribosyltransferase deficiency"
 #"Zimmermann-Laband syndrome" #"Mabry syndrome" #"Endocrine-cerebro-osteodysplasia syndrome"  #"pachydermoperiostosis"
 folder_path = f"../data/{disease_name}/{disease_name}_csvs"  # Change this to your actual folder path

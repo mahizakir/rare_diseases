@@ -93,7 +93,19 @@ def find_keywords(disease_name):
         # Check if the disease_name is already in the keywords list
         if disease_name.lower() not in [keyword.lower() for keyword in keywords]:
             keywords.append(disease_name)  # Add the disease_name if not found
-    
+
+    elif orphacode is None:
+        if disease_name == "Bilateral adrenal hemorrhage":
+            definition = "Bilateral adrenal hemorrhage is the condition when bleeding occurs in both adrenal glands, which could be instantly life-threatening. Over half of the bilateral cases are related to acute stress, such as infection, congestive myocardial infarction, complications of pregnancy, surgery or invasive procedure. Other common causes include hemorrhagic diatheses, thromboembolic diseases, blunt trauma, and adrenocorticotropic hormone (ACTH) therapy. With sepsis, the mortality rate of this condition can reach 90%"
+
+        extracted_terms = generate_response(definition)
+        print(extracted_terms)
+        keywords = extracted_terms.split(", ")
+
+        # Check if the disease_name is already in the keywords list
+        if disease_name.lower() not in [keyword.lower() for keyword in keywords]:
+            keywords.append(disease_name)  # Add the disease_name if not found
+
     return keywords
 
 
