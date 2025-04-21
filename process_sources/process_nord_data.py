@@ -31,47 +31,47 @@ tag_2_list = []
 
 metadata_list = []
 
-# # Loop through each row and extract disease name and synonyms
-# for i in range(len(df)):
-#     disease = str(df['Disease Name'].iloc[i]).strip()
-#     synonyms = df['Synonyms'].iloc[i]
+# Loop through each row and extract disease name and synonyms
+for i in range(len(df)):
+    disease = str(df['Disease Name'].iloc[i]).strip()
+    synonyms = df['Synonyms'].iloc[i]
 
-#     if pd.notna(synonyms):
-#         for synonym in str(synonyms).split('|'):
-#             synonym = synonym.strip()
+    if pd.notna(synonyms):
+        for synonym in str(synonyms).split('|'):
+            synonym = synonym.strip()
 
-#             # Populate the lists
-#             entity_1_list.append(disease)
-#             tag_1_list.append("disease")
+            # Populate the lists
+            entity_1_list.append(disease)
+            tag_1_list.append("disease")
 
-#             entity_2_list.append(synonym)
-#             tag_2_list.append("disease_synonym")
+            entity_2_list.append(synonym)
+            tag_2_list.append("disease_synonym")
 
-#             relationship_list.append("ALSO_KNOWN_AS")
-#             relationship_tag_list.append("Classification/Type")
+            relationship_list.append("ALSO_KNOWN_AS")
+            relationship_tag_list.append("Classification/Type")
 
-#             triple_list.append(f"{disease}, ALSO_KNOWN_AS, {synonym}")
-#             tagged_triple_list.append(f"({disease} (disease), ALSO_KNOWN_AS, {synonym} (disease_synonym))")
+            triple_list.append(f"{disease}, ALSO_KNOWN_AS, {synonym}")
+            tagged_triple_list.append(f"({disease} (disease), ALSO_KNOWN_AS, {synonym} (disease_synonym))")
 
-#             relevant_text_list.append("")  # Empty for now
-#             simple_sentences_list.append(f"{disease} is also known as {synonym}.")
-#             metadata_list.append(report_url_list[i])
+            relevant_text_list.append("")  # Empty for now
+            simple_sentences_list.append(f"{disease} is also known as {synonym}.")
+            metadata_list.append(report_url_list[i])
 
-# df = pd.DataFrame({
-#     "Relevant Text": relevant_text_list,
-#     "Simple Sentences": simple_sentences_list,
-#     "Triple": triple_list,
-#     "Tagged Triple": tagged_triple_list,
-#     "Entity 1": entity_1_list,
-#     "Tag 1": tag_1_list,
-#     "Relationship": relationship_list,
-#     "Relationship Tag": relationship_tag_list,
-#     "Entity 2": entity_2_list,
-#     "Tag 2": tag_2_list,
-#     "MetaData": metadata_list
-# })
-# output_file_path = "nord_data/synonyms_only_final_output_nord.csv"
-# df.to_csv(output_file_path, index=False)
+df = pd.DataFrame({
+    "Relevant Text": relevant_text_list,
+    "Simple Sentences": simple_sentences_list,
+    "Triple": triple_list,
+    "Tagged Triple": tagged_triple_list,
+    "Entity 1": entity_1_list,
+    "Tag 1": tag_1_list,
+    "Relationship": relationship_list,
+    "Relationship Tag": relationship_tag_list,
+    "Entity 2": entity_2_list,
+    "Tag 2": tag_2_list,
+    "MetaData": metadata_list
+})
+output_file_path = "nord_data/synonyms_only_final_output_nord.csv"
+df.to_csv(output_file_path, index=False)
 
 
 # Step 2: Clean text and make relevant text for nord to pass them to llms
