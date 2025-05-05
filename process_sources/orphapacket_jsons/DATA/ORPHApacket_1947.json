@@ -1,0 +1,413 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "1947",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "1947",
+        "Label": "Progressive epilepsy-intellectual disability syndrome, Finnish type",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_1947",
+        "DisorderType": {
+            "value": "Disease",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377788"
+        },
+        "Synonyms": [
+            {
+                "Synonym": "CLN8 disease, Northern epilepsy variant"
+            },
+            {
+                "Synonym": "NCL, Northern epilepsy variant"
+            },
+            {
+                "Synonym": "Neuronal ceroid lipofuscinosis, Northern epilepsy variant"
+            },
+            {
+                "Synonym": "Northern epilepsy"
+            }
+        ],
+        "ExternalReferences": [
+            {
+                "Source": "OMIM",
+                "Reference": "610003",
+                "DisorderMappingRelation": "E (Exact mapping: the two concepts are equivalent)"
+            }
+        ],
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "Progressive epilepsy-intellectual deficit Finnish type (also known as Northern epilepsy) is a subtype of neuronal ceroid lipofuscinosis (NCL; see this term) characterized by seizures progressive decline of intellectual capacities and variable loss of vision."
+        },
+        "Genes": [
+            {
+                "Gene": {
+                    "Symbol": "CLN8",
+                    "Name": "CLN8 transmembrane ER and ERGIC protein",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "CLN8"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "2079"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "607837"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            }
+        ],
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "98261",
+                        "Label": "Progressive myoclonic epilepsy"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "166472",
+                        "Label": "Monogenic disease with epilepsy"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "216",
+                        "Label": "Neuronal ceroid lipofuscinosis"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "102283",
+                        "Label": "Multiple congenital anomalies/dysmorphic syndrome-intellectual disability"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "611327",
+                        "Label": "Genetic multiple congenital anomalies/dysmorphic syndrome-intellectual disability"
+                    }
+                ]
+            }
+        ],
+        "Phenotypes": [
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0011471",
+                    "HPOTerm": "Gastrostomy tube feeding in infancy",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0012690",
+                    "HPOTerm": "T2 hypointense thalamus",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0030890",
+                    "HPOTerm": "Hyperintensity of cerebral white matter on MRI",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000505",
+                    "HPOTerm": "Visual impairment",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001249",
+                    "HPOTerm": "Intellectual disability",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001250",
+                    "HPOTerm": "Seizure",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001272",
+                    "HPOTerm": "Cerebellar atrophy",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002540",
+                    "HPOTerm": "Inability to walk",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0003204",
+                    "HPOTerm": "Intracellular accumulation of autofluorescent lipopigment storage material",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0003657",
+                    "HPOTerm": "Granular osmiophilic deposits (GROD) in cells",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000529",
+                    "HPOTerm": "Progressive visual loss",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000543",
+                    "HPOTerm": "Optic disc pallor",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000550",
+                    "HPOTerm": "Undetectable electroretinogram",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000750",
+                    "HPOTerm": "Delayed speech and language development",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001251",
+                    "HPOTerm": "Ataxia",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002059",
+                    "HPOTerm": "Cerebral atrophy",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002066",
+                    "HPOTerm": "Gait ataxia",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002123",
+                    "HPOTerm": "Generalized myoclonic seizure",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002167",
+                    "HPOTerm": "Abnormality of speech or vocalization",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002312",
+                    "HPOTerm": "Clumsiness",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002317",
+                    "HPOTerm": "Unsteady gait",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002333",
+                    "HPOTerm": "Motor deterioration",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002371",
+                    "HPOTerm": "Loss of speech",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002510",
+                    "HPOTerm": "Spastic tetraplegia",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0003205",
+                    "HPOTerm": "Curvilinear intracellular accumulation of autofluorescent lipopigment storage material",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0003208",
+                    "HPOTerm": "Fingerprint intracellular accumulation of autofluorescent lipopigment storage material",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0003698",
+                    "HPOTerm": "Difficulty standing",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0005268",
+                    "HPOTerm": "Spontaneous abortion",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0011198",
+                    "HPOTerm": "EEG with generalized epileptiform discharges",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0011203",
+                    "HPOTerm": "EEG with abnormally slow frequencies",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0030455",
+                    "HPOTerm": "Abnormality of pattern visual evoked potentials",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0033044",
+                    "HPOTerm": "Motor regression",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0100543",
+                    "HPOTerm": "Cognitive impairment",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000708",
+                    "HPOTerm": "Atypical behavior",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000726",
+                    "HPOTerm": "Dementia",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000729",
+                    "HPOTerm": "Autistic behavior",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001263",
+                    "HPOTerm": "Global developmental delay",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002015",
+                    "HPOTerm": "Dysphagia",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002359",
+                    "HPOTerm": "Frequent falls",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002384",
+                    "HPOTerm": "Focal impaired awareness seizure",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            }
+        ],
+        "Prevalences": {
+            "Prevalence": [
+                {
+                    "Source": "ORPHANET",
+                    "PrevalenceType": "Point prevalence",
+                    "PrevalenceQualification": "Class only",
+                    "PrevalenceClass": "Unknown",
+                    "ValMoy": "0.0",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            ]
+        },
+        "AverageAgeOfOnsets": {
+            "AverageAgeOfOnset": [
+                {
+                    "value": "Childhood"
+                }
+            ]
+        },
+        "TypeOfInheritances": {
+            "TypeOfInheritance": [
+                {
+                    "value": "Autosomal recessive"
+                }
+            ]
+        }
+    }
+}

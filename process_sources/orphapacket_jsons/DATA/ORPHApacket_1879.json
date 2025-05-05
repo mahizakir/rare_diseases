@@ -1,0 +1,154 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "1879",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "1879",
+        "Label": "Melorheostosis with osteopoikilosis",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_1879",
+        "DisorderType": {
+            "value": "Malformation syndrome",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377789"
+        },
+        "Synonyms": [
+            {
+                "Synonym": "MSBD syndrome"
+            },
+            {
+                "Synonym": "Mixed sclerosing bone dystrophy"
+            }
+        ],
+        "ExternalReferences": [
+            {
+                "Source": "OMIM",
+                "Reference": "166700",
+                "DisorderMappingRelation": "NTBT (ORPHAcode is narrower than the targeted code used to represent it)"
+            }
+        ],
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "Melorheostosis with osteopoikilosis is a rare sclerosing bone dysplasia combining the clinical and radiological features of melorheostosis and osteopoikilosis (see these terms) that has been reported in some families with osteopoikilosis and that is characterized by a variable presentation of limb pain and deformities."
+        },
+        "Genes": [
+            {
+                "Gene": {
+                    "Symbol": "LEMD3",
+                    "Name": "LEM domain containing 3",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "LEMD3"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "28887"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "607844"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            }
+        ],
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "2781",
+                        "Label": "Osteopetrosis and related disorders"
+                    }
+                ]
+            }
+        ],
+        "Phenotypes": [
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000822",
+                    "HPOTerm": "Hypertension",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000951",
+                    "HPOTerm": "Abnormality of the skin",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001012",
+                    "HPOTerm": "Multiple lipomas",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001482",
+                    "HPOTerm": "Subcutaneous nodule",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0003103",
+                    "HPOTerm": "Abnormal cortical bone morphology",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0010001",
+                    "HPOTerm": "Complete duplication of the distal phalanges of the hand",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0010739",
+                    "HPOTerm": "Osteopoikilosis",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            }
+        ],
+        "Prevalences": [
+            {
+                "Prevalence": {
+                    "Source": "[EXPERT]",
+                    "PrevalenceType": "Cases/families",
+                    "PrevalenceQualification": "Family(ies)",
+                    "PrevalenceClass": "no data",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            },
+            {
+                "Prevalence": {
+                    "Source": "ORPHANET",
+                    "PrevalenceType": "Point prevalence",
+                    "PrevalenceQualification": "Class only",
+                    "PrevalenceClass": "<1 / 1 000 000",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            }
+        ],
+        "AverageAgeOfOnsets": {
+            "AverageAgeOfOnset": [
+                {
+                    "value": "All ages"
+                }
+            ]
+        },
+        "TypeOfInheritances": {
+            "TypeOfInheritance": [
+                {
+                    "value": "Autosomal dominant"
+                }
+            ]
+        }
+    }
+}

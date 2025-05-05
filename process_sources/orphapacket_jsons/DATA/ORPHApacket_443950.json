@@ -1,0 +1,100 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "443950",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "443950",
+        "Label": "DNAJB2-related Charcot-Marie-Tooth disease type 2",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_443950",
+        "DisorderType": {
+            "value": "Disease",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377788"
+        },
+        "Synonyms": [
+            {
+                "Synonym": "DNAJB2-related CMT2"
+            }
+        ],
+        "ExternalReferences": [
+            {
+                "Source": "OMIM",
+                "Reference": "614881",
+                "DisorderMappingRelation": "NTBT (ORPHAcode is narrower than the targeted code used to represent it)"
+            }
+        ],
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "A rare autosomal recessive axonal hereditary motor and sensory neuropathy characterized by adolescent or adult onset of slowly progressive muscle weakness and atrophy of the distal lower limbs progressing to involve also the upper limbs and proximal muscles and sensory impairment. Patients present gait disturbances and loss of reflexes at later stages loss of ambulation dysarthria dysphagia facial weakness and impairment of respiratory muscles requiring assisted ventilation."
+        },
+        "Genes": [
+            {
+                "Gene": {
+                    "Symbol": "DNAJB2",
+                    "Name": "DnaJ heat shock protein family (Hsp40) member B2",
+                    "ExternalReferences": [
+                        {
+                            "Source": "HGNC",
+                            "Reference": "5228"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "604139"
+                        },
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "DNAJB2"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            }
+        ],
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "91024",
+                        "Label": "Autosomal recessive axonal hereditary motor and sensory neuropathy"
+                    }
+                ]
+            }
+        ],
+        "Prevalences": [
+            {
+                "Prevalence": {
+                    "Source": "25274842[PMID]",
+                    "PrevalenceType": "Cases/families",
+                    "PrevalenceQualification": "Case(s)",
+                    "PrevalenceClass": "no data",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            },
+            {
+                "Prevalence": {
+                    "Source": "ORPHANET_25274842[PMID]",
+                    "PrevalenceType": "Point prevalence",
+                    "PrevalenceQualification": "Class only",
+                    "PrevalenceClass": "<1 / 1 000 000",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            }
+        ],
+        "AverageAgeOfOnsets": {
+            "AverageAgeOfOnset": [
+                {
+                    "value": "Adult"
+                }
+            ]
+        },
+        "TypeOfInheritances": {
+            "TypeOfInheritance": [
+                {
+                    "value": "Autosomal recessive"
+                }
+            ]
+        }
+    }
+}

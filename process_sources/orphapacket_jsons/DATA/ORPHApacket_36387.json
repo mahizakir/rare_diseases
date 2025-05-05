@@ -1,0 +1,510 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "36387",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "36387",
+        "Label": "Genetic epilepsy with febrile seizure plus",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_36387",
+        "DisorderType": {
+            "value": "Disease",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377788"
+        },
+        "Synonyms": [
+            {
+                "Synonym": "GEFS+"
+            },
+            {
+                "Synonym": "Generalized epilepsy with febrile seizures-plus"
+            }
+        ],
+        "ExternalReferences": [
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "618482",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "604233",
+                    "DisorderMappingRelation": "E (Exact mapping: the two concepts are equivalent)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "604403",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "609800",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "607681",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "612279",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "613060",
+                    "DisorderMappingRelation": "NTBT (ORPHAcode is narrower than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "613828",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "613863",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "616172",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            }
+        ],
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "A rare familial epilepsy syndrome characterized by febrile focal and generalized seizures with a spectrum of phenotypes largely variable among different family members."
+        },
+        "Genes": [
+            {
+                "Gene": {
+                    "Symbol": "HCN1",
+                    "Name": "hyperpolarization activated cyclic nucleotide gated potassium channel 1",
+                    "ExternalReferences": [
+                        {
+                            "Source": "HGNC",
+                            "Reference": "4845"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "602780"
+                        },
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "HCN1"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "FGF13",
+                    "Name": "fibroblast growth factor 13",
+                    "ExternalReferences": [
+                        {
+                            "Source": "OMIM",
+                            "Reference": "300070"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "3670"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "SCN1A",
+                    "Name": "sodium voltage-gated channel alpha subunit 1",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "SCN1A"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "10585"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "182389"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "SCN1B",
+                    "Name": "sodium voltage-gated channel beta subunit 1",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "SCN1B"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "10586"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "600235"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "GABRG2",
+                    "Name": "gamma-aminobutyric acid type A receptor subunit gamma2",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "GABRG2"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "4087"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "137164"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "STX1B",
+                    "Name": "syntaxin 1B",
+                    "ExternalReferences": [
+                        {
+                            "Source": "HGNC",
+                            "Reference": "18539"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "601485"
+                        },
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "STX1B"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "PRRT2",
+                    "Name": "proline rich transmembrane protein 2",
+                    "ExternalReferences": [
+                        {
+                            "Source": "HGNC",
+                            "Reference": "30500"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "614386"
+                        },
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "PRRT2"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            }
+        ],
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "309",
+                        "Label": "Familial partial epilepsy"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "98258",
+                        "Label": "Infantile epilepsy syndrome"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "611314",
+                        "Label": "Rare syndromic intellectual disability without multiple congenital anomalies/dysmorphic syndrome"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "98744",
+                        "Label": "Neurological channelopathy of the central nervous system due to a genetic sodium channel defect"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "98749",
+                        "Label": "Neurological channelopathy of the central nervous system due to a genetic GABA receptor defect"
+                    }
+                ]
+            }
+        ],
+        "Phenotypes": [
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002197",
+                    "HPOTerm": "Generalized-onset seizure",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002121",
+                    "HPOTerm": "Generalized non-motor (absence) seizure",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002373",
+                    "HPOTerm": "Febrile seizures",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001251",
+                    "HPOTerm": "Ataxia",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001252",
+                    "HPOTerm": "Hypotonia",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002069",
+                    "HPOTerm": "Bilateral tonic-clonic seizure",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002123",
+                    "HPOTerm": "Generalized myoclonic seizure",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002311",
+                    "HPOTerm": "Incoordination",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002376",
+                    "HPOTerm": "Developmental regression",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002539",
+                    "HPOTerm": "Cortical dysplasia",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0007010",
+                    "HPOTerm": "Poor fine motor coordination",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0007058",
+                    "HPOTerm": "Generalized cerebral atrophy/hypoplasia",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0010819",
+                    "HPOTerm": "Atonic seizure",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0010850",
+                    "HPOTerm": "EEG with spike-wave complexes",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0011151",
+                    "HPOTerm": "Obtundation status",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0100543",
+                    "HPOTerm": "Cognitive impairment",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000729",
+                    "HPOTerm": "Autistic behavior",
+                    "HPOFrequency": "Very rare (<4-1%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000739",
+                    "HPOTerm": "Anxiety",
+                    "HPOFrequency": "Very rare (<4-1%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001337",
+                    "HPOTerm": "Tremor",
+                    "HPOFrequency": "Very rare (<4-1%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001763",
+                    "HPOTerm": "Pes planus",
+                    "HPOFrequency": "Very rare (<4-1%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002067",
+                    "HPOTerm": "Bradykinesia",
+                    "HPOFrequency": "Very rare (<4-1%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002133",
+                    "HPOTerm": "Status epilepticus",
+                    "HPOFrequency": "Very rare (<4-1%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002384",
+                    "HPOTerm": "Focal impaired awareness seizure",
+                    "HPOFrequency": "Very rare (<4-1%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0003066",
+                    "HPOTerm": "Limited knee extension",
+                    "HPOFrequency": "Very rare (<4-1%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0004684",
+                    "HPOTerm": "Talipes valgus",
+                    "HPOFrequency": "Very rare (<4-1%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0007359",
+                    "HPOTerm": "Focal-onset seizure",
+                    "HPOFrequency": "Very rare (<4-1%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0008770",
+                    "HPOTerm": "Obsessive-compulsive trait",
+                    "HPOFrequency": "Very rare (<4-1%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0100694",
+                    "HPOTerm": "Tibial torsion",
+                    "HPOFrequency": "Very rare (<4-1%)"
+                }
+            }
+        ],
+        "Prevalences": {
+            "Prevalence": [
+                {
+                    "Source": "ORPHANET",
+                    "PrevalenceType": "Point prevalence",
+                    "PrevalenceQualification": "Class only",
+                    "PrevalenceClass": "Unknown",
+                    "ValMoy": "0.0",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            ]
+        },
+        "AverageAgeOfOnsets": {
+            "AverageAgeOfOnset": [
+                {
+                    "value": "Childhood"
+                }
+            ]
+        },
+        "TypeOfInheritances": {
+            "TypeOfInheritance": [
+                {
+                    "value": "Autosomal dominant"
+                }
+            ]
+        }
+    }
+}

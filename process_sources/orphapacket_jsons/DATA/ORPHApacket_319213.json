@@ -1,0 +1,456 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "319213",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "319213",
+        "Label": "Lujo hemorrhagic fever",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_319213",
+        "DisorderType": {
+            "value": "Disease",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377788"
+        },
+        "Synonyms": [
+            {
+                "Synonym": "Zambian hemorrhagic fever"
+            }
+        ],
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "Lujo hemorrhagic fever caused by the Lujo virus (a newly discovered Old World arenavirus) is a zoonotic disease from Zambia Africa whose reservoir is unknown and is characterized by fever and hemorrhagic manifestations with an extremely high fatality rate of 80% (in the 5 reported cases to date) and a moderate to high level of nosocomial transmission."
+        },
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "341",
+                        "Label": "Viral hemorrhagic fever"
+                    }
+                ]
+            }
+        ],
+        "Phenotypes": [
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000282",
+                    "HPOTerm": "Facial edema",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001873",
+                    "HPOTerm": "Thrombocytopenia",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001945",
+                    "HPOTerm": "Fever",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002014",
+                    "HPOTerm": "Diarrhea",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002315",
+                    "HPOTerm": "Headache",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002910",
+                    "HPOTerm": "Elevated hepatic transaminase",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0003326",
+                    "HPOTerm": "Myalgia",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0025258",
+                    "HPOTerm": "Stiff neck",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0025439",
+                    "HPOTerm": "Pharyngitis",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0031691",
+                    "HPOTerm": "Severe viral infection",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000083",
+                    "HPOTerm": "Renal insufficiency",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000707",
+                    "HPOTerm": "Abnormality of the nervous system",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000988",
+                    "HPOTerm": "Skin rash",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001259",
+                    "HPOTerm": "Coma",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001289",
+                    "HPOTerm": "Confusion",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001882",
+                    "HPOTerm": "Leukopenia",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001888",
+                    "HPOTerm": "Lymphopenia",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001942",
+                    "HPOTerm": "Metabolic acidosis",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001974",
+                    "HPOTerm": "Leukocytosis",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002013",
+                    "HPOTerm": "Vomiting",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002018",
+                    "HPOTerm": "Nausea",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002907",
+                    "HPOTerm": "Microscopic hematuria",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0003645",
+                    "HPOTerm": "Prolonged partial thromboplastin time",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0007430",
+                    "HPOTerm": "Generalized edema",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0011227",
+                    "HPOTerm": "Elevated circulating C-reactive protein concentration",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0011896",
+                    "HPOTerm": "Subconjunctival hemorrhage",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0025435",
+                    "HPOTerm": "Increased circulating lactate dehydrogenase concentration",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0031273",
+                    "HPOTerm": "Shock",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0031364",
+                    "HPOTerm": "Ecchymosis",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0040186",
+                    "HPOTerm": "Maculopapular exanthema",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0100520",
+                    "HPOTerm": "Oliguria",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0100749",
+                    "HPOTerm": "Chest pain",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000613",
+                    "HPOTerm": "Photophobia",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000739",
+                    "HPOTerm": "Anxiety",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000975",
+                    "HPOTerm": "Hyperhidrosis",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000979",
+                    "HPOTerm": "Purpura",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001250",
+                    "HPOTerm": "Seizure",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001268",
+                    "HPOTerm": "Mental deterioration",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001324",
+                    "HPOTerm": "Muscle weakness",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001662",
+                    "HPOTerm": "Bradycardia",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002015",
+                    "HPOTerm": "Dysphagia",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002069",
+                    "HPOTerm": "Bilateral tonic-clonic seizure",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002098",
+                    "HPOTerm": "Respiratory distress",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002181",
+                    "HPOTerm": "Cerebral edema",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002322",
+                    "HPOTerm": "Resting tremor",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002329",
+                    "HPOTerm": "Drowsiness",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002615",
+                    "HPOTerm": "Hypotension",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0004787",
+                    "HPOTerm": "Fulminant hepatitis",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0009830",
+                    "HPOTerm": "Peripheral neuropathy",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0012384",
+                    "HPOTerm": "Rhinitis",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0012819",
+                    "HPOTerm": "Myocarditis",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0025145",
+                    "HPOTerm": "Rigors",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0030139",
+                    "HPOTerm": "Excessive bleeding after a venipuncture",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0030830",
+                    "HPOTerm": "Crackles",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0031246",
+                    "HPOTerm": "Nonproductive cough",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0032043",
+                    "HPOTerm": "Odynophagia",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0032155",
+                    "HPOTerm": "Abdominal cramps",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0100539",
+                    "HPOTerm": "Periorbital edema",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0100750",
+                    "HPOTerm": "Atelectasis",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            }
+        ],
+        "AverageAgeOfOnsets": {
+            "AverageAgeOfOnset": [
+                {
+                    "value": "All ages"
+                }
+            ]
+        }
+    }
+}

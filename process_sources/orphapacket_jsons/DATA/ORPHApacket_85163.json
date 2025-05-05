@@ -1,0 +1,168 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "85163",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "85163",
+        "Label": "Hypomyelination-congenital cataract syndrome",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_85163",
+        "DisorderType": {
+            "value": "Malformation syndrome",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377789"
+        },
+        "ExternalReferences": [
+            {
+                "Source": "OMIM",
+                "Reference": "610532",
+                "DisorderMappingRelation": "E (Exact mapping: the two concepts are equivalent)"
+            }
+        ],
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "A rare developmental defect during embryogenesis characterized by congenital or early onset cataracts (usually bilateral) developmental delay progressive neurologic symptoms (including ataxia spasticity and sometimes seizures) and mild-to-moderate cognitive impairment. Other major clinical features include truncal hypotonia dysarthia cerebellar signs (e.g: truncal titubation and intention tremor) and peripheral neuropathy (e.g: progressive weakness of the muscles in the lower limbs). Hypomyelination associated with periventricular white matter abnormalities is observed. Some patients may have mild lens opacity and cataracts could be absent."
+        },
+        "Genes": [
+            {
+                "Gene": {
+                    "Symbol": "HYCC1",
+                    "Name": "hyccin PI4KA lipid kinase complex subunit 1",
+                    "ExternalReferences": [
+                        {
+                            "Source": "HGNC",
+                            "Reference": "24587"
+                        },
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "FAM126A"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "610531"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            }
+        ],
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "68356",
+                        "Label": "Leukodystrophy"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "611314",
+                        "Label": "Rare syndromic intellectual disability without multiple congenital anomalies/dysmorphic syndrome"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "522548",
+                        "Label": "Syndromic genetic cataract"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "98641",
+                        "Label": "Syndromic cataract"
+                    }
+                ]
+            }
+        ],
+        "Phenotypes": [
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000519",
+                    "HPOTerm": "Developmental cataract",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001263",
+                    "HPOTerm": "Global developmental delay",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001317",
+                    "HPOTerm": "Abnormal cerebellum morphology",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002342",
+                    "HPOTerm": "Intellectual disability, moderate",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0006808",
+                    "HPOTerm": "Cerebral hypomyelination",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0007256",
+                    "HPOTerm": "Abnormal pyramidal sign",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            }
+        ],
+        "Prevalences": [
+            {
+                "Prevalence": {
+                    "Source": "ORPHANET",
+                    "PrevalenceType": "Cases/families",
+                    "PrevalenceQualification": "Case(s)",
+                    "PrevalenceClass": "no data",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            },
+            {
+                "Prevalence": {
+                    "Source": "ORPHANET",
+                    "PrevalenceType": "Point prevalence",
+                    "PrevalenceQualification": "Class only",
+                    "PrevalenceClass": "<1 / 1 000 000",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            }
+        ],
+        "AverageAgeOfOnsets": [
+            {
+                "AverageAgeOfOnset": {
+                    "value": "Infancy"
+                }
+            },
+            {
+                "AverageAgeOfOnset": {
+                    "value": "Neonatal"
+                }
+            }
+        ],
+        "TypeOfInheritances": {
+            "TypeOfInheritance": [
+                {
+                    "value": "Autosomal recessive"
+                }
+            ]
+        }
+    }
+}

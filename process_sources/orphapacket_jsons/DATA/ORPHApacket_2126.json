@@ -1,0 +1,324 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "2126",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "2126",
+        "Label": "Solitary fibrous tumor",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_2126",
+        "DisorderType": {
+            "value": "Disease",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377788"
+        },
+        "Synonyms": [
+            {
+                "Synonym": "SFT"
+            }
+        ],
+        "ExternalReferences": [
+            {
+                "Source": "OMIM",
+                "Reference": "234820",
+                "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+            }
+        ],
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "A rare soft tissue tumor characterized by a well-circumscribed mass potentially occurring at any anatomical site histopathologically showing spindled to ovoid cells arranged around a branching and hyalinized vasculature and variable stromal collagen deposition. Immunohistochemistry reveals CD34 and/or STAT6 expression. <i>NAB2-STAT6</i> gene fusions are pathognomonic for this tumor which may be malignant or benign. Clinically most patients present with a slow-growing painless mass. Large tumors may cause paraneoplastic syndromes such as Doege-Potter syndrome with the induction of severe hypoglycemia or acromegaloid features."
+        },
+        "Genes": [
+            {
+                "Gene": {
+                    "Symbol": "STAT6",
+                    "Name": "signal transducer and activator of transcription 6",
+                    "ExternalReferences": [
+                        {
+                            "Source": "HGNC",
+                            "Reference": "11368"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "601512"
+                        },
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "STAT6"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Part of a fusion gene in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "NAB2",
+                    "Name": "NGFI-A binding protein 2",
+                    "ExternalReferences": [
+                        {
+                            "Source": "HGNC",
+                            "Reference": "7627"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "602381"
+                        },
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "NAB2"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Part of a fusion gene in"
+                }
+            }
+        ],
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "3394",
+                        "Label": "Soft tissue sarcoma"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "602681",
+                        "Label": "Pediatric soft tissue sarcoma"
+                    }
+                ]
+            }
+        ],
+        "Phenotypes": [
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001824",
+                    "HPOTerm": "Weight loss",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002664",
+                    "HPOTerm": "Neoplasm",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0010787",
+                    "HPOTerm": "Genital neoplasm",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0012378",
+                    "HPOTerm": "Fatigue",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0031459",
+                    "HPOTerm": "Soft tissue neoplasm",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0100527",
+                    "HPOTerm": "Neoplasia of the pleura",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000016",
+                    "HPOTerm": "Urinary retention",
+                    "HPOFrequency": "Very rare (<4-1%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000290",
+                    "HPOTerm": "Abnormality of the forehead",
+                    "HPOFrequency": "Very rare (<4-1%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000651",
+                    "HPOTerm": "Diplopia",
+                    "HPOFrequency": "Very rare (<4-1%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001943",
+                    "HPOTerm": "Hypoglycemia",
+                    "HPOFrequency": "Very rare (<4-1%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001945",
+                    "HPOTerm": "Fever",
+                    "HPOFrequency": "Very rare (<4-1%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001988",
+                    "HPOTerm": "Recurrent hypoglycemia",
+                    "HPOFrequency": "Very rare (<4-1%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002019",
+                    "HPOTerm": "Constipation",
+                    "HPOFrequency": "Very rare (<4-1%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002585",
+                    "HPOTerm": "Abnormality of the peritoneum",
+                    "HPOFrequency": "Very rare (<4-1%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002896",
+                    "HPOTerm": "Neoplasm of the liver",
+                    "HPOFrequency": "Very rare (<4-1%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0003419",
+                    "HPOTerm": "Low back pain",
+                    "HPOFrequency": "Very rare (<4-1%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0004375",
+                    "HPOTerm": "Neoplasm of the nervous system",
+                    "HPOFrequency": "Very rare (<4-1%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0004912",
+                    "HPOTerm": "Hypophosphatemic rickets",
+                    "HPOFrequency": "Very rare (<4-1%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0007185",
+                    "HPOTerm": "Loss of consciousness",
+                    "HPOFrequency": "Very rare (<4-1%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0008775",
+                    "HPOTerm": "Abnormal prostate morphology",
+                    "HPOFrequency": "Very rare (<4-1%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0010784",
+                    "HPOTerm": "Uterine neoplasm",
+                    "HPOFrequency": "Very rare (<4-1%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0012125",
+                    "HPOTerm": "Prostate cancer",
+                    "HPOFrequency": "Very rare (<4-1%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0030166",
+                    "HPOTerm": "Night sweats",
+                    "HPOFrequency": "Very rare (<4-1%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0030795",
+                    "HPOTerm": "Reduced C-peptide level",
+                    "HPOFrequency": "Very rare (<4-1%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0031501",
+                    "HPOTerm": "Pelvic mass",
+                    "HPOFrequency": "Very rare (<4-1%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0040216",
+                    "HPOTerm": "Hypoinsulinemia",
+                    "HPOFrequency": "Very rare (<4-1%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0045026",
+                    "HPOTerm": "Abnormality of the mediastinum",
+                    "HPOFrequency": "Very rare (<4-1%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0100526",
+                    "HPOTerm": "Neoplasm of the lung",
+                    "HPOFrequency": "Very rare (<4-1%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0100650",
+                    "HPOTerm": "Vaginal neoplasm",
+                    "HPOFrequency": "Very rare (<4-1%)"
+                }
+            }
+        ],
+        "Prevalences": {
+            "Prevalence": [
+                {
+                    "Source": "24625420[PMID]",
+                    "PrevalenceType": "Point prevalence",
+                    "PrevalenceQualification": "Class only",
+                    "PrevalenceClass": "Unknown",
+                    "ValMoy": "0.0",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            ]
+        },
+        "AverageAgeOfOnsets": {
+            "AverageAgeOfOnset": [
+                {
+                    "value": "All ages"
+                }
+            ]
+        },
+        "TypeOfInheritances": {
+            "TypeOfInheritance": [
+                {
+                    "value": "Not applicable"
+                }
+            ]
+        }
+    }
+}

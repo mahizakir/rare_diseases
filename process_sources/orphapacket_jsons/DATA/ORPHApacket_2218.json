@@ -1,0 +1,132 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "2218",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "2218",
+        "Label": "Cervical hypertrichosis-peripheral neuropathy syndrome",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_2218",
+        "DisorderType": {
+            "value": "Disease",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377788"
+        },
+        "ExternalReferences": [
+            {
+                "Source": "OMIM",
+                "Reference": "239840",
+                "DisorderMappingRelation": "E (Exact mapping: the two concepts are equivalent)"
+            }
+        ],
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "A rare genetic syndrome characterized by the association of congenital hypertrichosis in the anterior cervical region with peripheral sensory and motor neuropathy. Associated features may include retinal anomalies spina bifida kyphoscoliosis and hallux valgus and developmental delay (one case). There have been no further descriptions in the literature since 1993."
+        },
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "79365",
+                        "Label": "Rare disorder with hypertrichosis"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "269570",
+                        "Label": "Genetic syndrome with a Dandy-Walker malformation as a major feature"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "269546",
+                        "Label": "Syndrome with a Dandy-Walker malformation as a major feature"
+                    }
+                ]
+            }
+        ],
+        "Phenotypes": [
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001305",
+                    "HPOTerm": "Dandy-Walker malformation",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002230",
+                    "HPOTerm": "Generalized hirsutism",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0003457",
+                    "HPOTerm": "EMG abnormality",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002754",
+                    "HPOTerm": "Osteomyelitis",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0040165",
+                    "HPOTerm": "Periostitis",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0200042",
+                    "HPOTerm": "Skin ulcer",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            }
+        ],
+        "Prevalences": [
+            {
+                "Prevalence": {
+                    "Source": "1666396[PMID]_8281287[PMID]",
+                    "PrevalenceType": "Cases/families",
+                    "PrevalenceQualification": "Case(s)",
+                    "PrevalenceClass": "no data",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            },
+            {
+                "Prevalence": {
+                    "Source": "ORPHANET_1666396[PMID]_8281287[PMID]",
+                    "PrevalenceType": "Point prevalence",
+                    "PrevalenceQualification": "Class only",
+                    "PrevalenceClass": "<1 / 1 000 000",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            }
+        ],
+        "AverageAgeOfOnsets": {
+            "AverageAgeOfOnset": [
+                {
+                    "value": "Childhood"
+                }
+            ]
+        },
+        "TypeOfInheritances": {
+            "TypeOfInheritance": [
+                {
+                    "value": "Autosomal recessive"
+                }
+            ]
+        }
+    }
+}

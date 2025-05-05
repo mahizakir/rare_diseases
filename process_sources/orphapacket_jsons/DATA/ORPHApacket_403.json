@@ -1,0 +1,246 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "403",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "403",
+        "Label": "Familial hyperaldosteronism type I",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_403",
+        "DisorderType": {
+            "value": "Disease",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377788"
+        },
+        "Synonyms": [
+            {
+                "Synonym": "Dexamethasone-sensitive hypertension"
+            },
+            {
+                "Synonym": "FH-I"
+            },
+            {
+                "Synonym": "FH1"
+            },
+            {
+                "Synonym": "Familial hyperaldosteronism type 1"
+            },
+            {
+                "Synonym": "GRA"
+            },
+            {
+                "Synonym": "Glucocorticoid-remediable aldosteronism"
+            },
+            {
+                "Synonym": "Glucocorticoid-sensitive hypertension"
+            }
+        ],
+        "ExternalReferences": [
+            {
+                "Source": "OMIM",
+                "Reference": "103900",
+                "DisorderMappingRelation": "E (Exact mapping: the two concepts are equivalent)"
+            }
+        ],
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "A rare heritable glucocorticoid remediable form of primary aldosteronism (PA) characterized by early-onset hypertension hyperaldosteronism variable hypokalemia low plasma renin activity (PRA) and abnormal production of 18-oxocortisol and 18-hydroxycortisol."
+        },
+        "Genes": [
+            {
+                "Gene": {
+                    "Symbol": "CYP11B1",
+                    "Name": "cytochrome P450 family 11 subfamily B member 1",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "CYP11B1"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "610613"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "2591"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Part of a fusion gene in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "CYP11B2",
+                    "Name": "cytochrome P450 family 11 subfamily B member 2",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "CYP11B2"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "2592"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "124080"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Part of a fusion gene in"
+                }
+            }
+        ],
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "235936",
+                        "Label": "Familial hyperaldosteronism"
+                    }
+                ]
+            }
+        ],
+        "Phenotypes": [
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000822",
+                    "HPOTerm": "Hypertension",
+                    "HPOFrequency": "Obligate (100%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0011739",
+                    "HPOTerm": "Dexamethasone-suppresible primary hyperaldosteronism",
+                    "HPOFrequency": "Obligate (100%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0008221",
+                    "HPOTerm": "Adrenal hyperplasia",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0040084",
+                    "HPOTerm": "Abnormal circulating renin",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000360",
+                    "HPOTerm": "Tinnitus",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000421",
+                    "HPOTerm": "Epistaxis",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001324",
+                    "HPOTerm": "Muscle weakness",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001959",
+                    "HPOTerm": "Polydipsia",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002018",
+                    "HPOTerm": "Nausea",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002170",
+                    "HPOTerm": "Intracranial hemorrhage",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002315",
+                    "HPOTerm": "Headache",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002900",
+                    "HPOTerm": "Hypokalemia",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0011410",
+                    "HPOTerm": "Caesarian section",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0011746",
+                    "HPOTerm": "Secretory adrenocortical adenoma",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0100602",
+                    "HPOTerm": "Preeclampsia",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            }
+        ],
+        "Prevalences": {
+            "Prevalence": [
+                {
+                    "Source": "23610123[PMID]_ORPHANET",
+                    "PrevalenceType": "Point prevalence",
+                    "PrevalenceQualification": "Class only",
+                    "PrevalenceClass": "Unknown",
+                    "ValMoy": "0.0",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            ]
+        },
+        "AverageAgeOfOnsets": [
+            {
+                "AverageAgeOfOnset": {
+                    "value": "Adolescent"
+                }
+            },
+            {
+                "AverageAgeOfOnset": {
+                    "value": "Adult"
+                }
+            },
+            {
+                "AverageAgeOfOnset": {
+                    "value": "Childhood"
+                }
+            }
+        ],
+        "TypeOfInheritances": {
+            "TypeOfInheritance": [
+                {
+                    "value": "Autosomal dominant"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,106 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "2678",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "2678",
+        "Label": "Familial isolated caf\u00e9-au-lait macules",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_2678",
+        "DisorderType": {
+            "value": "Malformation syndrome",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377789"
+        },
+        "Synonyms": [
+            {
+                "Synonym": "CALs syndrome isolated"
+            },
+            {
+                "Synonym": "Familial CALMs isolated"
+            },
+            {
+                "Synonym": "Familial isolated CALSs"
+            },
+            {
+                "Synonym": "Familial isolated caf\u00e9-au-lait spots"
+            },
+            {
+                "Synonym": "Multiple isolated caf\u00e9-au-lait spots"
+            },
+            {
+                "Synonym": "Multiple isolated caf\u00e9-au-lait syndrome"
+            }
+        ],
+        "ExternalReferences": [
+            {
+                "Source": "OMIM",
+                "Reference": "114030",
+                "DisorderMappingRelation": "E (Exact mapping: the two concepts are equivalent)"
+            }
+        ],
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "A rare hyperpigmentation of the skin characterized by the presence of several caf\u00e9-au-lait macules without any other manifestations of neurofibromatosis or any other systemic disorder. The macules may appear in infancy but usually they are detected after 2&nbsp;years of age. Hyperpigmented lesions may have smooth or irregular borders. Their size vary from a few millimeters to more than 10&nbsp;cm."
+        },
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "183466",
+                        "Label": "Genetic hyperpigmentation of the skin"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "79375",
+                        "Label": "Hyperpigmentation of the skin"
+                    }
+                ]
+            }
+        ],
+        "Phenotypes": [
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001480",
+                    "HPOTerm": "Freckling",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0007565",
+                    "HPOTerm": "Multiple cafe-au-lait spots",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            }
+        ],
+        "Prevalences": {
+            "Prevalence": [
+                {
+                    "Source": "ORPHANET",
+                    "PrevalenceType": "Point prevalence",
+                    "PrevalenceQualification": "Class only",
+                    "PrevalenceClass": "Unknown",
+                    "ValMoy": "0.0",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            ]
+        },
+        "AverageAgeOfOnsets": {
+            "AverageAgeOfOnset": [
+                {
+                    "value": "Childhood"
+                }
+            ]
+        },
+        "TypeOfInheritances": {
+            "TypeOfInheritance": [
+                {
+                    "value": "Autosomal dominant"
+                }
+            ]
+        }
+    }
+}

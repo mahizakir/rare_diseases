@@ -1,0 +1,493 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "313",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "313",
+        "Label": "Lamellar ichthyosis",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_313",
+        "DisorderType": {
+            "value": "Disease",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377788"
+        },
+        "Synonyms": [
+            {
+                "Synonym": "LI"
+            }
+        ],
+        "ExternalReferences": [
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "242300",
+                    "DisorderMappingRelation": "NTBT (ORPHAcode is narrower than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "601277",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "604777",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "606545",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "612281",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "613943",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "617571",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            }
+        ],
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "A rare autosomal recessive congenital ichthyosis characterized by the presence of large scales all over the body without significant erythroderma."
+        },
+        "Genes": [
+            {
+                "Gene": {
+                    "Symbol": "SULT2B1",
+                    "Name": "sulfotransferase family 2B member 1",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "SULT2B1"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "11459"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "604125"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) (loss of function) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "ASPRV1",
+                    "Name": "aspartic peptidase retroviral like 1",
+                    "ExternalReferences": [
+                        {
+                            "Source": "HGNC",
+                            "Reference": "26321"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "611765"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "SDR9C7",
+                    "Name": "short chain dehydrogenase/reductase family 9C member 7",
+                    "ExternalReferences": [
+                        {
+                            "Source": "OMIM",
+                            "Reference": "609769"
+                        },
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "SDR9C7"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "29958"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "ABCA12",
+                    "Name": "ATP binding cassette subfamily A member 12",
+                    "ExternalReferences": [
+                        {
+                            "Source": "HGNC",
+                            "Reference": "14637"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "607800"
+                        },
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "ABCA12"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "ALOX12B",
+                    "Name": "arachidonate 12-lipoxygenase, 12R type",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "ALOX12B"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "430"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "603741"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "ALOXE3",
+                    "Name": "arachidonate lipoxygenase 3",
+                    "ExternalReferences": [
+                        {
+                            "Source": "HGNC",
+                            "Reference": "13743"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "607206"
+                        },
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "ALOXE3"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "TGM1",
+                    "Name": "transglutaminase 1",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "TGM1"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "11777"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "190195"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "CYP4F22",
+                    "Name": "cytochrome P450 family 4 subfamily F member 22",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "CYP4F22"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "26820"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "611495"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "NIPAL4",
+                    "Name": "NIPA like domain containing 4",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "NIPAL4"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "28018"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "609383"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "LIPN",
+                    "Name": "lipase family member N",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "LIPN"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "23452"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "613924"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            }
+        ],
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "281097",
+                        "Label": "Autosomal recessive congenital ichthyosis"
+                    }
+                ]
+            }
+        ],
+        "Phenotypes": [
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000656",
+                    "HPOTerm": "Ectropion",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000958",
+                    "HPOTerm": "Dry skin",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000962",
+                    "HPOTerm": "Hyperkeratosis",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000989",
+                    "HPOTerm": "Pruritus",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001019",
+                    "HPOTerm": "Erythroderma",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001597",
+                    "HPOTerm": "Abnormality of the nail",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0008064",
+                    "HPOTerm": "Ichthyosis",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0008070",
+                    "HPOTerm": "Sparse hair",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0100679",
+                    "HPOTerm": "Lack of skin elasticity",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0100840",
+                    "HPOTerm": "Aplasia/Hypoplasia of the eyebrow",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000232",
+                    "HPOTerm": "Everted lower lip vermilion",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0011039",
+                    "HPOTerm": "Abnormality of the helix",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000083",
+                    "HPOTerm": "Renal insufficiency",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000164",
+                    "HPOTerm": "Abnormality of the dentition",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000389",
+                    "HPOTerm": "Chronic otitis media",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001944",
+                    "HPOTerm": "Dehydration",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002205",
+                    "HPOTerm": "Recurrent respiratory infections",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0004322",
+                    "HPOTerm": "Short stature",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0100543",
+                    "HPOTerm": "Cognitive impairment",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0100758",
+                    "HPOTerm": "Gangrene",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0100806",
+                    "HPOTerm": "Sepsis",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            }
+        ],
+        "Prevalences": [
+            {
+                "Prevalence": {
+                    "Source": "9887377[PMID]_22000705[PMID]_ORPHANET",
+                    "PrevalenceType": "Point prevalence",
+                    "PrevalenceQualification": "Class only",
+                    "PrevalenceClass": "1-9 / 1 000 000",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Europe"
+                }
+            },
+            {
+                "Prevalence": {
+                    "Source": "22000705[PMID]",
+                    "PrevalenceType": "Point prevalence",
+                    "PrevalenceQualification": "Value and class",
+                    "PrevalenceClass": "1-9 / 1 000 000",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Spain"
+                }
+            },
+            {
+                "Prevalence": {
+                    "Source": "9887377[PMID]",
+                    "PrevalenceType": "Point prevalence",
+                    "PrevalenceQualification": "Value and class",
+                    "PrevalenceClass": "1-9 / 100 000",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Norway"
+                }
+            }
+        ],
+        "AverageAgeOfOnsets": {
+            "AverageAgeOfOnset": [
+                {
+                    "value": "Neonatal"
+                }
+            ]
+        },
+        "TypeOfInheritances": [
+            {
+                "TypeOfInheritance": {
+                    "value": "Autosomal dominant"
+                }
+            },
+            {
+                "TypeOfInheritance": {
+                    "value": "Autosomal recessive"
+                }
+            }
+        ]
+    }
+}

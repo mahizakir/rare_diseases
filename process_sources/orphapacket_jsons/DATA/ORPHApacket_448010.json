@@ -1,0 +1,120 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "448010",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "448010",
+        "Label": "CAD-CDG",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_448010",
+        "DisorderType": {
+            "value": "Disease",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377788"
+        },
+        "Synonyms": [
+            {
+                "Synonym": "CDG syndrome type Iz"
+            },
+            {
+                "Synonym": "CDG-Iz"
+            },
+            {
+                "Synonym": "CDG1Z"
+            },
+            {
+                "Synonym": "Carbohydrate deficient glycoprotein syndrome type Iz"
+            },
+            {
+                "Synonym": "Congenital disorder of glycosylation type 1z"
+            }
+        ],
+        "ExternalReferences": [
+            {
+                "Source": "OMIM",
+                "Reference": "616457",
+                "DisorderMappingRelation": "E (Exact mapping: the two concepts are equivalent)"
+            }
+        ],
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "A rare congenital disorder of glycosylation caused by mutations in the <i>CAD</i> gene and characterized by epileptic encephalopathy global developmental delay normocytic anemia and anisopoikilocytosis. Loss of acquired skills in early childhood is present and natural disease course can be lethal in early childhood."
+        },
+        "Genes": [
+            {
+                "Gene": {
+                    "Symbol": "CAD",
+                    "Name": "carbamoyl-phosphate synthetase 2, aspartate transcarbamylase, and dihydroorotase",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "CAD"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "1424"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "114010"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            }
+        ],
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "79193",
+                        "Label": "Disorder of pyrimidine metabolism"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "309526",
+                        "Label": "Disorder of multiple glycosylation"
+                    }
+                ]
+            }
+        ],
+        "Prevalences": [
+            {
+                "Prevalence": {
+                    "Source": "25678555[PMID]",
+                    "PrevalenceType": "Cases/families",
+                    "PrevalenceQualification": "Case(s)",
+                    "PrevalenceClass": "no data",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            },
+            {
+                "Prevalence": {
+                    "Source": "ORPHANET_25678555[PMID]",
+                    "PrevalenceType": "Point prevalence",
+                    "PrevalenceQualification": "Class only",
+                    "PrevalenceClass": "<1 / 1 000 000",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            }
+        ],
+        "AverageAgeOfOnsets": {
+            "AverageAgeOfOnset": [
+                {
+                    "value": "Infancy"
+                }
+            ]
+        },
+        "TypeOfInheritances": {
+            "TypeOfInheritance": [
+                {
+                    "value": "Autosomal recessive"
+                }
+            ]
+        }
+    }
+}

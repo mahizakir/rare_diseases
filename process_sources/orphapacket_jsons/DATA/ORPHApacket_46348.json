@@ -1,0 +1,129 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "46348",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "46348",
+        "Label": "Paroxysmal extreme pain disorder",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_46348",
+        "DisorderType": {
+            "value": "Disease",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377788"
+        },
+        "Synonyms": [
+            {
+                "Synonym": "Familial rectal pain"
+            }
+        ],
+        "ExternalReferences": [
+            {
+                "Source": "OMIM",
+                "Reference": "167400",
+                "DisorderMappingRelation": "E (Exact mapping: the two concepts are equivalent)"
+            }
+        ],
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "A rare genetic neurological disorder characterized by severe episodic perirectal pain accompanied by skin flushing that is typically precipitated by defecation. Ocular and submaxillary pain associated with triggers including cold or other irritants may become more prominent with age."
+        },
+        "Genes": [
+            {
+                "Gene": {
+                    "Symbol": "SCN9A",
+                    "Name": "sodium voltage-gated channel alpha subunit 9",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "SCN9A"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "10597"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "603415"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) (gain of function) in"
+                }
+            }
+        ],
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "71859",
+                        "Label": "Rare genetic neurological disorder"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "98006",
+                        "Label": "Rare neurologic disease"
+                    }
+                ]
+            }
+        ],
+        "Phenotypes": [
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001250",
+                    "HPOTerm": "Seizure",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002019",
+                    "HPOTerm": "Constipation",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            }
+        ],
+        "Prevalences": [
+            {
+                "Prevalence": {
+                    "Source": "8778439[PMID]",
+                    "PrevalenceType": "Cases/families",
+                    "PrevalenceQualification": "Family(ies)",
+                    "PrevalenceClass": "no data",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            },
+            {
+                "Prevalence": {
+                    "Source": "ORPHANET",
+                    "PrevalenceType": "Point prevalence",
+                    "PrevalenceQualification": "Class only",
+                    "PrevalenceClass": "<1 / 1 000 000",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            }
+        ],
+        "AverageAgeOfOnsets": [
+            {
+                "AverageAgeOfOnset": {
+                    "value": "Infancy"
+                }
+            },
+            {
+                "AverageAgeOfOnset": {
+                    "value": "Neonatal"
+                }
+            }
+        ],
+        "TypeOfInheritances": {
+            "TypeOfInheritance": [
+                {
+                    "value": "Autosomal dominant"
+                }
+            ]
+        }
+    }
+}

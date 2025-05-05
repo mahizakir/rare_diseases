@@ -1,0 +1,43 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "294973",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "294973",
+        "Label": "Isolated humeral agenesis/hypoplasia",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_294973",
+        "DisorderType": {
+            "value": "Morphological anomaly",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377791"
+        },
+        "Synonyms": [
+            {
+                "Synonym": "Isolated congenital absence of humerus"
+            },
+            {
+                "Synonym": "Isolated congenital humeral deficiency"
+            },
+            {
+                "Synonym": "Isolated congenital hypoplasia of humerus"
+            },
+            {
+                "Synonym": "Isolated humeral intercalary meromelia"
+            }
+        ],
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "Humeral agenesis/hypoplasia is a rare non-syndromic limb reduction defect characterized by the unilateral or bilateral presence of a short arm with completely absent or underdeveloped humerus frequently associated with ulnar and/or radial malformations. Patients may present with the appearance of the forearm directly attached to the shoulder no articulation at the shoulder joint impossible passive extension of the arm beyond the mid-axillary line no elbow joints bowing of the radius a short ulna and/or ulnar/radial deviation of the hand at the wrist."
+        },
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "294927",
+                        "Label": "Non-syndromic intercalary limb defects"
+                    }
+                ]
+            }
+        ]
+    }
+}

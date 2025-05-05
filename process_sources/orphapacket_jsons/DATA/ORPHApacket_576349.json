@@ -1,0 +1,86 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "576349",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "576349",
+        "Label": "NLRC4-related familial cold autoinflammatory syndrome",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_576349",
+        "DisorderType": {
+            "value": "Disease",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377788"
+        },
+        "Synonyms": [
+            {
+                "Synonym": "FCAS4"
+            },
+            {
+                "Synonym": "Familial cold autoinflammatory syndrome 4"
+            },
+            {
+                "Synonym": "NLRC4-related familial cold urticaria"
+            }
+        ],
+        "ExternalReferences": [
+            {
+                "Source": "OMIM",
+                "Reference": "616115",
+                "DisorderMappingRelation": "E (Exact mapping: the two concepts are equivalent)"
+            }
+        ],
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "A rare hereditary periodic fever syndrome characterized by infantile or childhood onset of episodes of fever and cold-induced urticaria-like rash and arthralgias. Ocular features such as conjunctivitis and uveitis may also be present. Presentation is typically mild and symptoms resolve without treatment in most cases."
+        },
+        "Genes": [
+            {
+                "Gene": {
+                    "Symbol": "NLRC4",
+                    "Name": "NLR family CARD domain containing 4",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "NLRC4"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "16412"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "606831"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            }
+        ],
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "622720",
+                        "Label": "Genetic autoinflammatory syndrome with skin involvement"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "324924",
+                        "Label": "Hereditary periodic fever syndrome"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "290842",
+                        "Label": "Autoinflammatory syndrome with skin involvement"
+                    }
+                ]
+            }
+        ]
+    }
+}

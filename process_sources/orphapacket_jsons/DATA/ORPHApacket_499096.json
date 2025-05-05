@@ -1,0 +1,43 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "499096",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "499096",
+        "Label": "Isolated optic neuritis",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_499096",
+        "DisorderType": {
+            "value": "Disease",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377788"
+        },
+        "Synonyms": [
+            {
+                "Synonym": "ION"
+            }
+        ],
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "A rare inflammatory optic neuropathy characterized by isolated episodes (either single or recurrent) of optic neuritis not associated with other neurological or systemic disease. Patients typically present with subacute unilateral loss of vision progressing over several days to two weeks periocular pain and pain on eye movement (which may precede the onset of visual symptoms) light flashes on eye movement abnormal color vision reduced contrast sensitivity and relative afferent pupillary defect. The optic disc appears swollen in many patients and uveitis may be associated and can be present for years before the onset of optic neuritis."
+        },
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "499047",
+                        "Label": "Autoimmune/inflammatory optic neuropathy"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "182064",
+                        "Label": "Rare neuroinflammatory or neuroimmunological disease"
+                    }
+                ]
+            }
+        ],
+        "Childs": []
+    }
+}

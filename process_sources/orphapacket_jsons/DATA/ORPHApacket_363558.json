@@ -1,0 +1,322 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "363558",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "363558",
+        "Label": "New-onset refractory status epilepticus",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_363558",
+        "DisorderType": {
+            "value": "Disease",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377788"
+        },
+        "Synonyms": [
+            {
+                "Synonym": "NORSE"
+            }
+        ],
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "New-onset refractory status epilepticus is an acute encephalopathy with inflammation-mediated status epilepticus characterized by an acute refractory status epilepticus typically of the tonic-clonic type following prodromal symptoms of confusion fever fatigue headache symptoms of gastrointestinal or upper respiratory tract infection behavioral changes or hallucinations. Brain MRI abnormalities and abnormal findings in CSF including pleocytosis and/or elevated protein levels are frequently found during acute episode. Treatment-resistant epilepsy cognitive and psychiatric impairments are usual consequences."
+        },
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "98260",
+                        "Label": "Adolescent-onset epilepsy syndrome"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "363567",
+                        "Label": "Acute encephalopathy with inflammation-mediated status epilepticus"
+                    }
+                ]
+            }
+        ],
+        "Phenotypes": [
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002133",
+                    "HPOTerm": "Status epilepticus",
+                    "HPOFrequency": "Obligate (100%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0025373",
+                    "HPOTerm": "Interictal EEG abnormality",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0032867",
+                    "HPOTerm": "Refractory status epilepticus",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0032894",
+                    "HPOTerm": "Seizure precipitated by febrile infection",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001945",
+                    "HPOTerm": "Fever",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002384",
+                    "HPOTerm": "Focal impaired awareness seizure",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002457",
+                    "HPOTerm": "Abnormal head movements",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002922",
+                    "HPOTerm": "Increased CSF protein concentration",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002960",
+                    "HPOTerm": "Autoimmunity",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0004302",
+                    "HPOTerm": "Functional motor deficit",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0007183",
+                    "HPOTerm": "Focal T2 hyperintense basal ganglia lesion",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0007334",
+                    "HPOTerm": "Bilateral tonic-clonic seizure with focal onset",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0010845",
+                    "HPOTerm": "EEG with generalized slow activity",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0011154",
+                    "HPOTerm": "Focal autonomic seizure",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0011468",
+                    "HPOTerm": "Facial tics",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0012229",
+                    "HPOTerm": "CSF pleocytosis",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0020217",
+                    "HPOTerm": "Focal aware motor seizure",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0030782",
+                    "HPOTerm": "Abnormal serum interleukin level",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0033716",
+                    "HPOTerm": "EEG with frontal epileptiform discharges",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0033717",
+                    "HPOTerm": "EEG with temporal epileptiform discharges",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0100543",
+                    "HPOTerm": "Cognitive impairment",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0410263",
+                    "HPOTerm": "Brain imaging abnormality",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000708",
+                    "HPOTerm": "Atypical behavior",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001289",
+                    "HPOTerm": "Confusion",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002283",
+                    "HPOTerm": "Global brain atrophy",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002315",
+                    "HPOTerm": "Headache",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002383",
+                    "HPOTerm": "Infectious encephalitis",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0010841",
+                    "HPOTerm": "Multifocal epileptiform discharges",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0010850",
+                    "HPOTerm": "EEG with spike-wave complexes",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0011198",
+                    "HPOTerm": "EEG with generalized epileptiform discharges",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0012378",
+                    "HPOTerm": "Fatigue",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0012696",
+                    "HPOTerm": "Abnormal thalamic MRI signal intensity",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0030915",
+                    "HPOTerm": "Cerebellar edema",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0031358",
+                    "HPOTerm": "Vegetative state",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0032794",
+                    "HPOTerm": "Myoclonic seizure",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0012751",
+                    "HPOTerm": "Abnormal basal ganglia MRI signal intensity",
+                    "HPOFrequency": "Very rare (<4-1%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0031475",
+                    "HPOTerm": "Status epilepticus without prominent motor symptoms",
+                    "HPOFrequency": "Very rare (<4-1%)"
+                }
+            }
+        ],
+        "Prevalences": {
+            "Prevalence": [
+                {
+                    "Source": "ORPHANET_28396650[PMID]",
+                    "PrevalenceType": "Point prevalence",
+                    "PrevalenceQualification": "Class only",
+                    "PrevalenceClass": "Unknown",
+                    "ValMoy": "0.0",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            ]
+        },
+        "AverageAgeOfOnsets": {
+            "AverageAgeOfOnset": [
+                {
+                    "value": "Adult"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "499107",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "499107",
+        "Label": "Idiopathic optic perineuritis",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_499107",
+        "DisorderType": {
+            "value": "Disease",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377788"
+        },
+        "Synonyms": [
+            {
+                "Synonym": "Idiopathic OPN"
+            }
+        ],
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "A rare ophthalmic disorder characterized by idiopathic orbital inflammation in which the specific target tissue is the optic nerve sheath. Patients typically present with ocular pain pain on eye movement visual symptoms with loss of vision progressing over several weeks dyschromatopsia and variable visual field defects. Orbital signs and symptoms may be present and include ptosis ophthalmoplegia and exophthalmos. Optic disc edema is observed in most cases. The condition is usually unilateral."
+        },
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "499047",
+                        "Label": "Autoimmune/inflammatory optic neuropathy"
+                    }
+                ]
+            }
+        ]
+    }
+}

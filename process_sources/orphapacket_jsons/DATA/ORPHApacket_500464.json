@@ -1,0 +1,130 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "500464",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "500464",
+        "Label": "Squamous cell carcinoma of the nasal cavity and paranasal sinuses",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_500464",
+        "DisorderType": {
+            "value": "Disease",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377788"
+        },
+        "Synonyms": [
+            {
+                "Synonym": "Squamous cell carcinoma of the nasal cavity and sinuses"
+            }
+        ],
+        "ExternalReferences": [
+            {
+                "Source": "OMIM",
+                "Reference": "275355",
+                "DisorderMappingRelation": "NTBT (ORPHAcode is narrower than the targeted code used to represent it)"
+            }
+        ],
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "A rare head and neck tumor characterized by a malignant epithelial neoplasm most commonly arising in the maxillary sinus or nasal cavity occurring as a keratinizing a non-keratinizing or a spindle cell (sarcomatoid) type. Patients may present with nasal obstruction epistaxis rhinorrhea swelling or (at more advances stages) with facial pain and/or paralysis diplopia and proptosis. Patients with paranasal sinus tumors present later and at a higher stage than patients with nasal cavity carcinomas. Risk factors are smoking and industrial exposures. High-risk HPV is most frequently associated with the non-keratinizing type."
+        },
+        "Genes": [
+            {
+                "Gene": {
+                    "Symbol": "TNFRSF10B",
+                    "Name": "TNF receptor superfamily member 10b",
+                    "ExternalReferences": [
+                        {
+                            "Source": "HGNC",
+                            "Reference": "11905"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "603612"
+                        },
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "TNFRSF10B"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Major susceptibility factor in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "PTEN",
+                    "Name": "phosphatase and tensin homolog",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "PTEN"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "9588"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "601728"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing somatic mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "ING1",
+                    "Name": "inhibitor of growth family member 1",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "ING1"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "6062"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "601566"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing somatic mutation(s) in"
+                }
+            }
+        ],
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "98061",
+                        "Label": "Rare otorhinolaryngologic tumor"
+                    }
+                ]
+            }
+        ],
+        "Prevalences": {
+            "Prevalence": [
+                {
+                    "Source": "RARECARE surveillance of rare cancers in Europe[REG]_28687376[PMID]",
+                    "PrevalenceType": "Annual incidence",
+                    "PrevalenceQualification": "Value and class",
+                    "PrevalenceClass": "1-9 / 1 000 000",
+                    "ValMoy": "0.35",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            ]
+        },
+        "AverageAgeOfOnsets": [
+            {
+                "AverageAgeOfOnset": {
+                    "value": "Adult"
+                }
+            },
+            {
+                "AverageAgeOfOnset": {
+                    "value": "Elderly"
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,1566 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "110",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "110",
+        "Label": "Bardet-Biedl syndrome",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_110",
+        "DisorderType": {
+            "value": "Disease",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377788"
+        },
+        "Synonyms": [
+            {
+                "Synonym": "BBS"
+            }
+        ],
+        "ExternalReferences": [
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "617119",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "209900",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "600151",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "605231",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "615981",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "615982",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "615983",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "615984",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "615985",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "615986",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "615987",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "615988",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "615989",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "615990",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "615991",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "615992",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "615993",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "615994",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "615995",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "615996",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "617406",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            }
+        ],
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "A rare genetic multisystem disorder characterized by the variable association of retinal dystrophy obesity polydactyly genitourinary and kidney anomalies learning disability and hypogonadism with a wide spectrum of other minor manifestations."
+        },
+        "Genes": [
+            {
+                "Gene": {
+                    "Symbol": "BBS1",
+                    "Name": "Bardet-Biedl syndrome 1",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "BBS1"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "966"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "209901"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "BBS10",
+                    "Name": "Bardet-Biedl syndrome 10",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "BBS10"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "26291"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "610148"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "BBS2",
+                    "Name": "Bardet-Biedl syndrome 2",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "BBS2"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "967"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "606151"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "BBS4",
+                    "Name": "Bardet-Biedl syndrome 4",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "BBS4"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "969"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "600374"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "BBS5",
+                    "Name": "Bardet-Biedl syndrome 5",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "BBS5"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "603650"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "970"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "BBS7",
+                    "Name": "Bardet-Biedl syndrome 7",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "BBS7"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "18758"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "607590"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "BBS9",
+                    "Name": "Bardet-Biedl syndrome 9",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "BBS9"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "30000"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "607968"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "CEP290",
+                    "Name": "centrosomal protein 290",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "CEP290"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "29021"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "610142"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "TRIM32",
+                    "Name": "tripartite motif containing 32",
+                    "ExternalReferences": [
+                        {
+                            "Source": "HGNC",
+                            "Reference": "16380"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "602290"
+                        },
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "TRIM32"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "TTC8",
+                    "Name": "tetratricopeptide repeat domain 8",
+                    "ExternalReferences": [
+                        {
+                            "Source": "HGNC",
+                            "Reference": "20087"
+                        },
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "TTC8"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "608132"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "ARL6",
+                    "Name": "ADP ribosylation factor like GTPase 6",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "ARL6"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "13210"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "608845"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "MKKS",
+                    "Name": "MKKS centrosomal shuttling protein",
+                    "ExternalReferences": [
+                        {
+                            "Source": "HGNC",
+                            "Reference": "7108"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "604896"
+                        },
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "MKKS"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "MKS1",
+                    "Name": "MKS transition zone complex subunit 1",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "MKS1"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "7121"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "609883"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "NPHP1",
+                    "Name": "nephrocystin 1",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "NPHP1"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "7905"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "607100"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) (loss of function) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "BBS12",
+                    "Name": "Bardet-Biedl syndrome 12",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "BBS12"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "26648"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "610683"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "SDCCAG8",
+                    "Name": "SHH signaling and ciliogenesis regulator SDCCAG8",
+                    "ExternalReferences": [
+                        {
+                            "Source": "HGNC",
+                            "Reference": "10671"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "613524"
+                        },
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "SDCCAG8"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) (loss of function) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "WDPCP",
+                    "Name": "WD repeat containing planar cell polarity effector",
+                    "ExternalReferences": [
+                        {
+                            "Source": "HGNC",
+                            "Reference": "28027"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "613580"
+                        },
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "WDPCP"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "LZTFL1",
+                    "Name": "leucine zipper transcription factor like 1",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "LZTFL1"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "6741"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "606568"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "IFT172",
+                    "Name": "intraflagellar transport 172",
+                    "ExternalReferences": [
+                        {
+                            "Source": "OMIM",
+                            "Reference": "607386"
+                        },
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "IFT172"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "30391"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "BBIP1",
+                    "Name": "BBSome interacting protein 1",
+                    "ExternalReferences": [
+                        {
+                            "Source": "HGNC",
+                            "Reference": "28093"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "613605"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "IFT27",
+                    "Name": "intraflagellar transport 27",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "RABL4"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "18626"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "615870"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) (loss of function) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "IFT74",
+                    "Name": "intraflagellar transport 74",
+                    "ExternalReferences": [
+                        {
+                            "Source": "HGNC",
+                            "Reference": "21424"
+                        },
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "IFT74"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "608040"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) (loss of function) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "CEP19",
+                    "Name": "centrosomal protein 19",
+                    "ExternalReferences": [
+                        {
+                            "Source": "HGNC",
+                            "Reference": "28209"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "615586"
+                        },
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "CEP19"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) (loss of function) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "SCAPER",
+                    "Name": "S-phase cyclin A associated protein in the ER",
+                    "ExternalReferences": [
+                        {
+                            "Source": "HGNC",
+                            "Reference": "13081"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "611611"
+                        },
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "SCAPER"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) (loss of function) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "CFAP418",
+                    "Name": "cilia and flagella associated protein 418",
+                    "ExternalReferences": [
+                        {
+                            "Source": "HGNC",
+                            "Reference": "27232"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "614477"
+                        },
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "C8orf37"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) (loss of function) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "SCLT1",
+                    "Name": "sodium channel and clathrin linker 1",
+                    "ExternalReferences": [
+                        {
+                            "Source": "OMIM",
+                            "Reference": "611399"
+                        },
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "SCLT1"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "26406"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            }
+        ],
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "98661",
+                        "Label": "Syndromic rod-cone dystrophy"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "156162",
+                        "Label": "Renal ciliopathy"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "181387",
+                        "Label": "Rare disorder with multisystemic involvement and congenital hypogonadotropic hypogonadism"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "104009",
+                        "Label": "Rare disease involving intestinal motility"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "240371",
+                        "Label": "Syndromic obesity"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "156180",
+                        "Label": "Retinal ciliopathy due to mutation in nephronophthisis gene"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "557866",
+                        "Label": "Rare disorder with Hirschsprung disease as a major feature"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "399846",
+                        "Label": "Rare disorder with female infertility due to a congenital hypogonadotropic hypogonadism"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "611327",
+                        "Label": "Genetic multiple congenital anomalies/dysmorphic syndrome-intellectual disability"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "156183",
+                        "Label": "Retinal ciliopathy due to mutation in Bardet-Biedl gene"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "93587",
+                        "Label": "Genetic cystic renal disease"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "506213",
+                        "Label": "Rare disorder potentially indicated for kidney transplant"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "102283",
+                        "Label": "Multiple congenital anomalies/dysmorphic syndrome-intellectual disability"
+                    }
+                ]
+            }
+        ],
+        "Phenotypes": [
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000556",
+                    "HPOTerm": "Retinal dystrophy",
+                    "HPOFrequency": "Obligate (100%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000548",
+                    "HPOTerm": "Cone/cone-rod dystrophy",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001513",
+                    "HPOTerm": "Obesity",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0008915",
+                    "HPOTerm": "Childhood-onset truncal obesity",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0012758",
+                    "HPOTerm": "Neurodevelopmental delay",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000119",
+                    "HPOTerm": "Abnormality of the genitourinary system",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000135",
+                    "HPOTerm": "Hypogonadism",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000163",
+                    "HPOTerm": "Abnormal oral cavity morphology",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000218",
+                    "HPOTerm": "High palate",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000512",
+                    "HPOTerm": "Abnormal electroretinogram",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000551",
+                    "HPOTerm": "Color vision defect",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000613",
+                    "HPOTerm": "Photophobia",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000618",
+                    "HPOTerm": "Blindness",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000639",
+                    "HPOTerm": "Nystagmus",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000662",
+                    "HPOTerm": "Nyctalopia",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000668",
+                    "HPOTerm": "Hypodontia",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000678",
+                    "HPOTerm": "Dental crowding",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000708",
+                    "HPOTerm": "Atypical behavior",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000716",
+                    "HPOTerm": "Depression",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000717",
+                    "HPOTerm": "Autism",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000736",
+                    "HPOTerm": "Short attention span",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000822",
+                    "HPOTerm": "Hypertension",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001156",
+                    "HPOTerm": "Brachydactyly",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001328",
+                    "HPOTerm": "Specific learning disability",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002155",
+                    "HPOTerm": "Hypertriglyceridemia",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002910",
+                    "HPOTerm": "Elevated hepatic transaminase",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0003233",
+                    "HPOTerm": "Decreased HDL cholesterol concentration",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0004322",
+                    "HPOTerm": "Short stature",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0004408",
+                    "HPOTerm": "Abnormality of the sense of smell",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0007663",
+                    "HPOTerm": "Reduced visual acuity",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0008724",
+                    "HPOTerm": "Hypoplasia of the ovary",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0008736",
+                    "HPOTerm": "Hypoplasia of penis",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0012622",
+                    "HPOTerm": "Chronic kidney disease",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0025691",
+                    "HPOTerm": "Impaired fasting glucose",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0100259",
+                    "HPOTerm": "Postaxial polydactyly",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0100543",
+                    "HPOTerm": "Cognitive impairment",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000011",
+                    "HPOTerm": "Neurogenic bladder",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000028",
+                    "HPOTerm": "Cryptorchidism",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000076",
+                    "HPOTerm": "Vesicoureteral reflux",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000085",
+                    "HPOTerm": "Horseshoe kidney",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000100",
+                    "HPOTerm": "Nephrotic syndrome",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000126",
+                    "HPOTerm": "Hydronephrosis",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000147",
+                    "HPOTerm": "Polycystic ovaries",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000278",
+                    "HPOTerm": "Retrognathia",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000316",
+                    "HPOTerm": "Hypertelorism",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000343",
+                    "HPOTerm": "Long philtrum",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000365",
+                    "HPOTerm": "Hearing impairment",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000368",
+                    "HPOTerm": "Low-set, posteriorly rotated ears",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000388",
+                    "HPOTerm": "Otitis media",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000400",
+                    "HPOTerm": "Macrotia",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000426",
+                    "HPOTerm": "Prominent nasal bridge",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000470",
+                    "HPOTerm": "Short neck",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000483",
+                    "HPOTerm": "Astigmatism",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000486",
+                    "HPOTerm": "Strabismus",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000494",
+                    "HPOTerm": "Downslanted palpebral fissures",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000518",
+                    "HPOTerm": "Cataract",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000691",
+                    "HPOTerm": "Microdontia",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000712",
+                    "HPOTerm": "Emotional lability",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000739",
+                    "HPOTerm": "Anxiety",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000750",
+                    "HPOTerm": "Delayed speech and language development",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000789",
+                    "HPOTerm": "Infertility",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000818",
+                    "HPOTerm": "Abnormality of the endocrine system",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000821",
+                    "HPOTerm": "Hypothyroidism",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000855",
+                    "HPOTerm": "Insulin resistance",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000858",
+                    "HPOTerm": "Irregular menstruation",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001159",
+                    "HPOTerm": "Syndactyly",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001249",
+                    "HPOTerm": "Intellectual disability",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001250",
+                    "HPOTerm": "Seizure",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001251",
+                    "HPOTerm": "Ataxia",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001257",
+                    "HPOTerm": "Spasticity",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001388",
+                    "HPOTerm": "Joint laxity",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001395",
+                    "HPOTerm": "Hepatic fibrosis",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001397",
+                    "HPOTerm": "Hepatic steatosis",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001627",
+                    "HPOTerm": "Abnormal heart morphology",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001762",
+                    "HPOTerm": "Talipes equinovarus",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002099",
+                    "HPOTerm": "Asthma",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002167",
+                    "HPOTerm": "Abnormality of speech or vocalization",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002230",
+                    "HPOTerm": "Generalized hirsutism",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0003202",
+                    "HPOTerm": "Skeletal muscle atrophy",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0005280",
+                    "HPOTerm": "Depressed nasal bridge",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0005562",
+                    "HPOTerm": "Multiple renal cysts",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0005978",
+                    "HPOTerm": "Type II diabetes mellitus",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0006101",
+                    "HPOTerm": "Finger syndactyly",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0008376",
+                    "HPOTerm": "Nasal, dysarthic speech",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0008734",
+                    "HPOTerm": "Decreased testicular size",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0010747",
+                    "HPOTerm": "Medial flaring of the eyebrow",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0011024",
+                    "HPOTerm": "Abnormality of the gastrointestinal tract",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0011026",
+                    "HPOTerm": "Aplasia/Hypoplasia of the vagina",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0012384",
+                    "HPOTerm": "Rhinitis",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0030010",
+                    "HPOTerm": "Hydrometrocolpos",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001638",
+                    "HPOTerm": "Cardiomyopathy",
+                    "HPOFrequency": "Very rare (<4-1%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002037",
+                    "HPOTerm": "Inflammation of the large intestine",
+                    "HPOFrequency": "Very rare (<4-1%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002251",
+                    "HPOTerm": "Aganglionic megacolon",
+                    "HPOFrequency": "Very rare (<4-1%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002608",
+                    "HPOTerm": "Celiac disease",
+                    "HPOFrequency": "Very rare (<4-1%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0005769",
+                    "HPOTerm": "Fifth finger distal phalanx clinodactyly",
+                    "HPOFrequency": "Very rare (<4-1%)"
+                }
+            }
+        ],
+        "Prevalences": [
+            {
+                "Prevalence": {
+                    "Source": "2591073[PMID]",
+                    "PrevalenceType": "Point prevalence",
+                    "PrevalenceQualification": "Value and class",
+                    "PrevalenceClass": "1-9 / 100 000",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Specific population"
+                }
+            },
+            {
+                "Prevalence": {
+                    "Source": "EUROCAT European surveillance of congenital anomalies 2005-2012[REG]",
+                    "PrevalenceType": "Prevalence at birth",
+                    "PrevalenceQualification": "Value and class",
+                    "PrevalenceClass": "1-9 / 1 000 000",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Europe"
+                }
+            },
+            {
+                "Prevalence": {
+                    "Source": "22109794[PMID]",
+                    "PrevalenceType": "Point prevalence",
+                    "PrevalenceQualification": "Value and class",
+                    "PrevalenceClass": "1-9 / 1 000 000",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Tunisia"
+                }
+            },
+            {
+                "Prevalence": {
+                    "Source": "20949666[PMID]",
+                    "PrevalenceType": "Point prevalence",
+                    "PrevalenceQualification": "Value and class",
+                    "PrevalenceClass": "1-9 / 100 000",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "United States"
+                }
+            }
+        ],
+        "AverageAgeOfOnsets": [
+            {
+                "AverageAgeOfOnset": {
+                    "value": "Antenatal"
+                }
+            },
+            {
+                "AverageAgeOfOnset": {
+                    "value": "Childhood"
+                }
+            },
+            {
+                "AverageAgeOfOnset": {
+                    "value": "Infancy"
+                }
+            },
+            {
+                "AverageAgeOfOnset": {
+                    "value": "Neonatal"
+                }
+            }
+        ],
+        "TypeOfInheritances": [
+            {
+                "TypeOfInheritance": {
+                    "value": "Autosomal recessive"
+                }
+            },
+            {
+                "TypeOfInheritance": {
+                    "value": "Oligogenic"
+                }
+            }
+        ]
+    }
+}

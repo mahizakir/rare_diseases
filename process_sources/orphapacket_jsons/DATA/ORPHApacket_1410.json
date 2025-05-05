@@ -1,0 +1,179 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "1410",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "1410",
+        "Label": "Uncombable hair syndrome",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_1410",
+        "DisorderType": {
+            "value": "Disease",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377788"
+        },
+        "Synonyms": [
+            {
+                "Synonym": "Pili trianguli et canaliculi"
+            }
+        ],
+        "ExternalReferences": [
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "191480",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "617251",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "617252",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            }
+        ],
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "Uncombable hair syndrome (UHS) or pili trianguli et canaliculi is a rare scalp hair shaft dysplasia."
+        },
+        "Genes": [
+            {
+                "Gene": {
+                    "Symbol": "PADI3",
+                    "Name": "peptidyl arginine deiminase 3",
+                    "ExternalReferences": [
+                        {
+                            "Source": "HGNC",
+                            "Reference": "18337"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "606755"
+                        },
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "PADI3"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) (loss of function) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "TGM3",
+                    "Name": "transglutaminase 3",
+                    "ExternalReferences": [
+                        {
+                            "Source": "HGNC",
+                            "Reference": "11779"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "600238"
+                        },
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "TGM3"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) (loss of function) in"
+                }
+            }
+        ],
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "79366",
+                        "Label": "Isolated hair shaft abnormality"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "68348",
+                        "Label": "Scalp disease"
+                    }
+                ]
+            }
+        ],
+        "Phenotypes": [
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001595",
+                    "HPOTerm": "Abnormality of the hair",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002208",
+                    "HPOTerm": "Coarse hair",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002224",
+                    "HPOTerm": "Woolly hair",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002552",
+                    "HPOTerm": "Trichodysplasia",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0011364",
+                    "HPOTerm": "White hair",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002232",
+                    "HPOTerm": "Patchy alopecia",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            }
+        ],
+        "Prevalences": {
+            "Prevalence": [
+                {
+                    "Source": "ORPHANET",
+                    "PrevalenceType": "Point prevalence",
+                    "PrevalenceQualification": "Class only",
+                    "PrevalenceClass": "Unknown",
+                    "ValMoy": "0.0",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            ]
+        },
+        "AverageAgeOfOnsets": {
+            "AverageAgeOfOnset": [
+                {
+                    "value": "Childhood"
+                }
+            ]
+        },
+        "TypeOfInheritances": {
+            "TypeOfInheritance": [
+                {
+                    "value": "Autosomal recessive"
+                }
+            ]
+        }
+    }
+}

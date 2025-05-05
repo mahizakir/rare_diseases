@@ -1,0 +1,83 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "488265",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "488265",
+        "Label": "Osteofibrous dysplasia",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_488265",
+        "DisorderType": {
+            "value": "Disease",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377788"
+        },
+        "Synonyms": [
+            {
+                "Synonym": "OFD"
+            }
+        ],
+        "ExternalReferences": [
+            {
+                "Source": "OMIM",
+                "Reference": "607278",
+                "DisorderMappingRelation": "E (Exact mapping: the two concepts are equivalent)"
+            }
+        ],
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "Osteofibrous dysplasia is a rare genetic primary bone dysplasia characterized by the presence of a benign fibro-osseous osteolytic tumor typically located in the tibia (occasionally the fibula or both) and usually involving the anterior diaphyseal cortex with adjacent cortical expansion. It may on occasion be asymptomatic or may present with a palpable mass pain tenderness and/or anterior bowing of the tibia."
+        },
+        "Genes": [
+            {
+                "Gene": {
+                    "Symbol": "MET",
+                    "Name": "MET proto-oncogene, receptor tyrosine kinase",
+                    "ExternalReferences": [
+                        {
+                            "Source": "HGNC",
+                            "Reference": "7029"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "164860"
+                        },
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "MET"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) (gain of function) in"
+                }
+            }
+        ],
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "93450",
+                        "Label": "Primary bone dysplasia with disorganized development of skeletal components"
+                    }
+                ]
+            }
+        ],
+        "AverageAgeOfOnsets": [
+            {
+                "AverageAgeOfOnset": {
+                    "value": "Childhood"
+                }
+            },
+            {
+                "AverageAgeOfOnset": {
+                    "value": "Infancy"
+                }
+            }
+        ],
+        "TypeOfInheritances": {
+            "TypeOfInheritance": [
+                {
+                    "value": "Autosomal dominant"
+                }
+            ]
+        }
+    }
+}

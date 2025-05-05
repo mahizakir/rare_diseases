@@ -3,7 +3,7 @@ import os
 import sys
 
 # Disease name
-disease_name = "Zimmermann-Laband syndrome"#"Adenine phosphoribosyltransferase deficiency"#"pachydermoperiostosis" #"GNE myopathy"#"Mabry syndrome" #"Bilateral adrenal hemorrhage" #"Nance-Horan syndrome"
+disease_name = "Acral persistent papular mucinosis"#"Bilateral adrenal hemorrhage" #"Nord Descriptions"  #"Zimmermann-Laband syndrome"#"Adenine phosphoribosyltransferase deficiency"#"pachydermoperiostosis" #"GNE myopathy"#"Mabry syndrome" #"Bilateral adrenal hemorrhage" #"Nance-Horan syndrome"
 #"Adenine phosphoribosyltransferase deficiency" #"Acral persistent papular mucinosis" #"Nelson syndrome"
 #"Endocrine-cerebro-osteodysplasia syndrome" #"Zimmermann-Laband syndrome" #"Mabry syndrome" #"Endocrine-cerebro-osteodysplasia syndrome"
 

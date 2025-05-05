@@ -1,0 +1,233 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "356",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "356",
+        "Label": "Gerstmann-Straussler-Scheinker syndrome",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_356",
+        "DisorderType": {
+            "value": "Disease",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377788"
+        },
+        "Synonyms": [
+            {
+                "Synonym": "Subacute spongiform encephalopathy, Gerstmann-Straussler type"
+            }
+        ],
+        "ExternalReferences": [
+            {
+                "Source": "OMIM",
+                "Reference": "137440",
+                "DisorderMappingRelation": "E (Exact mapping: the two concepts are equivalent)"
+            }
+        ],
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "A rare inherited human prion disease characterized by adult onset of slowly progressive cerebellar ataxia with dementia developing relatively late in the disease course (classic ataxic phenotype). Patients may present with gait disturbances and frequent falls dysarthria dysphagia nystagmus dysmetry and eventually pancerebellar syndrome myoclonus spasticity severe dementia and mutism. The disease is invariably fatal after five years on average. Neuropathological hallmark is the presence of numerous multicentric prion protein plaques in the cerebral and cerebellar cortex."
+        },
+        "Genes": [
+            {
+                "Gene": {
+                    "Symbol": "PRNP",
+                    "Name": "prion protein (Kanno blood group)",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "PRNP"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "9449"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "176640"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            }
+        ],
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "280400",
+                        "Label": "Inherited human prion disease"
+                    }
+                ]
+            }
+        ],
+        "Phenotypes": [
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002066",
+                    "HPOTerm": "Gait ataxia",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0007340",
+                    "HPOTerm": "Lower limb muscle weakness",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0012534",
+                    "HPOTerm": "Dysesthesia",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0100543",
+                    "HPOTerm": "Cognitive impairment",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000726",
+                    "HPOTerm": "Dementia",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001260",
+                    "HPOTerm": "Dysarthria",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001268",
+                    "HPOTerm": "Mental deterioration",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001284",
+                    "HPOTerm": "Areflexia",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001315",
+                    "HPOTerm": "Reduced tendon reflexes",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001317",
+                    "HPOTerm": "Abnormal cerebellum morphology",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002062",
+                    "HPOTerm": "Morphological abnormality of the pyramidal tract",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002071",
+                    "HPOTerm": "Abnormality of extrapyramidal motor function",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002360",
+                    "HPOTerm": "Sleep abnormality",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0003401",
+                    "HPOTerm": "Paresthesia",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0011730",
+                    "HPOTerm": "Abnormality of central sensory function",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0031006",
+                    "HPOTerm": "Acroparesthesia",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0410263",
+                    "HPOTerm": "Brain imaging abnormality",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0045084",
+                    "HPOTerm": "Limb myoclonus",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            }
+        ],
+        "Prevalences": [
+            {
+                "Prevalence": {
+                    "Source": "ORPHANET",
+                    "PrevalenceType": "Point prevalence",
+                    "PrevalenceQualification": "Class only",
+                    "PrevalenceClass": "Unknown",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            },
+            {
+                "Prevalence": {
+                    "Source": "16903147[PMID]",
+                    "PrevalenceType": "Annual incidence",
+                    "PrevalenceQualification": "Value and class",
+                    "PrevalenceClass": "<1 / 1 000 000",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            }
+        ],
+        "AverageAgeOfOnsets": {
+            "AverageAgeOfOnset": [
+                {
+                    "value": "Adult"
+                }
+            ]
+        },
+        "TypeOfInheritances": [
+            {
+                "TypeOfInheritance": {
+                    "value": "Autosomal dominant"
+                }
+            },
+            {
+                "TypeOfInheritance": {
+                    "value": "Not applicable"
+                }
+            }
+        ]
+    }
+}

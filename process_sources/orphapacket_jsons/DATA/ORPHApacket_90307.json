@@ -1,0 +1,393 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "90307",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "90307",
+        "Label": "Parkes Weber syndrome",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_90307",
+        "DisorderType": {
+            "value": "Disease",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377788"
+        },
+        "ExternalReferences": [
+            {
+                "Source": "OMIM",
+                "Reference": "608354",
+                "DisorderMappingRelation": "NTBT (ORPHAcode is narrower than the targeted code used to represent it)"
+            }
+        ],
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "A rare congenital complex vascular malformation syndrome characterized by overgrowth of a limb (most commonly a leg) involving bones and soft tissue in association with capillary malformations usually in the form of port-wine stains and multiple arteriovenous fistulas with high-flow arteriovenous shunting. The latter can also lead to other severe complications including abnormal bleeding and heart failure. Lymphatic malformations may also be present."
+        },
+        "Genes": [
+            {
+                "Gene": {
+                    "Symbol": "RASA1",
+                    "Name": "RAS p21 protein activator 1",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "RASA1"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "9871"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "139150"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            }
+        ],
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "2346",
+                        "Label": "Angioosteohypertrophic syndrome"
+                    }
+                ]
+            }
+        ],
+        "Phenotypes": [
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002814",
+                    "HPOTerm": "Abnormality of the lower limb",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0100026",
+                    "HPOTerm": "Arteriovenous malformation",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001722",
+                    "HPOTerm": "High-output congestive heart failure",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002617",
+                    "HPOTerm": "Dilatation",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002619",
+                    "HPOTerm": "Varicose veins",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0004947",
+                    "HPOTerm": "Arteriovenous fistula",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0004948",
+                    "HPOTerm": "Vascular tortuosity",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0007394",
+                    "HPOTerm": "Prominent superficial blood vessels",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0008968",
+                    "HPOTerm": "Muscle hypertrophy of the lower extremities",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0012721",
+                    "HPOTerm": "Venous malformation",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0025104",
+                    "HPOTerm": "Capillary malformation",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0025474",
+                    "HPOTerm": "Erythematous plaque",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0032555",
+                    "HPOTerm": "Bounding pulse",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0100553",
+                    "HPOTerm": "Hemihypertrophy of lower limb",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0100784",
+                    "HPOTerm": "Peripheral arteriovenous fistula",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000016",
+                    "HPOTerm": "Urinary retention",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000079",
+                    "HPOTerm": "Abnormality of the urinary system",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000100",
+                    "HPOTerm": "Nephrotic syndrome",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001892",
+                    "HPOTerm": "Abnormal bleeding",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002138",
+                    "HPOTerm": "Subarachnoid hemorrhage",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002196",
+                    "HPOTerm": "Myelopathy",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002315",
+                    "HPOTerm": "Headache",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002390",
+                    "HPOTerm": "Spinal arteriovenous malformation",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002408",
+                    "HPOTerm": "Cerebral arteriovenous malformation",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002817",
+                    "HPOTerm": "Abnormality of the upper limb",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002936",
+                    "HPOTerm": "Distal sensory impairment",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0003418",
+                    "HPOTerm": "Back pain",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0003474",
+                    "HPOTerm": "Somatic sensory dysfunction",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0005521",
+                    "HPOTerm": "Disseminated intravascular coagulation",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0006489",
+                    "HPOTerm": "Abnormality of the femoral metaphysis",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0007340",
+                    "HPOTerm": "Lower limb muscle weakness",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0010484",
+                    "HPOTerm": "Hypertrophy of the upper limb",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0012514",
+                    "HPOTerm": "Lower limb pain",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0012531",
+                    "HPOTerm": "Pain",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0030833",
+                    "HPOTerm": "Neck pain",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0031138",
+                    "HPOTerm": "Abnormal B-type natriuretic peptide level",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0031939",
+                    "HPOTerm": "Conus terminalis arteriovenous malformation",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0040189",
+                    "HPOTerm": "Scaling skin",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0100749",
+                    "HPOTerm": "Chest pain",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0100766",
+                    "HPOTerm": "Abnormal lymphatic vessel morphology",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0100775",
+                    "HPOTerm": "Dural ectasia",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0200042",
+                    "HPOTerm": "Skin ulcer",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0007461",
+                    "HPOTerm": "Hemangiomatosis",
+                    "HPOFrequency": "Very rare (<4-1%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0010550",
+                    "HPOTerm": "Paraplegia",
+                    "HPOFrequency": "Very rare (<4-1%)"
+                }
+            }
+        ],
+        "AverageAgeOfOnsets": [
+            {
+                "AverageAgeOfOnset": {
+                    "value": "Infancy"
+                }
+            },
+            {
+                "AverageAgeOfOnset": {
+                    "value": "Neonatal"
+                }
+            }
+        ],
+        "TypeOfInheritances": [
+            {
+                "TypeOfInheritance": {
+                    "value": "Autosomal dominant"
+                }
+            },
+            {
+                "TypeOfInheritance": {
+                    "value": "Not applicable"
+                }
+            }
+        ]
+    }
+}

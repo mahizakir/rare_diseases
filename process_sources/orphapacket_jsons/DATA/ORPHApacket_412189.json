@@ -1,0 +1,100 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "412189",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "412189",
+        "Label": "Epidermolysis bullosa simplex due to exophilin 5 deficiency",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_412189",
+        "DisorderType": {
+            "value": "Disease",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377788"
+        },
+        "Synonyms": [
+            {
+                "Synonym": "EBS due to exophilin 5 deficiency"
+            }
+        ],
+        "ExternalReferences": [
+            {
+                "Source": "OMIM",
+                "Reference": "615028",
+                "DisorderMappingRelation": "E (Exact mapping: the two concepts are equivalent)"
+            }
+        ],
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "A rare inherited epidermolysis bullosa simplex characterized by mild generalized trauma-induced scale crusts and intermittent blistering sometimes combined with erosions recovering with slight scarring and post-inflammatory hyperpigmentation. Clinical symptoms improve with age."
+        },
+        "Genes": [
+            {
+                "Gene": {
+                    "Symbol": "EXPH5",
+                    "Name": "exophilin 5",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "EXPH5"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "30578"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "612878"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            }
+        ],
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "595346",
+                        "Label": "Epidermolysis bullosa simplex without extracutaneous involvement"
+                    }
+                ]
+            }
+        ],
+        "Prevalences": [
+            {
+                "Prevalence": {
+                    "Source": "24690439[PMID]_23176819[PMID]",
+                    "PrevalenceType": "Cases/families",
+                    "PrevalenceQualification": "Case(s)",
+                    "PrevalenceClass": "no data",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            },
+            {
+                "Prevalence": {
+                    "Source": "ORPHANET_24690439[PMID]_23176819[PMID]",
+                    "PrevalenceType": "Point prevalence",
+                    "PrevalenceQualification": "Class only",
+                    "PrevalenceClass": "<1 / 1 000 000",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            }
+        ],
+        "AverageAgeOfOnsets": {
+            "AverageAgeOfOnset": [
+                {
+                    "value": "Childhood"
+                }
+            ]
+        },
+        "TypeOfInheritances": {
+            "TypeOfInheritance": [
+                {
+                    "value": "Autosomal recessive"
+                }
+            ]
+        }
+    }
+}

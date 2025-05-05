@@ -1,0 +1,208 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "65684",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "65684",
+        "Label": "Monomelic amyotrophy",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_65684",
+        "DisorderType": {
+            "value": "Disease",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377788"
+        },
+        "Synonyms": [
+            {
+                "Synonym": "Benign focal amyotrophy"
+            },
+            {
+                "Synonym": "Hirayama disease"
+            },
+            {
+                "Synonym": "JMADUE"
+            },
+            {
+                "Synonym": "Juvenile muscular atrophy of distal upper extremity"
+            },
+            {
+                "Synonym": "Juvenile muscular atrophy of the distal upper limb"
+            }
+        ],
+        "ExternalReferences": [
+            {
+                "Source": "OMIM",
+                "Reference": "602440",
+                "DisorderMappingRelation": "E (Exact mapping: the two concepts are equivalent)"
+            }
+        ],
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "Monomelic amyotrophy (MA) is a rare benign lower motor neuron disorder characterized by muscular weakness and wasting in the distal upper extremities during adolescence followed by a spontaneous halt in progression and a stabilization of symptoms."
+        },
+        "Genes": [
+            {
+                "Gene": {
+                    "Symbol": "CPLANE1",
+                    "Name": "ciliogenesis and planar polarity effector complex subunit 1",
+                    "ExternalReferences": [
+                        {
+                            "Source": "HGNC",
+                            "Reference": "25801"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "614571"
+                        },
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "C5orf42"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Major susceptibility factor in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "CEP126",
+                    "Name": "centrosomal protein 126",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "KIAA1377"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "29264"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "614634"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Major susceptibility factor in"
+                }
+            }
+        ],
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "98506",
+                        "Label": "Acquired motor neuron disease"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "231957",
+                        "Label": "Disease associated with a genetic susceptibility or tested for a biomarker"
+                    }
+                ]
+            }
+        ],
+        "Phenotypes": [
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001324",
+                    "HPOTerm": "Muscle weakness",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001337",
+                    "HPOTerm": "Tremor",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002380",
+                    "HPOTerm": "Fasciculations",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002398",
+                    "HPOTerm": "Degeneration of anterior horn cells",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002715",
+                    "HPOTerm": "Abnormality of the immune system",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002817",
+                    "HPOTerm": "Abnormality of the upper limb",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0003134",
+                    "HPOTerm": "Abnormality of peripheral nerve conduction",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0003457",
+                    "HPOTerm": "EMG abnormality",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0007149",
+                    "HPOTerm": "Distal upper limb amyotrophy",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0100022",
+                    "HPOTerm": "Abnormality of movement",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            }
+        ],
+        "Prevalences": {
+            "Prevalence": [
+                {
+                    "Source": "ORPHANET",
+                    "PrevalenceType": "Point prevalence",
+                    "PrevalenceQualification": "Class only",
+                    "PrevalenceClass": "Unknown",
+                    "ValMoy": "0.0",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            ]
+        },
+        "AverageAgeOfOnsets": [
+            {
+                "AverageAgeOfOnset": {
+                    "value": "Adolescent"
+                }
+            },
+            {
+                "AverageAgeOfOnset": {
+                    "value": "Adult"
+                }
+            }
+        ],
+        "TypeOfInheritances": {
+            "TypeOfInheritance": [
+                {
+                    "value": "Unknown"
+                }
+            ]
+        }
+    }
+}

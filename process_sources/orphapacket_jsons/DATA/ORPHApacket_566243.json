@@ -1,0 +1,284 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "566243",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "566243",
+        "Label": "Resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_566243",
+        "DisorderType": {
+            "value": "Disease",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377788"
+        },
+        "Synonyms": [
+            {
+                "Synonym": "RTHb"
+            },
+            {
+                "Synonym": "Resistance to thyroid hormone beta"
+            },
+            {
+                "Synonym": "Resistance to thyroid hormone due to a mutation in TRb"
+            }
+        ],
+        "ExternalReferences": [
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "145650",
+                    "DisorderMappingRelation": "E (Exact mapping: the two concepts are equivalent)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "188570",
+                    "DisorderMappingRelation": "NTBT (ORPHAcode is narrower than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "274300",
+                    "DisorderMappingRelation": "NTBT (ORPHAcode is narrower than the targeted code used to represent it)"
+                }
+            }
+        ],
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "A rare genetic hyperthyroidism characterized by elevated levels of circulating free thyroid hormones normal or elevated thyroid-stimulating hormone decreased peripheral tissue responses to iodothyronine action and a highly variable clinical phenotype which most commonly includes goiter resting tachycardia osteoporosis short stature and attention deficit disorder. Some patients may be entirely asymptomatic."
+        },
+        "Genes": [
+            {
+                "Gene": {
+                    "Symbol": "THRB",
+                    "Name": "thyroid hormone receptor beta",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "THRB"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "11799"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "190160"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            }
+        ],
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "596426",
+                        "Label": "Syndrome of reduced sensitivity to thyroid hormone"
+                    }
+                ]
+            }
+        ],
+        "Phenotypes": [
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000853",
+                    "HPOTerm": "Goiter",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001649",
+                    "HPOTerm": "Tachycardia",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0033075",
+                    "HPOTerm": "Inappropriately normal thyroid-stimulating hormone level",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0033077",
+                    "HPOTerm": "Increased circulating free T4 concentration",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000403",
+                    "HPOTerm": "Recurrent otitis media",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000739",
+                    "HPOTerm": "Anxiety",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000752",
+                    "HPOTerm": "Hyperactivity",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001328",
+                    "HPOTerm": "Specific learning disability",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002750",
+                    "HPOTerm": "Delayed skeletal maturation",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0007018",
+                    "HPOTerm": "Attention deficit hyperactivity disorder",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0011788",
+                    "HPOTerm": "Increased circulating free T3",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0025379",
+                    "HPOTerm": "Anti-thyroid peroxidase antibody positivity",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0032069",
+                    "HPOTerm": "Anti-thyroglobulin antibody positivity",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0034288",
+                    "HPOTerm": "Elevated circulating reverse T3 concentration",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000407",
+                    "HPOTerm": "Sensorineural hearing impairment",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001530",
+                    "HPOTerm": "Mild postnatal growth retardation",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001962",
+                    "HPOTerm": "Palpitations",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0012758",
+                    "HPOTerm": "Neurodevelopmental delay",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0025484",
+                    "HPOTerm": "Increased circulating thyroglobulin concentration",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0031098",
+                    "HPOTerm": "Decreased thyroid-stimulating hormone level",
+                    "HPOFrequency": "Excluded (0%)"
+                }
+            }
+        ],
+        "Prevalences": [
+            {
+                "Prevalence": {
+                    "Source": "ORPHANET",
+                    "PrevalenceType": "Point prevalence",
+                    "PrevalenceQualification": "Class only",
+                    "PrevalenceClass": "Unknown",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "United States"
+                }
+            },
+            {
+                "Prevalence": {
+                    "Source": "ORPHANET",
+                    "PrevalenceType": "Point prevalence",
+                    "PrevalenceQualification": "Class only",
+                    "PrevalenceClass": "Unknown",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Japan"
+                }
+            },
+            {
+                "Prevalence": {
+                    "Source": "14517508[PMID]_31149222[PMID]",
+                    "PrevalenceType": "Prevalence at birth",
+                    "PrevalenceQualification": "Value and class",
+                    "PrevalenceClass": "1-9 / 100 000",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "United States"
+                }
+            },
+            {
+                "Prevalence": {
+                    "Source": "ORPHANET_19542904[PMID]_31149222[PMID]",
+                    "PrevalenceType": "Prevalence at birth",
+                    "PrevalenceQualification": "Value and class",
+                    "PrevalenceClass": "1-9 / 100 000",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Japan"
+                }
+            }
+        ],
+        "AverageAgeOfOnsets": {
+            "AverageAgeOfOnset": [
+                {
+                    "value": "All ages"
+                }
+            ]
+        },
+        "TypeOfInheritances": {
+            "TypeOfInheritance": [
+                {
+                    "value": "Autosomal recessive"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,441 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "98784",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "98784",
+        "Label": "Autosomal dominant nocturnal frontal lobe epilepsy",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_98784",
+        "DisorderType": {
+            "value": "Disease",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377788"
+        },
+        "Synonyms": [
+            {
+                "Synonym": "ADNFLE"
+            },
+            {
+                "Synonym": "Autosomal dominant sleep-related hypermotor epilepsy"
+            }
+        ],
+        "ExternalReferences": [
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "600513",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "603204",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "605375",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "610353",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "615005",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            }
+        ],
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "A rare seizure disorder characterized by intermittent dystonia and/or choreoathetoid movements that occur during sleep. The clusters of nocturnal motor seizures are often stereotyped and brief."
+        },
+        "Genes": [
+            {
+                "Gene": {
+                    "Symbol": "CHRNA4",
+                    "Name": "cholinergic receptor nicotinic alpha 4 subunit",
+                    "ExternalReferences": [
+                        {
+                            "Source": "HGNC",
+                            "Reference": "1958"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "118504"
+                        },
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "CHRNA4"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "CHRNA2",
+                    "Name": "cholinergic receptor nicotinic alpha 2 subunit",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "CHRNA2"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "1956"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "118502"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "CHRNB2",
+                    "Name": "cholinergic receptor nicotinic beta 2 subunit",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "CHRNB2"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "1962"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "118507"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "KCNT1",
+                    "Name": "potassium sodium-activated channel subfamily T member 1",
+                    "ExternalReferences": [
+                        {
+                            "Source": "HGNC",
+                            "Reference": "18865"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "608167"
+                        },
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "KCNT1"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "DEPDC5",
+                    "Name": "DEP domain containing 5, GATOR1 subcomplex subunit",
+                    "ExternalReferences": [
+                        {
+                            "Source": "HGNC",
+                            "Reference": "18423"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "614191"
+                        },
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "DEPDC5"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) (loss of function) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "CRH",
+                    "Name": "corticotropin releasing hormone",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "CRH"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "2355"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "122560"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "CABP4",
+                    "Name": "calcium binding protein 4",
+                    "ExternalReferences": [
+                        {
+                            "Source": "HGNC",
+                            "Reference": "1386"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "608965"
+                        },
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "CABP4"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            }
+        ],
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "309",
+                        "Label": "Familial partial epilepsy"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "98746",
+                        "Label": "Neurological channelopathy of the central nervous system due to a genetic potassium channel defect"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "98748",
+                        "Label": "Neurological channelopathy of the central nervous system due to a genetic acetylcholine receptor defect"
+                    }
+                ]
+            }
+        ],
+        "Phenotypes": [
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0031951",
+                    "HPOTerm": "Nocturnal seizures",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000733",
+                    "HPOTerm": "Abnormal repetitive mannerisms",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002268",
+                    "HPOTerm": "Paroxysmal dystonia",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0004305",
+                    "HPOTerm": "Involuntary movements",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000020",
+                    "HPOTerm": "Urinary incontinence",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000716",
+                    "HPOTerm": "Depression",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000739",
+                    "HPOTerm": "Anxiety",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002883",
+                    "HPOTerm": "Hyperventilation",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0011174",
+                    "HPOTerm": "Hyperkinetic seizures",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0011182",
+                    "HPOTerm": "Interictal epileptiform activity",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0011193",
+                    "HPOTerm": "EEG with focal spikes",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0025236",
+                    "HPOTerm": "Somnambulism",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0025237",
+                    "HPOTerm": "Confusional arousal",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0031535",
+                    "HPOTerm": "Increased theta frequency activity in EEG",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0031589",
+                    "HPOTerm": "Suicidal ideation",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0100543",
+                    "HPOTerm": "Cognitive impairment",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000708",
+                    "HPOTerm": "Atypical behavior",
+                    "HPOFrequency": "Very rare (<4-1%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001256",
+                    "HPOTerm": "Intellectual disability, mild",
+                    "HPOFrequency": "Very rare (<4-1%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001345",
+                    "HPOTerm": "Psychotic mentation",
+                    "HPOFrequency": "Very rare (<4-1%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002069",
+                    "HPOTerm": "Bilateral tonic-clonic seizure",
+                    "HPOFrequency": "Very rare (<4-1%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0007018",
+                    "HPOTerm": "Attention deficit hyperactivity disorder",
+                    "HPOFrequency": "Very rare (<4-1%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0025235",
+                    "HPOTerm": "Non-rapid eye movement parasomnia",
+                    "HPOFrequency": "Very rare (<4-1%)"
+                }
+            }
+        ],
+        "Prevalences": [
+            {
+                "Prevalence": {
+                    "Source": "20301348[PMID]",
+                    "PrevalenceType": "Cases/families",
+                    "PrevalenceQualification": "Family(ies)",
+                    "PrevalenceClass": "no data",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            },
+            {
+                "Prevalence": {
+                    "Source": "ORPHANET",
+                    "PrevalenceType": "Point prevalence",
+                    "PrevalenceQualification": "Class only",
+                    "PrevalenceClass": "Unknown",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Europe"
+                }
+            }
+        ],
+        "AverageAgeOfOnsets": [
+            {
+                "AverageAgeOfOnset": {
+                    "value": "Adolescent"
+                }
+            },
+            {
+                "AverageAgeOfOnset": {
+                    "value": "Adult"
+                }
+            },
+            {
+                "AverageAgeOfOnset": {
+                    "value": "Childhood"
+                }
+            }
+        ],
+        "TypeOfInheritances": {
+            "TypeOfInheritance": [
+                {
+                    "value": "Autosomal dominant"
+                }
+            ]
+        }
+    }
+}

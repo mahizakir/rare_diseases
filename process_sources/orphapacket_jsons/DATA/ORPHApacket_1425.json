@@ -1,0 +1,376 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "1425",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "1425",
+        "Label": "Desbuquois syndrome",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_1425",
+        "DisorderType": {
+            "value": "Malformation syndrome",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377789"
+        },
+        "Synonyms": [
+            {
+                "Synonym": "DBQD"
+            },
+            {
+                "Synonym": "Desbuquois dysplasia"
+            }
+        ],
+        "ExternalReferences": [
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "251450",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "615777",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            }
+        ],
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "Desbuquois syndrome (DBQD) is an osteochondrodysplasia characterized by severe micromelic dwarfism facial dysmorphism joint laxity with multiple dislocations vertebral and metaphyseal abnormalities and advanced carpotarsal ossification. Two forms have been distinguished on the basis of the presence (type 1) or the absence (type 2) of characteristic hand anomalies. A variant form of DBQD Kim variant (see these terms) has also been described and is characterized by short stature and articular minor facial and significant hand anomalies."
+        },
+        "Genes": [
+            {
+                "Gene": {
+                    "Symbol": "CSGALNACT1",
+                    "Name": "chondroitin sulfate N-acetylgalactosaminyltransferase 1",
+                    "ExternalReferences": [
+                        {
+                            "Source": "OMIM",
+                            "Reference": "616615"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "24290"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "CANT1",
+                    "Name": "calcium activated nucleotidase 1",
+                    "ExternalReferences": [
+                        {
+                            "Source": "HGNC",
+                            "Reference": "19721"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "613165"
+                        },
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "CANT1"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) (loss of function) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "XYLT1",
+                    "Name": "xylosyltransferase 1",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "XYLT1"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "15516"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "608124"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) (loss of function) in"
+                }
+            }
+        ],
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "98638",
+                        "Label": "Rare disease with glaucoma as a major feature"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "93441",
+                        "Label": "Primary bone dysplasia with multiple joint dislocations"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "139030",
+                        "Label": "Rare developmental defect with connective tissue involvement"
+                    }
+                ]
+            }
+        ],
+        "Phenotypes": [
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000463",
+                    "HPOTerm": "Anteverted nares",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000470",
+                    "HPOTerm": "Short neck",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000501",
+                    "HPOTerm": "Glaucoma",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000520",
+                    "HPOTerm": "Proptosis",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000944",
+                    "HPOTerm": "Abnormal metaphysis morphology",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001249",
+                    "HPOTerm": "Intellectual disability",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001591",
+                    "HPOTerm": "Bell-shaped thorax",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002999",
+                    "HPOTerm": "Patellar dislocation",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0003366",
+                    "HPOTerm": "Abnormality of the femoral neck or head region",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0003510",
+                    "HPOTerm": "Severe short stature",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0005280",
+                    "HPOTerm": "Depressed nasal bridge",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0005616",
+                    "HPOTerm": "Accelerated skeletal maturation",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0005692",
+                    "HPOTerm": "Joint hyperflexibility",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0008873",
+                    "HPOTerm": "Disproportionate short-limb short stature",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0010318",
+                    "HPOTerm": "Aplasia/Hypoplasia of the abdominal wall musculature",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0100490",
+                    "HPOTerm": "Camptodactyly of finger",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000368",
+                    "HPOTerm": "Low-set, posteriorly rotated ears",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000499",
+                    "HPOTerm": "Abnormal eyelash morphology",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000592",
+                    "HPOTerm": "Blue sclerae",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001629",
+                    "HPOTerm": "Ventricular septal defect",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002650",
+                    "HPOTerm": "Scoliosis",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002673",
+                    "HPOTerm": "Coxa valga",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002812",
+                    "HPOTerm": "Coxa vara",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002816",
+                    "HPOTerm": "Genu recurvatum",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002974",
+                    "HPOTerm": "Radioulnar synostosis",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0003042",
+                    "HPOTerm": "Elbow dislocation",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0004209",
+                    "HPOTerm": "Clinodactyly of the 5th finger",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0008070",
+                    "HPOTerm": "Sparse hair",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0200055",
+                    "HPOTerm": "Small hand",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            }
+        ],
+        "Prevalences": [
+            {
+                "Prevalence": {
+                    "Source": "16642505[PMID]_[EXPERT]",
+                    "PrevalenceType": "Cases/families",
+                    "PrevalenceQualification": "Case(s)",
+                    "PrevalenceClass": "no data",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            },
+            {
+                "Prevalence": {
+                    "Source": "ORPHANET",
+                    "PrevalenceType": "Point prevalence",
+                    "PrevalenceQualification": "Class only",
+                    "PrevalenceClass": "<1 / 1 000 000",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            }
+        ],
+        "AverageAgeOfOnsets": [
+            {
+                "AverageAgeOfOnset": {
+                    "value": "Antenatal"
+                }
+            },
+            {
+                "AverageAgeOfOnset": {
+                    "value": "Neonatal"
+                }
+            }
+        ],
+        "TypeOfInheritances": {
+            "TypeOfInheritance": [
+                {
+                    "value": "Autosomal recessive"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "86797",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "86797",
+        "Label": "Atypical lichen myxedematosus",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_86797",
+        "DisorderType": {
+            "value": "Disease",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377788"
+        },
+        "Synonyms": [
+            {
+                "Synonym": "Intermediate lichen myxedematosus"
+            }
+        ],
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "An intermediate form of lichen myxedematosus (LM) (a form of mucin dermal deposit) which does not meet the criteria for either scleromyxedema or the localized form. Three clinical subtypes have been described and include scleromyxedema without monoclonal gammopathy; localized forms with monoclonal gammopathy and/or systemic symptoms; localized forms with mixed features of the 5 subtypes of localized LM (discrete form acral persistent papular mucinosis self-healing papular mucinosis papular mucinosis of infancy and a pure nodular form). The course of atypical LM is unpredictable because only a few cases have been reported."
+        },
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "402007",
+                        "Label": "Lichen myxedematosus"
+                    }
+                ]
+            }
+        ],
+        "Childs": [],
+        "Prevalences": [
+            {
+                "Prevalence": {
+                    "Source": "[EXPERT]",
+                    "PrevalenceType": "Cases/families",
+                    "PrevalenceQualification": "Case(s)",
+                    "PrevalenceClass": "no data",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            },
+            {
+                "Prevalence": {
+                    "Source": "ORPHANET",
+                    "PrevalenceType": "Point prevalence",
+                    "PrevalenceQualification": "Class only",
+                    "PrevalenceClass": "<1 / 1 000 000",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            }
+        ],
+        "AverageAgeOfOnsets": [
+            {
+                "AverageAgeOfOnset": {
+                    "value": "Adolescent"
+                }
+            },
+            {
+                "AverageAgeOfOnset": {
+                    "value": "Adult"
+                }
+            },
+            {
+                "AverageAgeOfOnset": {
+                    "value": "Elderly"
+                }
+            }
+        ]
+    }
+}

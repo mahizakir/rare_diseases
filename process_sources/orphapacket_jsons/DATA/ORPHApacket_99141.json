@@ -1,0 +1,119 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "99141",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "99141",
+        "Label": "Lymphedema-posterior choanal atresia syndrome",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_99141",
+        "DisorderType": {
+            "value": "Malformation syndrome",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377789"
+        },
+        "ExternalReferences": [
+            {
+                "Source": "OMIM",
+                "Reference": "613611",
+                "DisorderMappingRelation": "E (Exact mapping: the two concepts are equivalent)"
+            }
+        ],
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "A rare genetic disease characterized by choanal atresia and early onset of lymphedema of the lower extremities. Additional reported features include facial dysmorphism (hypertelorism broad forehead smooth philtrum unilateral low-set ear and high-arched palate) hypoplastic nipples and pectus excavatum."
+        },
+        "Genes": [
+            {
+                "Gene": {
+                    "Symbol": "PTPN14",
+                    "Name": "protein tyrosine phosphatase non-receptor type 14",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "PTPN14"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "9647"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "603155"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) (loss of function) in"
+                }
+            }
+        ],
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "2415",
+                        "Label": "Rare lymphatic malformation"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "289825",
+                        "Label": "Late-onset primary lymphedema without systemic or visceral involvement"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "156246",
+                        "Label": "Nose and cavum anomaly"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "435606",
+                        "Label": "Genetic nose and cavum anomaly"
+                    }
+                ]
+            }
+        ],
+        "Prevalences": [
+            {
+                "Prevalence": {
+                    "Source": "20826270[PMID] _DOI:10.1016/j.mgene.2017.07.006[OTHER]",
+                    "PrevalenceType": "Cases/families",
+                    "PrevalenceQualification": "Case(s)",
+                    "PrevalenceClass": "no data",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            },
+            {
+                "Prevalence": {
+                    "Source": "ORPHANET_20826270[PMID]",
+                    "PrevalenceType": "Point prevalence",
+                    "PrevalenceQualification": "Class only",
+                    "PrevalenceClass": "<1 / 1 000 000",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            }
+        ],
+        "AverageAgeOfOnsets": {
+            "AverageAgeOfOnset": [
+                {
+                    "value": "Neonatal"
+                }
+            ]
+        },
+        "TypeOfInheritances": {
+            "TypeOfInheritance": [
+                {
+                    "value": "Autosomal recessive"
+                }
+            ]
+        }
+    }
+}

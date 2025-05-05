@@ -1,0 +1,120 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "445110",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "445110",
+        "Label": "Limb-girdle muscular dystrophy due to POMK deficiency",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_445110",
+        "DisorderType": {
+            "value": "Disease",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377788"
+        },
+        "Synonyms": [
+            {
+                "Synonym": "LGMD due to POMK deficiency"
+            }
+        ],
+        "ExternalReferences": [
+            {
+                "Source": "OMIM",
+                "Reference": "616094",
+                "DisorderMappingRelation": "E (Exact mapping: the two concepts are equivalent)"
+            }
+        ],
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "Limb-girdle muscular dystrophy due to POMK deficiency is a form of limb-girdle muscular dystrophy presenting in infancy with muscle weakness and delayed motor development (eventually learning to walk at 18 months of age) followed by progressive proximal weakness pseudohypertrophy of calf muscles mild facial weakness and borderline intelligence."
+        },
+        "Genes": [
+            {
+                "Gene": {
+                    "Symbol": "POMK",
+                    "Name": "protein O-mannose kinase",
+                    "ExternalReferences": [
+                        {
+                            "Source": "HGNC",
+                            "Reference": "26267"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "615247"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) (loss of function) in"
+                }
+            }
+        ],
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "207113",
+                        "Label": "Qualitative or quantitative defects of protein involved in O-glycosylation of alpha-dystroglycan"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "68385",
+                        "Label": "Neurometabolic disease"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "309469",
+                        "Label": "Disorder of O-mannosylglycan synthesis"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "102015",
+                        "Label": "Autosomal recessive limb-girdle muscular dystrophy"
+                    }
+                ]
+            }
+        ],
+        "Prevalences": [
+            {
+                "Prevalence": {
+                    "Source": "24925318[PMID]",
+                    "PrevalenceType": "Cases/families",
+                    "PrevalenceQualification": "Case(s)",
+                    "PrevalenceClass": "no data",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            },
+            {
+                "Prevalence": {
+                    "Source": "ORPHANET_24925318[PMID]",
+                    "PrevalenceType": "Point prevalence",
+                    "PrevalenceQualification": "Class only",
+                    "PrevalenceClass": "<1 / 1 000 000",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            }
+        ],
+        "AverageAgeOfOnsets": {
+            "AverageAgeOfOnset": [
+                {
+                    "value": "Infancy"
+                }
+            ]
+        },
+        "TypeOfInheritances": {
+            "TypeOfInheritance": [
+                {
+                    "value": "Autosomal recessive"
+                }
+            ]
+        }
+    }
+}

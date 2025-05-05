@@ -1,0 +1,130 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "3148",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "3148",
+        "Label": "Malignant peripheral nerve sheath tumor",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_3148",
+        "DisorderType": {
+            "value": "Disease",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377788"
+        },
+        "Synonyms": [
+            {
+                "Synonym": "MPNST"
+            },
+            {
+                "Synonym": "Malignant neurilemmoma"
+            },
+            {
+                "Synonym": "Malignant neurofibroma"
+            },
+            {
+                "Synonym": "Malignant schwannoma"
+            },
+            {
+                "Synonym": "Neurofibrosarcoma"
+            },
+            {
+                "Synonym": "Neurogenic sarcoma"
+            }
+        ],
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "Malignant peripheral nerve sheath tumor (MPNST) is a rare and often aggressive soft tissue sarcoma occurring in a wide range of anatomical sites."
+        },
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "3394",
+                        "Label": "Soft tissue sarcoma"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "252057",
+                        "Label": "Tumor of cranial and spinal nerves"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "602681",
+                        "Label": "Pediatric soft tissue sarcoma"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "602693",
+                        "Label": "Pediatric nervous system cancer"
+                    }
+                ]
+            }
+        ],
+        "Childs": [],
+        "Prevalences": [
+            {
+                "Prevalence": {
+                    "Source": "24470531[PMID]",
+                    "PrevalenceType": "Annual incidence",
+                    "PrevalenceQualification": "Value and class",
+                    "PrevalenceClass": "1-9 / 100 000",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            },
+            {
+                "Prevalence": {
+                    "Source": "ORPHANET_24470531[PMID]",
+                    "PrevalenceType": "Point prevalence",
+                    "PrevalenceQualification": "Class only",
+                    "PrevalenceClass": "Unknown",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            }
+        ],
+        "AverageAgeOfOnsets": [
+            {
+                "AverageAgeOfOnset": {
+                    "value": "Adolescent"
+                }
+            },
+            {
+                "AverageAgeOfOnset": {
+                    "value": "Adult"
+                }
+            },
+            {
+                "AverageAgeOfOnset": {
+                    "value": "Childhood"
+                }
+            },
+            {
+                "AverageAgeOfOnset": {
+                    "value": "Elderly"
+                }
+            },
+            {
+                "AverageAgeOfOnset": {
+                    "value": "Infancy"
+                }
+            }
+        ],
+        "TypeOfInheritances": {
+            "TypeOfInheritance": [
+                {
+                    "value": "Not applicable"
+                }
+            ]
+        }
+    }
+}

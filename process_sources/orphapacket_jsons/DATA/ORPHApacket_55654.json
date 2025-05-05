@@ -1,0 +1,356 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "55654",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "55654",
+        "Label": "Hypotrichosis simplex",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_55654",
+        "DisorderType": {
+            "value": "Disease",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377788"
+        },
+        "Synonyms": [
+            {
+                "Synonym": "Hereditary hypotrichosis simplex"
+            }
+        ],
+        "ExternalReferences": [
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "620177",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "618275",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "615059",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "615885",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "278150",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "604379",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "605389",
+                    "DisorderMappingRelation": "E (Exact mapping: the two concepts are equivalent)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "607903",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "614237",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "614238",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            }
+        ],
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "Hypotrichosis simplex (HS) or hereditary hypotrichosis simplex (HHS) is characterized by reduced pilosity over the scalp and body (with sparse thin and short hair) in the absence of other anomalies."
+        },
+        "Genes": [
+            {
+                "Gene": {
+                    "Symbol": "LSS",
+                    "Name": "lanosterol synthase",
+                    "ExternalReferences": [
+                        {
+                            "Source": "HGNC",
+                            "Reference": "6708"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "600909"
+                        },
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "LSS"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "LIPH",
+                    "Name": "lipase H",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "LIPH"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "18483"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "607365"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "APCDD1",
+                    "Name": "APC down-regulated 1",
+                    "ExternalReferences": [
+                        {
+                            "Source": "HGNC",
+                            "Reference": "15718"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "607479"
+                        },
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "APCDD1"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "RPL21",
+                    "Name": "ribosomal protein L21",
+                    "ExternalReferences": [
+                        {
+                            "Source": "HGNC",
+                            "Reference": "10313"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "603636"
+                        },
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "RPL21"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "SNRPE",
+                    "Name": "small nuclear ribonucleoprotein polypeptide E",
+                    "ExternalReferences": [
+                        {
+                            "Source": "HGNC",
+                            "Reference": "11161"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "128260"
+                        },
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "SNRPE"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "LPAR6",
+                    "Name": "lysophosphatidic acid receptor 6",
+                    "ExternalReferences": [
+                        {
+                            "Source": "HGNC",
+                            "Reference": "15520"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "609239"
+                        },
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "P2RY5"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "DSG4",
+                    "Name": "desmoglein 4",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "DSG4"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "21307"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "607892"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            }
+        ],
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "79364",
+                        "Label": "Alopecia"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "68348",
+                        "Label": "Scalp disease"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "481771",
+                        "Label": "Genetic alopecia"
+                    }
+                ]
+            }
+        ],
+        "Phenotypes": [
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000653",
+                    "HPOTerm": "Sparse eyelashes",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001596",
+                    "HPOTerm": "Alopecia",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002209",
+                    "HPOTerm": "Sparse scalp hair",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002231",
+                    "HPOTerm": "Sparse body hair",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0045075",
+                    "HPOTerm": "Sparse eyebrow",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0008070",
+                    "HPOTerm": "Sparse hair",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            }
+        ],
+        "Prevalences": [
+            {
+                "Prevalence": {
+                    "Source": "ORPHANET",
+                    "PrevalenceType": "Cases/families",
+                    "PrevalenceQualification": "Case(s)",
+                    "PrevalenceClass": "no data",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            },
+            {
+                "Prevalence": {
+                    "Source": "ORPHANET",
+                    "PrevalenceType": "Point prevalence",
+                    "PrevalenceQualification": "Class only",
+                    "PrevalenceClass": "<1 / 1 000 000",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            }
+        ],
+        "AverageAgeOfOnsets": {
+            "AverageAgeOfOnset": [
+                {
+                    "value": "Childhood"
+                }
+            ]
+        },
+        "TypeOfInheritances": [
+            {
+                "TypeOfInheritance": {
+                    "value": "Autosomal dominant"
+                }
+            },
+            {
+                "TypeOfInheritance": {
+                    "value": "Autosomal recessive"
+                }
+            }
+        ]
+    }
+}

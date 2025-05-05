@@ -1,0 +1,100 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "75391",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "75391",
+        "Label": "Primary immunodeficiency with natural-killer cell deficiency and adrenal insufficiency",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_75391",
+        "DisorderType": {
+            "value": "Disease",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377788"
+        },
+        "Synonyms": [
+            {
+                "Synonym": "Primary immunodeficiency due to MCM4 deficiency"
+            }
+        ],
+        "ExternalReferences": [
+            {
+                "Source": "OMIM",
+                "Reference": "609981",
+                "DisorderMappingRelation": "E (Exact mapping: the two concepts are equivalent)"
+            }
+        ],
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "A rare DNA repair defect other than combined T-cell and B-cell immunodeficiencies characterized by intrauterine and postnatal growth retardation resulting in short stature microcephaly glucocorticoid deficiency natural killer cell deficiency and recurrent viral infections. Patients may also have increased susceptibility to cancer."
+        },
+        "Genes": [
+            {
+                "Gene": {
+                    "Symbol": "MCM4",
+                    "Name": "minichromosome maintenance complex component 4",
+                    "ExternalReferences": [
+                        {
+                            "Source": "HGNC",
+                            "Reference": "6947"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "602638"
+                        },
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "MCM4"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            }
+        ],
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "169346",
+                        "Label": "DNA repair defect other than combined T-cell and B-cell immunodeficiencies"
+                    }
+                ]
+            }
+        ],
+        "Prevalences": [
+            {
+                "Prevalence": {
+                    "Source": "22354167[PMID]",
+                    "PrevalenceType": "Cases/families",
+                    "PrevalenceQualification": "Case(s)",
+                    "PrevalenceClass": "no data",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            },
+            {
+                "Prevalence": {
+                    "Source": "ORPHANET_22354167[PMID]",
+                    "PrevalenceType": "Point prevalence",
+                    "PrevalenceQualification": "Class only",
+                    "PrevalenceClass": "<1 / 1 000 000",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            }
+        ],
+        "AverageAgeOfOnsets": {
+            "AverageAgeOfOnset": [
+                {
+                    "value": "Childhood"
+                }
+            ]
+        },
+        "TypeOfInheritances": {
+            "TypeOfInheritance": [
+                {
+                    "value": "Autosomal recessive"
+                }
+            ]
+        }
+    }
+}

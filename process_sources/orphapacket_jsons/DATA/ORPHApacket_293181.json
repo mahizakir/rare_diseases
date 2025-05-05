@@ -1,0 +1,546 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "293181",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "293181",
+        "Label": "Epilepsy of infancy with migrating focal seizures",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_293181",
+        "DisorderType": {
+            "value": "Disease",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377788"
+        },
+        "Synonyms": [
+            {
+                "Synonym": "EIMFS"
+            },
+            {
+                "Synonym": "Epilepsy with migrating focal seizure in infancy"
+            },
+            {
+                "Synonym": "MMPEI"
+            },
+            {
+                "Synonym": "MMPSI"
+            },
+            {
+                "Synonym": "MPEI"
+            },
+            {
+                "Synonym": "MPSI"
+            },
+            {
+                "Synonym": "Malignant migrating partial epilepsy of infancy"
+            },
+            {
+                "Synonym": "Malignant migrating partial seizures of infancy"
+            },
+            {
+                "Synonym": "Migrating partial epilepsy of infancy"
+            },
+            {
+                "Synonym": "Migrating partial seizures of infancy"
+            }
+        ],
+        "ExternalReferences": [
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "613722",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "614959",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "615338",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "616645",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            }
+        ],
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "A rare epileptic and developmental encephalopathy characterized by seizure onset during the first months of life focal seizures arising independently in both hemispheres marked drug resistance and severe long-term cognitive disability."
+        },
+        "Genes": [
+            {
+                "Gene": {
+                    "Symbol": "SCN2A",
+                    "Name": "sodium voltage-gated channel alpha subunit 2",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "SCN2A"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "10588"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "182390"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "KCNQ2",
+                    "Name": "potassium voltage-gated channel subfamily Q member 2",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "KCNQ2"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "6296"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "602235"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "PIGA",
+                    "Name": "phosphatidylinositol glycan anchor biosynthesis class A",
+                    "ExternalReferences": [
+                        {
+                            "Source": "HGNC",
+                            "Reference": "8957"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "311770"
+                        },
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "PIGA"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "SCN1A",
+                    "Name": "sodium voltage-gated channel alpha subunit 1",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "SCN1A"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "10585"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "182389"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "SLC25A22",
+                    "Name": "solute carrier family 25 member 22",
+                    "ExternalReferences": [
+                        {
+                            "Source": "HGNC",
+                            "Reference": "19954"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "609302"
+                        },
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "SLC25A22"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "TBC1D24",
+                    "Name": "TBC1 domain family member 24",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "TBC1D24"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "29203"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "613577"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) (loss of function) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "PLCB1",
+                    "Name": "phospholipase C beta 1",
+                    "ExternalReferences": [
+                        {
+                            "Source": "HGNC",
+                            "Reference": "15917"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "607120"
+                        },
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "PLCB1"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "KCNT1",
+                    "Name": "potassium sodium-activated channel subfamily T member 1",
+                    "ExternalReferences": [
+                        {
+                            "Source": "HGNC",
+                            "Reference": "18865"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "608167"
+                        },
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "KCNT1"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) (gain of function) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "SLC12A5",
+                    "Name": "solute carrier family 12 member 5",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "SLC12A5"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "13818"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "606726"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) (loss of function) in"
+                }
+            }
+        ],
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "98744",
+                        "Label": "Neurological channelopathy of the central nervous system due to a genetic sodium channel defect"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "98257",
+                        "Label": "Neonatal epilepsy syndrome"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "182083",
+                        "Label": "Channelopathy with epilepsy"
+                    }
+                ]
+            }
+        ],
+        "Phenotypes": [
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002376",
+                    "HPOTerm": "Developmental regression",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002540",
+                    "HPOTerm": "Inability to walk",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0004302",
+                    "HPOTerm": "Functional motor deficit",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0010841",
+                    "HPOTerm": "Multifocal epileptiform discharges",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0012758",
+                    "HPOTerm": "Neurodevelopmental delay",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0100543",
+                    "HPOTerm": "Cognitive impairment",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000252",
+                    "HPOTerm": "Microcephaly",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001252",
+                    "HPOTerm": "Hypotonia",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002059",
+                    "HPOTerm": "Cerebral atrophy",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002069",
+                    "HPOTerm": "Bilateral tonic-clonic seizure",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002384",
+                    "HPOTerm": "Focal impaired awareness seizure",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0006813",
+                    "HPOTerm": "Focal hemiclonic seizure",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0007334",
+                    "HPOTerm": "Bilateral tonic-clonic seizure with focal onset",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0010821",
+                    "HPOTerm": "Focal emotional seizure with laughing",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0032794",
+                    "HPOTerm": "Myoclonic seizure",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000505",
+                    "HPOTerm": "Visual impairment",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001273",
+                    "HPOTerm": "Abnormal corpus callosum morphology",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001276",
+                    "HPOTerm": "Hypertonia",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001508",
+                    "HPOTerm": "Failure to thrive",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002521",
+                    "HPOTerm": "Hypsarrhythmia",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002650",
+                    "HPOTerm": "Scoliosis",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0011097",
+                    "HPOTerm": "Epileptic spasm",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0012448",
+                    "HPOTerm": "Delayed myelination",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0031834",
+                    "HPOTerm": "Aortopulmonary collateral arteries",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000826",
+                    "HPOTerm": "Precocious puberty",
+                    "HPOFrequency": "Very rare (<4-1%)"
+                }
+            }
+        ],
+        "Prevalences": [
+            {
+                "Prevalence": {
+                    "Source": "19469847[PMID]_23086397[PMID]_23599387[PMID]",
+                    "PrevalenceType": "Cases/families",
+                    "PrevalenceQualification": "Case(s)",
+                    "PrevalenceClass": "no data",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            },
+            {
+                "Prevalence": {
+                    "Source": "ORPHANET_235999387[PMID]",
+                    "PrevalenceType": "Point prevalence",
+                    "PrevalenceQualification": "Class only",
+                    "PrevalenceClass": "<1 / 1 000 000",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            },
+            {
+                "Prevalence": {
+                    "Source": "23599387[PMID]",
+                    "PrevalenceType": "Point prevalence",
+                    "PrevalenceQualification": "Value and class",
+                    "PrevalenceClass": "1-9 / 1 000 000",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "United Kingdom"
+                }
+            },
+            {
+                "Prevalence": {
+                    "Source": "235999387[PMID]",
+                    "PrevalenceType": "Prevalence at birth",
+                    "PrevalenceQualification": "Value and class",
+                    "PrevalenceClass": "1-9 / 1 000 000",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "United Kingdom"
+                }
+            }
+        ],
+        "AverageAgeOfOnsets": [
+            {
+                "AverageAgeOfOnset": {
+                    "value": "Infancy"
+                }
+            },
+            {
+                "AverageAgeOfOnset": {
+                    "value": "Neonatal"
+                }
+            }
+        ],
+        "TypeOfInheritances": [
+            {
+                "TypeOfInheritance": {
+                    "value": "Autosomal dominant"
+                }
+            },
+            {
+                "TypeOfInheritance": {
+                    "value": "Autosomal recessive"
+                }
+            },
+            {
+                "TypeOfInheritance": {
+                    "value": "X-linked recessive"
+                }
+            }
+        ]
+    }
+}

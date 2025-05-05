@@ -1,0 +1,102 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "183663",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "183663",
+        "Label": "Hyper-IgM syndrome with susceptibility to opportunistic infections",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_183663",
+        "DisorderType": {
+            "value": "Disease",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377788"
+        },
+        "Synonyms": [
+            {
+                "Synonym": "HIGM with susceptibility to opportunistic infections"
+            }
+        ],
+        "ExternalReferences": [
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "308230",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "606843",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            }
+        ],
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "Hyper-IgM syndrome with susceptibility to opportunistic infections is a rare genetic non-severe combined immunodeficiency disorder characterized by normal or elevated IgM serum levels with low or absent IgG IgA and IgE serum concentrations which manifests with recurrent or severe bacterial infections and increased susceptibility to opportunistic infections (in particular pneumonia due to <i>P. jiroveci</i> but also chronic cryptosporidial cryptococcal cytomegalovirus and toxoplasma infections). Hematologic disorders (neutropenia anemia thrombocytopenia) are frequently associated. Immunologic findings reveal decreased numbers of CD27+ memory B cells and lack of germinal center formation."
+        },
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "688571",
+                        "Label": "Combined immunodeficiency with low immunoglobulins"
+                    }
+                ]
+            }
+        ],
+        "Childs": [
+            {
+                "Child": {
+                    "Label": "X-linked hyper-IgM syndrome",
+                    "ORPHAcode": "101088",
+                    "Genes": [
+                        {
+                            "Gene": {
+                                "Label": "CD40 ligand",
+                                "Symbol": "CD40LG",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "11935"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "300386"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "Child": {
+                    "Label": "Hyper-IgM syndrome type 3",
+                    "ORPHAcode": "101090",
+                    "Genes": [
+                        {
+                            "Gene": {
+                                "Label": "CD40 molecule",
+                                "Symbol": "CD40",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "11919"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "109535"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                            }
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

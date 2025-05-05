@@ -1,0 +1,139 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "42062",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "42062",
+        "Label": "Iminoglycinuria",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_42062",
+        "DisorderType": {
+            "value": "Disease",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377788"
+        },
+        "ExternalReferences": [
+            {
+                "Source": "OMIM",
+                "Reference": "242600",
+                "DisorderMappingRelation": "E (Exact mapping: the two concepts are equivalent)"
+            }
+        ],
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "A rare inborn error of metabolism characterized by elevated levels of imino acids (proline hydroxyproline) and glycine in urine due to defective reabsorption in the kidney. The condition is considered benign and not associated with any specific clinical phenotype. Mode of inheritance is autosomal recessive."
+        },
+        "Genes": [
+            {
+                "Gene": {
+                    "Symbol": "SLC36A2",
+                    "Name": "solute carrier family 36 member 2",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "SLC36A2"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "18762"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "608331"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            }
+        ],
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "308451",
+                        "Label": "Disorder of neutral amino acid transport"
+                    }
+                ]
+            }
+        ],
+        "Phenotypes": [
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0003080",
+                    "HPOTerm": "Hydroxyprolinuria",
+                    "HPOFrequency": "Obligate (100%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0003108",
+                    "HPOTerm": "Hyperglycinuria",
+                    "HPOFrequency": "Obligate (100%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0003137",
+                    "HPOTerm": "Prolinuria",
+                    "HPOFrequency": "Obligate (100%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002154",
+                    "HPOTerm": "Hyperglycinemia",
+                    "HPOFrequency": "Excluded (0%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0003260",
+                    "HPOTerm": "Hydroxyprolinemia",
+                    "HPOFrequency": "Excluded (0%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0008358",
+                    "HPOTerm": "Hyperprolinemia",
+                    "HPOFrequency": "Excluded (0%)"
+                }
+            }
+        ],
+        "Prevalences": [
+            {
+                "Prevalence": {
+                    "Source": "ORPHANET",
+                    "PrevalenceType": "Prevalence at birth",
+                    "PrevalenceQualification": "Value and class",
+                    "PrevalenceClass": "1-9 / 100 000",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Europe"
+                }
+            },
+            {
+                "Prevalence": {
+                    "Source": "ORPHANET",
+                    "PrevalenceType": "Point prevalence",
+                    "PrevalenceQualification": "Value and class",
+                    "PrevalenceClass": "1-9 / 100 000",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Europe"
+                }
+            }
+        ],
+        "AverageAgeOfOnsets": {
+            "AverageAgeOfOnset": [
+                {
+                    "value": "All ages"
+                }
+            ]
+        },
+        "TypeOfInheritances": {
+            "TypeOfInheritance": [
+                {
+                    "value": "Autosomal recessive"
+                }
+            ]
+        }
+    }
+}

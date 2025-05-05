@@ -1,0 +1,96 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "476119",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "476119",
+        "Label": "Autosomal dominant preaxial polydactyly-upperback hypertrichosis syndrome",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_476119",
+        "DisorderType": {
+            "value": "Malformation syndrome",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377789"
+        },
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "A rare genetic syndrome with limb malformations as a major feature characterized by preaxial polydactyly of the hands and feet with variable phenotypic expressivity in combination with hypertrichosis extending from the posterior hairline to the middle of the back. Reported limb malformations include triphalangeal thumbs duplicated thumbs preaxial extra ray and syndactyly between digits I and II in the hands and large or duplicated hallux and syndactyly between toes I and II in the feet."
+        },
+        "Genes": [
+            {
+                "Gene": {
+                    "Symbol": "SHH",
+                    "Name": "sonic hedgehog signaling molecule",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "SHH"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "10848"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "600725"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            }
+        ],
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "294959",
+                        "Label": "Syndrome with limb duplication, polydactyly, syndactyly, and/or hyperphalangy"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "79365",
+                        "Label": "Rare disorder with hypertrichosis"
+                    }
+                ]
+            }
+        ],
+        "Prevalences": [
+            {
+                "Prevalence": {
+                    "Source": "25782671[PMID]",
+                    "PrevalenceType": "Cases/families",
+                    "PrevalenceQualification": "Family(ies)",
+                    "PrevalenceClass": "no data",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            },
+            {
+                "Prevalence": {
+                    "Source": "ORPHANET_25782671[PMID]",
+                    "PrevalenceType": "Point prevalence",
+                    "PrevalenceQualification": "Class only",
+                    "PrevalenceClass": "<1 / 1 000 000",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            }
+        ],
+        "AverageAgeOfOnsets": {
+            "AverageAgeOfOnset": [
+                {
+                    "value": "Neonatal"
+                }
+            ]
+        },
+        "TypeOfInheritances": {
+            "TypeOfInheritance": [
+                {
+                    "value": "Autosomal dominant"
+                }
+            ]
+        }
+    }
+}

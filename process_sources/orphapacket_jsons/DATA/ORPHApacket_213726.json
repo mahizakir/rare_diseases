@@ -1,0 +1,34 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "213726",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "213726",
+        "Label": "Serous carcinoma of the corpus uteri",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_213726",
+        "DisorderType": {
+            "value": "Disease",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377788"
+        },
+        "Synonyms": [
+            {
+                "Synonym": "Endometrial serous carcinoma"
+            }
+        ],
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "A rare high-grade endometrial carcinoma characterized by diffuse marked nuclear pleomorphism typically exhibiting complex papillary and/or glandular growth patterns and showing abnormal p53 and diffuse p16 immunohistochemistry. The tumor typically arises in atrophic endometrium or in an endometrial polyp. Most patients present with postmenopausal bleeding. Extrauterine metastasis is present in 40-50% of surgically staged cases most frequently involving lymph nodes or peritoneal sites and omentum. Patients with extrauterine spread have poor outcomes while endometrium-limited carcinoma has a better prognosis."
+        },
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "213569",
+                        "Label": "Rare cancer of corpus uteri"
+                    }
+                ]
+            }
+        ]
+    }
+}

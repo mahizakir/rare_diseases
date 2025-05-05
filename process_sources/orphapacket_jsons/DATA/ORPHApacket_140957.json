@@ -1,0 +1,334 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "140957",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "140957",
+        "Label": "Autosomal dominant macrothrombocytopenia",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_140957",
+        "DisorderType": {
+            "value": "Disease",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377788"
+        },
+        "ExternalReferences": [
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "619840",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "619271",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "187800",
+                    "DisorderMappingRelation": "NTBT (ORPHAcode is narrower than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "613112",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "615193",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            }
+        ],
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "A rare isolated constitutional thrombocytopenia characterized by abnormally large platelets."
+        },
+        "Genes": [
+            {
+                "Gene": {
+                    "Symbol": "TUBA8",
+                    "Name": "tubulin alpha 8",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "TUBA8"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "12410"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "605742"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "GP1BA",
+                    "Name": "glycoprotein Ib platelet subunit alpha",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "GP1BA"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "4439"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "606672"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "TRPM7",
+                    "Name": "transient receptor potential cation channel subfamily M member 7",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "TRPM7"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "17994"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "605692"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "GFI1B",
+                    "Name": "growth factor independent 1B transcriptional repressor",
+                    "ExternalReferences": [
+                        {
+                            "Source": "HGNC",
+                            "Reference": "4238"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "604383"
+                        },
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "GFI1B"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "GP1BB",
+                    "Name": "glycoprotein Ib platelet subunit beta",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "GP1BB"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "4440"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "138720"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "TPM4",
+                    "Name": "tropomyosin 4",
+                    "ExternalReferences": [
+                        {
+                            "Source": "HGNC",
+                            "Reference": "12013"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "600317"
+                        },
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "TPM4"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) (loss of function) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "ITGA2B",
+                    "Name": "integrin subunit alpha 2b",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "ITGA2B"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "6138"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "607759"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "ITGB3",
+                    "Name": "integrin subunit beta 3",
+                    "ExternalReferences": [
+                        {
+                            "Source": "HGNC",
+                            "Reference": "6156"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "173470"
+                        },
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "ITGB3"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "TUBB1",
+                    "Name": "tubulin beta 1 class VI",
+                    "ExternalReferences": [
+                        {
+                            "Source": "HGNC",
+                            "Reference": "16257"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "612901"
+                        },
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "TUBB1"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "ACTN1",
+                    "Name": "actinin alpha 1",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "ACTN1"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "163"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "102575"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            }
+        ],
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "220452",
+                        "Label": "Isolated hereditary giant platelet disorder"
+                    }
+                ]
+            }
+        ],
+        "Prevalences": [
+            {
+                "Prevalence": {
+                    "Source": "18065693[PMID]_18849486[PMID]_24069336[PMID]",
+                    "PrevalenceType": "Cases/families",
+                    "PrevalenceQualification": "Case(s)",
+                    "PrevalenceClass": "no data",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            },
+            {
+                "Prevalence": {
+                    "Source": "ORPHANET",
+                    "PrevalenceType": "Point prevalence",
+                    "PrevalenceQualification": "Class only",
+                    "PrevalenceClass": "<1 / 1 000 000",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            }
+        ],
+        "AverageAgeOfOnsets": [
+            {
+                "AverageAgeOfOnset": {
+                    "value": "Adolescent"
+                }
+            },
+            {
+                "AverageAgeOfOnset": {
+                    "value": "Adult"
+                }
+            },
+            {
+                "AverageAgeOfOnset": {
+                    "value": "Childhood"
+                }
+            },
+            {
+                "AverageAgeOfOnset": {
+                    "value": "Elderly"
+                }
+            },
+            {
+                "AverageAgeOfOnset": {
+                    "value": "Infancy"
+                }
+            }
+        ],
+        "TypeOfInheritances": {
+            "TypeOfInheritance": [
+                {
+                    "value": "Autosomal dominant"
+                }
+            ]
+        }
+    }
+}

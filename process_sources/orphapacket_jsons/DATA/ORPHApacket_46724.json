@@ -1,0 +1,170 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "46724",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "46724",
+        "Label": "Cerebral arteriovenous malformation",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_46724",
+        "DisorderType": {
+            "value": "Morphological anomaly",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377791"
+        },
+        "Synonyms": [
+            {
+                "Synonym": "Intracranial arteriovenous malformation"
+            }
+        ],
+        "ExternalReferences": [
+            {
+                "Source": "OMIM",
+                "Reference": "108010",
+                "DisorderMappingRelation": "E (Exact mapping: the two concepts are equivalent)"
+            }
+        ],
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "Cerebral arteriovenous malformation (AVM) is a congenital malformative communication between the veins and the arteries in the brain in the form of a nidus an anatomical structure composed of dilated and tangled supplying arterioles and drainage veins with no intervening capillary bed that can be asymptomatic or cause depending on the location and the size of the AVM headaches of varying severity generalized or focal seizures focalneurological defects (weakness numbness speech difficulties vision loss) or potentially fatal intracranial hemorrhage in case the AVM ruptures."
+        },
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "102006",
+                        "Label": "Neurovascular malformation"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "211266",
+                        "Label": "Rare arteriovenous malformation"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "211240",
+                        "Label": "Genetic vascular anomaly"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "371436",
+                        "Label": "Genetic neurovascular malformation"
+                    }
+                ]
+            }
+        ],
+        "Phenotypes": [
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0100659",
+                    "HPOTerm": "Abnormality of the cerebral vasculature",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0100761",
+                    "HPOTerm": "Visceral angiomatosis",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0100784",
+                    "HPOTerm": "Peripheral arteriovenous fistula",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000505",
+                    "HPOTerm": "Visual impairment",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001250",
+                    "HPOTerm": "Seizure",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001342",
+                    "HPOTerm": "Cerebral hemorrhage",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002354",
+                    "HPOTerm": "Memory impairment",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0030746",
+                    "HPOTerm": "Intraventricular hemorrhage",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0100543",
+                    "HPOTerm": "Cognitive impairment",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002315",
+                    "HPOTerm": "Headache",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:5200044",
+                    "HPOTerm": "Reduced attention regulation",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            }
+        ],
+        "Prevalences": {
+            "Prevalence": [
+                {
+                    "Source": "ORPHANET",
+                    "PrevalenceType": "Point prevalence",
+                    "PrevalenceQualification": "Value and class",
+                    "PrevalenceClass": "1-9 / 100 000",
+                    "ValMoy": "6.0",
+                    "PrevalenceGeographic": "Europe"
+                }
+            ]
+        },
+        "AverageAgeOfOnsets": {
+            "AverageAgeOfOnset": [
+                {
+                    "value": "All ages"
+                }
+            ]
+        },
+        "TypeOfInheritances": {
+            "TypeOfInheritance": [
+                {
+                    "value": "No data available"
+                }
+            ]
+        }
+    }
+}

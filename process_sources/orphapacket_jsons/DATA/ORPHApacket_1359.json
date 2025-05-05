@@ -1,0 +1,636 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "1359",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "1359",
+        "Label": "Carney complex",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_1359",
+        "DisorderType": {
+            "value": "Disease",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377788"
+        },
+        "Synonyms": [
+            {
+                "Synonym": "Carney syndrome"
+            },
+            {
+                "Synonym": "Myxoma-spotty pigmentation-endocrine overactivity syndrome"
+            }
+        ],
+        "ExternalReferences": [
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "160980",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "605244",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            }
+        ],
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "A rare endocrine disease characterized by lentigines with a specific peri-orifical distribution blue nevus myxomas various endocrine tumors including primary pigmented nodular adrenocortical disease (PPNAD) acromegaly thyroid tumors and a wide range of other tumors."
+        },
+        "Genes": [
+            {
+                "Gene": {
+                    "Symbol": "PRKAR1A",
+                    "Name": "protein kinase cAMP-dependent type I regulatory subunit alpha",
+                    "ExternalReferences": [
+                        {
+                            "Source": "HGNC",
+                            "Reference": "9388"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "188830"
+                        },
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "PRKAR1A"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) (loss of function) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "PDE11A",
+                    "Name": "phosphodiesterase 11A",
+                    "ExternalReferences": [
+                        {
+                            "Source": "HGNC",
+                            "Reference": "8773"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "604961"
+                        },
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "PDE11A"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Modifying germline mutation in"
+                }
+            }
+        ],
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "100094",
+                        "Label": "Multiple polyglandular tumor"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "100091",
+                        "Label": "Adrenal/paraganglial tumor"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "314749",
+                        "Label": "Rare disease with adrenal Cushing syndrome as a major feature"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "183466",
+                        "Label": "Genetic hyperpigmentation of the skin"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "271841",
+                        "Label": "Genetic cardiac tumor"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "168194",
+                        "Label": "Rare cardiac tumor"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "79375",
+                        "Label": "Hyperpigmentation of the skin"
+                    }
+                ]
+            }
+        ],
+        "Phenotypes": [
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001580",
+                    "HPOTerm": "Pigmented micronodular adrenocortical disease",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000138",
+                    "HPOTerm": "Ovarian cyst",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000845",
+                    "HPOTerm": "Growth hormone excess",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000866",
+                    "HPOTerm": "Euthyroid multinodular goiter",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000870",
+                    "HPOTerm": "Increased circulating prolactin concentration",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001003",
+                    "HPOTerm": "Multiple lentigines",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001074",
+                    "HPOTerm": "Atypical nevi in non-sun exposed areas",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0003118",
+                    "HPOTerm": "Increased circulating cortisol level",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0005585",
+                    "HPOTerm": "Spotty hyperpigmentation",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0007565",
+                    "HPOTerm": "Multiple cafe-au-lait spots",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0010785",
+                    "HPOTerm": "Gonadal neoplasm",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0010788",
+                    "HPOTerm": "Testicular neoplasm",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0011672",
+                    "HPOTerm": "Cardiac myxoma",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0011760",
+                    "HPOTerm": "Pituitary growth hormone cell adenoma",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0030269",
+                    "HPOTerm": "Increased circulating insulin-like growth factor 1 concentration",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0030428",
+                    "HPOTerm": "Cutaneous myxoma",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0100619",
+                    "HPOTerm": "Sertoli cell neoplasm",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0100814",
+                    "HPOTerm": "Blue nevus",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000008",
+                    "HPOTerm": "Abnormal morphology of female internal genitalia",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000053",
+                    "HPOTerm": "Macroorchidism",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000199",
+                    "HPOTerm": "Tongue nodules",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000708",
+                    "HPOTerm": "Atypical behavior",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000771",
+                    "HPOTerm": "Gynecomastia",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000798",
+                    "HPOTerm": "Oligozoospermia",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000822",
+                    "HPOTerm": "Hypertension",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000978",
+                    "HPOTerm": "Bruising susceptibility",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001007",
+                    "HPOTerm": "Hirsutism",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001065",
+                    "HPOTerm": "Striae distensae",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001297",
+                    "HPOTerm": "Stroke",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001324",
+                    "HPOTerm": "Muscle weakness",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001507",
+                    "HPOTerm": "Growth abnormality",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001635",
+                    "HPOTerm": "Congestive heart failure",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001907",
+                    "HPOTerm": "Thromboembolism",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0004324",
+                    "HPOTerm": "Increased body weight",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0006753",
+                    "HPOTerm": "Neoplasm of the stomach",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0010619",
+                    "HPOTerm": "Fibroadenoma of the breast",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0010732",
+                    "HPOTerm": "Nodular changes affecting the eyelids",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0012041",
+                    "HPOTerm": "Decreased fertility in males",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0012206",
+                    "HPOTerm": "Abnormal sperm motility",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0012743",
+                    "HPOTerm": "Abdominal obesity",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0012887",
+                    "HPOTerm": "Ovarian serous cystadenoma",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0025274",
+                    "HPOTerm": "Ovarian dermoid cyst",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0025318",
+                    "HPOTerm": "Ovarian carcinoma",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0025383",
+                    "HPOTerm": "Dorsocervical fat pad",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0025451",
+                    "HPOTerm": "Testicular adrenal rest tumor",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0030038",
+                    "HPOTerm": "Enchondroma",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0030072",
+                    "HPOTerm": "Paranasal sinus neoplasm",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0030075",
+                    "HPOTerm": "Ductal carcinoma in situ",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0100008",
+                    "HPOTerm": "Schwannoma",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0100013",
+                    "HPOTerm": "Neoplasm of the breast",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0100618",
+                    "HPOTerm": "Leydig cell neoplasia",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0100638",
+                    "HPOTerm": "Neoplasm of the pharynx",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0100737",
+                    "HPOTerm": "Abnormal hard palate morphology",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0100751",
+                    "HPOTerm": "Esophageal neoplasm",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0500011",
+                    "HPOTerm": "Moon facies",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000098",
+                    "HPOTerm": "Tall stature",
+                    "HPOFrequency": "Very rare (<4-1%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000826",
+                    "HPOTerm": "Precocious puberty",
+                    "HPOFrequency": "Very rare (<4-1%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001402",
+                    "HPOTerm": "Hepatocellular carcinoma",
+                    "HPOFrequency": "Very rare (<4-1%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002890",
+                    "HPOTerm": "Thyroid carcinoma",
+                    "HPOFrequency": "Very rare (<4-1%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002894",
+                    "HPOTerm": "Neoplasm of the pancreas",
+                    "HPOFrequency": "Very rare (<4-1%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002895",
+                    "HPOTerm": "Papillary thyroid carcinoma",
+                    "HPOFrequency": "Very rare (<4-1%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0004944",
+                    "HPOTerm": "Dilatation of the cerebral artery",
+                    "HPOFrequency": "Very rare (<4-1%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0006731",
+                    "HPOTerm": "Follicular thyroid carcinoma",
+                    "HPOFrequency": "Very rare (<4-1%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0100743",
+                    "HPOTerm": "Neoplasm of the rectum",
+                    "HPOFrequency": "Very rare (<4-1%)"
+                }
+            }
+        ],
+        "Prevalences": [
+            {
+                "Prevalence": {
+                    "Source": "34167977[PMID]_35165607[PMID]",
+                    "PrevalenceType": "Cases/families",
+                    "PrevalenceQualification": "Case(s)",
+                    "PrevalenceClass": "no data",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            },
+            {
+                "Prevalence": {
+                    "Source": "34167977[PMID]_35165607[PMID]_ORPHANET",
+                    "PrevalenceType": "Point prevalence",
+                    "PrevalenceQualification": "Class only",
+                    "PrevalenceClass": "Unknown",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            }
+        ],
+        "AverageAgeOfOnsets": [
+            {
+                "AverageAgeOfOnset": {
+                    "value": "Infancy"
+                }
+            },
+            {
+                "AverageAgeOfOnset": {
+                    "value": "Neonatal"
+                }
+            }
+        ],
+        "TypeOfInheritances": {
+            "TypeOfInheritance": [
+                {
+                    "value": "Autosomal dominant"
+                }
+            ]
+        }
+    }
+}

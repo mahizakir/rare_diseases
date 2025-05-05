@@ -1,0 +1,117 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "443087",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "443087",
+        "Label": "46,XY difference of sex development due to testicular 17,20-desmolase deficiency",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_443087",
+        "DisorderType": {
+            "value": "Disease",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377788"
+        },
+        "Synonyms": [
+            {
+                "Synonym": "46,XY disorder of sex development due to testicular 17,20-desmolase deficiency"
+            }
+        ],
+        "ExternalReferences": [
+            {
+                "Source": "OMIM",
+                "Reference": "614279",
+                "DisorderMappingRelation": "E (Exact mapping: the two concepts are equivalent)"
+            }
+        ],
+        "Genes": [
+            {
+                "Gene": {
+                    "Symbol": "AKR1C2",
+                    "Name": "aldo-keto reductase family 1 member C2",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "AKR1C2"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "385"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "600450"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) (loss of function) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "AKR1C4",
+                    "Name": "aldo-keto reductase family 1 member C4",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "AKR1C4"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "387"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "600451"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Modifying germline mutation in"
+                }
+            }
+        ],
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "443090",
+                        "Label": "46,XY difference of sexual development due to dihydrotestosterone backdoor pathway biosynthesis defect"
+                    }
+                ]
+            }
+        ],
+        "Prevalences": [
+            {
+                "Prevalence": {
+                    "Source": "21802064[PMID]",
+                    "PrevalenceType": "Cases/families",
+                    "PrevalenceQualification": "Family(ies)",
+                    "PrevalenceClass": "no data",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            },
+            {
+                "Prevalence": {
+                    "Source": "ORPHANET_21802064[PMID]",
+                    "PrevalenceType": "Point prevalence",
+                    "PrevalenceQualification": "Class only",
+                    "PrevalenceClass": "<1 / 1 000 000",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            }
+        ],
+        "AverageAgeOfOnsets": {
+            "AverageAgeOfOnset": [
+                {
+                    "value": "Neonatal"
+                }
+            ]
+        },
+        "TypeOfInheritances": {
+            "TypeOfInheritance": [
+                {
+                    "value": "Autosomal recessive"
+                }
+            ]
+        }
+    }
+}

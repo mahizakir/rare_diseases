@@ -1,0 +1,288 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "3115",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "3115",
+        "Label": "Roussy-L\u00e9vy syndrome",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_3115",
+        "DisorderType": {
+            "value": "Disease",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377788"
+        },
+        "Synonyms": [
+            {
+                "Synonym": "Hereditary areflexic dystasia, Roussy-L\u00e9vy type"
+            }
+        ],
+        "ExternalReferences": [
+            {
+                "Source": "OMIM",
+                "Reference": "180800",
+                "DisorderMappingRelation": "E (Exact mapping: the two concepts are equivalent)"
+            }
+        ],
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "A rare demyelinating hereditary motor and sensory neuropathy characterized by prominent gait ataxia pes cavus tendon areflexia distal limb weakness tremor in the upper limbs distal sensory loss kyphoscoliosis and progressive muscle atrophy. The disease becomes symptomatic in infancy or childhood mode of inheritance is autosomal dominant."
+        },
+        "Genes": [
+            {
+                "Gene": {
+                    "Symbol": "PMP22",
+                    "Name": "peripheral myelin protein 22",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "PMP22"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "9118"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "601097"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "MPZ",
+                    "Name": "myelin protein zero",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "MPZ"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "7225"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "159440"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            }
+        ],
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "140453",
+                        "Label": "Autosomal dominant hereditary demyelinating motor and sensory neuropathy"
+                    }
+                ]
+            }
+        ],
+        "Phenotypes": [
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000639",
+                    "HPOTerm": "Nystagmus",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001284",
+                    "HPOTerm": "Areflexia",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001761",
+                    "HPOTerm": "Pes cavus",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001762",
+                    "HPOTerm": "Talipes equinovarus",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002066",
+                    "HPOTerm": "Gait ataxia",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002070",
+                    "HPOTerm": "Limb ataxia",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002174",
+                    "HPOTerm": "Postural tremor",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002312",
+                    "HPOTerm": "Clumsiness",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002317",
+                    "HPOTerm": "Unsteady gait",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002355",
+                    "HPOTerm": "Difficulty walking",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002495",
+                    "HPOTerm": "Impaired vibratory sensation",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002650",
+                    "HPOTerm": "Scoliosis",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002751",
+                    "HPOTerm": "Kyphoscoliosis",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0003431",
+                    "HPOTerm": "Decreased motor nerve conduction velocity",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0003474",
+                    "HPOTerm": "Somatic sensory dysfunction",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0003693",
+                    "HPOTerm": "Distal amyotrophy",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0007131",
+                    "HPOTerm": "Acute demyelinating polyneuropathy",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0007141",
+                    "HPOTerm": "Sensorimotor neuropathy",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0007328",
+                    "HPOTerm": "Impaired pain sensation",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0007340",
+                    "HPOTerm": "Lower limb muscle weakness",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0010829",
+                    "HPOTerm": "Impaired temperature sensation",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002359",
+                    "HPOTerm": "Frequent falls",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002839",
+                    "HPOTerm": "Urinary bladder sphincter dysfunction",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002857",
+                    "HPOTerm": "Genu valgum",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0003202",
+                    "HPOTerm": "Skeletal muscle atrophy",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0003487",
+                    "HPOTerm": "Babinski sign",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0008954",
+                    "HPOTerm": "Intrinsic hand muscle atrophy",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            }
+        ],
+        "AverageAgeOfOnsets": [
+            {
+                "AverageAgeOfOnset": {
+                    "value": "Childhood"
+                }
+            },
+            {
+                "AverageAgeOfOnset": {
+                    "value": "Infancy"
+                }
+            }
+        ]
+    }
+}

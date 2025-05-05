@@ -1,0 +1,465 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "2855",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "2855",
+        "Label": "Perrault syndrome",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_2855",
+        "DisorderType": {
+            "value": "Disease",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377788"
+        },
+        "Synonyms": [
+            {
+                "Synonym": "XX gonadal dysgenesis-deafness syndrome"
+            },
+            {
+                "Synonym": "XX gonadal dysgenesis-hearing loss syndrome"
+            }
+        ],
+        "ExternalReferences": [
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "233400",
+                    "DisorderMappingRelation": "E (Exact mapping: the two concepts are equivalent)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "614129",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "614926",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "615300",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "616138",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "617565",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            }
+        ],
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "A rare genetic disease characterized by a clinical picture of variable severity associating sensorineural hearing impairment with ovarian dysgenesis in females sometimes progressive neurologic disorder and exceptionally renal disease. The disease affects both sexes but hypogonadism is not a feature in males."
+        },
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "35696",
+                        "Label": "Mitochondrial disorder due to a defect in mitochondrial protein synthesis"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "325109",
+                        "Label": "Syndrome with 46,XX difference of sex development"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "90642",
+                        "Label": "Syndromic genetic deafness"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "325638",
+                        "Label": "Syndrome with difference of sex development of gynecological interest"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "399877",
+                        "Label": "Rare female infertility due to gonadal dysgenesis"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "485382",
+                        "Label": "Rare genetic premature ovarian failure"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "95710",
+                        "Label": "Rare non-acquired premature ovarian failure"
+                    }
+                ]
+            }
+        ],
+        "Childs": [
+            {
+                "Child": {
+                    "Label": "Perrault syndrome type 1",
+                    "ORPHAcode": "642945",
+                    "Genes": [
+                        {
+                            "Gene": {
+                                "Label": "caseinolytic mitochondrial matrix peptidase proteolytic subunit",
+                                "Symbol": "CLPP",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "2084"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "601119"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "Era like 12S mitochondrial rRNA chaperone 1",
+                                "Symbol": "ERAL1",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "3424"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "607435"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "histidyl-tRNA synthetase 2, mitochondrial",
+                                "Symbol": "HARS2",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "4817"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "600783"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "hydroxysteroid 17-beta dehydrogenase 4",
+                                "Symbol": "HSD17B4",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "5213"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "601860"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "leucyl-tRNA synthetase 2, mitochondrial",
+                                "Symbol": "LARS2",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "17095"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "604544"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "twinkle mtDNA helicase",
+                                "Symbol": "TWNK",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "1160"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "606075"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "geranylgeranyl diphosphate synthase 1",
+                                "Symbol": "GGPS1",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "4249"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "606982"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "required for meiotic nuclear division 1 homolog",
+                                "Symbol": "RMND1",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "614917"
+                                    },
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "21176"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "Child": {
+                    "Label": "Perrault syndrome type 2",
+                    "ORPHAcode": "642976",
+                    "Genes": [
+                        {
+                            "Gene": {
+                                "Label": "caseinolytic mitochondrial matrix peptidase proteolytic subunit",
+                                "Symbol": "CLPP",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "2084"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "601119"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "Era like 12S mitochondrial rRNA chaperone 1",
+                                "Symbol": "ERAL1",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "3424"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "607435"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "histidyl-tRNA synthetase 2, mitochondrial",
+                                "Symbol": "HARS2",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "4817"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "600783"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "hydroxysteroid 17-beta dehydrogenase 4",
+                                "Symbol": "HSD17B4",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "5213"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "601860"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "leucyl-tRNA synthetase 2, mitochondrial",
+                                "Symbol": "LARS2",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "17095"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "604544"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "twinkle mtDNA helicase",
+                                "Symbol": "TWNK",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "1160"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "606075"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "geranylgeranyl diphosphate synthase 1",
+                                "Symbol": "GGPS1",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "4249"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "606982"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "required for meiotic nuclear division 1 homolog",
+                                "Symbol": "RMND1",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "614917"
+                                    },
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "21176"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                            }
+                        }
+                    ]
+                }
+            }
+        ],
+        "Prevalences": [
+            {
+                "Prevalence": {
+                    "Source": "Haute Autorit\u00e9 de Sant\u00e9[OTHER]",
+                    "PrevalenceType": "Cases/families",
+                    "PrevalenceQualification": "Case(s)",
+                    "PrevalenceClass": "no data",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            },
+            {
+                "Prevalence": {
+                    "Source": "ORPHANET",
+                    "PrevalenceType": "Point prevalence",
+                    "PrevalenceQualification": "Class only",
+                    "PrevalenceClass": "<1 / 1 000 000",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            }
+        ],
+        "AverageAgeOfOnsets": [
+            {
+                "AverageAgeOfOnset": {
+                    "value": "Adolescent"
+                }
+            },
+            {
+                "AverageAgeOfOnset": {
+                    "value": "Adult"
+                }
+            },
+            {
+                "AverageAgeOfOnset": {
+                    "value": "Childhood"
+                }
+            }
+        ],
+        "TypeOfInheritances": {
+            "TypeOfInheritance": [
+                {
+                    "value": "Autosomal recessive"
+                }
+            ]
+        }
+    }
+}

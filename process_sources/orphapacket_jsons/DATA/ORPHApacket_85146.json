@@ -1,0 +1,111 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "85146",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "85146",
+        "Label": "Neurogenic scapuloperoneal syndrome, Kaeser type",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_85146",
+        "DisorderType": {
+            "value": "Disease",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377788"
+        },
+        "Synonyms": [
+            {
+                "Synonym": "Kaeser syndrome"
+            },
+            {
+                "Synonym": "Stark-Kaeser syndrome"
+            }
+        ],
+        "ExternalReferences": [
+            {
+                "Source": "OMIM",
+                "Reference": "181400",
+                "DisorderMappingRelation": "E (Exact mapping: the two concepts are equivalent)"
+            }
+        ],
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "A rare genetic neuromuscular disease characterized by adult-onset muscle weakness and atrophy in a scapuloperoneal distribution mild involvement of the facial muscles dysphagia and gynecomastia. Elevated serum CK levels and mixed myopathic and neurogenic abnormalities are associated clinical findings."
+        },
+        "Genes": [
+            {
+                "Gene": {
+                    "Symbol": "DES",
+                    "Name": "desmin",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "DES"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "2770"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "125660"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            }
+        ],
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "98505",
+                        "Label": "Genetic motor neuron disease"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "209041",
+                        "Label": "Qualitative or quantitative defects of desmin"
+                    }
+                ]
+            }
+        ],
+        "Prevalences": [
+            {
+                "Prevalence": {
+                    "Source": "17439987[PMID]",
+                    "PrevalenceType": "Cases/families",
+                    "PrevalenceQualification": "Case(s)",
+                    "PrevalenceClass": "no data",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            },
+            {
+                "Prevalence": {
+                    "Source": "ORPHANET_17439987[PMID]",
+                    "PrevalenceType": "Point prevalence",
+                    "PrevalenceQualification": "Class only",
+                    "PrevalenceClass": "<1 / 1 000 000",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            }
+        ],
+        "AverageAgeOfOnsets": {
+            "AverageAgeOfOnset": [
+                {
+                    "value": "Adult"
+                }
+            ]
+        },
+        "TypeOfInheritances": {
+            "TypeOfInheritance": [
+                {
+                    "value": "Autosomal dominant"
+                }
+            ]
+        }
+    }
+}

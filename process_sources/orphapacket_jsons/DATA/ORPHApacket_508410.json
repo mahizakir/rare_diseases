@@ -1,0 +1,94 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "508410",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "508410",
+        "Label": "Familial intestinal malrotation",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_508410",
+        "DisorderType": {
+            "value": "Morphological anomaly",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377791"
+        },
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "A rare familial intestinal malformation characterized by failure of the rotation of the developing gastrointestinal tract around the superior mesenteric artery during embryonic development resulting in a spectrum of abnormalities of intestinal position and fixation. Patients most typically present in the neonatal period with midgut volvulus which can lead to short bowel syndrome or even death. Signs and symptoms include bilious vomiting feeding intolerance failure to thrive constipation bloody stools or intermittent apnea. The condition may also manifest later in life with complications like kinking or hernias and a broad range of intestinal symptoms. It can be an isolated finding or occur in association with other anomalies."
+        },
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "108967",
+                        "Label": "Non-syndromic intestinal malformation"
+                    }
+                ]
+            }
+        ],
+        "Phenotypes": [
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000316",
+                    "HPOTerm": "Hypertelorism",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000348",
+                    "HPOTerm": "High forehead",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000463",
+                    "HPOTerm": "Anteverted nares",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000637",
+                    "HPOTerm": "Long palpebral fissure",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002007",
+                    "HPOTerm": "Frontal bossing",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002566",
+                    "HPOTerm": "Intestinal malrotation",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002580",
+                    "HPOTerm": "Volvulus",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0005280",
+                    "HPOTerm": "Depressed nasal bridge",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            }
+        ],
+        "AverageAgeOfOnsets": {
+            "AverageAgeOfOnset": [
+                {
+                    "value": "All ages"
+                }
+            ]
+        }
+    }
+}

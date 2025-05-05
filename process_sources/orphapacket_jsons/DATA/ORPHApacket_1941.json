@@ -1,0 +1,198 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "1941",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "1941",
+        "Label": "Juvenile absence epilepsy",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_1941",
+        "DisorderType": {
+            "value": "Disease",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377788"
+        },
+        "Synonyms": [
+            {
+                "Synonym": "JAE"
+            }
+        ],
+        "ExternalReferences": [
+            {
+                "Source": "OMIM",
+                "Reference": "607631",
+                "DisorderMappingRelation": "E (Exact mapping: the two concepts are equivalent)"
+            }
+        ],
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "Juvenile absence epilepsy (JAE) is a genetic epilepsy with onset occurring around puberty. JAE is characterized by sporadic occurrence of absence seizures frequently associated with a long-life prevalence of generalized tonic-clonic seizures (GTCS) and sporadic myoclonic jerks."
+        },
+        "Genes": [
+            {
+                "Gene": {
+                    "Symbol": "EFHC1",
+                    "Name": "EF-hand domain containing 1",
+                    "ExternalReferences": [
+                        {
+                            "Source": "HGNC",
+                            "Reference": "16406"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "608815"
+                        },
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "EFHC1"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Major susceptibility factor in"
+                }
+            }
+        ],
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "309",
+                        "Label": "Familial partial epilepsy"
+                    }
+                ]
+            }
+        ],
+        "Phenotypes": [
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002133",
+                    "HPOTerm": "Status epilepticus",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002373",
+                    "HPOTerm": "Febrile seizures",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0032794",
+                    "HPOTerm": "Myoclonic seizure",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0100851",
+                    "HPOTerm": "Abnormal emotion/affect behavior",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002069",
+                    "HPOTerm": "Bilateral tonic-clonic seizure",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002197",
+                    "HPOTerm": "Generalized-onset seizure",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002392",
+                    "HPOTerm": "EEG with polyspike wave complexes",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000153",
+                    "HPOTerm": "Abnormality of the mouth",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000496",
+                    "HPOTerm": "Abnormality of eye movement",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001336",
+                    "HPOTerm": "Myoclonus",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002121",
+                    "HPOTerm": "Generalized non-motor (absence) seizure",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000739",
+                    "HPOTerm": "Anxiety",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001328",
+                    "HPOTerm": "Specific learning disability",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            }
+        ],
+        "Prevalences": [
+            {
+                "Prevalence": {
+                    "Source": "8275976[PMID]_ORPHANET",
+                    "PrevalenceType": "Annual incidence",
+                    "PrevalenceQualification": "Value and class",
+                    "PrevalenceClass": "1-9 / 100 000",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Europe"
+                }
+            },
+            {
+                "Prevalence": {
+                    "Source": "ORPHANET_Dr Gabrielle Rudolf[EXPERT]",
+                    "PrevalenceType": "Point prevalence",
+                    "PrevalenceQualification": "Class only",
+                    "PrevalenceClass": "1-9 / 100 000",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Europe"
+                }
+            }
+        ],
+        "AverageAgeOfOnsets": {
+            "AverageAgeOfOnset": [
+                {
+                    "value": "Adolescent"
+                }
+            ]
+        },
+        "TypeOfInheritances": [
+            {
+                "TypeOfInheritance": {
+                    "value": "Multigenic/multifactorial"
+                }
+            },
+            {
+                "TypeOfInheritance": {
+                    "value": "Unknown"
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,130 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "431166",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "431166",
+        "Label": "Primary immunodeficiency with post-measles-mumps-rubella vaccine viral infection",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_431166",
+        "DisorderType": {
+            "value": "Disease",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377788"
+        },
+        "Synonyms": [
+            {
+                "Synonym": "Primary immunodeficiency with post-MMR vaccine viral infection"
+            }
+        ],
+        "ExternalReferences": [
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "616669",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "616636",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            }
+        ],
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "Primary immunodeficiency with post-measles-mumps-rubella vaccine viral infection is a rare primary immunodeficiency due to a defect in innate immunity disorder characterized by selective susceptibility to viral infections particularly after systemic challenge with live viral vaccines such as the measles mumps and rubella (MMR) vaccine. Patients present severe potentially fatal manifestations to viral illness including encephalitis hepatitis and pneumonitis."
+        },
+        "Genes": [
+            {
+                "Gene": {
+                    "Symbol": "IFNAR2",
+                    "Name": "interferon alpha and beta receptor subunit 2",
+                    "ExternalReferences": [
+                        {
+                            "Source": "HGNC",
+                            "Reference": "5433"
+                        },
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "IFNAR2"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "602376"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Major susceptibility factor in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "STAT2",
+                    "Name": "signal transducer and activator of transcription 2",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "STAT2"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "11363"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "600556"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) (loss of function) in"
+                }
+            }
+        ],
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "431156",
+                        "Label": "Primary immunodeficiency with predisposition to severe viral infection"
+                    }
+                ]
+            }
+        ],
+        "Prevalences": [
+            {
+                "Prevalence": {
+                    "Source": "26424569[PMID]",
+                    "PrevalenceType": "Cases/families",
+                    "PrevalenceQualification": "Case(s)",
+                    "PrevalenceClass": "no data",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            },
+            {
+                "Prevalence": {
+                    "Source": "ORPHANET_26424569[PMID]",
+                    "PrevalenceType": "Point prevalence",
+                    "PrevalenceQualification": "Class only",
+                    "PrevalenceClass": "<1 / 1 000 000",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            }
+        ],
+        "AverageAgeOfOnsets": {
+            "AverageAgeOfOnset": [
+                {
+                    "value": "Infancy"
+                }
+            ]
+        },
+        "TypeOfInheritances": {
+            "TypeOfInheritance": [
+                {
+                    "value": "Autosomal recessive"
+                }
+            ]
+        }
+    }
+}

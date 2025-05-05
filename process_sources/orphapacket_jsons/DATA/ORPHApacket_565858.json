@@ -1,0 +1,124 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "565858",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "565858",
+        "Label": "Craniosynostosis-microretrognathia-severe intellectual disability syndrome",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_565858",
+        "DisorderType": {
+            "value": "Malformation syndrome",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377789"
+        },
+        "ExternalReferences": [
+            {
+                "Source": "OMIM",
+                "Reference": "618265",
+                "DisorderMappingRelation": "E (Exact mapping: the two concepts are equivalent)"
+            }
+        ],
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "A rare genetic multiple congenital anomalies/dysmorphic syndrome characterized by developmental delay moderate to severe intellectual disability dysmorphic features including craniosynostosis micro-/retrognathia cleft palate and brachydactyly and short stature. Seizures skeletal anomalies (such as arthrogryposis gracile bones and pathological fractures) and renal abnormalities have also been described. Cerebral MRI may show periventricular white matter changes and ventriculomegaly."
+        },
+        "Genes": [
+            {
+                "Gene": {
+                    "Symbol": "PPP3CA",
+                    "Name": "protein phosphatase 3 catalytic subunit alpha",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "PPP3CA"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "9314"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "114105"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            }
+        ],
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "102283",
+                        "Label": "Multiple congenital anomalies/dysmorphic syndrome-intellectual disability"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "139393",
+                        "Label": "Syndromic craniosynostosis"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "166472",
+                        "Label": "Monogenic disease with epilepsy"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "611327",
+                        "Label": "Genetic multiple congenital anomalies/dysmorphic syndrome-intellectual disability"
+                    }
+                ]
+            }
+        ],
+        "Prevalences": [
+            {
+                "Prevalence": {
+                    "Source": "29432562[PMID]_30254215[PMID]",
+                    "PrevalenceType": "Cases/families",
+                    "PrevalenceQualification": "Case(s)",
+                    "PrevalenceClass": "no data",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            },
+            {
+                "Prevalence": {
+                    "Source": "ORPHANET_29432562[PMID]_30254215[PMID]",
+                    "PrevalenceType": "Point prevalence",
+                    "PrevalenceQualification": "Class only",
+                    "PrevalenceClass": "<1 / 1 000 000",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            }
+        ],
+        "AverageAgeOfOnsets": [
+            {
+                "AverageAgeOfOnset": {
+                    "value": "Antenatal"
+                }
+            },
+            {
+                "AverageAgeOfOnset": {
+                    "value": "Neonatal"
+                }
+            }
+        ],
+        "TypeOfInheritances": {
+            "TypeOfInheritance": [
+                {
+                    "value": "Autosomal dominant"
+                }
+            ]
+        }
+    }
+}

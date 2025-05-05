@@ -1,0 +1,81 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "658813",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "658813",
+        "Label": "Combined immunodeficiency-megaloblastic anemia due to methylenetetrahydrofolate dehydrogenase 1 deficiency",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_658813",
+        "DisorderType": {
+            "value": "Disease",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377788"
+        },
+        "Synonyms": [
+            {
+                "Synonym": "CIMAH"
+            },
+            {
+                "Synonym": "Combined immunodeficiency-megaloblastic anemia with or without hyperhomocysteinemia"
+            },
+            {
+                "Synonym": "Methylenetetrahydrofolate dehydrogenase 1 deficiency"
+            }
+        ],
+        "ExternalReferences": [
+            {
+                "Source": "OMIM",
+                "Reference": "617780",
+                "DisorderMappingRelation": "E (Exact mapping: the two concepts are equivalent)"
+            }
+        ],
+        "Genes": [
+            {
+                "Gene": {
+                    "Symbol": "MTHFD1",
+                    "Name": "methylenetetrahydrofolate dehydrogenase, cyclohydrolase and formyltetrahydrofolate synthetase 1",
+                    "ExternalReferences": [
+                        {
+                            "Source": "HGNC",
+                            "Reference": "7432"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "172460"
+                        },
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "MTHFD1"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            }
+        ],
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "98408",
+                        "Label": "Constitutional megaloblastic anemia due to folate metabolism disorder"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "285657",
+                        "Label": "Disorder of folate metabolism and transport"
+                    }
+                ]
+            }
+        ],
+        "TypeOfInheritances": {
+            "TypeOfInheritance": [
+                {
+                    "value": "Autosomal recessive"
+                }
+            ]
+        }
+    }
+}

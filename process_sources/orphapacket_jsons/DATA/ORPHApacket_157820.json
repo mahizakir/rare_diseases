@@ -1,0 +1,163 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "157820",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "157820",
+        "Label": "Cold-induced sweating syndrome",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_157820",
+        "DisorderType": {
+            "value": "Disease",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377788"
+        },
+        "Synonyms": [
+            {
+                "Synonym": "CISS"
+            }
+        ],
+        "ExternalReferences": [
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "610313",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "272430",
+                    "DisorderMappingRelation": "NTBT (ORPHAcode is narrower than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "617055",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            }
+        ],
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "Cold-induced sweating syndrome (CISS) is characterized by profuse sweating (involving the chest face arms and trunk) induced by cold ambient temperature."
+        },
+        "Genes": [
+            {
+                "Gene": {
+                    "Symbol": "KLHL7",
+                    "Name": "kelch like family member 7",
+                    "ExternalReferences": [
+                        {
+                            "Source": "HGNC",
+                            "Reference": "15646"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "611119"
+                        },
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "KLHL7"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) (loss of function) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "CRLF1",
+                    "Name": "cytokine receptor like factor 1",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "CRLF1"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "2364"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "604237"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "CLCF1",
+                    "Name": "cardiotrophin like cytokine factor 1",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "CLCF1"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "17412"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "607672"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            }
+        ],
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "401993",
+                        "Label": "Cold-induced sweating syndrome-hyperthermia spectrum"
+                    }
+                ]
+            }
+        ],
+        "Prevalences": [
+            {
+                "Prevalence": {
+                    "Source": "ORPHANET",
+                    "PrevalenceType": "Cases/families",
+                    "PrevalenceQualification": "Case(s)",
+                    "PrevalenceClass": "no data",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            },
+            {
+                "Prevalence": {
+                    "Source": "ORPHANET",
+                    "PrevalenceType": "Point prevalence",
+                    "PrevalenceQualification": "Class only",
+                    "PrevalenceClass": "<1 / 1 000 000",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            }
+        ],
+        "AverageAgeOfOnsets": [
+            {
+                "AverageAgeOfOnset": {
+                    "value": "Adult"
+                }
+            },
+            {
+                "AverageAgeOfOnset": {
+                    "value": "Childhood"
+                }
+            }
+        ],
+        "TypeOfInheritances": {
+            "TypeOfInheritance": [
+                {
+                    "value": "Autosomal recessive"
+                }
+            ]
+        }
+    }
+}

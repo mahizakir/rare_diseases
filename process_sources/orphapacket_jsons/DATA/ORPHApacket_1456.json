@@ -1,0 +1,88 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "1456",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "1456",
+        "Label": "Middle aortic syndrome",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_1456",
+        "DisorderType": {
+            "value": "Morphological anomaly",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377791"
+        },
+        "Synonyms": [
+            {
+                "Synonym": "Abdominal coarctation"
+            },
+            {
+                "Synonym": "Coarctation of the abdominal aorta"
+            },
+            {
+                "Synonym": "MAC"
+            },
+            {
+                "Synonym": "Mid-aortic dysplastic syndrome"
+            },
+            {
+                "Synonym": "Mid-aortic syndrome"
+            },
+            {
+                "Synonym": "Midaortic syndrome"
+            },
+            {
+                "Synonym": "Middle aortic coarctation"
+            }
+        ],
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "A rare vascular anomaly characterized by the segmental narrowing of the abdominal and/or distal descending thoracic aorta with varying involvement of the visceral and renal arteries that commonly presents in children and young adults with early onset and refractory hypertension abdominal angina and lower-limb claudication that can lead to life-threatening complications associated with severe hypertension (i.e. myocardial infarction heart failure aortic rupture renal insufficiency and intracranial hemorrhage). It may be due to various congenital or acquired causes but it is most often secondary to an acquired inflammatory disease (i.e. Takayasu arteritis or giant cell arteritis)."
+        },
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "98718",
+                        "Label": "Aortic malformation"
+                    }
+                ]
+            }
+        ],
+        "Prevalences": [
+            {
+                "Prevalence": {
+                    "Source": "ORPHANET",
+                    "PrevalenceType": "Prevalence at birth",
+                    "PrevalenceQualification": "Value and class",
+                    "PrevalenceClass": "1-9 / 1 000 000",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Europe"
+                }
+            },
+            {
+                "Prevalence": {
+                    "Source": "ORPHANET",
+                    "PrevalenceType": "Point prevalence",
+                    "PrevalenceQualification": "Class only",
+                    "PrevalenceClass": "<1 / 1 000 000",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Europe"
+                }
+            }
+        ],
+        "AverageAgeOfOnsets": {
+            "AverageAgeOfOnset": [
+                {
+                    "value": "Childhood"
+                }
+            ]
+        },
+        "TypeOfInheritances": {
+            "TypeOfInheritance": [
+                {
+                    "value": "Not applicable"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,190 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "210272",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "210272",
+        "Label": "Mal de d\u00e9barquement",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_210272",
+        "DisorderType": {
+            "value": "Clinical syndrome",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377792"
+        },
+        "Synonyms": [
+            {
+                "Synonym": "Disembarkment syndrome"
+            },
+            {
+                "Synonym": "MdD"
+            },
+            {
+                "Synonym": "MdDS"
+            },
+            {
+                "Synonym": "Sickness of disembarkment"
+            }
+        ],
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "Mal de d\u00e9barquement (MdD) is a rare otorhinolaryngological disease characterized by a persistent sensation of motion such as rocking swaying tumbling and/or bobbing following a period of exposure to passive movement usually an ocean cruise or other types of water train automobile or air travel and less commonly other movements (like sleeping on a waterbed). Onset may be spontaneous in some patients. Manifestations begin shortly after the stimulus persist for 6 months to years and may be associated with anxiety fatigue and impaired cognition. Symptoms are often accentuated when in an enclosed space or when attempting to be motionless (sitting lying down or standing in a stationary position) and are relieved when in passive motion such as in a moving car airplane or train."
+        },
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "98036",
+                        "Label": "Rare otorhinolaryngologic disease"
+                    }
+                ]
+            }
+        ],
+        "Phenotypes": [
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002141",
+                    "HPOTerm": "Gait imbalance",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002172",
+                    "HPOTerm": "Postural instability",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002317",
+                    "HPOTerm": "Unsteady gait",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002321",
+                    "HPOTerm": "Vertigo",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000496",
+                    "HPOTerm": "Abnormality of eye movement",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000622",
+                    "HPOTerm": "Blurred vision",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000651",
+                    "HPOTerm": "Diplopia",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000739",
+                    "HPOTerm": "Anxiety",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001289",
+                    "HPOTerm": "Confusion",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002013",
+                    "HPOTerm": "Vomiting",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002018",
+                    "HPOTerm": "Nausea",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002076",
+                    "HPOTerm": "Migraine",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002315",
+                    "HPOTerm": "Headache",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0012378",
+                    "HPOTerm": "Fatigue",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0030826",
+                    "HPOTerm": "Eyelid fasciculation",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0007670",
+                    "HPOTerm": "Abnormal vestibulo-ocular reflex",
+                    "HPOFrequency": "Excluded (0%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0410263",
+                    "HPOTerm": "Brain imaging abnormality",
+                    "HPOFrequency": "Excluded (0%)"
+                }
+            }
+        ],
+        "Prevalences": {
+            "Prevalence": [
+                {
+                    "Source": "ORPHANET",
+                    "PrevalenceType": "Point prevalence",
+                    "PrevalenceQualification": "Class only",
+                    "PrevalenceClass": "Unknown",
+                    "ValMoy": "0.0",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            ]
+        },
+        "AverageAgeOfOnsets": {
+            "AverageAgeOfOnset": [
+                {
+                    "value": "All ages"
+                }
+            ]
+        },
+        "TypeOfInheritances": {
+            "TypeOfInheritance": [
+                {
+                    "value": "Not applicable"
+                }
+            ]
+        }
+    }
+}

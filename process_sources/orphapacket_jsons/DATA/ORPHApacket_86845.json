@@ -1,0 +1,180 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "86845",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "86845",
+        "Label": "Acute myeloid leukaemia with myelodysplasia-related features",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_86845",
+        "DisorderType": {
+            "value": "Disease",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377788"
+        },
+        "Synonyms": [
+            {
+                "Synonym": "AML with multilineage dysplasia"
+            },
+            {
+                "Synonym": "AML with myelodysplasia-related features"
+            },
+            {
+                "Synonym": "Acute myeloid leukemia with multilineage dysplasia"
+            }
+        ],
+        "ExternalReferences": [
+            {
+                "Source": "OMIM",
+                "Reference": "601626",
+                "DisorderMappingRelation": "NTBT (ORPHAcode is narrower than the targeted code used to represent it)"
+            }
+        ],
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "A rare acute myeloid leukemia (AML) characterized by the presence of acute leukemia with at least 20% peripheral blood or bone marrow blasts with morphological features of myelodysplasia or occurrence in patients with a prior history of a myelodysplastic syndrome (MDS) or myelodysplastic/myeloproliferative neoplasm with MDS-related cytogenetic abnormalities in the absence of specific genetic abnormalities characteristic of AML with recurrent genetic abnormalities. Prior cytotoxic or radiation therapy for an unrelated disease must be excluded. The condition occurs mainly in elderly patients and is rare in children. Patients often present with severe pancytopenia. Prognosis is generally poor."
+        },
+        "Genes": [
+            {
+                "Gene": {
+                    "Symbol": "TET2",
+                    "Name": "tet methylcytosine dioxygenase 2",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "TET2"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "25941"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "612839"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing somatic mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "IDH1",
+                    "Name": "isocitrate dehydrogenase (NADP(+)) 1",
+                    "ExternalReferences": [
+                        {
+                            "Source": "HGNC",
+                            "Reference": "5382"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "147700"
+                        },
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "IDH1"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing somatic mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "IDH2",
+                    "Name": "isocitrate dehydrogenase (NADP(+)) 2",
+                    "ExternalReferences": [
+                        {
+                            "Source": "HGNC",
+                            "Reference": "5383"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "147650"
+                        },
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "IDH2"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing somatic mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "ASXL1",
+                    "Name": "ASXL transcriptional regulator 1",
+                    "ExternalReferences": [
+                        {
+                            "Source": "HGNC",
+                            "Reference": "18318"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "612990"
+                        },
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "ASXL1"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing somatic mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "DNMT3A",
+                    "Name": "DNA methyltransferase 3 alpha",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "DNMT3A"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "2978"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "602769"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing somatic mutation(s) in"
+                }
+            }
+        ],
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "519",
+                        "Label": "Acute myeloid leukemia"
+                    }
+                ]
+            }
+        ],
+        "Prevalences": {
+            "Prevalence": [
+                {
+                    "Source": "RARECARE surveillance of rare cancers in Europe[REG]",
+                    "PrevalenceType": "Annual incidence",
+                    "PrevalenceQualification": "Class only",
+                    "PrevalenceClass": "<1 / 1 000 000",
+                    "ValMoy": "0.0",
+                    "PrevalenceGeographic": "Europe"
+                }
+            ]
+        },
+        "AverageAgeOfOnsets": {
+            "AverageAgeOfOnset": [
+                {
+                    "value": "Adult"
+                }
+            ]
+        },
+        "TypeOfInheritances": {
+            "TypeOfInheritance": [
+                {
+                    "value": "Not applicable"
+                }
+            ]
+        }
+    }
+}

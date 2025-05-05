@@ -1,0 +1,122 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "221126",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "221126",
+        "Label": "Fowler vasculopathy",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_221126",
+        "DisorderType": {
+            "value": "Malformation syndrome",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377789"
+        },
+        "Synonyms": [
+            {
+                "Synonym": "Cerebral proliferative glomeruloid vasculopathy"
+            },
+            {
+                "Synonym": "Encephaloclastic proliferative vasculopathy"
+            },
+            {
+                "Synonym": "Hydrocephaly/hydranencephaly due to cerebral vasculopathy"
+            },
+            {
+                "Synonym": "Proliferative vasculopathy and hydranencephaly/hydrocephaly"
+            }
+        ],
+        "ExternalReferences": [
+            {
+                "Source": "OMIM",
+                "Reference": "225790",
+                "DisorderMappingRelation": "E (Exact mapping: the two concepts are equivalent)"
+            }
+        ],
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "A rare genetic neurological disorder characterized by hydranencephaly distinctive glomeruloid vasculopathy in the central nervous system and retina polyhydramnios and fetal akinesia with arthrogryposis. The disorder is usually prenatally lethal. In rare reported cases that survived beyond infancy severe intellectual and neurologic disability with seizures microcephaly and absence of functional movements were reported."
+        },
+        "Genes": [
+            {
+                "Gene": {
+                    "Symbol": "FLVCR2",
+                    "Name": "FLVCR choline and putative heme transporter 2",
+                    "ExternalReferences": [
+                        {
+                            "Source": "HGNC",
+                            "Reference": "20105"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "610865"
+                        },
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "FLVCR2"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            }
+        ],
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "269564",
+                        "Label": "Genetic syndrome with a central nervous system malformation as a major feature"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "269531",
+                        "Label": "Other syndrome with a central nervous system malformation as a major feature"
+                    }
+                ]
+            }
+        ],
+        "Prevalences": [
+            {
+                "Prevalence": {
+                    "Source": "25677735[PMID]",
+                    "PrevalenceType": "Cases/families",
+                    "PrevalenceQualification": "Case(s)",
+                    "PrevalenceClass": "no data",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            },
+            {
+                "Prevalence": {
+                    "Source": "ORPHANET_25677735[PMID]",
+                    "PrevalenceType": "Point prevalence",
+                    "PrevalenceQualification": "Class only",
+                    "PrevalenceClass": "<1 / 1 000 000",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            }
+        ],
+        "AverageAgeOfOnsets": [
+            {
+                "AverageAgeOfOnset": {
+                    "value": "Antenatal"
+                }
+            },
+            {
+                "AverageAgeOfOnset": {
+                    "value": "Neonatal"
+                }
+            }
+        ],
+        "TypeOfInheritances": {
+            "TypeOfInheritance": [
+                {
+                    "value": "Autosomal recessive"
+                }
+            ]
+        }
+    }
+}

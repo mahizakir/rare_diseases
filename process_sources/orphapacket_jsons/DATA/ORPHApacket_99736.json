@@ -1,0 +1,191 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "99736",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "99736",
+        "Label": "Acetazolamide-responsive myotonia",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_99736",
+        "DisorderType": {
+            "value": "Disease",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377788"
+        },
+        "Synonyms": [
+            {
+                "Synonym": "ACZ-responsive congenital myotonia"
+            },
+            {
+                "Synonym": "ACZ-responsive myotonia"
+            },
+            {
+                "Synonym": "Acetazolamide-responsive congenital myotonia"
+            },
+            {
+                "Synonym": "Myotonia-painful contractions syndrome"
+            },
+            {
+                "Synonym": "Painful congenital myotonia"
+            },
+            {
+                "Synonym": "Painful myotonia"
+            }
+        ],
+        "ExternalReferences": [
+            {
+                "Source": "OMIM",
+                "Reference": "608390",
+                "DisorderMappingRelation": "NTBT (ORPHAcode is narrower than the targeted code used to represent it)"
+            }
+        ],
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "A form of potassium-aggravated myotonia (PAM) which shows dramatic improvement with the use of acetazolamide (ACZ)."
+        },
+        "Genes": [
+            {
+                "Gene": {
+                    "Symbol": "SCN4A",
+                    "Name": "sodium voltage-gated channel alpha subunit 4",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "SCN4A"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "10591"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "603967"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            }
+        ],
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "612",
+                        "Label": "Potassium-aggravated myotonia"
+                    }
+                ]
+            }
+        ],
+        "Phenotypes": [
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000597",
+                    "HPOTerm": "Ophthalmoparesis",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000602",
+                    "HPOTerm": "Ophthalmoplegia",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000821",
+                    "HPOTerm": "Hypothyroidism",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001276",
+                    "HPOTerm": "Hypertonia",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001288",
+                    "HPOTerm": "Gait disturbance",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002015",
+                    "HPOTerm": "Dysphagia",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002486",
+                    "HPOTerm": "Myotonia",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0003326",
+                    "HPOTerm": "Myalgia",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0003394",
+                    "HPOTerm": "Muscle spasm",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0003457",
+                    "HPOTerm": "EMG abnormality",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0003712",
+                    "HPOTerm": "Skeletal muscle hypertrophy",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0100749",
+                    "HPOTerm": "Chest pain",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            }
+        ],
+        "Prevalences": {
+            "Prevalence": [
+                {
+                    "Source": "ORPHANET",
+                    "PrevalenceType": "Point prevalence",
+                    "PrevalenceQualification": "Class only",
+                    "PrevalenceClass": "1-9 / 1 000 000",
+                    "ValMoy": "0.0",
+                    "PrevalenceGeographic": "Europe"
+                }
+            ]
+        },
+        "AverageAgeOfOnsets": {
+            "AverageAgeOfOnset": [
+                {
+                    "value": "Childhood"
+                }
+            ]
+        },
+        "TypeOfInheritances": {
+            "TypeOfInheritance": [
+                {
+                    "value": "Autosomal dominant"
+                }
+            ]
+        }
+    }
+}

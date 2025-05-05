@@ -1,0 +1,81 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "1342",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "1342",
+        "Label": "Heart-hand syndrome type 3",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_1342",
+        "DisorderType": {
+            "value": "Malformation syndrome",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377789"
+        },
+        "Synonyms": [
+            {
+                "Synonym": "Atriodigital dysplasia type 3"
+            },
+            {
+                "Synonym": "Cardiomelic syndrome type 3"
+            },
+            {
+                "Synonym": "Heart-hand syndrome, Spanish type"
+            },
+            {
+                "Synonym": "Heart-limb syndrome type 3"
+            }
+        ],
+        "ExternalReferences": [
+            {
+                "Source": "OMIM",
+                "Reference": "140450",
+                "DisorderMappingRelation": "E (Exact mapping: the two concepts are equivalent)"
+            }
+        ],
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "A rare multiple congenital anomalies/dysmorphic syndrome characterized by cardiac conduction defect (sick sinus bundle-branch block) and brachydactyly affecting principally the middle phalanges of both hands in conjunction with an extra ossicle on the proximal phalanx of both index fingers. Feet abnormalities are more subtle. There have been no further descriptions in the literature since 1980."
+        },
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "102285",
+                        "Label": "Multiple congenital anomalies/dysmorphic syndrome without intellectual disability"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "228184",
+                        "Label": "Heart-hand syndrome"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "101934",
+                        "Label": "Genetic cardiac rhythm disease"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "330206",
+                        "Label": "Genetic multiple congenital anomalies/dysmorphic syndrome without intellectual disability"
+                    }
+                ]
+            }
+        ],
+        "AverageAgeOfOnsets": {
+            "AverageAgeOfOnset": [
+                {
+                    "value": "Neonatal"
+                }
+            ]
+        }
+    }
+}

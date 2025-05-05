@@ -1,0 +1,275 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "251393",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "251393",
+        "Label": "Localized junctional epidermolysis bullosa",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_251393",
+        "DisorderType": {
+            "value": "Disease",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377788"
+        },
+        "Synonyms": [
+            {
+                "Synonym": "JEB-nH loc"
+            },
+            {
+                "Synonym": "Junctional epidermolysis bullosa, non-Herlitz localized type"
+            },
+            {
+                "Synonym": "Localized JEB"
+            }
+        ],
+        "ExternalReferences": [
+            {
+                "Source": "OMIM",
+                "Reference": "226650",
+                "DisorderMappingRelation": "NTBT (ORPHAcode is narrower than the targeted code used to represent it)"
+            }
+        ],
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "A form of junctional epidermolysis bullosa characterized by neonatal onset of localized blistering and dystrophic or absent nails. Skin blistering is mainly confined to hands feet lower legs and face. Additional findings may include dental enamel hypoplasia and an increased incidence of caries."
+        },
+        "Genes": [
+            {
+                "Gene": {
+                    "Symbol": "COL17A1",
+                    "Name": "collagen type XVII alpha 1 chain",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "COL17A1"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "2194"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "113811"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "ITGB4",
+                    "Name": "integrin subunit beta 4",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "ITGB4"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "6158"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "147557"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            }
+        ],
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "305",
+                        "Label": "Junctional epidermolysis bullosa"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "98027",
+                        "Label": "Rare disease with odontological manifestation"
+                    }
+                ]
+            }
+        ],
+        "Phenotypes": [
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001030",
+                    "HPOTerm": "Fragile skin",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0008066",
+                    "HPOTerm": "Abnormal blistering of the skin",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002215",
+                    "HPOTerm": "Sparse axillary hair",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002225",
+                    "HPOTerm": "Sparse pubic hair",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0004529",
+                    "HPOTerm": "Atrophic, patchy alopecia",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0006297",
+                    "HPOTerm": "Enamel hypoplasia",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0008404",
+                    "HPOTerm": "Nail dystrophy",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0009722",
+                    "HPOTerm": "Dental enamel pits",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0011073",
+                    "HPOTerm": "Abnormality of dental color",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0031045",
+                    "HPOTerm": "Acral blistering",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0032156",
+                    "HPOTerm": "Skin detachment",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001057",
+                    "HPOTerm": "Aplasia cutis congenita",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001810",
+                    "HPOTerm": "Dystrophic toenail",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0004552",
+                    "HPOTerm": "Scarring alopecia of scalp",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0008391",
+                    "HPOTerm": "Dystrophic fingernails",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000987",
+                    "HPOTerm": "Atypical scarring of skin",
+                    "HPOFrequency": "Very rare (<4-1%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001056",
+                    "HPOTerm": "Milia",
+                    "HPOFrequency": "Very rare (<4-1%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0003121",
+                    "HPOTerm": "Limb joint contracture",
+                    "HPOFrequency": "Very rare (<4-1%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0004057",
+                    "HPOTerm": "Mitten deformity",
+                    "HPOFrequency": "Very rare (<4-1%)"
+                }
+            }
+        ],
+        "Prevalences": [
+            {
+                "Prevalence": {
+                    "Source": "[EXPERT]",
+                    "PrevalenceType": "Cases/families",
+                    "PrevalenceQualification": "Case(s)",
+                    "PrevalenceClass": "no data",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            },
+            {
+                "Prevalence": {
+                    "Source": "ORPHANET",
+                    "PrevalenceType": "Point prevalence",
+                    "PrevalenceQualification": "Class only",
+                    "PrevalenceClass": "<1 / 1 000 000",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            }
+        ],
+        "AverageAgeOfOnsets": [
+            {
+                "AverageAgeOfOnset": {
+                    "value": "Infancy"
+                }
+            },
+            {
+                "AverageAgeOfOnset": {
+                    "value": "Neonatal"
+                }
+            }
+        ],
+        "TypeOfInheritances": {
+            "TypeOfInheritance": [
+                {
+                    "value": "Autosomal recessive"
+                }
+            ]
+        }
+    }
+}

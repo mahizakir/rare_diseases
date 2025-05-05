@@ -1,0 +1,70 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "658778",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "658778",
+        "Label": "COQ7-related distal hereditary motor neuropathy",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_658778",
+        "DisorderType": {
+            "value": "Disease",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377788"
+        },
+        "ExternalReferences": [
+            {
+                "Source": "OMIM",
+                "Reference": "620402",
+                "DisorderMappingRelation": "E (Exact mapping: the two concepts are equivalent)"
+            }
+        ],
+        "Genes": [
+            {
+                "Gene": {
+                    "Symbol": "COQ7",
+                    "Name": "coenzyme Q7, hydroxylase",
+                    "ExternalReferences": [
+                        {
+                            "Source": "OMIM",
+                            "Reference": "601683"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "2244"
+                        },
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "COQ7"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            }
+        ],
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "140468",
+                        "Label": "Autosomal recessive distal hereditary motor neuropathy"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "35656",
+                        "Label": "Coenzyme Q10 deficiency"
+                    }
+                ]
+            }
+        ],
+        "TypeOfInheritances": {
+            "TypeOfInheritance": [
+                {
+                    "value": "Autosomal recessive"
+                }
+            ]
+        }
+    }
+}

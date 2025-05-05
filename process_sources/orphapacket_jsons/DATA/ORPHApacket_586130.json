@@ -1,0 +1,63 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "586130",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "586130",
+        "Label": "Sporadic fatal insomnia",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_586130",
+        "DisorderType": {
+            "value": "Disease",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377788"
+        },
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "A rare sporadic human prion disease characterized by adult onset of progredient neurodegeneration presenting as a combination of psychiatric sleep and oculomotor disturbances with development of progressive cognitive impairment (the predominantly affected cognitive domains being memory temporal and/or spatial orientation language executive functions and attention) postural instability and sometimes additional motor abnormalities and autonomic hyperactivity in the course of the disease. Bilateral thalamic hypometabolism on FDG-PET imaging and positive prion seeding activity in the cerebrospinal fluid are present in many cases. The disease is fatal within typically two to three years."
+        },
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "576356",
+                        "Label": "Sporadic human prion disease"
+                    }
+                ]
+            }
+        ],
+        "Prevalences": [
+            {
+                "Prevalence": {
+                    "Source": "PMID: 30048013",
+                    "PrevalenceType": "Cases/families",
+                    "PrevalenceQualification": "Case(s)",
+                    "PrevalenceClass": "no data",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            },
+            {
+                "Prevalence": {
+                    "Source": "PMID: 30048013",
+                    "PrevalenceType": "Point prevalence",
+                    "PrevalenceQualification": "Class only",
+                    "PrevalenceClass": "<1 / 1 000 000",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            }
+        ],
+        "AverageAgeOfOnsets": [
+            {
+                "AverageAgeOfOnset": {
+                    "value": "Adult"
+                }
+            },
+            {
+                "AverageAgeOfOnset": {
+                    "value": "Elderly"
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,410 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "3337",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "3337",
+        "Label": "Primary Fanconi renotubular syndrome",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_3337",
+        "DisorderType": {
+            "value": "Disease",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377788"
+        },
+        "Synonyms": [
+            {
+                "Synonym": "DeToni-Debr\u00e9-Fanconi syndrome"
+            },
+            {
+                "Synonym": "Primary Fanconi renal syndrome"
+            }
+        ],
+        "ExternalReferences": [
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "134600",
+                    "DisorderMappingRelation": "E (Exact mapping: the two concepts are equivalent)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "613388",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "615605",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "618913",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            }
+        ],
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "A rare generalized genetic disorder of proximal tubular transport characterized by excessive urine output with loss of low molecular weight solutes (amino acids glucose low-molecular weight proteins organic acids carnitine calcium phosphate potassium bicarbonate) and water and which can be life threatening."
+        },
+        "Genes": [
+            {
+                "Gene": {
+                    "Symbol": "EHHADH",
+                    "Name": "enoyl-CoA hydratase and 3-hydroxyacyl CoA dehydrogenase",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "EHHADH"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "3247"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "607037"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "GATM",
+                    "Name": "glycine amidinotransferase",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "GATM"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "4175"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "602360"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "SLC34A1",
+                    "Name": "solute carrier family 34 member 1",
+                    "ExternalReferences": [
+                        {
+                            "Source": "HGNC",
+                            "Reference": "11019"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "182309"
+                        },
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "SLC34A1"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) (loss of function) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "NDUFAF6",
+                    "Name": "NADH:ubiquinone oxidoreductase complex assembly factor 6",
+                    "ExternalReferences": [
+                        {
+                            "Source": "HGNC",
+                            "Reference": "28625"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "612392"
+                        },
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "NDUFAF6"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            }
+        ],
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "93603",
+                        "Label": "Rare renal tubular disease"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "183592",
+                        "Label": "Genetic renal tubular disease"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "506213",
+                        "Label": "Rare disorder potentially indicated for kidney transplant"
+                    }
+                ]
+            }
+        ],
+        "Phenotypes": [
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000117",
+                    "HPOTerm": "Renal phosphate wasting",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001510",
+                    "HPOTerm": "Growth delay",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002049",
+                    "HPOTerm": "Proximal renal tubular acidosis",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002909",
+                    "HPOTerm": "Generalized aminoaciduria",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0003076",
+                    "HPOTerm": "Glycosuria",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0003126",
+                    "HPOTerm": "Low-molecular-weight proteinuria",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0003149",
+                    "HPOTerm": "Hyperuricosuria",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0003646",
+                    "HPOTerm": "Bicarbonaturia",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0004910",
+                    "HPOTerm": "Bicarbonate-wasting renal tubular acidosis",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0004918",
+                    "HPOTerm": "Hyperchloremic metabolic acidosis",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0032943",
+                    "HPOTerm": "Abnormal urine pH",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001324",
+                    "HPOTerm": "Muscle weakness",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001824",
+                    "HPOTerm": "Weight loss",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002148",
+                    "HPOTerm": "Hypophosphatemia",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002653",
+                    "HPOTerm": "Bone pain",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002659",
+                    "HPOTerm": "Increased susceptibility to fractures",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002749",
+                    "HPOTerm": "Osteomalacia",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002900",
+                    "HPOTerm": "Hypokalemia",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0003081",
+                    "HPOTerm": "Increased urinary potassium",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0003234",
+                    "HPOTerm": "Decreased circulating carnitine concentration",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0003537",
+                    "HPOTerm": "Hypouricemia",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0004912",
+                    "HPOTerm": "Hypophosphatemic rickets",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0012606",
+                    "HPOTerm": "Renal sodium wasting",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0012622",
+                    "HPOTerm": "Chronic kidney disease",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001944",
+                    "HPOTerm": "Dehydration",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002150",
+                    "HPOTerm": "Hypercalciuria",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0003774",
+                    "HPOTerm": "Stage 5 chronic kidney disease",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001943",
+                    "HPOTerm": "Hypoglycemia",
+                    "HPOFrequency": "Very rare (<4-1%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002206",
+                    "HPOTerm": "Pulmonary fibrosis",
+                    "HPOFrequency": "Very rare (<4-1%)"
+                }
+            }
+        ],
+        "Prevalences": {
+            "Prevalence": [
+                {
+                    "Source": "[EXPERT]",
+                    "PrevalenceType": "Point prevalence",
+                    "PrevalenceQualification": "Class only",
+                    "PrevalenceClass": "Unknown",
+                    "ValMoy": "0.0",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            ]
+        },
+        "AverageAgeOfOnsets": [
+            {
+                "AverageAgeOfOnset": {
+                    "value": "Childhood"
+                }
+            },
+            {
+                "AverageAgeOfOnset": {
+                    "value": "Infancy"
+                }
+            }
+        ],
+        "TypeOfInheritances": [
+            {
+                "TypeOfInheritance": {
+                    "value": "Autosomal dominant"
+                }
+            },
+            {
+                "TypeOfInheritance": {
+                    "value": "Autosomal recessive"
+                }
+            }
+        ]
+    }
+}

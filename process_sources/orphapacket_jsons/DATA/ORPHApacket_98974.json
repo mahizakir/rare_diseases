@@ -1,0 +1,306 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "98974",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "98974",
+        "Label": "Fuchs endothelial corneal dystrophy",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_98974",
+        "DisorderType": {
+            "value": "Disease",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377788"
+        },
+        "Synonyms": [
+            {
+                "Synonym": "Endoepithelial corneal dystrophy"
+            },
+            {
+                "Synonym": "FECD"
+            },
+            {
+                "Synonym": "Late hereditary endothelial dystrophy"
+            }
+        ],
+        "ExternalReferences": [
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "136800",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "610158",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "613267",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "613268",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "613269",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "613270",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "613271",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "615523",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            }
+        ],
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "A disorder that is the most frequent form of posterior corneal dystrophy and is characterized by excrescences on a thickened Descemet membrane (corneal guttae) generalized corneal edema with gradually decreased visual acuity."
+        },
+        "Genes": [
+            {
+                "Gene": {
+                    "Symbol": "SLC4A11",
+                    "Name": "solute carrier family 4 member 11",
+                    "ExternalReferences": [
+                        {
+                            "Source": "HGNC",
+                            "Reference": "16438"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "610206"
+                        },
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "SLC4A11"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "ZEB1",
+                    "Name": "zinc finger E-box binding homeobox 1",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "ZEB1"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "11642"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "189909"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) (loss of function) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "COL8A2",
+                    "Name": "collagen type VIII alpha 2 chain",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "COL8A2"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "2216"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "120252"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "TCF4",
+                    "Name": "transcription factor 4",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "TCF4"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "11634"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "602272"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "AGBL1",
+                    "Name": "AGBL carboxypeptidase 1",
+                    "ExternalReferences": [
+                        {
+                            "Source": "HGNC",
+                            "Reference": "26504"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "615496"
+                        },
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "AGBL1"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            }
+        ],
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "98627",
+                        "Label": "Posterior corneal dystrophy"
+                    }
+                ]
+            }
+        ],
+        "Phenotypes": [
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000969",
+                    "HPOTerm": "Edema",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0007663",
+                    "HPOTerm": "Reduced visual acuity",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0007957",
+                    "HPOTerm": "Corneal opacity",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0011488",
+                    "HPOTerm": "Abnormal corneal endothelium morphology",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0011490",
+                    "HPOTerm": "Abnormal Descemet membrane morphology",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0011491",
+                    "HPOTerm": "Reduced number of corneal endothelial cells",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000572",
+                    "HPOTerm": "Visual loss",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000662",
+                    "HPOTerm": "Nyctalopia",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0030857",
+                    "HPOTerm": "Eye movement-induced pain",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            }
+        ],
+        "Prevalences": {
+            "Prevalence": [
+                {
+                    "Source": "ORPHANET",
+                    "PrevalenceType": "Point prevalence",
+                    "PrevalenceQualification": "Class only",
+                    "PrevalenceClass": "Unknown",
+                    "ValMoy": "0.0",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            ]
+        },
+        "AverageAgeOfOnsets": {
+            "AverageAgeOfOnset": [
+                {
+                    "value": "Adult"
+                }
+            ]
+        },
+        "TypeOfInheritances": [
+            {
+                "TypeOfInheritance": {
+                    "value": "Autosomal dominant"
+                }
+            },
+            {
+                "TypeOfInheritance": {
+                    "value": "Multigenic/multifactorial"
+                }
+            },
+            {
+                "TypeOfInheritance": {
+                    "value": "Not applicable"
+                }
+            }
+        ]
+    }
+}

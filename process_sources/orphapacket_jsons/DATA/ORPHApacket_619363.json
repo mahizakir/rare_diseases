@@ -1,0 +1,129 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "619363",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "619363",
+        "Label": "NOCARH syndrome",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_619363",
+        "DisorderType": {
+            "value": "Disease",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377788"
+        },
+        "Synonyms": [
+            {
+                "Synonym": "Neonatal-onset cytopenia-autoinflammation-rash episodes of HLH syndrome"
+            },
+            {
+                "Synonym": "Neonatal-onset cytopenia-autoinflammation-rash episodes of hemophagocytic lymphohistiocytosis syndrome"
+            }
+        ],
+        "Genes": [
+            {
+                "Gene": {
+                    "Symbol": "CDC42",
+                    "Name": "cell division cycle 42",
+                    "ExternalReferences": [
+                        {
+                            "Source": "HGNC",
+                            "Reference": "1736"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "116952"
+                        },
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "CDC42"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            }
+        ],
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "622720",
+                        "Label": "Genetic autoinflammatory syndrome with skin involvement"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "664482",
+                        "Label": "Primary hemophagocytic lymphohistiocytosis without hypopigmentation"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "619238",
+                        "Label": "Rare hereditary autoinflammatory disease"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "324936",
+                        "Label": "Unclassified autoinflammatory syndrome"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "290842",
+                        "Label": "Autoinflammatory syndrome with skin involvement"
+                    }
+                ]
+            }
+        ],
+        "Prevalences": [
+            {
+                "Prevalence": {
+                    "Source": "31271789[PMID]_37741518[PMID]",
+                    "PrevalenceType": "Cases/families",
+                    "PrevalenceQualification": "Case(s)",
+                    "PrevalenceClass": "no data",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            },
+            {
+                "Prevalence": {
+                    "Source": "31271789[PMID]_37741518[PMID]_ORPHANET",
+                    "PrevalenceType": "Point prevalence",
+                    "PrevalenceQualification": "Class only",
+                    "PrevalenceClass": "<1 / 1 000 000",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            }
+        ],
+        "AverageAgeOfOnsets": [
+            {
+                "AverageAgeOfOnset": {
+                    "value": "Infancy"
+                }
+            },
+            {
+                "AverageAgeOfOnset": {
+                    "value": "Neonatal"
+                }
+            }
+        ],
+        "TypeOfInheritances": {
+            "TypeOfInheritance": [
+                {
+                    "value": "Autosomal dominant"
+                }
+            ]
+        }
+    }
+}

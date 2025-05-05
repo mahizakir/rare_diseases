@@ -1,0 +1,333 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "596448",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "596448",
+        "Label": "IgG4-related systemic disease",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_596448",
+        "DisorderType": {
+            "value": "Disease",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377788"
+        },
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "A rare systemic autoimmune disease characterized by mass-forming lesions with a lymphoplasmacytic infiltrate rich in IgG4-positive plasma cells and storiform fibrosis often displaying obliterative phlebitis and usually accompanied by elevated serum IgG4. Almost any organ may be affected with pancreas salivary gland and orbit being the most common. Multi-organ involvement (synchronously or metachronously) is typical. Many patients show lymphadenopathy most often involving the mediastinal intra-abdominal axillary and cervical nodes. Symptoms are usually attributable to the mass effect of the lesions."
+        },
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "284264",
+                        "Label": "IgG4-related disease"
+                    }
+                ]
+            }
+        ],
+        "Childs": [],
+        "Phenotypes": [
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000872",
+                    "HPOTerm": "Hashimoto thyroiditis",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001733",
+                    "HPOTerm": "Pancreatitis",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0003493",
+                    "HPOTerm": "Antinuclear antibody positivity",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0005200",
+                    "HPOTerm": "Retroperitoneal fibrosis",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0005421",
+                    "HPOTerm": "Decreased circulating complement C3 concentration",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0030991",
+                    "HPOTerm": "Sclerosing cholangitis",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0030992",
+                    "HPOTerm": "Abnormal pancreatic duct morphology",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0031281",
+                    "HPOTerm": "Sialadenitis",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0032300",
+                    "HPOTerm": "Increased circulating IgG4 level",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0045042",
+                    "HPOTerm": "Decreased circulating complement C4 concentration",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002923",
+                    "HPOTerm": "Rheumatoid factor positive",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0003212",
+                    "HPOTerm": "Increased circulating IgE level",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0003237",
+                    "HPOTerm": "Increased circulating IgG level",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0003565",
+                    "HPOTerm": "Elevated erythrocyte sedimentation rate",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0005339",
+                    "HPOTerm": "Abnormality of complement system",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0011227",
+                    "HPOTerm": "Elevated circulating C-reactive protein concentration",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0032252",
+                    "HPOTerm": "Granuloma",
+                    "HPOFrequency": "Very rare (<4-1%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001744",
+                    "HPOTerm": "Splenomegaly",
+                    "HPOFrequency": "Excluded (0%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001873",
+                    "HPOTerm": "Thrombocytopenia",
+                    "HPOFrequency": "Excluded (0%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001880",
+                    "HPOTerm": "Eosinophilia",
+                    "HPOFrequency": "Excluded (0%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001882",
+                    "HPOTerm": "Leukopenia",
+                    "HPOFrequency": "Excluded (0%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001945",
+                    "HPOTerm": "Fever",
+                    "HPOFrequency": "Excluded (0%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0032229",
+                    "HPOTerm": "Perinuclear antineutrophil antibody positivity",
+                    "HPOFrequency": "Excluded (0%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0032235",
+                    "HPOTerm": "Anti-La/SS-B antibody positivity",
+                    "HPOFrequency": "Excluded (0%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0033028",
+                    "HPOTerm": "Anti-U1 ribonucleoprotein antibody positivity",
+                    "HPOFrequency": "Excluded (0%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0033040",
+                    "HPOTerm": "Anti-Sm antibody positivity",
+                    "HPOFrequency": "Excluded (0%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0033555",
+                    "HPOTerm": "Anti-Ro/SS-A antibody positivity",
+                    "HPOFrequency": "Excluded (0%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0100280",
+                    "HPOTerm": "Crohn's disease",
+                    "HPOFrequency": "Excluded (0%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0100778",
+                    "HPOTerm": "Cryoglobulinemia",
+                    "HPOFrequency": "Excluded (0%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000315",
+                    "HPOTerm": "Abnormality of the orbital region",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            }
+        ],
+        "Prevalences": [
+            {
+                "Prevalence": {
+                    "Source": "ORPHANET",
+                    "PrevalenceType": "Point prevalence",
+                    "PrevalenceQualification": "Class only",
+                    "PrevalenceClass": "Unknown",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            },
+            {
+                "Prevalence": {
+                    "Source": "ORPHANET",
+                    "PrevalenceType": "Annual incidence",
+                    "PrevalenceQualification": "Class only",
+                    "PrevalenceClass": "Unknown",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            },
+            {
+                "Prevalence": {
+                    "Source": "21881964[PMID]_25360299[PMID]_ORPHANET",
+                    "PrevalenceType": "Point prevalence",
+                    "PrevalenceQualification": "Class only",
+                    "PrevalenceClass": "1-9 / 100 000",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Japan"
+                }
+            },
+            {
+                "Prevalence": {
+                    "Source": "21881964[PMID]_33906357[PMID]_ORPHANET",
+                    "PrevalenceType": "Annual incidence",
+                    "PrevalenceQualification": "Value and class",
+                    "PrevalenceClass": "1-9 / 100 000",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Japan"
+                }
+            },
+            {
+                "Prevalence": {
+                    "Source": "30931680[PMID]",
+                    "PrevalenceType": "Point prevalence",
+                    "PrevalenceQualification": "Value and class",
+                    "PrevalenceClass": "1-9 / 1 000 000",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Denmark"
+                }
+            },
+            {
+                "Prevalence": {
+                    "Source": "30931680[PMID]",
+                    "PrevalenceType": "Annual incidence",
+                    "PrevalenceQualification": "Value and class",
+                    "PrevalenceClass": "1-9 / 1 000 000",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Denmark"
+                }
+            }
+        ],
+        "AverageAgeOfOnsets": [
+            {
+                "AverageAgeOfOnset": {
+                    "value": "Adolescent"
+                }
+            },
+            {
+                "AverageAgeOfOnset": {
+                    "value": "Adult"
+                }
+            },
+            {
+                "AverageAgeOfOnset": {
+                    "value": "Childhood"
+                }
+            },
+            {
+                "AverageAgeOfOnset": {
+                    "value": "Elderly"
+                }
+            }
+        ],
+        "TypeOfInheritances": {
+            "TypeOfInheritance": [
+                {
+                    "value": "Not applicable"
+                }
+            ]
+        }
+    }
+}

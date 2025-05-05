@@ -1,0 +1,118 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "641368",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "641368",
+        "Label": "Autosomal recessive hyper-IgE syndrome due to ZNF341 deficiency",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_641368",
+        "DisorderType": {
+            "value": "Disease",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377788"
+        },
+        "Synonyms": [
+            {
+                "Synonym": "AR-HIES due to ZNF341 deficiency"
+            },
+            {
+                "Synonym": "Autosomal recessive HIES due to ZNF341 deficiency"
+            },
+            {
+                "Synonym": "Autosomal recessive hyperimmunoglobulin E syndrome due to zinc finger protein 341 deficiency"
+            }
+        ],
+        "ExternalReferences": [
+            {
+                "Source": "OMIM",
+                "Reference": "618282",
+                "DisorderMappingRelation": "E (Exact mapping: the two concepts are equivalent)"
+            }
+        ],
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "A rare hyper-IgE syndrome characterized by atopic dermatitis (eczema) chronic mucocutaneous candidiasis and elevated IgE levels due to ZNF341 deficiency. High plasma levels of IgG and low natural killer (NK) cell numbers are observed. Other major clinical features involve recurrent skin infections with skin abscesses and connective tissue abnormalities. Some patients may have recurrent lung infections."
+        },
+        "Genes": [
+            {
+                "Gene": {
+                    "Symbol": "ZNF341",
+                    "Name": "zinc finger protein 341",
+                    "ExternalReferences": [
+                        {
+                            "Source": "HGNC",
+                            "Reference": "15992"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "618269"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            }
+        ],
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "79391",
+                        "Label": "Immune deficiency with skin involvement"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "331223",
+                        "Label": "Hyper-IgE syndrome"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "183494",
+                        "Label": "Genetic immune deficiency with skin involvement"
+                    }
+                ]
+            }
+        ],
+        "Prevalences": [
+            {
+                "Prevalence": {
+                    "Source": "30264496[PMID]",
+                    "PrevalenceType": "Cases/families",
+                    "PrevalenceQualification": "Case(s)",
+                    "PrevalenceClass": "no data",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            },
+            {
+                "Prevalence": {
+                    "Source": "30264496[PMID]_ORPHANET",
+                    "PrevalenceType": "Point prevalence",
+                    "PrevalenceQualification": "Class only",
+                    "PrevalenceClass": "<1 / 1 000 000",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            }
+        ],
+        "AverageAgeOfOnsets": {
+            "AverageAgeOfOnset": [
+                {
+                    "value": "Infancy"
+                }
+            ]
+        },
+        "TypeOfInheritances": {
+            "TypeOfInheritance": [
+                {
+                    "value": "Autosomal recessive"
+                }
+            ]
+        }
+    }
+}

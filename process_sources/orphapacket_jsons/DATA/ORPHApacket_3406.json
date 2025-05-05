@@ -1,0 +1,167 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "3406",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "3406",
+        "Label": "Ulerythema ophryogenesis",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_3406",
+        "DisorderType": {
+            "value": "Disease",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377788"
+        },
+        "ExternalReferences": [
+            {
+                "Source": "OMIM",
+                "Reference": "604093",
+                "DisorderMappingRelation": "NTBT (ORPHAcode is narrower than the targeted code used to represent it)"
+            }
+        ],
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "Ulerythema ophryogenesis is characterised by inflammatory keratotic papules occurring on the face which may be followed by scars atrophy and alopecia. Prevalence is unknown but the disease affecting mainly children and young adults is rare. Erythema with mild hyperkeratosis of the hair follicles resulting in rough papules is observed on the cheeks and lateral aspects of the eyebrows. The disorder occasionally extends to the adjacent scalp ears and forehead and rarely to the extensor surfaces of the limbs. Symptoms regress with age although loss of the lateral aspects of the eyebrows can occur. Many cases occur sporadically; autosomal dominant inheritance has also been reported. There is no particular treatment but patients should avoid sun exposure without UV protection."
+        },
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "498",
+                        "Label": "Keratosis pilaris atrophicans"
+                    }
+                ]
+            }
+        ],
+        "Phenotypes": [
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001041",
+                    "HPOTerm": "Facial erythema",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0005338",
+                    "HPOTerm": "Sparse lateral eyebrow",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0007502",
+                    "HPOTerm": "Follicular hyperkeratosis",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0030350",
+                    "HPOTerm": "Erythematous papule",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0032152",
+                    "HPOTerm": "Keratosis pilaris",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0045059",
+                    "HPOTerm": "Hyperkeratotic papule",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000290",
+                    "HPOTerm": "Abnormality of the forehead",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000306",
+                    "HPOTerm": "Abnormality of the chin",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000958",
+                    "HPOTerm": "Dry skin",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0004334",
+                    "HPOTerm": "Dermal atrophy",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0004426",
+                    "HPOTerm": "Abnormality of the cheek",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001061",
+                    "HPOTerm": "Acne",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0005268",
+                    "HPOTerm": "Spontaneous abortion",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0032282",
+                    "HPOTerm": "Contact dermatitis",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            }
+        ],
+        "Prevalences": {
+            "Prevalence": [
+                {
+                    "Source": "ORPHANET",
+                    "PrevalenceType": "Point prevalence",
+                    "PrevalenceQualification": "Class only",
+                    "PrevalenceClass": "Unknown",
+                    "ValMoy": "0.0",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            ]
+        },
+        "AverageAgeOfOnsets": {
+            "AverageAgeOfOnset": [
+                {
+                    "value": "Childhood"
+                }
+            ]
+        },
+        "TypeOfInheritances": [
+            {
+                "TypeOfInheritance": {
+                    "value": "Autosomal dominant"
+                }
+            },
+            {
+                "TypeOfInheritance": {
+                    "value": "Not applicable"
+                }
+            }
+        ]
+    }
+}

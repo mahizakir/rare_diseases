@@ -1,0 +1,107 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "482",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "482",
+        "Label": "Kimura disease",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_482",
+        "DisorderType": {
+            "value": "Disease",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377788"
+        },
+        "Synonyms": [
+            {
+                "Synonym": "Eosinophilic lymphogranuloma"
+            }
+        ],
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "A rare systemic disease characterized by chronic inflammation of unknown etiology and occurring predominantly in males in the second to third decades of life mainly in Southeast Asian countries. Patients present with painless soft tissue swelling most commonly involving the head and neck region usually with salivary gland involvement (parotid and submandibular glands) and regional lymphadenopathy. Frequent laboratory findings are peripheral eosinophilia and raised serum IgE. The diagnosis is confirmed histopathologically by the presence of well-formed lymphoid follicles with eosinophilic infiltration and vascular proliferation in the biopsy."
+        },
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "182222",
+                        "Label": "Rare systemic disease"
+                    }
+                ]
+            }
+        ],
+        "Phenotypes": [
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001880",
+                    "HPOTerm": "Eosinophilia",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002729",
+                    "HPOTerm": "Follicular hyperplasia",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0003212",
+                    "HPOTerm": "Increased circulating IgE level",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002716",
+                    "HPOTerm": "Lymphadenopathy",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0010286",
+                    "HPOTerm": "Abnormal salivary gland morphology",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            }
+        ],
+        "Prevalences": [
+            {
+                "Prevalence": {
+                    "Source": "18808562[PMID]",
+                    "PrevalenceType": "Cases/families",
+                    "PrevalenceQualification": "Case(s)",
+                    "PrevalenceClass": "no data",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            },
+            {
+                "Prevalence": {
+                    "Source": "ORPHANET",
+                    "PrevalenceType": "Point prevalence",
+                    "PrevalenceQualification": "Class only",
+                    "PrevalenceClass": "<1 / 1 000 000",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            }
+        ],
+        "AverageAgeOfOnsets": {
+            "AverageAgeOfOnset": [
+                {
+                    "value": "Adult"
+                }
+            ]
+        },
+        "TypeOfInheritances": {
+            "TypeOfInheritance": [
+                {
+                    "value": "Unknown"
+                }
+            ]
+        }
+    }
+}

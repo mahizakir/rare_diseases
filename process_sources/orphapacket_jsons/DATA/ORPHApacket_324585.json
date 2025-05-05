@@ -1,0 +1,93 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "324585",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "324585",
+        "Label": "Autosomal dominant intermediate Charcot-Marie-Tooth disease with neuropathic pain",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_324585",
+        "DisorderType": {
+            "value": "Disease",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377788"
+        },
+        "Synonyms": [
+            {
+                "Synonym": "Autosomal dominant intermediate CMT disease with neuropathic pain"
+            }
+        ],
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "A rare subtype of autosomal dominant intermediate Charcot-Marie-Tooth disease characterized by debilitating neuropathic pain associated with mild distal symmetrical lower limb sensory loss and mild or absent motor dysfunction. Patients typically manifest with burning aching shooting or throbbing pain and intermittent paraesthesia in toes heels and ankles."
+        },
+        "Genes": [
+            {
+                "Gene": {
+                    "Symbol": "MPZ",
+                    "Name": "myelin protein zero",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "MPZ"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "7225"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "159440"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            }
+        ],
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "90114",
+                        "Label": "Autosomal dominant intermediate Charcot-Marie-Tooth disease"
+                    }
+                ]
+            }
+        ],
+        "Prevalences": [
+            {
+                "Prevalence": {
+                    "Source": "22704856[PMID]",
+                    "PrevalenceType": "Cases/families",
+                    "PrevalenceQualification": "Case(s)",
+                    "PrevalenceClass": "no data",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            },
+            {
+                "Prevalence": {
+                    "Source": "ORPHANET",
+                    "PrevalenceType": "Point prevalence",
+                    "PrevalenceQualification": "Class only",
+                    "PrevalenceClass": "<1 / 1 000 000",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            }
+        ],
+        "AverageAgeOfOnsets": {
+            "AverageAgeOfOnset": [
+                {
+                    "value": "All ages"
+                }
+            ]
+        },
+        "TypeOfInheritances": {
+            "TypeOfInheritance": [
+                {
+                    "value": "Autosomal dominant"
+                }
+            ]
+        }
+    }
+}

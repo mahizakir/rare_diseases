@@ -1,0 +1,30 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "208989",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "208989",
+        "Label": "Non-paraneoplastic sensory ganglionopathy",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_208989",
+        "DisorderType": {
+            "value": "Disease",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377788"
+        },
+        "Synonyms": [
+            {
+                "Synonym": "Non-paraneoplastic sensory neuronopathy"
+            }
+        ],
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "208984",
+                        "Label": "Acquired sensory ganglionopathy"
+                    }
+                ]
+            }
+        ]
+    }
+}

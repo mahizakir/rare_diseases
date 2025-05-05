@@ -1,0 +1,132 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "352333",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "352333",
+        "Label": "Congenital ichthyosis-intellectual disability-spastic quadriplegia syndrome",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_352333",
+        "DisorderType": {
+            "value": "Disease",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377788"
+        },
+        "Synonyms": [
+            {
+                "Synonym": "Congenital ichthyosis-intellectual disability-spastic tetraplegia syndrome"
+            },
+            {
+                "Synonym": "ELOVL4-related neuro ichthyosis"
+            }
+        ],
+        "ExternalReferences": [
+            {
+                "Source": "OMIM",
+                "Reference": "614457",
+                "DisorderMappingRelation": "E (Exact mapping: the two concepts are equivalent)"
+            }
+        ],
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "A rare autosomal ichthyosis syndrome with prominent neurologic signs characterized by the association of congenital ichthyosis with global developmental delay intellectual disability infantile-onset seizures and spastic tetraplegia. Brain imaging may show delayed myelination and cerebral atrophy. Marked intrafamilial variability has been reported."
+        },
+        "Genes": [
+            {
+                "Gene": {
+                    "Symbol": "ELOVL4",
+                    "Name": "ELOVL fatty acid elongase 4",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "ELOVL4"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "14415"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "605512"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            }
+        ],
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "68385",
+                        "Label": "Neurometabolic disease"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "611314",
+                        "Label": "Rare syndromic intellectual disability without multiple congenital anomalies/dysmorphic syndrome"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "281238",
+                        "Label": "Autosomal ichthyosis syndrome with prominent neurologic signs"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "352306",
+                        "Label": "Disorder of phospholipids, sphingolipids and fatty acids biosynthesis with central nervous system predominant involvement"
+                    }
+                ]
+            }
+        ],
+        "Prevalences": [
+            {
+                "Prevalence": {
+                    "Source": "22100072[PMID]",
+                    "PrevalenceType": "Cases/families",
+                    "PrevalenceQualification": "Case(s)",
+                    "PrevalenceClass": "no data",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            },
+            {
+                "Prevalence": {
+                    "Source": "ORPHANET",
+                    "PrevalenceType": "Point prevalence",
+                    "PrevalenceQualification": "Class only",
+                    "PrevalenceClass": "<1 / 1 000 000",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            }
+        ],
+        "AverageAgeOfOnsets": [
+            {
+                "AverageAgeOfOnset": {
+                    "value": "Infancy"
+                }
+            },
+            {
+                "AverageAgeOfOnset": {
+                    "value": "Neonatal"
+                }
+            }
+        ],
+        "TypeOfInheritances": {
+            "TypeOfInheritance": [
+                {
+                    "value": "Autosomal recessive"
+                }
+            ]
+        }
+    }
+}

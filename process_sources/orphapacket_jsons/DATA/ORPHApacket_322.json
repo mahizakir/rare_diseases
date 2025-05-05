@@ -1,0 +1,451 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "322",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "322",
+        "Label": "Exstrophy-epispadias complex",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_322",
+        "DisorderType": {
+            "value": "Malformation syndrome",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377789"
+        },
+        "Synonyms": [
+            {
+                "Synonym": "BEEC"
+            },
+            {
+                "Synonym": "Bladder exstrophy-epispadias-cloacal extrophy complex"
+            },
+            {
+                "Synonym": "EEC"
+            }
+        ],
+        "ExternalReferences": [
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "258040",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "600057",
+                    "DisorderMappingRelation": "E (Exact mapping: the two concepts are equivalent)"
+                }
+            }
+        ],
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "Exstrophy-Epispadias Complex (EEC) represents a spectrum of genitourinary malformations ranging in severity from epispadias (E) and classical bladder exstrophy (CEB) to exstrophy of the cloaca (EC) as the most severe form (see these terms). Depending on severity the EEC may involve the urinary system the musculoskeletal system the pelvis the pelvic floor the abdominal wall the genitalia and sometimes the spine and the anus."
+        },
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "108977",
+                        "Label": "Non-syndromic diaphragmatic or abdominal wall malformation"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "93546",
+                        "Label": "Non-syndromic renal or urinary tract malformation"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "182124",
+                        "Label": "Non-syndromic urogenital tract malformation of male and female"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "357506",
+                        "Label": "Genetic non-syndromic renal or urinary tract malformation"
+                    }
+                ]
+            }
+        ],
+        "Childs": [
+            {
+                "Child": {
+                    "Label": "Isolated epispadias",
+                    "ORPHAcode": "93928",
+                    "Genes": "no data"
+                }
+            },
+            {
+                "Child": {
+                    "Label": "Cloacal exstrophy",
+                    "ORPHAcode": "93929",
+                    "Genes": "no data"
+                }
+            },
+            {
+                "Child": {
+                    "Label": "Bladder exstrophy",
+                    "ORPHAcode": "93930",
+                    "Genes": [
+                        {
+                            "Gene": {
+                                "Label": "tumor protein p63",
+                                "Symbol": "TP63",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "15979"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "603273"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Major susceptibility factor in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "ISL LIM homeobox 1",
+                                "Symbol": "ISL1",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "6132"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "600366"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Major susceptibility factor in"
+                            }
+                        }
+                    ]
+                }
+            }
+        ],
+        "Phenotypes": [
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000039",
+                    "HPOTerm": "Epispadias",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000076",
+                    "HPOTerm": "Vesicoureteral reflux",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002836",
+                    "HPOTerm": "Bladder exstrophy",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0004298",
+                    "HPOTerm": "Abnormality of the abdominal wall",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0010866",
+                    "HPOTerm": "Abdominal wall defect",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0100645",
+                    "HPOTerm": "Cystocele",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000020",
+                    "HPOTerm": "Urinary incontinence",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000023",
+                    "HPOTerm": "Inguinal hernia",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000048",
+                    "HPOTerm": "Bifid scrotum",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000075",
+                    "HPOTerm": "Renal duplication",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000077",
+                    "HPOTerm": "Abnormality of the kidney",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000083",
+                    "HPOTerm": "Renal insufficiency",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000085",
+                    "HPOTerm": "Horseshoe kidney",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000089",
+                    "HPOTerm": "Renal hypoplasia",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000136",
+                    "HPOTerm": "Bifid uterus",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001367",
+                    "HPOTerm": "Abnormal joint morphology",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001539",
+                    "HPOTerm": "Omphalocele",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0004321",
+                    "HPOTerm": "Bladder fistula",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0011024",
+                    "HPOTerm": "Abnormality of the gastrointestinal tract",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0011842",
+                    "HPOTerm": "Abnormality of skeletal morphology",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0025489",
+                    "HPOTerm": "Bladder duplication",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0030014",
+                    "HPOTerm": "Female sexual dysfunction",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0030261",
+                    "HPOTerm": "Absent penis",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0040307",
+                    "HPOTerm": "Male sexual dysfunction",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0100599",
+                    "HPOTerm": "Bifid penis",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0100600",
+                    "HPOTerm": "Penoscrotal transposition",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000028",
+                    "HPOTerm": "Cryptorchidism",
+                    "HPOFrequency": "Very rare (<4-1%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000069",
+                    "HPOTerm": "Abnormality of the ureter",
+                    "HPOFrequency": "Very rare (<4-1%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000110",
+                    "HPOTerm": "Renal dysplasia",
+                    "HPOFrequency": "Very rare (<4-1%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000238",
+                    "HPOTerm": "Hydrocephalus",
+                    "HPOFrequency": "Very rare (<4-1%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000252",
+                    "HPOTerm": "Microcephaly",
+                    "HPOFrequency": "Very rare (<4-1%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000271",
+                    "HPOTerm": "Abnormality of the face",
+                    "HPOFrequency": "Very rare (<4-1%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000290",
+                    "HPOTerm": "Abnormality of the forehead",
+                    "HPOFrequency": "Very rare (<4-1%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000315",
+                    "HPOTerm": "Abnormality of the orbital region",
+                    "HPOFrequency": "Very rare (<4-1%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001627",
+                    "HPOTerm": "Abnormal heart morphology",
+                    "HPOFrequency": "Very rare (<4-1%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002023",
+                    "HPOTerm": "Anal atresia",
+                    "HPOFrequency": "Very rare (<4-1%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002025",
+                    "HPOTerm": "Anal stenosis",
+                    "HPOFrequency": "Very rare (<4-1%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002414",
+                    "HPOTerm": "Spina bifida",
+                    "HPOFrequency": "Very rare (<4-1%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0010475",
+                    "HPOTerm": "Cloacal exstrophy",
+                    "HPOFrequency": "Very rare (<4-1%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0012443",
+                    "HPOTerm": "Abnormality of brain morphology",
+                    "HPOFrequency": "Very rare (<4-1%)"
+                }
+            }
+        ],
+        "Prevalences": {
+            "Prevalence": [
+                {
+                    "Source": "ORPHANET",
+                    "PrevalenceType": "Point prevalence",
+                    "PrevalenceQualification": "Class only",
+                    "PrevalenceClass": "Unknown",
+                    "ValMoy": "0.0",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            ]
+        },
+        "AverageAgeOfOnsets": [
+            {
+                "AverageAgeOfOnset": {
+                    "value": "Antenatal"
+                }
+            },
+            {
+                "AverageAgeOfOnset": {
+                    "value": "Neonatal"
+                }
+            }
+        ],
+        "TypeOfInheritances": {
+            "TypeOfInheritance": [
+                {
+                    "value": "Multigenic/multifactorial"
+                }
+            ]
+        }
+    }
+}

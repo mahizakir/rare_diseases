@@ -1,0 +1,102 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "158003",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "158003",
+        "Label": "Xanthoma disseminatum",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_158003",
+        "DisorderType": {
+            "value": "Disease",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377788"
+        },
+        "Synonyms": [
+            {
+                "Synonym": "Montgomery syndrome"
+            }
+        ],
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "A rare systemic disease characterized by normolipidemic mucocutaneous xanthomatosis with histiocytic cells proliferation and secondary deposition of lipid in the dermis. Clinically multiple grouped coalescent yellowish red to brown papulonodular lesions in the skin and mucous membranes are present. Less often internal organs are affected in particular pituitary gland and/or hypothalamus. Patients present with characteristic mucocutaneous lesions diabetes insipidus dysphagia dyspnea hoarseness of voice and blurred vision."
+        },
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "157987",
+                        "Label": "Non-Langerhans cell histiocytosis"
+                    }
+                ]
+            }
+        ],
+        "Phenotypes": [
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002797",
+                    "HPOTerm": "Osteolysis",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000873",
+                    "HPOTerm": "Diabetes insipidus",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000159",
+                    "HPOTerm": "Abnormal lip morphology",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000600",
+                    "HPOTerm": "Abnormality of the pharynx",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001600",
+                    "HPOTerm": "Abnormality of the larynx",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0025426",
+                    "HPOTerm": "Abnormal bronchus morphology",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            }
+        ],
+        "AverageAgeOfOnsets": [
+            {
+                "AverageAgeOfOnset": {
+                    "value": "Adolescent"
+                }
+            },
+            {
+                "AverageAgeOfOnset": {
+                    "value": "Adult"
+                }
+            },
+            {
+                "AverageAgeOfOnset": {
+                    "value": "Childhood"
+                }
+            }
+        ],
+        "TypeOfInheritances": {
+            "TypeOfInheritance": [
+                {
+                    "value": "Not applicable"
+                }
+            ]
+        }
+    }
+}

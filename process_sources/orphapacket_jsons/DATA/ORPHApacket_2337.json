@@ -1,0 +1,173 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "2337",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "2337",
+        "Label": "Diffuse palmoplantar keratoderma, Bothnian type",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_2337",
+        "DisorderType": {
+            "value": "Disease",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377788"
+        },
+        "Synonyms": [
+            {
+                "Synonym": "Diffuse palmoplantar keratoderma, Bothnia type"
+            },
+            {
+                "Synonym": "NEPPK, Bothnia type"
+            },
+            {
+                "Synonym": "NEPPK, Bothnian type"
+            }
+        ],
+        "ExternalReferences": [
+            {
+                "Source": "OMIM",
+                "Reference": "600231",
+                "DisorderMappingRelation": "E (Exact mapping: the two concepts are equivalent)"
+            }
+        ],
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "A rare isolated diffuse palmoplantar keratoderma characterized by diffuse homogeneous mild to thick brown-to-yellowish palmoplantar hyperkeratosis (sometimes spreading over the dorsal aspect of fingers). Skin biopsy shows non-epidermolytic changes. There are no changes in hair teeth or nails and no syndromic involvement of other organs."
+        },
+        "Genes": [
+            {
+                "Gene": {
+                    "Symbol": "AQP5",
+                    "Name": "aquaporin 5",
+                    "ExternalReferences": [
+                        {
+                            "Source": "HGNC",
+                            "Reference": "638"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "600442"
+                        },
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "AQP5"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) (gain of function) in"
+                }
+            }
+        ],
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "98349",
+                        "Label": "Autosomal dominant isolated diffuse palmoplantar keratoderma"
+                    }
+                ]
+            }
+        ],
+        "Phenotypes": [
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000975",
+                    "HPOTerm": "Hyperhidrosis",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0007447",
+                    "HPOTerm": "Diffuse palmoplantar hyperkeratosis",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000989",
+                    "HPOTerm": "Pruritus",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0008066",
+                    "HPOTerm": "Abnormal blistering of the skin",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0010783",
+                    "HPOTerm": "Erythema",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0032259",
+                    "HPOTerm": "Chronic tinea infection",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0032541",
+                    "HPOTerm": "Knuckle pad",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0200034",
+                    "HPOTerm": "Papule",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0200042",
+                    "HPOTerm": "Skin ulcer",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001807",
+                    "HPOTerm": "Ridged nail",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            }
+        ],
+        "Prevalences": {
+            "Prevalence": [
+                {
+                    "Source": "ORPHANET",
+                    "PrevalenceType": "Point prevalence",
+                    "PrevalenceQualification": "Value and class",
+                    "PrevalenceClass": "1-9 / 100 000",
+                    "ValMoy": "2.5",
+                    "PrevalenceGeographic": "Europe"
+                }
+            ]
+        },
+        "AverageAgeOfOnsets": [
+            {
+                "AverageAgeOfOnset": {
+                    "value": "Childhood"
+                }
+            },
+            {
+                "AverageAgeOfOnset": {
+                    "value": "Infancy"
+                }
+            }
+        ],
+        "TypeOfInheritances": {
+            "TypeOfInheritance": [
+                {
+                    "value": "Autosomal dominant"
+                }
+            ]
+        }
+    }
+}

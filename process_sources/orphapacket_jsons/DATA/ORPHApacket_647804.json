@@ -1,0 +1,55 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "647804",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "647804",
+        "Label": "Combined immunodeficiency due to FCHO1 deficiency",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_647804",
+        "DisorderType": {
+            "value": "Disease",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377788"
+        },
+        "ExternalReferences": [
+            {
+                "Source": "OMIM",
+                "Reference": "619164",
+                "DisorderMappingRelation": "E (Exact mapping: the two concepts are equivalent)"
+            }
+        ],
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "A rare combined T and B cell immunodeficiency characterized by early-onset of recurrent severe bacterial viral and fungal infections. Many patients present failure to thrive. Occurrence of lymphoma as well as neurologic features have been reported in some cases. Laboratory examination shows decreased CD4+ T cells and variable B cell lymphopenia and hypogammaglobulinemia."
+        },
+        "Genes": [
+            {
+                "Gene": {
+                    "Symbol": "FCHO1",
+                    "Name": "FCH and mu domain containing endocytic adaptor 1",
+                    "ExternalReferences": [
+                        {
+                            "Source": "OMIM",
+                            "Reference": "613437"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "29002"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            }
+        ],
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "480549",
+                        "Label": "Non-severe combined immunodeficiency"
+                    }
+                ]
+            }
+        ]
+    }
+}

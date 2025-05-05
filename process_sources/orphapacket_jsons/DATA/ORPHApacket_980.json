@@ -1,0 +1,340 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "980",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "980",
+        "Label": "Absence of the pulmonary artery",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_980",
+        "DisorderType": {
+            "value": "Morphological anomaly",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377791"
+        },
+        "Synonyms": [
+            {
+                "Synonym": "Aplasia of pulmonary artery"
+            },
+            {
+                "Synonym": "UAPA"
+            },
+            {
+                "Synonym": "Unilateral Pulmonary Artery Absence"
+            },
+            {
+                "Synonym": "Unilateral pulmonary artery agenesis"
+            }
+        ],
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "A rare vascular anomaly characterized by congenital absence of the right or left pulmonary artery usually ending within 2 cm of its expected origin from the pulmonary trunk. Patients often also have other cardiovascular abnormalities and respective symptoms and are then typically diagnosed in infancy or childhood while isolated cases generally present with a mild clinical course and may go undiagnosed until adulthood. Presenting clinical features in isolated cases include hemoptysis exertional dyspnea and recurrent respiratory infections. The condition is typically accompanied by marked changes of lung tissue and may if unrecognized result in massive hemoptysis and pulmonary hypertension."
+        },
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "98719",
+                        "Label": "Pulmonary artery or pulmonary branch anomaly"
+                    }
+                ]
+            }
+        ],
+        "Phenotypes": [
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001627",
+                    "HPOTerm": "Abnormal heart morphology",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002092",
+                    "HPOTerm": "Pulmonary arterial hypertension",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002205",
+                    "HPOTerm": "Recurrent respiratory infections",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0003115",
+                    "HPOTerm": "Abnormal EKG",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0003546",
+                    "HPOTerm": "Exercise intolerance",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0006532",
+                    "HPOTerm": "Recurrent pneumonia",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0012417",
+                    "HPOTerm": "Hypocapnia",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0031983",
+                    "HPOTerm": "Abnormal pulmonary thoracic imaging finding",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000961",
+                    "HPOTerm": "Cyanosis",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001510",
+                    "HPOTerm": "Growth delay",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001631",
+                    "HPOTerm": "Atrial septal defect",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001635",
+                    "HPOTerm": "Congestive heart failure",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001636",
+                    "HPOTerm": "Tetralogy of Fallot",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001640",
+                    "HPOTerm": "Cardiomegaly",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001643",
+                    "HPOTerm": "Patent ductus arteriosus",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001649",
+                    "HPOTerm": "Tachycardia",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001655",
+                    "HPOTerm": "Patent foramen ovale",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001660",
+                    "HPOTerm": "Truncus arteriosus",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001671",
+                    "HPOTerm": "Abnormal cardiac septum morphology",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001680",
+                    "HPOTerm": "Coarctation of aorta",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002089",
+                    "HPOTerm": "Pulmonary hypoplasia",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002094",
+                    "HPOTerm": "Dyspnea",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002105",
+                    "HPOTerm": "Hemoptysis",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002110",
+                    "HPOTerm": "Bronchiectasis",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0004749",
+                    "HPOTerm": "Atrial flutter",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0005110",
+                    "HPOTerm": "Atrial fibrillation",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0006704",
+                    "HPOTerm": "Abnormal coronary artery morphology",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0010741",
+                    "HPOTerm": "Pedal edema",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0012020",
+                    "HPOTerm": "Right aortic arch",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0012664",
+                    "HPOTerm": "Reduced left ventricular ejection fraction",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0012764",
+                    "HPOTerm": "Orthopnea",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0025576",
+                    "HPOTerm": "Abnormal inferior vena cava morphology",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0031246",
+                    "HPOTerm": "Nonproductive cough",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0031664",
+                    "HPOTerm": "Systolic heart murmur",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0040045",
+                    "HPOTerm": "Abnormal hemidiaphragm morphology",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0100598",
+                    "HPOTerm": "Pulmonary edema",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0100749",
+                    "HPOTerm": "Chest pain",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            }
+        ],
+        "Prevalences": [
+            {
+                "Prevalence": {
+                    "Source": "[EXPERT]",
+                    "PrevalenceType": "Annual incidence",
+                    "PrevalenceQualification": "Value and class",
+                    "PrevalenceClass": "1-9 / 1 000 000",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Europe"
+                }
+            },
+            {
+                "Prevalence": {
+                    "Source": "ORPHANET",
+                    "PrevalenceType": "Point prevalence",
+                    "PrevalenceQualification": "Class only",
+                    "PrevalenceClass": "Unknown",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            }
+        ],
+        "AverageAgeOfOnsets": {
+            "AverageAgeOfOnset": [
+                {
+                    "value": "All ages"
+                }
+            ]
+        },
+        "TypeOfInheritances": {
+            "TypeOfInheritance": [
+                {
+                    "value": "Not applicable"
+                }
+            ]
+        }
+    }
+}

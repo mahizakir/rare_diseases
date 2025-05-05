@@ -1,0 +1,73 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "99912",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "99912",
+        "Label": "Ovarian dysgerminoma",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_99912",
+        "DisorderType": {
+            "value": "Disease",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377788"
+        },
+        "Synonyms": [
+            {
+                "Synonym": "Dysgerminoma of ovary"
+            },
+            {
+                "Synonym": "Dysgerminomatous germ cell cancer of the ovary"
+            }
+        ],
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "A rare malignant germ cell tumor of ovary characterized by a solid lobulated mass usually with a diameter of more than 10 cm generally occurring in children or young women who present with abdominal pain or an abdominal mass and elevated serum LDH. It is bilateral in about 20% of cases although the contralateral tumor may not be evident on macroscopic examination. Histopathologically tumor cells are uniform rounded primitive germ cells with clear cytoplasm and macronucleoli arranged in nests or cords separated by thin fibrous septa containing lymphocytes. Immunohistochemistry should be positive for OCT4 or SALL4 KIT (CD117) and/or D2-40."
+        },
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "35807",
+                        "Label": "Malignant germ cell tumor of ovary"
+                    }
+                ]
+            }
+        ],
+        "Prevalences": [
+            {
+                "Prevalence": {
+                    "Source": "ORPHANET",
+                    "PrevalenceType": "Point prevalence",
+                    "PrevalenceQualification": "Class only",
+                    "PrevalenceClass": "Unknown",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            },
+            {
+                "Prevalence": {
+                    "Source": "RARECARE surveillance of rare cancers in Europe[REG]",
+                    "PrevalenceType": "Annual incidence",
+                    "PrevalenceQualification": "Value and class",
+                    "PrevalenceClass": "<1 / 1 000 000",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Europe"
+                }
+            }
+        ],
+        "AverageAgeOfOnsets": {
+            "AverageAgeOfOnset": [
+                {
+                    "value": "Adolescent"
+                }
+            ]
+        },
+        "TypeOfInheritances": {
+            "TypeOfInheritance": [
+                {
+                    "value": "Unknown"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "451602",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "451602",
+        "Label": "Primary cutaneous plasmacytosis",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_451602",
+        "DisorderType": {
+            "value": "Disease",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377788"
+        },
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "A rare acquired skin disease characterized by benign proliferation of mature plasma cells with a typical triad of cutaneous lesions polyclonal hypergammaglobulinemia and superficial lymphadenopathy without an apparent underlying cause. The skin lesions consist of multiple round-to-oval red-to-dark-brown macules papules and plaques most commonly found on the trunk but also the face neck and axillae."
+        },
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "284264",
+                        "Label": "IgG4-related disease"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "90077",
+                        "Label": "Other acquired skin disease"
+                    }
+                ]
+            }
+        ],
+        "Prevalences": {
+            "Prevalence": [
+                {
+                    "Source": "ORPHANET",
+                    "PrevalenceType": "Point prevalence",
+                    "PrevalenceQualification": "Class only",
+                    "PrevalenceClass": "<1 / 1 000 000",
+                    "ValMoy": "0.0",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            ]
+        },
+        "AverageAgeOfOnsets": [
+            {
+                "AverageAgeOfOnset": {
+                    "value": "Adult"
+                }
+            },
+            {
+                "AverageAgeOfOnset": {
+                    "value": "Elderly"
+                }
+            }
+        ],
+        "TypeOfInheritances": {
+            "TypeOfInheritance": [
+                {
+                    "value": "Not applicable"
+                }
+            ]
+        }
+    }
+}

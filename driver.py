@@ -3,7 +3,7 @@ import os
 import sys
 
 # Disease name
-disease_name = #"Nance-Horan syndrome"#"Mabry syndrome" #"Bilateral adrenal hemorrhage" #"Nance-Horan syndrome"
+disease_name = "Nelson syndrome" #"Nance-Horan syndrome"#"Mabry syndrome" #"Bilateral adrenal hemorrhage" #"Nance-Horan syndrome"
 #"Adenine phosphoribosyltransferase deficiency" #"Acral persistent papular mucinosis" #"Nelson syndrome"
 #"Endocrine-cerebro-osteodysplasia syndrome" #"Zimmermann-Laband syndrome" #"Mabry syndrome" #"Endocrine-cerebro-osteodysplasia syndrome"
 

@@ -1,0 +1,133 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "464724",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "464724",
+        "Label": "Fever-associated acute infantile liver failure syndrome",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_464724",
+        "DisorderType": {
+            "value": "Disease",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377788"
+        },
+        "ExternalReferences": [
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "616483",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "618641",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            }
+        ],
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "A rare genetic parenchymatous liver disease characterized by infantile or early childhood onset of recurrent episodes of acute liver failure precipitated by a febrile illness. During the life-threatening episodes patients present with vomiting lethargy jaundice as well as elevated levels of liver enzymes and coagulopathy. There is usually complete recovery between the episodes with conservative treatment."
+        },
+        "Genes": [
+            {
+                "Gene": {
+                    "Symbol": "NBAS",
+                    "Name": "NBAS subunit of NRZ tethering complex",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "NBAS"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "15625"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "608025"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) (loss of function) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "RINT1",
+                    "Name": "RAD50 interactor 1",
+                    "ExternalReferences": [
+                        {
+                            "Source": "HGNC",
+                            "Reference": "21876"
+                        },
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "RINT1"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "610089"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            }
+        ],
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "101939",
+                        "Label": "Rare parenchymal liver disease"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "156604",
+                        "Label": "Genetic parenchymatous liver disease"
+                    }
+                ]
+            }
+        ],
+        "Prevalences": [
+            {
+                "Prevalence": {
+                    "Source": "26073778[PMID]",
+                    "PrevalenceType": "Cases/families",
+                    "PrevalenceQualification": "Case(s)",
+                    "PrevalenceClass": "no data",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            },
+            {
+                "Prevalence": {
+                    "Source": "ORPHANET_26073778[PMID]",
+                    "PrevalenceType": "Point prevalence",
+                    "PrevalenceQualification": "Class only",
+                    "PrevalenceClass": "<1 / 1 000 000",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            }
+        ],
+        "AverageAgeOfOnsets": {
+            "AverageAgeOfOnset": [
+                {
+                    "value": "Infancy"
+                }
+            ]
+        },
+        "TypeOfInheritances": {
+            "TypeOfInheritance": [
+                {
+                    "value": "Autosomal recessive"
+                }
+            ]
+        }
+    }
+}

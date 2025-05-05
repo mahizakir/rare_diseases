@@ -1,0 +1,84 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "86911",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "86911",
+        "Label": "Epilepsy with myoclonic absences",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_86911",
+        "DisorderType": {
+            "value": "Disease",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377788"
+        },
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "A rare childhood-onset epilepsy characterized by sudden onset short lasting absence associated with rhythmical myoclonia of head and shoulders."
+        },
+        "Genes": [
+            {
+                "Gene": {
+                    "Symbol": "SLC2A1",
+                    "Name": "solute carrier family 2 member 1",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "SLC2A1"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "11005"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "138140"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            }
+        ],
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "98259",
+                        "Label": "Childhood-onset epilepsy syndrome"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "306759",
+                        "Label": "Non progressive epilepsy and/or ataxia with myoclonus as a major feature"
+                    }
+                ]
+            }
+        ],
+        "AverageAgeOfOnsets": [
+            {
+                "AverageAgeOfOnset": {
+                    "value": "Adolescent"
+                }
+            },
+            {
+                "AverageAgeOfOnset": {
+                    "value": "Childhood"
+                }
+            },
+            {
+                "AverageAgeOfOnset": {
+                    "value": "Infancy"
+                }
+            }
+        ],
+        "TypeOfInheritances": {
+            "TypeOfInheritance": [
+                {
+                    "value": "Multigenic/multifactorial"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,694 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "334",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "334",
+        "Label": "Familial atrial fibrillation",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_334",
+        "DisorderType": {
+            "value": "Disease",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377788"
+        },
+        "ExternalReferences": [
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "607554",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "608583",
+                    "DisorderMappingRelation": "E (Exact mapping: the two concepts are equivalent)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "608988",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "611493",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "611494",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "611819",
+                    "DisorderMappingRelation": "NTBT (ORPHAcode is narrower than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "612201",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "612240",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "613055",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "613120",
+                    "DisorderMappingRelation": "NTBT (ORPHAcode is narrower than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "613980",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "614022",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "614049",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "614050",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "615377",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "615378",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "615770",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "617280",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            }
+        ],
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "Familial atrial fibrillation is a rare genetically heterogenous cardiac disease characterized by erratic activation of the atria with an irregular ventricular response in various members of a single family. It may be asymptomatic or associated with palpitations dyspnea and light-headedness. Concomitant rhythm disorders and cardiomyopathies are frequently reported."
+        },
+        "Genes": [
+            {
+                "Gene": {
+                    "Symbol": "PITX2",
+                    "Name": "paired like homeodomain 2",
+                    "ExternalReferences": [
+                        {
+                            "Source": "HGNC",
+                            "Reference": "9005"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "601542"
+                        },
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "PITX2"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) (loss of function) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "SCN5A",
+                    "Name": "sodium voltage-gated channel alpha subunit 5",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "SCN5A"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "10593"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "600163"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) (gain of function) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "GATA4",
+                    "Name": "GATA binding protein 4",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "GATA4"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "4173"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "600576"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) (loss of function) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "KCNE2",
+                    "Name": "potassium voltage-gated channel subfamily E regulatory subunit 2",
+                    "ExternalReferences": [
+                        {
+                            "Source": "HGNC",
+                            "Reference": "6242"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "603796"
+                        },
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "KCNE2"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) (gain of function) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "KCNJ2",
+                    "Name": "potassium inwardly rectifying channel subfamily J member 2",
+                    "ExternalReferences": [
+                        {
+                            "Source": "HGNC",
+                            "Reference": "6263"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "600681"
+                        },
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "KCNJ2"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) (gain of function) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "KCNQ1",
+                    "Name": "potassium voltage-gated channel subfamily Q member 1",
+                    "ExternalReferences": [
+                        {
+                            "Source": "HGNC",
+                            "Reference": "6294"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "607542"
+                        },
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "KCNQ1"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) (gain of function) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "NKX2-5",
+                    "Name": "NK2 homeobox 5",
+                    "ExternalReferences": [
+                        {
+                            "Source": "HGNC",
+                            "Reference": "2488"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "600584"
+                        },
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "NKX2-5"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) (loss of function) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "GJA5",
+                    "Name": "gap junction protein alpha 5",
+                    "ExternalReferences": [
+                        {
+                            "Source": "HGNC",
+                            "Reference": "4279"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "121013"
+                        },
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "GJA5"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "KCNJ3",
+                    "Name": "potassium inwardly rectifying channel subfamily J member 3",
+                    "ExternalReferences": [
+                        {
+                            "Source": "HGNC",
+                            "Reference": "6264"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "601534"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "MYL4",
+                    "Name": "myosin light chain 4",
+                    "ExternalReferences": [
+                        {
+                            "Source": "HGNC",
+                            "Reference": "7585"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "160770"
+                        },
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "MYL4"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "TTN",
+                    "Name": "titin",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "TTN"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "12403"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "188840"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Major susceptibility factor in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "NKX2-6",
+                    "Name": "NK2 homeobox 6",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "NKX2-6"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "32940"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "611770"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Major susceptibility factor in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "SCN4B",
+                    "Name": "sodium voltage-gated channel beta subunit 4",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "SCN4B"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "608256"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "10592"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "KCNA5",
+                    "Name": "potassium voltage-gated channel subfamily A member 5",
+                    "ExternalReferences": [
+                        {
+                            "Source": "HGNC",
+                            "Reference": "6224"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "176267"
+                        },
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "KCNA5"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) (loss of function) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "NUP155",
+                    "Name": "nucleoporin 155",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "NUP155"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "8063"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "606694"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) (loss of function) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "NPPA",
+                    "Name": "natriuretic peptide A",
+                    "ExternalReferences": [
+                        {
+                            "Source": "HGNC",
+                            "Reference": "7939"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "108780"
+                        },
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "NPPA"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "SCN3B",
+                    "Name": "sodium voltage-gated channel beta subunit 3",
+                    "ExternalReferences": [
+                        {
+                            "Source": "HGNC",
+                            "Reference": "20665"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "608214"
+                        },
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "SCN3B"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) (loss of function) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "GATA6",
+                    "Name": "GATA binding protein 6",
+                    "ExternalReferences": [
+                        {
+                            "Source": "HGNC",
+                            "Reference": "4174"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "601656"
+                        },
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "GATA6"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) (loss of function) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "GATA5",
+                    "Name": "GATA binding protein 5",
+                    "ExternalReferences": [
+                        {
+                            "Source": "HGNC",
+                            "Reference": "15802"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "611496"
+                        },
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "GATA5"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) (loss of function) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "SCN2B",
+                    "Name": "sodium voltage-gated channel beta subunit 2",
+                    "ExternalReferences": [
+                        {
+                            "Source": "HGNC",
+                            "Reference": "10589"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "601327"
+                        },
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "SCN2B"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) (loss of function) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "KCNJ5",
+                    "Name": "potassium inwardly rectifying channel subfamily J member 5",
+                    "ExternalReferences": [
+                        {
+                            "Source": "HGNC",
+                            "Reference": "6266"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "600734"
+                        },
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "KCNJ5"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            }
+        ],
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "101934",
+                        "Label": "Genetic cardiac rhythm disease"
+                    }
+                ]
+            }
+        ],
+        "Phenotypes": [
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001279",
+                    "HPOTerm": "Syncope",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001962",
+                    "HPOTerm": "Palpitations",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002094",
+                    "HPOTerm": "Dyspnea",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002321",
+                    "HPOTerm": "Vertigo",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0003546",
+                    "HPOTerm": "Exercise intolerance",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0005110",
+                    "HPOTerm": "Atrial fibrillation",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0012378",
+                    "HPOTerm": "Fatigue",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0100749",
+                    "HPOTerm": "Chest pain",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001658",
+                    "HPOTerm": "Myocardial infarction",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001727",
+                    "HPOTerm": "Thromboembolic stroke",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001907",
+                    "HPOTerm": "Thromboembolism",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            }
+        ],
+        "AverageAgeOfOnsets": [
+            {
+                "AverageAgeOfOnset": {
+                    "value": "Adult"
+                }
+            },
+            {
+                "AverageAgeOfOnset": {
+                    "value": "Elderly"
+                }
+            }
+        ],
+        "TypeOfInheritances": {
+            "TypeOfInheritance": [
+                {
+                    "value": "Autosomal dominant"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,138 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "206599",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "206599",
+        "Label": "Isolated asymptomatic elevation of creatine phosphokinase",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_206599",
+        "DisorderType": {
+            "value": "Biological anomaly",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377790"
+        },
+        "Synonyms": [
+            {
+                "Synonym": "Idiopathic asymptomatic hyperCKemia"
+            },
+            {
+                "Synonym": "Isolated asymptomatic hyperCKemia"
+            }
+        ],
+        "ExternalReferences": [
+            {
+                "Source": "OMIM",
+                "Reference": "123320",
+                "DisorderMappingRelation": "E (Exact mapping: the two concepts are equivalent)"
+            }
+        ],
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "A rare neurologic biological anomaly characterized by persistent elevation of the serum creatine phosphokinase (CK) without any clinical neurophysical or histopathological evidence of neuromuscular disease using the available laboratory procedures. It is usually an incidental finding diagnosed after exclusion of other possible causes of elevated CK levels."
+        },
+        "Genes": [
+            {
+                "Gene": {
+                    "Symbol": "ANO5",
+                    "Name": "anoctamin 5",
+                    "ExternalReferences": [
+                        {
+                            "Source": "HGNC",
+                            "Reference": "27337"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "608662"
+                        },
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "ANO5"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "CAV3",
+                    "Name": "caveolin 3",
+                    "ExternalReferences": [
+                        {
+                            "Source": "HGNC",
+                            "Reference": "1529"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "601253"
+                        },
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "CAV3"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            }
+        ],
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "207078",
+                        "Label": "Qualitative or quantitative defects of caveolin-3"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "207085",
+                        "Label": "Qualitative or quantitative defects of dystrophin"
+                    }
+                ]
+            }
+        ],
+        "Phenotypes": [
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0003236",
+                    "HPOTerm": "Elevated circulating creatine kinase concentration",
+                    "HPOFrequency": "Obligate (100%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0003198",
+                    "HPOTerm": "Myopathy",
+                    "HPOFrequency": "Excluded (0%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0008331",
+                    "HPOTerm": "Elevated creatine kinase after exercise",
+                    "HPOFrequency": "Excluded (0%)"
+                }
+            }
+        ],
+        "Prevalences": {
+            "Prevalence": [
+                {
+                    "Source": "ORPHANET",
+                    "PrevalenceType": "Point prevalence",
+                    "PrevalenceQualification": "Class only",
+                    "PrevalenceClass": "Unknown",
+                    "ValMoy": "0.0",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            ]
+        },
+        "AverageAgeOfOnsets": {
+            "AverageAgeOfOnset": [
+                {
+                    "value": "All ages"
+                }
+            ]
+        }
+    }
+}

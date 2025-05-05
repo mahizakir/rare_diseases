@@ -1,0 +1,71 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "530995",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "530995",
+        "Label": "Mixed phenotype acute leukemia",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_530995",
+        "DisorderType": {
+            "value": "Disease",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377788"
+        },
+        "Synonyms": [
+            {
+                "Synonym": "MPAL"
+            }
+        ],
+        "ExternalReferences": [
+            {
+                "Source": "OMIM",
+                "Reference": "601626",
+                "DisorderMappingRelation": "NTBT (ORPHAcode is narrower than the targeted code used to represent it)"
+            }
+        ],
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "A group of rare acute leukemias of ambiguous lineage characterized by the presence of separate populations of blasts of more than one lineage (bilineal) a single population of blasts coexpressing antigens of more than one lineage (biphenotypic) or a combination thereof. The diagnosis relies on immunophenotyping the T-cell component being characterized by strong expression of cytoplasmic CD3 usually in the absence of surface CD3 the B-cell component expressing CD19 almost always together with CD10 cCD79a CD22 or PAX5 while the most specific hallmark of the myeloid component is the presence of myeloperoxidase in the blast cytoplasm."
+        },
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "86851",
+                        "Label": "Acute leukemia of ambiguous lineage"
+                    }
+                ]
+            }
+        ],
+        "Childs": [],
+        "Prevalences": {
+            "Prevalence": [
+                {
+                    "Source": "ORPHANET",
+                    "PrevalenceType": "Point prevalence",
+                    "PrevalenceQualification": "Class only",
+                    "PrevalenceClass": "Unknown",
+                    "ValMoy": "0.0",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            ]
+        },
+        "AverageAgeOfOnsets": [
+            {
+                "AverageAgeOfOnset": {
+                    "value": "Adolescent"
+                }
+            },
+            {
+                "AverageAgeOfOnset": {
+                    "value": "Adult"
+                }
+            },
+            {
+                "AverageAgeOfOnset": {
+                    "value": "Childhood"
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,192 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "66637",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "66637",
+        "Label": "Diaphanospondylodysostosis",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_66637",
+        "DisorderType": {
+            "value": "Malformation syndrome",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377789"
+        },
+        "Synonyms": [
+            {
+                "Synonym": "DSD"
+            }
+        ],
+        "ExternalReferences": [
+            {
+                "Source": "OMIM",
+                "Reference": "608022",
+                "DisorderMappingRelation": "E (Exact mapping: the two concepts are equivalent)"
+            }
+        ],
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "A rare primary bone dysplasia characterized by costovertebral ossification defects with small chest abnormal vertebral segmentation and posterior rib gaps containing incompletely differentiated mesenchymal tissue. Consistent dysmorphic craniofacial features include ocular hypertelorism epicanthal folds depressed nasal bridge with short nose and low-set ears. The most common extraosseous manifestations are renal abnormalities such as multicystic kidneys. The disease is usually perinatally lethal due to respiratory insufficiency."
+        },
+        "Genes": [
+            {
+                "Gene": {
+                    "Symbol": "BMPER",
+                    "Name": "BMP binding endothelial regulator",
+                    "ExternalReferences": [
+                        {
+                            "Source": "HGNC",
+                            "Reference": "24154"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "608699"
+                        },
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "BMPER"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) (loss of function) in"
+                }
+            }
+        ],
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "93454",
+                        "Label": "Dysostosis with predominant vertebral and costal involvement"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "93434",
+                        "Label": "Spondylodysplastic dysplasia"
+                    }
+                ]
+            }
+        ],
+        "Phenotypes": [
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000175",
+                    "HPOTerm": "Cleft palate",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000470",
+                    "HPOTerm": "Short neck",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000921",
+                    "HPOTerm": "Missing ribs",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002098",
+                    "HPOTerm": "Respiratory distress",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002475",
+                    "HPOTerm": "Myelomeningocele",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0003275",
+                    "HPOTerm": "Narrow pelvis bone",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0004599",
+                    "HPOTerm": "Absent or minimally ossified vertebral bodies",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0005562",
+                    "HPOTerm": "Multiple renal cysts",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0005640",
+                    "HPOTerm": "Abnormal vertebral segmentation and fusion",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0010306",
+                    "HPOTerm": "Short thorax",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0100625",
+                    "HPOTerm": "Enlarged thorax",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            }
+        ],
+        "Prevalences": [
+            {
+                "Prevalence": {
+                    "Source": "26467725[PMID]_21990102[PMID]_22581610[PMID]",
+                    "PrevalenceType": "Cases/families",
+                    "PrevalenceQualification": "Case(s)",
+                    "PrevalenceClass": "no data",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            },
+            {
+                "Prevalence": {
+                    "Source": "ORPHANET_26467725[PMID]_21990102[PMID]_22581610[PMID]",
+                    "PrevalenceType": "Point prevalence",
+                    "PrevalenceQualification": "Class only",
+                    "PrevalenceClass": "<1 / 1 000 000",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            }
+        ],
+        "AverageAgeOfOnsets": [
+            {
+                "AverageAgeOfOnset": {
+                    "value": "Infancy"
+                }
+            },
+            {
+                "AverageAgeOfOnset": {
+                    "value": "Neonatal"
+                }
+            }
+        ],
+        "TypeOfInheritances": {
+            "TypeOfInheritance": [
+                {
+                    "value": "Autosomal recessive"
+                }
+            ]
+        }
+    }
+}

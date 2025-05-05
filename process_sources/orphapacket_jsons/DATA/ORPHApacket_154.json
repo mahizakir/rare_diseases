@@ -1,0 +1,1591 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "154",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "154",
+        "Label": "Familial isolated dilated cardiomyopathy",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_154",
+        "DisorderType": {
+            "value": "Disease",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377788"
+        },
+        "Synonyms": [
+            {
+                "Synonym": "Familial or idiopathic dilated cardiomyopathy"
+            }
+        ],
+        "ExternalReferences": [
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "619897",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "619747",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "618189",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "619492",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "619371",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "613694",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "613697",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "613881",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "614672",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "615184",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "615235",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "615248",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "615373",
+                    "DisorderMappingRelation": "NTBT (ORPHAcode is narrower than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "615396",
+                    "DisorderMappingRelation": "NTBT (ORPHAcode is narrower than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "615916",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "620203",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "115200",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "302045",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "600884",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "601154",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "601493",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "601494",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "604145",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "604288",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "604765",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "605582",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "606685",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "607482",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "608569",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "609909",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "609915",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "611407",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "611615",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "611878",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "611879",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "611880",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "612158",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "612877",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "613122",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "613172",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "613252",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "613286",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "613424",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "613426",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "613642",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            }
+        ],
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "A rare familial cardiomyopathy characterized by the dilation of left ventricle and progressively impairing of systolic ventricular function in the absence of abnormal loading conditions or coronary artery disease sufficient to cause global systolic impairment. The disease may cause heart failure or arrhythmia. The disease is isolated when no additional atypical cardiac or extracardiac manifestations are present."
+        },
+        "Genes": [
+            {
+                "Gene": {
+                    "Symbol": "TAF1A",
+                    "Name": "TATA-box binding protein associated factor, RNA polymerase I subunit A",
+                    "ExternalReferences": [
+                        {
+                            "Source": "HGNC",
+                            "Reference": "11532"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "604903"
+                        },
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "TAF1A"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "GET3",
+                    "Name": "guided entry of tail-anchored proteins factor 3, ATPase",
+                    "ExternalReferences": [
+                        {
+                            "Source": "HGNC",
+                            "Reference": "752"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "601913"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) (loss of function) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "VEZF1",
+                    "Name": "vascular endothelial zinc finger 1",
+                    "ExternalReferences": [
+                        {
+                            "Source": "HGNC",
+                            "Reference": "12949"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "606747"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "RPL3L",
+                    "Name": "ribosomal protein L3 like",
+                    "ExternalReferences": [
+                        {
+                            "Source": "HGNC",
+                            "Reference": "10351"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "617416"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "MYBPC3",
+                    "Name": "myosin binding protein C3",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "MYBPC3"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "7551"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "600958"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "JPH2",
+                    "Name": "junctophilin 2",
+                    "ExternalReferences": [
+                        {
+                            "Source": "HGNC",
+                            "Reference": "14202"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "605267"
+                        },
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "JPH2"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "PPCS",
+                    "Name": "phosphopantothenoylcysteine synthetase",
+                    "ExternalReferences": [
+                        {
+                            "Source": "HGNC",
+                            "Reference": "25686"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "609853"
+                        },
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "PPCS"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "CAP2",
+                    "Name": "cyclase associated actin cytoskeleton regulatory protein 2",
+                    "ExternalReferences": [
+                        {
+                            "Source": "HGNC",
+                            "Reference": "20039"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "618385"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "LMOD2",
+                    "Name": "leiomodin 2",
+                    "ExternalReferences": [
+                        {
+                            "Source": "HGNC",
+                            "Reference": "6648"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "608006"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "ABCC9",
+                    "Name": "ATP binding cassette subfamily C member 9",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "ABCC9"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "60"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "601439"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "ACTC1",
+                    "Name": "actin alpha cardiac muscle 1",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "ACTC1"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "143"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "102540"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "PSEN1",
+                    "Name": "presenilin 1",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "PSEN1"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "9508"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "104311"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "PSEN2",
+                    "Name": "presenilin 2",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "PSEN2"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "9509"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "600759"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "SCN5A",
+                    "Name": "sodium voltage-gated channel alpha subunit 5",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "SCN5A"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "10593"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "600163"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) (gain of function) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "SDHA",
+                    "Name": "succinate dehydrogenase complex flavoprotein subunit A",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "SDHA"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "10680"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "600857"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "SGCD",
+                    "Name": "sarcoglycan delta",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "SGCD"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "10807"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "601411"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "TAFAZZIN",
+                    "Name": "tafazzin, phospholipid-lysophospholipid transacylase",
+                    "ExternalReferences": [
+                        {
+                            "Source": "HGNC",
+                            "Reference": "11577"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "300394"
+                        },
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "TAZ"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "TCAP",
+                    "Name": "titin-cap",
+                    "ExternalReferences": [
+                        {
+                            "Source": "HGNC",
+                            "Reference": "11610"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "604488"
+                        },
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "TCAP"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "TNNI3",
+                    "Name": "troponin I3, cardiac type",
+                    "ExternalReferences": [
+                        {
+                            "Source": "HGNC",
+                            "Reference": "11947"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "191044"
+                        },
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "TNNI3"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "TNNT2",
+                    "Name": "troponin T2, cardiac type",
+                    "ExternalReferences": [
+                        {
+                            "Source": "HGNC",
+                            "Reference": "11949"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "191045"
+                        },
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "TNNT2"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "TPM1",
+                    "Name": "tropomyosin 1",
+                    "ExternalReferences": [
+                        {
+                            "Source": "HGNC",
+                            "Reference": "12010"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "191010"
+                        },
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "TPM1"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "TTN",
+                    "Name": "titin",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "TTN"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "12403"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "188840"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "CRYAB",
+                    "Name": "crystallin alpha B",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "CRYAB"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "2389"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "123590"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "CSRP3",
+                    "Name": "cysteine and glycine rich protein 3",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "CSRP3"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "2472"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "600824"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "DES",
+                    "Name": "desmin",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "DES"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "2770"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "125660"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "DMD",
+                    "Name": "dystrophin",
+                    "ExternalReferences": [
+                        {
+                            "Source": "HGNC",
+                            "Reference": "2928"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "300377"
+                        },
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "DMD"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "DSG2",
+                    "Name": "desmoglein 2",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "DSG2"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "3049"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "125671"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "FKTN",
+                    "Name": "fukutin",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "FKTN"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "3622"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "607440"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "LDB3",
+                    "Name": "LIM domain binding 3",
+                    "ExternalReferences": [
+                        {
+                            "Source": "HGNC",
+                            "Reference": "15710"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "605906"
+                        },
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "LDB3"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "DOLK",
+                    "Name": "dolichol kinase",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "DOLK"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "23406"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "610746"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) (loss of function) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "MYH6",
+                    "Name": "myosin heavy chain 6",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "MYH6"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "7576"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "160710"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "MYH7",
+                    "Name": "myosin heavy chain 7",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "MYH7"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "160760"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "7577"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "RAF1",
+                    "Name": "Raf-1 proto-oncogene, serine/threonine kinase",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "RAF1"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "9829"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "164760"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "TMPO",
+                    "Name": "thymopoietin",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "TMPO"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "11875"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "188380"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "TNNC1",
+                    "Name": "troponin C1, slow skeletal and cardiac type",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "TNNC1"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "11943"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "191040"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "VCL",
+                    "Name": "vinculin",
+                    "ExternalReferences": [
+                        {
+                            "Source": "HGNC",
+                            "Reference": "12665"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "193065"
+                        },
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "VCL"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "ACTN2",
+                    "Name": "actinin alpha 2",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "ACTN2"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "164"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "102573"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "FHL2",
+                    "Name": "four and a half LIM domains 2",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "FHL2"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "3703"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "602633"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "PLN",
+                    "Name": "phospholamban",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "PLN"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "9080"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "172405"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "BAG3",
+                    "Name": "BAG cochaperone 3",
+                    "ExternalReferences": [
+                        {
+                            "Source": "HGNC",
+                            "Reference": "939"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "603883"
+                        },
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "BAG3"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "RBM20",
+                    "Name": "RNA binding motif protein 20",
+                    "ExternalReferences": [
+                        {
+                            "Source": "OMIM",
+                            "Reference": "613171"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "27424"
+                        },
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "RBM20"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "NEXN",
+                    "Name": "nexilin F-actin binding protein",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "NEXN"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "29557"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "613121"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) (loss of function) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "TXNRD2",
+                    "Name": "thioredoxin reductase 2",
+                    "ExternalReferences": [
+                        {
+                            "Source": "HGNC",
+                            "Reference": "18155"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "606448"
+                        },
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "TXNRD2"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) (loss of function) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "GATAD1",
+                    "Name": "GATA zinc finger domain containing 1",
+                    "ExternalReferences": [
+                        {
+                            "Source": "HGNC",
+                            "Reference": "29941"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "614518"
+                        },
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "GATAD1"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "MYPN",
+                    "Name": "myopalladin",
+                    "ExternalReferences": [
+                        {
+                            "Source": "HGNC",
+                            "Reference": "23246"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "608517"
+                        },
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "MYPN"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "LAMA4",
+                    "Name": "laminin subunit alpha 4",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "LAMA4"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "6484"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "600133"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "PRDM16",
+                    "Name": "PR/SET domain 16",
+                    "ExternalReferences": [
+                        {
+                            "Source": "HGNC",
+                            "Reference": "14000"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "605557"
+                        },
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "PRDM16"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "ANKRD1",
+                    "Name": "ankyrin repeat domain 1",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "ANKRD1"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "15819"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "609599"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "LMNA",
+                    "Name": "lamin A/C",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "LMNA"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "6636"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "150330"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "DSP",
+                    "Name": "desmoplakin",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "DSP"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "3052"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "125647"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "HAND2",
+                    "Name": "heart and neural crest derivatives expressed 2",
+                    "ExternalReferences": [
+                        {
+                            "Source": "HGNC",
+                            "Reference": "4808"
+                        },
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "HAND2"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "602407"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) (loss of function) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "BAG5",
+                    "Name": "BAG cochaperone 5",
+                    "ExternalReferences": [
+                        {
+                            "Source": "HGNC",
+                            "Reference": "941"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "603885"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) (loss of function) in"
+                }
+            }
+        ],
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "207085",
+                        "Label": "Qualitative or quantitative defects of dystrophin"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "217607",
+                        "Label": "Familial dilated cardiomyopathy"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "506225",
+                        "Label": "Rare disorder potentially indicated for heart transplant"
+                    }
+                ]
+            }
+        ],
+        "Phenotypes": [
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001644",
+                    "HPOTerm": "Dilated cardiomyopathy",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0025169",
+                    "HPOTerm": "Left ventricular systolic dysfunction",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000969",
+                    "HPOTerm": "Edema",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001635",
+                    "HPOTerm": "Congestive heart failure",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002875",
+                    "HPOTerm": "Exertional dyspnea",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0011675",
+                    "HPOTerm": "Arrhythmia",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0012378",
+                    "HPOTerm": "Fatigue",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0012764",
+                    "HPOTerm": "Orthopnea",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000407",
+                    "HPOTerm": "Sensorineural hearing impairment",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001727",
+                    "HPOTerm": "Thromboembolic stroke",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0003198",
+                    "HPOTerm": "Myopathy",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0003457",
+                    "HPOTerm": "EMG abnormality",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0100578",
+                    "HPOTerm": "Lipoatrophy",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            }
+        ],
+        "Prevalences": [
+            {
+                "Prevalence": {
+                    "Source": "16839424[PMID]_[EXPERT]_ ORPHANET",
+                    "PrevalenceType": "Annual incidence",
+                    "PrevalenceQualification": "Value and class",
+                    "PrevalenceClass": "1-9 / 100 000",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Europe"
+                }
+            },
+            {
+                "Prevalence": {
+                    "Source": "16839424[PMID]_[EXPERT]_ ORPHANET",
+                    "PrevalenceType": "Point prevalence",
+                    "PrevalenceQualification": "Value and class",
+                    "PrevalenceClass": "1-5 / 10 000",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Europe"
+                }
+            },
+            {
+                "Prevalence": {
+                    "Source": "2766509[PMID]",
+                    "PrevalenceType": "Annual incidence",
+                    "PrevalenceQualification": "Value and class",
+                    "PrevalenceClass": "1-9 / 100 000",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "United States"
+                }
+            }
+        ],
+        "AverageAgeOfOnsets": {
+            "AverageAgeOfOnset": [
+                {
+                    "value": "All ages"
+                }
+            ]
+        },
+        "TypeOfInheritances": [
+            {
+                "TypeOfInheritance": {
+                    "value": "Autosomal dominant"
+                }
+            },
+            {
+                "TypeOfInheritance": {
+                    "value": "Autosomal recessive"
+                }
+            },
+            {
+                "TypeOfInheritance": {
+                    "value": "Mitochondrial inheritance"
+                }
+            },
+            {
+                "TypeOfInheritance": {
+                    "value": "X-linked recessive"
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,130 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "79157",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "79157",
+        "Label": "2-methylbutyryl-CoA dehydrogenase deficiency",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_79157",
+        "DisorderType": {
+            "value": "Disease",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377788"
+        },
+        "Synonyms": [
+            {
+                "Synonym": "2-methylbutyric aciduria"
+            },
+            {
+                "Synonym": "Developmental delay due to 2-methylbutyryl-CoA dehydrogenase deficiency"
+            },
+            {
+                "Synonym": "SBCAD deficiency"
+            },
+            {
+                "Synonym": "Short/branched-chain acyl-coA dehydrogenase deficiency"
+            }
+        ],
+        "ExternalReferences": [
+            {
+                "Source": "OMIM",
+                "Reference": "610006",
+                "DisorderMappingRelation": "E (Exact mapping: the two concepts are equivalent)"
+            }
+        ],
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "A rare organic aciduria characterized by impaired isoleucine degradation with increased plasma or whole blood C5 acylcarnitine levels (typically observed in newborn screening) and increased urinary excretion of N-methylbutyrylglycine. The condition is usually clinically asymptomatic although patients with muscular hypotonia developmental delay and seizures (among others) have been reported."
+        },
+        "Genes": [
+            {
+                "Gene": {
+                    "Symbol": "ACADSB",
+                    "Name": "acyl-CoA dehydrogenase short/branched chain",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "ACADSB"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "91"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "600301"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) (loss of function) in"
+                }
+            }
+        ],
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "79163",
+                        "Label": "Classic organic aciduria"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "68385",
+                        "Label": "Neurometabolic disease"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "225689",
+                        "Label": "Amino acid or protein metabolism disease with epilepsy"
+                    }
+                ]
+            }
+        ],
+        "Prevalences": [
+            {
+                "Prevalence": {
+                    "Source": "ORPHANET",
+                    "PrevalenceType": "Cases/families",
+                    "PrevalenceQualification": "Case(s)",
+                    "PrevalenceClass": "no data",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            },
+            {
+                "Prevalence": {
+                    "Source": "ORPHANET",
+                    "PrevalenceType": "Point prevalence",
+                    "PrevalenceQualification": "Class only",
+                    "PrevalenceClass": "<1 / 1 000 000",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            }
+        ],
+        "AverageAgeOfOnsets": [
+            {
+                "AverageAgeOfOnset": {
+                    "value": "Infancy"
+                }
+            },
+            {
+                "AverageAgeOfOnset": {
+                    "value": "Neonatal"
+                }
+            }
+        ],
+        "TypeOfInheritances": {
+            "TypeOfInheritance": [
+                {
+                    "value": "Autosomal recessive"
+                }
+            ]
+        }
+    }
+}

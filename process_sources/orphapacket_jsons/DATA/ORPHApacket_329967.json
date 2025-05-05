@@ -1,0 +1,101 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "329967",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "329967",
+        "Label": "Intermittent hydrarthrosis",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_329967",
+        "DisorderType": {
+            "value": "Disease",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377788"
+        },
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "A rare rheumatologic disease characterized by recurrent self-remitting episodes of acute monoarticular arthritis often with a fixed periodicity typically affecting the knee or another large joint which develops an effusion over 12 to 24 hours with only mild to moderate pain and minimal signs of inflammation. Attacks last three to five days and may parallel menses in females. Systemic symptoms are absent and no joint damage occurs."
+        },
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "486955",
+                        "Label": "Rare pediatric rheumatologic disease"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "182231",
+                        "Label": "Rare rheumatologic disease"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "271870",
+                        "Label": "Rare genetic systemic or rheumatologic disease"
+                    }
+                ]
+            }
+        ],
+        "Phenotypes": [
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001386",
+                    "HPOTerm": "Joint swelling",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002829",
+                    "HPOTerm": "Arthralgia",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002815",
+                    "HPOTerm": "Abnormality of the knee",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0045086",
+                    "HPOTerm": "Knee joint hypermobility",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000934",
+                    "HPOTerm": "Chondrocalcinosis",
+                    "HPOFrequency": "Very rare (<4-1%)"
+                }
+            }
+        ],
+        "Prevalences": {
+            "Prevalence": [
+                {
+                    "Source": "ORPHANET",
+                    "PrevalenceType": "Point prevalence",
+                    "PrevalenceQualification": "Class only",
+                    "PrevalenceClass": "Unknown",
+                    "ValMoy": "0.0",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            ]
+        },
+        "AverageAgeOfOnsets": {
+            "AverageAgeOfOnset": [
+                {
+                    "value": "Adult"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,109 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "898",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "898",
+        "Label": "Wagner disease",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_898",
+        "DisorderType": {
+            "value": "Disease",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377788"
+        },
+        "Synonyms": [
+            {
+                "Synonym": "Dominant hyaloideoretinal dystrophy of Wagner"
+            },
+            {
+                "Synonym": "VCAN-related vitreoretinopathy"
+            },
+            {
+                "Synonym": "Vitreoretinal degeneration, Wagner type"
+            },
+            {
+                "Synonym": "Wagner syndrome"
+            }
+        ],
+        "ExternalReferences": [
+            {
+                "Source": "OMIM",
+                "Reference": "143200",
+                "DisorderMappingRelation": "E (Exact mapping: the two concepts are equivalent)"
+            }
+        ],
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "Wagner disease is a rare hereditary vitreoretinopathy characterized by an anomaleous vitreous associated with myopia cataract chorioretinal atrophy and peripheral tractional or rhegmatogenous retinal detachment."
+        },
+        "Genes": [
+            {
+                "Gene": {
+                    "Symbol": "VCAN",
+                    "Name": "versican",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "VCAN"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "2464"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "118661"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            }
+        ],
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "519304",
+                        "Label": "Isolated vitreoretinopathy"
+                    }
+                ]
+            }
+        ],
+        "Prevalences": [
+            {
+                "Prevalence": {
+                    "Source": "ORPHANET",
+                    "PrevalenceType": "Cases/families",
+                    "PrevalenceQualification": "Case(s)",
+                    "PrevalenceClass": "no data",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            },
+            {
+                "Prevalence": {
+                    "Source": "ORPHANET",
+                    "PrevalenceType": "Point prevalence",
+                    "PrevalenceQualification": "Class only",
+                    "PrevalenceClass": "<1 / 1 000 000",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            }
+        ],
+        "AverageAgeOfOnsets": {
+            "AverageAgeOfOnset": [
+                {
+                    "value": "Childhood"
+                }
+            ]
+        },
+        "TypeOfInheritances": {
+            "TypeOfInheritance": [
+                {
+                    "value": "Autosomal dominant"
+                }
+            ]
+        }
+    }
+}

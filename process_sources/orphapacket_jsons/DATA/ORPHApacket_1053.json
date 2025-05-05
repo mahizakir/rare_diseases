@@ -1,0 +1,140 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "1053",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "1053",
+        "Label": "Vein of Galen aneurysmal malformation",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_1053",
+        "DisorderType": {
+            "value": "Morphological anomaly",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377791"
+        },
+        "Synonyms": [
+            {
+                "Synonym": "Vein of Galen arteriovenous malformations"
+            }
+        ],
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "A rare intracranial congenital high-flow vascular malformation characterized by arteriovenous shunts draining into the median prosencephalic vein of Markowski embryonic precursor of the vein of Galen typically presenting in neonates or infants."
+        },
+        "Genes": [
+            {
+                "Gene": {
+                    "Symbol": "EPHB4",
+                    "Name": "EPH receptor B4",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "EPHB4"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "600011"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "3395"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) (loss of function) in"
+                }
+            }
+        ],
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "102006",
+                        "Label": "Neurovascular malformation"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "211240",
+                        "Label": "Genetic vascular anomaly"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "371436",
+                        "Label": "Genetic neurovascular malformation"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "211266",
+                        "Label": "Rare arteriovenous malformation"
+                    }
+                ]
+            }
+        ],
+        "Phenotypes": [
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002617",
+                    "HPOTerm": "Dilatation",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0100659",
+                    "HPOTerm": "Abnormality of the cerebral vasculature",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0100784",
+                    "HPOTerm": "Peripheral arteriovenous fistula",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            }
+        ],
+        "Prevalences": {
+            "Prevalence": [
+                {
+                    "Source": "ORPHANET_1997895[PMID]",
+                    "PrevalenceType": "Point prevalence",
+                    "PrevalenceQualification": "Class only",
+                    "PrevalenceClass": "Unknown",
+                    "ValMoy": "0.0",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            ]
+        },
+        "AverageAgeOfOnsets": [
+            {
+                "AverageAgeOfOnset": {
+                    "value": "Antenatal"
+                }
+            },
+            {
+                "AverageAgeOfOnset": {
+                    "value": "Infancy"
+                }
+            },
+            {
+                "AverageAgeOfOnset": {
+                    "value": "Neonatal"
+                }
+            }
+        ],
+        "TypeOfInheritances": {
+            "TypeOfInheritance": [
+                {
+                    "value": "Not applicable"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,389 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "307",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "307",
+        "Label": "Juvenile myoclonic epilepsy",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_307",
+        "DisorderType": {
+            "value": "Disease",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377788"
+        },
+        "Synonyms": [
+            {
+                "Synonym": "JME"
+            },
+            {
+                "Synonym": "Juvenile myoclonus epilepsy"
+            }
+        ],
+        "ExternalReferences": [
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "254770",
+                    "DisorderMappingRelation": "E (Exact mapping: the two concepts are equivalent)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "604827",
+                    "DisorderMappingRelation": "NTBT (ORPHAcode is narrower than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "607628",
+                    "DisorderMappingRelation": "NTBT (ORPHAcode is narrower than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "607682",
+                    "DisorderMappingRelation": "NTBT (ORPHAcode is narrower than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "608816",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "611136",
+                    "DisorderMappingRelation": "NTBT (ORPHAcode is narrower than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "611364",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "613060",
+                    "DisorderMappingRelation": "NTBT (ORPHAcode is narrower than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "614280",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "617924",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            }
+        ],
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "Juvenile myoclonic epilepsy is the most common hereditary idiopathic generalized epilepsy syndrome and is characterized by myoclonic jerks of the upper limbs on awakening generalized tonic-clonic seizures manifesting during adolescence and triggered by sleep deprivation alcohol intake and cognitive activities and typical absence seizures (30% of cases)."
+        },
+        "Genes": [
+            {
+                "Gene": {
+                    "Symbol": "CILK1",
+                    "Name": "ciliogenesis associated kinase 1",
+                    "ExternalReferences": [
+                        {
+                            "Source": "HGNC",
+                            "Reference": "21219"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "612325"
+                        },
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "ICK"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "CACNB4",
+                    "Name": "calcium voltage-gated channel auxiliary subunit beta 4",
+                    "ExternalReferences": [
+                        {
+                            "Source": "HGNC",
+                            "Reference": "1404"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "601949"
+                        },
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "CACNB4"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "EFHC1",
+                    "Name": "EF-hand domain containing 1",
+                    "ExternalReferences": [
+                        {
+                            "Source": "HGNC",
+                            "Reference": "16406"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "608815"
+                        },
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "EFHC1"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Major susceptibility factor in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "GABRA1",
+                    "Name": "gamma-aminobutyric acid type A receptor subunit alpha1",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "GABRA1"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "137160"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "4075"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "GABRD",
+                    "Name": "gamma-aminobutyric acid type A receptor subunit delta",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "GABRD"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "4084"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "137163"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Major susceptibility factor in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "KCNQ3",
+                    "Name": "potassium voltage-gated channel subfamily Q member 3",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "KCNQ3"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "6297"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "602232"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Major susceptibility factor in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "CLCN2",
+                    "Name": "chloride voltage-gated channel 2",
+                    "ExternalReferences": [
+                        {
+                            "Source": "HGNC",
+                            "Reference": "2020"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "600570"
+                        },
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "CLCN2"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Major susceptibility factor in"
+                }
+            }
+        ],
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "309",
+                        "Label": "Familial partial epilepsy"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "306759",
+                        "Label": "Non progressive epilepsy and/or ataxia with myoclonus as a major feature"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "98749",
+                        "Label": "Neurological channelopathy of the central nervous system due to a genetic GABA receptor defect"
+                    }
+                ]
+            }
+        ],
+        "Phenotypes": [
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002197",
+                    "HPOTerm": "Generalized-onset seizure",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002392",
+                    "HPOTerm": "EEG with polyspike wave complexes",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0007000",
+                    "HPOTerm": "Morning myoclonic jerks",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000153",
+                    "HPOTerm": "Abnormality of the mouth",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000496",
+                    "HPOTerm": "Abnormality of eye movement",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002121",
+                    "HPOTerm": "Generalized non-motor (absence) seizure",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002373",
+                    "HPOTerm": "Febrile seizures",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0007207",
+                    "HPOTerm": "Photosensitive tonic-clonic seizures",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000718",
+                    "HPOTerm": "Aggressive behavior",
+                    "HPOFrequency": "Very rare (<4-1%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002133",
+                    "HPOTerm": "Status epilepticus",
+                    "HPOFrequency": "Very rare (<4-1%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001249",
+                    "HPOTerm": "Intellectual disability",
+                    "HPOFrequency": "Excluded (0%)"
+                }
+            }
+        ],
+        "Prevalences": {
+            "Prevalence": [
+                {
+                    "Source": "ORPHANET",
+                    "PrevalenceType": "Point prevalence",
+                    "PrevalenceQualification": "Class only",
+                    "PrevalenceClass": "Unknown",
+                    "ValMoy": "0.0",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            ]
+        },
+        "AverageAgeOfOnsets": {
+            "AverageAgeOfOnset": [
+                {
+                    "value": "Adolescent"
+                }
+            ]
+        },
+        "TypeOfInheritances": [
+            {
+                "TypeOfInheritance": {
+                    "value": "Autosomal dominant"
+                }
+            },
+            {
+                "TypeOfInheritance": {
+                    "value": "Autosomal recessive"
+                }
+            },
+            {
+                "TypeOfInheritance": {
+                    "value": "Multigenic/multifactorial"
+                }
+            }
+        ]
+    }
+}

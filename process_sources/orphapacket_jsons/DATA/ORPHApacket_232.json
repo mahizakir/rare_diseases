@@ -1,0 +1,480 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "232",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "232",
+        "Label": "Sickle cell anemia",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_232",
+        "DisorderType": {
+            "value": "Disease",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377788"
+        },
+        "ExternalReferences": [
+            {
+                "Source": "OMIM",
+                "Reference": "603903",
+                "DisorderMappingRelation": "E (Exact mapping: the two concepts are equivalent)"
+            }
+        ],
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "A severe form of sickle cell disease (SCD) characterized by homozygosity for the sickle hemoglobin (HbS) gene and which acutely manifests with severe anemia susceptibility to severe bacterial infections and ischemic vasoocclusive accidents (VOA). It is a red cell disease of genetic origin which manifests with hemolytic disease and loss of red cell deformability leading to other occlusive events."
+        },
+        "Genes": [
+            {
+                "Gene": {
+                    "Symbol": "HBB",
+                    "Name": "hemoglobin subunit beta",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "HBB"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "4827"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "141900"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            }
+        ],
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "93614",
+                        "Label": "Hematological disorder with renal involvement"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "477771",
+                        "Label": "Rare disorder with a moyamoya angiopathy"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "275752",
+                        "Label": "Sickle cell disease and related diseases"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "399185",
+                        "Label": "Rare hereditary disease with avascular necrosis"
+                    }
+                ]
+            }
+        ],
+        "Phenotypes": [
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0004870",
+                    "HPOTerm": "Chronic hemolytic anemia",
+                    "HPOFrequency": "Obligate (100%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001878",
+                    "HPOTerm": "Hemolytic anemia",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002719",
+                    "HPOTerm": "Recurrent infections",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0012531",
+                    "HPOTerm": "Pain",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000488",
+                    "HPOTerm": "Retinopathy",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000939",
+                    "HPOTerm": "Osteoporosis",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000952",
+                    "HPOTerm": "Jaundice",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001743",
+                    "HPOTerm": "Abnormality of the spleen",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001891",
+                    "HPOTerm": "Iron deficiency anemia",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001894",
+                    "HPOTerm": "Thrombocytosis",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001923",
+                    "HPOTerm": "Reticulocytosis",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001974",
+                    "HPOTerm": "Leukocytosis",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002754",
+                    "HPOTerm": "Osteomyelitis",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0010885",
+                    "HPOTerm": "Avascular necrosis",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0011981",
+                    "HPOTerm": "Pigment gallstones",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0012622",
+                    "HPOTerm": "Chronic kidney disease",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0100749",
+                    "HPOTerm": "Chest pain",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000707",
+                    "HPOTerm": "Abnormality of the nervous system",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001081",
+                    "HPOTerm": "Cholelithiasis",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001406",
+                    "HPOTerm": "Intrahepatic cholestasis",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002092",
+                    "HPOTerm": "Pulmonary arterial hypertension",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002140",
+                    "HPOTerm": "Ischemic stroke",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002597",
+                    "HPOTerm": "Abnormality of the vasculature",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0003259",
+                    "HPOTerm": "Elevated circulating creatinine concentration",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0008282",
+                    "HPOTerm": "Unconjugated hyperbilirubinemia",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0011886",
+                    "HPOTerm": "Hyphema",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0011904",
+                    "HPOTerm": "Persistence of hemoglobin F",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0012418",
+                    "HPOTerm": "Hypoxemia",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0025326",
+                    "HPOTerm": "Retinal arterial occlusion",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0025435",
+                    "HPOTerm": "Increased circulating lactate dehydrogenase concentration",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0031090",
+                    "HPOTerm": "Finger dactylitis",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0034336",
+                    "HPOTerm": "Splenic infarction",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0200023",
+                    "HPOTerm": "Priapism",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0200042",
+                    "HPOTerm": "Skin ulcer",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001931",
+                    "HPOTerm": "Hypochromic anemia",
+                    "HPOFrequency": "Very rare (<4-1%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001935",
+                    "HPOTerm": "Microcytic anemia",
+                    "HPOFrequency": "Very rare (<4-1%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0005518",
+                    "HPOTerm": "Increased mean corpuscular volume",
+                    "HPOFrequency": "Very rare (<4-1%)"
+                }
+            }
+        ],
+        "Prevalences": [
+            {
+                "Prevalence": {
+                    "Source": "Institut de Veille Sanitaire 2010[INST]",
+                    "PrevalenceType": "Prevalence at birth",
+                    "PrevalenceQualification": "Value and class",
+                    "PrevalenceClass": "1-5 / 10 000",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "France"
+                }
+            },
+            {
+                "Prevalence": {
+                    "Source": "24398797[PMID]",
+                    "PrevalenceType": "Prevalence at birth",
+                    "PrevalenceQualification": "Value and class",
+                    "PrevalenceClass": "1-5 / 10 000",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Germany"
+                }
+            },
+            {
+                "Prevalence": {
+                    "Source": "20331952[PMID]_Center for Diseases Control and Prevention[INST]",
+                    "PrevalenceType": "Point prevalence",
+                    "PrevalenceQualification": "Value and class",
+                    "PrevalenceClass": "1-5 / 10 000",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "United States"
+                }
+            },
+            {
+                "Prevalence": {
+                    "Source": "10321364[PMID]",
+                    "PrevalenceType": "Prevalence at birth",
+                    "PrevalenceQualification": "Value and class",
+                    "PrevalenceClass": "1-5 / 10 000",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Belgium"
+                }
+            },
+            {
+                "Prevalence": {
+                    "Source": "Sickle Cell Society 2008[OTHER]",
+                    "PrevalenceType": "Prevalence at birth",
+                    "PrevalenceQualification": "Value and class",
+                    "PrevalenceClass": "1-5 / 10 000",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "United Kingdom"
+                }
+            },
+            {
+                "Prevalence": {
+                    "Source": "European Medicines Agency 2019[INST]",
+                    "PrevalenceType": "Point prevalence",
+                    "PrevalenceQualification": "Value and class",
+                    "PrevalenceClass": "1-5 / 10 000",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Europe"
+                }
+            },
+            {
+                "Prevalence": {
+                    "Source": "17183567[PMID]",
+                    "PrevalenceType": "Prevalence at birth",
+                    "PrevalenceQualification": "Value and class",
+                    "PrevalenceClass": "1-5 / 10 000",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "United States"
+                }
+            },
+            {
+                "Prevalence": {
+                    "Source": "Institut de Veille Sanitaire 2015[INST]",
+                    "PrevalenceType": "Prevalence at birth",
+                    "PrevalenceQualification": "Value and class",
+                    "PrevalenceClass": ">1 / 1000",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Guadeloupe"
+                }
+            },
+            {
+                "Prevalence": {
+                    "Source": "Institut de Veille Sanitaire 2015[INST]",
+                    "PrevalenceType": "Prevalence at birth",
+                    "PrevalenceQualification": "Value and class",
+                    "PrevalenceClass": ">1 / 1000",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Martinique"
+                }
+            },
+            {
+                "Prevalence": {
+                    "Source": "Institut de Veille Sanitaire 2015[INST]",
+                    "PrevalenceType": "Prevalence at birth",
+                    "PrevalenceQualification": "Value and class",
+                    "PrevalenceClass": ">1 / 1000",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Guyana"
+                }
+            },
+            {
+                "Prevalence": {
+                    "Source": "Institut de Veille Sanitaire 2015[INST]",
+                    "PrevalenceType": "Prevalence at birth",
+                    "PrevalenceQualification": "Value and class",
+                    "PrevalenceClass": "1-5 / 10 000",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Reunion"
+                }
+            },
+            {
+                "Prevalence": {
+                    "Source": "35209917[PMID]",
+                    "PrevalenceType": "Annual incidence",
+                    "PrevalenceQualification": "Value and class",
+                    "PrevalenceClass": "1-5 / 10 000",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Brazil"
+                }
+            }
+        ],
+        "AverageAgeOfOnsets": {
+            "AverageAgeOfOnset": [
+                {
+                    "value": "All ages"
+                }
+            ]
+        },
+        "TypeOfInheritances": {
+            "TypeOfInheritance": [
+                {
+                    "value": "Autosomal recessive"
+                }
+            ]
+        }
+    }
+}

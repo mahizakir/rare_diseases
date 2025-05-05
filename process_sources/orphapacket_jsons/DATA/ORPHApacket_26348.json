@@ -1,0 +1,34 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "26348",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "26348",
+        "Label": "Acquired prothrombin deficiency",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_26348",
+        "DisorderType": {
+            "value": "Disease",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377788"
+        },
+        "Synonyms": [
+            {
+                "Synonym": "Acquired hypoprothrombinemia"
+            }
+        ],
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "A rare hemorrhagic disorder characterized by decreased factor II plasma levels in association with severe liver disease vitamin K deficiency or vitamin K antagonist treatment or in the context of other conditions such as systemic lupus erythematosus primary antiphospholipid syndrome or infections. Patients present with increased bleeding tendency leading to easy bruising frequent nosebleeds hemorrhaging after surgery or trauma and heavy menstrual bleeding among others. Joint bleeding is uncommon."
+        },
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "166775",
+                        "Label": "Rare hemorrhagic disorder due to an acquired coagulation factor defect"
+                    }
+                ]
+            }
+        ]
+    }
+}

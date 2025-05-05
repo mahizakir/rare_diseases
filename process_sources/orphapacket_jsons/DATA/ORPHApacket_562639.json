@@ -1,0 +1,326 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "562639",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "562639",
+        "Label": "Primary biliary cholangitis/primary sclerosing cholangitis and autoimmune hepatitis overlap syndrome",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_562639",
+        "DisorderType": {
+            "value": "Disease",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377788"
+        },
+        "Synonyms": [
+            {
+                "Synonym": "Overlap syndromes of autoimmune liver diseases"
+            },
+            {
+                "Synonym": "PBC/PSC and AIH overlap syndrome"
+            }
+        ],
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "A rare hepatic disease characterized by the overlap of primary biliary cholangitis and/or primary sclerosing cholangitis with autoimmune hepatitis defined by the presence of at least two of the three recognized biochemical serological and histological criteria of each disease. The onset of the overlapping diseases can be simultaneous or sequential with a variable interval of up to several years. Age of onset gender predisposition and clinical phenotype vary between each of the diseases and the clinical presentation ranges from asymptomatic disease or unspecific symptoms such as fatigue arthralgia and pruritus to established cirrhosis and decompensation or also acute fulminant hepatitis and liver failure. Association with extrahepatic autoimmune diseases is common."
+        },
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "101941",
+                        "Label": "Rare biliary tract disease"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "101939",
+                        "Label": "Rare parenchymal liver disease"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "506210",
+                        "Label": "Rare disorder potentially indicated for liver transplant"
+                    }
+                ]
+            }
+        ],
+        "Phenotypes": [
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0030057",
+                    "HPOTerm": "Autoimmune antibody positivity",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0032220",
+                    "HPOTerm": "Interface hepatitis",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000989",
+                    "HPOTerm": "Pruritus",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002910",
+                    "HPOTerm": "Elevated hepatic transaminase",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0003237",
+                    "HPOTerm": "Increased circulating IgG level",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0003493",
+                    "HPOTerm": "Antinuclear antibody positivity",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0011040",
+                    "HPOTerm": "Abnormality of the intrahepatic bile duct",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0012378",
+                    "HPOTerm": "Fatigue",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0033562",
+                    "HPOTerm": "Anti-glycoprotein-210 antibody positivity",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0034093",
+                    "HPOTerm": "Anti-Ro52/TRIM21 antibody positivity",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0034107",
+                    "HPOTerm": "Anti-p53 antibody positivity",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0034108",
+                    "HPOTerm": "Anti-Y-box protein-1 antibody positivity",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0034110",
+                    "HPOTerm": "Anti-Gerbich phenotype 1 antibody positivity",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0034111",
+                    "HPOTerm": "Anti-MIT3 antibody positivity",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0034114",
+                    "HPOTerm": "Anti-hexokinase-1 antibody positivity",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0034115",
+                    "HPOTerm": "Anti-Kelch like protein 12 antibody positivity",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0034155",
+                    "HPOTerm": "Anti-sp100 antibody positivity",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0100889",
+                    "HPOTerm": "Abnormality of the ductus choledochus",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001394",
+                    "HPOTerm": "Cirrhosis",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001396",
+                    "HPOTerm": "Cholestasis",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002037",
+                    "HPOTerm": "Inflammation of the large intestine",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002611",
+                    "HPOTerm": "Cholestatic liver disease",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002829",
+                    "HPOTerm": "Arthralgia",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002904",
+                    "HPOTerm": "Hyperbilirubinemia",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0003155",
+                    "HPOTerm": "Elevated circulating alkaline phosphatase concentration",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0003262",
+                    "HPOTerm": "Smooth muscle antibody positivity",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0003496",
+                    "HPOTerm": "Increased circulating IgM level",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0025344",
+                    "HPOTerm": "Interlobular bile duct destruction",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0030167",
+                    "HPOTerm": "Antimitochondrial antibody positivity",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0030909",
+                    "HPOTerm": "Anti-liver cytosolic antigen type 1 antibody positivity",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0030948",
+                    "HPOTerm": "Elevated gamma-glutamyltransferase level",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0030988",
+                    "HPOTerm": "Granulomatous cholangitis",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0030991",
+                    "HPOTerm": "Sclerosing cholangitis",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0032252",
+                    "HPOTerm": "Granuloma",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0100279",
+                    "HPOTerm": "Ulcerative colitis",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0030908",
+                    "HPOTerm": "Liver kidney microsome type 1 antibody positivity",
+                    "HPOFrequency": "Very rare (<4-1%)"
+                }
+            }
+        ],
+        "Prevalences": {
+            "Prevalence": [
+                {
+                    "Source": "ORPHANET",
+                    "PrevalenceType": "Point prevalence",
+                    "PrevalenceQualification": "Class only",
+                    "PrevalenceClass": "Unknown",
+                    "ValMoy": "0.0",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            ]
+        },
+        "AverageAgeOfOnsets": {
+            "AverageAgeOfOnset": [
+                {
+                    "value": "All ages"
+                }
+            ]
+        }
+    }
+}

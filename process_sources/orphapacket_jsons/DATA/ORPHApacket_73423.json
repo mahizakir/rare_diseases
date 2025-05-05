@@ -1,0 +1,66 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "73423",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "73423",
+        "Label": "Acute ackee fruit intoxication",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_73423",
+        "DisorderType": {
+            "value": "Disease",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377788"
+        },
+        "Synonyms": [
+            {
+                "Synonym": "Acute intoxication by Blighia sapida"
+            },
+            {
+                "Synonym": "Jamaican vomiting sickness"
+            },
+            {
+                "Synonym": "Jamaican vomiting syndrome"
+            }
+        ],
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "A rare disorder due to poisoning caused by the ingestion of unripe Blighia sapida fruits clinically characterized by toxic hypoglycaemia and inhibition of neoglucogenesis."
+        },
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "556508",
+                        "Label": "Rare disorder due to poisoning"
+                    }
+                ]
+            }
+        ],
+        "Prevalences": {
+            "Prevalence": [
+                {
+                    "Source": "ORPHANET",
+                    "PrevalenceType": "Point prevalence",
+                    "PrevalenceQualification": "Class only",
+                    "PrevalenceClass": "Unknown",
+                    "ValMoy": "0.0",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            ]
+        },
+        "AverageAgeOfOnsets": {
+            "AverageAgeOfOnset": [
+                {
+                    "value": "All ages"
+                }
+            ]
+        },
+        "TypeOfInheritances": {
+            "TypeOfInheritance": [
+                {
+                    "value": "Not applicable"
+                }
+            ]
+        }
+    }
+}

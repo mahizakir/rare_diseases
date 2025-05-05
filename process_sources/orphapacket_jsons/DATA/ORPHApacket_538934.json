@@ -1,0 +1,293 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "538934",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "538934",
+        "Label": "X-linked lymphoproliferative disease due to XIAP deficiency",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_538934",
+        "DisorderType": {
+            "value": "Disease",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377788"
+        },
+        "Synonyms": [
+            {
+                "Synonym": "X-linked lymphoproliferative syndrome type 2"
+            },
+            {
+                "Synonym": "XIAP deficiency syndrome"
+            },
+            {
+                "Synonym": "XLP2"
+            }
+        ],
+        "ExternalReferences": [
+            {
+                "Source": "OMIM",
+                "Reference": "300635",
+                "DisorderMappingRelation": "E (Exact mapping: the two concepts are equivalent)"
+            }
+        ],
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "A rare genetic primary immunodeficiency disorder characterized by an abnormal immune response to Epstein-Barr virus (EBV) infection caused by hemizygous mutations in the X-linked <i>XIAP</i> gene resulting in B cell lymphoproliferation and manifesting with various phenotypes which include EBV-driven hemophagocytic lymphohistiocytosis hypogammaglobulinemia recurrent splenomegaly hepatitis colitis and intestinal bowel disease with features of Crohn's disease. Additional manifestations include variable auto-inflammatory symptoms such as uveitis arthritis skin abscesses erythema nodosum and nephritis. Neurological involvement is rare and lymphoma is never observed. Laboratory findings include normal or increased activated T cells low or normal iNKT cells and normal or reduced memory B cells."
+        },
+        "Genes": [
+            {
+                "Gene": {
+                    "Symbol": "XIAP",
+                    "Name": "X-linked inhibitor of apoptosis",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "XIAP"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "592"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "300079"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            }
+        ],
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "2442",
+                        "Label": "X-linked lymphoproliferative disease"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "165655",
+                        "Label": "Genetic intestinal disease"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "104012",
+                        "Label": "Rare inflammatory bowel disease"
+                    }
+                ]
+            }
+        ],
+        "Phenotypes": [
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002721",
+                    "HPOTerm": "Immunodeficiency",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001744",
+                    "HPOTerm": "Splenomegaly",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001876",
+                    "HPOTerm": "Pancytopenia",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001954",
+                    "HPOTerm": "Recurrent fever",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0005229",
+                    "HPOTerm": "Jejunoileal ulceration",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0012115",
+                    "HPOTerm": "Hepatitis",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0034799",
+                    "HPOTerm": "Splenic hemophagocytosis",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0100280",
+                    "HPOTerm": "Crohn's disease",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000083",
+                    "HPOTerm": "Renal insufficiency",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000123",
+                    "HPOTerm": "Nephritis",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000554",
+                    "HPOTerm": "Uveitis",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001369",
+                    "HPOTerm": "Arthritis",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002037",
+                    "HPOTerm": "Inflammation of the large intestine",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002583",
+                    "HPOTerm": "Colitis",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002719",
+                    "HPOTerm": "Recurrent infections",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0004313",
+                    "HPOTerm": "Decreased circulating antibody level",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0012219",
+                    "HPOTerm": "Erythema nodosum",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0030151",
+                    "HPOTerm": "Cholangitis",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0031292",
+                    "HPOTerm": "Cutaneous abscess",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0031693",
+                    "HPOTerm": "Severe Epstein Barr virus infection",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0040218",
+                    "HPOTerm": "Reduced natural killer cell count",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001399",
+                    "HPOTerm": "Hepatic failure",
+                    "HPOFrequency": "Very rare (<4-1%)"
+                }
+            }
+        ],
+        "Prevalences": [
+            {
+                "Prevalence": {
+                    "Source": "29942301[PMID]",
+                    "PrevalenceType": "Cases/families",
+                    "PrevalenceQualification": "Case(s)",
+                    "PrevalenceClass": "no data",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            },
+            {
+                "Prevalence": {
+                    "Source": "ORPHANET_29942301[PMID]",
+                    "PrevalenceType": "Point prevalence",
+                    "PrevalenceQualification": "Class only",
+                    "PrevalenceClass": "<1 / 1 000 000",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            }
+        ],
+        "AverageAgeOfOnsets": [
+            {
+                "AverageAgeOfOnset": {
+                    "value": "Adolescent"
+                }
+            },
+            {
+                "AverageAgeOfOnset": {
+                    "value": "Adult"
+                }
+            },
+            {
+                "AverageAgeOfOnset": {
+                    "value": "Childhood"
+                }
+            },
+            {
+                "AverageAgeOfOnset": {
+                    "value": "Infancy"
+                }
+            }
+        ],
+        "TypeOfInheritances": {
+            "TypeOfInheritance": [
+                {
+                    "value": "X-linked recessive"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,103 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "440706",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "440706",
+        "Label": "Ribose-5-P isomerase deficiency",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_440706",
+        "DisorderType": {
+            "value": "Disease",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377788"
+        },
+        "ExternalReferences": [
+            {
+                "Source": "OMIM",
+                "Reference": "608611",
+                "DisorderMappingRelation": "E (Exact mapping: the two concepts are equivalent)"
+            }
+        ],
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "Ribose-5-P isomerase deficiency is an extremely rare hereditary disorder of pentose phosphate metabolism characterized by progressive leukoencephalopathy and a highly increased ribitol and D-arabitol levels in the brain and body fluids. Clinical presentation includes psychomotor delay epilepsy and childhood-onset slow neurological regression with ataxia spasticity optic atrophy and sensorimotor neuropathy."
+        },
+        "Genes": [
+            {
+                "Gene": {
+                    "Symbol": "RPIA",
+                    "Name": "ribose 5-phosphate isomerase A",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "RPIA"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "10297"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "180430"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            }
+        ],
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "68356",
+                        "Label": "Leukodystrophy"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "79186",
+                        "Label": "Disorder of pentose phosphate metabolism"
+                    }
+                ]
+            }
+        ],
+        "Prevalences": [
+            {
+                "Prevalence": {
+                    "Source": "14988808[PMID]",
+                    "PrevalenceType": "Cases/families",
+                    "PrevalenceQualification": "Case(s)",
+                    "PrevalenceClass": "no data",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            },
+            {
+                "Prevalence": {
+                    "Source": "ORPHANET_14988808[PMID]",
+                    "PrevalenceType": "Point prevalence",
+                    "PrevalenceQualification": "Class only",
+                    "PrevalenceClass": "<1 / 1 000 000",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            }
+        ],
+        "AverageAgeOfOnsets": {
+            "AverageAgeOfOnset": [
+                {
+                    "value": "Childhood"
+                }
+            ]
+        },
+        "TypeOfInheritances": {
+            "TypeOfInheritance": [
+                {
+                    "value": "Autosomal recessive"
+                }
+            ]
+        }
+    }
+}

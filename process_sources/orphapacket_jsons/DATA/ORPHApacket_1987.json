@@ -1,0 +1,58 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "1987",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "1987",
+        "Label": "Isolated femoral agenesis/hypoplasia",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_1987",
+        "DisorderType": {
+            "value": "Morphological anomaly",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377791"
+        },
+        "Synonyms": [
+            {
+                "Synonym": "CFD"
+            },
+            {
+                "Synonym": "CSF"
+            },
+            {
+                "Synonym": "Isolated congenital femoral deficiency"
+            },
+            {
+                "Synonym": "Isolated congenital short femur"
+            },
+            {
+                "Synonym": "Isolated femoral intercalary meromelia"
+            }
+        ],
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "Congenital short femur is a rare malformation of variable severity ranging from mild hypoplasia to complete absence of the femur."
+        },
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "294927",
+                        "Label": "Non-syndromic intercalary limb defects"
+                    }
+                ]
+            }
+        ],
+        "AverageAgeOfOnsets": [
+            {
+                "AverageAgeOfOnset": {
+                    "value": "Antenatal"
+                }
+            },
+            {
+                "AverageAgeOfOnset": {
+                    "value": "Neonatal"
+                }
+            }
+        ]
+    }
+}

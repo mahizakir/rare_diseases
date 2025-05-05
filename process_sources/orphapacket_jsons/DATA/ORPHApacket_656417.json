@@ -1,0 +1,42 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "656417",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "656417",
+        "Label": "Embryonal tumor with multilayered rosettes",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_656417",
+        "DisorderType": {
+            "value": "Disease",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377788"
+        },
+        "Synonyms": [
+            {
+                "Synonym": "ETMR"
+            }
+        ],
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "A rare central nervous system embryonal tumor characterized by embryonal cells arranged in multilayered rosettes and displaying one of three morphological patterns: embryonal tumor with abundant neuropil and true rosettes ependymoblastoma or medulloepithelioma. The tumors typically have a C19MC alteration or (rarely) a <i>DICER1</i> mutation and correspond to WHO grade IV. They are mostly localized intracranially rarely in the spinal cord and commonly cause signs and symptoms of elevated intracranial pressure sometimes seizures and focal neurological signs. Most cases occur in children during the first two years of life."
+        },
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "251870",
+                        "Label": "Central nervous system embryonal tumor"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "602695",
+                        "Label": "Pediatric cancer of neuroepithelial tissue"
+                    }
+                ]
+            }
+        ]
+    }
+}

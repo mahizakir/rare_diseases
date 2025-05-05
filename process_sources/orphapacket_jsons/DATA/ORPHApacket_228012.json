@@ -1,0 +1,122 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "228012",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "228012",
+        "Label": "Progressive sensorineural hearing loss-hypertrophic cardiomyopathy syndrome",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_228012",
+        "DisorderType": {
+            "value": "Disease",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377788"
+        },
+        "Synonyms": [
+            {
+                "Synonym": "Progressive neurosensory deafness-hypertrophic cardiomyopathy syndrome"
+            },
+            {
+                "Synonym": "Progressive neurosensory hearing loss-hypertrophic cardiomyopathy syndrome"
+            },
+            {
+                "Synonym": "Progressive sensorineural deafness-hypertrophic cardiomyopathy syndrome"
+            }
+        ],
+        "ExternalReferences": [
+            {
+                "Source": "OMIM",
+                "Reference": "606346",
+                "DisorderMappingRelation": "NTBT (ORPHAcode is narrower than the targeted code used to represent it)"
+            }
+        ],
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "A rare disorder characterized by progressive late onset autosomal dominant sensorineural hearing loss QT interval prolongation and mild cardiac hypertrophy."
+        },
+        "Genes": [
+            {
+                "Gene": {
+                    "Symbol": "MYO6",
+                    "Name": "myosin VI",
+                    "ExternalReferences": [
+                        {
+                            "Source": "HGNC",
+                            "Reference": "7605"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "600970"
+                        },
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "MYO6"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            }
+        ],
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "90642",
+                        "Label": "Syndromic genetic deafness"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "101934",
+                        "Label": "Genetic cardiac rhythm disease"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "217595",
+                        "Label": "Syndrome associated with hypertrophic cardiomyopathy"
+                    }
+                ]
+            }
+        ],
+        "Prevalences": [
+            {
+                "Prevalence": {
+                    "Source": "18212818[PMID]",
+                    "PrevalenceType": "Cases/families",
+                    "PrevalenceQualification": "Family(ies)",
+                    "PrevalenceClass": "no data",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            },
+            {
+                "Prevalence": {
+                    "Source": "ORPHANET_18212818[PMID]",
+                    "PrevalenceType": "Point prevalence",
+                    "PrevalenceQualification": "Class only",
+                    "PrevalenceClass": "<1 / 1 000 000",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            }
+        ],
+        "AverageAgeOfOnsets": {
+            "AverageAgeOfOnset": [
+                {
+                    "value": "All ages"
+                }
+            ]
+        },
+        "TypeOfInheritances": {
+            "TypeOfInheritance": [
+                {
+                    "value": "Autosomal dominant"
+                }
+            ]
+        }
+    }
+}

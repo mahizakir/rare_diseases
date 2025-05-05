@@ -1,0 +1,134 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "247198",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "247198",
+        "Label": "Progressive cerebello-cerebral atrophy",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_247198",
+        "DisorderType": {
+            "value": "Disease",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377788"
+        },
+        "Synonyms": [
+            {
+                "Synonym": "PCCA"
+            }
+        ],
+        "ExternalReferences": [
+            {
+                "Source": "OMIM",
+                "Reference": "615851",
+                "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+            }
+        ],
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "A rare genetic neurological disorder characterized by postnatal onset of severe global developmental delay profound mental retardation progressive microcephaly progressive spasticity evolving into spastic quadriplegia with joint contractures generalized seizures and irritability. Severe choreoathetosis and dysmorphic features are absent. Brain imaging shows progressive cerebellar atrophy followed by cerebral atrophy affecting both white and grey matter but no pontine involvement."
+        },
+        "Genes": [
+            {
+                "Gene": {
+                    "Symbol": "SEPSECS",
+                    "Name": "Sep (O-phosphoserine) tRNA:Sec (selenocysteine) tRNA synthase",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "SEPSECS"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "30605"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "613009"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "VPS53",
+                    "Name": "VPS53 subunit of GARP complex",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "VPS53"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "25608"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "615850"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            }
+        ],
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "269564",
+                        "Label": "Genetic syndrome with a central nervous system malformation as a major feature"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "269531",
+                        "Label": "Other syndrome with a central nervous system malformation as a major feature"
+                    }
+                ]
+            }
+        ],
+        "Prevalences": [
+            {
+                "Prevalence": {
+                    "Source": "12920088[PMID]_25044680[PMID]",
+                    "PrevalenceType": "Cases/families",
+                    "PrevalenceQualification": "Case(s)",
+                    "PrevalenceClass": "no data",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            },
+            {
+                "Prevalence": {
+                    "Source": "ORPHANET_12920088[PMID]_25044680[PMID]",
+                    "PrevalenceType": "Point prevalence",
+                    "PrevalenceQualification": "Class only",
+                    "PrevalenceClass": "<1 / 1 000 000",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            }
+        ],
+        "AverageAgeOfOnsets": [
+            {
+                "AverageAgeOfOnset": {
+                    "value": "Infancy"
+                }
+            },
+            {
+                "AverageAgeOfOnset": {
+                    "value": "Neonatal"
+                }
+            }
+        ],
+        "TypeOfInheritances": {
+            "TypeOfInheritance": [
+                {
+                    "value": "Autosomal recessive"
+                }
+            ]
+        }
+    }
+}

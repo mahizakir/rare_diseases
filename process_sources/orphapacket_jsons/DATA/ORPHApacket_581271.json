@@ -1,0 +1,75 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "581271",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "581271",
+        "Label": "Cramp-fasciculation syndrome",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_581271",
+        "DisorderType": {
+            "value": "Disease",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377788"
+        },
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "A rare genetic neurological disorder characterized by adult onset of peripheral nerve hyperexcitability causing painful muscle cramps and fasciculations in the limbs hyperreflexia stiffness and muscle pain. Other hypersensitivity-hyperexcitability symptoms are asthma gastroesophageal reflux migraine tremor cold hyperalgesia and cardiac conduction defects. Autonomic signs and symptoms neuropathic pain cognitive deficits and anxiety are also observed."
+        },
+        "Genes": [
+            {
+                "Gene": {
+                    "Symbol": "TRPA1",
+                    "Name": "transient receptor potential cation channel subfamily A member 1",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "TRPA1"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "497"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "604775"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            }
+        ],
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "423662",
+                        "Label": "Rare autonomic nervous system disorder"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "98750",
+                        "Label": "Autoimmune neurological channelopathy"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "434786",
+                        "Label": "Rare genetic autonomic nervous system disorder"
+                    }
+                ]
+            }
+        ],
+        "AverageAgeOfOnsets": {
+            "AverageAgeOfOnset": [
+                {
+                    "value": "Adult"
+                }
+            ]
+        }
+    }
+}

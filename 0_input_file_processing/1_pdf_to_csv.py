@@ -231,7 +231,7 @@ def process_pdfs(pdf_folder_path, disease_name):
             print(f"Failed to process {pdf_file}: {e}")
             continue  # Ensure the loop continues even if an error occurs
 
-disease = #"Zimmermann-Laband syndrome"#"Adenine phosphoribosyltransferase deficiency"# "pachydermoperiostosis" #"Endocrine-cerebro-osteodysplasia syndrome" "Mabry syndrome" "Zimmermann-Laband syndrome"
+disease =#"Acral persistent papular mucinosis"#"Nelson syndrome"#"Bilateral adrenal hemorrhage" #"Zimmermann-Laband syndrome"#"Adenine phosphoribosyltransferase deficiency"# "pachydermoperiostosis" #"Endocrine-cerebro-osteodysplasia syndrome" "Mabry syndrome" "Zimmermann-Laband syndrome"
 #disease = #"Endocrine-cerebro-osteodysplasia syndrome" #"Nance-Horan syndrome" #"GNE myopathy" #"Mabry syndrome" #"Bilateral adrenal hemorrhage" #"Nelson syndrome"#"Nance-Horan syndrome" #"Adenine phosphoribosyltransferase deficiency" #"Acral persistent papular mucinosis" #"Zimmermann-Laband syndrome"
 pdf_folder = f"../data/{disease}/{disease}_pdfs"
 process_pdfs(pdf_folder, disease)

@@ -1,0 +1,106 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "436169",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "436169",
+        "Label": "Thrombomodulin-related bleeding disorder",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_436169",
+        "DisorderType": {
+            "value": "Disease",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377788"
+        },
+        "Synonyms": [
+            {
+                "Synonym": "THBD-related bleeding disorder"
+            },
+            {
+                "Synonym": "THBD-related coagulopathy"
+            },
+            {
+                "Synonym": "Thrombomodulin-related coagulopathy"
+            }
+        ],
+        "ExternalReferences": [
+            {
+                "Source": "OMIM",
+                "Reference": "614486",
+                "DisorderMappingRelation": "E (Exact mapping: the two concepts are equivalent)"
+            }
+        ],
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "A rare genetic coagulation disorder characterized by marked bleeding tendency and posttraumatic bleeding with easy bruising soft tissue and muscle bleeding hemarthroses and menorrhagia due to an increase of soluble thrombomodulin in plasma with subsequent protein C activation and reduction of thrombin generation within a potential thrombus. Abnormal laboratory findings include markedly elevated plasma thrombomodulin reduced prothrombin consumption and decreased thrombin generation."
+        },
+        "Genes": [
+            {
+                "Gene": {
+                    "Symbol": "THBD",
+                    "Name": "thrombomodulin",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "THBD"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "11784"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "188040"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) (gain of function) in"
+                }
+            }
+        ],
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "68334",
+                        "Label": "Rare hemorrhagic disorder due to a constitutional coagulation factors defect"
+                    }
+                ]
+            }
+        ],
+        "Prevalences": [
+            {
+                "Prevalence": {
+                    "Source": "25049278[PMID]_25564403[PMID]",
+                    "PrevalenceType": "Cases/families",
+                    "PrevalenceQualification": "Case(s)",
+                    "PrevalenceClass": "no data",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            },
+            {
+                "Prevalence": {
+                    "Source": "ORPHANET_25049278[PMID]_25564403[PMID]",
+                    "PrevalenceType": "Point prevalence",
+                    "PrevalenceQualification": "Class only",
+                    "PrevalenceClass": "<1 / 1 000 000",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            }
+        ],
+        "AverageAgeOfOnsets": {
+            "AverageAgeOfOnset": [
+                {
+                    "value": "All ages"
+                }
+            ]
+        },
+        "TypeOfInheritances": {
+            "TypeOfInheritance": [
+                {
+                    "value": "Autosomal dominant"
+                }
+            ]
+        }
+    }
+}

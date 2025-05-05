@@ -1,0 +1,443 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "90793",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "90793",
+        "Label": "Congenital adrenal hyperplasia due to 17-alpha-hydroxylase deficiency",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_90793",
+        "DisorderType": {
+            "value": "Disease",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377788"
+        },
+        "Synonyms": [
+            {
+                "Synonym": "CAH due to 17-alpha-hydroxylase deficiency"
+            },
+            {
+                "Synonym": "Combined 17-hydroxylase/17,20-lyase deficiency"
+            }
+        ],
+        "ExternalReferences": [
+            {
+                "Source": "OMIM",
+                "Reference": "202110",
+                "DisorderMappingRelation": "E (Exact mapping: the two concepts are equivalent)"
+            }
+        ],
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "A rare form of congenital adrenal hyperplasia due to 17-alpha-hydroxylase (CYP17A1) deficiency and characterized by glucocorticoid deficiency mineralocorticoid excess leading to hypokalemic hypertension and sex steroid deficiency (hypergonadotrophic hypogonadism). Undervirilization and even female phenotype in 46,XY males primary amenorrhea in females and lack of pubertal development in both sexes is common. Residual CYP17A1 activity is associated with the severity of this condition with a large spectrum of variability from presenting in early infancy to unusually mild courses with isolated sex steroid deficiency but normal ACTH-stimulated cortisol in adult patients."
+        },
+        "Genes": [
+            {
+                "Gene": {
+                    "Symbol": "CYP17A1",
+                    "Name": "cytochrome P450 family 17 subfamily A member 1",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "CYP17A1"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "2593"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "609300"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            }
+        ],
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "90786",
+                        "Label": "46,XY difference of sex development due to adrenal and testicular steroidogenesis defect"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "418",
+                        "Label": "Congenital adrenal hyperplasia"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "95710",
+                        "Label": "Rare non-acquired premature ovarian failure"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "399994",
+                        "Label": "Rare male infertility due to adrenal disorder of genetic origin"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "400018",
+                        "Label": "Rare female infertility due to adrenal disorder of genetic origin"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "485382",
+                        "Label": "Rare genetic premature ovarian failure"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "399584",
+                        "Label": "Rare male infertility due to adrenal disorder"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "399849",
+                        "Label": "Rare female infertility due to an adrenal disorder"
+                    }
+                ]
+            }
+        ],
+        "Phenotypes": [
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000822",
+                    "HPOTerm": "Hypertension",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000837",
+                    "HPOTerm": "Increased circulating gonadotropin level",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0008258",
+                    "HPOTerm": "Congenital adrenal hyperplasia",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0031074",
+                    "HPOTerm": "Abnormal response to ACTH stimulation test",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0032330",
+                    "HPOTerm": "Increased urinary 11-deoxycorticosterone level",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0032362",
+                    "HPOTerm": "Increased circulating corticosterone level",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0040171",
+                    "HPOTerm": "Decreased serum testosterone concentration",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0500022",
+                    "HPOTerm": "Abnormal serum dehydroepiandrosterone level",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000026",
+                    "HPOTerm": "Male hypogonadism",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000047",
+                    "HPOTerm": "Hypospadias",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000138",
+                    "HPOTerm": "Ovarian cyst",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000144",
+                    "HPOTerm": "Decreased fertility",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000771",
+                    "HPOTerm": "Gynecomastia",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000786",
+                    "HPOTerm": "Primary amenorrhea",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000823",
+                    "HPOTerm": "Delayed puberty",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000858",
+                    "HPOTerm": "Irregular menstruation",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002750",
+                    "HPOTerm": "Delayed skeletal maturation",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002900",
+                    "HPOTerm": "Hypokalemia",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0003351",
+                    "HPOTerm": "Decreased circulating renin level",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0004319",
+                    "HPOTerm": "Decreased circulating aldosterone level",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0008163",
+                    "HPOTerm": "Decreased circulating cortisol level",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0008187",
+                    "HPOTerm": "Absence of secondary sex characteristics",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0008197",
+                    "HPOTerm": "Absence of pubertal development",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0008232",
+                    "HPOTerm": "Elevated circulating follicle stimulating hormone level",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0008689",
+                    "HPOTerm": "Bilateral cryptorchidism",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0011749",
+                    "HPOTerm": "Adrenocorticotropic hormone excess",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0011969",
+                    "HPOTerm": "Elevated circulating luteinizing hormone level",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0031216",
+                    "HPOTerm": "Increased circulating progesterone",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000033",
+                    "HPOTerm": "Ambiguous genitalia, male",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000048",
+                    "HPOTerm": "Bifid scrotum",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000054",
+                    "HPOTerm": "Micropenis",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000151",
+                    "HPOTerm": "Aplasia of the uterus",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001508",
+                    "HPOTerm": "Failure to thrive",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002221",
+                    "HPOTerm": "Absent axillary hair",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002555",
+                    "HPOTerm": "Absent pubic hair",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0003251",
+                    "HPOTerm": "Male infertility",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0003394",
+                    "HPOTerm": "Muscle spasm",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0008207",
+                    "HPOTerm": "Primary adrenal insufficiency",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0008730",
+                    "HPOTerm": "Female external genitalia in individual with 46,XY karyotype",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0010465",
+                    "HPOTerm": "Precocious puberty in females",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0040314",
+                    "HPOTerm": "Blind vagina",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            }
+        ],
+        "Prevalences": {
+            "Prevalence": [
+                {
+                    "Source": "[EXPERT]",
+                    "PrevalenceType": "Point prevalence",
+                    "PrevalenceQualification": "Value and class",
+                    "PrevalenceClass": "1-9 / 1 000 000",
+                    "ValMoy": "0.1",
+                    "PrevalenceGeographic": "Europe"
+                }
+            ]
+        },
+        "AverageAgeOfOnsets": [
+            {
+                "AverageAgeOfOnset": {
+                    "value": "Infancy"
+                }
+            },
+            {
+                "AverageAgeOfOnset": {
+                    "value": "Neonatal"
+                }
+            }
+        ],
+        "TypeOfInheritances": {
+            "TypeOfInheritance": [
+                {
+                    "value": "Autosomal recessive"
+                }
+            ]
+        }
+    }
+}

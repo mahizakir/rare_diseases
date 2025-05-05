@@ -1,0 +1,202 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "530838",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "530838",
+        "Label": "KRT1-related diffuse nonepidermolytic keratoderma",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_530838",
+        "DisorderType": {
+            "value": "Disease",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377788"
+        },
+        "Synonyms": [
+            {
+                "Synonym": "KRT1-related diffuse NEPPK"
+            }
+        ],
+        "ExternalReferences": [
+            {
+                "Source": "OMIM",
+                "Reference": "600962",
+                "DisorderMappingRelation": "E (Exact mapping: the two concepts are equivalent)"
+            }
+        ],
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "A rare genetic isolated diffuse palmoplantar keratoderma characterized by diffuse mild to thick finely demarcated hyperkeratosis of palms and soles. Additional clinical findings include knuckle pad-like keratoses on fingers hyperkeratosis of umbilicus and areolae diffuse dry skin hyperhidrosis hangnails and frequent fungal infections. Histological examination of lesions reveals orthokeratotic hyperkeratosis acanthosis hypergranulosis and mild lymphocyte infiltrations in the upper dermis with no evidence of epidermolysis."
+        },
+        "Genes": [
+            {
+                "Gene": {
+                    "Symbol": "KRT1",
+                    "Name": "keratin 1",
+                    "ExternalReferences": [
+                        {
+                            "Source": "HGNC",
+                            "Reference": "6412"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "139350"
+                        },
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "KRT1"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            }
+        ],
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "98349",
+                        "Label": "Autosomal dominant isolated diffuse palmoplantar keratoderma"
+                    }
+                ]
+            }
+        ],
+        "Phenotypes": [
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0007404",
+                    "HPOTerm": "Nonepidermolytic palmoplantar keratoderma",
+                    "HPOFrequency": "Obligate (100%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0007447",
+                    "HPOTerm": "Diffuse palmoplantar hyperkeratosis",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000958",
+                    "HPOTerm": "Dry skin",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001551",
+                    "HPOTerm": "Abnormal umbilicus morphology",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0010783",
+                    "HPOTerm": "Erythema",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0012203",
+                    "HPOTerm": "Onychomycosis",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001047",
+                    "HPOTerm": "Atopic dermatitis",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001598",
+                    "HPOTerm": "Concave nail",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0004690",
+                    "HPOTerm": "Thickened Achilles tendon",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0006203",
+                    "HPOTerm": "Decreased movement range in interphalangeal joints",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0007446",
+                    "HPOTerm": "Palmoplantar blistering",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0025524",
+                    "HPOTerm": "Palmoplantar scaling skin",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0032523",
+                    "HPOTerm": "Tendon thickening",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0032541",
+                    "HPOTerm": "Knuckle pad",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0040189",
+                    "HPOTerm": "Scaling skin",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            }
+        ],
+        "Prevalences": {
+            "Prevalence": [
+                {
+                    "Source": "ORPHANET_30452289[PMID]",
+                    "PrevalenceType": "Point prevalence",
+                    "PrevalenceQualification": "Class only",
+                    "PrevalenceClass": "Unknown",
+                    "ValMoy": "0.0",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            ]
+        },
+        "AverageAgeOfOnsets": [
+            {
+                "AverageAgeOfOnset": {
+                    "value": "Childhood"
+                }
+            },
+            {
+                "AverageAgeOfOnset": {
+                    "value": "Infancy"
+                }
+            }
+        ],
+        "TypeOfInheritances": {
+            "TypeOfInheritance": [
+                {
+                    "value": "Autosomal dominant"
+                }
+            ]
+        }
+    }
+}

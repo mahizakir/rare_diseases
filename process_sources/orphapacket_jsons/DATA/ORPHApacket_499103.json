@@ -1,0 +1,34 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "499103",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "499103",
+        "Label": "Recurrent idiopathic neuroretinitis",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_499103",
+        "DisorderType": {
+            "value": "Disease",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377788"
+        },
+        "Synonyms": [
+            {
+                "Synonym": "RINR"
+            }
+        ],
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "A rare inflammatory optic neuropathy characterized by recurrent episodes of idiopathic inflammation of the optic nerve head with optic disc edema associated with macular exudate in a star-shaped pattern. Patients present with acute visual loss most typically in the form of a large central scotoma. Pain is mild or absent. Bilateral involvement is frequent and usually sequential. The interval between attacks is highly variable ranging from months to several years. Visual loss is cumulative with each attack and often severe."
+        },
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "499047",
+                        "Label": "Autoimmune/inflammatory optic neuropathy"
+                    }
+                ]
+            }
+        ]
+    }
+}

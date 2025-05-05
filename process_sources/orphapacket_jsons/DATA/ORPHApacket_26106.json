@@ -1,0 +1,152 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "26106",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "26106",
+        "Label": "Hereditary diffuse gastric cancer",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_26106",
+        "DisorderType": {
+            "value": "Disease",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377788"
+        },
+        "Synonyms": [
+            {
+                "Synonym": "FDGC"
+            },
+            {
+                "Synonym": "Familial diffuse cancer of stomach"
+            },
+            {
+                "Synonym": "Familial diffuse gastric cancer"
+            },
+            {
+                "Synonym": "HDGC"
+            },
+            {
+                "Synonym": "Hereditary diffuse cancer of stomach"
+            },
+            {
+                "Synonym": "Hereditary diffuse gastric adenocarcinoma"
+            }
+        ],
+        "ExternalReferences": [
+            {
+                "Source": "OMIM",
+                "Reference": "137215",
+                "DisorderMappingRelation": "E (Exact mapping: the two concepts are equivalent)"
+            }
+        ],
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "Hereditary diffuse gastric cancer is a rare epithelial tumor of the stomach characterized by the development of diffuse (signet ring cell) gastric cancer at a young age associated with germline heterozygous mutations of <i>CDH1</i> <i>MAP3K6</i> and <i>CTNNA1</i> genes. In early stages it presents with non-specific and vague symptoms in advanced stages it may cause nausea and vomiting dysphagia loss of appetite abdominal mass or weight loss. Women have an increased risk of lobular breast cancer as well."
+        },
+        "Genes": [
+            {
+                "Gene": {
+                    "Symbol": "CDH1",
+                    "Name": "cadherin 1",
+                    "ExternalReferences": [
+                        {
+                            "Source": "HGNC",
+                            "Reference": "1748"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "192090"
+                        },
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "CDH1"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "MAP3K6",
+                    "Name": "mitogen-activated protein kinase kinase kinase 6",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "MAP3K6"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "6858"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "604468"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) (loss of function) in"
+                }
+            }
+        ],
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "165658",
+                        "Label": "Genetic gastro-esophageal disease"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "271835",
+                        "Label": "Genetic digestive tract tumor"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "423776",
+                        "Label": "Hereditary gastric cancer"
+                    }
+                ]
+            }
+        ],
+        "Prevalences": [
+            {
+                "Prevalence": {
+                    "Source": "ORPHANET",
+                    "PrevalenceType": "Annual incidence",
+                    "PrevalenceQualification": "Value and class",
+                    "PrevalenceClass": "1-9 / 100 000",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Europe"
+                }
+            },
+            {
+                "Prevalence": {
+                    "Source": "ORPHANET",
+                    "PrevalenceType": "Point prevalence",
+                    "PrevalenceQualification": "Class only",
+                    "PrevalenceClass": "Unknown",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            }
+        ],
+        "AverageAgeOfOnsets": {
+            "AverageAgeOfOnset": [
+                {
+                    "value": "Adult"
+                }
+            ]
+        },
+        "TypeOfInheritances": {
+            "TypeOfInheritance": [
+                {
+                    "value": "Autosomal dominant"
+                }
+            ]
+        }
+    }
+}

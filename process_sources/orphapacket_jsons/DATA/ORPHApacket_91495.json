@@ -1,0 +1,352 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "91495",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "91495",
+        "Label": "Persistent hyperplastic primary vitreous",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_91495",
+        "DisorderType": {
+            "value": "Disease",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377788"
+        },
+        "Synonyms": [
+            {
+                "Synonym": "Congenital retinal detachment"
+            },
+            {
+                "Synonym": "NCRNA disease"
+            },
+            {
+                "Synonym": "Non-syndromic congenital retinal non-attachment"
+            },
+            {
+                "Synonym": "PFVS"
+            },
+            {
+                "Synonym": "PHPV"
+            },
+            {
+                "Synonym": "Persistent fetal vasculature syndrome"
+            }
+        ],
+        "ExternalReferences": [
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "221900",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "611308",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            }
+        ],
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "A rare ophthalmic disorder characterized by mostly unilateral failure of the regression of a fetal ocular vessel component the tunica vasculosa lentis and/or the hyaloid system resulting in an anterior (presenting with microphthalmia leukocoria cataract glaucoma elongated ciliary processes shallow anterior chamber and retrolental fibrovascular membranes among others) or posterior disease subtype (with microphthalmia leukocoria presence of a retinal fold or detachment hypo- or dysplastic optic nerve and vitreous membranes and stalk) respectively. Most patients present with a combination of the two subtypes."
+        },
+        "Genes": [
+            {
+                "Gene": {
+                    "Symbol": "FZD4",
+                    "Name": "frizzled class receptor 4",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "FZD4"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "4042"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "604579"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "NDP",
+                    "Name": "norrin cystine knot growth factor NDP",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "NDP"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "7678"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "300658"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "ATOH7",
+                    "Name": "atonal bHLH transcription factor 7",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "ATOH7"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "13907"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "609875"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            }
+        ],
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "98641",
+                        "Label": "Syndromic cataract"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "519304",
+                        "Label": "Isolated vitreoretinopathy"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "522548",
+                        "Label": "Syndromic genetic cataract"
+                    }
+                ]
+            }
+        ],
+        "Phenotypes": [
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0007968",
+                    "HPOTerm": "Remnants of the hyaloid vascular system",
+                    "HPOFrequency": "Obligate (100%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000518",
+                    "HPOTerm": "Cataract",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000555",
+                    "HPOTerm": "Leukocoria",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000568",
+                    "HPOTerm": "Microphthalmia",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0007663",
+                    "HPOTerm": "Reduced visual acuity",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0007957",
+                    "HPOTerm": "Corneal opacity",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000519",
+                    "HPOTerm": "Developmental cataract",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0007917",
+                    "HPOTerm": "Tractional retinal detachment",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0009917",
+                    "HPOTerm": "Persistent pupillary membrane",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0012109",
+                    "HPOTerm": "Angle closure glaucoma",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0030743",
+                    "HPOTerm": "Glial remnants anterior to the optic disc",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0030744",
+                    "HPOTerm": "Hyaloid vascular remnant and retrolental mass",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000482",
+                    "HPOTerm": "Microcornea",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000486",
+                    "HPOTerm": "Strabismus",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000557",
+                    "HPOTerm": "Buphthalmos",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000594",
+                    "HPOTerm": "Shallow anterior chamber",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000618",
+                    "HPOTerm": "Blindness",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000646",
+                    "HPOTerm": "Amblyopia",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000667",
+                    "HPOTerm": "Phthisis bulbi",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001104",
+                    "HPOTerm": "Macular hypoplasia",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0008052",
+                    "HPOTerm": "Retinal fold",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0009926",
+                    "HPOTerm": "Epiphora",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0011885",
+                    "HPOTerm": "Hemorrhage of the eye",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0010766",
+                    "HPOTerm": "Ectopic calcification",
+                    "HPOFrequency": "Very rare (<4-1%)"
+                }
+            }
+        ],
+        "Prevalences": {
+            "Prevalence": [
+                {
+                    "Source": "ORPHANET",
+                    "PrevalenceType": "Point prevalence",
+                    "PrevalenceQualification": "Class only",
+                    "PrevalenceClass": "Unknown",
+                    "ValMoy": "0.0",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            ]
+        },
+        "AverageAgeOfOnsets": [
+            {
+                "AverageAgeOfOnset": {
+                    "value": "Infancy"
+                }
+            },
+            {
+                "AverageAgeOfOnset": {
+                    "value": "Neonatal"
+                }
+            }
+        ],
+        "TypeOfInheritances": [
+            {
+                "TypeOfInheritance": {
+                    "value": "Autosomal dominant"
+                }
+            },
+            {
+                "TypeOfInheritance": {
+                    "value": "Autosomal recessive"
+                }
+            }
+        ]
+    }
+}

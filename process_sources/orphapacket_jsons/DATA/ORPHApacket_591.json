@@ -1,0 +1,64 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "591",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "591",
+        "Label": "Furuncular myiasis",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_591",
+        "DisorderType": {
+            "value": "Disease",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377788"
+        },
+        "Synonyms": [
+            {
+                "Synonym": "Furunculoid myiasis"
+            },
+            {
+                "Synonym": "Furunculous myiasis"
+            }
+        ],
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "A parasitic disease characterized by infestation of the skin with larvae of a variety of fly species. Furuncular myiasis specifically involves flies whose eggs are able to breach healthy skin which concerns three species: Cordylobia anthropophaga (also called the African tumbu fly or Cayor worm for the larvae) and Cordylobia rodhaini (the Lund's fly) and Dermatobia hominis (the human botfly)."
+        },
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "99983",
+                        "Label": "Cutaneous myiasis"
+                    }
+                ]
+            }
+        ],
+        "Childs": [],
+        "Prevalences": {
+            "Prevalence": [
+                {
+                    "Source": "ORPHANET",
+                    "PrevalenceType": "Point prevalence",
+                    "PrevalenceQualification": "Class only",
+                    "PrevalenceClass": "Unknown",
+                    "ValMoy": "0.0",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            ]
+        },
+        "AverageAgeOfOnsets": {
+            "AverageAgeOfOnset": [
+                {
+                    "value": "All ages"
+                }
+            ]
+        },
+        "TypeOfInheritances": {
+            "TypeOfInheritance": [
+                {
+                    "value": "Not applicable"
+                }
+            ]
+        }
+    }
+}

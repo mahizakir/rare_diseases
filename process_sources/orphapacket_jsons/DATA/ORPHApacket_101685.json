@@ -1,0 +1,2376 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "101685",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "101685",
+        "Label": "Rare non-syndromic intellectual disability",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_101685",
+        "DisorderType": {
+            "value": "Disease",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377788"
+        },
+        "Synonyms": [
+            {
+                "Synonym": "Rare NSID"
+            }
+        ],
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "Rare non-syndromic intellectual disability is a rare hereditary neurologic disease characterized by early-onset cognitive impairment as a sole disability. The disease may be associated with autism epilepsy and neuromuscular deficits."
+        },
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "87277",
+                        "Label": "Rare intellectual disability"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "166472",
+                        "Label": "Monogenic disease with epilepsy"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "183757",
+                        "Label": "Rare genetic intellectual disability"
+                    }
+                ]
+            }
+        ],
+        "Childs": [
+            {
+                "Child": {
+                    "Label": "X-linked non-syndromic intellectual disability",
+                    "ORPHAcode": "777",
+                    "Genes": [
+                        {
+                            "Gene": {
+                                "Label": "STING1 ER exit protein 1",
+                                "Symbol": "STEEP1",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "26239"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "301012"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "calcium/calmodulin dependent serine protein kinase",
+                                "Symbol": "CASK",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "1497"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "300172"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "ribosomal protein S6 kinase A3",
+                                "Symbol": "RPS6KA3",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "10432"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "300075"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "aristaless related homeobox",
+                                "Symbol": "ARX",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "18060"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "300382"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "dystrophin",
+                                "Symbol": "DMD",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "2928"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "300377"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "FtsJ RNA 2'-O-methyltransferase 1",
+                                "Symbol": "FTSJ1",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "13254"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "300499"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) (loss of function) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "GDP dissociation inhibitor 1",
+                                "Symbol": "GDI1",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "4226"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "300104"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "UPF3B regulator of nonsense mediated mRNA decay",
+                                "Symbol": "UPF3B",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "20439"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "300298"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "angiotensin II receptor type 2",
+                                "Symbol": "AGTR2",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "338"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "300034"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "discs large MAGUK scaffold protein 3",
+                                "Symbol": "DLG3",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "2902"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "300189"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "interleukin 1 receptor accessory protein like 1",
+                                "Symbol": "IL1RAPL1",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "5996"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "300206"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "p21 (RAC1) activated kinase 3",
+                                "Symbol": "PAK3",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "8592"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "300142"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) (loss of function) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "tetraspanin 7",
+                                "Symbol": "TSPAN7",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "11854"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "300096"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "Rac/Cdc42 guanine nucleotide exchange factor 6",
+                                "Symbol": "ARHGEF6",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "685"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "300267"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "zinc finger protein 81",
+                                "Symbol": "ZNF81",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "13156"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "314998"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "synaptophysin",
+                                "Symbol": "SYP",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "11506"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "313475"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "zinc finger protein 711",
+                                "Symbol": "ZNF711",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "13128"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "314990"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "RAB39B, member RAS oncogene family",
+                                "Symbol": "RAB39B",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "16499"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "300774"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) (loss of function) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "host cell factor C1",
+                                "Symbol": "HCFC1",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "4839"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "300019"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "ALG13 UDP-N-acetylglucosaminyltransferase subunit",
+                                "Symbol": "ALG13",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "30881"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "300776"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "midline 2",
+                                "Symbol": "MID2",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "7096"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "300204"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "ubiquitin specific peptidase 9 X-linked",
+                                "Symbol": "USP9X",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "12632"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "300072"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) (loss of function) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "acyl-CoA synthetase long chain family member 4",
+                                "Symbol": "ACSL4",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "3571"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "300157"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "methyl-CpG binding protein 2",
+                                "Symbol": "MECP2",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "6990"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "300005"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "IQ motif and Sec7 domain ArfGEF 2",
+                                "Symbol": "IQSEC2",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "29059"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "300522"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "solute carrier family 9 member A7",
+                                "Symbol": "SLC9A7",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "17123"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "300368"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "connector enhancer of kinase suppressor of Ras 2",
+                                "Symbol": "CNKSR2",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "19701"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "300724"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "FERM and PDZ domain containing 4",
+                                "Symbol": "FRMPD4",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "29007"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "300838"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "ubiquitin specific peptidase 27 X-linked",
+                                "Symbol": "USP27X",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "13486"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "300975"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "chloride voltage-gated channel 4",
+                                "Symbol": "CLCN4",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "2022"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "302910"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "Child": {
+                    "Label": "Autosomal recessive non-syndromic intellectual disability",
+                    "ORPHAcode": "88616",
+                    "Genes": [
+                        {
+                            "Gene": {
+                                "Label": "decapping enzyme, scavenger",
+                                "Symbol": "DCPS",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "29812"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "610534"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "beta-1,3-N-acetylgalactosaminyltransferase 2",
+                                "Symbol": "B3GALNT2",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "28596"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "610194"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "inositol monophosphatase 1",
+                                "Symbol": "IMPA1",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "6050"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "602064"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) (loss of function) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "ATP binding cassette subfamily A member 2",
+                                "Symbol": "ABCA2",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "32"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "600047"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "choline kinase alpha",
+                                "Symbol": "CHKA",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "118491"
+                                    },
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "1937"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "glutamate ionotropic receptor AMPA type subunit 1",
+                                "Symbol": "GRIA1",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "4571"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "138248"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "centrosomal protein 104",
+                                "Symbol": "CEP104",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "24866"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "616690"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "aminoacyl tRNA synthetase complex interacting multifunctional protein 1",
+                                "Symbol": "AIMP1",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "10648"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "603605"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) (loss of function) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "UFM1 specific peptidase 2",
+                                "Symbol": "UFSP2",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "25640"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "611482"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) (loss of function) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "cereblon",
+                                "Symbol": "CRBN",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "30185"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "609262"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "tumor suppressor candidate 3",
+                                "Symbol": "TUSC3",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "30242"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "601385"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "trans-2,3-enoyl-CoA reductase",
+                                "Symbol": "TECR",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "4551"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "610057"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "glutamate ionotropic receptor kainate type subunit 2",
+                                "Symbol": "GRIK2",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "4580"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "138244"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) (loss of function) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "WASH complex subunit 4",
+                                "Symbol": "WASHC4",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "29174"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "615748"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "trafficking protein particle complex subunit 9",
+                                "Symbol": "TRAPPC9",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "30832"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "611966"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) (loss of function) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "serine protease 12",
+                                "Symbol": "PRSS12",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "9477"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "606709"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "mediator complex subunit 23",
+                                "Symbol": "MED23",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "2372"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "605042"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "ST3 beta-galactoside alpha-2,3-sialyltransferase 3",
+                                "Symbol": "ST3GAL3",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "10866"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "606494"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "CASP2 and RIPK1 domain containing adaptor with death domain",
+                                "Symbol": "CRADD",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "2340"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "603454"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "zinc finger CCCH-type containing 14",
+                                "Symbol": "ZC3H14",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "20509"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "613279"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "NOP2/Sun RNA methyltransferase 2",
+                                "Symbol": "NSUN2",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "25994"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "610916"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "lines homolog 1",
+                                "Symbol": "LINS1",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "30922"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "610350"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "post-GPI attachment to proteins inositol deacylase 1",
+                                "Symbol": "PGAP1",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "25712"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "611655"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) (loss of function) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "methyltransferase 23, arginine",
+                                "Symbol": "METTL23",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "26988"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "615262"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "CAP-Gly domain containing linker protein 1",
+                                "Symbol": "CLIP1",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "10461"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "179838"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) (loss of function) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "F-box protein 31",
+                                "Symbol": "FBXO31",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "16510"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "609102"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) (loss of function) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "N-deacetylase and N-sulfotransferase 1",
+                                "Symbol": "NDST1",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "7680"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "600853"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "formin 2",
+                                "Symbol": "FMN2",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "14074"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "606373"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "enhancer of mRNA decapping 3",
+                                "Symbol": "EDC3",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "26114"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "609842"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "histamine N-methyltransferase",
+                                "Symbol": "HNMT",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "5028"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "605238"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "ezrin",
+                                "Symbol": "EZR",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "12691"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "123900"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) (loss of function) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "lectin, mannose binding 2 like",
+                                "Symbol": "LMAN2L",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "19263"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "609552"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "nuclear export mediator factor",
+                                "Symbol": "NEMF",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "10663"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "608378"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "glutamate metabotropic receptor 7",
+                                "Symbol": "GRM7",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "4599"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "604101"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "IQ motif and Sec7 domain ArfGEF 1",
+                                "Symbol": "IQSEC1",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "29112"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "610166"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "TRAF2 and NCK interacting kinase",
+                                "Symbol": "TNIK",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "30765"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "610005"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) (loss of function) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "neurochondrin",
+                                "Symbol": "NCDN",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "17597"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "608458"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "ubiquitination factor E4A",
+                                "Symbol": "UBE4A",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "12499"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "603753"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) (loss of function) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "tetratricopeptide repeat domain 5",
+                                "Symbol": "TTC5",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "19274"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "619014"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) (loss of function) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "phosphatidylinositol glycan anchor biosynthesis class C",
+                                "Symbol": "PIGC",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "8960"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "601730"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "solute carrier family 45 member 1",
+                                "Symbol": "SLC45A1",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "17939"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "605763"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "gem nuclear organelle associated protein 5",
+                                "Symbol": "GEMIN5",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "607005"
+                                    },
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "20043"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) (loss of function) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "ferric chelate reductase 1 like",
+                                "Symbol": "FRRS1L",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "604574"
+                                    },
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "1362"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "alkB homolog 8, tRNA methyltransferase",
+                                "Symbol": "ALKBH8",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "25189"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "613306"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) (loss of function) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "membrane bound O-acyltransferase domain containing 7",
+                                "Symbol": "MBOAT7",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "15505"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "606048"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) (loss of function) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "FERRY endosomal RAB5 effector complex subunit 3",
+                                "Symbol": "FERRY3",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "1184"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "616082"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "seryl-tRNA synthetase 1",
+                                "Symbol": "SARS1",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "10537"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "607529"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "arginine and serine rich coiled-coil 1",
+                                "Symbol": "RSRC1",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "24152"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "613352"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "mediator complex subunit 25",
+                                "Symbol": "MED25",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "28845"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "610197"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "N-alpha-acetyltransferase 20, NatB catalytic subunit",
+                                "Symbol": "NAA20",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "15908"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "610833"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) (loss of function) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "coiled-coil and C2 domain containing 1A",
+                                "Symbol": "CC2D1A",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "30237"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "610055"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "mannosidase alpha class 1B member 1",
+                                "Symbol": "MAN1B1",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "6823"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "604346"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "translocated promoter region, nuclear basket protein",
+                                "Symbol": "TPR",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "12017"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "189940"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "lysine demethylase 5B",
+                                "Symbol": "KDM5B",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "18039"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "605393"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "eukaryotic translation elongation factor 1 beta 2",
+                                "Symbol": "EEF1B2",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "3208"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "600655"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "Child": {
+                    "Label": "Autosomal dominant non-syndromic intellectual disability",
+                    "ORPHAcode": "178469",
+                    "Genes": [
+                        {
+                            "Gene": {
+                                "Label": "potassium voltage-gated channel subfamily Q member 2",
+                                "Symbol": "KCNQ2",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "6296"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "602235"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "erb-b2 receptor tyrosine kinase 4",
+                                "Symbol": "ERBB4",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "3432"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "600543"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "BR serine/threonine kinase 2",
+                                "Symbol": "BRSK2",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "11405"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "609236"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) (loss of function) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "mediator complex subunit 12L",
+                                "Symbol": "MED12L",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "16050"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "611318"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "solute carrier family 6 member 1",
+                                "Symbol": "SLC6A1",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "11042"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "137165"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "SET domain containing 1B, histone lysine methyltransferase",
+                                "Symbol": "SETD1B",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "29187"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "611055"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "clathrin heavy chain",
+                                "Symbol": "CLTC",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "2092"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "118955"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "intersectin 1",
+                                "Symbol": "ITSN1",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "6183"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "602442"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "prickle planar cell polarity protein 2",
+                                "Symbol": "PRICKLE2",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "20340"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "608501"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "chromosome alignment maintaining phosphoprotein 1",
+                                "Symbol": "CHAMP1",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "20311"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "616327"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "HIVEP zinc finger 2",
+                                "Symbol": "HIVEP2",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "4921"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "143054"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) (loss of function) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "gamma-aminobutyric acid type B receptor subunit 1",
+                                "Symbol": "GABBR1",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "4070"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "603540"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "dihydropyrimidinase like 2",
+                                "Symbol": "DPYSL2",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "3014"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "602463"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "SET nuclear proto-oncogene",
+                                "Symbol": "SET",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "10760"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "600960"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "ADP ribosylation factor 3",
+                                "Symbol": "ARF3",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "654"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "103190"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "calcium voltage-gated channel subunit alpha1 I",
+                                "Symbol": "CACNA1I",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "608230"
+                                    },
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "1396"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "RAB11A, member RAS oncogene family",
+                                "Symbol": "RAB11A",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "9760"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "605570"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "protein phosphatase 3 catalytic subunit alpha",
+                                "Symbol": "PPP3CA",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "9314"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "114105"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "glutamate ionotropic receptor AMPA type subunit 1",
+                                "Symbol": "GRIA1",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "4571"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "138248"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "potassium voltage-gated channel subfamily Q member 5",
+                                "Symbol": "KCNQ5",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "6299"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "607357"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "delta like canonical Notch ligand 1",
+                                "Symbol": "DLL1",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "2908"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "606582"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "sodium voltage-gated channel alpha subunit 8",
+                                "Symbol": "SCN8A",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "10596"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "600702"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "TAO kinase 1",
+                                "Symbol": "TAOK1",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "610266"
+                                    },
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "29259"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) (loss of function) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "transient receptor potential cation channel subfamily M member 3",
+                                "Symbol": "TRPM3",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "17992"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "608961"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "neurobeachin",
+                                "Symbol": "NBEA",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "7648"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "604889"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "capicua transcriptional repressor",
+                                "Symbol": "CIC",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "14214"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "612082"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) (loss of function) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "casein kinase 2 beta",
+                                "Symbol": "CSNK2B",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "2460"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "115441"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) (loss of function) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "ASH1 like histone lysine methyltransferase",
+                                "Symbol": "ASH1L",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "19088"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "607999"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "semaphorin 6B",
+                                "Symbol": "SEMA6B",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "10739"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "608873"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "cut like homeobox 1",
+                                "Symbol": "CUX1",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "2557"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "116896"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein zeta",
+                                "Symbol": "YWHAZ",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "12855"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "601288"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "transcription factor 4",
+                                "Symbol": "TCF4",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "11634"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "602272"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "catenin delta 2",
+                                "Symbol": "CTNND2",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "2516"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "604275"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "kirre like nephrin family adhesion molecule 3",
+                                "Symbol": "KIRREL3",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "23204"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "607761"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "dedicator of cytokinesis 8",
+                                "Symbol": "DOCK8",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "19191"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "611432"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "methyl-CpG binding domain protein 5",
+                                "Symbol": "MBD5",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "20444"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "611472"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "glutamate ionotropic receptor NMDA type subunit 2B",
+                                "Symbol": "GRIN2B",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "4586"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "138252"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "cadherin 15",
+                                "Symbol": "CDH15",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "1754"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "114019"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "kinesin family member 1A",
+                                "Symbol": "KIF1A",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "888"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "601255"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "glutamate ionotropic receptor NMDA type subunit 1",
+                                "Symbol": "GRIN1",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "4584"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "138249"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "dynein cytoplasmic 1 heavy chain 1",
+                                "Symbol": "DYNC1H1",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "2961"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "600112"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "calcium voltage-gated channel auxiliary subunit gamma 2",
+                                "Symbol": "CACNG2",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "1406"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "602911"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "erythrocyte membrane protein band 4.1 like 1",
+                                "Symbol": "EPB41L1",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "3378"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "602879"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "DEAF1 transcription factor",
+                                "Symbol": "DEAF1",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "14677"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "602635"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "eukaryotic translation elongation factor 1 alpha 2",
+                                "Symbol": "EEF1A2",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "3192"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "602959"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "calcium/calmodulin dependent protein kinase II alpha",
+                                "Symbol": "CAMK2A",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "1460"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "114078"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "calcium/calmodulin dependent protein kinase II beta",
+                                "Symbol": "CAMK2B",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "1461"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "607707"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                            }
+                        }
+                    ]
+                }
+            }
+        ],
+        "Prevalences": [
+            {
+                "Prevalence": {
+                    "Source": "ORPHANET",
+                    "PrevalenceType": "Point prevalence",
+                    "PrevalenceQualification": "Class only",
+                    "PrevalenceClass": "Unknown",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            },
+            {
+                "Prevalence": {
+                    "Source": "ORPHANET",
+                    "PrevalenceType": "Annual incidence",
+                    "PrevalenceQualification": "Class only",
+                    "PrevalenceClass": "Unknown",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            }
+        ],
+        "AverageAgeOfOnsets": [
+            {
+                "AverageAgeOfOnset": {
+                    "value": "Childhood"
+                }
+            },
+            {
+                "AverageAgeOfOnset": {
+                    "value": "Infancy"
+                }
+            }
+        ],
+        "TypeOfInheritances": [
+            {
+                "TypeOfInheritance": {
+                    "value": "Autosomal dominant"
+                }
+            },
+            {
+                "TypeOfInheritance": {
+                    "value": "Autosomal recessive"
+                }
+            },
+            {
+                "TypeOfInheritance": {
+                    "value": "X-linked dominant"
+                }
+            },
+            {
+                "TypeOfInheritance": {
+                    "value": "X-linked recessive"
+                }
+            }
+        ]
+    }
+}

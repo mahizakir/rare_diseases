@@ -1,0 +1,144 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "1309",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "1309",
+        "Label": "Medullary sponge kidney",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_1309",
+        "DisorderType": {
+            "value": "Morphological anomaly",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377791"
+        },
+        "Synonyms": [
+            {
+                "Synonym": "Cacchi-Ricci disease"
+            },
+            {
+                "Synonym": "MSK"
+            },
+            {
+                "Synonym": "Precalicial canalicular ectasia"
+            }
+        ],
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "A rare renal tract malformation characterized by dilated malformation of the medullary collecting ducts (typically bilateral) and associated with stone formation renal colic hematuria urinary tract infection nephrocalcinosis calcium nephrolithiasis pyelonephritis hypercalciuria and hypocitraturia. The disease is associated with abnormal distal tubular functions."
+        },
+        "Genes": [
+            {
+                "Gene": {
+                    "Symbol": "HNF1B",
+                    "Name": "HNF1 homeobox B",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "HNF1B"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "11630"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "189907"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            }
+        ],
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "93546",
+                        "Label": "Non-syndromic renal or urinary tract malformation"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "357506",
+                        "Label": "Genetic non-syndromic renal or urinary tract malformation"
+                    }
+                ]
+            }
+        ],
+        "Phenotypes": [
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000787",
+                    "HPOTerm": "Nephrolithiasis",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000790",
+                    "HPOTerm": "Hematuria",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001528",
+                    "HPOTerm": "Hemihypertrophy",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002150",
+                    "HPOTerm": "Hypercalciuria",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0008341",
+                    "HPOTerm": "Distal renal tubular acidosis",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            }
+        ],
+        "Prevalences": {
+            "Prevalence": [
+                {
+                    "Source": "ORPHANET",
+                    "PrevalenceType": "Point prevalence",
+                    "PrevalenceQualification": "Class only",
+                    "PrevalenceClass": "Unknown",
+                    "ValMoy": "0.0",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            ]
+        },
+        "AverageAgeOfOnsets": [
+            {
+                "AverageAgeOfOnset": {
+                    "value": "Adult"
+                }
+            },
+            {
+                "AverageAgeOfOnset": {
+                    "value": "Childhood"
+                }
+            }
+        ],
+        "TypeOfInheritances": [
+            {
+                "TypeOfInheritance": {
+                    "value": "Autosomal dominant"
+                }
+            },
+            {
+                "TypeOfInheritance": {
+                    "value": "Not applicable"
+                }
+            }
+        ]
+    }
+}

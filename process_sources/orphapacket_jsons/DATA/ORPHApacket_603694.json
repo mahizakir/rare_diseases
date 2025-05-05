@@ -1,0 +1,73 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "603694",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "603694",
+        "Label": "KLHL7-related Crisponi/cold-induced sweating-like syndrome",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_603694",
+        "DisorderType": {
+            "value": "Disease",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377788"
+        },
+        "Synonyms": [
+            {
+                "Synonym": "KLHL7-related Crisponi-like syndrome"
+            }
+        ],
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "A rare genetic multiple congenital anomalies syndrome characterized by several of the typical clinical features of Crisponi Syndrome/cold-induced sweating syndrome such as hyperthermia in the first months of life dysmorphism feeding and respiratory difficulties contraction of oropharyngeal muscles joint contractures with camptodactyly and early onset retinitis pigmentosa but lacking cold-induced sweating. In contrast to Crisponi and cold-induced sweating syndromes intellectual disability is reported."
+        },
+        "Genes": [
+            {
+                "Gene": {
+                    "Symbol": "KLHL7",
+                    "Name": "kelch like family member 7",
+                    "ExternalReferences": [
+                        {
+                            "Source": "HGNC",
+                            "Reference": "15646"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "611119"
+                        },
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "KLHL7"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            }
+        ],
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "401993",
+                        "Label": "Cold-induced sweating syndrome-hyperthermia spectrum"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "603699",
+                        "Label": "Recessive KLHL7-related disorder"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "519325",
+                        "Label": "Syndromic inherited retinal disorder"
+                    }
+                ]
+            }
+        ]
+    }
+}

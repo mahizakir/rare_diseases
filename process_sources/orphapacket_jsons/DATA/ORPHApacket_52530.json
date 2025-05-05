@@ -1,0 +1,106 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "52530",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "52530",
+        "Label": "Pseudo-von Willebrand disease",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_52530",
+        "DisorderType": {
+            "value": "Disease",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377788"
+        },
+        "Synonyms": [
+            {
+                "Synonym": "PT-VWD"
+            },
+            {
+                "Synonym": "Platelet type-von Willebrand disease"
+            },
+            {
+                "Synonym": "Pseudo-von Willebrand disease type 2B"
+            }
+        ],
+        "ExternalReferences": [
+            {
+                "Source": "OMIM",
+                "Reference": "177820",
+                "DisorderMappingRelation": "E (Exact mapping: the two concepts are equivalent)"
+            }
+        ],
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "A bleeding disorder characterized by mild to moderate mucocutaneous bleeding which becomes more pronounced during pregnancy or following ingestion of drugs that have anti-platelet activity. This disease is due to hyperresponsive platelets resulting in thrombocytopenia."
+        },
+        "Genes": [
+            {
+                "Gene": {
+                    "Symbol": "GP1BA",
+                    "Name": "glycoprotein Ib platelet subunit alpha",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "GP1BA"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "4439"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "606672"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            }
+        ],
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "275736",
+                        "Label": "Rare hemorrhagic disorder due to a qualitative platelet defect"
+                    }
+                ]
+            }
+        ],
+        "Prevalences": [
+            {
+                "Prevalence": {
+                    "Source": "23327637[PMID]_21301777[PMID]_23934752[PMID]",
+                    "PrevalenceType": "Cases/families",
+                    "PrevalenceQualification": "Case(s)",
+                    "PrevalenceClass": "no data",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            },
+            {
+                "Prevalence": {
+                    "Source": "ORPHANET",
+                    "PrevalenceType": "Point prevalence",
+                    "PrevalenceQualification": "Class only",
+                    "PrevalenceClass": "<1 / 1 000 000",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            }
+        ],
+        "AverageAgeOfOnsets": {
+            "AverageAgeOfOnset": [
+                {
+                    "value": "Adult"
+                }
+            ]
+        },
+        "TypeOfInheritances": {
+            "TypeOfInheritance": [
+                {
+                    "value": "Autosomal dominant"
+                }
+            ]
+        }
+    }
+}

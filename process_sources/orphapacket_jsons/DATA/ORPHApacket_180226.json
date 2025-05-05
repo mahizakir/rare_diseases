@@ -1,0 +1,57 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "180226",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "180226",
+        "Label": "Embryonal carcinoma",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_180226",
+        "DisorderType": {
+            "value": "Disease",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377788"
+        },
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "99913",
+                        "Label": "Extragonadal non-dysgerminomatous germ cell tumor"
+                    }
+                ]
+            }
+        ],
+        "Childs": [],
+        "Prevalences": {
+            "Prevalence": [
+                {
+                    "Source": "RARECARE surveillance of rare cancers in Europe[REG]",
+                    "PrevalenceType": "Annual incidence",
+                    "PrevalenceQualification": "Value and class",
+                    "PrevalenceClass": "<1 / 1 000 000",
+                    "ValMoy": "0.01",
+                    "PrevalenceGeographic": "Europe"
+                }
+            ]
+        },
+        "AverageAgeOfOnsets": [
+            {
+                "AverageAgeOfOnset": {
+                    "value": "Adolescent"
+                }
+            },
+            {
+                "AverageAgeOfOnset": {
+                    "value": "Childhood"
+                }
+            }
+        ],
+        "TypeOfInheritances": {
+            "TypeOfInheritance": [
+                {
+                    "value": "Not applicable"
+                }
+            ]
+        }
+    }
+}

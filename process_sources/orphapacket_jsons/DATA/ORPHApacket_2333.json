@@ -1,0 +1,167 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "2333",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "2333",
+        "Label": "Kenny-Caffey syndrome",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_2333",
+        "DisorderType": {
+            "value": "Malformation syndrome",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377789"
+        },
+        "Synonyms": [
+            {
+                "Synonym": "Kenny syndrome"
+            }
+        ],
+        "ExternalReferences": [
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "244460",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "127000",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            }
+        ],
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "A rare primary bone dysplasia syndrome characterized by growth retardation with proportionate short stature cortical thickening and medullary stenosis of the long bones delayed anterior fontanelle closure hypocalcemia due to congenital hypoparathyroidism and facial dysmorphism including prominent forehead microphthalmia and micrognathia. Additional manifestations include ocular and dental anomalies (e.g. corneal opacity hyperopia optic atrophy tortuous retinal vessels dental caries enamel defects) and occasionally hypoplastic nails and neonatal liver disease. Inheritance may be autosomal dominant or autosomal recessive with more severe growth retardation small hands and feet intellectual disability microcephaly and recurrent bacterial infections being observed in the latter."
+        },
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "93440",
+                        "Label": "Slender bone dysplasia"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "139021",
+                        "Label": "Malformation syndrome with short stature"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "181402",
+                        "Label": "Syndrome with hypoparathyroidism"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "183570",
+                        "Label": "Genetic malformation syndrome with short stature"
+                    }
+                ]
+            }
+        ],
+        "Childs": [
+            {
+                "Child": {
+                    "Label": "Autosomal recessive Kenny-Caffey syndrome",
+                    "ORPHAcode": "93324",
+                    "Genes": [
+                        {
+                            "Gene": {
+                                "Label": "tubulin folding cofactor E",
+                                "Symbol": "TBCE",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "11582"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "604934"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "Child": {
+                    "Label": "Autosomal dominant Kenny-Caffey syndrome",
+                    "ORPHAcode": "93325",
+                    "Genes": [
+                        {
+                            "Gene": {
+                                "Label": "FAM111 trypsin like peptidase A",
+                                "Symbol": "FAM111A",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "24725"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "615292"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                            }
+                        }
+                    ]
+                }
+            }
+        ],
+        "Prevalences": [
+            {
+                "Prevalence": {
+                    "Source": "22522175[PMID]",
+                    "PrevalenceType": "Cases/families",
+                    "PrevalenceQualification": "Case(s)",
+                    "PrevalenceClass": "no data",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            },
+            {
+                "Prevalence": {
+                    "Source": "ORPHANET",
+                    "PrevalenceType": "Point prevalence",
+                    "PrevalenceQualification": "Class only",
+                    "PrevalenceClass": "<1 / 1 000 000",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            }
+        ],
+        "AverageAgeOfOnsets": {
+            "AverageAgeOfOnset": [
+                {
+                    "value": "Childhood"
+                }
+            ]
+        },
+        "TypeOfInheritances": [
+            {
+                "TypeOfInheritance": {
+                    "value": "Autosomal dominant"
+                }
+            },
+            {
+                "TypeOfInheritance": {
+                    "value": "Autosomal recessive"
+                }
+            }
+        ]
+    }
+}

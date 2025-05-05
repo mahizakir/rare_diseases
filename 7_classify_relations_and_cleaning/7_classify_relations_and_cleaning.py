@@ -243,7 +243,7 @@ print("Number of tripes in the final file without extra tags:", row_count2)
 # This final file contains all the extra tags but with their real names, like dosage or cell line is used instead of extra
 # However, these removed tags such as nan, number, author, email, person, 
 # hence only these tags are are not included in this final file
-unwanted_values_for_tags = {float('nan'), 'number', 'author', 'email', 'person'}
+unwanted_values_for_tags = {float('nan'), 'number', 'author', 'email', 'person', 'researcher','institute'}
 row_count3 = 0
 file = '../data/' + disease_name + '/final_' + disease_name + '.csv' 
 with open(file, mode='w', newline='') as file:

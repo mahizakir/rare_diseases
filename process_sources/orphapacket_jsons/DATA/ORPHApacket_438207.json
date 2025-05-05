@@ -1,0 +1,116 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "438207",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "438207",
+        "Label": "Severe autosomal recessive macrothrombocytopenia",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_438207",
+        "DisorderType": {
+            "value": "Disease",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377788"
+        },
+        "ExternalReferences": [
+            {
+                "Source": "OMIM",
+                "Reference": "616176",
+                "DisorderMappingRelation": "E (Exact mapping: the two concepts are equivalent)"
+            }
+        ],
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "A rare isolated hereditary giant platelet disorder characterized by severe thrombocytopenia and thrombopathy due to defects in proplatelet formation and platelet activation in homozygous patients. Clinical manifestation are recurrent bleeding episodes including epistaxis spontaneous hematomas and menorrhagia."
+        },
+        "Genes": [
+            {
+                "Gene": {
+                    "Symbol": "PRKACG",
+                    "Name": "protein kinase cAMP-activated catalytic subunit gamma",
+                    "ExternalReferences": [
+                        {
+                            "Source": "HGNC",
+                            "Reference": "9382"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "176893"
+                        },
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "PRKACG"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) (loss of function) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "GNE",
+                    "Name": "glucosamine (UDP-N-acetyl)-2-epimerase/N-acetylmannosamine kinase",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "GNE"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "23657"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "603824"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            }
+        ],
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "220452",
+                        "Label": "Isolated hereditary giant platelet disorder"
+                    }
+                ]
+            }
+        ],
+        "Prevalences": [
+            {
+                "Prevalence": {
+                    "Source": "25061177[PMID]",
+                    "PrevalenceType": "Cases/families",
+                    "PrevalenceQualification": "Case(s)",
+                    "PrevalenceClass": "no data",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            },
+            {
+                "Prevalence": {
+                    "Source": "ORPHANET_25061177[PMID]",
+                    "PrevalenceType": "Point prevalence",
+                    "PrevalenceQualification": "Class only",
+                    "PrevalenceClass": "<1 / 1 000 000",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            }
+        ],
+        "AverageAgeOfOnsets": {
+            "AverageAgeOfOnset": [
+                {
+                    "value": "Infancy"
+                }
+            ]
+        },
+        "TypeOfInheritances": {
+            "TypeOfInheritance": [
+                {
+                    "value": "Autosomal recessive"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,261 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "93101",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "93101",
+        "Label": "Renal hypoplasia",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_93101",
+        "DisorderType": {
+            "value": "Morphological anomaly",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377791"
+        },
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "A congenital renal malformation characterized by abnormally small kidney(s) (kidney volume below two standard deviations of that of age-matched normal individuals or a combined kidney volume of less than half of what is normal for the patient's age) with normal corticomedullary differentiation and reduced number of nephrons."
+        },
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "93546",
+                        "Label": "Non-syndromic renal or urinary tract malformation"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "357506",
+                        "Label": "Genetic non-syndromic renal or urinary tract malformation"
+                    }
+                ]
+            }
+        ],
+        "Childs": [
+            {
+                "Child": {
+                    "Label": "Renal hypoplasia, unilateral",
+                    "ORPHAcode": "97361",
+                    "Genes": "no data"
+                }
+            },
+            {
+                "Child": {
+                    "Label": "Renal hypoplasia, bilateral",
+                    "ORPHAcode": "97362",
+                    "Genes": [
+                        {
+                            "Gene": {
+                                "Label": "paired box 2",
+                                "Symbol": "PAX2",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "8616"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "167409"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Major susceptibility factor in"
+                            }
+                        },
+                        {
+                            "Gene": {
+                                "Label": "PBX homeobox 1",
+                                "Symbol": "PBX1",
+                                "ExternalReferences": [
+                                    {
+                                        "Source": "HGNC",
+                                        "Reference": "8632"
+                                    },
+                                    {
+                                        "Source": "OMIM",
+                                        "Reference": "176310"
+                                    }
+                                ],
+                                "DisorderGeneAssociationType": "Role in the phenotype of"
+                            }
+                        }
+                    ]
+                }
+            }
+        ],
+        "Phenotypes": [
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000083",
+                    "HPOTerm": "Renal insufficiency",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000091",
+                    "HPOTerm": "Abnormal renal tubule morphology",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0005563",
+                    "HPOTerm": "Decreased numbers of nephrons",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0011035",
+                    "HPOTerm": "Abnormal renal cortex morphology",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0012210",
+                    "HPOTerm": "Abnormal renal morphology",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0012622",
+                    "HPOTerm": "Chronic kidney disease",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0030162",
+                    "HPOTerm": "Glomerulomegaly",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000010",
+                    "HPOTerm": "Recurrent urinary tract infections",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000069",
+                    "HPOTerm": "Abnormality of the ureter",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000076",
+                    "HPOTerm": "Vesicoureteral reflux",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000093",
+                    "HPOTerm": "Proteinuria",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000122",
+                    "HPOTerm": "Unilateral renal agenesis",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000125",
+                    "HPOTerm": "Pelvic kidney",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000126",
+                    "HPOTerm": "Hydronephrosis",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000822",
+                    "HPOTerm": "Hypertension",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001518",
+                    "HPOTerm": "Small for gestational age",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001622",
+                    "HPOTerm": "Premature birth",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001944",
+                    "HPOTerm": "Dehydration",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001959",
+                    "HPOTerm": "Polydipsia",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0010481",
+                    "HPOTerm": "Urethral valve",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            }
+        ],
+        "Prevalences": {
+            "Prevalence": [
+                {
+                    "Source": "[EXPERT]",
+                    "PrevalenceType": "Point prevalence",
+                    "PrevalenceQualification": "Class only",
+                    "PrevalenceClass": "Unknown",
+                    "ValMoy": "0.0",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            ]
+        },
+        "AverageAgeOfOnsets": {
+            "AverageAgeOfOnset": [
+                {
+                    "value": "All ages"
+                }
+            ]
+        },
+        "TypeOfInheritances": [
+            {
+                "TypeOfInheritance": {
+                    "value": "Autosomal dominant"
+                }
+            },
+            {
+                "TypeOfInheritance": {
+                    "value": "Not applicable"
+                }
+            }
+        ]
+    }
+}

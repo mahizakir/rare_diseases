@@ -1,0 +1,63 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "529980",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "529980",
+        "Label": "Inflammatory bowel disease-recurrent sinopulmonary infections syndrome",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_529980",
+        "DisorderType": {
+            "value": "Disease",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377788"
+        },
+        "Synonyms": [
+            {
+                "Synonym": "NFAT5 haploinsufficiency"
+            }
+        ],
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "A rare genetic immune disease characterized by recurrent sinopulmonary infections and autoimmune enterocolopathy manifesting as frequent episodes of intractable diarrhea with abdominal pain and fever accompanied by eczematous rashes due to deficits in components of innate and adaptive immunity. Immunologic abnormalities include IgG subclass deficiency impaired antigen-induced lymphocyte proliferation reduced cytokine production by CD8+ T lymphocytes and decreased numbers of natural killer cells."
+        },
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "529974",
+                        "Label": "Immune dysregulation with inflammatory bowel disease"
+                    }
+                ]
+            }
+        ],
+        "Prevalences": [
+            {
+                "Prevalence": {
+                    "Source": "25667416[PMID]",
+                    "PrevalenceType": "Cases/families",
+                    "PrevalenceQualification": "Case(s)",
+                    "PrevalenceClass": "no data",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            },
+            {
+                "Prevalence": {
+                    "Source": "ORPHANET_25667416[PMID]",
+                    "PrevalenceType": "Point prevalence",
+                    "PrevalenceQualification": "Class only",
+                    "PrevalenceClass": "<1 / 1 000 000",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            }
+        ],
+        "AverageAgeOfOnsets": {
+            "AverageAgeOfOnset": [
+                {
+                    "value": "Infancy"
+                }
+            ]
+        }
+    }
+}

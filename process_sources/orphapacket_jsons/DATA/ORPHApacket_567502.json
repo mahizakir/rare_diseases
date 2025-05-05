@@ -1,0 +1,124 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "567502",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "567502",
+        "Label": "B-cell immunodeficiency-limb anomaly-urogenital malformation syndrome",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_567502",
+        "DisorderType": {
+            "value": "Disease",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377788"
+        },
+        "Synonyms": [
+            {
+                "Synonym": "BILU syndrome"
+            },
+            {
+                "Synonym": "Hoffman syndrome"
+            }
+        ],
+        "ExternalReferences": [
+            {
+                "Source": "OMIM",
+                "Reference": "609296",
+                "DisorderMappingRelation": "E (Exact mapping: the two concepts are equivalent)"
+            }
+        ],
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "A rare genetic multiple congenital anomalies/dysmorphic syndrome characterized by almost complete lack of B-cells and severe hypogammaglobulinemia anomalies of the hands and feet urogenital malformations and characteristic facial dysmorphism (including microcephaly highly arched eyebrows hypoplastic alae nasi and micrognathia). Most patients are developmentally normal although moderate mental retardation has also been described."
+        },
+        "Genes": [
+            {
+                "Gene": {
+                    "Symbol": "TOP2B",
+                    "Name": "DNA topoisomerase II beta",
+                    "ExternalReferences": [
+                        {
+                            "Source": "HGNC",
+                            "Reference": "11990"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "126431"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            }
+        ],
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "294959",
+                        "Label": "Syndrome with limb duplication, polydactyly, syndactyly, and/or hyperphalangy"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "102285",
+                        "Label": "Multiple congenital anomalies/dysmorphic syndrome without intellectual disability"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "165707",
+                        "Label": "Syndromic urogenital tract malformation"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "330206",
+                        "Label": "Genetic multiple congenital anomalies/dysmorphic syndrome without intellectual disability"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "229720",
+                        "Label": "Syndromic agammaglobulinemia"
+                    }
+                ]
+            }
+        ],
+        "Prevalences": [
+            {
+                "Prevalence": {
+                    "Source": "31409799[PMID]",
+                    "PrevalenceType": "Cases/families",
+                    "PrevalenceQualification": "Case(s)",
+                    "PrevalenceClass": "no data",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            },
+            {
+                "Prevalence": {
+                    "Source": "ORPHANET_31409799[PMID]",
+                    "PrevalenceType": "Point prevalence",
+                    "PrevalenceQualification": "Class only",
+                    "PrevalenceClass": "<1 / 1 000 000",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            }
+        ],
+        "AverageAgeOfOnsets": {
+            "AverageAgeOfOnset": [
+                {
+                    "value": "Antenatal"
+                }
+            ]
+        }
+    }
+}

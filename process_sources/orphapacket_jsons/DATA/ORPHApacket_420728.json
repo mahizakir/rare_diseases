@@ -1,0 +1,108 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "420728",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "420728",
+        "Label": "Combined oxidative phosphorylation defect type 20",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_420728",
+        "DisorderType": {
+            "value": "Disease",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377788"
+        },
+        "Synonyms": [
+            {
+                "Synonym": "COXPD20"
+            }
+        ],
+        "ExternalReferences": [
+            {
+                "Source": "OMIM",
+                "Reference": "615917",
+                "DisorderMappingRelation": "E (Exact mapping: the two concepts are equivalent)"
+            }
+        ],
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "A rare mitochondrial oxidative phosphorylation disorder characterized by variable combination of psychomotor delay hypotonia muscle weakness seizures microcephaly cardiomyopathy and mild dysmorphic facial features. Variable types of structural brain anomalies have also been reported. Biochemical studies typically show decreased activity of mitochondrial complexes (mainly complex I)."
+        },
+        "Genes": [
+            {
+                "Gene": {
+                    "Symbol": "VARS1",
+                    "Name": "valyl-tRNA synthetase 1",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "VARS2"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "12651"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "192150"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            }
+        ],
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "35696",
+                        "Label": "Mitochondrial disorder due to a defect in mitochondrial protein synthesis"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "68385",
+                        "Label": "Neurometabolic disease"
+                    }
+                ]
+            }
+        ],
+        "Prevalences": [
+            {
+                "Prevalence": {
+                    "Source": "24958846[PMID]_25058219[PMID]",
+                    "PrevalenceType": "Cases/families",
+                    "PrevalenceQualification": "Case(s)",
+                    "PrevalenceClass": "no data",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            },
+            {
+                "Prevalence": {
+                    "Source": "ORPHANET_24958846[PMID]_25058219[PMID]",
+                    "PrevalenceType": "Point prevalence",
+                    "PrevalenceQualification": "Class only",
+                    "PrevalenceClass": "<1 / 1 000 000",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            }
+        ],
+        "AverageAgeOfOnsets": {
+            "AverageAgeOfOnset": [
+                {
+                    "value": "Infancy"
+                }
+            ]
+        },
+        "TypeOfInheritances": {
+            "TypeOfInheritance": [
+                {
+                    "value": "Autosomal recessive"
+                }
+            ]
+        }
+    }
+}

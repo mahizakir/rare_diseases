@@ -1,0 +1,49 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "485426",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "485426",
+        "Label": "Isolated congenital hepatic fibrosis",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_485426",
+        "DisorderType": {
+            "value": "Disease",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377788"
+        },
+        "Synonyms": [
+            {
+                "Synonym": "Isolated CHF"
+            }
+        ],
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "A rare parenchymal liver disease characterized by progressive fibrosis of the portal tracts due to arrest of maturation of the ductal plate of the intrahepatic bile ducts. Clinically it may manifest as a portal hypertensive cholangitic mixed or latent form. Onset of symptoms is mostly in adolescence or young adulthood. Hepatocellular function is relatively well preserved."
+        },
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "101939",
+                        "Label": "Rare parenchymal liver disease"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "506210",
+                        "Label": "Rare disorder potentially indicated for liver transplant"
+                    }
+                ]
+            }
+        ],
+        "AverageAgeOfOnsets": {
+            "AverageAgeOfOnset": [
+                {
+                    "value": "Neonatal"
+                }
+            ]
+        }
+    }
+}

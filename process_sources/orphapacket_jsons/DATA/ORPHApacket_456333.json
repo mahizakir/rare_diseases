@@ -1,0 +1,76 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "456333",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "456333",
+        "Label": "Hereditary neuroendocrine tumor of small intestine",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_456333",
+        "DisorderType": {
+            "value": "Disease",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377788"
+        },
+        "Synonyms": [
+            {
+                "Synonym": "Hereditary SB-NET"
+            },
+            {
+                "Synonym": "Hereditary SI-NET"
+            },
+            {
+                "Synonym": "Hereditary neuroendocrine tumor of small bowel"
+            },
+            {
+                "Synonym": "Small bowel hereditary neuroendocrine tumor"
+            },
+            {
+                "Synonym": "Small intestine hereditary neuroendocrine tumor"
+            }
+        ],
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "A rare inherited cancer-predisposing syndrome characterized by occurrence of multiple synchronous primary carcinoids of the small intestine. Clinical presentation is otherwise indistinguishable from sporadic carcinoids and includes abdominal pain flushing and diarrhea often becoming manifest only after a long asymptomatic period. Most patients present with low grade tumors. Occurrence of pulmonary carcinoids has also been reported."
+        },
+        "Genes": [
+            {
+                "Gene": {
+                    "Symbol": "IPMK",
+                    "Name": "inositol polyphosphate multikinase",
+                    "ExternalReferences": [
+                        {
+                            "Source": "HGNC",
+                            "Reference": "20739"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "609851"
+                        },
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "IPMK"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            }
+        ],
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "425003",
+                        "Label": "Inherited digestive cancer-predisposing syndrome"
+                    }
+                ]
+            }
+        ],
+        "TypeOfInheritances": {
+            "TypeOfInheritance": [
+                {
+                    "value": "Autosomal dominant"
+                }
+            ]
+        }
+    }
+}

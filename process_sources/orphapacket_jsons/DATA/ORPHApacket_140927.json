@@ -1,0 +1,266 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "140927",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "140927",
+        "Label": "Self-limited neonatal-infantile epilepsy",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_140927",
+        "DisorderType": {
+            "value": "Disease",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377788"
+        },
+        "Synonyms": [
+            {
+                "Synonym": "BFNIS"
+            },
+            {
+                "Synonym": "Benign familial neonatal-infantile seizures"
+            },
+            {
+                "Synonym": "Benign neonatal-infantile epilepsy"
+            },
+            {
+                "Synonym": "SeLFNIE"
+            }
+        ],
+        "ExternalReferences": [
+            {
+                "Source": "OMIM",
+                "Reference": "607745",
+                "DisorderMappingRelation": "NTBT (ORPHAcode is narrower than the targeted code used to represent it)"
+            }
+        ],
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "Benign familial neonatal-infantile seizures (BFNIS) is a benign familial epilepsy syndrome with an intermediate phenotype between benign familial neonatal seizures (BFNS) and benign familial infantile seizures (BFIS; see these terms). So far this syndrome has been described in multiple members of 10 families. Age of onset in these BFNIS families varied from 2 days to 6 months with spontaneous resolution in most cases before the age of 12 months. Like BFNS and BFIS seizures in BFNIS generally occur in clusters over one or a few days with posterior focal seizure onset. BFNIS is caused by mutations in the <i>SCN2A</i> gene (2q24.3) encoding the voltage-gated sodium channel alpha-subunit Na(V)1.2. Transmission is autosomal dominant."
+        },
+        "Genes": [
+            {
+                "Gene": {
+                    "Symbol": "SCN2A",
+                    "Name": "sodium voltage-gated channel alpha subunit 2",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "SCN2A"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "10588"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "182390"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "KCNQ2",
+                    "Name": "potassium voltage-gated channel subfamily Q member 2",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "KCNQ2"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "6296"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "602235"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            }
+        ],
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "98744",
+                        "Label": "Neurological channelopathy of the central nervous system due to a genetic sodium channel defect"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "98746",
+                        "Label": "Neurological channelopathy of the central nervous system due to a genetic potassium channel defect"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "166311",
+                        "Label": "Benign partial infantile seizures"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "166475",
+                        "Label": "Idiopathic or cryptogenic familial epilepsy syndrome with identified loci/genes"
+                    }
+                ]
+            }
+        ],
+        "Phenotypes": [
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002069",
+                    "HPOTerm": "Bilateral tonic-clonic seizure",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002266",
+                    "HPOTerm": "Focal clonic seizure",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0011193",
+                    "HPOTerm": "EEG with focal spikes",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0032792",
+                    "HPOTerm": "Tonic seizure",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0032807",
+                    "HPOTerm": "Neonatal seizure",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001350",
+                    "HPOTerm": "Slurred speech",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002018",
+                    "HPOTerm": "Nausea",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002104",
+                    "HPOTerm": "Apnea",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002131",
+                    "HPOTerm": "Episodic ataxia",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002172",
+                    "HPOTerm": "Postural instability",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002315",
+                    "HPOTerm": "Headache",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002321",
+                    "HPOTerm": "Vertigo",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0025401",
+                    "HPOTerm": "Staring gaze",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001268",
+                    "HPOTerm": "Mental deterioration",
+                    "HPOFrequency": "Very rare (<4-1%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0031491",
+                    "HPOTerm": "Continuous spike and waves during slow sleep",
+                    "HPOFrequency": "Very rare (<4-1%)"
+                }
+            }
+        ],
+        "Prevalences": [
+            {
+                "Prevalence": {
+                    "Source": "15048894[PMID]",
+                    "PrevalenceType": "Cases/families",
+                    "PrevalenceQualification": "Family(ies)",
+                    "PrevalenceClass": "no data",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            },
+            {
+                "Prevalence": {
+                    "Source": "ORPHANET_15048894[PMID]",
+                    "PrevalenceType": "Point prevalence",
+                    "PrevalenceQualification": "Class only",
+                    "PrevalenceClass": "<1 / 1 000 000",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            }
+        ],
+        "AverageAgeOfOnsets": [
+            {
+                "AverageAgeOfOnset": {
+                    "value": "Infancy"
+                }
+            },
+            {
+                "AverageAgeOfOnset": {
+                    "value": "Neonatal"
+                }
+            }
+        ],
+        "TypeOfInheritances": {
+            "TypeOfInheritance": [
+                {
+                    "value": "Autosomal dominant"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,110 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "500062",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "500062",
+        "Label": "Infantile-onset periodic fever-panniculitis-dermatosis syndrome",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_500062",
+        "DisorderType": {
+            "value": "Disease",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377788"
+        },
+        "Synonyms": [
+            {
+                "Synonym": "ORAS"
+            },
+            {
+                "Synonym": "OTULIN deficiency"
+            },
+            {
+                "Synonym": "OTULIN-related autoinflammatory syndrome"
+            },
+            {
+                "Synonym": "Otulipenia"
+            }
+        ],
+        "ExternalReferences": [
+            {
+                "Source": "OMIM",
+                "Reference": "617099",
+                "DisorderMappingRelation": "E (Exact mapping: the two concepts are equivalent)"
+            }
+        ],
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "A rare genetic autoinflammatory syndrome characterized by early-onset of repeated episodes of fever nodular neutrophil-rich panniculitis arthralgia and lipodystrophy. Additional reported features include diarrhea failure to thrive lymphadenopathy and vasculitis. Laboratory examination may reveal elevated serum C-reactive protein and leukocytosis with neutrophilia in the absence of infection."
+        },
+        "Genes": [
+            {
+                "Gene": {
+                    "Symbol": "OTULIN",
+                    "Name": "OTU deubiquitinase with linear linkage specificity",
+                    "ExternalReferences": [
+                        {
+                            "Source": "HGNC",
+                            "Reference": "25118"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "615712"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) (loss of function) in"
+                }
+            }
+        ],
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "324924",
+                        "Label": "Hereditary periodic fever syndrome"
+                    }
+                ]
+            }
+        ],
+        "Prevalences": [
+            {
+                "Prevalence": {
+                    "Source": "27523608[PMID]_27559085[PMID]",
+                    "PrevalenceType": "Cases/families",
+                    "PrevalenceQualification": "Case(s)",
+                    "PrevalenceClass": "no data",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            },
+            {
+                "Prevalence": {
+                    "Source": "ORPHANET_27523608[PMID]_27559085[PMID]",
+                    "PrevalenceType": "Point prevalence",
+                    "PrevalenceQualification": "Class only",
+                    "PrevalenceClass": "<1 / 1 000 000",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            }
+        ],
+        "AverageAgeOfOnsets": [
+            {
+                "AverageAgeOfOnset": {
+                    "value": "Infancy"
+                }
+            },
+            {
+                "AverageAgeOfOnset": {
+                    "value": "Neonatal"
+                }
+            }
+        ],
+        "TypeOfInheritances": {
+            "TypeOfInheritance": [
+                {
+                    "value": "Autosomal recessive"
+                }
+            ]
+        }
+    }
+}

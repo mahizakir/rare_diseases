@@ -1,0 +1,530 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "104",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "104",
+        "Label": "Leber hereditary optic neuropathy",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_104",
+        "DisorderType": {
+            "value": "Disease",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377788"
+        },
+        "Synonyms": [
+            {
+                "Synonym": "LHON"
+            },
+            {
+                "Synonym": "Leber optic atrophy"
+            }
+        ],
+        "ExternalReferences": [
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "619382",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "308905",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "535000",
+                    "DisorderMappingRelation": "E (Exact mapping: the two concepts are equivalent)"
+                }
+            }
+        ],
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "A rare hereditary optic neuropathy characterized by sudden onset painless central vision loss loss of retinal ganglion cells and optic atrophy."
+        },
+        "Genes": [
+            {
+                "Gene": {
+                    "Symbol": "NDUFS2",
+                    "Name": "NADH:ubiquinone oxidoreductase core subunit S2",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "NDUFS2"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "7708"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "602985"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "DNAJC30",
+                    "Name": "DnaJ heat shock protein family (Hsp40) member C30",
+                    "ExternalReferences": [
+                        {
+                            "Source": "OMIM",
+                            "Reference": "618202"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "16410"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) (loss of function) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "MT-ATP6",
+                    "Name": "mitochondrially encoded ATP synthase membrane subunit 6",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "MT-ATP6"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "7414"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "516060"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "MT-CO3",
+                    "Name": "mitochondrially encoded cytochrome c oxidase III",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "MT-CO3"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "7422"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "516050"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "MT-CYB",
+                    "Name": "mitochondrially encoded cytochrome b",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "MT-CYB"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "7427"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "516020"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "MT-ND1",
+                    "Name": "mitochondrially encoded NADH:ubiquinone oxidoreductase core subunit 1",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "MT-ND1"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "7455"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "516000"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "MT-ND2",
+                    "Name": "mitochondrially encoded NADH:ubiquinone oxidoreductase core subunit 2",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "MT-ND2"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "7456"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "516001"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "MT-ND4",
+                    "Name": "mitochondrially encoded NADH:ubiquinone oxidoreductase core subunit 4",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "MT-ND4"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "7459"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "516003"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "MT-ND4L",
+                    "Name": "mitochondrially encoded NADH:ubiquinone oxidoreductase core subunit 4L",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "MT-ND4L"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "7460"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "516004"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "MT-ND5",
+                    "Name": "mitochondrially encoded NADH:ubiquinone oxidoreductase core subunit 5",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "MT-ND5"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "7461"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "516005"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "MT-ND6",
+                    "Name": "mitochondrially encoded NADH:ubiquinone oxidoreductase core subunit 6",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "MT-ND6"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "7462"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "516006"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            }
+        ],
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "98671",
+                        "Label": "Hereditary optic neuropathy"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "254776",
+                        "Label": "Mitochondrial oxidative phosphorylation disorder due to a point mutation of mitochondrial DNA"
+                    }
+                ]
+            }
+        ],
+        "Phenotypes": [
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0007924",
+                    "HPOTerm": "Slow decrease in visual acuity",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0200125",
+                    "HPOTerm": "Mitochondrial respiratory chain defects",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000529",
+                    "HPOTerm": "Progressive visual loss",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000576",
+                    "HPOTerm": "Centrocecal scotoma",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000603",
+                    "HPOTerm": "Central scotoma",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000622",
+                    "HPOTerm": "Blurred vision",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000648",
+                    "HPOTerm": "Optic atrophy",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0007763",
+                    "HPOTerm": "Retinal telangiectasia",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0012841",
+                    "HPOTerm": "Retinal vascular tortuosity",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000512",
+                    "HPOTerm": "Abnormal electroretinogram",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000551",
+                    "HPOTerm": "Color vision defect",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000649",
+                    "HPOTerm": "Abnormality of visual evoked potentials",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001251",
+                    "HPOTerm": "Ataxia",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002174",
+                    "HPOTerm": "Postural tremor",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0003198",
+                    "HPOTerm": "Myopathy",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0004309",
+                    "HPOTerm": "Ventricular preexcitation",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0009830",
+                    "HPOTerm": "Peripheral neuropathy",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0011675",
+                    "HPOTerm": "Arrhythmia",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0020120",
+                    "HPOTerm": "Retinal nerve fiber edema",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0032036",
+                    "HPOTerm": "Reduced contrast sensitivity",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            }
+        ],
+        "Prevalences": [
+            {
+                "Prevalence": {
+                    "Source": "16564802[PMID]",
+                    "PrevalenceType": "Point prevalence",
+                    "PrevalenceQualification": "Value and class",
+                    "PrevalenceClass": "1-9 / 100 000",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Netherlands"
+                }
+            },
+            {
+                "Prevalence": {
+                    "Source": "[EXPERT]",
+                    "PrevalenceType": "Point prevalence",
+                    "PrevalenceQualification": "Value and class",
+                    "PrevalenceClass": "1-9 / 100 000",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            },
+            {
+                "Prevalence": {
+                    "Source": "21928272[PMID]",
+                    "PrevalenceType": "Point prevalence",
+                    "PrevalenceQualification": "Value and class",
+                    "PrevalenceClass": "1-9 / 100 000",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Europe"
+                }
+            },
+            {
+                "Prevalence": {
+                    "Source": "12518276[PMID]",
+                    "PrevalenceType": "Point prevalence",
+                    "PrevalenceQualification": "Value and class",
+                    "PrevalenceClass": "1-9 / 100 000",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "United Kingdom"
+                }
+            },
+            {
+                "Prevalence": {
+                    "Source": "17406640[PMID]",
+                    "PrevalenceType": "Point prevalence",
+                    "PrevalenceQualification": "Value and class",
+                    "PrevalenceClass": "1-9 / 100 000",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Finland"
+                }
+            },
+            {
+                "Prevalence": {
+                    "Source": "27007794[PMID]",
+                    "PrevalenceType": "Point prevalence",
+                    "PrevalenceQualification": "Value and class",
+                    "PrevalenceClass": "1-9 / 100 000",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Denmark"
+                }
+            },
+            {
+                "Prevalence": {
+                    "Source": "35987635[PMID]_ORPHANET",
+                    "PrevalenceType": "Point prevalence",
+                    "PrevalenceQualification": "Value and class",
+                    "PrevalenceClass": "1-9 / 100 000",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Japan"
+                }
+            }
+        ],
+        "AverageAgeOfOnsets": [
+            {
+                "AverageAgeOfOnset": {
+                    "value": "Adolescent"
+                }
+            },
+            {
+                "AverageAgeOfOnset": {
+                    "value": "Adult"
+                }
+            }
+        ],
+        "TypeOfInheritances": {
+            "TypeOfInheritance": [
+                {
+                    "value": "Mitochondrial inheritance"
+                }
+            ]
+        }
+    }
+}

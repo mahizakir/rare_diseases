@@ -1,0 +1,132 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "597738",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "597738",
+        "Label": "Luscan-Lumish syndrome",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_597738",
+        "DisorderType": {
+            "value": "Malformation syndrome",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377789"
+        },
+        "Synonyms": [
+            {
+                "Synonym": "SETD2-related overgrowth syndrome"
+            }
+        ],
+        "ExternalReferences": [
+            {
+                "Source": "OMIM",
+                "Reference": "616831",
+                "DisorderMappingRelation": "E (Exact mapping: the two concepts are equivalent)"
+            }
+        ],
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "A rare genetic multiple congenital anomalies/dysmorphic syndrome characterized by a variable phenotype including macrocephaly postnatal overgrowth advanced carpal ossification obesity speech delay intellectual disability autism spectrum disorders and behavioral difficulties with aggressive outbursts and variable facial dysmorphism. Seizures structural abnormalities of the brain as well as a variety of other manifestations such as recurrent otitis media joint hypermobility hirsutism or naevi have also been reported."
+        },
+        "Genes": [
+            {
+                "Gene": {
+                    "Symbol": "SETD2",
+                    "Name": "SET domain containing 2, histone lysine methyltransferase",
+                    "ExternalReferences": [
+                        {
+                            "Source": "OMIM",
+                            "Reference": "612778"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "18420"
+                        },
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "SETD2"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            }
+        ],
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "93460",
+                        "Label": "Overgrowth syndrome"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "102283",
+                        "Label": "Multiple congenital anomalies/dysmorphic syndrome-intellectual disability"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "498448",
+                        "Label": "Overgrowth or tall stature syndrome with skeletal involvement"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "611327",
+                        "Label": "Genetic multiple congenital anomalies/dysmorphic syndrome-intellectual disability"
+                    }
+                ]
+            }
+        ],
+        "Prevalences": [
+            {
+                "Prevalence": {
+                    "Source": "31643139[PMID]_33248444[PMID]",
+                    "PrevalenceType": "Point prevalence",
+                    "PrevalenceQualification": "Class only",
+                    "PrevalenceClass": "<1 / 1 000 000",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            },
+            {
+                "Prevalence": {
+                    "Source": "31643139[PMID]_33248444[PMID]",
+                    "PrevalenceType": "Cases/families",
+                    "PrevalenceQualification": "Case(s)",
+                    "PrevalenceClass": "no data",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            }
+        ],
+        "AverageAgeOfOnsets": [
+            {
+                "AverageAgeOfOnset": {
+                    "value": "Antenatal"
+                }
+            },
+            {
+                "AverageAgeOfOnset": {
+                    "value": "Childhood"
+                }
+            },
+            {
+                "AverageAgeOfOnset": {
+                    "value": "Infancy"
+                }
+            },
+            {
+                "AverageAgeOfOnset": {
+                    "value": "Neonatal"
+                }
+            }
+        ]
+    }
+}

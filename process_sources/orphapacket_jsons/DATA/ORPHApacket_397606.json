@@ -1,0 +1,115 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "397606",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "397606",
+        "Label": "PrP systemic amyloidosis",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_397606",
+        "DisorderType": {
+            "value": "Disease",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377788"
+        },
+        "Synonyms": [
+            {
+                "Synonym": "Chronic diarrhea with HSAN"
+            },
+            {
+                "Synonym": "Chronic diarrhea with hereditary sensory and autonomic neuropathy"
+            },
+            {
+                "Synonym": "Prion protein systemic amyloidosis"
+            }
+        ],
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "A rare autosomal dominant neurological disorder due to truncation mutations of the prion protein gene <i>PRNP</i> (20p13) leading to deposition of prion protein amyloid. Onset is usually in the fourth decade of life and reported clinical manifestations include diarrhea nausea autonomic failure (areflexia weakness) neurogenic bladder and urinary infections."
+        },
+        "Genes": [
+            {
+                "Gene": {
+                    "Symbol": "PRNP",
+                    "Name": "prion protein (Kanno blood group)",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "PRNP"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "9449"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "176640"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            }
+        ],
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "117569",
+                        "Label": "Rare intestinal disease"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "140474",
+                        "Label": "Autosomal dominant hereditary sensory and autonomic neuropathy"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "280400",
+                        "Label": "Inherited human prion disease"
+                    }
+                ]
+            }
+        ],
+        "Prevalences": [
+            {
+                "Prevalence": {
+                    "Source": "ORPHANET_25623792[PMID]",
+                    "PrevalenceType": "Point prevalence",
+                    "PrevalenceQualification": "Class only",
+                    "PrevalenceClass": "<1 / 1 000 000",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            },
+            {
+                "Prevalence": {
+                    "Source": "25623792[PMID]",
+                    "PrevalenceType": "Cases/families",
+                    "PrevalenceQualification": "Case(s)",
+                    "PrevalenceClass": "no data",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            }
+        ],
+        "AverageAgeOfOnsets": {
+            "AverageAgeOfOnset": [
+                {
+                    "value": "Adult"
+                }
+            ]
+        },
+        "TypeOfInheritances": {
+            "TypeOfInheritance": [
+                {
+                    "value": "Autosomal dominant"
+                }
+            ]
+        }
+    }
+}

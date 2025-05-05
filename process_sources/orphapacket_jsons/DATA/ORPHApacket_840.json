@@ -1,0 +1,165 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "840",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "840",
+        "Label": "Syringocystadenoma papilliferum",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_840",
+        "DisorderType": {
+            "value": "Disease",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377788"
+        },
+        "Synonyms": [
+            {
+                "Synonym": "Fistulous vegetative verrucous hydradenoma"
+            },
+            {
+                "Synonym": "Naevus syringocystadenomatosus papilliferus"
+            },
+            {
+                "Synonym": "Papillary syringocystadenoma"
+            },
+            {
+                "Synonym": "SCAP"
+            },
+            {
+                "Synonym": "Syringadenoma papilliferum"
+            }
+        ],
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "A rare non-malignant adnexal neoplasm that originates from the apocrine or eccrine sweat glands and is characterized histologically by cystic papillary and ductal invaginations into the dermis lined by double-layered outer cuboidal and luminal high columnar epithelium and connected to the epidermis. Dilated capillaries and a dense infiltrate of plasma cells are characteristic. Clinically lesions are asymptomatic with a heterogeneous non-distinctive appearance ranging from skin-colored to pink papules or plaques occurring most commonly in the head and neck area."
+        },
+        "Genes": [
+            {
+                "Gene": {
+                    "Symbol": "BRAF",
+                    "Name": "B-Raf proto-oncogene, serine/threonine kinase",
+                    "ExternalReferences": [
+                        {
+                            "Source": "HGNC",
+                            "Reference": "1097"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "164757"
+                        },
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "BRAF"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing somatic mutation(s) in"
+                }
+            }
+        ],
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "183487",
+                        "Label": "Genetic skin tumor or hamartoma"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "79386",
+                        "Label": "Rare skin tumor or hamartoma"
+                    }
+                ]
+            }
+        ],
+        "Phenotypes": [
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0001482",
+                    "HPOTerm": "Subcutaneous nodule",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0002209",
+                    "HPOTerm": "Sparse scalp hair",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0008066",
+                    "HPOTerm": "Abnormal blistering of the skin",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0010815",
+                    "HPOTerm": "Nevus sebaceous",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0200034",
+                    "HPOTerm": "Papule",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            }
+        ],
+        "Prevalences": [
+            {
+                "Prevalence": {
+                    "Source": "16418676[PMID]_EXPERT",
+                    "PrevalenceType": "Cases/families",
+                    "PrevalenceQualification": "Case(s)",
+                    "PrevalenceClass": "no data",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            },
+            {
+                "Prevalence": {
+                    "Source": "16418676[PMID]_EXPERT_ORPHANET",
+                    "PrevalenceType": "Point prevalence",
+                    "PrevalenceQualification": "Class only",
+                    "PrevalenceClass": "Unknown",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            }
+        ],
+        "AverageAgeOfOnsets": [
+            {
+                "AverageAgeOfOnset": {
+                    "value": "Adolescent"
+                }
+            },
+            {
+                "AverageAgeOfOnset": {
+                    "value": "Childhood"
+                }
+            },
+            {
+                "AverageAgeOfOnset": {
+                    "value": "Infancy"
+                }
+            },
+            {
+                "AverageAgeOfOnset": {
+                    "value": "Neonatal"
+                }
+            }
+        ],
+        "TypeOfInheritances": {
+            "TypeOfInheritance": [
+                {
+                    "value": "Unknown"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "47044",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "47044",
+        "Label": "Hereditary papillary renal cell carcinoma",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_47044",
+        "DisorderType": {
+            "value": "Disease",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377788"
+        },
+        "Synonyms": [
+            {
+                "Synonym": "HPRC"
+            }
+        ],
+        "ExternalReferences": [
+            {
+                "Source": "OMIM",
+                "Reference": "605074",
+                "DisorderMappingRelation": "E (Exact mapping: the two concepts are equivalent)"
+            }
+        ],
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "A rare familial renal cancer syndrome characterized by a predisposition for developing bilateral and multifocal classic type papillary renal cell carcinomas (formerly known as type 1 papillary renal cell carcinoma until the 2022 WHO classification of renal tumors)."
+        },
+        "Genes": [
+            {
+                "Gene": {
+                    "Symbol": "MET",
+                    "Name": "MET proto-oncogene, receptor tyrosine kinase",
+                    "ExternalReferences": [
+                        {
+                            "Source": "HGNC",
+                            "Reference": "7029"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "164860"
+                        },
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "MET"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            }
+        ],
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "319328",
+                        "Label": "Inherited renal cancer-predisposing syndrome"
+                    }
+                ]
+            }
+        ],
+        "AverageAgeOfOnsets": {
+            "AverageAgeOfOnset": [
+                {
+                    "value": "Adult"
+                }
+            ]
+        },
+        "TypeOfInheritances": {
+            "TypeOfInheritance": [
+                {
+                    "value": "Autosomal dominant"
+                }
+            ]
+        }
+    }
+}

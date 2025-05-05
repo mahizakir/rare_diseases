@@ -1,0 +1,37 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "576379",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "576379",
+        "Label": "Iatrogenic Creutzfeldt-Jakob disease",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_576379",
+        "DisorderType": {
+            "value": "Disease",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377788"
+        },
+        "Synonyms": [
+            {
+                "Synonym": "Iatrogenic MCJ"
+            },
+            {
+                "Synonym": "iCJD"
+            }
+        ],
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "A rare acquired human prion disease characterized by progressive invariably fatal neurodegeneration resulting from accidental transmission of CJD prions in the course of medical procedures or treatments (treatment with human pituitary growth hormone or gonadotrophin human dura mater or corneal graft exposure to contaminated neurosurgical instruments). Patients present rapidly progressive cognitive impairment as well as myoclonus visual or cerebellar problems pyramidal or extrapyramidal features and/or akinetic mutism. EEG examination may show characteristic generalized periodic sharp wave complexes. Neuropathologic analysis reveals spongiform change neuronal loss and gliosis and deposition of abnormal prion protein."
+        },
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "454700",
+                        "Label": "Acquired Creutzfeldt-Jakob disease"
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,164 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "425120",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "425120",
+        "Label": "STING-associated vasculopathy with onset in infancy",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_425120",
+        "DisorderType": {
+            "value": "Disease",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377788"
+        },
+        "Synonyms": [
+            {
+                "Synonym": "SAVI"
+            }
+        ],
+        "ExternalReferences": [
+            {
+                "Source": "OMIM",
+                "Reference": "615934",
+                "DisorderMappingRelation": "E (Exact mapping: the two concepts are equivalent)"
+            }
+        ],
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "STING-associated vasculopathy with onset in infancy (SAVI) is a rare genetic autoinflammatory disorder type I interferonopathy due to constitutive STING (STimulator of INterferon Genes) activation characterized by neonatal or infantile onset systemic inflammation and small vessel vasculopathy resulting in severe skin pulmonary and joint lesions. Patients present with intermittent low-grade fever recurrent cough and failure to thrive in association with progressive interstitial lung disease polyarthritis and violaceous scaling lesions on fingers toes nose cheeks and ears (which are exacerbated by cold exposure) that often progress to chronic acral ulceration necrosis and autoamputation."
+        },
+        "Genes": [
+            {
+                "Gene": {
+                    "Symbol": "STING1",
+                    "Name": "stimulator of interferon response cGAMP interactor 1",
+                    "ExternalReferences": [
+                        {
+                            "Source": "HGNC",
+                            "Reference": "27962"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "612374"
+                        },
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "TMEM173"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) (gain of function) in"
+                }
+            }
+        ],
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "622720",
+                        "Label": "Genetic autoinflammatory syndrome with skin involvement"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "233655",
+                        "Label": "Rare genetic vascular disease"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "477647",
+                        "Label": "Type 1 interferonopathy"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "156610",
+                        "Label": "Rare genetic respiratory disease"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "101944",
+                        "Label": "Rare pulmonary disease"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "156146",
+                        "Label": "Predominantly small-vessel vasculitis"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "290842",
+                        "Label": "Autoinflammatory syndrome with skin involvement"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "481671",
+                        "Label": "Type 1 interferonopathy of childhood"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "280369",
+                        "Label": "Rare pediatric vasculitis"
+                    }
+                ]
+            }
+        ],
+        "Prevalences": [
+            {
+                "Prevalence": {
+                    "Source": "ORPHANET_25401470[PMID]_25029335[PMID]",
+                    "PrevalenceType": "Point prevalence",
+                    "PrevalenceQualification": "Class only",
+                    "PrevalenceClass": "<1 / 1 000 000",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            },
+            {
+                "Prevalence": {
+                    "Source": "25401470[PMID]_25029335[PMID]",
+                    "PrevalenceType": "Cases/families",
+                    "PrevalenceQualification": "Case(s)",
+                    "PrevalenceClass": "no data",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            }
+        ],
+        "AverageAgeOfOnsets": {
+            "AverageAgeOfOnset": [
+                {
+                    "value": "Infancy"
+                }
+            ]
+        },
+        "TypeOfInheritances": {
+            "TypeOfInheritance": [
+                {
+                    "value": "Autosomal dominant"
+                }
+            ]
+        }
+    }
+}

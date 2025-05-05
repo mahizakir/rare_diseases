@@ -1,0 +1,167 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "98963",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "98963",
+        "Label": "Granular corneal dystrophy type II",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_98963",
+        "DisorderType": {
+            "value": "Disease",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377788"
+        },
+        "Synonyms": [
+            {
+                "Synonym": "Avellino corneal dystrophy"
+            },
+            {
+                "Synonym": "GCD2"
+            },
+            {
+                "Synonym": "GCDII"
+            },
+            {
+                "Synonym": "Granular corneal dystrophy type 2"
+            },
+            {
+                "Synonym": "Granular-lattice corneal dystrophy"
+            }
+        ],
+        "ExternalReferences": [
+            {
+                "Source": "OMIM",
+                "Reference": "607541",
+                "DisorderMappingRelation": "E (Exact mapping: the two concepts are equivalent)"
+            }
+        ],
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "Type II granular corneal dystrophy (GCDII) is a rare form of stromal corneal dystrophy (see this term) characterized by irregular-shaped well-demarcated granular deposits in the superficial central corneal stroma and progressive visual impairment."
+        },
+        "Genes": [
+            {
+                "Gene": {
+                    "Symbol": "TGFBI",
+                    "Name": "transforming growth factor beta induced",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "TGFBI"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "11771"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "601692"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            }
+        ],
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "98626",
+                        "Label": "Stromal corneal dystrophy"
+                    }
+                ]
+            }
+        ],
+        "Phenotypes": [
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000531",
+                    "HPOTerm": "Corneal crystals",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0007802",
+                    "HPOTerm": "Granular corneal dystrophy",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0011493",
+                    "HPOTerm": "Central opacification of the cornea",
+                    "HPOFrequency": "Very frequent (99-80%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000505",
+                    "HPOTerm": "Visual impairment",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0007663",
+                    "HPOTerm": "Reduced visual acuity",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0007759",
+                    "HPOTerm": "Opacification of the corneal stroma",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0008039",
+                    "HPOTerm": "Subepithelial corneal opacities",
+                    "HPOFrequency": "Frequent (79-30%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000495",
+                    "HPOTerm": "Recurrent corneal erosions",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            },
+            {
+                "Phenotype": {
+                    "HPOId": "HP:0000622",
+                    "HPOTerm": "Blurred vision",
+                    "HPOFrequency": "Occasional (29-5%)"
+                }
+            }
+        ],
+        "Prevalences": {
+            "Prevalence": [
+                {
+                    "Source": "ORPHANET",
+                    "PrevalenceType": "Point prevalence",
+                    "PrevalenceQualification": "Class only",
+                    "PrevalenceClass": "Unknown",
+                    "ValMoy": "0.0",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            ]
+        },
+        "AverageAgeOfOnsets": {
+            "AverageAgeOfOnset": [
+                {
+                    "value": "Childhood"
+                }
+            ]
+        },
+        "TypeOfInheritances": {
+            "TypeOfInheritance": [
+                {
+                    "value": "Autosomal dominant"
+                }
+            ]
+        }
+    }
+}

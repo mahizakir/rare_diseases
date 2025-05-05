@@ -1,0 +1,107 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "508501",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "508501",
+        "Label": "Oral-facial-digital syndrome with short stature and brachymesophalangy",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_508501",
+        "DisorderType": {
+            "value": "Malformation syndrome",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377789"
+        },
+        "Synonyms": [
+            {
+                "Synonym": "OFD18"
+            },
+            {
+                "Synonym": "Oral-facial-digital syndrome type 18"
+            },
+            {
+                "Synonym": "Orofaciodigital syndrome type 18"
+            }
+        ],
+        "ExternalReferences": [
+            {
+                "Source": "OMIM",
+                "Reference": "617927",
+                "DisorderMappingRelation": "E (Exact mapping: the two concepts are equivalent)"
+            }
+        ],
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "A rare ciliopathy characterized by oral anomalies (multiple oral frenula missing incisors) facial dysmorphism (such as square face with small forehead upslanting palpebral fissures and cleft lip among other features) digital anomalies (brachydactyly brachymesophalangy polydactyly) and short stature. Additional reported manifestations include short femoral neck bilateral cervical ribs abnormal vertebral bodies and gracile long bones."
+        },
+        "Genes": [
+            {
+                "Gene": {
+                    "Symbol": "IFT57",
+                    "Name": "intraflagellar transport 57",
+                    "ExternalReferences": [
+                        {
+                            "Source": "HGNC",
+                            "Reference": "17367"
+                        },
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "IFT57"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "606621"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            }
+        ],
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "363250",
+                        "Label": "Ciliopathy"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "140997",
+                        "Label": "Orofaciodigital syndrome"
+                    }
+                ]
+            }
+        ],
+        "Prevalences": [
+            {
+                "Prevalence": {
+                    "Source": "27060890[PMID]",
+                    "PrevalenceType": "Cases/families",
+                    "PrevalenceQualification": "Case(s)",
+                    "PrevalenceClass": "no data",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            },
+            {
+                "Prevalence": {
+                    "Source": "ORPHANET_27060890[PMID]",
+                    "PrevalenceType": "Point prevalence",
+                    "PrevalenceQualification": "Class only",
+                    "PrevalenceClass": "<1 / 1 000 000",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            }
+        ],
+        "AverageAgeOfOnsets": {
+            "AverageAgeOfOnset": [
+                {
+                    "value": "Neonatal"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "206470",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "206470",
+        "Label": "Cystadenoma of childhood",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_206470",
+        "DisorderType": {
+            "value": "Disease",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377788"
+        },
+        "Synonyms": [
+            {
+                "Synonym": "Cystadenoma of ovary in childhood"
+            }
+        ],
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "A benign epithelial ovarian tumor characterized by a usually unilateral cystic unilocular or multilocular lesion with a thin wall or septa and no intracystic solid portion on imaging. It often presents with abdominal pain or an asymptomatic abdominal mass and can be associated with ovarian torsion or malignant transformation."
+        },
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "97293",
+                        "Label": "Rare benign ovarian tumor"
+                    }
+                ]
+            }
+        ],
+        "Childs": [],
+        "AverageAgeOfOnsets": {
+            "AverageAgeOfOnset": [
+                {
+                    "value": "Childhood"
+                }
+            ]
+        }
+    }
+}

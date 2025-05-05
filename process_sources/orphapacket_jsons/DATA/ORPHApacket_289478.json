@@ -1,0 +1,101 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "289478",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "289478",
+        "Label": "PASH syndrome",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_289478",
+        "DisorderType": {
+            "value": "Disease",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377788"
+        },
+        "Synonyms": [
+            {
+                "Synonym": "Pyoderma gangrenosum-acne-suppurative hidradenitis syndrome"
+            }
+        ],
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "A rare skin disease belonging to the spectrum of autoinflammatory syndromes characterized by the triad of pyoderma gangrenosum (PG) suppurative hidradenitis (SH) and acne."
+        },
+        "Genes": [
+            {
+                "Gene": {
+                    "Symbol": "NCSTN",
+                    "Name": "nicastrin",
+                    "ExternalReferences": [
+                        {
+                            "Source": "HGNC",
+                            "Reference": "17091"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "605254"
+                        },
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "NCSTN"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            }
+        ],
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "653434",
+                        "Label": "Autoinflammatory syndrome with acne and/or hidradenitis suppurativa"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "652510",
+                        "Label": "Genetic autoinflammatory syndrome with acne and/or hidradenitis suppurativa"
+                    }
+                ]
+            }
+        ],
+        "Prevalences": [
+            {
+                "Prevalence": {
+                    "Source": "ORPHANET_28696038[PMID]",
+                    "PrevalenceType": "Point prevalence",
+                    "PrevalenceQualification": "Class only",
+                    "PrevalenceClass": "<1 / 1 000 000",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            },
+            {
+                "Prevalence": {
+                    "Source": "28696038[PMID]",
+                    "PrevalenceType": "Cases/families",
+                    "PrevalenceQualification": "Case(s)",
+                    "PrevalenceClass": "no data",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            }
+        ],
+        "AverageAgeOfOnsets": {
+            "AverageAgeOfOnset": [
+                {
+                    "value": "Adult"
+                }
+            ]
+        },
+        "TypeOfInheritances": {
+            "TypeOfInheritance": [
+                {
+                    "value": "No data available"
+                }
+            ]
+        }
+    }
+}

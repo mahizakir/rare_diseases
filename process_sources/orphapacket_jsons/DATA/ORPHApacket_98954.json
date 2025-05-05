@@ -1,0 +1,141 @@
+{
+    "Orphapacket": {
+        "ORPHApacketId": "98954",
+        "creationDate": "2024-12-03 10:13:55",
+        "version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+        "copyright": "Orphanet (c) 2024",
+        "ORPHAcode": "98954",
+        "Label": "Meesmann corneal dystrophy",
+        "PURL": "http://www.orpha.net/ORDO/Orphanet_98954",
+        "DisorderType": {
+            "value": "Disease",
+            "PURL": "http://www.orpha.net/ORDO/Orphanet_377788"
+        },
+        "Synonyms": [
+            {
+                "Synonym": "Juvenile hereditary epithelial dystrophy of Meesmann"
+            },
+            {
+                "Synonym": "MECD"
+            }
+        ],
+        "ExternalReferences": [
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "618767",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            },
+            {
+                "ExternalReference": {
+                    "Source": "OMIM",
+                    "Reference": "122100",
+                    "DisorderMappingRelation": "BTNT (ORPHAcode is broader than the targeted code used to represent it)"
+                }
+            }
+        ],
+        "TextSection": {
+            "TextSectionType": "Definition",
+            "Contents": "Meesmann corneal dystrophy (MECD) is a rare form of superficial corneal dystrophy characterized by distinct tiny bubble-like round-to-oval punctate bilateral opacities in the central corneal epithelium and to a lesser extent in the peripheral cornea with little impact on vision."
+        },
+        "Genes": [
+            {
+                "Gene": {
+                    "Symbol": "KRT12",
+                    "Name": "keratin 12",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "KRT12"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "6414"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "601687"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            },
+            {
+                "Gene": {
+                    "Symbol": "KRT3",
+                    "Name": "keratin 3",
+                    "ExternalReferences": [
+                        {
+                            "Source": "ClinVar",
+                            "Reference": "KRT3"
+                        },
+                        {
+                            "Source": "HGNC",
+                            "Reference": "6440"
+                        },
+                        {
+                            "Source": "OMIM",
+                            "Reference": "148043"
+                        }
+                    ],
+                    "DisorderGeneAssociationType": "Disease-causing germline mutation(s) in"
+                }
+            }
+        ],
+        "Parents": [
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "522562",
+                        "Label": "Genetic superficial corneal dystrophy"
+                    }
+                ]
+            },
+            {
+                "Parent": [
+                    {
+                        "ORPHAcode": "98625",
+                        "Label": "Superficial corneal dystrophy"
+                    }
+                ]
+            }
+        ],
+        "Prevalences": [
+            {
+                "Prevalence": {
+                    "Source": "ORPHANET",
+                    "PrevalenceType": "Cases/families",
+                    "PrevalenceQualification": "Case(s)",
+                    "PrevalenceClass": "no data",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            },
+            {
+                "Prevalence": {
+                    "Source": "ORPHANET",
+                    "PrevalenceType": "Point prevalence",
+                    "PrevalenceQualification": "Class only",
+                    "PrevalenceClass": "<1 / 1 000 000",
+                    "ValMoy": "no data",
+                    "PrevalenceGeographic": "Worldwide"
+                }
+            }
+        ],
+        "AverageAgeOfOnsets": {
+            "AverageAgeOfOnset": [
+                {
+                    "value": "Childhood"
+                }
+            ]
+        },
+        "TypeOfInheritances": {
+            "TypeOfInheritance": [
+                {
+                    "value": "Autosomal dominant"
+                }
+            ]
+        }
+    }
+}
