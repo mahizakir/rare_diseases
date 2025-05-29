@@ -2,10 +2,10 @@ import os
 import pandas as pd
 
 # === CONFIGURATION === 
-disease_name =  "Zimmermann-Laband syndrome" #"pachydermoperiostosis" 
+disease_name = "Zimmermann-Laband syndrome" #"Nelson syndrome" #"GNE myopathy"
+#"Endocrine-cerebro-osteodysplasia syndrome" #"Bilateral adrenal hemorrhage" #"Adenine phosphoribosyltransferase deficiency" #"pachydermoperiostosis" 
 #"Nelson syndrome"  #"Nance-Horan syndrome" #"Mabry syndrome" 
-#"Endocrine-cerebro-osteodysplasia syndrome" #"Adenine phosphoribosyltransferase deficiency"
-#"Acral persistent papular mucinosis"
+
 
 input_csv = "files_not_added_in_db/final_" + disease_name + ".csv"  # ← Change to the path of the new CSV
 
