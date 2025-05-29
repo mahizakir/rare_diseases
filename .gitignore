@@ -1,2 +1,3 @@
 *.txt
 8_neo4j_processing/final_relations.csv
+8_neo4j_processing/db_files/
